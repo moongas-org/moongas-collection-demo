@@ -1,0 +1,48 @@
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Mediascan package install dirs
+**/moongas-mediascan-go
+**/moongas-mediascan-python
+**/moongas-mediatest-python-pytest
+**/moongas-mediascripts-python
+**/moongas-mediatunes-svc-python-blacksheep
+**/moongas-mediatunes-web-vue
+
+# Mediascan output files
+**/mediascan-files.yml
+**/mediascan-artists.yml
+**/mediascan.db
+
+# bakup files
+**/*.bak
+
+# Scripts
+artist-countries-*
+artist-csv-*
+artist-yaml-*
+convert-*
+copy-*
+generate-*
+genre-*
+list-*
+make-*
+mediastats
+mediatest
+mediatunes-svc
+mediatunes-web
+play-rand-file-*
+rename-album-*
+restart-*
+scan-*
+set-active-collection-*
+show-env
+update-*
+upload-*

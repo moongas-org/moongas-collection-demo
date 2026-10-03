@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/moongas-*-*": true,
+    },
+    "chat.tools.terminal.autoApprove": {
+        "/^ruby -e 'require \"yaml\"; YAML\\.load_file\\(\"data/Music/Aphex Twin/artist\\.yml\"\\); puts \"YAML parsed successfully\"'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    },
+    "chat.agent.allowedNetworkDomains": [
+        "*"
+    ],
+    "chat.permissions.default": "autoApprove",
+    "github.copilot.chat.summarizeAgentConversationHistory.enabled": false,
+    "python.analysis.typeCheckingMode": "strict"
+}

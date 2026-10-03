@@ -1,0 +1,86 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v4
+
+      - name: Check out moongas-mediascan-go
+        uses: actions/checkout@v4
+        with:
+          repository: 'moongas-org/moongas-mediascan-go'
+          path: 'moongas-mediascan-go'
+
+      - name: Check out moongas-mediascan-python
+        uses: actions/checkout@v4
+        with:
+          repository: 'moongas-org/moongas-mediascan-python'
+          path: 'moongas-mediascan-python'
+
+      - name: Check out moongas-mediatest-python-pytest
+        uses: actions/checkout@v4
+        with:
+          repository: 'moongas-org/moongas-mediatest-python-pytest'
+          path: 'moongas-mediatest-python-pytest'
+
+      - name: Check out moongas-mediascripts-python
+        uses: actions/checkout@v4
+        with:
+          repository: 'moongas-org/moongas-mediascripts-python'
+          path: 'moongas-mediascripts-python'
+
+      - name: Check out moongas-mediatunes-svc-python-blacksheep
+        uses: actions/checkout@v4
+        with:
+          repository: 'moongas-org/moongas-mediatunes-svc-python-blacksheep'
+          path: 'moongas-mediatunes-svc-python-blacksheep'
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Build and Install Go Module
+        run: |
+          cd moongas-mediascan-go
+          go install ./...
+
+      - name: Run Go scan-to-artists-yaml
+        run: |
+          go -C "$GITHUB_WORKSPACE/moongas-mediascan-go" run ./cmd/scan-to-artists-yaml "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan-artists.yml" "$GITHUB_WORKSPACE"
+
+      - name: Upload mediascan-artists.yml artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mediascan-artists
+          path: ${{ github.workspace }}/mediascan-artists.yml
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Upgrade Pip
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Install Local Python Packages
+        run: |
+          python -m pip install pandas-stubs
+          python -m pip install -e ./moongas-mediascan-python
+          python -m pip install -e ./moongas-mediatest-python-pytest
+          python -m pip install -e ./moongas-mediascripts-python
+          python -m pip install -e ./moongas-mediatunes-svc-python-blacksheep
+
+
+      - name: Run mediatest on moongas-collection
+        run: |
+          python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_media_files" "$GITHUB_WORKSPACE/mediatest-config.yml"
