@@ -15,21 +15,42 @@ trackIdData:
     - id: ba4f6134-f665-42c4-93d6-4592b2fa0727
       recordings:
       - id: c33d6710-5b8b-44be-b094-17660a107d24
-        isrcs: []
+        isrcs: &id001
+        - USCH30100102
+        title: Pretty Baby
+        length: 201506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-08'
       score: 0.99050635
     - id: 90ec260b-4b13-42b5-ae07-5dbf7fa5c9df
       recordings:
       - id: c33d6710-5b8b-44be-b094-17660a107d24
-        isrcs: []
+        isrcs: *id001
+        title: Pretty Baby
+        length: 201506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-08'
       score: 0.91913897
     - id: 310a1715-157f-4e01-8960-6b2357e91090
       recordings:
       - id: c33d6710-5b8b-44be-b094-17660a107d24
-        isrcs: []
+        isrcs: *id001
+        title: Pretty Baby
+        length: 201506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-08'
       score: 0.8809335
     - id: 92728c90-7199-4cf9-af73-b54ab8f83ba0
       recordings:
       - id: c33d6710-5b8b-44be-b094-17660a107d24
-        isrcs: []
+        isrcs: *id001
+        title: Pretty Baby
+        length: 201506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-08'
       score: 0.87734044
     status: ok

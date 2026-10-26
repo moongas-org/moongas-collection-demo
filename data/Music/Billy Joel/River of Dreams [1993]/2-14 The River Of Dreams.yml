@@ -15,29 +15,91 @@ trackIdData:
     - id: 1e0de68a-5894-4a3c-9d32-41ee94f87444
       recordings:
       - id: 31257944-0e31-4acc-9a97-736cb24f8e7c
-        isrcs: []
+        isrcs:
+        - GBAKW7100110
+        - USMC19549960
+        title: (Nothing Is Everything) Let’s See Action
+        length: 239066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971'
       - id: 3eaa3df6-4f84-4dbc-a1af-3ea350ed922b
-        isrcs: []
+        isrcs: &id001
+        - USSM11100825
+        - USSM19300280
+        title: The River of Dreams
+        length: 247200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-07-23'
       - id: 4a655b7c-a33a-4b79-914e-6d8bcc15cc7f
-        isrcs: []
+        isrcs: &id002
+        - USSM20100436
+        title: The River of Dreams
+        length: 250000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 4ddc8e28-44e5-4bcb-9fb2-33ddf7761c56
         isrcs: []
+        title: The River of Dreams
+        length: 249400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: ba6af8b4-0657-4247-bb00-dba3fce13b66
         isrcs: []
+        title: The River of Dreams
+        length: 247000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       score: 0.9827268
     - id: 1a1a0e18-dc36-4b1d-9777-8a05f31dcc21
       recordings:
       - id: 3eaa3df6-4f84-4dbc-a1af-3ea350ed922b
-        isrcs: []
+        isrcs: *id001
+        title: The River of Dreams
+        length: 247200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-07-23'
       - id: 4a655b7c-a33a-4b79-914e-6d8bcc15cc7f
-        isrcs: []
+        isrcs: *id002
+        title: The River of Dreams
+        length: 250000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 4ddc8e28-44e5-4bcb-9fb2-33ddf7761c56
         isrcs: []
+        title: The River of Dreams
+        length: 249400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: 6ae57f15-d396-4833-9882-e01251411ea2
         isrcs: []
+        title: The River of Dreams
+        length: 235893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: 9a1c3e68-814f-4c98-955b-7a3e20904d4f
-        isrcs: []
+        isrcs:
+        - USSM19300280
+        title: The River of Dreams
+        length: 245893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-11-16'
       - id: e207fd7f-95e9-4985-bf75-eac34750c3c0
-        isrcs: []
+        isrcs:
+        - USSM19300280
+        title: The River of Dreams
+        length: 245893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2025-07-26'
       score: 0.97336495
     status: ok

@@ -15,23 +15,66 @@ trackIdData:
     - id: 6374c3e4-5b1f-4650-9be5-9c12b6b12447
       recordings:
       - id: 288bf8f9-0d1b-46f3-828a-022149d29807
-        isrcs: []
+        isrcs: &id001
+        - USCH39200018
+        title: Mama’s Always on Stage
+        length: 205733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       - id: 9733eb6e-a3e5-45b9-a5f8-a55ebee2384e
-        isrcs: []
+        isrcs: &id002
+        - USCH39200018
+        title: Mama’s Always on Stage
+        length: 205800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-03-03'
       - id: 9d561dcf-0098-4d4a-b7c5-2b63483426d3
         isrcs: []
+        title: Mama's Always on Stage
+        length: 202000
+        video: false
+        disambiguation: live, 1993
+        firstReleaseDate: '1996'
       score: 0.9776833
     - id: aabde0cb-65d1-454c-9d4d-d19865cc2c3d
       recordings:
       - id: 288bf8f9-0d1b-46f3-828a-022149d29807
-        isrcs: []
+        isrcs: *id001
+        title: Mama’s Always on Stage
+        length: 205733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       - id: 6474aa16-614d-4792-a987-7025235669ae
         isrcs: []
+        title: Mama’s Always on Stage
+        length: 205933
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 742b88be-6257-4485-920d-3c83a0fa740c
         isrcs: []
+        title: Mama’s Always on Stage
+        length: 201333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-03-23'
       - id: 9733eb6e-a3e5-45b9-a5f8-a55ebee2384e
-        isrcs: []
+        isrcs: *id002
+        title: Mama’s Always on Stage
+        length: 205800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-03-03'
       - id: f160d361-0494-4f81-9bbf-bc674a58ee2d
-        isrcs: []
+        isrcs:
+        - USCH30100131
+        title: Mama's Always on Stage
+        length: 199946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-29'
       score: 0.96927744
     status: ok

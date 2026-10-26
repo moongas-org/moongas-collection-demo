@@ -16,18 +16,53 @@ trackIdData:
       recordings:
       - id: 252ee3ef-f3ae-4237-a018-8ec6ece04ec5
         isrcs: []
+        title: Black Sabbath
+        length: 381026
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 32c9447f-81a9-4a29-926c-01b4edc6a5d8
         isrcs: []
+        title: Black Sabbath
+        length: 371000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970'
       - id: 533d5cbb-3ec6-4226-994b-844bc2173ac3
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601266
+        - GBAJE7000076
+        - USWB10202635
+        - USWB11304612
+        - USWB19900789
+        title: Black Sabbath
+        length: 379893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970-02-13'
       score: 0.9854298
     - id: 4c0a2f6e-7370-4853-82f5-ae8ac8a198a5
       recordings:
       - id: 533d5cbb-3ec6-4226-994b-844bc2173ac3
-        isrcs: []
+        isrcs: *id001
+        title: Black Sabbath
+        length: 379893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970-02-13'
       - id: 93fbff51-f699-4250-81d9-b55709c7d7f4
         isrcs: []
+        title: Black Sabbath
+        length: 377000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015'
       - id: c2027e78-61a0-41a3-a834-cbe9c4751f30
         isrcs: []
+        title: Black Sabbath (live in Dallas, May 12th 1982)
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-06-02'
       score: 0.9619264
     status: ok

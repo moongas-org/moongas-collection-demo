@@ -16,24 +16,72 @@ trackIdData:
       recordings:
       - id: 49df11a6-cdef-4197-8d08-71672f9accdc
         isrcs: []
+        title: I Bet You Look Good on the Dancefloor
+        length: 175000
+        video: false
+        disambiguation: Beneath the Boardwalk version
+        firstReleaseDate: '2004'
       - id: 65bd21b7-1c3a-4a69-948a-6eef5dd346f6
         isrcs: []
+        title: I Bet You Look Good on the Dancefloor
+        length: 171933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-09-09'
       - id: 8be141c2-eeed-415c-9ecf-2a4d76ea78f9
         isrcs: []
+        title: I Bet You Look Good on the Dancefloor
+        length: 178000
+        video: true
+        disambiguation: ''
+        firstReleaseDate:
       - id: 8cf67713-5af7-4672-9313-87ff283f816b
-        isrcs: []
+        isrcs:
+        - GBCEL0501006
+        title: I Bet You Look Good on the Dancefloor
+        length: 173000
+        video: false
+        disambiguation: single version
+        firstReleaseDate: '2005-10-17'
       - id: a32a4924-bd0a-4b72-9dfc-77c7c86d61b9
         isrcs: []
+        title: I Bet You Look Good on the Dancefloor
+        length: 173453
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: ab1121c4-ae09-4378-b282-ad9f70cedd65
-        isrcs: []
+        isrcs:
+        - GBUM70600294
+        title: I Bet You Look Good on the Dancefloor (Arctic Babes mix)
+        length: 166000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-03-06'
       - id: ea191e9f-8cfd-4603-93ee-eee156d680ec
         isrcs: []
+        title: I Bet You Look Good on the Dancefloor
+        length: 180000
+        video: false
+        disambiguation: 'live, 2007-06-22: Glastonbury, UK'
+        firstReleaseDate:
       - id: f5e93176-0829-4823-a5be-3333e226824b
-        isrcs: []
+        isrcs: &id001
+        - GBCEL0501181
+        title: I Bet You Look Good on the Dancefloor
+        length: 173680
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005-05-10'
       score: 0.9776173
     - id: 668e6586-933c-4629-90b8-973fb210ecb5
       recordings:
       - id: f5e93176-0829-4823-a5be-3333e226824b
-        isrcs: []
+        isrcs: *id001
+        title: I Bet You Look Good on the Dancefloor
+        length: 173680
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005-05-10'
       score: 0.83580565
     status: ok

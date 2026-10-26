@@ -15,11 +15,22 @@ trackIdData:
     - id: a607bbd0-1d71-4f5b-a02f-21cff4d0e781
       recordings:
       - id: d7a44a99-5e9b-4151-b650-65f6cc3d50dd
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9300128
+        title: Bronchus 2
+        length: 213373
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-29'
       score: 0.9878033
     - id: e5cd678c-9a51-4ed4-aedf-311668601243
       recordings:
       - id: d7a44a99-5e9b-4151-b650-65f6cc3d50dd
-        isrcs: []
+        isrcs: *id001
+        title: Bronchus 2
+        length: 213373
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-29'
       score: 0.9065137
     status: ok

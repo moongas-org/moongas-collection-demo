@@ -15,11 +15,22 @@ trackIdData:
     - id: 86eb7c4f-de4b-4679-a16b-1c77feb3c3b1
       recordings:
       - id: e5e5e3c9-8515-4abf-aebb-7529b4e9aa0b
-        isrcs: []
+        isrcs: &id001
+        - BEZ350800022
+        title: Xtal
+        length: 294053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.99542505
     - id: 06335ac2-72de-4c14-951b-eb38251ff719
       recordings:
       - id: e5e5e3c9-8515-4abf-aebb-7529b4e9aa0b
-        isrcs: []
+        isrcs: *id001
+        title: Xtal
+        length: 294053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.88083017
     status: ok

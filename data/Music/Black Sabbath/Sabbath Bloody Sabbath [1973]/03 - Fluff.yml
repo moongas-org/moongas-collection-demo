@@ -16,14 +16,37 @@ trackIdData:
       recordings:
       - id: 82e20893-e848-45dc-ab10-42acaeaaaa8e
         isrcs: []
+        title: Black Sabbath – Fluff (live in Fresno, April 18th 1982)
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-06-02'
       - id: b5f87837-e67b-4ce4-8499-b49c06bd792b
         isrcs: []
+        title: Fluff
+        length: 249640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: fc98929a-062c-4dd8-900d-5947d7ee0921
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1602025
+        - USWB11304637
+        - USWB19901301
+        title: Fluff
+        length: 249360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-11
       score: 0.98424315
     - id: 548a182d-5d68-4d79-8dcc-857dff84ab15
       recordings:
       - id: fc98929a-062c-4dd8-900d-5947d7ee0921
-        isrcs: []
+        isrcs: *id001
+        title: Fluff
+        length: 249360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-11
       score: 0.9465981
     status: ok

@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 33802452-a10f-444b-b4a4-45baa30a0752
         isrcs: []
+        title: Ready to Start
+        length: 256000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       - id: ab205556-92b9-4c89-adec-0a9dbce7b43f
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021615
+        title: Ready to Start
+        length: 255906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: ed9af997-d332-42c3-806c-e951c2487811
         isrcs: []
+        title: Ready to Start
+        length: 255000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       score: 0.98450685
     - id: c3a53c2a-137c-449b-b01b-86db9c24bea6
       recordings:
       - id: ab205556-92b9-4c89-adec-0a9dbce7b43f
-        isrcs: []
+        isrcs: *id001
+        title: Ready to Start
+        length: 255906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.9478837
     status: ok

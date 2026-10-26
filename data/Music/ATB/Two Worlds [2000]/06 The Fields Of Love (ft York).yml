@@ -16,30 +16,94 @@ trackIdData:
       recordings:
       - id: 2ec6f5b8-7de1-4a4f-9b42-38ff26399bfb
         isrcs: []
+        title: The Fields of Love
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 45e5a011-0a23-4279-89ce-8ec1a635e841
         isrcs: []
+        title: The Fields of Love
+        length: 220000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       - id: 59ef981e-0831-4313-9f73-0887d0c2427b
-        isrcs: []
+        isrcs: &id001
+        - DEN060000185
+        title: The Fields of Love
+        length: 223720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       - id: 64e55b24-a254-420b-b073-d5861d7c75b4
         isrcs: []
+        title: The Fields of Love
+        length: 221240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2000-12
       - id: 783c01a7-7273-4cd8-aa84-233f8a746333
         isrcs: []
+        title: The Fields of Love (airplay mix)
+        length: 214000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-01-08'
       - id: 7d66ad22-823b-4718-8c2f-34ec578b0002
         isrcs: []
+        title: The Fields of Love
+        length: 224000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019'
       - id: 916ed232-e3b5-4341-96a8-901bbcede07b
         isrcs: []
+        title: The Fields of Love (airplay mix)
+        length: 221666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: aaa563a7-e975-4676-8ea3-aae25d32610f
         isrcs: []
+        title: The Fields Of Love
+        length: 224000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: ab891cf2-1fef-45a1-8955-af4ee5f9410f
-        isrcs: []
+        isrcs:
+        - DEN060500181
+        - DEN060500192
+        title: The Fields of Love
+        length: 223546
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2001'
       - id: adc7e541-450d-4cc2-b690-887978b50f49
-        isrcs: []
+        isrcs:
+        - DEN060000206
+        title: The Fields of Love (airplay mix)
+        length: 224386
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-09'
       - id: f35f73b2-3710-4476-8c7b-ca8bede09946
         isrcs: []
+        title: The Fields of Love (airplay mix)
+        length: 224386
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-11-27'
       score: 0.9702993
     - id: 87849119-9abd-4ec5-96bf-f2aed9c35877
       recordings:
       - id: 59ef981e-0831-4313-9f73-0887d0c2427b
-        isrcs: []
+        isrcs: *id001
+        title: The Fields of Love
+        length: 223720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.9630472
     status: ok

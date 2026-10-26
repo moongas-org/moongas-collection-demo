@@ -15,11 +15,22 @@ trackIdData:
     - id: 2ac76385-0fc0-4eea-b9c1-75b1815441dc
       recordings:
       - id: eb79a18d-79b4-4a6e-88cb-d0814e02186d
-        isrcs: []
+        isrcs: &id001
+        - NLA320219667
+        title: Slit Wrist Theory
+        length: 241333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       score: 0.9771229
     - id: e42da183-3e04-4f38-acfc-4b51e5339e55
       recordings:
       - id: eb79a18d-79b4-4a6e-88cb-d0814e02186d
-        isrcs: []
+        isrcs: *id001
+        title: Slit Wrist Theory
+        length: 241333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       score: 0.7566258
     status: ok

@@ -16,25 +16,67 @@ trackIdData:
       recordings:
       - id: 7dccc438-f4e7-40a1-b447-2601677015f5
         isrcs: []
+        title: Union City Blue (original single version)
+        length: 198000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1979-11
       - id: 89f6ccf5-b372-452a-be9a-555eaf56bea1
         isrcs: []
+        title: Union City Blue (’79 single version)
+        length: 201560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-05-29'
       - id: f9ec8faa-8719-43e3-b996-913e8c4a962c
-        isrcs: []
+        isrcs: &id001
+        - USCH30100062
+        - USCH37900003
+        title: Union City Blue
+        length: 200093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1979-09-28'
       score: 0.97082675
     - id: 78a75a66-3e26-470b-a2db-399a9a9f00a4
       recordings:
       - id: 1660464b-e02f-48f7-879a-2658fa502541
         isrcs: []
+        title: Union City Blue
+        length: 173429
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '1981'
       - id: 7dccc438-f4e7-40a1-b447-2601677015f5
         isrcs: []
+        title: Union City Blue (original single version)
+        length: 198000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1979-11
       - id: 89f6ccf5-b372-452a-be9a-555eaf56bea1
         isrcs: []
+        title: Union City Blue (’79 single version)
+        length: 201560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-05-29'
       - id: f9ec8faa-8719-43e3-b996-913e8c4a962c
-        isrcs: []
+        isrcs: *id001
+        title: Union City Blue
+        length: 200093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1979-09-28'
       score: 0.966871
     - id: e8fa3e76-b0fc-4b59-a547-cd1e5c3ad959
       recordings:
       - id: f9ec8faa-8719-43e3-b996-913e8c4a962c
-        isrcs: []
+        isrcs: *id001
+        title: Union City Blue
+        length: 200093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1979-09-28'
       score: 0.63894385
     status: ok

@@ -15,29 +15,94 @@ trackIdData:
     - id: dcfd3d1a-be2e-4dce-97f4-3da9d1fe6ed3
       recordings:
       - id: 2b03e9e9-0593-448d-898f-9a79c91cec34
-        isrcs: []
+        isrcs: &id001
+        - GBAJE0506765
+        - USSM10000363
+        - USSM10207844
+        - USSM17700024
+        - USSM17700714
+        - USSM19802247
+        title: Lovely Day
+        length: 251000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-12
       - id: 57a55643-4374-4787-81b2-ae653aa4ef7d
-        isrcs: []
+        isrcs: &id002
+        - USSM10311119
+        title: Lovely Day (remix)
+        length: 247400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988'
       score: 0.97929853
     - id: 461da02f-f172-4e04-a437-a7d1777496fb
       recordings:
       - id: 0d87cab5-9310-419e-af20-f3d75a22f83a
         isrcs: []
+        title: Homecoming
+        length: 238000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018'
       - id: 2b03e9e9-0593-448d-898f-9a79c91cec34
-        isrcs: []
+        isrcs: *id001
+        title: Lovely Day
+        length: 251000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-12
       - id: 32726e30-79fa-41ea-831b-565c74e2f3cf
-        isrcs: []
+        isrcs:
+        - USSM19909876
+        title: Lovely Day (12″ Sunshine mix)
+        length: 394000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988'
       - id: 551ba391-b9b4-4eb4-8683-859b186fbf3b
-        isrcs: []
+        isrcs:
+        - GB01A0800927
+        - GBDLQ0400019
+        title: Get Down on It
+        length: 255440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-04-21'
       - id: 57a55643-4374-4787-81b2-ae653aa4ef7d
-        isrcs: []
+        isrcs: *id002
+        title: Lovely Day (remix)
+        length: 247400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988'
       - id: 62897c41-7d95-43e1-ad70-dc232437b80d
         isrcs: []
+        title: Lovely Day
+        length: 251120
+        video: false
+        disambiguation: part of “Pacha Ibiza, 2” DJ-mix
+        firstReleaseDate: '2005-07-11'
       - id: b4a2031f-a04e-495b-9f35-e1d43dee97e2
         isrcs: []
+        title: You Know I’m No Good
+        length: 257000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018-06-01'
       - id: b9af8a35-3181-4cd3-a28e-2d4cb29994ff
         isrcs: []
+        title: Lovely Day
+        length:
+        video: false
+        disambiguation: 'part of “Grandmaster: 70s Soul” DJ‐mix'
+        firstReleaseDate:
       - id: c0a527f3-66f6-426e-bd5f-ff9d8f360d74
         isrcs: []
+        title: Circle of Seasons
+        length: 246000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018'
       score: 0.9707608
     status: ok

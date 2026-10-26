@@ -16,20 +16,64 @@ trackIdData:
       recordings:
       - id: 5609e973-5a14-4078-be85-d8bdc479534a
         isrcs: []
+        title: Small Axe
+        length: 233000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       - id: 8402708f-c3b5-4bc9-99b0-8a2d9326ffac
-        isrcs: []
+        isrcs:
+        - GBAJE7100234
+        - USA560702549
+        title: Small Axe
+        length: 236266
+        video: false
+        disambiguation: 1970 studio session
+        firstReleaseDate: '1970'
       - id: b05894f3-1668-4a50-9e2b-72357cf64c83
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7090008
+        - GBAAN7300133
+        - GBAJE7100234
+        - GBAJE7100996
+        - GBFWU0400176
+        - NLF050390259
+        title: Small Axe
+        length: 241200
+        video: false
+        disambiguation: 1973 re-recording
+        firstReleaseDate: '1973-10-19'
       - id: b5c0cb82-1470-489a-98f9-9975b50ca2cd
-        isrcs: []
+        isrcs:
+        - USA560686259
+        title: Small Axe
+        length: 224933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989'
       - id: e6618355-dfc0-4d95-b25b-6173f02f59f5
         isrcs: []
+        title: Small Axe
+        length: 243626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       score: 0.96423393
     - id: db9b6cfb-d4de-4c4e-9cda-dc743fb0e76d
       recordings:
       - id: 7d2a229e-7d91-45f6-b142-3f6550af0eba
         isrcs: []
+        title: Small Axe
+        length: 242905
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: b05894f3-1668-4a50-9e2b-72357cf64c83
-        isrcs: []
+        isrcs: *id001
+        title: Small Axe
+        length: 241200
+        video: false
+        disambiguation: 1973 re-recording
+        firstReleaseDate: '1973-10-19'
       score: 0.8265757
     status: ok

@@ -15,24 +15,62 @@ trackIdData:
     - id: 2863d494-cfbc-48c1-8ad7-3663f96d3acd
       recordings:
       - id: 23497a9f-c6d8-430c-af77-d51c42a7e844
-        isrcs: []
+        isrcs:
+        - USSM17500447
+        title: We’re All Alone
+        length: 252600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021'
       - id: b3d1aad0-d79e-4446-9448-d0538f4c6fc4
-        isrcs: []
+        isrcs: &id001
+        - USSM17500266
+        - USSM17500447
+        title: We’re All Alone
+        length: 252800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.9726068
     - id: 43c3603b-3752-4d38-9829-8e2970b68fb3
       recordings:
       - id: 6cbe1965-02ef-43ee-b757-20ef81efa8f6
         isrcs: []
+        title: We’re All Alone
+        length: 252173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: ac2417da-0c84-46b6-9f88-0cfe61ad0c99
         isrcs: []
+        title: We’re All Alone
+        length: 250866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: b3d1aad0-d79e-4446-9448-d0538f4c6fc4
-        isrcs: []
+        isrcs: *id001
+        title: We’re All Alone
+        length: 252800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.95863
     - id: 85db5f5e-40f2-40e9-9b3d-0202c8ac4b69
       recordings:
       - id: ac2417da-0c84-46b6-9f88-0cfe61ad0c99
         isrcs: []
+        title: We’re All Alone
+        length: 250866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: b3d1aad0-d79e-4446-9448-d0538f4c6fc4
-        isrcs: []
+        isrcs: *id001
+        title: We’re All Alone
+        length: 252800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.94689476
     status: ok

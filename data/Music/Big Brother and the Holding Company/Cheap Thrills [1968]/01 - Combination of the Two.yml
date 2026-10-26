@@ -16,25 +16,73 @@ trackIdData:
       recordings:
       - id: 5b98c089-450e-4d9a-ba4a-a38a81ca6930
         isrcs: []
+        title: Combination of the Two
+        length: 350373
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991'
       - id: 7592ba18-7c35-4a26-80ae-6a0a3f04b5bc
-        isrcs: []
+        isrcs:
+        - USSM16801238
+        title: Combination of the Two
+        length: 346494
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989'
       - id: 94184143-2867-4256-a907-8d3a9b579a4d
         isrcs: []
+        title: Combination of the Two (5.1 mix)
+        length: 353000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-07-30'
       - id: 9d8a95cb-e095-4112-9c7f-5a19f3c2c682
         isrcs: []
+        title: Combination of the Two
+        length: 351626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: ca9aa9ec-beea-47f1-ace4-87ab80ff294c
         isrcs: []
+        title: Combination of the Two
+        length: 350800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: dd5a96b7-a250-423a-89fe-6e902a2cff64
         isrcs: []
+        title: Combination of the Two
+        length: 348800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997-09-10'
       - id: ed3216c5-a716-4f7e-a7ea-d2431f9309fb
-        isrcs: []
+        isrcs: &id001
+        - USSM16801238
+        - USSM19920615
+        title: Combination of the Two
+        length: 348333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1968-08-17'
       score: 0.9731672
     - id: 32919166-8265-48d1-90d2-81eb68c19df5
       recordings:
       - id: ca9aa9ec-beea-47f1-ace4-87ab80ff294c
         isrcs: []
+        title: Combination of the Two
+        length: 350800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: ed3216c5-a716-4f7e-a7ea-d2431f9309fb
-        isrcs: []
+        isrcs: *id001
+        title: Combination of the Two
+        length: 348333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1968-08-17'
       score: 0.94373024
     - id: 20b9e791-4e03-45cd-b006-fad0d3a9e726
       score: 0.6688753

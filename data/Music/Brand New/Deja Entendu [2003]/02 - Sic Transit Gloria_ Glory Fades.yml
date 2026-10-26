@@ -15,15 +15,38 @@ trackIdData:
     - id: 669f6e5a-f190-4110-ac99-e3f6acfdb139
       recordings:
       - id: 040df5a2-2a4d-4f5d-a1ec-58063158581c
-        isrcs: []
+        isrcs:
+        - USRZR0389610
+        title: Good to Know That If I Ever Need Attention All I Have to Do Is 
+          Die
+        length: 420520
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-17'
       - id: 911a03be-d90e-4940-b8a3-245824ed913f
-        isrcs: []
+        isrcs: &id001
+        - USRZR0389602
+        title: Sic transit gloria… Glory Fades
+        length: 186493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-17'
       - id: cb52a4f3-b5c6-44f9-a082-6e88c4f50a0a
         isrcs: []
+        title: Sic transit gloria… Glory Fades
+        length: 192000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003'
       score: 0.98028743
     - id: 17d6c387-7442-45b1-ac21-2769536730a3
       recordings:
       - id: 911a03be-d90e-4940-b8a3-245824ed913f
-        isrcs: []
+        isrcs: *id001
+        title: Sic transit gloria… Glory Fades
+        length: 186493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-17'
       score: 0.7934467
     status: ok

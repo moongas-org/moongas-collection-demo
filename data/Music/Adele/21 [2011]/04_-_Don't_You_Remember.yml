@@ -15,30 +15,85 @@ trackIdData:
     - id: 7b82e695-c26c-4da1-b037-3a395e9b8d24
       recordings:
       - id: 0526202c-82ed-42c4-b7be-19df30de404c
-        isrcs: []
+        isrcs:
+        - GBBBN8300006
+        title: Have You Ever Seen the Rain?
+        length: 247973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1983-04-08'
       - id: 43af61f5-ccee-4a17-92d1-bbd0e82ec56b
-        isrcs: []
+        isrcs:
+        - GBBKS1100238
+        title: Don’t You Remember
+        length: 244000
+        video: false
+        disambiguation: 'live, 2011-09-22: Royal Albert Hall, London, UK'
+        firstReleaseDate: '2011-11-25'
       - id: 571f9f59-da73-4144-b439-f376b8ace39c
         isrcs: []
+        title: Don’t You Remember
+        length: 253000
+        video: false
+        disambiguation: 'live, 2011-07-07: The Roundhouse, London, United Kingdom'
+        firstReleaseDate: '2011-07-13'
       - id: 84035544-5b0e-4626-b69a-6aef2f950ab1
         isrcs: []
+        title: Don't You Remember
+        length: 247706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-10-12'
       - id: a2eb492c-4c42-436b-b07e-594d4277fc9b
         isrcs: []
+        title: Don’t You Remember
+        length: 280000
+        video: false
+        disambiguation: 'live, 2011‐04‐08: Paradiso FM, Amsterdam, Netherlands'
+        firstReleaseDate: '2011-04-28'
       - id: dc161c76-3659-448a-9941-ce9ec9e93528
         isrcs: []
+        title: Don’t You Remember
+        length: 240173
+        video: false
+        disambiguation: 'live, 2011-02-25: Morning Becomes Eclectic, KCRW-FM, Santa
+          Monica, CA, USA'
+        firstReleaseDate: '2011'
       - id: f5057d26-1aac-47fe-b766-18c5a28927b1
-        isrcs: []
+        isrcs: &id001
+        - GBBKS1000344
+        title: Don’t You Remember
+        length: 243200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.99858254
     - id: 0df7fd0a-e8e6-43f0-9ba7-f67d02526d50
       recordings:
       - id: dc161c76-3659-448a-9941-ce9ec9e93528
         isrcs: []
+        title: Don’t You Remember
+        length: 240173
+        video: false
+        disambiguation: 'live, 2011-02-25: Morning Becomes Eclectic, KCRW-FM, Santa
+          Monica, CA, USA'
+        firstReleaseDate: '2011'
       - id: f5057d26-1aac-47fe-b766-18c5a28927b1
-        isrcs: []
+        isrcs: *id001
+        title: Don’t You Remember
+        length: 243200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.9831883
     - id: a285ccf2-5003-4265-a90b-d98f2243de11
       recordings:
       - id: f5057d26-1aac-47fe-b766-18c5a28927b1
-        isrcs: []
+        isrcs: *id001
+        title: Don’t You Remember
+        length: 243200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.802413
     status: ok

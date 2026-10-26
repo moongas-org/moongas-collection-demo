@@ -15,11 +15,22 @@ trackIdData:
     - id: 21de08c2-ad99-46fd-9b80-dc3467c096cd
       recordings:
       - id: 7684b95a-e698-43d4-a44a-29a3d3dd3626
-        isrcs: []
+        isrcs: &id001
+        - QMP4J1400104
+        title: Suck My Left One
+        length: 146133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991'
       score: 0.9567181
     - id: 1c3f741b-407c-4db3-a3a8-d831ad3b43fd
       recordings:
       - id: 7684b95a-e698-43d4-a44a-29a3d3dd3626
-        isrcs: []
+        isrcs: *id001
+        title: Suck My Left One
+        length: 146133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991'
       score: 0.7045095
     status: ok

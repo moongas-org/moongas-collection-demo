@@ -15,11 +15,25 @@ trackIdData:
     - id: e04ee0e4-922a-41f5-9459-ea8fe6c77255
       recordings:
       - id: 91017f44-ac26-40ee-9fde-3a2ecb805084
-        isrcs: []
+        isrcs: &id001
+        - GB5KW2203257
+        - GBAHK0300058
+        - GBLGL1274289
+        - USA371099098
+        title: D.N.A.
+        length: 150466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.9528888
     - id: 9c312101-00c8-4835-9413-3fef23060ee9
       recordings:
       - id: 91017f44-ac26-40ee-9fde-3a2ecb805084
-        isrcs: []
+        isrcs: *id001
+        title: D.N.A.
+        length: 150466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.8571994
     status: ok

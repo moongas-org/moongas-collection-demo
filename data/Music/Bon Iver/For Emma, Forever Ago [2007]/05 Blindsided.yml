@@ -15,11 +15,23 @@ trackIdData:
     - id: fae87e05-1fa2-46d9-a258-a15f3db0560e
       recordings:
       - id: 649a3ffb-9247-4fc3-828b-7b552424e05e
-        isrcs: []
+        isrcs: &id001
+        - US38Y0800005
+        - US38Y0811505
+        title: Blindsided
+        length: 329266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-07-08'
       score: 0.99636316
     - id: 4f8bf61a-53cd-462a-8634-80c14f8405a7
       recordings:
       - id: 649a3ffb-9247-4fc3-828b-7b552424e05e
-        isrcs: []
+        isrcs: *id001
+        title: Blindsided
+        length: 329266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-07-08'
       score: 0.89214134
     status: ok

@@ -16,17 +16,45 @@ trackIdData:
       recordings:
       - id: 56e14757-4695-433d-9924-f67dd61b31d1
         isrcs: []
+        title: Can I Kick It? (Spirit mix)
+        length: 251000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: 7a84cef9-dc6c-4db2-80e8-3bfc78853093
-        isrcs: []
+        isrcs: &id001
+        - USJI10300400
+        - USJI11100231
+        title: Can I Kick It?
+        length: 252507
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.9673655
     - id: 3d63e7e4-4672-4178-b285-40c3dfbd3263
       recordings:
       - id: 413c5904-2a4f-4e0f-b7b6-d8526024d284
-        isrcs: []
+        isrcs:
+        - USJI19000005
+        title: If the Papes Come
+        length: 254000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-03-08'
       - id: 496e6cd9-9c31-44de-b0cb-50161a3efb79
         isrcs: []
+        title: Can I Kick It?
+        length: 231506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-04-01'
       - id: 7a84cef9-dc6c-4db2-80e8-3bfc78853093
-        isrcs: []
+        isrcs: *id001
+        title: Can I Kick It?
+        length: 252507
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.95365244
     - id: c180b862-acf8-40d9-beb9-7225a3a04d84
       score: 0.8165

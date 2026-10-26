@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 1b07851d-62ef-4ffd-a042-9f9c85d4a3c9
         isrcs: []
+        title: Let U Go (2005 Reworked)
+        length: 266000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: 740b967e-e2f8-44c1-8fff-445a4729b775
-        isrcs: []
+        isrcs: &id001
+        - DEN060500178
+        title: Let U Go (2005 reworked)
+        length: 264000
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       - id: b9c822d5-0c04-492f-9709-b508729ae47d
         isrcs: []
+        title: Let U Go
+        length: 266386
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009'
       score: 0.9700686
     - id: f778b064-18aa-4298-b8df-db9adf7cafa7
       recordings:
       - id: 740b967e-e2f8-44c1-8fff-445a4729b775
-        isrcs: []
+        isrcs: *id001
+        title: Let U Go (2005 reworked)
+        length: 264000
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       score: 0.5768394
     status: ok

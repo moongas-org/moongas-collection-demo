@@ -16,16 +16,43 @@ trackIdData:
       recordings:
       - id: 39cffc7d-d1ba-4ccb-b3cd-d72ab542e59d
         isrcs: []
+        title: Black Diamond Bay
+        length: 450173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       - id: 660f6f80-5217-447c-927b-ae500808441b
-        isrcs: []
+        isrcs:
+        - USSM10103242
+        title: Black Diamond Bay
+        length: 449000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       - id: be703d59-929f-46cd-bf67-db668748516d
-        isrcs: []
+        isrcs: &id001
+        - USSM10103242
+        title: Black Diamond Bay
+        length: 450066
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       score: 0.96875
     - id: fca1f862-c3ad-43a1-971a-5c3d54d62b3e
       recordings:
       - id: 39cffc7d-d1ba-4ccb-b3cd-d72ab542e59d
         isrcs: []
+        title: Black Diamond Bay
+        length: 450173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       - id: be703d59-929f-46cd-bf67-db668748516d
-        isrcs: []
+        isrcs: *id001
+        title: Black Diamond Bay
+        length: 450066
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       score: 0.9686086
     status: ok

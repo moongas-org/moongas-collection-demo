@@ -15,11 +15,22 @@ trackIdData:
     - id: c4681d3e-46b9-422c-af38-6d46f1867f2a
       recordings:
       - id: e1283ffe-cbe4-4467-960b-293479f35bb0
-        isrcs: []
+        isrcs: &id001
+        - GBAAA0500087
+        title: Final Sunset
+        length: 251666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1978-09
       score: 0.9722363
     - id: e9aca5f7-712c-4778-bebe-8fa43d3dd42b
       recordings:
       - id: e1283ffe-cbe4-4467-960b-293479f35bb0
-        isrcs: []
+        isrcs: *id001
+        title: Final Sunset
+        length: 251666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1978-09
       score: 0.9158303
     status: ok

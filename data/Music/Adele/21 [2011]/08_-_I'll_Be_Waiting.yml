@@ -15,19 +15,52 @@ trackIdData:
     - id: 4ed07772-4779-4903-843d-eb5c33d89d32
       recordings:
       - id: 40fe2d4d-cadc-4860-926b-1dacd650df72
-        isrcs: []
+        isrcs:
+        - GBBKS0800418
+        title: Many Shades of Black
+        length: 268093
+        video: false
+        disambiguation: 'live, 2008-03-20: The Hotel Cafe, Los Angeles, CA'
+        firstReleaseDate: '2008-01-28'
       - id: 7ece421d-9894-48e8-9617-4465cbf55a25
         isrcs: []
+        title: I’ll Be Waiting
+        length: 251000
+        video: false
+        disambiguation: 'live, 2011‐04‐08: Paradiso FM, Amsterdam, Netherlands'
+        firstReleaseDate: '2011-04-28'
       - id: dd2d2073-50c4-438a-91cc-a1fea1c81b12
-        isrcs: []
+        isrcs: &id001
+        - GBBKS1000345
+        title: I’ll Be Waiting
+        length: 241653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       - id: ed0d31ca-58e3-4196-95bc-f235516609fd
-        isrcs: []
+        isrcs:
+        - GBBKS1100237
+        title: I’ll Be Waiting
+        length: 236000
+        video: false
+        disambiguation: 'live, 2011-09-22: Royal Albert Hall, London, UK'
+        firstReleaseDate: '2011-11-25'
       - id: f6b88ecc-abba-47f1-9ec6-89b18ba7df10
         isrcs: []
+        title: I’ll Be Waiting
+        length:
+        video: true
+        disambiguation: video, live at the Royal Albert Hall 2011
+        firstReleaseDate: '2012'
       score: 0.98945147
     - id: 65a806d0-2858-43e8-8219-fe5fcff6f0df
       recordings:
       - id: dd2d2073-50c4-438a-91cc-a1fea1c81b12
-        isrcs: []
+        isrcs: *id001
+        title: I’ll Be Waiting
+        length: 241653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.6226293
     status: ok

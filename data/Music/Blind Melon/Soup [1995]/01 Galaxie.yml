@@ -15,14 +15,30 @@ trackIdData:
     - id: c8667950-8c80-4244-9cc8-e56e509ab0b1
       recordings:
       - id: c43ee188-0049-4eec-ba2e-0385c5edd2db
-        isrcs: []
+        isrcs: &id001
+        - USCA29500708
+        title: Hello Goodbye / Galaxie
+        length: 211133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-08-07'
       - id: d0a79671-fa35-465a-a7eb-c27b8c7f0c42
         isrcs: []
+        title: Galaxie
+        length:
+        video: true
+        disambiguation: Music video
+        firstReleaseDate:
       score: 0.9837487
     - id: d504f0b7-9fad-498b-9289-40f92ecc1823
       recordings:
       - id: c43ee188-0049-4eec-ba2e-0385c5edd2db
-        isrcs: []
+        isrcs: *id001
+        title: Hello Goodbye / Galaxie
+        length: 211133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-08-07'
       score: 0.8296743
     - id: 1f0220ed-5530-4a91-8040-afa969454ae0
       score: 0.6220662

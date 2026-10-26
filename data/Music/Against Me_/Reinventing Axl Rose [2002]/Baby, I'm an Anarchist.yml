@@ -15,11 +15,22 @@ trackIdData:
     - id: e19fe6f5-0874-48fc-b057-ddea04e551f9
       recordings:
       - id: cf648fbb-2d8c-43c1-a65e-ea37076fa262
-        isrcs: []
+        isrcs: &id001
+        - USFW41811009
+        title: Baby, I’m an Anarchist!
+        length: 160440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-02-02'
       score: 0.9643658
     - id: 73ba4339-7020-488d-973e-e75e2d909a98
       recordings:
       - id: cf648fbb-2d8c-43c1-a65e-ea37076fa262
-        isrcs: []
+        isrcs: *id001
+        title: Baby, I’m an Anarchist!
+        length: 160440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-02-02'
       score: 0.7716904
     status: ok

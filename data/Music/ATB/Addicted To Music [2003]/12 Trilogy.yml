@@ -16,23 +16,54 @@ trackIdData:
       recordings:
       - id: 41204000-c310-4b52-bfd9-3f1b62b64634
         isrcs: []
+        title: Trilogy
+        length: 212653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-12-01'
       - id: cc5d9820-ae3b-4c79-ae61-5aa24b801185
-        isrcs: []
+        isrcs: &id001
+        - DEN060300783
+        title: Trilogy
+        length: 214693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       score: 0.98523206
     - id: 210a1b6a-1207-447b-9072-8a33f0cc8566
       recordings:
       - id: 44a03312-c030-4d35-a9a9-af34514a545f
         isrcs: []
+        title: Triology
+        length: 206533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-11-24'
       - id: a6584124-95a2-4940-81dc-046c5fc147d2
         isrcs: []
+        title: Trilogy (original version)
+        length: 206840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-03-01'
       - id: cc5d9820-ae3b-4c79-ae61-5aa24b801185
-        isrcs: []
+        isrcs: *id001
+        title: Trilogy
+        length: 214693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       score: 0.97359574
     - id: 179d5bb7-f779-4b5c-b128-79728434963d
       score: 0.91597444
     - id: f5c4586f-ff98-4d45-a8f9-f1ded8a5f970
       recordings:
       - id: cc5d9820-ae3b-4c79-ae61-5aa24b801185
-        isrcs: []
+        isrcs: *id001
+        title: Trilogy
+        length: 214693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       score: 0.81035733
     status: ok

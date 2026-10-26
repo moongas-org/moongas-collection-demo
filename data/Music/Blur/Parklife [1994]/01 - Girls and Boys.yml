@@ -15,33 +15,94 @@ trackIdData:
     - id: f1fc63ee-b61a-4e1c-b9e2-42d30dcd80f5
       recordings:
       - id: 8a8909c0-291c-4643-977f-17d27f052154
-        isrcs: []
+        isrcs: &id001
+        - GBAYE9400144
+        - GBAYF9400002
+        title: Girls & Boys
+        length: 258840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-03-07'
       - id: 9e2d1a02-77da-4582-9024-39a9e8518e99
-        isrcs: []
+        isrcs:
+        - GBAYE1200597
+        - GBAYE1200980
+        - GBAYF9400013
+        title: Beard
+        length: 104880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-08-22'
       - id: 9ecfdb63-70ff-409d-aff6-bbb4e9e4ae06
-        isrcs: []
+        isrcs: &id002
+        - GBAYE1200574
+        - GBAYE1400783
+        - GBAYE9400144
+        - GBAYE9401164
+        title: Girls & Boys
+        length: 290400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-04-25'
       score: 0.98912185
     - id: ccec0abc-bbb9-4db2-8a94-616557ff6d2e
       recordings:
       - id: 8a8909c0-291c-4643-977f-17d27f052154
-        isrcs: []
+        isrcs: *id001
+        title: Girls & Boys
+        length: 258840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-03-07'
       - id: 9ecfdb63-70ff-409d-aff6-bbb4e9e4ae06
-        isrcs: []
+        isrcs: *id002
+        title: Girls & Boys
+        length: 290400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-04-25'
       - id: b7db38d4-040e-4726-be34-8561afac0674
-        isrcs: []
+        isrcs:
+        - GBAYE0902216
+        title: Girls & Boys
+        length: 301960
+        video: false
+        disambiguation: 'live, 2009-07-02: Hyde Park, London, UK'
+        firstReleaseDate: '2009-11-23'
       - id: f9ed5809-bcc7-4630-aaf2-bb4cf395a778
-        isrcs: []
+        isrcs:
+        - GBAYE1201839
+        title: Girls & Boys
+        length: 307413
+        video: false
+        disambiguation: 'live, 2012-08-12: Hyde Park, London, UK'
+        firstReleaseDate: '2012-08-13'
       score: 0.9884296
     - id: 6b84f13f-aa0f-4d13-a2ff-809400c89493
       recordings:
       - id: 48116266-af67-4ba4-a5d5-63ec14ba8fc3
         isrcs: []
+        title: Girls & Boys (instrumental)
+        length: 287000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: 9ecfdb63-70ff-409d-aff6-bbb4e9e4ae06
-        isrcs: []
+        isrcs: *id002
+        title: Girls & Boys
+        length: 290400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-04-25'
       score: 0.98812217
     - id: 970b509f-a3f0-4179-ab35-a0bd8edf6221
       recordings:
       - id: 9ecfdb63-70ff-409d-aff6-bbb4e9e4ae06
-        isrcs: []
+        isrcs: *id002
+        title: Girls & Boys
+        length: 290400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-04-25'
       score: 0.63479036
     status: ok

@@ -16,14 +16,36 @@ trackIdData:
       recordings:
       - id: 818a5312-d94e-4b9e-9246-dc2c92bdf067
         isrcs: []
+        title: The Regulator
+        length: 69000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: a8c7494d-e335-49a0-89c9-5fd579fe3165
         isrcs: []
+        title: The Regulator
+        length: 68000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       - id: fae73f28-3470-40a5-9dcc-b29770022a0b
-        isrcs: []
+        isrcs: &id001
+        - US29V0422304
+        - USFMA1900131
+        title: The Regulator
+        length: 67946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9869891
     - id: 63cd77b3-af4f-4f9c-b6e8-9c0514d24619
       recordings:
       - id: fae73f28-3470-40a5-9dcc-b29770022a0b
-        isrcs: []
+        isrcs: *id001
+        title: The Regulator
+        length: 67946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9849077
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: ead3716f-aff0-4db7-99c9-7b2c1144551a
       recordings:
       - id: 00ac5d0e-61bd-4da2-ab94-55a52db45683
-        isrcs: []
+        isrcs: &id001
+        - DEN060000174
+        title: Engrossing Moments
+        length: 222000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.9704971
     - id: 74188418-ef94-4575-9ac5-1ab10c62e741
       recordings:
       - id: 00ac5d0e-61bd-4da2-ab94-55a52db45683
-        isrcs: []
+        isrcs: *id001
+        title: Engrossing Moments
+        length: 222000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.9122824
     status: ok

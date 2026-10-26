@@ -15,11 +15,23 @@ trackIdData:
     - id: 06f99f14-ecdc-46f5-9d44-14ffede9d266
       recordings:
       - id: 7ed5687c-d006-4dd3-9780-9f7200dfe6f1
-        isrcs: []
+        isrcs: &id001
+        - GBAQH9400051
+        - GBBPW9300133
+        title: Lowride
+        length: 436000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-29'
       score: 0.9907168
     - id: ced85cf0-0760-4a11-b46d-ab483b77e884
       recordings:
       - id: 7ed5687c-d006-4dd3-9780-9f7200dfe6f1
-        isrcs: []
+        isrcs: *id001
+        title: Lowride
+        length: 436000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-29'
       score: 0.974908
     status: ok

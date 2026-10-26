@@ -15,16 +15,32 @@ trackIdData:
     - id: 621faf7f-e9a6-42f2-8cb1-5d3d0bab6193
       recordings:
       - id: 8fc2cc1d-1c6c-4fb6-9698-c3de7da4da6a
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1300037
+        title: Sundown
+        length: 136160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.9763977
     - id: d82531cf-eae5-4217-9ef4-9cf063f0c3de
       recordings:
       - id: 8fc2cc1d-1c6c-4fb6-9698-c3de7da4da6a
-        isrcs: []
+        isrcs: *id001
+        title: Sundown
+        length: 136160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.8649789
     - id: 6eef13c6-29d1-43d3-a903-be4eaeafc6f8
       recordings:
       - id: 8fc2cc1d-1c6c-4fb6-9698-c3de7da4da6a
-        isrcs: []
+        isrcs: *id001
+        title: Sundown
+        length: 136160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.7622863
     status: ok

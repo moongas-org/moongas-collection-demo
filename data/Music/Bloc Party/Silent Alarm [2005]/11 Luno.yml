@@ -16,22 +16,63 @@ trackIdData:
       recordings:
       - id: 1669acfe-bdcb-4271-b70e-095bcfecde67
         isrcs: []
+        title: Luno
+        length: 240000
+        video: true
+        disambiguation: 'live, 2005-07-01: Eurockéennes Festival, Belfort, France'
+        firstReleaseDate: '2005-10-17'
       - id: 1bc97965-fec0-4ea8-9066-29d2f0d992fb
         isrcs: []
+        title: Luno
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-14'
       - id: 97c708de-c01c-4dd7-b780-95ec1d432ee5
-        isrcs: []
+        isrcs: &id001
+        - GBDNH0400392
+        title: Luno
+        length: 237226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       score: 0.98173785
     - id: 7f308219-fefe-47b2-a753-9ea48d56c4b4
       recordings:
       - id: 10597489-0414-4a9d-a716-a65ce5c2dcb8
         isrcs: []
+        title: Luno
+        length: 240000
+        video: false
+        disambiguation: live, 2005-02-07
+        firstReleaseDate: '2010'
       - id: 1669acfe-bdcb-4271-b70e-095bcfecde67
         isrcs: []
+        title: Luno
+        length: 240000
+        video: true
+        disambiguation: 'live, 2005-07-01: Eurockéennes Festival, Belfort, France'
+        firstReleaseDate: '2005-10-17'
       - id: 1bc97965-fec0-4ea8-9066-29d2f0d992fb
         isrcs: []
+        title: Luno
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-14'
       - id: 2d8b1ca2-0493-4689-b5ef-47effe5e7d64
         isrcs: []
+        title: Luno
+        length:
+        video: true
+        disambiguation: live (God Bless Bloc Party)
+        firstReleaseDate: '2006-08-08'
       - id: 97c708de-c01c-4dd7-b780-95ec1d432ee5
-        isrcs: []
+        isrcs: *id001
+        title: Luno
+        length: 237226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       score: 0.97504616
     status: ok

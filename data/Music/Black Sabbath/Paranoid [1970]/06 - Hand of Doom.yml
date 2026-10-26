@@ -15,29 +15,92 @@ trackIdData:
     - id: 6b69b10f-bcc7-45e9-a611-b068f825fbe1
       recordings:
       - id: 0c29245b-9234-4197-856f-b413ab0d58c8
-        isrcs: []
+        isrcs:
+        - GBAJE8000083
+        title: Wicked World
+        length: 1135280
+        video: false
+        disambiguation: 'live, 1973‐03‐16: Rainbow Theatre, London, England, UK'
+        firstReleaseDate: 1980-07
       - id: 50ae2d42-166b-4dbf-afe6-05186d225d73
-        isrcs: []
+        isrcs:
+        - GBCBR1700226
+        title: Hand of Doom
+        length: 426853
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-11-03'
       - id: 535f59f7-a523-45ad-b5ee-4ca362eab336
-        isrcs: []
+        isrcs:
+        - GBAJE7000087
+        title: Hand of Doom
+        length: 428000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016-11-11'
       - id: 5541020c-f657-44b8-958f-a5e2c2a42e11
-        isrcs: []
+        isrcs: &id001
+        - AUXN22142438
+        - GB5KW1602023
+        - GBAJE7000087
+        - USWB11304632
+        - USWB19900217
+        title: Hand of Doom
+        length: 428000
+        video: false
+        disambiguation: original stereo studio mix
+        firstReleaseDate: '1970-09-18'
       - id: 58ef6a9d-4f78-41da-92a7-9cb54ecb3843
         isrcs: []
+        title: Hand of Doom
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970'
       - id: 629fed10-ee06-4a02-8ed4-8e1ed5c477e6
         isrcs: []
+        title: Hand of Doom
+        length: 429760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: 8b930bca-b351-4612-99e2-da239e5e82ea
         isrcs: []
+        title: Hand of Doom
+        length: 430000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970'
       score: 0.9699697
     - id: 360840f9-93b3-4858-8e5b-b9f43ff3e1a0
       recordings:
       - id: 5541020c-f657-44b8-958f-a5e2c2a42e11
-        isrcs: []
+        isrcs: *id001
+        title: Hand of Doom
+        length: 428000
+        video: false
+        disambiguation: original stereo studio mix
+        firstReleaseDate: '1970-09-18'
       - id: 58ef6a9d-4f78-41da-92a7-9cb54ecb3843
         isrcs: []
+        title: Hand of Doom
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970'
       - id: 629fed10-ee06-4a02-8ed4-8e1ed5c477e6
         isrcs: []
+        title: Hand of Doom
+        length: 429760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: 8b930bca-b351-4612-99e2-da239e5e82ea
         isrcs: []
+        title: Hand of Doom
+        length: 430000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970'
       score: 0.95437765
     status: ok

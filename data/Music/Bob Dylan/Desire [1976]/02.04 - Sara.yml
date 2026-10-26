@@ -16,23 +16,60 @@ trackIdData:
       recordings:
       - id: 9b44ad24-a90e-4ee6-a127-c8d2e7126dcd
         isrcs: []
+        title: Sara
+        length: 331600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       - id: a406b1cf-08eb-4543-a384-272383632295
-        isrcs: []
+        isrcs: &id001
+        - USSM10103243
+        title: Sara
+        length: 329546
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       score: 0.989819
     - id: 287edaed-b3cb-4cf6-9c58-942b40271962
       recordings:
       - id: 0758667f-f695-4a0e-a9f2-b2a9170433b0
-        isrcs: []
+        isrcs:
+        - USSM10103243
+        title: Sara
+        length: 331493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       - id: 9b44ad24-a90e-4ee6-a127-c8d2e7126dcd
         isrcs: []
+        title: Sara
+        length: 331600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       - id: a406b1cf-08eb-4543-a384-272383632295
-        isrcs: []
+        isrcs: *id001
+        title: Sara
+        length: 329546
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: ed861eb0-49aa-4619-9881-af8321b8c407
         isrcs: []
+        title: Sara
+        length: 330374
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1987'
       score: 0.9712223
     - id: ec35df16-7afa-4af7-9ed5-452ab8a2d929
       recordings:
       - id: a406b1cf-08eb-4543-a384-272383632295
-        isrcs: []
+        isrcs: *id001
+        title: Sara
+        length: 329546
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       score: 0.6649525
     status: ok

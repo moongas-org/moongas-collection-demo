@@ -15,18 +15,39 @@ trackIdData:
     - id: d64ebef2-e753-4c50-a426-100a0d66a37f
       recordings:
       - id: a4954cc5-7d34-449f-9850-517a7c9530e4
-        isrcs: []
+        isrcs: &id001
+        - USATO1400850
+        title: Sound & Color
+        length: 183000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       - id: b91e6a0d-5044-4e2f-9674-2a58bb43e72c
         isrcs: []
+        title: Sound & Color
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-22'
       score: 0.99831885
     - id: cc391d11-8e2d-4771-9669-4f1e1d400b3c
       recordings:
       - id: a4954cc5-7d34-449f-9850-517a7c9530e4
-        isrcs: []
+        isrcs: *id001
+        title: Sound & Color
+        length: 183000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       score: 0.8010285
     - id: c37fa7f2-8293-4370-99d4-63191a6be0c7
       recordings:
       - id: a4954cc5-7d34-449f-9850-517a7c9530e4
-        isrcs: []
+        isrcs: *id001
+        title: Sound & Color
+        length: 183000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       score: 0.6665018
     status: ok

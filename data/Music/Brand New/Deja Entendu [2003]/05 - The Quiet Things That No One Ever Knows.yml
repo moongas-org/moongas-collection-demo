@@ -15,16 +15,39 @@ trackIdData:
     - id: 6af3b4aa-9a05-4369-abab-041b747864f9
       recordings:
       - id: 495dcbf0-363b-4162-906d-c578a2992010
-        isrcs: []
+        isrcs:
+        - GBGPE0300111
+        - QZNWP2451359
+        title: The Quiet Things That No One Ever Knows (acoustic)
+        length: 249680
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-12-15'
       - id: 5200a67b-5822-47c8-940c-670ce79cb65d
-        isrcs: []
+        isrcs: &id001
+        - USRZR0389605
+        title: The Quiet Things That No One Ever Knows
+        length: 241640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-17'
       - id: c8d584f4-da70-462b-a25f-34bb4da36e28
         isrcs: []
+        title: The Quiet Things That No One Ever Knows
+        length: 243000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003'
       score: 0.9885285
     - id: af170c9b-ec0a-466c-b9b9-99db9a7fa54f
       recordings:
       - id: 5200a67b-5822-47c8-940c-670ce79cb65d
-        isrcs: []
+        isrcs: *id001
+        title: The Quiet Things That No One Ever Knows
+        length: 241640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-17'
       score: 0.9549051
     - id: bf18917b-daeb-412b-a85a-a533b5acd996
       score: 0.6164623

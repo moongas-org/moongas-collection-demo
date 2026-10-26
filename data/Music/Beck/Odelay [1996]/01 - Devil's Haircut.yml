@@ -16,19 +16,45 @@ trackIdData:
       recordings:
       - id: 5f31ffcc-c030-48a9-9c98-7338692e74b3
         isrcs: []
+        title: Salt in the Wound
+        length: 204000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-10-19'
       - id: 8dcf55b2-8ce0-4e93-a0b9-326fa8df1e0c
         isrcs: []
+        title: Devil’s Haircut
+        length:
+        video: false
+        disambiguation: 'live, 1999-04-19: Nakano Sun-Plaza, Tokyo, Japan'
+        firstReleaseDate: '1999'
       - id: b218b076-2ac7-476f-a749-ff0a774f10b1
-        isrcs: []
+        isrcs: &id001
+        - USGF19682301
+        title: Devils Haircut
+        length: 194226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-06-17'
       score: 0.9854212
     - id: 563ebdf9-efd0-4662-a4cd-a145dc50a54e
       recordings:
       - id: b218b076-2ac7-476f-a749-ff0a774f10b1
-        isrcs: []
+        isrcs: *id001
+        title: Devils Haircut
+        length: 194226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-06-17'
       score: 0.90262395
     - id: 10438cfe-5cd8-4cba-adf9-a40580fe308b
       recordings:
       - id: b218b076-2ac7-476f-a749-ff0a774f10b1
-        isrcs: []
+        isrcs: *id001
+        title: Devils Haircut
+        length: 194226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-06-17'
       score: 0.6521954
     status: ok

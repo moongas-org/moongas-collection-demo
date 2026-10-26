@@ -15,22 +15,55 @@ trackIdData:
     - id: 1d4b4495-507e-4e92-bf0d-7f6d699d1fe6
       recordings:
       - id: 04cd97c7-e3c5-42b5-9649-7595d94329ba
-        isrcs: []
+        isrcs:
+        - USME31600017
+        title: Madhouse
+        length: 245960
+        video: false
+        disambiguation: live
+        firstReleaseDate: '2016-02-26'
       - id: 49179648-2d11-4810-ac34-9d098f7b1ca6
         isrcs: []
+        title: Madhouse
+        length: 249000
+        video: false
+        disambiguation: 1984-12-09, rhythm track tape
+        firstReleaseDate: '2015-11-20'
       - id: 97f48942-f096-491e-85b3-7e0307307df9
         isrcs: []
+        title: Madhouse (Anthrax Cover)
+        length: 260000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-07-28'
       - id: ddc3ffaf-7cd7-4a47-b1ad-e474160a281b
-        isrcs: []
+        isrcs: &id001
+        - DEU240526250
+        - USIR20000364
+        title: Madhouse
+        length: 259200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985-10-30'
       score: 0.97165084
     - id: a5e00019-8992-4a83-a99e-ee3d57586007
       recordings:
       - id: ddc3ffaf-7cd7-4a47-b1ad-e474160a281b
-        isrcs: []
+        isrcs: *id001
+        title: Madhouse
+        length: 259200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985-10-30'
       score: 0.9346651
     - id: b9af4313-7fc7-40f9-bdda-0ef3a0a5adbc
       recordings:
       - id: ddc3ffaf-7cd7-4a47-b1ad-e474160a281b
-        isrcs: []
+        isrcs: *id001
+        title: Madhouse
+        length: 259200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985-10-30'
       score: 0.74320936
     status: ok

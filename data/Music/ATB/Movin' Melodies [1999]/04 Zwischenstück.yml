@@ -15,18 +15,35 @@ trackIdData:
     - id: 504dac29-06c4-46e7-af23-9ad9d48df442
       recordings:
       - id: cc7ca6ea-a983-4eb8-8a7c-2b0ed87b1a5b
-        isrcs: []
+        isrcs: &id001
+        - DED579903670
+        - DEN060301019
+        title: Zwischenstück
+        length: 58000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-04-26'
       score: 0.9893037
     - id: 07ae0766-8583-4278-85df-df2bca3f7cf0
       score: 0.9406506
     - id: 6986fd07-cb3b-45bc-a69e-11529f65d261
       recordings:
       - id: cc7ca6ea-a983-4eb8-8a7c-2b0ed87b1a5b
-        isrcs: []
+        isrcs: *id001
+        title: Zwischenstück
+        length: 58000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-04-26'
       score: 0.93948174
     - id: 9b07ba7c-1ffd-42d8-ba7d-d1bf1f8daac6
       recordings:
       - id: cc7ca6ea-a983-4eb8-8a7c-2b0ed87b1a5b
-        isrcs: []
+        isrcs: *id001
+        title: Zwischenstück
+        length: 58000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-04-26'
       score: 0.93762267
     status: ok

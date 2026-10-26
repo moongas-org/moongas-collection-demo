@@ -16,23 +16,60 @@ trackIdData:
       recordings:
       - id: 0d2b922e-2074-40a6-abf8-1a13f3d94912
         isrcs: []
+        title: Let U Go
+        length: 234000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 58261dcf-c14f-4f8d-a844-7d3e1cf0bf18
-        isrcs: []
+        isrcs: &id001
+        - DEN060000186
+        title: Let U Go
+        length: 235000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       - id: 98d77ff1-d60d-4a4c-95f9-972e9df02503
         isrcs: []
+        title: Let U Go
+        length: 230000
+        video: false
+        disambiguation: part of "DP Discoparade Compilation Estate 2001" DJ-mix
+        firstReleaseDate: '2001-06-08'
       - id: d914f084-c97b-47af-87ad-ace708f3ff84
         isrcs: []
+        title: Let U Go
+        length: 210013
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-06-18'
       - id: eff8df95-e112-4678-95ef-d0de68e40ed2
-        isrcs: []
+        isrcs:
+        - DEN060100327
+        title: Let U Go (airplay mix)
+        length: 210000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-05-14'
       score: 0.9923523
     - id: c9062b65-c57e-457b-a2ac-b368ff0f531a
       recordings:
       - id: 58261dcf-c14f-4f8d-a844-7d3e1cf0bf18
-        isrcs: []
+        isrcs: *id001
+        title: Let U Go
+        length: 235000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.98595726
     - id: 293ed0cb-937f-49ee-8b4a-6b63afd231e7
       recordings:
       - id: 58261dcf-c14f-4f8d-a844-7d3e1cf0bf18
-        isrcs: []
+        isrcs: *id001
+        title: Let U Go
+        length: 235000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.881277
     status: ok

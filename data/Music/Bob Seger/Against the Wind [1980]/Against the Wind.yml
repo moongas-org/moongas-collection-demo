@@ -16,30 +16,100 @@ trackIdData:
       recordings:
       - id: 0bb7a676-bb79-4a76-9cdf-7d8510dea9cb
         isrcs: []
+        title: Black Hole Sun (Acoustic)
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 4f53d4e8-1dea-416d-a548-61b3a5935954
-        isrcs: []
+        isrcs:
+        - USSM18300106
+        - USSM19932796
+        title: Separate Ways (Worlds Apart)
+        length: 326106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1983-02-01'
       - id: 52e7ee12-1ec8-4aa4-b81d-ce2b5a314537
-        isrcs: []
+        isrcs:
+        - USCA20300155
+        title: Against the Wind
+        length: 333720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016'
       - id: 539214f3-ecf4-40cd-ae3c-c4aab898d77d
-        isrcs: []
+        isrcs: &id001
+        - USCA21100711
+        title: Against the Wind
+        length: 329013
+        video: false
+        disambiguation: 'live, 1980-06-19: Detroit, MI, USA'
+        firstReleaseDate: '1981-09-01'
       - id: 869962a7-239c-423c-b2c7-16856b416eb6
         isrcs: []
+        title: Against The Wind (Unreleased Track)
+        length: 321000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       - id: 9ef009f6-f194-4315-903c-a06582459ea5
         isrcs: []
+        title: Against the Wind
+        length: 341000
+        video: false
+        disambiguation: 'live, 1980: Cobo Arena, Detroit, MI, USA'
+        firstReleaseDate: '2017'
       - id: b4e754c4-270f-437b-8522-13c6232a2c96
         isrcs: []
+        title: Mainstreet
+        length: 332640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: c76a6a6e-1861-4e7c-8ded-4f3247804328
-        isrcs: []
+        isrcs:
+        - USGF19141511
+        - USGF19941511
+        title: The Garden
+        length: 322160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-09-16'
       - id: d85a5c9e-a705-4f40-8210-a63fd116c446
-        isrcs: []
+        isrcs: &id002
+        - USCA20300155
+        - USCA29400800
+        - USHRD1123150
+        - USLIC0601868
+        title: Against the Wind
+        length: 333640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-02-25'
       score: 0.9703652
     - id: 4b56cba6-0b33-41c0-9f88-f6a15d7c8c17
       recordings:
       - id: 539214f3-ecf4-40cd-ae3c-c4aab898d77d
-        isrcs: []
+        isrcs: *id001
+        title: Against the Wind
+        length: 329013
+        video: false
+        disambiguation: 'live, 1980-06-19: Detroit, MI, USA'
+        firstReleaseDate: '1981-09-01'
       - id: 7458aa23-95f2-4e6d-9088-e36c93a22841
         isrcs: []
+        title: Against the Wind
+        length: 330093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       - id: d85a5c9e-a705-4f40-8210-a63fd116c446
-        isrcs: []
+        isrcs: *id002
+        title: Against the Wind
+        length: 333640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-02-25'
       score: 0.9622231
     status: ok

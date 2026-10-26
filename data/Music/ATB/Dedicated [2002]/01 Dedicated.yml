@@ -16,18 +16,50 @@ trackIdData:
       recordings:
       - id: 51bc5388-a31c-4a23-bff8-fdba0bbd875f
         isrcs: []
+        title: Dedicated
+        length: 257000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: b58fb2e1-aa55-47d6-ac94-d20049268323
         isrcs: []
+        title: Dedicated (original mix)
+        length: 255826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-11-05'
       - id: b5fcc0d5-59e4-42f9-a4bb-cdca32141c21
         isrcs: []
+        title: Dedicated
+        length: 254000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: eb1cdef8-bb67-4118-aedb-24c560f37750
-        isrcs: []
+        isrcs: &id001
+        - DEN060200495
+        title: Dedicated
+        length: 255880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-28'
       score: 0.9853639
     - id: febac7eb-b644-4e7d-afeb-df97511d4e58
       recordings:
       - id: eb1cdef8-bb67-4118-aedb-24c560f37750
-        isrcs: []
+        isrcs: *id001
+        title: Dedicated
+        length: 255880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-28'
       - id: ec1a18a7-defa-404d-93b1-c30d85e64907
-        isrcs: []
+        isrcs:
+        - DEN061700068
+        title: Heart of Stone
+        length: 224640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-04-21'
       score: 0.9815071
     status: ok

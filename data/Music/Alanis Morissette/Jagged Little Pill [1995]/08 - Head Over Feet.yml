@@ -16,43 +16,139 @@ trackIdData:
       recordings:
       - id: 1769103c-4804-4436-8765-e712038c1dc7
         isrcs: []
+        title: Head Over Feet
+        length: 263960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002'
       - id: 30624418-169b-4007-9b50-27414a63f5de
-        isrcs: []
+        isrcs: &id001
+        - USMV20500293
+        - USMV21500008
+        - USMV21500043
+        - USMV29900096
+        title: Head Over Feet
+        length: 265667
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       - id: 55dac663-b362-4d3d-99f6-ee7fe3b3b991
-        isrcs: []
+        isrcs: &id002
+        - USMV22000054
+        title: Head Over Feet
+        length: 265000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate: '2020-06-26'
       - id: cf7289e5-8d91-4a46-b9ba-905afd960632
         isrcs: []
+        title: Head Over Feet
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-04-26'
       - id: e2f19af3-5c94-478a-9f78-fa3d92105a59
-        isrcs: []
+        isrcs:
+        - USMV29900177
+        title: Head over Feet (Live / Unplugged)
+        length: 262560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-11-23'
       score: 0.99808806
     - id: c6ee8a7a-5d7c-40cc-85d6-b26cf7a8ecda
       recordings:
       - id: 2bd8153c-27dc-4abb-8ec7-4ea60dc775c5
         isrcs: []
+        title: Head Over Feet
+        length: 273000
+        video: true
+        disambiguation: MTV Unplugged, 1999
+        firstReleaseDate: '2004-09-27'
       - id: 2d3da70d-5de6-4fad-96cb-3c2086478242
-        isrcs: []
+        isrcs:
+        - GBCBR1300042
+        title: Head Over Feet
+        length: 275000
+        video: false
+        disambiguation: live, 2012
+        firstReleaseDate: '2013-04-22'
       - id: 30624418-169b-4007-9b50-27414a63f5de
-        isrcs: []
+        isrcs: *id001
+        title: Head Over Feet
+        length: 265667
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       - id: 55dac663-b362-4d3d-99f6-ee7fe3b3b991
-        isrcs: []
+        isrcs: *id002
+        title: Head Over Feet
+        length: 265000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate: '2020-06-26'
       - id: 6fb7379f-2a81-4997-ad5d-5117ab0a622b
-        isrcs: []
+        isrcs:
+        - USMV20500116
+        title: Head Over Feet
+        length: 257786
+        video: false
+        disambiguation: acoustic version
+        firstReleaseDate: '2005-05-24'
       - id: 72930b59-2fe0-414d-b384-d65897bd3cf5
-        isrcs: []
+        isrcs:
+        - USMV20500292
+        - USMV29800119
+        title: Thank U
+        length: 258773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1998-09
       - id: 9e5682b8-5c0d-4916-97e4-43e14f59d9a6
         isrcs: []
+        title: Head Over Feet
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: c99c9653-8f07-4fc9-b4e9-0455141ea4e3
-        isrcs: []
+        isrcs:
+        - USMV21500034
+        title: Head Over Feet
+        length: 263280
+        video: false
+        disambiguation: 'live, 1995‐09‐28: Subterranea, London, England, UK'
+        firstReleaseDate: '2015-10-29'
       - id: c9cfa315-0d81-41f3-a9be-93186ab61d3f
         isrcs: []
+        title: No Pressure
+        length:
+        video: false
+        disambiguation: 'live, 1996-04-02: Rolling Stone, Milan, Italy'
+        firstReleaseDate: '1996'
       - id: e8d8b0e7-c6ba-40f0-a411-42e4c24fc7f5
         isrcs: []
+        title: Head Over Feet
+        length:
+        video: true
+        disambiguation: live video 1995-04/1996-12
+        firstReleaseDate: '1997-09-08'
       score: 0.96334386
     - id: 7ad4ca8b-b2c6-4366-ad29-e750540e6305
       recordings:
       - id: 30624418-169b-4007-9b50-27414a63f5de
-        isrcs: []
+        isrcs: *id001
+        title: Head Over Feet
+        length: 265667
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       - id: e8d8b0e7-c6ba-40f0-a411-42e4c24fc7f5
         isrcs: []
+        title: Head Over Feet
+        length:
+        video: true
+        disambiguation: live video 1995-04/1996-12
+        firstReleaseDate: '1997-09-08'
       score: 0.73690605
     status: ok

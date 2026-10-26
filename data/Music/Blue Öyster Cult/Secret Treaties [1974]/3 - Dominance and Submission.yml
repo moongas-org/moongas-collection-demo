@@ -15,15 +15,37 @@ trackIdData:
     - id: c082b2fe-9237-4773-bf13-2b0613f89bf1
       recordings:
       - id: 7438423b-3096-474d-8294-5add465fbefc
-        isrcs: []
+        isrcs:
+        - USSM19911971
+        title: Dominance and Submission (4.0 mix)
+        length: 321000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016-09-09'
       - id: 986e5d93-52fb-4bb0-a82c-513c9ef565ab
-        isrcs: []
+        isrcs: &id001
+        - USSM19911971
+        title: Dominance and Submission
+        length: 322040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-04
       - id: bec23800-aae7-4497-a843-ff9dffd2a520
         isrcs: []
+        title: Dominance and Submission
+        length: 323000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       score: 0.95925635
     - id: 688566c2-bb72-4ab0-9b9c-fae36bf285d3
       recordings:
       - id: 986e5d93-52fb-4bb0-a82c-513c9ef565ab
-        isrcs: []
+        isrcs: *id001
+        title: Dominance and Submission
+        length: 322040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-04
       score: 0.83241034
     status: ok

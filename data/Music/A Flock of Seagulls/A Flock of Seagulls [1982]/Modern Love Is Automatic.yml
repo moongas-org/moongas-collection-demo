@@ -15,15 +15,38 @@ trackIdData:
     - id: e87f0332-e41c-4538-8ae3-88bc39cc1508
       recordings:
       - id: 95db6fdc-21cf-47b0-a542-ea686d26e9e7
-        isrcs: []
+        isrcs: &id001
+        - GB5KW2203249
+        - GBLGL1274287
+        title: Modern Love Is Automatic
+        length: 230626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9642669
     - id: 2ea18dac-768a-4f6c-850e-6d618ad84558
       recordings:
       - id: 331ab50d-abf9-4c4a-b8df-d95ebc82b9f5
-        isrcs: []
+        isrcs:
+        - GBAHK0300106
+        title: Modern Love Is Automatic
+        length: 224000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       - id: 95db6fdc-21cf-47b0-a542-ea686d26e9e7
-        isrcs: []
+        isrcs: *id001
+        title: Modern Love Is Automatic
+        length: 230626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: a2b31e1d-2bc1-4908-8d12-a9d7795c8830
         isrcs: []
+        title: Modern Love Is Automatic
+        length: 228000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2002-01
       score: 0.964168
     status: ok

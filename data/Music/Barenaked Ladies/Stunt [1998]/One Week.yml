@@ -15,21 +15,58 @@ trackIdData:
     - id: 8a1833c1-ec18-4065-9f80-69ee7f197980
       recordings:
       - id: 7c2541f2-2a79-4d13-af0c-3dd68e7b8f12
-        isrcs: []
+        isrcs: &id001
+        - USRE11200470
+        - USRE19800261
+        title: One Week
+        length: 169760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-07-07'
       score: 0.9795952
     - id: fc45a5da-f215-48b2-a012-bf88066b0440
       recordings:
       - id: 378baa4a-6171-451b-a4f1-a6a3b2498574
         isrcs: []
+        title: One Week
+        length: 161933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: 5b896dee-882a-4995-a673-68da588a9698
         isrcs: []
+        title: One Week
+        length: 167666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 69a6ae6b-7a5a-4fee-b284-ba8d71289e16
         isrcs: []
+        title: One Week
+        length: 170973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-07-12'
       - id: 7922e7f2-e585-4b22-b6b3-23121a0beba6
         isrcs: []
+        title: One Week
+        length: 182360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 7c2541f2-2a79-4d13-af0c-3dd68e7b8f12
-        isrcs: []
+        isrcs: *id001
+        title: One Week
+        length: 169760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-07-07'
       - id: 9e3a0f06-e543-4b32-a570-ce02a57ef4ff
         isrcs: []
+        title: One Week (acoustic)
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       score: 0.96786
     status: ok

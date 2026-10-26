@@ -15,22 +15,53 @@ trackIdData:
     - id: c485470f-ff49-4cdf-b464-cf08a9c3f282
       recordings:
       - id: 13965a79-d828-4d72-b995-0d239c6ee714
-        isrcs: []
+        isrcs: &id001
+        - USAN29600147
+        title: Little Bitty
+        length: 158824
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-10-29'
       - id: 5b4fa824-06b6-47fb-9cc1-efe2ffe06bf8
         isrcs: []
+        title: Itty Bitty
+        length: 161311
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-02-10'
       - id: fd554c56-9d97-4a91-b80c-250cb7efe538
         isrcs: []
+        title: Little Bitty
+        length: 152533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-04-18'
       score: 0.96821004
     - id: 2dfbe654-93e8-499b-ba09-29fe9ef69247
       recordings:
       - id: 13965a79-d828-4d72-b995-0d239c6ee714
-        isrcs: []
+        isrcs: *id001
+        title: Little Bitty
+        length: 158824
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-10-29'
       - id: fd554c56-9d97-4a91-b80c-250cb7efe538
         isrcs: []
+        title: Little Bitty
+        length: 152533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-04-18'
       score: 0.95510286
     - id: 6d47ae2e-eb02-455b-a326-76cb639962b6
       recordings:
       - id: 13965a79-d828-4d72-b995-0d239c6ee714
-        isrcs: []
+        isrcs: *id001
+        title: Little Bitty
+        length: 158824
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-10-29'
       score: 0.8096321
     status: ok

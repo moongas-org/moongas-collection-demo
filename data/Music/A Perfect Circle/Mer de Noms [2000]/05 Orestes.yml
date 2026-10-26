@@ -16,22 +16,67 @@ trackIdData:
       recordings:
       - id: 04d2780b-d8f4-4f98-a0b2-5e5833d289f1
         isrcs: []
+        title: Orestes
+        length: 288000
+        video: false
+        disambiguation: 'live, 2000-06-04: America West Arena, Phoenix, AZ, USA'
+        firstReleaseDate: '2000-05-23'
       - id: 3ab72ce2-2758-4a1c-aac3-4429ed4cf1af
         isrcs: []
+        title: Orestes
+        length:
+        video: false
+        disambiguation: 'live, 2001-03-27: Memorial Athletic and Convocation Center,
+          Kent, OH, USA'
+        firstReleaseDate:
       - id: 84bedce5-9609-411e-8b82-f19ec651d5eb
-        isrcs: []
+        isrcs: &id001
+        - QMEJX1300005
+        - USVI20000048
+        title: Orestes
+        length: 288000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: 8f47ef04-9e12-45ab-b8f1-2de306ed5dae
         isrcs: []
+        title: Orestes
+        length:
+        video: false
+        disambiguation: 'live, 1999-09-02: The Key Club, Hollywood, CA, USA'
+        firstReleaseDate:
       - id: c2624713-014f-495c-98f5-8e30abb95312
         isrcs: []
+        title: Orestes
+        length:
+        video: false
+        disambiguation: 'live, 1999-10-27: The Warfield Theatre, San Francisco, CA,
+          USA'
+        firstReleaseDate:
       - id: c3d5c9ac-70bd-4d8c-b932-ab3977d1825e
-        isrcs: []
+        isrcs:
+        - USUM71314648
+        title: Orestes - Commentary
+        length: 143000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-19'
       - id: d4706244-876a-4c89-bcfe-eea228f46305
         isrcs: []
+        title: Orestes
+        length:
+        video: false
+        disambiguation: 'live, 2001‐03‐31: Roy Wilkins Auditorium, St. Paul, MN, USA'
+        firstReleaseDate:
       score: 0.9738924
     - id: 183fe23b-1b2d-4e83-8be7-9f13b69595c1
       recordings:
       - id: 84bedce5-9609-411e-8b82-f19ec651d5eb
-        isrcs: []
+        isrcs: *id001
+        title: Orestes
+        length: 288000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.5791798
     status: ok

@@ -15,21 +15,49 @@ trackIdData:
     - id: dd0c3907-7b3b-4ed6-9781-303e25b1f6b0
       recordings:
       - id: 51dc41b9-3d5c-445d-a1e5-c47a10bec01a
-        isrcs: []
+        isrcs:
+        - USPR38407129
+        - USPR38530022
+        title: Obsession
+        length: 336040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1984'
       - id: 51f5c23a-92cc-456c-86d8-40d1b0926af3
-        isrcs: []
+        isrcs: &id001
+        - USUM71310246
+        title: Obsession (dance mix)
+        length: 360906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1984'
       - id: 7bd72857-be8f-427c-9bf2-10e8c53ba4ee
         isrcs: []
+        title: Obsession
+        length: 360333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991'
       score: 0.9949565
     - id: 5f6344e5-c190-4f33-8ba0-bd91609eece7
       recordings:
       - id: 51f5c23a-92cc-456c-86d8-40d1b0926af3
-        isrcs: []
+        isrcs: *id001
+        title: Obsession (dance mix)
+        length: 360906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1984'
       score: 0.9646954
     - id: e405810f-799e-4940-ad8d-552cec0ba244
       recordings:
       - id: 51f5c23a-92cc-456c-86d8-40d1b0926af3
-        isrcs: []
+        isrcs: *id001
+        title: Obsession (dance mix)
+        length: 360906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1984'
       score: 0.90915084
     - id: 8c59930a-eedb-4288-a47f-6fb16f267cd5
       score: 0.8931962

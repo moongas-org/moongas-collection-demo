@@ -15,27 +15,90 @@ trackIdData:
     - id: b37081bf-5f8c-4f3b-8d5a-5f57ed7cd0c9
       recordings:
       - id: 9bbb5fe2-630c-43a3-a625-d360f7dddbec
-        isrcs: []
+        isrcs: &id001
+        - USCH37800025
+        - USCH37800029
+        - USCH37900017
+        title: Heart of Glass
+        length: 234106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-23'
       - id: a6ec922f-22ef-4dc8-9ad8-e271f5993a58
         isrcs: []
+        title: Heart of Glass
+        length: 227000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: cb83a8d8-b89a-4fbc-85e3-753cc2e66424
-        isrcs: []
+        isrcs: &id002
+        - USCH37800025
+        - USCH37900017
+        - USCH38900007
+        - USCH39800018
+        title: Heart of Glass
+        length: 250200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980'
       - id: d01a48cd-b03e-4690-94a6-a0384c9e4baf
         isrcs: []
+        title: Heart of Glass
+        length: 250280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2025-11-07'
       - id: d1b01fed-cac8-456b-adfb-7ee3e71c2fa3
-        isrcs: []
+        isrcs:
+        - USCA27800196
+        - USCH30100108
+        - USCH30100181
+        - USCH38100009
+        - USCH38900007
+        title: Heart of Glass
+        length: 350000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-08'
       - id: e42d9efc-48e1-4849-af1d-5838b8058253
-        isrcs: []
+        isrcs:
+        - USTB11700248
+        title: Heart of Glass
+        length: 205000
+        video: false
+        disambiguation: single version
+        firstReleaseDate: '1979-01-03'
       - id: e72351af-c447-4b93-8ac5-97f4e62efcd4
         isrcs: []
+        title: Heart of Glass
+        length: 225000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985'
       score: 0.997231
     - id: 146911f4-94a5-42c5-94f2-a3ff275dcae5
       recordings:
       - id: 9bbb5fe2-630c-43a3-a625-d360f7dddbec
-        isrcs: []
+        isrcs: *id001
+        title: Heart of Glass
+        length: 234106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-23'
       - id: cb83a8d8-b89a-4fbc-85e3-753cc2e66424
-        isrcs: []
+        isrcs: *id002
+        title: Heart of Glass
+        length: 250200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980'
       - id: e72351af-c447-4b93-8ac5-97f4e62efcd4
         isrcs: []
+        title: Heart of Glass
+        length: 225000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985'
       score: 0.9635417
     status: ok

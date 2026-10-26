@@ -16,16 +16,42 @@ trackIdData:
       recordings:
       - id: 0d3a48ad-505b-4622-b70d-086c0d3abff3
         isrcs: []
+        title: Burn to Shine
+        length: 218933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-09-22'
       - id: 784bdba8-67ea-429e-af66-0c6ff684e171
-        isrcs: []
+        isrcs: &id001
+        - USVI29500032
+        title: Burn One Down
+        length: 211626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1995-07
       - id: 879c8e35-75de-4f7d-b018-768217c060b0
         isrcs: []
+        title: Burn One Down
+        length: 211000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: 9d7e352b-9c6a-48a0-b7d9-5c1f9d47e8f7
         isrcs: []
+        title: Burn on down
+        length: 212000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007'
       score: 0.9748154
     - id: 0d4592c3-e05f-42e6-bf2a-a75aa6bd20ef
       recordings:
       - id: 784bdba8-67ea-429e-af66-0c6ff684e171
-        isrcs: []
+        isrcs: *id001
+        title: Burn One Down
+        length: 211626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1995-07
       score: 0.8629351
     status: ok

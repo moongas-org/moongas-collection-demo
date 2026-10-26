@@ -16,22 +16,64 @@ trackIdData:
       recordings:
       - id: 1c240e5f-250a-4a27-a291-8c404fa15ae4
         isrcs: []
+        title: Tears Dry on Their Own
+        length: 185000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2008-05
       - id: 3fab4f6f-d9cc-4cad-8682-e6839c646888
         isrcs: []
+        title: Tears Dry On Their Own
+        length: 184866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: 4e1568cb-ad01-48d1-9669-c80b47eab0ab
         isrcs: []
+        title: Tears Dry on Their Own
+        length: 187000
+        video: false
+        disambiguation: instrumental
+        firstReleaseDate: '2006'
       - id: 7b0670d9-3bfc-49c0-a804-9b5d0d7a2833
         isrcs: []
+        title: Tears Dry on Their Own
+        length: 187000
+        video: true
+        disambiguation: ''
+        firstReleaseDate:
       - id: a3fb06e9-5296-4198-844a-032c86cb0c64
-        isrcs: []
+        isrcs:
+        - GBUM70603573
+        title: Tears Dry on Their Own
+        length: 186440
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '2007-03-13'
       - id: b47bf632-f6ca-42fa-9db9-10d38797aa9d
-        isrcs: []
+        isrcs: &id001
+        - GBUM70603494
+        title: Tears Dry on Their Own
+        length: 186440
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2006-10-30'
       - id: c2448f65-c7e5-41f9-a51a-2625f70958b2
         isrcs: []
+        title: Tears Dry on Their Own
+        length: 189000
+        video: false
+        disambiguation: part of “DMC DJ Only 102” DJ‐mix
+        firstReleaseDate: 2007-08
       score: 0.9866825
     - id: fa747835-b2aa-44ff-88c6-51a868aba2ca
       recordings:
       - id: b47bf632-f6ca-42fa-9db9-10d38797aa9d
-        isrcs: []
+        isrcs: *id001
+        title: Tears Dry on Their Own
+        length: 186440
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2006-10-30'
       score: 0.64375657
     status: ok

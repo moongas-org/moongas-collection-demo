@@ -15,13 +15,31 @@ trackIdData:
     - id: 0dd8fd17-6832-480a-b6d4-ca9e5681f504
       recordings:
       - id: 9ac447ff-05d9-4058-b6fb-012fd57cd592
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601275
+        - GBAJE7500018
+        - USRH12003047
+        title: Symptom of the Universe
+        length: 389080
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       score: 0.9884584
     - id: 0e149dba-bf44-47a3-9869-1ce68779326d
       recordings:
       - id: 986880f0-b644-4729-8f6c-65d0e32a870f
         isrcs: []
+        title: Track 11
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 9ac447ff-05d9-4058-b6fb-012fd57cd592
-        isrcs: []
+        isrcs: *id001
+        title: Symptom of the Universe
+        length: 389080
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       score: 0.9774855
     status: ok

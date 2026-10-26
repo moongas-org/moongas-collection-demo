@@ -15,11 +15,23 @@ trackIdData:
     - id: 5265318a-77d5-4e3e-9ffd-41ba0ed058e2
       recordings:
       - id: f4fa65e7-02d0-4817-a758-8e8af41f0bbf
-        isrcs: []
+        isrcs: &id001
+        - USSM17100013
+        - USSM17100407
+        title: Lisa, Listen to Me
+        length: 180000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-06
       score: 0.96502507
     - id: e0f2ab0e-1c5b-419d-afde-c7a67d1abdd5
       recordings:
       - id: f4fa65e7-02d0-4817-a758-8e8af41f0bbf
-        isrcs: []
+        isrcs: *id001
+        title: Lisa, Listen to Me
+        length: 180000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-06
       score: 0.96195936
     status: ok

@@ -16,21 +16,57 @@ trackIdData:
       recordings:
       - id: 9a318684-8bb3-4763-bee2-d13296c24188
         isrcs: []
+        title: Sefon Dance
+        length: 145933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: 9b57d9cd-66f1-4c6d-86c0-58ec6f4fcc09
         isrcs: []
+        title: Sefon Dance
+        length: 146036
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: b80a777b-9f22-417c-a8bc-8a5c8e50924d
         isrcs: []
+        title: The Heathen
+        length: 154000
+        video: false
+        disambiguation: Dolby Atmos Mix
+        firstReleaseDate:
       - id: efd33029-9dae-4a94-99bf-13868531cb9f
-        isrcs: []
+        isrcs: &id001
+        - USIR27700011
+        title: The Heathen
+        length: 152026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977-06-03'
       - id: efd41faa-2803-44b6-b29a-5b533c4cc022
         isrcs: []
+        title: Bob Marley
+        length: 151640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       score: 0.9900778
     - id: 97f9ecda-f487-41d3-bc41-b1e2c438de4a
       recordings:
       - id: b80a777b-9f22-417c-a8bc-8a5c8e50924d
         isrcs: []
+        title: The Heathen
+        length: 154000
+        video: false
+        disambiguation: Dolby Atmos Mix
+        firstReleaseDate:
       - id: efd33029-9dae-4a94-99bf-13868531cb9f
-        isrcs: []
+        isrcs: *id001
+        title: The Heathen
+        length: 152026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977-06-03'
       score: 0.97320014
     - id: a41273ee-7482-452f-a072-72338e82eb7e
       score: 0.6145283

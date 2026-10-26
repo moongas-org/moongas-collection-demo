@@ -16,17 +16,43 @@ trackIdData:
       recordings:
       - id: 22fcea84-5881-446c-b7b2-4efa9d594db7
         isrcs: []
+        title: Down in a Hole
+        length: 346000
+        video: true
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-04-10'
       - id: 851b4377-6cff-43b9-87ca-4f76b062e43c
         isrcs: []
+        title: Down in a Hole
+        length: 353026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1996-10
       - id: cab031ca-fb14-470b-9336-528524007ed1
-        isrcs: []
+        isrcs: &id001
+        - USSM19601543
+        title: Down in a Hole
+        length: 346000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       score: 0.98651767
     - id: ef9f2d2d-bbe1-4538-8bc0-49b4e089f036
       recordings:
       - id: 851b4377-6cff-43b9-87ca-4f76b062e43c
         isrcs: []
+        title: Down in a Hole
+        length: 353026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1996-10
       - id: cab031ca-fb14-470b-9336-528524007ed1
-        isrcs: []
+        isrcs: *id001
+        title: Down in a Hole
+        length: 346000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       score: 0.9611023
     - id: 4d93ae05-3e11-4878-a853-735d3e514bdd
       score: 0.80066586

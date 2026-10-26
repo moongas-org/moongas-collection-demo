@@ -16,12 +16,28 @@ trackIdData:
       recordings:
       - id: 457396f7-febc-47d1-b65f-03a15f9335b0
         isrcs: []
+        title: Nothin' Song
+        length: 340000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: e8accf1c-61a3-44c6-851d-23804076582b
-        isrcs: []
+        isrcs: &id001
+        - USSM19501781
+        title: Nothin’ Song
+        length: 340493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       score: 0.985298
     - id: 0e08eaac-5012-41c4-bef2-09d1158c6f2f
       recordings:
       - id: e8accf1c-61a3-44c6-851d-23804076582b
-        isrcs: []
+        isrcs: *id001
+        title: Nothin’ Song
+        length: 340493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       score: 0.85070544
     status: ok

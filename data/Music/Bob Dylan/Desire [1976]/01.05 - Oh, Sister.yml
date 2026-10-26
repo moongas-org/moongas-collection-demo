@@ -15,19 +15,51 @@ trackIdData:
     - id: f06f0c5e-04b2-4e03-b20d-85c7aa3664a2
       recordings:
       - id: 3762512f-c1f9-4c4d-a9aa-3170cca85470
-        isrcs: []
+        isrcs: &id001
+        - USSM10103239
+        title: Oh, Sister
+        length: 243960
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: f7cc5c8f-c9db-4e9d-8867-f80a84ce536a
-        isrcs: []
+        isrcs: &id002
+        - USSM10103239
+        title: Oh, Sister
+        length: 241773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       score: 0.979793
     - id: 01e1f280-bbb0-4567-997b-46bea86787c8
       recordings:
       - id: 3762512f-c1f9-4c4d-a9aa-3170cca85470
-        isrcs: []
+        isrcs: *id001
+        title: Oh, Sister
+        length: 243960
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: 48c50372-361d-405b-a46a-b4715a31fe05
         isrcs: []
+        title: Oh Sister
+        length: 241000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-12-09'
       - id: cc0099b7-0f5f-41fe-ae7f-937324590d3d
         isrcs: []
+        title: Oh, Sister
+        length: 243293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       - id: f7cc5c8f-c9db-4e9d-8867-f80a84ce536a
-        isrcs: []
+        isrcs: *id002
+        title: Oh, Sister
+        length: 241773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       score: 0.9658821
     status: ok

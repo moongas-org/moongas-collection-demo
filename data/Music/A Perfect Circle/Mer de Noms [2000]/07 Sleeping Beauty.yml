@@ -15,26 +15,71 @@ trackIdData:
     - id: a2589fc1-3555-49b6-bb89-2438a919f568
       recordings:
       - id: 0d9e0813-3570-4043-a3de-6104f12279c1
-        isrcs: []
+        isrcs:
+        - QMEJX1300008
+        title: Sleeping Beauty
+        length: 371000
+        video: false
+        disambiguation: 'live, 2010: USA'
+        firstReleaseDate: '2013-12-02'
       - id: 380a4c7b-a3c5-4c2c-a97b-c0520c31eb9f
         isrcs: []
+        title: Sleeping Beauty
+        length:
+        video: false
+        disambiguation: 'live, 2001-03-27: Memorial Athletic and Convocation Center,
+          Kent, OH, USA'
+        firstReleaseDate:
       - id: 4b601072-256c-4ad6-a2d2-ed4ef399e100
         isrcs: []
+        title: Sleeping Beauty
+        length:
+        video: false
+        disambiguation: 'live, 2001‐03‐31: Roy Wilkins Auditorium, St. Paul, MN, USA'
+        firstReleaseDate:
       - id: 92433b33-d878-4acd-a0ea-dba3ba876839
-        isrcs: []
+        isrcs:
+        - USVI20000050
+        title: Sleeping Beauty
+        length: 250000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: c6b7a47e-560e-4e37-875d-fac88599477d
         isrcs: []
+        title: Sleeping Beauty
+        length:
+        video: false
+        disambiguation: 'live, 2000-05-28: Kemper Arena, Kansas City, MO, USA'
+        firstReleaseDate:
       - id: e46d0464-cc41-496e-9c5f-088730d98a4e
-        isrcs: []
+        isrcs: &id001
+        - QMEJX1300008
+        - USVI20000050
+        title: Sleeping Beauty
+        length: 250826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.95912445
     - id: dd133eeb-86c8-4e34-9bc5-fa240a195e93
       recordings:
       - id: e46d0464-cc41-496e-9c5f-088730d98a4e
-        isrcs: []
+        isrcs: *id001
+        title: Sleeping Beauty
+        length: 250826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.8256527
     - id: 695703c3-9276-431c-b6d2-382291106e45
       recordings:
       - id: e46d0464-cc41-496e-9c5f-088730d98a4e
-        isrcs: []
+        isrcs: *id001
+        title: Sleeping Beauty
+        length: 250826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.6846651
     status: ok

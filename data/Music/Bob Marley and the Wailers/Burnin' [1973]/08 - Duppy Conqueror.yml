@@ -16,18 +16,50 @@ trackIdData:
       recordings:
       - id: 83c6e254-e41f-434a-9507-8e333f29d77b
         isrcs: []
+        title: Duppy Conqueror
+        length: 224480
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-03-25'
       - id: b1aee0eb-1ff4-49ec-be2b-ffefb05109ce
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7090009
+        - GBAAN7300130
+        title: Duppy Conqueror
+        length: 224400
+        video: false
+        disambiguation: 1973 re-recording
+        firstReleaseDate: '1973-10-19'
       - id: b2f900dd-b172-46f9-a30d-97d812541f51
         isrcs: []
+        title: Duppy Conqueror
+        length: 228813
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-08-31'
       - id: b53a7fdc-9213-48bc-a42b-a93c1e4d9df5
         isrcs: []
+        title: Duppy Conquerer
+        length: 219653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: cf84d5cc-40f4-45dc-8d03-444a6a675c38
         isrcs: []
+        title: Duppy Conqueror
+        length: 222979
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999'
       score: 0.9722442
     - id: d00d1dff-db8d-428e-ae97-cdd166213900
       recordings:
       - id: b1aee0eb-1ff4-49ec-be2b-ffefb05109ce
-        isrcs: []
+        isrcs: *id001
+        title: Duppy Conqueror
+        length: 224400
+        video: false
+        disambiguation: 1973 re-recording
+        firstReleaseDate: '1973-10-19'
       score: 0.91897625
     status: ok

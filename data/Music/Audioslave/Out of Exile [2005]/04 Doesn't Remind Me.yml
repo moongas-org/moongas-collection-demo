@@ -16,21 +16,59 @@ trackIdData:
       recordings:
       - id: 05feba51-6e43-43c2-8e21-86f4dcb9fbd2
         isrcs: []
+        title: Doesn't Remind Me
+        length: 275000
+        video: true
+        disambiguation: 'live, 2005-05-06: Plaza Anti Imperialista, Havana, Cuba'
+        firstReleaseDate: '2005'
       - id: 19d57eb5-316c-4423-ad96-ce6bc58381d1
-        isrcs: []
+        isrcs:
+        - USSM10505557
+        title: Doesn’t Remind Me
+        length: 260773
+        video: false
+        disambiguation: 'live, 2005-08-08: Center Staging, Burbank, CA, USA'
+        firstReleaseDate: '2005'
       - id: 2a7eedcb-f7e2-4920-a3e7-c3402886896e
-        isrcs: []
+        isrcs: &id001
+        - USIR10500779
+        title: Doesn’t Remind Me
+        length: 255533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       - id: 41e6f343-9cbd-43ca-b2dc-ac796049163f
-        isrcs: []
+        isrcs:
+        - USIR10500787
+        title: Your Time Has Come
+        length: 255426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-03'
       - id: 70c0079d-603d-41a2-b933-0212ee106d87
         isrcs: []
+        title: Doesn't Remind Me
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014'
       - id: 9063fad8-35a0-4f47-ac89-3b9cde7579f3
         isrcs: []
+        title: Doesn’t Remind Me
+        length: 255000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2005-05-05'
       score: 0.9802545
     - id: b2a6a8f7-d1b1-4a38-bbff-8ba632d12b4c
       recordings:
       - id: 2a7eedcb-f7e2-4920-a3e7-c3402886896e
-        isrcs: []
+        isrcs: *id001
+        title: Doesn’t Remind Me
+        length: 255533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       score: 0.78513974
     - id: f2fcf7a6-f480-4e59-9392-079393c2dc5e
       score: 0.65509623

@@ -15,15 +15,37 @@ trackIdData:
     - id: d9123a02-fecd-40f7-8f16-76c65a384324
       recordings:
       - id: 17c5cd7a-c6d3-4483-8aab-51ee156a2e77
-        isrcs: []
+        isrcs: &id001
+        - GBUM70603490
+        title: Some Unholy War
+        length: 142693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-10-30'
       - id: 57e1f512-9007-4ac7-95e1-c68a38dc7eec
         isrcs: []
+        title: Some Unholy War
+        length: 143000
+        video: false
+        disambiguation: instrumental
+        firstReleaseDate: '2006'
       score: 0.9783096
     - id: 6c761c31-7096-403b-ade0-bf1727dbe85b
       recordings:
       - id: 17c5cd7a-c6d3-4483-8aab-51ee156a2e77
-        isrcs: []
+        isrcs: *id001
+        title: Some Unholy War
+        length: 142693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-10-30'
       - id: ad579285-70d3-4684-83d0-98ea8ebc95cb
-        isrcs: []
+        isrcs:
+        - GBUM71503504
+        title: Some Unholy War
+        length: 252360
+        video: false
+        disambiguation: 'live, 2007‐05‐29: Shepherd’s Bush Empire, London, England'
+        firstReleaseDate: '2020-11-27'
       score: 0.97525454
     status: ok

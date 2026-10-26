@@ -16,16 +16,44 @@ trackIdData:
       recordings:
       - id: 2da21ccd-34d5-4164-8bfc-e4449cc00506
         isrcs: []
+        title: Living on the Ceiling
+        length: 239000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: ca8114ef-354f-4828-8a4f-169141077ba8
         isrcs: []
+        title: Living on the Ceiling
+        length: 251000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2024-05-10'
       - id: decb7aa4-c5bc-472b-a109-efd19b3d46d5
         isrcs: []
+        title: Living on the Ceiling
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: ee3e5178-1f6a-440c-8ce2-135dba484e60
-        isrcs: []
+        isrcs: &id001
+        - GBAAP0100383
+        - GBAAP0400447
+        - GBAAP0800023
+        title: Living on the Ceiling
+        length: 240466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982-09-24'
       score: 0.97343093
     - id: 050cfcd4-4935-4632-a7c5-fa804032575c
       recordings:
       - id: ee3e5178-1f6a-440c-8ce2-135dba484e60
-        isrcs: []
+        isrcs: *id001
+        title: Living on the Ceiling
+        length: 240466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982-09-24'
       score: 0.96683806
     status: ok

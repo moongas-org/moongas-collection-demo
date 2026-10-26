@@ -15,28 +15,75 @@ trackIdData:
     - id: f332b29c-c137-4991-ae75-981e6b367c74
       recordings:
       - id: 0b58c9f5-e27b-4a15-b1c3-27d0f349a09a
-        isrcs: []
+        isrcs: &id001
+        - USSM10103237
+        title: Isis
+        length: 418800
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: 89830270-b0a2-4b1b-b4e2-6eeb38ce908e
         isrcs: []
+        title: Isis
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-11-07'
       - id: 90b9aeb0-6b36-42e7-8de2-efaecf044009
-        isrcs: []
+        isrcs: &id002
+        - USSM10103237
+        title: Isis
+        length: 418293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       - id: d29332bd-6c8b-4a9a-b4a6-5dc1cbc134e7
         isrcs: []
+        title: Isis
+        length: 419040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       score: 0.987581
     - id: fa6b6dbc-e47c-4772-bd3b-317d2c2b5a32
       recordings:
       - id: 0b58c9f5-e27b-4a15-b1c3-27d0f349a09a
-        isrcs: []
+        isrcs: *id001
+        title: Isis
+        length: 418800
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: 90b9aeb0-6b36-42e7-8de2-efaecf044009
-        isrcs: []
+        isrcs: *id002
+        title: Isis
+        length: 418293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       - id: d29332bd-6c8b-4a9a-b4a6-5dc1cbc134e7
         isrcs: []
+        title: Isis
+        length: 419040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       score: 0.98117745
     - id: 9c3c3e9f-7ccc-4112-ab1c-ae32fa5e2fe0
       recordings:
       - id: 0b58c9f5-e27b-4a15-b1c3-27d0f349a09a
-        isrcs: []
+        isrcs: *id001
+        title: Isis
+        length: 418800
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: 90b9aeb0-6b36-42e7-8de2-efaecf044009
-        isrcs: []
+        isrcs: *id002
+        title: Isis
+        length: 418293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       score: 0.84028876
     status: ok

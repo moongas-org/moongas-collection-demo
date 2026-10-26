@@ -15,13 +15,24 @@ trackIdData:
     - id: edfd66ed-8d17-43b8-ae43-14fd42c1aa49
       recordings:
       - id: 6c38a025-0a0b-46e7-bd90-460a82feae70
-        isrcs: []
+        isrcs: &id001
+        - GBCEL0501191
+        title: From the Ritz to the Rubble
+        length: 193426
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.9787381
     - id: 7e39179d-524f-407e-bec0-9af61ee4b6c0
       score: 0.68304986
     - id: bce0d76e-a339-4ecd-b198-ff1f9fd06799
       recordings:
       - id: 6c38a025-0a0b-46e7-bd90-460a82feae70
-        isrcs: []
+        isrcs: *id001
+        title: From the Ritz to the Rubble
+        length: 193426
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.66660076
     status: ok

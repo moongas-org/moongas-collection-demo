@@ -15,23 +15,67 @@ trackIdData:
     - id: 09789cd9-189c-45bb-9e09-dd3ce32fc76a
       recordings:
       - id: 92ac918a-07f6-4f5e-b356-5897723310ca
-        isrcs: []
+        isrcs: &id001
+        - USSM17200228
+        - USSM17300504
+        title: Piano Man
+        length: 338666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-11-09'
       - id: 99ff41ab-7a91-4abd-8c23-4877aea37afd
         isrcs: []
+        title: Piano Man
+        length: 337000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-11-29'
       - id: c0d30bc8-9720-4afe-b7ae-52c52e1ebf72
-        isrcs: []
+        isrcs:
+        - USSM12306560
+        title: Piano Man
+        length: 339333
+        video: false
+        disambiguation: quad mix
+        firstReleaseDate: '2024-02-28'
       - id: c7d48754-5c4d-4eb9-ab0b-c0c191309e00
         isrcs: []
+        title: Piano Man
+        length: 336866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: f3488a27-ef89-402d-885b-89a6bf482eb9
         isrcs: []
+        title: Piano Man
+        length: 336000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       score: 0.9592234
     - id: 125953ba-d0b9-4517-8523-3da26eedec62
       recordings:
       - id: 873dda7d-5041-4fb4-a881-559da95553a1
-        isrcs: []
+        isrcs:
+        - USSM17300504
+        title: Piano Man
+        length: 339291
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-11-16'
       - id: 92ac918a-07f6-4f5e-b356-5897723310ca
-        isrcs: []
+        isrcs: *id001
+        title: Piano Man
+        length: 338666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-11-09'
       - id: ab600fce-94d2-4466-810e-e6dbd6b52725
         isrcs: []
+        title: Piano Man (official music video)
+        length: 343000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2024-02-28'
       score: 0.9093486
     status: ok

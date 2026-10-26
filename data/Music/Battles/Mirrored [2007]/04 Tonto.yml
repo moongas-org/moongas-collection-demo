@@ -16,12 +16,28 @@ trackIdData:
       recordings:
       - id: 50b3f214-6d2e-4af0-a9f3-10b4cf7758ce
         isrcs: []
+        title: Tonto (video)
+        length: 455000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2007-10-22'
       - id: daa40715-0aed-4db8-b398-db7677a8cba3
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700011
+        title: Tonto
+        length: 463000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-05-14'
       score: 0.98312235
     - id: 1646e667-20b6-4c04-9721-c7b4bf8c9355
       recordings:
       - id: daa40715-0aed-4db8-b398-db7677a8cba3
-        isrcs: []
+        isrcs: *id001
+        title: Tonto
+        length: 463000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-05-14'
       score: 0.7262329
     status: ok

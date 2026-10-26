@@ -15,13 +15,29 @@ trackIdData:
     - id: f9e938c2-153e-4f9f-b9b4-71e5e47c1709
       recordings:
       - id: 57541fe6-d781-42df-bd5b-7161590d5b54
-        isrcs: []
+        isrcs: &id001
+        - USIR10311887
+        title: Anxiety
+        length: 218293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-24'
       score: 0.99996704
     - id: a9c73054-085b-418c-983f-33410fc6a462
       recordings:
       - id: 57541fe6-d781-42df-bd5b-7161590d5b54
-        isrcs: []
+        isrcs: *id001
+        title: Anxiety
+        length: 218293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-24'
       - id: 9fa02e3f-f8bd-4f15-8872-2d9038cb9ca5
         isrcs: []
+        title: Black Eyed Peas
+        length: 220360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995'
       score: 0.983485
     status: ok

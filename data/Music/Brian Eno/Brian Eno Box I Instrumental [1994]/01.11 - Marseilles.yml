@@ -15,11 +15,22 @@ trackIdData:
     - id: 8b4624b7-3363-4f03-b02c-3d736430ff61
       recordings:
       - id: f81a881f-178a-4f30-bc28-0c94322ea2d2
-        isrcs: []
+        isrcs: &id001
+        - GBAAA0500067
+        title: Marseilles
+        length: 89013
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1993-11
       score: 0.999153
     - id: e5c6a231-8f5e-4dc4-8ae5-b49123037ee0
       recordings:
       - id: f81a881f-178a-4f30-bc28-0c94322ea2d2
-        isrcs: []
+        isrcs: *id001
+        title: Marseilles
+        length: 89013
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1993-11
       score: 0.97360915
     status: ok

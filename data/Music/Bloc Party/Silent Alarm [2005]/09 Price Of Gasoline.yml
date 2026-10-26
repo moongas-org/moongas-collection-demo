@@ -16,21 +16,52 @@ trackIdData:
       recordings:
       - id: 5952f538-b493-4cac-b676-531583d531d9
         isrcs: []
+        title: Price of Gasoline
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-14'
       - id: 633169d0-3f32-4440-9920-bddbcd34a60b
-        isrcs: []
+        isrcs: &id001
+        - GBDNH0400390
+        title: Price of Gasoline
+        length: 259693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       score: 0.99133044
     - id: 2d16f2b9-0f94-484b-b7ef-66f207faccbe
       recordings:
       - id: 1acadeeb-d712-446d-a022-a36c2f080ee6
         isrcs: []
+        title: Price of Gasoline
+        length:
+        video: true
+        disambiguation: live (God Bless Bloc Party)
+        firstReleaseDate: '2006-08-08'
       - id: 5952f538-b493-4cac-b676-531583d531d9
         isrcs: []
+        title: Price of Gasoline
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-14'
       - id: 633169d0-3f32-4440-9920-bddbcd34a60b
-        isrcs: []
+        isrcs: *id001
+        title: Price of Gasoline
+        length: 259693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       score: 0.9695082
     - id: e18bb8a8-80d5-4b04-874c-3a47487a4b8d
       recordings:
       - id: 633169d0-3f32-4440-9920-bddbcd34a60b
-        isrcs: []
+        isrcs: *id001
+        title: Price of Gasoline
+        length: 259693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       score: 0.952235
     status: ok

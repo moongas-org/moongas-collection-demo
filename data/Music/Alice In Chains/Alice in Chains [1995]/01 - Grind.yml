@@ -16,18 +16,49 @@ trackIdData:
       recordings:
       - id: 0431c27d-bd72-4bd1-9ef7-7b384c248db6
         isrcs: []
+        title: Grind
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995'
       - id: 6647000d-5e34-4c4f-a0fc-5c59e0bbe2f0
         isrcs: []
+        title: Grind (5.1 mix)
+        length: 287000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-07-24'
       - id: aba19f99-3576-4f52-9328-7ab5a465f688
         isrcs: []
+        title: Grind
+        length: 285000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '1995-02-23'
       - id: b008d1ce-ddad-4394-816c-a9dcde2453a9
         isrcs: []
+        title: Grind
+        length: 285000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: bf0b2b61-2d7f-4eb4-a920-38528745db03
-        isrcs: []
+        isrcs: &id001
+        - USSM19501548
+        title: Grind
+        length: 285000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-30'
       score: 0.96983784
     - id: 80608303-e4c9-43bc-a67a-401467b74431
       recordings:
       - id: bf0b2b61-2d7f-4eb4-a920-38528745db03
-        isrcs: []
+        isrcs: *id001
+        title: Grind
+        length: 285000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-30'
       score: 0.6093091
     status: ok

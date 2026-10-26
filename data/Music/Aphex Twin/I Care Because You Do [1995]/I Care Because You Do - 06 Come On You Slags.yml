@@ -15,11 +15,22 @@ trackIdData:
     - id: 62e1d7b0-3159-42d3-b39b-bb16255b8940
       recordings:
       - id: ce3dbea5-6cef-4ae0-9ef9-5b9fc388b380
-        isrcs: []
+        isrcs: &id001
+        - USSI10100106
+        title: Come On You Slags!
+        length: 344640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-04-24'
       score: 0.9854298
     - id: 35fd4dee-13a4-494f-8120-4c8f7743b638
       recordings:
       - id: ce3dbea5-6cef-4ae0-9ef9-5b9fc388b380
-        isrcs: []
+        isrcs: *id001
+        title: Come On You Slags!
+        length: 344640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-04-24'
       score: 0.851101
     status: ok

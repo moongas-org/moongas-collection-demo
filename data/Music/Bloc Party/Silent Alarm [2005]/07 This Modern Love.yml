@@ -16,22 +16,66 @@ trackIdData:
       recordings:
       - id: 3dbe925c-fdc9-4433-a1af-1ac507b15515
         isrcs: []
+        title: This Modern Love
+        length: 259000
+        video: false
+        disambiguation: 'live, 2005-06-24: Glastonbury Festival, Pilton, UK'
+        firstReleaseDate:
       - id: 529e7d52-6e4d-4b48-8cc0-70fc05eff258
-        isrcs: []
+        isrcs:
+        - QM6MZ1916113
+        title: This Modern Love
+        length: 283413
+        video: false
+        disambiguation: live, 2018-10
+        firstReleaseDate: '2019-07-12'
       - id: 567a9c3d-bf25-4543-829e-8ad708f4d1b4
         isrcs: []
+        title: This Modern Love
+        length:
+        video: true
+        disambiguation: live (God Bless Bloc Party)
+        firstReleaseDate: '2006-08-08'
       - id: 5ca9fc9f-137d-4c9d-9061-8bc8b90314f2
         isrcs: []
+        title: This Modern Love
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-14'
       - id: 73ab107e-5af3-466d-b813-e5cb375ff511
-        isrcs: []
+        isrcs: &id001
+        - GBDNH0400388
+        title: This Modern Love
+        length: 265613
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       - id: 8f3d5299-a19b-478b-9c94-5c165d05fa8b
-        isrcs: []
+        isrcs:
+        - USIM50500733
+        title: This Modern Love
+        length: 266000
+        video: false
+        disambiguation: 'live, 2005-09-24: Austin City Limits Music Festival, Zilker
+          Park, Austin, TX, USA'
+        firstReleaseDate: '2006-06-20'
       score: 0.973299
     - id: 46dd9fb6-aeb6-4eb4-894c-66bd46aa3985
       recordings:
       - id: 5ca9fc9f-137d-4c9d-9061-8bc8b90314f2
         isrcs: []
+        title: This Modern Love
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-14'
       - id: 73ab107e-5af3-466d-b813-e5cb375ff511
-        isrcs: []
+        isrcs: *id001
+        title: This Modern Love
+        length: 265613
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       score: 0.8620781
     status: ok

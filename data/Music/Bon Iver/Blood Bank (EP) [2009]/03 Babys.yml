@@ -16,17 +16,38 @@ trackIdData:
       recordings:
       - id: cb406c73-5d71-4e54-b78a-bb5ff378fced
         isrcs: []
+        title: Babys
+        length:
+        video: false
+        disambiguation: 'live, 2009‐10‐11: Riverside Theater, Milwaukee, WI, USA'
+        firstReleaseDate:
       - id: edd0bcc3-325b-4369-a8e8-c264c127a065
-        isrcs: []
+        isrcs: &id001
+        - US38Y0913403
+        title: Babys
+        length: 283000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-20'
       score: 0.97831714
     - id: c8e2a4c4-0373-4fa7-a2b5-9da8adbcc03f
       recordings:
       - id: edd0bcc3-325b-4369-a8e8-c264c127a065
-        isrcs: []
+        isrcs: *id001
+        title: Babys
+        length: 283000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-20'
       score: 0.9574345
     - id: 41819b48-f3e4-4241-925f-4781388e7137
       recordings:
       - id: edd0bcc3-325b-4369-a8e8-c264c127a065
-        isrcs: []
+        isrcs: *id001
+        title: Babys
+        length: 283000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-20'
       score: 0.93832296
     status: ok

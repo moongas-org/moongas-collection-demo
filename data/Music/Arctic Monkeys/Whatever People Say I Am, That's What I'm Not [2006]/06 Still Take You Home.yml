@@ -15,15 +15,36 @@ trackIdData:
     - id: 41ccae39-67c2-4a04-9587-58a4146b9ab5
       recordings:
       - id: bd51a089-193a-4d25-bc7f-81ac84924043
-        isrcs: []
+        isrcs: &id001
+        - GBCEL0501185
+        title: Still Take You Home
+        length: 173666
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       - id: cc8219a4-a417-446b-8c5e-153c6cfd8b9d
         isrcs: []
+        title: Still Take You Home
+        length: 192000
+        video: false
+        disambiguation: Beneath the Boardwalk version
+        firstReleaseDate: '2004'
       score: 0.9792656
     - id: b4df3680-7022-4916-8b14-f16309d3d925
       recordings:
       - id: bd51a089-193a-4d25-bc7f-81ac84924043
-        isrcs: []
+        isrcs: *id001
+        title: Still Take You Home
+        length: 173666
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       - id: cc8219a4-a417-446b-8c5e-153c6cfd8b9d
         isrcs: []
+        title: Still Take You Home
+        length: 192000
+        video: false
+        disambiguation: Beneath the Boardwalk version
+        firstReleaseDate: '2004'
       score: 0.9715849
     status: ok

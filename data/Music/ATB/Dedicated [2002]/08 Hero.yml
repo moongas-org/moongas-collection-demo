@@ -15,11 +15,22 @@ trackIdData:
     - id: c1d5fbf6-ace2-4c5a-b9d4-51c9c8b5de9c
       recordings:
       - id: 854e1789-5d89-4fb3-947b-2d29e7b02d81
-        isrcs: []
+        isrcs: &id001
+        - DEN060200500
+        title: Hero
+        length: 264320
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-28'
       score: 0.9855617
     - id: de9596d2-e2a7-4ccc-b9d6-1f6f50bf3b2b
       recordings:
       - id: 854e1789-5d89-4fb3-947b-2d29e7b02d81
-        isrcs: []
+        isrcs: *id001
+        title: Hero
+        length: 264320
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-28'
       score: 0.9519053
     status: ok

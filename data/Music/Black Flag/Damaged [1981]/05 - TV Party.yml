@@ -15,11 +15,22 @@ trackIdData:
     - id: 80f6383f-449f-46ef-82f4-cf074a6b52c4
       recordings:
       - id: 0ec7430b-fd86-494f-a74b-14c729640f78
-        isrcs: []
+        isrcs: &id001
+        - USA370538442
+        title: TV Party
+        length: 211826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981-11-16'
       score: 0.97277164
     - id: a52b0e3f-28b2-4aa1-8581-12619fc8d7a0
       recordings:
       - id: 0ec7430b-fd86-494f-a74b-14c729640f78
-        isrcs: []
+        isrcs: *id001
+        title: TV Party
+        length: 211826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981-11-16'
       score: 0.8252901
     status: ok

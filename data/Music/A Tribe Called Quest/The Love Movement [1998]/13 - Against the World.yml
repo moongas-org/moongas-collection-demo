@@ -15,13 +15,30 @@ trackIdData:
     - id: 080467de-7b9b-411f-a8dd-a28c3f0b254f
       recordings:
       - id: 3cecaa3c-d889-4797-b79b-9e383d467cc0
-        isrcs: []
+        isrcs: &id001
+        - USJI19810236
+        title: Against the World
+        length: 239000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-09-09'
       score: 0.9984507
     - id: 2b0d3049-7a52-4b57-8090-a2c3cb63f77d
       recordings:
       - id: 3cecaa3c-d889-4797-b79b-9e383d467cc0
-        isrcs: []
+        isrcs: *id001
+        title: Against the World
+        length: 239000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-09-09'
       - id: d3805a7c-5410-4b0c-a684-da1033047d94
-        isrcs: []
+        isrcs:
+        - USJI19810388
+        title: Give Me
+        length: 232000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-09-09'
       score: 0.7088278
     status: ok

@@ -15,22 +15,60 @@ trackIdData:
     - id: 502f608b-d508-4293-981e-abf42d5ea439
       recordings:
       - id: 0395e870-aa32-468f-a4c0-372fcc6ebf18
-        isrcs: []
+        isrcs: &id001
+        - USLIC0601700
+        - USRH12103120
+        - USRH12103139
+        - USWB10201015
+        - USWB10808465
+        - USWB10808905
+        - USWB11202738
+        - USWB19900782
+        title: School’s Out
+        length: 209293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-04-26'
       score: 0.96528876
     - id: 14586a23-3e7a-47c2-b194-7c0397c4ac8a
       recordings:
       - id: 0395e870-aa32-468f-a4c0-372fcc6ebf18
-        isrcs: []
+        isrcs: *id001
+        title: School’s Out
+        length: 209293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-04-26'
       score: 0.87935126
     - id: dd30fd95-01a0-4a74-98c9-2a687676b271
       recordings:
       - id: 0395e870-aa32-468f-a4c0-372fcc6ebf18
-        isrcs: []
+        isrcs: *id001
+        title: School’s Out
+        length: 209293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-04-26'
       - id: 3331cf21-18a6-413c-8ccc-0dbf63def0e6
         isrcs: []
+        title: School's Out
+        length: 203131
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-10-28'
       - id: 7e10b140-3101-46b8-a24b-8bc2d42708b0
         isrcs: []
+        title: School’s Out
+        length: 209000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-05-08'
       - id: b2ca1715-cc00-46ec-a2f4-fd065703b493
         isrcs: []
+        title: School’s Out
+        length: 212040
+        video: false
+        disambiguation: live
+        firstReleaseDate: '2017-10-06'
       score: 0.8212355
     status: ok

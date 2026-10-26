@@ -15,19 +15,51 @@ trackIdData:
     - id: e65b774c-c97a-47bc-ac51-81667b89e48b
       recordings:
       - id: 4810b42e-2bb1-4795-874b-85df8fd62ca9
-        isrcs: []
+        isrcs: &id001
+        - GBCEL0700067
+        title: Fluorescent Adolescent
+        length: 177533
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2007-04-18'
       score: 0.9849354
     - id: 3ae5ab24-3f58-46cb-a6ab-1c29a2016cc3
       recordings:
       - id: 119f4226-e526-40be-8b55-a270d6649c5c
         isrcs: []
+        title: Fluorescent Adolescent
+        length: 178000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2022-04-15'
       - id: 25f16ba5-38f8-46ed-bee5-5487c67a6f4e
         isrcs: []
+        title: Fluorescent Adolescent
+        length: 197721
+        video: false
+        disambiguation: 'live, 2014-08-01: Grant Park, Chicago, IL. USA'
+        firstReleaseDate:
       - id: 44f225d1-f204-46e9-8b20-a64c48476219
-        isrcs: []
+        isrcs:
+        - GBCEL0900446
+        title: Potion Approaching
+        length: 212133
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2009-08-19'
       - id: 4810b42e-2bb1-4795-874b-85df8fd62ca9
-        isrcs: []
+        isrcs: *id001
+        title: Fluorescent Adolescent
+        length: 177533
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2007-04-18'
       - id: e47d5573-c673-4ac5-b9e0-518bcb4c21fa
         isrcs: []
+        title: Fluorescent
+        length: 178500
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2022-11-04'
       score: 0.9773207
     status: ok

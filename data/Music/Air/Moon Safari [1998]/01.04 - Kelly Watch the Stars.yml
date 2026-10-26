@@ -15,11 +15,23 @@ trackIdData:
     - id: 910614d8-edf1-4fe7-9dca-c97e37bb77ad
       recordings:
       - id: f3fb6ec6-46b2-412d-9ab3-956c1a5cf89f
-        isrcs: []
+        isrcs: &id001
+        - FRS639700580
+        - FRZ110800604
+        title: Kelly Watch the Stars
+        length: 225746
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-01-16'
       score: 0.9878692
     - id: cacea1d2-78c4-4956-afa9-79258da455a2
       recordings:
       - id: f3fb6ec6-46b2-412d-9ab3-956c1a5cf89f
-        isrcs: []
+        isrcs: *id001
+        title: Kelly Watch the Stars
+        length: 225746
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-01-16'
       score: 0.97715586
     status: ok

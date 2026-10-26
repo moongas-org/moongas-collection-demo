@@ -15,31 +15,100 @@ trackIdData:
     - id: cc767fbd-a6e7-4d67-b4ad-b3c69e8e4a88
       recordings:
       - id: 23fc683a-3361-47fd-b4f7-84c1aca205ef
-        isrcs: []
+        isrcs: &id001
+        - GBAYE1200792
+        title: Song 2
+        length: 127293
+        video: false
+        disambiguation: 'live, 1997-04-29: MC Vredenburg, Utrecht, Holland'
+        firstReleaseDate: '1997-09-22'
       - id: 2bcdf4bb-20c4-4b23-9107-9aa9fc4a989b
         isrcs: []
+        title: Song 2
+        length: 120000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2007-12
       - id: 2c5917b2-33f5-4e98-8018-f9fa0d34d2e3
         isrcs: []
+        title: Song 2
+        length: 129000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2000'
       - id: 55d03a0d-89e6-4a7f-96d2-9478db64a973
         isrcs: []
+        title: Song 2
+        length: 120883
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999'
       - id: 88d14d9d-213e-4f20-82b4-8d9280f1ac53
         isrcs: []
+        title: Song 2
+        length:
+        video: false
+        disambiguation: part of “Get Yer Yo Yo’s Out” DJ-mix
+        firstReleaseDate: '2006-01-25'
       - id: b39b7227-c271-4ab8-912b-cb1fe2fc0e5e
-        isrcs: []
+        isrcs: &id002
+        - GBAYE1200348
+        - GBAYE1400841
+        - GBAYE9600015
+        - USRHD0708242
+        title: Song 2
+        length: 121253
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997-01-29'
       - id: dc87225b-46bc-4a5d-837f-14e7eb8f2ca2
-        isrcs: []
+        isrcs:
+        - GBAYE0000921
+        - GBAYE0900757
+        - GBAYE6300408
+        - GBUM71505896
+        title: From Me to You
+        length: 117106
+        video: false
+        disambiguation: original mono studio mix
+        firstReleaseDate: '1963-04-11'
       score: 0.95859706
     - id: 3a44a14d-b3ab-4ee0-8140-0af507fb3d8b
       recordings:
       - id: 23fc683a-3361-47fd-b4f7-84c1aca205ef
-        isrcs: []
+        isrcs: *id001
+        title: Song 2
+        length: 127293
+        video: false
+        disambiguation: 'live, 1997-04-29: MC Vredenburg, Utrecht, Holland'
+        firstReleaseDate: '1997-09-22'
       - id: 32c1f062-e510-4cbe-9d71-cb72632f1771
         isrcs: []
+        title: Song 2
+        length: 121200
+        video: false
+        disambiguation: live, KNDD, Seattle, WA, USA
+        firstReleaseDate: '1998-06-16'
       - id: 5883f4ed-4ce8-46c2-8395-4bcc74b40cdd
         isrcs: []
+        title: Song 2
+        length:
+        video: false
+        disambiguation: 'live, 2003-03-16: Bowery Ballroom, New York City, NY, USA'
+        firstReleaseDate:
       - id: 8efa7573-95bf-4650-b997-268638865696
         isrcs: []
+        title: Song 2
+        length: 121000
+        video: true
+        disambiguation: 'live, 1999-03-10: The Depot Studios, London, UK'
+        firstReleaseDate: '2012-07-27'
       - id: b39b7227-c271-4ab8-912b-cb1fe2fc0e5e
-        isrcs: []
+        isrcs: *id002
+        title: Song 2
+        length: 121253
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997-01-29'
       score: 0.9483122
     status: ok

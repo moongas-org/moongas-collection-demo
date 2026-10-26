@@ -15,28 +15,75 @@ trackIdData:
     - id: 4d86ec13-bda1-4ff1-8142-89384db73958
       recordings:
       - id: 18b80055-341d-47f3-b82f-89da09a57a22
-        isrcs: []
+        isrcs:
+        - GBUM70704563
+        title: Love Is a Losing Game (live at Kalkscheune / Berlin)
+        length: 165240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-06-15'
       - id: 47c2a2ae-5aa8-4671-b11d-ff0a49e23f29
         isrcs: []
+        title: Love Is a Losing Game
+        length: 156000
+        video: false
+        disambiguation: instrumental
+        firstReleaseDate: '2006'
       - id: 7bc28976-c834-42be-9528-fdc00ad8f431
         isrcs: []
+        title: Love Is a Losing Game (original)
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007'
       - id: b7e172f3-1f8f-49bf-a4a9-141cd64979c7
-        isrcs: []
+        isrcs: &id001
+        - GBUM70603489
+        title: Love Is a Losing Game
+        length: 155413
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-10-30'
       score: 0.98988
     - id: 815d629e-e262-4a85-b7fb-833758f444f1
       recordings:
       - id: 47c2a2ae-5aa8-4671-b11d-ff0a49e23f29
         isrcs: []
+        title: Love Is a Losing Game
+        length: 156000
+        video: false
+        disambiguation: instrumental
+        firstReleaseDate: '2006'
       - id: 928d0355-4085-4138-91e2-f88f223aa8cb
         isrcs: []
+        title: Love Is A Losing Game
+        length: 153000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023'
       - id: abc85415-494a-4d7d-855f-c2dc685d3151
         isrcs: []
+        title: Love Is a Losing Game
+        length: 152000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015'
       - id: b7e172f3-1f8f-49bf-a4a9-141cd64979c7
-        isrcs: []
+        isrcs: *id001
+        title: Love Is a Losing Game
+        length: 155413
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-10-30'
       score: 0.9489056
     - id: dfd00639-072c-4d4c-bdd9-f326e073e77a
       recordings:
       - id: b7e172f3-1f8f-49bf-a4a9-141cd64979c7
-        isrcs: []
+        isrcs: *id001
+        title: Love Is a Losing Game
+        length: 155413
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-10-30'
       score: 0.87836236
     status: ok

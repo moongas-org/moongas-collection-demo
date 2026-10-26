@@ -15,11 +15,22 @@ trackIdData:
     - id: 0c72e431-b5ed-4f1d-b773-f18f4624de61
       recordings:
       - id: c313005a-505c-40ec-b863-eed8924eccb3
-        isrcs: []
+        isrcs: &id001
+        - USTN10448342
+        title: Dance, Dance Christa Päffgen
+        length: 426493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       score: 0.9827268
     - id: bc73714c-2331-4514-95d3-548af9c91814
       recordings:
       - id: c313005a-505c-40ec-b863-eed8924eccb3
-        isrcs: []
+        isrcs: *id001
+        title: Dance, Dance Christa Päffgen
+        length: 426493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-01'
       score: 0.8790546
     status: ok

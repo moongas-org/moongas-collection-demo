@@ -15,26 +15,68 @@ trackIdData:
     - id: 86c93548-b9bb-4154-8b7c-32627019f51c
       recordings:
       - id: 078e87b2-b0a4-4190-84eb-8d42d309eab9
-        isrcs: []
+        isrcs: &id001
+        - USSM10804435
+        - USSM19917712
+        title: Stop
+        length: 262000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1968-07-22'
       - id: 79de6a4e-3551-4e4c-a04b-1f30ce0e81e7
         isrcs: []
+        title: Stop
+        length: 264533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       score: 0.986221
     - id: b699d812-8f5b-441c-9f48-51df537e35e4
       recordings:
       - id: 078e87b2-b0a4-4190-84eb-8d42d309eab9
-        isrcs: []
+        isrcs: *id001
+        title: Stop
+        length: 262000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1968-07-22'
       - id: 27b3ffbf-a3be-4841-8da1-0ea2b2997e13
         isrcs: []
+        title: Stop
+        length: 263360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2025-07-18'
       - id: 79de6a4e-3551-4e4c-a04b-1f30ce0e81e7
         isrcs: []
+        title: Stop
+        length: 264533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: ce996ddd-e786-4cc1-acca-dcedf5e6906a
         isrcs: []
+        title: Stop
+        length: 258800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       - id: ebf8cdb3-3d79-42ac-a365-d357f06d73a5
         isrcs: []
+        title: Stop
+        length: 264533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-05-10'
       score: 0.9749143
     - id: d3b986ec-a670-4fa1-bb20-7769292ec28d
       recordings:
       - id: ebf8cdb3-3d79-42ac-a365-d357f06d73a5
         isrcs: []
+        title: Stop
+        length: 264533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-05-10'
       score: 0.6683149
     status: ok

@@ -15,23 +15,68 @@ trackIdData:
     - id: 28c71856-47cf-4483-84b2-6b3f7652382b
       recordings:
       - id: 8abb5f5f-01df-4d2d-a201-3dd1c3d373e6
-        isrcs: []
+        isrcs:
+        - QMEJX0900053
+        title: The Package
+        length: 494666
+        video: false
+        disambiguation: 'live, 2011-08-02: Red Rocks Amphitheatre, Morrison, CO, USA'
+        firstReleaseDate: '2013-11-26'
       - id: 99f87835-e17b-49dc-ade2-f1f8c8d31714
         isrcs: []
+        title: The Package
+        length:
+        video: false
+        disambiguation: 'live, 2004‐03‐21: Albuquerque Convention Center, Albuquerque,
+          NM, USA'
+        firstReleaseDate:
       - id: a2819b68-8292-421e-8edf-cd43a7d0c7af
-        isrcs: []
+        isrcs:
+        - USUM71314650
+        title: The Package - Commentary
+        length: 64000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-19'
       - id: c6e7f930-6aa2-4c15-a2a5-9defc09192b3
         isrcs: []
+        title: The Package
+        length:
+        video: false
+        disambiguation: 'live, 2003-11-26: Palace Theater, Albany, NY, USA'
+        firstReleaseDate:
       - id: cd44862f-5686-4acf-9c45-2014c3f4ae9c
         isrcs: []
+        title: The Package
+        length:
+        video: false
+        disambiguation: 'live, 2003‐10‐31: Freeman Coliseum, San Antonio, TX, USA'
+        firstReleaseDate:
       - id: decf58d3-bdb8-47cd-804b-237fea5ae65f
-        isrcs: []
+        isrcs:
+        - QMEJX1300015
+        title: The Package
+        length: 504000
+        video: false
+        disambiguation: 'live, 2010: USA'
+        firstReleaseDate: '2013-11-26'
       - id: fb45832e-941f-4726-913f-1e1164bc1759
-        isrcs: []
+        isrcs: &id001
+        - USVI20301026
+        title: The Package
+        length: 461000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-09-15'
       score: 0.9781777
     - id: 4a72e020-7b82-40a7-ae40-9ce70f4eb396
       recordings:
       - id: fb45832e-941f-4726-913f-1e1164bc1759
-        isrcs: []
+        isrcs: *id001
+        title: The Package
+        length: 461000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-09-15'
       score: 0.8507384
     status: ok

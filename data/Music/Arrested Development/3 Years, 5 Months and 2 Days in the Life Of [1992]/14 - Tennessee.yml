@@ -15,17 +15,41 @@ trackIdData:
     - id: 37e69024-1ff0-4b42-bec1-1212538feef8
       recordings:
       - id: 849fcbdc-45e9-45ea-94fd-853524cbb15b
-        isrcs: []
+        isrcs: &id001
+        - USCH30100128
+        - USCH39200021
+        title: Tennessee
+        length: 273706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       - id: ba4890be-7b13-49e8-a3f9-775773447e66
-        isrcs: []
+        isrcs:
+        - USCH39200021
+        title: Tennessee
+        length: 274280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003'
       - id: ffe16071-129e-47f5-b6b4-7b39bcdce16e
-        isrcs: []
+        isrcs:
+        - USCH39200021
+        title: Tennessee
+        length: 272706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-03-03'
       score: 0.98727584
     - id: ee05b303-28da-401c-a1a4-4d416dbe01f3
       score: 0.89131725
     - id: 0ef202fc-e878-454c-ac7c-685319f6a0a5
       recordings:
       - id: 849fcbdc-45e9-45ea-94fd-853524cbb15b
-        isrcs: []
+        isrcs: *id001
+        title: Tennessee
+        length: 273706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.852024
     status: ok

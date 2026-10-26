@@ -16,18 +16,52 @@ trackIdData:
       recordings:
       - id: 653d9823-c9d9-4087-b8d7-40bc1bbe824d
         isrcs: []
+        title: Diary
+        length: 188000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate:
       - id: 8907671d-ce7c-45ce-81c8-12b18029b639
-        isrcs: []
+        isrcs: &id001
+        - USEE10000094
+        - USEE19900902
+        title: Diary
+        length: 188000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972'
       - id: a984e983-a3b2-44e3-876f-353dfa9a2753
         isrcs: []
+        title: Diary
+        length: 185000
+        video: false
+        disambiguation: quad mix
+        firstReleaseDate: '1973'
       - id: e77b29af-13de-4475-88f1-b5229ffd2668
-        isrcs: []
+        isrcs:
+        - USEE10180856
+        - USEE19900892
+        title: Look What You’ve Done
+        length: 192613
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970'
       score: 0.96545357
     - id: adfd1c9e-3339-4a87-901c-2270884c1492
       recordings:
       - id: 8907671d-ce7c-45ce-81c8-12b18029b639
-        isrcs: []
+        isrcs: *id001
+        title: Diary
+        length: 188000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972'
       - id: a984e983-a3b2-44e3-876f-353dfa9a2753
         isrcs: []
+        title: Diary
+        length: 185000
+        video: false
+        disambiguation: quad mix
+        firstReleaseDate: '1973'
       score: 0.9217102
     status: ok

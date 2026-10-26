@@ -15,16 +15,32 @@ trackIdData:
     - id: ac97f719-5011-4610-be91-c14c769e6c84
       recordings:
       - id: 579dac4e-abc2-4ffb-b85a-4c22f4f7ac47
-        isrcs: []
+        isrcs: &id001
+        - FRS639700610
+        title: You Make It Easy
+        length: 241360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-01-16'
       score: 0.99103373
     - id: dbf8cc32-03bc-4764-a80f-7e8ade3c7fdb
       recordings:
       - id: 579dac4e-abc2-4ffb-b85a-4c22f4f7ac47
-        isrcs: []
+        isrcs: *id001
+        title: You Make It Easy
+        length: 241360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-01-16'
       score: 0.812365
     - id: ef50188b-79b5-4abb-89cd-c46b4667ae0f
       recordings:
       - id: 579dac4e-abc2-4ffb-b85a-4c22f4f7ac47
-        isrcs: []
+        isrcs: *id001
+        title: You Make It Easy
+        length: 241360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-01-16'
       score: 0.7865902
     status: ok

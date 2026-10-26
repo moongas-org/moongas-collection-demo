@@ -15,15 +15,36 @@ trackIdData:
     - id: 1a92bee9-f955-4de4-9215-edea188bd94d
       recordings:
       - id: 1a38bdc5-ec0f-45a6-970d-a7939343862d
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021616
+        title: Modern Man
+        length: 279760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: a1a9b553-2a51-44d5-84c4-411f34c23e2a
         isrcs: []
+        title: Modern Man
+        length: 279000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       score: 0.99874735
     - id: b54fdb7f-897f-4d73-9954-b1228e06a2fb
       recordings:
       - id: 1a38bdc5-ec0f-45a6-970d-a7939343862d
-        isrcs: []
+        isrcs: *id001
+        title: Modern Man
+        length: 279760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: e41fdc1e-c311-421c-af3a-dc4e560eeb69
         isrcs: []
+        title: Modern Man
+        length: 280000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       score: 0.9823642
     status: ok

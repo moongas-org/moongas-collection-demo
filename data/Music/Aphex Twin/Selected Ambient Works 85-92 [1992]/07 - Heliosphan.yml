@@ -16,18 +16,39 @@ trackIdData:
       recordings:
       - id: 0d20e0f4-2bb9-4aa7-8673-e953ba4cb00d
         isrcs: []
+        title: Heliosphan
+        length: 293000
+        video: false
+        disambiguation: part of "Inner Space - Chill Out Vol. 1" DJ mix
+        firstReleaseDate: 2000-03
       - id: 3038681f-15e7-4268-948f-e290540a4393
-        isrcs: []
+        isrcs: &id001
+        - BEZ350800028
+        title: Heliosphan
+        length: 293800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.99147946
     - id: e9b23c48-5dcd-4582-a748-6ada45330f00
       recordings:
       - id: 3038681f-15e7-4268-948f-e290540a4393
-        isrcs: []
+        isrcs: *id001
+        title: Heliosphan
+        length: 293800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.98639077
     - id: 552f1744-ce0f-4f3a-b772-125e913f5b97
       recordings:
       - id: 3038681f-15e7-4268-948f-e290540a4393
-        isrcs: []
+        isrcs: *id001
+        title: Heliosphan
+        length: 293800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.9648342
     - id: a69a4898-e3a5-464f-bcf7-30e10ed5d97f
       score: 0.5864292

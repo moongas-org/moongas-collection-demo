@@ -16,27 +16,80 @@ trackIdData:
       recordings:
       - id: 0a8fe55a-2d18-40df-bfbd-010e5f16eb9f
         isrcs: []
+        title: Hand in My Pocket
+        length: 220000
+        video: true
+        disambiguation: ''
+        firstReleaseDate:
       - id: 8ca01ffc-7edf-4912-9936-6f42a0599588
-        isrcs: []
+        isrcs:
+        - USSM10103339
+        title: In My Pocket
+        length: 219559
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-04
       - id: a905e294-853a-436c-aa70-161e930265ee
-        isrcs: []
+        isrcs: &id001
+        - USMV20500306
+        - USMV21500004
+        - USMV21500039
+        - USMV29900093
+        title: Hand in My Pocket
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       - id: b86393e6-f713-4f60-bae5-06deca9a8dc9
-        isrcs: []
+        isrcs:
+        - USMV22000030
+        title: Hand in My Pocket
+        length: 217000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate: '2020-06-26'
       - id: d90e5b83-bddc-4b14-8697-f44e0d168c57
         isrcs: []
+        title: Hand in My Pocket
+        length: 218000
+        video: false
+        disambiguation: clean version
+        firstReleaseDate: '1995'
       score: 0.9736287
     - id: 972b42fe-6bdd-416b-bd59-a015914c0677
       recordings:
       - id: a905e294-853a-436c-aa70-161e930265ee
-        isrcs: []
+        isrcs: *id001
+        title: Hand in My Pocket
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       score: 0.9538832
     - id: 3d8af238-bbf0-4aaf-a3a1-79c1bf07d311
       recordings:
       - id: 4d0d2d49-f2b5-42fb-9f2d-88725f98d74a
-        isrcs: []
+        isrcs:
+        - DEE861200509
+        title: Woman Down
+        length: 212000
+        video: false
+        disambiguation: live, Berlin, Germany
+        firstReleaseDate: '2012-08-24'
       - id: 6571fb8a-9fa6-4af2-aa09-ea8efbc1a481
-        isrcs: []
+        isrcs:
+        - DEE861200518
+        title: Hand in My Pocket
+        length: 314986
+        video: false
+        disambiguation: live, Berlin, Germany
+        firstReleaseDate: '2012-08-24'
       - id: a905e294-853a-436c-aa70-161e930265ee
-        isrcs: []
+        isrcs: *id001
+        title: Hand in My Pocket
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       score: 0.94257647
     status: ok

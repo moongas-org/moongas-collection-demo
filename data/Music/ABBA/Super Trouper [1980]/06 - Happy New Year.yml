@@ -15,26 +15,71 @@ trackIdData:
     - id: 0e77af56-d567-47c6-a1f2-e60ef3347e4c
       recordings:
       - id: 160e5ccf-0924-4f53-838a-34db946aee0b
-        isrcs: []
+        isrcs: &id001
+        - SEAYD8001060
+        title: Happy New Year
+        length: 264000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-03'
       - id: 8acc3ab6-aab7-4dd6-b4d1-9dd58fde14d1
-        isrcs: []
+        isrcs:
+        - SEA017700030
+        - SEAYD7702090
+        - SEAYD7790004
+        title: I Wonder (Departure)
+        length: 273466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977-10-14'
       - id: e9cd711e-e577-4271-b12e-f020a2e04738
-        isrcs: []
+        isrcs: &id002
+        - SEAY88001060
+        title: Happy New Year
+        length: 267000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2002-07-15'
       score: 0.98124343
     - id: 8f84331a-0c5d-4c4c-829b-00539b7a9a89
       recordings:
       - id: 160e5ccf-0924-4f53-838a-34db946aee0b
-        isrcs: []
+        isrcs: *id001
+        title: Happy New Year
+        length: 264000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-03'
       - id: e9cd711e-e577-4271-b12e-f020a2e04738
-        isrcs: []
+        isrcs: *id002
+        title: Happy New Year
+        length: 267000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2002-07-15'
       score: 0.9674314
     - id: 9f46429e-8319-4f70-a60d-536621b16374
       recordings:
       - id: 160e5ccf-0924-4f53-838a-34db946aee0b
-        isrcs: []
+        isrcs: *id001
+        title: Happy New Year
+        length: 264000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-03'
       - id: 243a0caf-dc25-4a78-bf19-06ce524a359c
         isrcs: []
+        title: Happy New Year (SVT)
+        length: 275000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2011-05-09'
       - id: e9cd711e-e577-4271-b12e-f020a2e04738
-        isrcs: []
+        isrcs: *id002
+        title: Happy New Year
+        length: 267000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2002-07-15'
       score: 0.9612671
     status: ok

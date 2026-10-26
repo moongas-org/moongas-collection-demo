@@ -15,33 +15,105 @@ trackIdData:
     - id: a99734f7-8e82-4838-8677-6f282f8bf145
       recordings:
       - id: 4ee2ff88-ac68-4dee-9f7f-da99f6600415
-        isrcs: []
+        isrcs: &id001
+        - USIR27700012
+        title: Exodus
+        length: 459666
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1977-06-03'
       - id: 5d96bcf1-e25d-4cc0-a694-1bf3ae68f968
         isrcs: []
+        title: Exodus
+        length: 460333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       - id: 82a6f20d-93ac-4849-a490-bf24cccdf005
-        isrcs: []
+        isrcs: &id002
+        - USIR20200204
+        title: Exodus
+        length: 447733
+        video: false
+        disambiguation: 12″ edit
+        firstReleaseDate: '1977'
       score: 0.98117745
     - id: 206ac469-e796-4575-948a-146a97b5f74f
       recordings:
       - id: 48c77d27-9003-44a8-87fa-46f553a24a94
         isrcs: []
+        title: Exodus
+        length: 450080
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-06-08'
       - id: 4ee2ff88-ac68-4dee-9f7f-da99f6600415
-        isrcs: []
+        isrcs: *id001
+        title: Exodus
+        length: 459666
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1977-06-03'
       - id: 5d96bcf1-e25d-4cc0-a694-1bf3ae68f968
         isrcs: []
+        title: Exodus
+        length: 460333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       - id: 7257f597-0f05-4abf-a1f5-d222f034e7eb
         isrcs: []
+        title: Exodus
+        length: 461000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate:
       - id: 82a6f20d-93ac-4849-a490-bf24cccdf005
-        isrcs: []
+        isrcs: *id002
+        title: Exodus
+        length: 447733
+        video: false
+        disambiguation: 12″ edit
+        firstReleaseDate: '1977'
       - id: 98ff4ead-9492-44db-9719-cbb4dd025f6c
-        isrcs: []
+        isrcs:
+        - GBAJE7200189
+        - GBAWA0518701
+        - GBFWU0400178
+        - USA560686245
+        title: Lively Up Yourself
+        length: 172000
+        video: false
+        disambiguation: 1971 studio session
+        firstReleaseDate: 1973-06
       - id: a62f4883-5feb-4988-b98c-87ca86b12379
         isrcs: []
+        title: Exodus
+        length: 451200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: ef5cdd11-6114-4af8-8bf0-9749f6026ea0
         isrcs: []
+        title: Exodus
+        length: 448853
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-03-25'
       - id: f2cec149-51ea-4306-b314-fb301868d1fa
         isrcs: []
+        title: Exodus
+        length: 434000
+        video: false
+        disambiguation: 'live, 1980-07-12: Deeside Leisure Centre, Chester, UK; includes
+          intro to next song'
+        firstReleaseDate:
       - id: fd501174-1be9-4aea-8b3e-11f154259bec
         isrcs: []
+        title: Exodus
+        length: 448000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002'
       score: 0.9710245
     status: ok

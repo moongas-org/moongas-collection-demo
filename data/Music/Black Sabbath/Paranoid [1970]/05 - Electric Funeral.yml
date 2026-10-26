@@ -15,23 +15,70 @@ trackIdData:
     - id: aa6a5ebd-2fd1-42e9-8380-90a85e12a0f8
       recordings:
       - id: 107c5e33-547b-4cfb-b326-59023c369c4a
-        isrcs: []
+        isrcs: &id001
+        - AUXN22142434
+        - GB5KW1601289
+        - GBAJE7000086
+        - USWB11304631
+        - USWB19900216
+        title: Electric Funeral
+        length: 290000
+        video: false
+        disambiguation: original stereo studio mix
+        firstReleaseDate: '1970-09-18'
       - id: c5e4c6db-cd31-48e5-9ffe-ed86148bd217
-        isrcs: []
+        isrcs: &id002
+        - GBAJE7000086
+        title: Electric Funeral
+        length: 289813
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016-11-11'
       score: 0.9832542
     - id: 431f72dc-905f-43f1-8da2-bbaf58cc6990
       recordings:
       - id: 033f9cac-5a22-43da-849f-6e056fd42723
         isrcs: []
+        title: Electric Funeral
+        length: 290826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: 107c5e33-547b-4cfb-b326-59023c369c4a
-        isrcs: []
+        isrcs: *id001
+        title: Electric Funeral
+        length: 290000
+        video: false
+        disambiguation: original stereo studio mix
+        firstReleaseDate: '1970-09-18'
       - id: 7a391adc-1e85-4e9f-b367-0c46727daf17
         isrcs: []
+        title: Electric Funeral
+        length: 286000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989'
       - id: afbb9b9b-20b8-49ff-a350-c15b612fdc09
-        isrcs: []
+        isrcs:
+        - USRH11604252
+        title: Electric Funeral
+        length: 296000
+        video: false
+        disambiguation: Quadradisc mix in stereo
+        firstReleaseDate: '2016-11-11'
       - id: b5d45ce8-9cb2-4d64-a25e-11d6de7b9328
         isrcs: []
+        title: Electric Funeral
+        length: 290000
+        video: false
+        disambiguation: quadraphonic mix
+        firstReleaseDate: '1974'
       - id: c5e4c6db-cd31-48e5-9ffe-ed86148bd217
-        isrcs: []
+        isrcs: *id002
+        title: Electric Funeral
+        length: 289813
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016-11-11'
       score: 0.97619987
     status: ok

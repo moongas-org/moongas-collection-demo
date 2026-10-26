@@ -15,21 +15,42 @@ trackIdData:
     - id: 6ddf361e-f4c7-473f-a468-87c8852b7943
       recordings:
       - id: 365e1251-3776-4a1a-8ef2-d3b52c69cbf7
-        isrcs: []
+        isrcs: &id001
+        - BEZ350800029
+        title: We Are the Music Makers
+        length: 463506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.9906509
     - id: 54d67d4c-ca11-4b2e-b8b1-6a8f72c32b3f
       recordings:
       - id: 365e1251-3776-4a1a-8ef2-d3b52c69cbf7
-        isrcs: []
+        isrcs: *id001
+        title: We Are the Music Makers
+        length: 463506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.97344804
     - id: a550df5e-ea5f-433b-a96b-a0c1ddcd561b
       recordings:
       - id: 365e1251-3776-4a1a-8ef2-d3b52c69cbf7
-        isrcs: []
+        isrcs: *id001
+        title: We Are the Music Makers
+        length: 463506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.89246887
     - id: 3d14630d-1039-460d-9b66-29c8c6e6da30
       recordings:
       - id: 365e1251-3776-4a1a-8ef2-d3b52c69cbf7
-        isrcs: []
+        isrcs: *id001
+        title: We Are the Music Makers
+        length: 463506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.86672807
     status: ok

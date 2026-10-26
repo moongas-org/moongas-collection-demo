@@ -15,24 +15,63 @@ trackIdData:
     - id: 8c7feda2-7215-4559-8af1-ce56c985d759
       recordings:
       - id: 647be9e2-f19b-465b-a562-147f5141b952
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601280
+        - GBAJE7000080
+        title: Evil Woman (Don’t Play Your Games With Me)
+        length: 204000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970-02-13'
       - id: c5af73f2-ef06-4e5d-b1e1-906b4d1fc1fb
-        isrcs: []
+        isrcs:
+        - USRN10000028
+        - USRN19900097
+        title: There You Are
+        length: 206533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-09-14'
       score: 0.977057
     - id: 8fee381c-dfca-4684-aae1-944b13e9bf9b
       recordings:
       - id: 3b44a3c0-d2e8-4e44-aa3a-51d85e4eaae7
         isrcs: []
+        title: Evil Woman
+        length: 200360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970'
       - id: 647be9e2-f19b-465b-a562-147f5141b952
-        isrcs: []
+        isrcs: *id001
+        title: Evil Woman (Don’t Play Your Games With Me)
+        length: 204000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970-02-13'
       - id: 6c55a725-b882-4558-8120-d585a124b693
         isrcs: []
+        title: Track 05
+        length: 202186
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: cc25aac0-2638-484c-a7b7-298b747dd2e0
         isrcs: []
+        title: Evil Woman, Don’t Play Your Games With Me
+        length: 217000
+        video: false
+        disambiguation: original stereo mix
+        firstReleaseDate: '1970-03-26'
       score: 0.96845335
     - id: 3d509a76-ed13-4a5b-b9b4-19507d4573c4
       recordings:
       - id: de9c6925-a0d9-471f-944d-b1fb55ee89a7
         isrcs: []
+        title: Turn Up the Night
+        length: 219106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-06-05'
       score: 0.9368737
     status: ok

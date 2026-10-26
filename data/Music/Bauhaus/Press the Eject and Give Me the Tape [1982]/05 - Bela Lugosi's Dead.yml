@@ -15,27 +15,81 @@ trackIdData:
     - id: 372b1510-8a58-429b-b076-6f662d314a3a
       recordings:
       - id: 0ea61985-5c9e-43e6-ae2b-7fe251d9d57c
-        isrcs: []
+        isrcs:
+        - QMHG41850001
+        title: Bela Lugosi’s Dead (official version)
+        length: 577000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018-11-23'
       - id: 5e384390-a056-4cd0-98ca-3b93a4651969
-        isrcs: []
+        isrcs: &id001
+        - QMHG41850001
+        - USCK30700912
+        title: Bela Lugosi’s Dead
+        length: 577000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1979-08-06'
       - id: 730a308e-69ee-42a6-8271-4c42b0b53d47
         isrcs: []
+        title: Bela Lugosi’s Dead (original 12″ mix)
+        length: 572786
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-08-15'
       - id: 8bdb2993-a000-4e8e-868c-262656199874
         isrcs: []
+        title: Bela Lugosi’s Dead
+        length: 573000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       - id: 8ce4fed3-56aa-43ac-bec7-e5f6a10261c3
         isrcs: []
+        title: Bela Lugosi’s Dead
+        length: 573333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       - id: a213e3f0-fe32-48f6-9375-2b1b3ed555e2
-        isrcs: []
+        isrcs: &id002
+        - GBAZP0900001
+        title: Bela Lugosi’s Dead (Tomb Raider mix)
+        length: 570000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       score: 0.98928666
     - id: 6f584e94-223d-4a5e-abca-73a16e5e3e45
       recordings:
       - id: 5e384390-a056-4cd0-98ca-3b93a4651969
-        isrcs: []
+        isrcs: *id001
+        title: Bela Lugosi’s Dead
+        length: 577000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1979-08-06'
       - id: 730a308e-69ee-42a6-8271-4c42b0b53d47
         isrcs: []
+        title: Bela Lugosi’s Dead (original 12″ mix)
+        length: 572786
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-08-15'
       - id: 8ce4fed3-56aa-43ac-bec7-e5f6a10261c3
         isrcs: []
+        title: Bela Lugosi’s Dead
+        length: 573333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       - id: a213e3f0-fe32-48f6-9375-2b1b3ed555e2
-        isrcs: []
+        isrcs: *id002
+        title: Bela Lugosi’s Dead (Tomb Raider mix)
+        length: 570000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       score: 0.9397745
     status: ok

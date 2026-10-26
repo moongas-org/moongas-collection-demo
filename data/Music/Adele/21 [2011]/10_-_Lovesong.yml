@@ -16,23 +16,60 @@ trackIdData:
       recordings:
       - id: 31a221b8-25be-4c90-a481-680a16283c08
         isrcs: []
+        title: Lovesong
+        length: 364000
+        video: false
+        disambiguation: 'live, 2011-04-08: Paradiso FM, Amsterdam, Netherlands'
+        firstReleaseDate: '2011-04-28'
       - id: 733acb93-0c8b-4cbe-9030-ed73b9c7690d
         isrcs: []
+        title: Love Song (live)
+        length: 317023
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012'
       - id: 7932ba40-a0d3-4a7e-8d85-b351fd33317e
-        isrcs: []
+        isrcs: &id001
+        - GBBKS1000352
+        title: Lovesong
+        length: 316280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       - id: b26301a6-96dc-47b6-be40-e31cfc8cb228
         isrcs: []
+        title: Lovesong
+        length:
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2012'
       - id: fe4c59a4-f561-4e88-8d0c-d66ae64907c3
-        isrcs: []
+        isrcs:
+        - GBBKS1100247
+        title: Lovesong
+        length: 317000
+        video: false
+        disambiguation: 'live, 2011-09-22: Royal Albert Hall, London, UK'
+        firstReleaseDate: '2011-11-25'
       score: 0.99792325
     - id: ff8af719-0ba5-4544-b118-f800fffb2b44
       recordings:
       - id: 7932ba40-a0d3-4a7e-8d85-b351fd33317e
-        isrcs: []
+        isrcs: *id001
+        title: Lovesong
+        length: 316280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.9782766
     - id: 3080eca1-0430-4620-bb0e-2e3323a9d10d
       recordings:
       - id: 7932ba40-a0d3-4a7e-8d85-b351fd33317e
-        isrcs: []
+        isrcs: *id001
+        title: Lovesong
+        length: 316280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.5940137
     status: ok

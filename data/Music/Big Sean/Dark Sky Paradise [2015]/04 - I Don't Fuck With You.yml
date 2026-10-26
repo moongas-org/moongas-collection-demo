@@ -16,23 +16,55 @@ trackIdData:
       recordings:
       - id: 7fec7349-56c2-48ea-ac85-49d3a46252b3
         isrcs: []
+        title: I Don't F**k With You
+        length: 284000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-09-19'
       - id: adcfa0c2-99ab-4529-87ed-169ac0e4f646
-        isrcs: []
+        isrcs: &id001
+        - USUM71414033
+        title: I Don’t Fuck With You
+        length: 284386
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2015-02-20'
       - id: e23e3fbd-7c60-4599-9b76-4c88e2322442
         isrcs: []
+        title: I Don't Fuck With You
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-12-09'
       - id: fbe758fd-ca6a-4f91-becf-da9207ffc5de
-        isrcs: []
+        isrcs:
+        - USUM71414034
+        title: I Don’t F**k With You
+        length: 284408
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '2015-02-24'
       score: 0.98203456
     - id: 8db62f31-6a79-4334-b338-6e7041fd46f3
       recordings:
       - id: 7fec7349-56c2-48ea-ac85-49d3a46252b3
         isrcs: []
+        title: I Don't F**k With You
+        length: 284000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-09-19'
       score: 0.7980947
     - id: 2516f9ac-86ee-4aa0-8311-f1ccaf76b2d9
       score: 0.7721165
     - id: b8de90b4-9cbd-48f2-b1da-66541bf70ddc
       recordings:
       - id: adcfa0c2-99ab-4529-87ed-169ac0e4f646
-        isrcs: []
+        isrcs: *id001
+        title: I Don’t Fuck With You
+        length: 284386
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2015-02-20'
       score: 0.7618671
     status: ok

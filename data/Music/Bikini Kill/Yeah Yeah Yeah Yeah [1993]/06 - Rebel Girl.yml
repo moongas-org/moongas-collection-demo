@@ -15,19 +15,52 @@ trackIdData:
     - id: 1978c23f-9a47-47e5-93d6-44543b4e0b96
       recordings:
       - id: 4e80b278-bede-48a0-9b43-6f50768e0cb8
-        isrcs: []
+        isrcs: &id001
+        - USKRS0329802
+        title: Rebel Girl
+        length: 157333
+        video: false
+        disambiguation: 7" version w/ Joan Jett backing vocals/guitar
+        firstReleaseDate: 1993-09
       - id: b7d8e613-0f2a-42e1-b74f-d541d7c3e1a6
         isrcs: []
+        title: Rebel Girl
+        length: 169000
+        video: false
+        disambiguation: Yeah Yeah Yeah Yeah LP version
+        firstReleaseDate: '1992'
       - id: e2698f6d-dd9c-48f6-a818-8382149173fb
-        isrcs: []
+        isrcs:
+        - QMP4J1301304
+        title: Rebel Girl
+        length: 157000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-10-13'
       score: 0.9892537
     - id: b70ab4f9-6e0e-4160-801f-ee219106f863
       recordings:
       - id: 0bd26a45-4709-4138-bfa0-44a86bd3d965
-        isrcs: []
+        isrcs:
+        - USKRS0329802
+        title: Rebel Girl
+        length: 156426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018-09-28'
       - id: 320b472e-1d52-44f2-aa44-4ffd4d58bf97
         isrcs: []
+        title: Rebel Girl
+        length: 171240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-01-27'
       - id: 4e80b278-bede-48a0-9b43-6f50768e0cb8
-        isrcs: []
+        isrcs: *id001
+        title: Rebel Girl
+        length: 157333
+        video: false
+        disambiguation: 7" version w/ Joan Jett backing vocals/guitar
+        firstReleaseDate: 1993-09
       score: 0.9092827
     status: ok

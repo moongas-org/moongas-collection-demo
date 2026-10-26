@@ -15,17 +15,45 @@ trackIdData:
     - id: c9e66ea9-37ac-4282-ab11-6eef137129dd
       recordings:
       - id: 0686c33e-b368-43f1-8324-787bd2fd3109
-        isrcs: []
+        isrcs: &id001
+        - USUM71308137
+        title: Feds Watching
+        length: 250000
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2013-01-01'
       score: 0.97910076
     - id: fac5ca21-9f89-4dc8-a446-a894cec0d33d
       recordings:
       - id: 0686c33e-b368-43f1-8324-787bd2fd3109
-        isrcs: []
+        isrcs: *id001
+        title: Feds Watching
+        length: 250000
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2013-01-01'
       - id: 371bf9f3-7ceb-4892-ba07-f17a958ea124
-        isrcs: []
+        isrcs:
+        - USUM71510751
+        title: Watch Out
+        length: 207000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-07-21'
       - id: 378c42a7-fb83-4adf-8a50-8a671fdde19c
         isrcs: []
+        title: Feds Watching
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013'
       - id: 700d3a61-c352-4710-b9d4-6179cbfba667
-        isrcs: []
+        isrcs:
+        - USUM71306927
+        title: Feds Watching
+        length: 247013
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '2013-09-10'
       score: 0.9749473
     status: ok

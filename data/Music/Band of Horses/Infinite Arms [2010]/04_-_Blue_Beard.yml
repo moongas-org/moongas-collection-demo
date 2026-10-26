@@ -15,11 +15,22 @@ trackIdData:
     - id: 2850193a-0f3a-45cd-98b3-2827c0642d85
       recordings:
       - id: 7b40016d-209e-4cec-8a68-12053c6cab58
-        isrcs: []
+        isrcs: &id001
+        - USQX91000273
+        title: Blue Beard
+        length: 202360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.9646954
     - id: 7721281f-e3b8-41ef-bb28-1c53f80ec9d4
       recordings:
       - id: 7b40016d-209e-4cec-8a68-12053c6cab58
-        isrcs: []
+        isrcs: *id001
+        title: Blue Beard
+        length: 202360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.8559797
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: b0ec9ef1-8ee9-4eb4-b192-32fa92b4852c
       recordings:
       - id: 24fa2f0e-4d21-44f0-8707-3673768e2040
-        isrcs: []
+        isrcs: &id001
+        - GBDNH0400381
+        title: Storm and Stress
+        length: 166120
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-07-12'
       score: 0.96964
     - id: 883a9f9b-9e76-466c-9ec4-b25a1f9f92b0
       recordings:
       - id: 24fa2f0e-4d21-44f0-8707-3673768e2040
-        isrcs: []
+        isrcs: *id001
+        title: Storm and Stress
+        length: 166120
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-07-12'
       score: 0.86537445
     status: ok

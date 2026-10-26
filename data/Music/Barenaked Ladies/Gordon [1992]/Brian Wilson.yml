@@ -15,29 +15,88 @@ trackIdData:
     - id: be789675-bfec-4523-b1f1-9348764d24f2
       recordings:
       - id: 145cc521-8724-427f-ac09-d8cc80f6d9cc
-        isrcs: []
+        isrcs: &id001
+        - USRE19600321
+        title: Brian Wilson
+        length: 285493
+        video: false
+        disambiguation: 'live, 1996-04-17: Riviera Theatre, Chicago, IL, USA'
+        firstReleaseDate: '1996-11-19'
       - id: 23687920-5445-40c0-a5c0-ac102059a47a
         isrcs: []
+        title: Brian Wilson (live)
+        length: 289506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999'
       - id: 305acd2d-139c-4632-a975-1b3c58b64ea8
         isrcs: []
+        title: Brian Wilson
+        length: 290600
+        video: false
+        disambiguation: 'live, 2001-11-30: Roseland Ballroom, New York, NY, USA'
+        firstReleaseDate:
       - id: 37ceefad-4163-4932-9de3-c82e9876eff0
-        isrcs: []
+        isrcs:
+        - SEAYD7301090
+        title: He Is Your Brother
+        length: 199373
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-11-01'
       - id: 80c9bb17-3ca3-4991-9752-961421a67ae2
         isrcs: []
+        title: Brian Wilson (album version)
+        length: 289133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999'
       - id: 82f40701-f7b3-4002-871c-e0d36c5f5b25
         isrcs: []
+        title: Brian Wilson (2000)
+        length: 215000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999'
       - id: 83d95e86-d3ac-4604-b07b-4109a8bcc744
-        isrcs: []
+        isrcs:
+        - USRE19200002
+        title: Brian Wilson
+        length: 289000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-07-28'
       - id: ae9db17b-1b9a-4cc1-8f8a-ee00e2874b13
         isrcs: []
+        title: Brian Wilson
+        length: 288960
+        video: false
+        disambiguation: '"Yellow Tape" version'
+        firstReleaseDate: 1991-07
       - id: cddef0bf-dbdf-4ac2-bb08-23a02dc9e613
         isrcs: []
+        title: Brian Wilson
+        length: 301000
+        video: false
+        disambiguation: 'live, 2007-06-15: DTE Energy Music Theatre, Clarkston, MI,
+          USA'
+        firstReleaseDate: '2007-10-30'
       - id: f17e07c2-bf9f-41c3-b126-4bef6ef6e6cc
         isrcs: []
+        title: Brian Wilson
+        length: 302000
+        video: false
+        disambiguation: 'live, 2004-05-04: Olympia Theatre, Dublin, Ireland'
+        firstReleaseDate: '2006-04-04'
       score: 0.9729694
     - id: 8df37e86-2d23-40fd-9d4f-6af732a725dc
       recordings:
       - id: 145cc521-8724-427f-ac09-d8cc80f6d9cc
-        isrcs: []
+        isrcs: *id001
+        title: Brian Wilson
+        length: 285493
+        video: false
+        disambiguation: 'live, 1996-04-17: Riviera Theatre, Chicago, IL, USA'
+        firstReleaseDate: '1996-11-19'
       score: 0.85476005
     status: ok

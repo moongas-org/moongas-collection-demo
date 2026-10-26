@@ -16,16 +16,42 @@ trackIdData:
       recordings:
       - id: 08fcf009-1563-4218-8de4-f39e82861b52
         isrcs: []
+        title: A Great Design
+        length: 271000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-07-01'
       - id: 31daaf41-f23a-40ab-85f9-3a8638d92020
         isrcs: []
+        title: Olex
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       - id: 490faed2-48f5-4257-a2ba-4a3fb1446b54
         isrcs: []
+        title: A Great Design
+        length: 271000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-10-01'
       - id: f57563f4-5a99-40f4-89cb-06916823a5ba
-        isrcs: []
+        isrcs: &id001
+        - USHF31206303
+        title: A Great Design
+        length: 270000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-10-09'
       score: 0.98424315
     - id: 7fccf27b-aabe-47cf-8a76-da946f361a21
       recordings:
       - id: f57563f4-5a99-40f4-89cb-06916823a5ba
-        isrcs: []
+        isrcs: *id001
+        title: A Great Design
+        length: 270000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-10-09'
       score: 0.893394
     status: ok

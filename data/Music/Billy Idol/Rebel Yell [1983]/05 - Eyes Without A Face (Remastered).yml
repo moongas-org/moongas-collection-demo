@@ -15,17 +15,47 @@ trackIdData:
     - id: ccd0ca33-f872-464b-805d-b7e984925398
       recordings:
       - id: 9ad4e4f4-6460-44f2-88ef-6d82e83a5b74
-        isrcs: []
+        isrcs: &id001
+        - USCH38400023
+        - USCH39900056
+        title: Eyes Without a Face
+        length: 298000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1983-11-10'
       - id: e2c35987-296b-4a88-a450-c37b69d68932
-        isrcs: []
+        isrcs:
+        - USCH38400023
+        - USCH38800011
+        title: Eyes Without a Face
+        length: 249840
+        video: false
+        disambiguation: single version
+        firstReleaseDate: '1984-09-29'
       score: 0.98734176
     - id: fefa5d3e-cd8d-4f9b-bf51-7bbad08f10c1
       recordings:
       - id: 38255f69-fbb5-4109-93ab-1787009d1b95
         isrcs: []
+        title: Eyes Without a Face
+        length: 297000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2008-06-24'
       - id: 9ad4e4f4-6460-44f2-88ef-6d82e83a5b74
-        isrcs: []
+        isrcs: *id001
+        title: Eyes Without a Face
+        length: 298000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1983-11-10'
       - id: de967c79-254f-4367-84d5-997dac943854
-        isrcs: []
+        isrcs:
+        - USUM72310311
+        title: Eyes Without a Face
+        length: 299000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate: '2023-11-11'
       score: 0.9782766
     status: ok

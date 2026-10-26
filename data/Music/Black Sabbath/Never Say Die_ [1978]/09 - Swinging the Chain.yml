@@ -15,14 +15,33 @@ trackIdData:
     - id: 9696a8d4-c38d-4fdf-ba27-ca2235e69829
       recordings:
       - id: 01d8ca63-41c2-4445-ab44-b32b1ea677c9
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1602018
+        - GBAJE7800062
+        - USWB11304558
+        - USWB19901299
+        title: Swinging the Chain
+        length: 247173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-28'
       - id: 749303aa-1474-40dd-96c2-6a6e84399fcc
         isrcs: []
+        title: Swinging the Chain
+        length: 257399
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-04-27'
       score: 0.9907041
     - id: 7a6b12c2-ee49-4592-ba57-b4197d951aed
       recordings:
       - id: 01d8ca63-41c2-4445-ab44-b32b1ea677c9
-        isrcs: []
+        isrcs: *id001
+        title: Swinging the Chain
+        length: 247173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-28'
       score: 0.90921676
     - id: 2c187776-baaa-44e4-8aa4-83abb12a0e63
       score: 0.8671875

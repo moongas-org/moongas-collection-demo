@@ -15,18 +15,46 @@ trackIdData:
     - id: a5edf4b9-f25e-486b-bd92-0347ac23768f
       recordings:
       - id: 097487a5-6064-4103-a49c-e4620314df27
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7090004
+        - GBAJE7000196
+        - GBFWU0400084
+        title: Do It Twice
+        length: 163000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-08
       - id: 65fa0a45-8400-4c3e-8814-b0da1092993d
         isrcs: []
+        title: Do It Twice
+        length: 160935
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-01-23'
       - id: 7972eaa2-1964-41a7-a115-8df2ee0bc2eb
         isrcs: []
+        title: Do It Twice
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       score: 0.9877044
     - id: eb02c789-8141-459f-bb36-ce69b0ef052e
       recordings:
       - id: 097487a5-6064-4103-a49c-e4620314df27
-        isrcs: []
+        isrcs: *id001
+        title: Do It Twice
+        length: 163000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-08
       - id: 65fa0a45-8400-4c3e-8814-b0da1092993d
         isrcs: []
+        title: Do It Twice
+        length: 160935
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-01-23'
       score: 0.9810456
     - id: 79e45ebb-b695-4711-aae1-ad9b40ffbd29
       score: 0.76687765

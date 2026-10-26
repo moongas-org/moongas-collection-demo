@@ -15,15 +15,38 @@ trackIdData:
     - id: ec39b9a3-9ff3-4f2f-ae31-901139705bbd
       recordings:
       - id: 1a89655d-c405-43a3-a0ff-aac90fb3b2f8
-        isrcs: []
+        isrcs: &id001
+        - USSM17600765
+        title: The Revenge of Vera Gemini
+        length: 231383
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-05-21'
       - id: a2bbe818-c359-4bcd-b90a-c8e37b60107b
-        isrcs: []
+        isrcs:
+        - USSM10212942
+        title: The Revenge of Vera Gemini (5.1 mix)
+        length: 232000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-01-21'
       - id: d0e092cc-304d-4e96-9dea-8e4fd75e9d30
-        isrcs: []
+        isrcs:
+        - ITG272000239
+        title: The Revenge of Vera Gemini
+        length: 242987
+        video: false
+        disambiguation: 'live, 2016-04-08: Red Studios, Hollywood, CA, USA'
+        firstReleaseDate: '2020-03-06'
       score: 0.99775845
     - id: fc38bca2-c53e-41d7-a0bc-657e79c2be8d
       recordings:
       - id: 1a89655d-c405-43a3-a0ff-aac90fb3b2f8
-        isrcs: []
+        isrcs: *id001
+        title: The Revenge of Vera Gemini
+        length: 231383
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-05-21'
       score: 0.9018665
     status: ok

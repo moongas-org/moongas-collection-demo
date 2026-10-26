@@ -15,11 +15,23 @@ trackIdData:
     - id: 3f8a0bfb-9b71-4d95-9711-5ed00916772c
       recordings:
       - id: f6c00fdd-6f22-416e-a3e9-4a396836839e
-        isrcs: []
+        isrcs: &id001
+        - USCH30100105
+        - USCH38500018
+        title: 11:59
+        length: 200053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-08'
       score: 0.9590585
     - id: 7af93c4c-7685-408b-b13a-1f7debe32a75
       recordings:
       - id: f6c00fdd-6f22-416e-a3e9-4a396836839e
-        isrcs: []
+        isrcs: *id001
+        title: 11:59
+        length: 200053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-08'
       score: 0.90410733
     status: ok

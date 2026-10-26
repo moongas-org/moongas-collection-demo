@@ -15,17 +15,44 @@ trackIdData:
     - id: 7b5351a2-18ef-4e57-8490-a1c3d3520bce
       recordings:
       - id: 4a6ad571-f3d8-40d2-b5b5-aabaf1fb7dd0
-        isrcs: []
+        isrcs: &id001
+        - USSM19200800
+        title: Dam That River
+        length: 189360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       - id: 79d77a24-cf3d-44f7-a520-bb54efba31c8
         isrcs: []
+        title: Dam That River
+        length:
+        video: false
+        disambiguation: 'live, 1993‐07‐02: Mejeriet, Lund, Sweden'
+        firstReleaseDate: '1993'
       - id: 8d219f46-3289-42b6-ba88-ec6ae5cbd370
         isrcs: []
+        title: Dam That River
+        length: 190000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: fc3b2bee-2dcb-4098-b3f0-ddab50efe078
         isrcs: []
+        title: Dam That River
+        length:
+        video: false
+        disambiguation: 'live, 1992‐10‐08: Oakland–Alameda County Coliseum, Oakland,
+          CA, USA'
+        firstReleaseDate: '2017-07-24'
       score: 0.9730683
     - id: 7256f05d-03f5-4215-bc33-0ba044238bec
       recordings:
       - id: 4a6ad571-f3d8-40d2-b5b5-aabaf1fb7dd0
-        isrcs: []
+        isrcs: *id001
+        title: Dam That River
+        length: 189360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.83046544
     status: ok

@@ -15,16 +15,32 @@ trackIdData:
     - id: 48ae4016-d07c-4be7-b67c-1feb63072796
       recordings:
       - id: f239b45b-1039-4a49-a393-c490839ce91b
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700212
+        title: rale
+        length: 222533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.9943631
     - id: c086072e-cef8-49ff-b5ac-c1ce0bdec344
       recordings:
       - id: f239b45b-1039-4a49-a393-c490839ce91b
-        isrcs: []
+        isrcs: *id001
+        title: rale
+        length: 222533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.9013713
     - id: 1e7bb6cc-4ea5-43ee-b536-064b607a320f
       recordings:
       - id: f239b45b-1039-4a49-a393-c490839ce91b
-        isrcs: []
+        isrcs: *id001
+        title: rale
+        length: 222533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.8155986
     status: ok

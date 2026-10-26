@@ -15,18 +15,39 @@ trackIdData:
     - id: fd6ab3bf-df36-4a00-b116-9db41823f348
       recordings:
       - id: 866cb284-51f1-4e7b-8e62-d854a7ee3c65
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9800024
+        title: Smokes Quantity
+        length: 187320
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-08-15'
       - id: e23221d4-1d1a-4c43-b962-8284babae2ba
         isrcs: []
+        title: Smokes Quantity
+        length: 190432
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       score: 0.9912975
     - id: 1cc5c109-b025-4411-afe4-b13ce3f86f87
       recordings:
       - id: 866cb284-51f1-4e7b-8e62-d854a7ee3c65
-        isrcs: []
+        isrcs: *id001
+        title: Smokes Quantity
+        length: 187320
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-08-15'
       score: 0.9912645
     - id: de9395ef-2410-4495-bd53-300332974445
       recordings:
       - id: 866cb284-51f1-4e7b-8e62-d854a7ee3c65
-        isrcs: []
+        isrcs: *id001
+        title: Smokes Quantity
+        length: 187320
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-08-15'
       score: 0.88350475
     status: ok

@@ -15,20 +15,46 @@ trackIdData:
     - id: 1446867e-56ff-459a-9ee3-177b0bbb8e93
       recordings:
       - id: 4eb5cc25-7e2b-4e85-bac2-683da6b25769
-        isrcs: []
+        isrcs: &id001
+        - GBAAP9600096
+        title: I Heard a Rumour
+        length: 205093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1987-09
       - id: 567d89ee-fbd9-43ff-8889-30c7a990adac
         isrcs: []
+        title: I Heard a Rumour
+        length: 204600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-07-23'
       - id: f8e2995c-dd31-4025-9969-ffaab54534b8
         isrcs: []
+        title: I Heard a Rumour
+        length: 232933
+        video: false
+        disambiguation: 2001 re‐recording
+        firstReleaseDate: '2001'
       score: 0.9888581
     - id: 74b666e3-f996-4f32-a87e-3b6de7965091
       recordings:
       - id: 4eb5cc25-7e2b-4e85-bac2-683da6b25769
-        isrcs: []
+        isrcs: *id001
+        title: I Heard a Rumour
+        length: 205093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1987-09
       score: 0.9352375
     - id: 86d62efa-a6c1-4005-82d3-5327706ace3a
       recordings:
       - id: 4eb5cc25-7e2b-4e85-bac2-683da6b25769
-        isrcs: []
+        isrcs: *id001
+        title: I Heard a Rumour
+        length: 205093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1987-09
       score: 0.6069027
     status: ok

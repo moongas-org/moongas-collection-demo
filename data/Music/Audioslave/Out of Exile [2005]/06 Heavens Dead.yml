@@ -15,20 +15,47 @@ trackIdData:
     - id: b677420d-a476-4b04-8356-a6f652719dae
       recordings:
       - id: fa9d4542-915c-4549-8dfb-824402ea52bb
-        isrcs: []
+        isrcs: &id001
+        - USIR10500781
+        title: Heaven’s Dead
+        length: 276600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       score: 0.96538764
     - id: bcc23274-c4de-433a-b7c1-71291eb56662
       recordings:
       - id: 28fd5146-c24e-4a9c-86e4-7f57496a1e5d
-        isrcs: []
+        isrcs:
+        - USIR10500783
+        title: Out of Exile
+        length: 291200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       - id: 6101d079-8a31-408e-ba9d-2e2fc4397890
         isrcs: []
+        title: Heavens Dead
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014'
       - id: fa9d4542-915c-4549-8dfb-824402ea52bb
-        isrcs: []
+        isrcs: *id001
+        title: Heaven’s Dead
+        length: 276600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       score: 0.96470034
     - id: 62dfc2d3-489d-4dc7-90e3-4d15701211d1
       recordings:
       - id: fa9d4542-915c-4549-8dfb-824402ea52bb
-        isrcs: []
+        isrcs: *id001
+        title: Heaven’s Dead
+        length: 276600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       score: 0.72349685
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: d05406bf-674b-42bd-b90e-2fe02cc6ec1c
       recordings:
       - id: bdfe09fb-181b-4eb6-99f4-b5ab11ff2939
-        isrcs: []
+        isrcs: &id001
+        - USSM18000441
+        title: Deadline
+        length: 267200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.9901437
     - id: ee6f3a54-e9bd-4a51-871d-d719203b036a
       recordings:
       - id: bdfe09fb-181b-4eb6-99f4-b5ab11ff2939
-        isrcs: []
+        isrcs: *id001
+        title: Deadline
+        length: 267200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.9702993
     status: ok

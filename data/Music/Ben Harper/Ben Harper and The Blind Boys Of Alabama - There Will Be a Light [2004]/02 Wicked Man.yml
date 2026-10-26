@@ -15,15 +15,36 @@ trackIdData:
     - id: 7036ae4b-1ba9-4176-b682-5d18da907ea8
       recordings:
       - id: 088cef11-324d-454e-a38e-6b1613538c67
-        isrcs: []
+        isrcs: &id001
+        - USVI20400263
+        title: Wicked Man
+        length: 213133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-21'
       - id: c1f62ccd-84f5-445c-8740-bda9fa66747b
         isrcs: []
+        title: Wicked Man
+        length: 212933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       - id: fa8ed216-877b-4c3b-9e12-7f7133d97b62
         isrcs: []
+        title: Wicked Man
+        length: 212000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-07-14'
       score: 0.98256195
     - id: 9a760d17-76bf-4047-9be8-996e2f29415e
       recordings:
       - id: 088cef11-324d-454e-a38e-6b1613538c67
-        isrcs: []
+        isrcs: *id001
+        title: Wicked Man
+        length: 213133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-21'
       score: 0.81896096
     status: ok

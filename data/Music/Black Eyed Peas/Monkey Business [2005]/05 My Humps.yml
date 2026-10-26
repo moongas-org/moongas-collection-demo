@@ -15,32 +15,91 @@ trackIdData:
     - id: af906890-40d9-446c-a036-adaa580fd650
       recordings:
       - id: 2991dc12-9d93-4482-b6cb-1b7629f81859
-        isrcs: []
+        isrcs: &id002
+        - AUQE00901486
+        - USTCZ0951499
+        title: Blood
+        length: 326000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: 696f6ddf-4912-491b-b78c-ad8a3cc2f934
-        isrcs: []
+        isrcs:
+        - USIR10500776
+        title: Audio Delite at Low Fidelity / Change
+        length: 329346
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-25'
       - id: 859663e0-0b03-42ff-8364-14b7f50e04f0
-        isrcs: []
+        isrcs: &id001
+        - USIR10500771
+        title: My Humps
+        length: 326960
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005-05-25'
       - id: 87810fad-44ea-475f-8046-96c15883742e
         isrcs: []
+        title: My Humps
+        length: 326506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: a99862a4-fb41-42ad-ab33-88639488e301
         isrcs: []
+        title: My Humps (Promo Only clean edit)
+        length: 323640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2005-09
       score: 0.98701215
     - id: de88de1c-6da1-496f-a826-7040c8c7ef9e
       recordings:
       - id: 859663e0-0b03-42ff-8364-14b7f50e04f0
-        isrcs: []
+        isrcs: *id001
+        title: My Humps
+        length: 326960
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005-05-25'
       score: 0.8594409
     - id: 8244a7d9-fc2e-44c8-be28-c0f5b906a333
       recordings:
       - id: 040d70c5-8c59-401c-afb6-8cf6ee60b951
         isrcs: []
+        title: My Humps (Lil’ Jon remix)
+        length: 224000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-11-11'
       - id: 2991dc12-9d93-4482-b6cb-1b7629f81859
-        isrcs: []
+        isrcs: *id002
+        title: Blood
+        length: 326000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: 4c312f9e-c286-49ab-a1be-ec353b90200f
         isrcs: []
+        title: My Humps
+        length: 234000
+        video: true
+        disambiguation: video
+        firstReleaseDate: '2006'
       - id: 859663e0-0b03-42ff-8364-14b7f50e04f0
-        isrcs: []
+        isrcs: *id001
+        title: My Humps
+        length: 326960
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005-05-25'
       - id: 87810fad-44ea-475f-8046-96c15883742e
         isrcs: []
+        title: My Humps
+        length: 326506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       score: 0.84266216
     status: ok

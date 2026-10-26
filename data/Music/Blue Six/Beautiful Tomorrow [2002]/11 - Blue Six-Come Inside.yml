@@ -15,16 +15,32 @@ trackIdData:
     - id: 6ebf8c11-0635-453e-bbca-b8b9cca37ac1
       recordings:
       - id: b69692fd-a89e-4a64-a6ff-22318cb03b3b
-        isrcs: []
+        isrcs: &id001
+        - USCN30100204
+        title: Come Inside
+        length: 237506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       score: 0.9833202
     - id: c7e7c70e-3843-41ff-9514-5c8407e6593c
       recordings:
       - id: b69692fd-a89e-4a64-a6ff-22318cb03b3b
-        isrcs: []
+        isrcs: *id001
+        title: Come Inside
+        length: 237506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       score: 0.8946796
     - id: eeeca0e6-88b0-4b69-8c8a-4f6b1f6ea5c1
       recordings:
       - id: b69692fd-a89e-4a64-a6ff-22318cb03b3b
-        isrcs: []
+        isrcs: *id001
+        title: Come Inside
+        length: 237506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       score: 0.88202137
     status: ok

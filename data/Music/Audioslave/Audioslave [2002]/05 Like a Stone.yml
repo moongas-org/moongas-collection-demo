@@ -16,30 +16,94 @@ trackIdData:
       recordings:
       - id: 15a3a8c0-6d46-4ef4-8662-2b2b016aa1e6
         isrcs: []
+        title: Like a Stone
+        length: 296480
+        video: false
+        disambiguation: 'live, 2002-12-07: KROQ Almost Acoustic Christmas, Universal
+          Amphitheatre, Universal City, CA, USA'
+        firstReleaseDate: '2005'
       - id: 1fbc0c99-3094-410c-8c44-a3d2b87ec423
-        isrcs: []
+        isrcs: &id001
+        - USSM10211587
+        title: Like a Stone
+        length: 294000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-11-15'
       - id: 28fd5146-c24e-4a9c-86e4-7f57496a1e5d
-        isrcs: []
+        isrcs:
+        - USIR10500783
+        title: Out of Exile
+        length: 291200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       - id: 4d33d256-9989-4725-925f-76b64c278746
         isrcs: []
+        title: Out of Exile
+        length: 295000
+        video: true
+        disambiguation: 'live, 2005-08-05: Sessions @AOL Music'
+        firstReleaseDate: '2005-05-05'
       - id: 6f1c0397-c274-42a6-a0ea-4a122a7bad46
-        isrcs: []
+        isrcs: &id002
+        - USSM20300004
+        title: Like a Stone
+        length: 300000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2003-07-29'
       - id: 9340f26f-91e2-4ea1-80a5-661d9a70e1f3
         isrcs: []
+        title: Like a Stone
+        length: 300000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-05-08'
       - id: e20a9641-2668-4a58-8295-624678a8a883
         isrcs: []
+        title: Like a Stone
+        length: 297000
+        video: false
+        disambiguation: 'live, 2003-03-07: Electric Factory, Philadelphia, PA, USA'
+        firstReleaseDate:
       score: 0.99231935
     - id: 58f6906c-2977-4d2e-9fe2-39d5ac5db692
       recordings:
       - id: 1fbc0c99-3094-410c-8c44-a3d2b87ec423
-        isrcs: []
+        isrcs: *id001
+        title: Like a Stone
+        length: 294000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-11-15'
       - id: 43144f84-a9aa-464f-8ce0-f9c96761de6a
         isrcs: []
+        title: Like a Stone
+        length: 294000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-02-25'
       - id: 6f1c0397-c274-42a6-a0ea-4a122a7bad46
-        isrcs: []
+        isrcs: *id002
+        title: Like a Stone
+        length: 300000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2003-07-29'
       - id: 9340f26f-91e2-4ea1-80a5-661d9a70e1f3
         isrcs: []
+        title: Like a Stone
+        length: 300000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-05-08'
       - id: d4eebfab-c3a8-4f22-8135-32cc229e508f
         isrcs: []
+        title: Like a Stone
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014'
       score: 0.9892537
     status: ok

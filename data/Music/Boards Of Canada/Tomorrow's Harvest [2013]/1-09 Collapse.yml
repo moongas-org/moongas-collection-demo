@@ -15,16 +15,32 @@ trackIdData:
     - id: d30d9002-aa42-448a-944d-97a6707071e0
       recordings:
       - id: 23d4f464-fd5a-4887-9097-23ff7d2a5382
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1300032
+        title: Collapse
+        length: 169800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.9985166
     - id: cb9751a8-b110-4f5f-a760-b24304ad685a
       recordings:
       - id: 23d4f464-fd5a-4887-9097-23ff7d2a5382
-        isrcs: []
+        isrcs: *id001
+        title: Collapse
+        length: 169800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.9818038
     - id: fb941902-6cdf-4c87-b416-08b49c5f42ef
       recordings:
       - id: 23d4f464-fd5a-4887-9097-23ff7d2a5382
-        isrcs: []
+        isrcs: *id001
+        title: Collapse
+        length: 169800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.87974685
     status: ok

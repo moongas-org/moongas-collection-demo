@@ -15,25 +15,53 @@ trackIdData:
     - id: ef866f21-d7db-4727-8524-39992f51290c
       recordings:
       - id: 0ea36b10-ccb8-491d-acfe-fc1e2cd167c7
-        isrcs: []
+        isrcs: &id001
+        - USCH30100135
+        - USCH39200014
+        title: Give a Man a Fish
+        length: 263173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       - id: 1e80afb9-69a1-440d-98eb-e6da29ae118c
-        isrcs: []
+        isrcs:
+        - USCH39200014
+        title: Give a Man a Fish
+        length: 263000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-03-03'
       score: 0.9925831
     - id: c4295745-0cf2-40a7-8418-924c06ea6a72
       recordings:
       - id: 0ea36b10-ccb8-491d-acfe-fc1e2cd167c7
-        isrcs: []
+        isrcs: *id001
+        title: Give a Man a Fish
+        length: 263173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.9783096
     - id: 04a1bb9e-8d47-4c72-a97a-91570a1c643e
       score: 0.748154
     - id: 96bfc7d4-d35b-473b-bf2b-a81bb99d3a9c
       recordings:
       - id: 0ea36b10-ccb8-491d-acfe-fc1e2cd167c7
-        isrcs: []
+        isrcs: *id001
+        title: Give a Man a Fish
+        length: 263173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.74198973
     - id: 717482bd-9dd4-4031-bb85-2b57efe63c42
       recordings:
       - id: 0ea36b10-ccb8-491d-acfe-fc1e2cd167c7
-        isrcs: []
+        isrcs: *id001
+        title: Give a Man a Fish
+        length: 263173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.7114979
     status: ok

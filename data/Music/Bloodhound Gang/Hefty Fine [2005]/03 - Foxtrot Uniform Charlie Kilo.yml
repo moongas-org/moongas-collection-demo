@@ -15,22 +15,54 @@ trackIdData:
     - id: 6f75cd01-15ee-4eb2-aa85-4e30df7bddab
       recordings:
       - id: 609f0dd2-3a39-417b-a42f-aa7be4503c99
-        isrcs: []
+        isrcs: &id001
+        - USUM70500792
+        title: Foxtrot Uniform Charlie Kilo
+        length: 172000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-01-01'
       - id: 91afdf60-a78f-4fea-961f-ebfdc7c54756
         isrcs: []
+        title: Foxtrot Uniform Charlie Kilo (Bloodhound Gang)
+        length: 180083
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-05-16'
       - id: c30397d9-38f5-430d-b00f-dec011c2772d
         isrcs: []
+        title: Foxtrot Uniform Charlie Kilo
+        length: 182000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2005-09-12'
       - id: e1badf81-0bdb-4fbf-8f81-d899316af3d8
-        isrcs: []
+        isrcs:
+        - USUM70502404
+        title: Foxtrot Uniform Charlie Kilo (The Jason Nevins mix)
+        length: 183000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-30'
       score: 0.97455657
     - id: 226e90ff-4434-4a26-a6c5-c5c880b18d6c
       recordings:
       - id: 609f0dd2-3a39-417b-a42f-aa7be4503c99
-        isrcs: []
+        isrcs: *id001
+        title: Foxtrot Uniform Charlie Kilo
+        length: 172000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-01-01'
       score: 0.8699214
     - id: 0bd261bb-8677-4e08-bc62-1f769fac577a
       recordings:
       - id: 609f0dd2-3a39-417b-a42f-aa7be4503c99
-        isrcs: []
+        isrcs: *id001
+        title: Foxtrot Uniform Charlie Kilo
+        length: 172000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-01-01'
       score: 0.7629536
     status: ok

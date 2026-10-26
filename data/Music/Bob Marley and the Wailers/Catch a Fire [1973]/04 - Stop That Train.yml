@@ -16,26 +16,82 @@ trackIdData:
       recordings:
       - id: 0daf90c7-ec70-4da0-a56e-51c2adbd711b
         isrcs: []
+        title: Stop That Train
+        length: 236000
+        video: false
+        disambiguation: 1972 re-recording; Dolby Atmos mix
+        firstReleaseDate:
       - id: 20ec9431-e9d8-4627-9c1e-18e4d4a59972
         isrcs: []
+        title: Stop That Train
+        length: 230200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999'
       - id: 29fd5c44-7c45-4a3b-a622-a5db00d3a359
         isrcs: []
+        title: Stop That Train
+        length: 237000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 7f0df577-f310-4c1b-b815-643749f72d1e
         isrcs: []
+        title: Stop That Train
+        length: 236453
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       - id: 80b61263-d029-4a9f-a978-b408adedd263
         isrcs: []
+        title: Stop That Train
+        length: 237080
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-09-25'
       - id: 8681087f-76da-4789-a83b-6a0d7952fc5c
-        isrcs: []
+        isrcs:
+        - GBAJE0500263
+        - GBAJE7000191
+        - GBAWA0518687
+        - GBFWU0400079
+        title: Stop the Train
+        length: 140000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-08
       - id: 91fa1aa0-4228-41e2-a409-32e290c191d0
-        isrcs: []
+        isrcs:
+        - GBAPA0100006
+        title: Stop That Train
+        length: 234000
+        video: false
+        disambiguation: original Jamaican version
+        firstReleaseDate: '1987'
       - id: a0877609-bdcd-47db-8c6d-3a777b572561
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7300060
+        title: Stop That Train
+        length: 236000
+        video: false
+        disambiguation: 1972 re-recording
+        firstReleaseDate: '1973-04-13'
       score: 0.9738924
     - id: d4d2a5e5-5043-4adc-b243-8c73c1987821
       recordings:
       - id: 0daf90c7-ec70-4da0-a56e-51c2adbd711b
         isrcs: []
+        title: Stop That Train
+        length: 236000
+        video: false
+        disambiguation: 1972 re-recording; Dolby Atmos mix
+        firstReleaseDate:
       - id: a0877609-bdcd-47db-8c6d-3a777b572561
-        isrcs: []
+        isrcs: *id001
+        title: Stop That Train
+        length: 236000
+        video: false
+        disambiguation: 1972 re-recording
+        firstReleaseDate: '1973-04-13'
       score: 0.9508505
     status: ok

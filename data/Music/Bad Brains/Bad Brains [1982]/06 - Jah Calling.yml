@@ -15,13 +15,30 @@ trackIdData:
     - id: 0f778534-abae-4a31-885b-79074b9551d3
       recordings:
       - id: 545a4131-bd0e-482c-a021-aac92ef07f5a
-        isrcs: []
+        isrcs: &id001
+        - US29V0422306
+        - USFMA1900133
+        title: Jah Calling
+        length: 151626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: e376fe8e-2ba2-443a-8f8b-e613a4e9476b
         isrcs: []
+        title: Jah Calling
+        length: 152000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       score: 0.97751844
     - id: 9b4cc2b2-3f8e-458e-b505-80010ca544e0
       recordings:
       - id: 545a4131-bd0e-482c-a021-aac92ef07f5a
-        isrcs: []
+        isrcs: *id001
+        title: Jah Calling
+        length: 151626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.82476264
     status: ok

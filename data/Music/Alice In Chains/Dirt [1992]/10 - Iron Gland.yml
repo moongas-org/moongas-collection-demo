@@ -16,29 +16,66 @@ trackIdData:
       recordings:
       - id: 03890f8b-ff92-4181-9faa-07e040a99056
         isrcs: []
+        title: Love Mate Love
+        length:
+        video: false
+        disambiguation: 'live, 1993‐07‐02: Mejeriet, Lund, Sweden'
+        firstReleaseDate: '1993'
       - id: ac44ccae-cb8c-4bb0-976d-c318ae16a561
         isrcs: []
+        title: Intro (Dream Sequence)
+        length: 45613
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-10-01'
       - id: c04f7382-db8d-424c-9e1d-58b7b5b10b9f
-        isrcs: []
+        isrcs: &id001
+        - USSM10305526
+        - USSM19200819
+        title: Iron Gland
+        length: 43493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.9932968
     - id: 095b1d31-367c-4aa6-abd9-392d8a96d9e7
       recordings:
       - id: c04f7382-db8d-424c-9e1d-58b7b5b10b9f
-        isrcs: []
+        isrcs: *id001
+        title: Iron Gland
+        length: 43493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.9879154
     - id: 6c6ea950-eba6-4fb5-bc7b-f77c3b7680a4
       recordings:
       - id: c04f7382-db8d-424c-9e1d-58b7b5b10b9f
-        isrcs: []
+        isrcs: *id001
+        title: Iron Gland
+        length: 43493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.977719
     - id: 70f07233-f6e7-4d79-8f58-273725436380
       recordings:
       - id: c04f7382-db8d-424c-9e1d-58b7b5b10b9f
-        isrcs: []
+        isrcs: *id001
+        title: Iron Gland
+        length: 43493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.96780586
     - id: a08d7411-6034-459b-9a0e-69c411304c9b
       recordings:
       - id: c04f7382-db8d-424c-9e1d-58b7b5b10b9f
-        isrcs: []
+        isrcs: *id001
+        title: Iron Gland
+        length: 43493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.9537387
     status: ok

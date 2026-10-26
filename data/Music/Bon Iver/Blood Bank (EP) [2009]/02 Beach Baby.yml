@@ -16,17 +16,38 @@ trackIdData:
       recordings:
       - id: 4266b4ce-15c4-4a05-8947-9846b31b1069
         isrcs: []
+        title: Beach Baby
+        length:
+        video: false
+        disambiguation: 'live, 2009‐10‐11: Riverside Theater, Milwaukee, WI, USA'
+        firstReleaseDate:
       - id: 7d748809-0178-49d4-b791-dc8f34bbc2bc
-        isrcs: []
+        isrcs: &id001
+        - US38Y0913402
+        title: Beach Baby
+        length: 160093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-20'
       score: 0.9710575
     - id: 424263fb-2f71-4369-ab41-ee1c5fd90ac8
       recordings:
       - id: 7d748809-0178-49d4-b791-dc8f34bbc2bc
-        isrcs: []
+        isrcs: *id001
+        title: Beach Baby
+        length: 160093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-20'
       score: 0.94610363
     - id: 460b3fb6-6a98-441b-a390-28de4c9220a3
       recordings:
       - id: 7d748809-0178-49d4-b791-dc8f34bbc2bc
-        isrcs: []
+        isrcs: *id001
+        title: Beach Baby
+        length: 160093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-20'
       score: 0.8497165
     status: ok

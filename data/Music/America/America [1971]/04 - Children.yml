@@ -15,11 +15,22 @@ trackIdData:
     - id: 0e0847fc-0963-488e-8a09-6aab3bb512c1
       recordings:
       - id: 1268d982-8b07-4857-aa49-79429018c687
-        isrcs: []
+        isrcs: &id001
+        - USWB10001094
+        title: Children
+        length: 187000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.9712223
     - id: 6c18ca81-f2d4-47be-9031-67b70d57a458
       recordings:
       - id: 1268d982-8b07-4857-aa49-79429018c687
-        isrcs: []
+        isrcs: *id001
+        title: Children
+        length: 187000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.81751055
     status: ok

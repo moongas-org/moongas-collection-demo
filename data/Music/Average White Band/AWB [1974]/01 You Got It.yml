@@ -16,16 +16,43 @@ trackIdData:
       recordings:
       - id: 0ea6278f-02af-4c4f-9a66-5d3e2fc453d1
         isrcs: []
+        title: You Got It
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980'
       - id: 1136f31e-76dd-4202-8d15-239296aa3ec7
-        isrcs: []
+        isrcs: &id001
+        - GBBLG7400069
+        - USAT20106476
+        title: You Got It
+        length: 215026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-08
       - id: 2f211ab3-84aa-46d8-82f5-b71360d4ea97
         isrcs: []
+        title: You Got It
+        length: 216000
+        video: false
+        disambiguation: quad mix
+        firstReleaseDate: '1974'
       score: 0.9728046
     - id: 1a12c602-76ef-4dcc-ac9e-557ef1cf5e4a
       recordings:
       - id: 1136f31e-76dd-4202-8d15-239296aa3ec7
-        isrcs: []
+        isrcs: *id001
+        title: You Got It
+        length: 215026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-08
       - id: d55623c6-3284-4313-b292-1d3dd2dd4428
         isrcs: []
+        title: What’s the Word
+        length: 218733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-06-13'
       score: 0.9426424
     status: ok

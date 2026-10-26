@@ -15,11 +15,22 @@ trackIdData:
     - id: 20f6a02f-0be9-48b6-922a-c9e123874ceb
       recordings:
       - id: 1080ccc2-23c0-47e1-8853-cb3c3cc7624e
-        isrcs: []
+        isrcs: &id001
+        - US38Y0811501
+        title: Flume
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-07-08'
       score: 0.9983848
     - id: 789cdd81-037d-4b73-a684-b448e53365e4
       recordings:
       - id: 1080ccc2-23c0-47e1-8853-cb3c3cc7624e
-        isrcs: []
+        isrcs: *id001
+        title: Flume
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-07-08'
       score: 0.97033226
     status: ok

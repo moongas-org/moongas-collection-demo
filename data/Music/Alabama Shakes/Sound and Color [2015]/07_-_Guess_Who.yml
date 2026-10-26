@@ -16,12 +16,28 @@ trackIdData:
       recordings:
       - id: 08893893-8b57-433c-99df-474f663ffbb0
         isrcs: []
+        title: Guess Who
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-22'
       - id: 1b5e0b96-2d50-49a3-a1b0-4ee3948bbbfd
-        isrcs: []
+        isrcs: &id001
+        - USATO1400856
+        title: Guess Who
+        length: 196000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       score: 0.9976925
     - id: 778de1d1-c397-434a-bc69-d10219e4408f
       recordings:
       - id: 1b5e0b96-2d50-49a3-a1b0-4ee3948bbbfd
-        isrcs: []
+        isrcs: *id001
+        title: Guess Who
+        length: 196000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       score: 0.57881725
     status: ok

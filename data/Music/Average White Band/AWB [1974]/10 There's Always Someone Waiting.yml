@@ -15,11 +15,23 @@ trackIdData:
     - id: c130030e-a756-4e53-9893-ee9142ed2728
       recordings:
       - id: 4e9b1917-0b85-473f-8a24-4dd3db6eab44
-        isrcs: []
+        isrcs: &id001
+        - GBBLG7400078
+        - USAT20106493
+        title: There’s Always Someone Waiting
+        length: 337000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-08
       score: 0.9697389
     - id: 9dba4fd8-b6ef-4b56-940d-55c6b1c8fb05
       recordings:
       - id: 4e9b1917-0b85-473f-8a24-4dd3db6eab44
-        isrcs: []
+        isrcs: *id001
+        title: There’s Always Someone Waiting
+        length: 337000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-08
       score: 0.96113527
     status: ok

@@ -15,24 +15,50 @@ trackIdData:
     - id: 42d4b574-9267-4a3d-ae35-fa28e54899dc
       recordings:
       - id: f12fd639-90f1-4149-a113-5f1c3c09505e
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9800017
+        title: Kaini Industries
+        length: 59266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.9782342
     - id: 5488813a-bac4-4804-905d-c8313578043d
       recordings:
       - id: 886f819a-f5c8-42d9-934e-2b92480ca88b
         isrcs: []
+        title: Duffy
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: f12fd639-90f1-4149-a113-5f1c3c09505e
-        isrcs: []
+        isrcs: *id001
+        title: Kaini Industries
+        length: 59266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.9656284
     - id: 1329fb8d-affc-4753-acc7-203108785827
       recordings:
       - id: f12fd639-90f1-4149-a113-5f1c3c09505e
-        isrcs: []
+        isrcs: *id001
+        title: Kaini Industries
+        length: 59266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.9605622
     - id: c877038d-e219-4ae0-9722-334b85647118
       recordings:
       - id: f12fd639-90f1-4149-a113-5f1c3c09505e
-        isrcs: []
+        isrcs: *id001
+        title: Kaini Industries
+        length: 59266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.72166854
     - id: 9631c028-c627-47e2-acfa-ce3f76ece2be
       score: 0.6576886

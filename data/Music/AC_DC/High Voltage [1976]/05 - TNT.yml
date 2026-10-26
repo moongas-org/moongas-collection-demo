@@ -16,35 +16,103 @@ trackIdData:
       recordings:
       - id: 0de2eb41-7488-416b-a9ca-0dba8512e31e
         isrcs: []
+        title: T.N.T.
+        length:
+        video: false
+        disambiguation: 'live; 2000-09-13: America West Arena, Phoenix, AZ, US'
+        firstReleaseDate: '2000-09-13'
       - id: 5703850e-a6da-4106-aaea-4bd8986ce83e
         isrcs: []
+        title: T-N-T
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: 590aee23-ab35-40bc-8767-bfe007b069f8
         isrcs: []
+        title: T‐N‐T
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016'
       - id: 5f8cf887-5685-4768-81fa-f442f118f835
         isrcs: []
+        title: Tnt
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 645f48b3-d1b2-413a-bf90-20b035a9bac6
         isrcs: []
+        title: T.N.T.
+        length: 212000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-03-01'
       - id: 6f51468d-f161-41cf-8414-cd58b370bdf8
-        isrcs: []
+        isrcs: &id001
+        - AUAP07600012
+        title: T.N.T.
+        length: 214800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-12-01'
       - id: 805c08b4-f0bf-4dc5-962b-c8d1c614045f
         isrcs: []
+        title: Hell Ain’t a Bad Place to Be
+        length: 234493
+        video: false
+        disambiguation: live
+        firstReleaseDate: '1993'
       - id: b0aac497-2f6d-43bc-81fc-14aa0e858e44
         isrcs: []
+        title: T.N.T.
+        length: 218000
+        video: false
+        disambiguation: 'live, 1996-02-05: ARCO Arena, Sacramento, California, USA'
+        firstReleaseDate: '1994'
       - id: c28448c4-33b2-475e-a4ac-3017a44d2a8d
         isrcs: []
+        title: T.N.T.
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: eb9cdc50-96dc-49ee-ac0b-218344679adb
         isrcs: []
+        title: T.N.T.
+        length: 215000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       score: 0.98065007
     - id: ec03c8ed-1c3f-4105-856e-715a07b1109f
       recordings:
       - id: ae2b6b2a-e846-4dbd-bab9-48494b4b6bc8
-        isrcs: []
+        isrcs:
+        - AUAP09200032
+        title: T.N.T.
+        length: 227706
+        video: false
+        disambiguation: 'live, 1991‐04‐23: National Exhibition Centre, Birmingham,
+          UK'
+        firstReleaseDate: '1992-10-11'
       score: 0.96123415
     - id: cab5f0ea-0653-4cbe-8a11-fb8700c1315b
       recordings:
       - id: 6f51468d-f161-41cf-8414-cd58b370bdf8
-        isrcs: []
+        isrcs: *id001
+        title: T.N.T.
+        length: 214800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-12-01'
       - id: 805c08b4-f0bf-4dc5-962b-c8d1c614045f
         isrcs: []
+        title: Hell Ain’t a Bad Place to Be
+        length: 234493
+        video: false
+        disambiguation: live
+        firstReleaseDate: '1993'
       score: 0.92302877
     status: ok

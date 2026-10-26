@@ -15,11 +15,22 @@ trackIdData:
     - id: 3af5ddee-816c-4844-baf1-69b0c95e2c92
       recordings:
       - id: b5f573fe-01a3-46e0-a93c-75afe854d63b
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9300126
+        title: Bike
+        length: 480133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-29'
       score: 0.99482465
     - id: 02ec2b38-1112-4f05-b11c-6deee41c38e3
       recordings:
       - id: b5f573fe-01a3-46e0-a93c-75afe854d63b
-        isrcs: []
+        isrcs: *id001
+        title: Bike
+        length: 480133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-29'
       score: 0.79789686
     status: ok

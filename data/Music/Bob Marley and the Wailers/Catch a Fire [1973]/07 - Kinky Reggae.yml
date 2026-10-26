@@ -16,29 +16,82 @@ trackIdData:
       recordings:
       - id: 0acfb7ba-3de2-479f-802e-b7c990a890f8
         isrcs: []
+        title: Kinky Reggae
+        length: 212000
+        video: true
+        disambiguation: 'live, 1979-11-25: Santa Barbara County Bowl, Santa Barbara,
+          CA, USA'
+        firstReleaseDate: '2004-09-14'
       - id: 1c1a1efe-b124-4eda-8150-5ffddfa35849
         isrcs: []
+        title: Catch A Fire (Original Jama. Version) Kinky Reggae
+        length: 218000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 64181847-b4f0-4d2d-9e6d-929519f588fd
         isrcs: []
+        title: Kinky Reggae
+        length: 219266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       - id: 6afc5871-426e-4033-92ef-2fa0ef6457a3
-        isrcs: []
+        isrcs:
+        - GBAPA0100010
+        title: Kinky Reggae
+        length: 224600
+        video: false
+        disambiguation: original Jamaican version
+        firstReleaseDate: '2001-03-21'
       - id: 6f920e5d-2a36-4dec-b9ae-e6e1fbf8f77f
         isrcs: []
+        title: Kinky Reggae
+        length: 213333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: 8ccfeea6-9636-4e27-ad91-dd4a542f267d
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7300125
+        title: Kinky Reggae
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-04-13'
       - id: e75a4365-b088-44d7-a92a-57e22bdf0a87
         isrcs: []
+        title: Kinky Reggae
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-02-04'
       - id: f4e945fe-42c8-4bea-b02d-4dcdcc809340
         isrcs: []
+        title: Kinky Reggae
+        length: 219000
+        video: false
+        disambiguation: Dolby Atmos Mix
+        firstReleaseDate:
       score: 0.9938357
     - id: 0139eea0-66aa-40e5-a9b3-54f300ff7343
       recordings:
       - id: 8ccfeea6-9636-4e27-ad91-dd4a542f267d
-        isrcs: []
+        isrcs: *id001
+        title: Kinky Reggae
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-04-13'
       score: 0.9190071
     - id: 40a79ae6-e421-4054-9a32-216e9a330003
       recordings:
       - id: 8ccfeea6-9636-4e27-ad91-dd4a542f267d
-        isrcs: []
+        isrcs: *id001
+        title: Kinky Reggae
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-04-13'
       score: 0.7219805
     status: ok

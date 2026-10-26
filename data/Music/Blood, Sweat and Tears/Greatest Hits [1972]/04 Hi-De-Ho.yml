@@ -15,13 +15,30 @@ trackIdData:
     - id: 5593f226-042e-4fb2-b6f5-92a6ccf0fffa
       recordings:
       - id: 20653bc0-a65a-4d22-a2b9-aef8d05668a1
-        isrcs: []
+        isrcs: &id001
+        - USSM16900017
+        - USSM19917680
+        title: Hi‐De‐Ho
+        length: 265250
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1970-06
       score: 0.98302346
     - id: 05a18e39-419d-4dbb-8dbd-2aa1d404e9cd
       recordings:
       - id: 0f5bfbe5-9455-42f3-a886-92ef7554b291
         isrcs: []
+        title: Hi De Ho
+        length: 265000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989'
       - id: 20653bc0-a65a-4d22-a2b9-aef8d05668a1
-        isrcs: []
+        isrcs: *id001
+        title: Hi‐De‐Ho
+        length: 265250
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1970-06
       score: 0.955894
     status: ok

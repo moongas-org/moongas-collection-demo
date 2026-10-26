@@ -15,11 +15,23 @@ trackIdData:
     - id: 2f257541-7498-4d44-aaa8-bc0eda4123c7
       recordings:
       - id: 327e2d4c-32a1-4602-93d4-06c5696c7a0a
-        isrcs: []
+        isrcs: &id001
+        - USUM70500571
+        - USUM70500982
+        title: The Recipe
+        length: 216506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-16'
       score: 0.9675303
     - id: e1c4a1c0-0034-4e68-a374-e7207df9f877
       recordings:
       - id: 327e2d4c-32a1-4602-93d4-06c5696c7a0a
-        isrcs: []
+        isrcs: *id001
+        title: The Recipe
+        length: 216506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-16'
       score: 0.7284085
     status: ok

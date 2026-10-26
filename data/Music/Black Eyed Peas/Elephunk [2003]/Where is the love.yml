@@ -16,25 +16,75 @@ trackIdData:
       recordings:
       - id: 0af29424-53b3-48b1-8cf0-499ea48ed237
         isrcs: []
+        title: Where Is the Love?
+        length: 251000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2003-09
       - id: 7068b301-90bc-4580-a49b-a34c8b609c1c
         isrcs: []
+        title: Where Is the Love (instrumental)
+        length: 274987
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003'
       - id: c0ebc964-80b5-4d64-a30a-0228df6a2ea6
-        isrcs: []
+        isrcs: &id001
+        - USIR10311862
+        - USIR10311865
+        title: Where Is the Love
+        length: 231440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2003-08
       - id: f76d28d0-1f0f-4a22-84bf-6ee9b6901c72
         isrcs: []
+        title: Where Is the Love
+        length: 231120
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-11-24'
       - id: fcd21990-8edd-4ea8-92f0-66384db7d802
-        isrcs: []
+        isrcs: &id002
+        - FRS940500074
+        - GBAKW0201569
+        title: Sound of the Underground
+        length: 221293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-12-16'
       score: 0.98045224
     - id: e3ebe523-94b2-423a-96ca-b1b931991a2e
       recordings:
       - id: 5f21eb12-f84e-45f1-b3d7-c3e1d4ea0085
-        isrcs: []
+        isrcs:
+        - USIR10311862
+        title: Where Is The Love
+        length: 272000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2022'
       - id: 7068b301-90bc-4580-a49b-a34c8b609c1c
         isrcs: []
+        title: Where Is the Love (instrumental)
+        length: 274987
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003'
       - id: c0ebc964-80b5-4d64-a30a-0228df6a2ea6
-        isrcs: []
+        isrcs: *id001
+        title: Where Is the Love
+        length: 231440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2003-08
       - id: fcd21990-8edd-4ea8-92f0-66384db7d802
-        isrcs: []
+        isrcs: *id002
+        title: Sound of the Underground
+        length: 221293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-12-16'
       score: 0.96904665
     - id: 3fa8b630-69a5-46f6-b8f9-03490d80d4de
       score: 0.8045227

@@ -15,19 +15,53 @@ trackIdData:
     - id: ddb66bba-fcaf-4a03-ab72-e0ccb377b73a
       recordings:
       - id: 1bccef85-d62e-493f-b4d2-177572b8b920
-        isrcs: []
+        isrcs:
+        - USSM19601551
+        title: Killer Is Me
+        length: 323480
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       - id: 6eabbaab-0ccd-4084-9724-eabcddd884d2
-        isrcs: []
+        isrcs:
+        - USSM19606042
+        title: Over Now (unplugged)
+        length: 356000
+        video: false
+        disambiguation: 'live, 1996-04-10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1995-11-07'
       - id: 8b5884cc-238a-472f-994c-8cec3499384a
-        isrcs: []
+        isrcs:
+        - USSM19501783
+        title: Over Now
+        length: 423693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       - id: a7fb38fa-0c27-4f88-b67d-28831f61d40e
-        isrcs: []
+        isrcs: &id001
+        - USSM19601550
+        title: Over Now
+        length: 432000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       - id: f29937a3-aa63-4794-b347-bdb3ce363c98
         isrcs: []
+        title: Over Now
+        length: 413000
+        video: true
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-04-10'
       score: 0.98691326
     - id: 457c5f94-9122-4038-9254-4493501af0e1
       recordings:
       - id: a7fb38fa-0c27-4f88-b67d-28831f61d40e
-        isrcs: []
+        isrcs: *id001
+        title: Over Now
+        length: 432000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       score: 0.5884098
     status: ok

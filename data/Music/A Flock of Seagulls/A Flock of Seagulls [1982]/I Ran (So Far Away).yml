@@ -15,31 +15,88 @@ trackIdData:
     - id: 2a1fdb68-cc61-4db2-8261-4501898e8065
       recordings:
       - id: 1dfdf720-3585-4d88-90c0-d0c97256c2fe
-        isrcs: []
+        isrcs: &id001
+        - GB5KW2203251
+        - GBAHK0100091
+        - GBAHK9500304
+        - GBLGL1274300
+        - USA560649514
+        - USA560654728
+        - USA560745863
+        - USA560749052
+        - USA560749114
+        - USDPS0600383
+        title: I Ran
+        length: 305853
+        video: false
+        disambiguation: album version
+        firstReleaseDate: 1982-03
       - id: 547a558f-72ac-4104-866c-fc5282eb92f4
         isrcs: []
+        title: I Ran (So Far Away) (Main Version)
+        length: 305000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018-12-07'
       score: 0.9713542
     - id: b95c7085-6a8b-4e01-9c64-c5afd078878f
       recordings:
       - id: 1dfdf720-3585-4d88-90c0-d0c97256c2fe
-        isrcs: []
+        isrcs: *id001
+        title: I Ran
+        length: 305853
+        video: false
+        disambiguation: album version
+        firstReleaseDate: 1982-03
       score: 0.9601793
     - id: e4568816-1023-4ece-9edd-39505c2b0f6c
       recordings:
       - id: 1dfdf720-3585-4d88-90c0-d0c97256c2fe
-        isrcs: []
+        isrcs: *id001
+        title: I Ran
+        length: 305853
+        video: false
+        disambiguation: album version
+        firstReleaseDate: 1982-03
       - id: 6621d812-89ef-4de2-b315-e9f15f8842aa
         isrcs: []
+        title: I Ran (So Far Away)
+        length: 297840
+        video: false
+        disambiguation: live
+        firstReleaseDate: 2011-10
       - id: 96d26f02-12db-4c12-a285-296ddb980744
-        isrcs: []
+        isrcs:
+        - USAT20108292
+        title: Got a Love for You
+        length: 309266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: 9fb83f8c-095e-442b-9236-71df90f2b234
         isrcs: []
+        title: I Ran (So Far Away)
+        length: 307480
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018'
       - id: f16f7ed5-189a-433c-a887-835ed6d248ab
-        isrcs: []
+        isrcs:
+        - GBHCD1718559
+        title: I Ran
+        length: 303000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       score: 0.94079643
     - id: 4ba58a18-a9a3-4184-a8e0-15ea6aed0749
       recordings:
       - id: 1dfdf720-3585-4d88-90c0-d0c97256c2fe
-        isrcs: []
+        isrcs: *id001
+        title: I Ran
+        length: 305853
+        video: false
+        disambiguation: album version
+        firstReleaseDate: 1982-03
       score: 0.76410866
     status: ok

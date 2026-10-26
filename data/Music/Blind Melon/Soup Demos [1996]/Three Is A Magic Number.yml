@@ -15,11 +15,22 @@ trackIdData:
     - id: 03cd84b4-ff81-478f-afd4-5609bc5cd9ad
       recordings:
       - id: 699a5e33-f37c-4271-a35d-e27787e4a3cb
-        isrcs: []
+        isrcs: &id001
+        - USNPD0500439
+        title: Three Is a Magic Number
+        length: 194213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1995-04
       score: 0.9919568
     - id: 402204ac-20d6-4910-8245-a442a5fe455b
       recordings:
       - id: 699a5e33-f37c-4271-a35d-e27787e4a3cb
-        isrcs: []
+        isrcs: *id001
+        title: Three Is a Magic Number
+        length: 194213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1995-04
       score: 0.98229825
     status: ok

@@ -15,19 +15,41 @@ trackIdData:
     - id: e8791ccf-f869-4f45-a06f-8d5cd738dcb5
       recordings:
       - id: 44f853a3-c9d9-431a-a524-6b65ceb7d480
-        isrcs: []
+        isrcs: &id001
+        - GBAZP9800175
+        title: She’s in Parties
+        length: 227933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-04
       score: 0.9561577
     - id: 8912fb46-ba3c-478a-b23f-a318573cd759
       recordings:
       - id: 44f853a3-c9d9-431a-a524-6b65ceb7d480
-        isrcs: []
+        isrcs: *id001
+        title: She’s in Parties
+        length: 227933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-04
       score: 0.894317
     - id: a34fc8a0-7c0c-401e-ab03-267a47910972
       recordings:
       - id: 44f853a3-c9d9-431a-a524-6b65ceb7d480
-        isrcs: []
+        isrcs: *id001
+        title: She’s in Parties
+        length: 227933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-04
       - id: 49710f40-e75f-49a3-9b1f-fc7fc4894a9f
-        isrcs: []
+        isrcs:
+        - GBAZP9800175
+        title: She’s in Parties (edit)
+        length: 236933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-07-07'
       score: 0.848332
     - id: fb2c4344-50ae-4ce3-8620-c89e125b872e
       score: 0.7163107

@@ -16,17 +16,38 @@ trackIdData:
       recordings:
       - id: 0219822e-e373-4653-8d85-bf8da25c6a06
         isrcs: []
+        title: Light Years of Love
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 50051ccf-5ceb-4800-a293-92d618705b24
-        isrcs: []
+        isrcs: &id001
+        - USSM19917782
+        title: Light Years of Love
+        length: 244666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-10
       score: 0.9693104
     - id: bf995f50-beac-43fa-9db7-474844b422d7
       recordings:
       - id: 50051ccf-5ceb-4800-a293-92d618705b24
-        isrcs: []
+        isrcs: *id001
+        title: Light Years of Love
+        length: 244666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-10
       score: 0.9639702
     - id: 2ec52bc8-2225-4504-b607-46ede19f9f1d
       recordings:
       - id: 50051ccf-5ceb-4800-a293-92d618705b24
-        isrcs: []
+        isrcs: *id001
+        title: Light Years of Love
+        length: 244666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-10
       score: 0.961399
     status: ok

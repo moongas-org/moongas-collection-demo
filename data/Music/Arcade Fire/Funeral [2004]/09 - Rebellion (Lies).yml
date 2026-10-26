@@ -16,23 +16,59 @@ trackIdData:
       recordings:
       - id: 070effcc-eb1d-4867-a408-217f36d8a13a
         isrcs: []
+        title: Rebellion (Lies)
+        length: 312000
+        video: false
+        disambiguation: 'live, 2005-03-09: The White Session'
+        firstReleaseDate: '2005'
       - id: f874c752-65bc-4d50-ac7e-932243ae9f02
-        isrcs: []
+        isrcs: &id001
+        - USMRG0467010
+        title: Rebellion (Lies)
+        length: 310893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-14'
       - id: fd0dcf9c-6181-42d8-a183-e3a9f8636aec
         isrcs: []
+        title: Rebellion (Lies)
+        length: 305000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-11-21'
       score: 0.9831883
     - id: 0a2f62fa-3b48-43f1-96e6-22cb2d694ccb
       recordings:
       - id: f874c752-65bc-4d50-ac7e-932243ae9f02
-        isrcs: []
+        isrcs: *id001
+        title: Rebellion (Lies)
+        length: 310893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-14'
       score: 0.9767932
     - id: 8e647c32-f2df-4d6f-b95e-4a95d2694e08
       recordings:
       - id: 070effcc-eb1d-4867-a408-217f36d8a13a
         isrcs: []
+        title: Rebellion (Lies)
+        length: 312000
+        video: false
+        disambiguation: 'live, 2005-03-09: The White Session'
+        firstReleaseDate: '2005'
       - id: 794b6573-bf73-4c5b-8438-f4911cc7dbe3
         isrcs: []
+        title: Rebellion (Lies)
+        length: 304000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2005-09-12'
       - id: f874c752-65bc-4d50-ac7e-932243ae9f02
-        isrcs: []
+        isrcs: *id001
+        title: Rebellion (Lies)
+        length: 310893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-14'
       score: 0.9700356
     status: ok

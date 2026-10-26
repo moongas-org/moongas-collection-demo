@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 00fb0afb-dc2c-47b4-a477-31a61a976a37
         isrcs: []
+        title: Tha
+        length: 546000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2011-06
       - id: 213757f0-41cd-4daa-bc6a-4d990fa5d5ab
-        isrcs: []
+        isrcs: &id001
+        - BEZ350800023
+        title: Tha
+        length: 547106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       - id: fbd9d2b6-9ad0-42ef-b298-bf535a0b7d80
         isrcs: []
+        title: Tha
+        length: 546000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       score: 0.9910008
     - id: 5bce8652-8078-43b7-9cb0-fa397f9a2c67
       recordings:
       - id: 213757f0-41cd-4daa-bc6a-4d990fa5d5ab
-        isrcs: []
+        isrcs: *id001
+        title: Tha
+        length: 547106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.9818669
     status: ok

@@ -15,22 +15,58 @@ trackIdData:
     - id: 0bef432c-3c5d-4441-b341-f8cf380a7422
       recordings:
       - id: 05ebc00b-67f0-4b23-b49b-39f1379cbe5a
-        isrcs: []
+        isrcs:
+        - USRN19500284
+        title: Wild Angels
+        length: 225336
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-09-26'
       - id: 4bad78ec-2f45-43fd-892e-311798774d58
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601264
+        - GBAJE7800054
+        - USWB10202662
+        - USWB11304550
+        - USWB19901291
+        title: Never Say Die
+        length: 229826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-28'
       - id: 869780dd-8e96-4189-a7e3-34a1d269b446
         isrcs: []
+        title: Never Say Die
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1978-03
       - id: ab6941b3-be95-41ef-b5dc-be601cdc5554
         isrcs: []
+        title: Never Say Die
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016'
       score: 0.9766614
     - id: 4264e186-c0a4-4a52-9c06-8b8582d97cf4
       recordings:
       - id: 4bad78ec-2f45-43fd-892e-311798774d58
-        isrcs: []
+        isrcs: *id001
+        title: Never Say Die
+        length: 229826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-28'
       score: 0.89741564
     - id: 1793a470-8f2e-4c43-941e-bf5aea77354f
       recordings:
       - id: 4bad78ec-2f45-43fd-892e-311798774d58
-        isrcs: []
+        isrcs: *id001
+        title: Never Say Die
+        length: 229826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-28'
       score: 0.6487671
     status: ok

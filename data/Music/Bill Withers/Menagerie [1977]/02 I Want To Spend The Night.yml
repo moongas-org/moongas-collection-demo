@@ -15,18 +15,42 @@ trackIdData:
     - id: 4072c160-1138-40d7-8cb3-5d8e1da9e617
       recordings:
       - id: 4600b2ca-08cf-4cad-b5a6-34094b033ff3
-        isrcs: []
+        isrcs: &id001
+        - USSM10000365
+        - USSM10207845
+        - USSM17700344
+        title: I Want to Spend the Night
+        length: 221133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-12
       - id: c9812aa1-39f0-455b-9e39-342c2580d9d2
-        isrcs: []
+        isrcs:
+        - USSM10000365
+        title: I Want to Spend the Night
+        length: 203066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.9756395
     - id: adc59918-8ffd-4271-9bc3-a170812d6022
       recordings:
       - id: 4600b2ca-08cf-4cad-b5a6-34094b033ff3
-        isrcs: []
+        isrcs: *id001
+        title: I Want to Spend the Night
+        length: 221133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-12
       score: 0.9726647
     - id: a4836a18-94f7-4cc4-9121-f82bf33ef952
       recordings:
       - id: 4600b2ca-08cf-4cad-b5a6-34094b033ff3
-        isrcs: []
+        isrcs: *id001
+        title: I Want to Spend the Night
+        length: 221133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-12
       score: 0.9233254
     status: ok

@@ -15,16 +15,32 @@ trackIdData:
     - id: 91297bba-6fe1-4de6-8bf4-06d399ae8cac
       recordings:
       - id: d2009fb7-1d64-49d9-a5e9-95641627edd8
-        isrcs: []
+        isrcs: &id001
+        - USWB10001096
+        title: Rainy Day
+        length: 175333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.9828257
     - id: 62c9c9c1-33a0-4405-b0d6-73fa0cd8f169
       recordings:
       - id: d2009fb7-1d64-49d9-a5e9-95641627edd8
-        isrcs: []
+        isrcs: *id001
+        title: Rainy Day
+        length: 175333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.9545754
     - id: 368492ed-821a-4df5-a32e-52c3ed255099
       recordings:
       - id: d2009fb7-1d64-49d9-a5e9-95641627edd8
-        isrcs: []
+        isrcs: *id001
+        title: Rainy Day
+        length: 175333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.7208597
     status: ok

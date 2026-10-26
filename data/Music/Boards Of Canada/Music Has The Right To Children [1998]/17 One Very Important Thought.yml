@@ -16,25 +16,56 @@ trackIdData:
       recordings:
       - id: 847a4400-fc71-496e-b020-0d73bb85de24
         isrcs: []
+        title: One Very Important Thought
+        length: 64467
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: 95f396d7-56be-4c0f-b1b5-3786a0970bbb
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9800026
+        title: One Very Important Thought
+        length: 74240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.99242276
     - id: 04a8cd02-3f12-4371-b6e6-5ec8ed40b6bd
       recordings:
       - id: 95f396d7-56be-4c0f-b1b5-3786a0970bbb
-        isrcs: []
+        isrcs: *id001
+        title: One Very Important Thought
+        length: 74240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.9919669
     - id: 5da5efef-dd25-4ef1-8aa5-9870509aee00
       recordings:
       - id: 847a4400-fc71-496e-b020-0d73bb85de24
         isrcs: []
+        title: One Very Important Thought
+        length: 64467
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: 95f396d7-56be-4c0f-b1b5-3786a0970bbb
-        isrcs: []
+        isrcs: *id001
+        title: One Very Important Thought
+        length: 74240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.9763768
     - id: 7eb55ccb-3807-41a7-8aa7-5823a70220bc
       recordings:
       - id: 95f396d7-56be-4c0f-b1b5-3786a0970bbb
-        isrcs: []
+        isrcs: *id001
+        title: One Very Important Thought
+        length: 74240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.96158206
     - id: d59270b1-5507-4d6f-b9e5-59edf00c7620
       score: 0.8127644

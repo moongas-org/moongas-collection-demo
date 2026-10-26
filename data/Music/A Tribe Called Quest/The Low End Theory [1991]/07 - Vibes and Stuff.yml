@@ -15,11 +15,22 @@ trackIdData:
     - id: fb84df97-eb95-48b9-a33b-946ceaadb49e
       recordings:
       - id: 8c506333-f6a2-455a-bdb9-f9db6248e739
-        isrcs: []
+        isrcs: &id001
+        - USJI10300156
+        title: Vibes and Stuff
+        length: 257854
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-09-24'
       score: 0.9920222
     - id: 997d03a1-a0f8-4988-851c-5d4ff2e7b649
       recordings:
       - id: 8c506333-f6a2-455a-bdb9-f9db6248e739
-        isrcs: []
+        isrcs: *id001
+        title: Vibes and Stuff
+        length: 257854
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-09-24'
       score: 0.71060115
     status: ok

@@ -15,11 +15,23 @@ trackIdData:
     - id: 8205c5be-afa5-440d-bed1-f0fd8bf9595c
       recordings:
       - id: c825b3da-2573-4007-b042-90a4edb6acd1
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601282
+        - GBAJE7100087
+        title: Lord of This World
+        length: 326466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       score: 0.98322123
     - id: 61a40590-04b4-4707-8c4c-00332135786a
       recordings:
       - id: c825b3da-2573-4007-b042-90a4edb6acd1
-        isrcs: []
+        isrcs: *id001
+        title: Lord of This World
+        length: 326466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       score: 0.96568435
     status: ok

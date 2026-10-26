@@ -15,20 +15,51 @@ trackIdData:
     - id: a316f7bf-43d4-4872-9e0d-017c8c50157f
       recordings:
       - id: e3cf2fd4-e6fd-4ad1-ac68-64c9952c7516
-        isrcs: []
+        isrcs: &id001
+        - USSM10028169
+        - USSM17600005
+        - USSM17600396
+        - USSM17600477
+        - USSM17600640
+        title: (Don’t Fear) The Reaper
+        length: 308066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-05-21'
       score: 0.99736285
     - id: aa0d4a22-5c4e-4e68-b0f6-7cba883f3a71
       recordings:
       - id: e3cf2fd4-e6fd-4ad1-ac68-64c9952c7516
-        isrcs: []
+        isrcs: *id001
+        title: (Don’t Fear) The Reaper
+        length: 308066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-05-21'
       - id: f747022f-d4a7-40b0-855a-d23189102c42
         isrcs: []
+        title: Don’t Fear the Reaper
+        length: 306000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       score: 0.9884955
     - id: 44f1f064-c22e-4499-bbac-22f7d5e606e4
       recordings:
       - id: 050c213d-1885-4328-9d91-2cab281bef26
-        isrcs: []
+        isrcs:
+        - USSM17600005
+        title: (Don’t Fear) The Reaper
+        length: 289000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-11-02'
       - id: e3cf2fd4-e6fd-4ad1-ac68-64c9952c7516
-        isrcs: []
+        isrcs: *id001
+        title: (Don’t Fear) The Reaper
+        length: 308066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-05-21'
       score: 0.93202794
     status: ok

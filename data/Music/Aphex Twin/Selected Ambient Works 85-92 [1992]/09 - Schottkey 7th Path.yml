@@ -15,11 +15,22 @@ trackIdData:
     - id: e6d3ae3c-1806-419b-8892-fa13dbfca2b3
       recordings:
       - id: de45845e-0366-4cc5-b72c-d8aca5450617
-        isrcs: []
+        isrcs: &id001
+        - BEZ350800030
+        title: Schottkey 7th Path
+        length: 308733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.9768262
     - id: b067245c-923f-4411-b161-db90fe46b77c
       recordings:
       - id: de45845e-0366-4cc5-b72c-d8aca5450617
-        isrcs: []
+        isrcs: *id001
+        title: Schottkey 7th Path
+        length: 308733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.7652294
     status: ok

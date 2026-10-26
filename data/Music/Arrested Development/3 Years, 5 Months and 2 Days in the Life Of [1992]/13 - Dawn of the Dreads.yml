@@ -15,11 +15,22 @@ trackIdData:
     - id: 835474ad-3a0f-47f7-bd29-d96699d26742
       recordings:
       - id: a5d18830-111b-428b-a864-8afc56e93c07
-        isrcs: []
+        isrcs: &id001
+        - USCA29201551
+        title: Dawn of the Dreads
+        length: 318360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.9896822
     - id: 16a654cd-2c6d-481f-a7c8-be6972c4aa82
       recordings:
       - id: a5d18830-111b-428b-a864-8afc56e93c07
-        isrcs: []
+        isrcs: *id001
+        title: Dawn of the Dreads
+        length: 318360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.977024
     status: ok

@@ -15,11 +15,24 @@ trackIdData:
     - id: 08a0052b-14f7-46c4-badf-07c9ee4f62cd
       recordings:
       - id: 1bbb0193-35d3-4eed-ab00-2343b0879dca
-        isrcs: []
+        isrcs: &id001
+        - USCH30100101
+        - USCH37800024
+        - USCH38500015
+        title: Fade Away and Radiate
+        length: 240466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-08-26'
       score: 0.9919238
     - id: 4e6bebf1-b6e5-4632-99a5-38923ba09e7c
       recordings:
       - id: 1bbb0193-35d3-4eed-ab00-2343b0879dca
-        isrcs: []
+        isrcs: *id001
+        title: Fade Away and Radiate
+        length: 240466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-08-26'
       score: 0.91711664
     status: ok

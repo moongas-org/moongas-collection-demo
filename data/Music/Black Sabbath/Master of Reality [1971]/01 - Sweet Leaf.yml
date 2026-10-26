@@ -15,17 +15,46 @@ trackIdData:
     - id: 667a8338-a140-426c-a091-e8f1a86fcd9b
       recordings:
       - id: 700219b2-78a7-44ec-813a-a070dd988aff
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601271
+        - GBAJE7100082
+        - USWB10202644
+        - USWB11304542
+        title: Sweet Leaf
+        length: 305000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       score: 0.90733784
     - id: 54417b70-5610-4da3-89f8-520eb191688a
       recordings:
       - id: 1274c147-f8f6-4cc6-86d1-a157e24a5818
         isrcs: []
+        title: Stay
+        length: 319493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: 53b266df-c63a-4600-89b3-5557b99b68e0
         isrcs: []
+        title: Sweet Leaf
+        length: 304306
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: 700219b2-78a7-44ec-813a-a070dd988aff
-        isrcs: []
+        isrcs: *id001
+        title: Sweet Leaf
+        length: 305000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       - id: dd35b7b5-fadb-4fe7-aaac-0fb9239e265d
         isrcs: []
+        title: Sweet Leaf
+        length: 302000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2024-01
       score: 0.90206534
     status: ok

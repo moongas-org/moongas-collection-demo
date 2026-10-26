@@ -15,11 +15,22 @@ trackIdData:
     - id: 53016b69-2882-4be6-af96-f6806eb950e1
       recordings:
       - id: a2788220-e9d6-4acf-8c30-ed26928ba717
-        isrcs: []
+        isrcs: &id001
+        - USCN30100198
+        title: Pure (Jay’s Nitelife dub)
+        length: 285520
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       score: 0.978837
     - id: da042a98-ba4c-48a8-b8e2-16f8e6925a08
       recordings:
       - id: a2788220-e9d6-4acf-8c30-ed26928ba717
-        isrcs: []
+        isrcs: *id001
+        title: Pure (Jay’s Nitelife dub)
+        length: 285520
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       score: 0.97587025
     status: ok

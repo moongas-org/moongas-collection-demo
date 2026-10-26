@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 443f2679-0d17-4ece-8565-dac9628e1b5e
         isrcs: []
+        title: Hold On Loosely
+        length: 275813
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013'
       - id: 5430356d-5c1a-4691-a9c0-4249a5700458
         isrcs: []
+        title: Hold On Loosely
+        length: 279306
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-12-08'
       - id: 6e580fe0-8ced-4fa6-9f0d-247d0d6b1724
-        isrcs: []
+        isrcs: &id001
+        - USUMG0000591
+        title: Hold On Loosely
+        length: 279240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980'
       score: 0.986254
     - id: 2694e8ad-dfdd-467a-8942-209d6d736572
       recordings:
       - id: 6e580fe0-8ced-4fa6-9f0d-247d0d6b1724
-        isrcs: []
+        isrcs: *id001
+        title: Hold On Loosely
+        length: 279240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980'
       score: 0.97643065
     status: ok

@@ -15,25 +15,60 @@ trackIdData:
     - id: 6caee767-1412-49ca-af97-9e70d2ceecf2
       recordings:
       - id: 282e6dc3-9953-422a-9f5a-7e3b3d43671e
-        isrcs: []
+        isrcs:
+        - GAQLC8300002
+        - GBBBN8300002
+        - GBBBN8300036
+        - GBBBN8302012
+        title: Total Eclipse of the Heart
+        length: 268413
+        video: false
+        disambiguation: single version
+        firstReleaseDate: '1983-02-11'
       - id: 4dd209b9-80fd-4e11-8093-3bab2db810fc
-        isrcs: []
+        isrcs: &id001
+        - GBBKS1000353
+        title: He Won’t Go
+        length: 277946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.99653876
     - id: c3e6358a-95ef-4e21-8314-272d3c4e21d5
       recordings:
       - id: 4dd209b9-80fd-4e11-8093-3bab2db810fc
-        isrcs: []
+        isrcs: *id001
+        title: He Won’t Go
+        length: 277946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.97326607
     - id: 0b61f871-9357-49a0-b3d1-4b9e0b9cf70e
       recordings:
       - id: 4dd209b9-80fd-4e11-8093-3bab2db810fc
-        isrcs: []
+        isrcs: *id001
+        title: He Won’t Go
+        length: 277946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       - id: 739156c3-01c6-4abb-8f1e-de8a3d23d425
         isrcs: []
+        title: Don’t You Remember
+        length:
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2012'
       score: 0.96334386
     - id: e8f048c0-07c0-4406-9472-46e354935baf
       recordings:
       - id: 4dd209b9-80fd-4e11-8093-3bab2db810fc
-        isrcs: []
+        isrcs: *id001
+        title: He Won’t Go
+        length: 277946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.56905985
     status: ok

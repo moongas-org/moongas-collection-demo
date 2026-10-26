@@ -15,38 +15,112 @@ trackIdData:
     - id: cd5c65ff-bf38-4e1d-8d87-8c3d8b6d098c
       recordings:
       - id: 448862dd-f6b7-45f4-9354-cd8834078f25
-        isrcs: []
+        isrcs: &id001
+        - DEN060000182
+        title: The Summer
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       - id: db05df10-f39b-4f94-9095-b27b103fab9a
         isrcs: []
+        title: The Summer
+        length: 217786
+        video: false
+        disambiguation: part of “Holiday Hit Mix” DJ‐mix
+        firstReleaseDate: '2000'
       - id: e81b5ab0-125a-4e72-bae7-f8d5001bc713
         isrcs: []
+        title: The Summer
+        length: 205173
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       score: 0.9747824
     - id: a25100ec-620e-4770-8997-4e3c719da7b1
       recordings:
       - id: 448862dd-f6b7-45f4-9354-cd8834078f25
-        isrcs: []
+        isrcs: *id001
+        title: The Summer
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       - id: 4d187742-111d-4c04-9184-7e7c40cd0b61
         isrcs: []
+        title: The Summer
+        length: 221000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       - id: 5dd53546-45c2-4b46-850d-8a714101b588
         isrcs: []
+        title: The Summer (airplay mix)
+        length: 229040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000'
       - id: 82582be9-81b9-4b03-9725-de876b2c7605
-        isrcs: []
+        isrcs: &id002
+        - DEN060500193
+        title: The Summer
+        length: 226773
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       - id: b1d9e098-90c5-4358-9b90-ecf49bd08c9f
         isrcs: []
+        title: The Summer
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: de395e38-a7a7-4869-af6d-c5931f0c12d8
-        isrcs: []
+        isrcs:
+        - DEN060000142
+        - DEN060500180
+        title: The Summer (airplay mix)
+        length: 226000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-06-05'
       - id: f8a022b2-c0ad-4984-b751-f3c4e5d8be81
         isrcs: []
+        title: The Summer
+        length: 225173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000'
       score: 0.9582344
     - id: e86cdc51-5716-42e6-b577-452126eb5889
       recordings:
       - id: 448862dd-f6b7-45f4-9354-cd8834078f25
-        isrcs: []
+        isrcs: *id001
+        title: The Summer
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       - id: 4d187742-111d-4c04-9184-7e7c40cd0b61
         isrcs: []
+        title: The Summer
+        length: 221000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       - id: 82582be9-81b9-4b03-9725-de876b2c7605
-        isrcs: []
+        isrcs: *id002
+        title: The Summer
+        length: 226773
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       - id: 879f325b-997e-49be-beb7-d91b4e47486c
         isrcs: []
+        title: The Summer
+        length: 221093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000'
       score: 0.95797074
     status: ok

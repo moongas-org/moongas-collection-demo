@@ -15,11 +15,22 @@ trackIdData:
     - id: fb190753-7a66-40fc-a57a-c75360ae3278
       recordings:
       - id: b4196d8b-6703-4e60-9e32-cf168513683f
-        isrcs: []
+        isrcs: &id001
+        - USSM19917724
+        title: Fireworks
+        length: 192250
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-10
       score: 0.966904
     - id: a2b8610b-5aac-496a-ba2a-36d3dcca94a4
       recordings:
       - id: b4196d8b-6703-4e60-9e32-cf168513683f
-        isrcs: []
+        isrcs: *id001
+        title: Fireworks
+        length: 192250
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-10
       score: 0.9516746
     status: ok

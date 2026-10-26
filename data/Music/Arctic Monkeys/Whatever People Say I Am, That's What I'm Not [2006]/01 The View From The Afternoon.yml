@@ -15,16 +15,32 @@ trackIdData:
     - id: 8e46dea0-6623-4da2-8e33-0d8078bd7e8e
       recordings:
       - id: 123e75e7-a26b-4685-814a-58b7106e425f
-        isrcs: []
+        isrcs: &id001
+        - GBCEL0501180
+        title: The View From the Afternoon
+        length: 218133
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.97715586
     - id: 21487d6c-3855-4196-9602-aa3deb68ca89
       recordings:
       - id: 123e75e7-a26b-4685-814a-58b7106e425f
-        isrcs: []
+        isrcs: *id001
+        title: The View From the Afternoon
+        length: 218133
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.96759623
     - id: 18efdf4a-397e-41a9-be5e-bc06e62222ce
       recordings:
       - id: 123e75e7-a26b-4685-814a-58b7106e425f
-        isrcs: []
+        isrcs: *id001
+        title: The View From the Afternoon
+        length: 218133
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.90859044
     status: ok

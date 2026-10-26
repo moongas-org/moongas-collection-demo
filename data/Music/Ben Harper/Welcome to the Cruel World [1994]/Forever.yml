@@ -15,20 +15,46 @@ trackIdData:
     - id: 3230e46d-4403-4799-b504-960c79675113
       recordings:
       - id: f5b81cdf-c5e1-463f-898c-c0f3c9838a2e
-        isrcs: []
+        isrcs: &id001
+        - USVI29400013
+        title: Forever
+        length: 202426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-02-08'
       score: 0.9835509
     - id: 219e5949-1dff-4e4d-87bb-7ba3e48fe7cf
       recordings:
       - id: 7a2fb8e2-27d8-4948-a33d-11a8757be17e
         isrcs: []
+        title: Forever
+        length: 205160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-10-16'
       - id: 885c21f2-eb53-4d0a-bffb-d2e11aabf1ee
         isrcs: []
+        title: Forever
+        length: 203000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2024-09-06'
       - id: f5b81cdf-c5e1-463f-898c-c0f3c9838a2e
-        isrcs: []
+        isrcs: *id001
+        title: Forever
+        length: 202426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-02-08'
       score: 0.9728705
     - id: c1a4a57b-0aff-4bb5-9cf9-630f954882fb
       recordings:
       - id: f5b81cdf-c5e1-463f-898c-c0f3c9838a2e
-        isrcs: []
+        isrcs: *id001
+        title: Forever
+        length: 202426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-02-08'
       score: 0.5800876
     status: ok

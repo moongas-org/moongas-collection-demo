@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 79d7110e-a471-4468-8454-747ef0f14761
         isrcs: []
+        title: One Foundation
+        length: 224500
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 99e09dfa-39d8-40fd-956f-a524edb6be02
         isrcs: []
+        title: One Foundation
+        length: 223616
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-11-20'
       - id: e979d99b-1d2a-4f9f-a59b-60d7459fb2ac
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7300131
+        title: One Foundation
+        length: 222826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-10-19'
       score: 0.96400315
     - id: 0bd3e680-ff33-40a3-acd7-139a82aaac09
       recordings:
       - id: e979d99b-1d2a-4f9f-a59b-60d7459fb2ac
-        isrcs: []
+        isrcs: *id001
+        title: One Foundation
+        length: 222826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-10-19'
       score: 0.8889768
     status: ok

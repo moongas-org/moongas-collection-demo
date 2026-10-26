@@ -15,13 +15,24 @@ trackIdData:
     - id: 12148455-132a-42a5-9160-0a1006b2b200
       recordings:
       - id: b4319ba4-e1a9-430c-96ff-bb1e1f901540
-        isrcs: []
+        isrcs: &id001
+        - USWB10001099
+        title: Donkey Jaw
+        length: 319000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.9559929
     - id: 14fa217a-13fa-46dd-a3eb-032cee173671
       score: 0.9339069
     - id: a57ad903-bf09-49b5-8534-40e95da8499a
       recordings:
       - id: b4319ba4-e1a9-430c-96ff-bb1e1f901540
-        isrcs: []
+        isrcs: *id001
+        title: Donkey Jaw
+        length: 319000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.6280986
     status: ok

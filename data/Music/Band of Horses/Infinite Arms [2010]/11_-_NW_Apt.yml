@@ -15,16 +15,32 @@ trackIdData:
     - id: 546dec25-dac5-4135-ae88-25483201a97a
       recordings:
       - id: 74ed42ce-6737-41fd-95b7-d5c5d0e864d9
-        isrcs: []
+        isrcs: &id001
+        - USQX91000279
+        title: NW Apt.
+        length: 181440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.9832542
     - id: d474a1b8-f7f6-4d47-bf5d-f4c2fce2b895
       recordings:
       - id: 74ed42ce-6737-41fd-95b7-d5c5d0e864d9
-        isrcs: []
+        isrcs: *id001
+        title: NW Apt.
+        length: 181440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.940269
     - id: 1c6e5e34-0fc5-457d-a37a-51385d5f34af
       recordings:
       - id: 74ed42ce-6737-41fd-95b7-d5c5d0e864d9
-        isrcs: []
+        isrcs: *id001
+        title: NW Apt.
+        length: 181440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.9230947
     status: ok

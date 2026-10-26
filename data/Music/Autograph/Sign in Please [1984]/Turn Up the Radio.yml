@@ -16,26 +16,79 @@ trackIdData:
       recordings:
       - id: 1a1bc15c-afce-46ce-8dde-8e01858c1cfb
         isrcs: []
+        title: Turn Up the Radio
+        length: 277000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: 27143983-fca7-43aa-9b6c-6e28a1d15568
         isrcs: []
+        title: Turn Up The Radio
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 40ddcca9-829b-4211-a9c9-0917eb397503
-        isrcs: []
+        isrcs:
+        - USRC18404644
+        title: Turn Up the Radio
+        length: 279000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1984'
       - id: 7c5e68ca-0918-4577-9746-f9701686aacd
         isrcs: []
+        title: Turn Up the Radio (demo version)
+        length: 286000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: c8dcd1e5-f798-4091-98dd-abd23f345e9b
-        isrcs: []
+        isrcs: &id001
+        - USRC18404700
+        title: Turn Up the Radio
+        length: 275000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: dcfb531d-03bf-4fae-81ae-b0b15f3b4db6
         isrcs: []
+        title: Turn Up the Radio
+        length: 275493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: ea79706c-118b-4a34-a4dd-526c85f949ae
         isrcs: []
+        title: Turn Up the Radio
+        length: 270000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-06-01'
       score: 0.9758373
     - id: 9b802b99-6b9d-4167-ae59-582d6b140960
       recordings:
       - id: ac797700-79f5-4fd9-8b7e-cbc9bd71a97e
-        isrcs: []
+        isrcs:
+        - USRC18404700
+        title: Turn Up the Radio (extended version)
+        length: 268000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       - id: c8dcd1e5-f798-4091-98dd-abd23f345e9b
-        isrcs: []
+        isrcs: *id001
+        title: Turn Up the Radio
+        length: 275000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: ea79706c-118b-4a34-a4dd-526c85f949ae
         isrcs: []
+        title: Turn Up the Radio
+        length: 270000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-06-01'
       score: 0.9729694
     status: ok

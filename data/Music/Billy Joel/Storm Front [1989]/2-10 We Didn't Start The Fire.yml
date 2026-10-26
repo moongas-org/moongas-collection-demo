@@ -15,39 +15,113 @@ trackIdData:
     - id: 2621a4f5-2a2e-49dc-a76a-7b25314bc4ce
       recordings:
       - id: 4936e368-014b-4f8b-85cf-f37e0f769d52
-        isrcs: []
+        isrcs:
+        - USSM10312345
+        title: We Didn’t Start the Fire
+        length: 269600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-01-30'
       - id: 8e230226-803c-467f-90f6-8ee8f3299e5c
-        isrcs: []
+        isrcs:
+        - GBAAN0201163
+        title: Just the Way You Are
+        length: 300000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: 9fbed5dc-deff-4fc3-8101-322e0e5a2635
-        isrcs: []
+        isrcs:
+        - USSM18900217
+        title: We Didn't Start the Fire
+        length: 291100
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2025-07-26'
       - id: fd12141d-ce5e-46d8-bae3-6d6f084f9392
-        isrcs: []
+        isrcs: &id001
+        - USSM18900217
+        - USSM18900597
+        - USSM19701936
+        title: We Didn’t Start the Fire
+        length: 289000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-06-01'
       score: 0.9838805
     - id: 1ad0a1ac-e679-48d6-8ced-a7823946f8a7
       recordings:
       - id: fd12141d-ce5e-46d8-bae3-6d6f084f9392
-        isrcs: []
+        isrcs: *id001
+        title: We Didn’t Start the Fire
+        length: 289000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-06-01'
       score: 0.97837555
     - id: b5aac76d-b988-4309-aed9-8a167103f964
       recordings:
       - id: 12fac654-4776-49d5-a68e-54111327efbc
         isrcs: []
+        title: We Didn’t Start the Fire
+        length: 290933
+        video: false
+        disambiguation: live
+        firstReleaseDate: '1993'
       - id: 1b7b3df6-6ad2-4025-8e34-0ce4625c8215
         isrcs: []
+        title: We Didn’t Start the Fire
+        length: 270866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: 55d42e4c-f7a5-4bb3-bf81-152ad1a51e1b
         isrcs: []
+        title: We Didn’t Start the Fire
+        length: 290760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: 7a403c04-4408-4f5c-929a-abfea1d1fcd4
-        isrcs: []
+        isrcs:
+        - USSM18900217
+        title: We Didn't Start the Fire
+        length: 291100
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-11-16'
       - id: 847690d3-cb86-43e1-b2e8-157ea6af60b2
-        isrcs: []
+        isrcs:
+        - USSM10312345
+        title: We Didn’t Start the Fire
+        length: 269213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989'
       - id: ab55c2c2-a967-4224-8d89-d88c358022d5
-        isrcs: []
+        isrcs:
+        - USSM10601867
+        title: We Didn’t Start the Fire
+        length: 287480
+        video: false
+        disambiguation: 'live, 2006: Madison Square Garden, Manhattan, NY, USA'
+        firstReleaseDate: '2006-06-09'
       - id: fd12141d-ce5e-46d8-bae3-6d6f084f9392
-        isrcs: []
+        isrcs: *id001
+        title: We Didn’t Start the Fire
+        length: 289000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-06-01'
       score: 0.9507516
     - id: 6f07c9b3-e34a-4d99-ba48-23455e3bf279
       recordings:
       - id: fd12141d-ce5e-46d8-bae3-6d6f084f9392
-        isrcs: []
+        isrcs: *id001
+        title: We Didn’t Start the Fire
+        length: 289000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-06-01'
       score: 0.6651173
     status: ok

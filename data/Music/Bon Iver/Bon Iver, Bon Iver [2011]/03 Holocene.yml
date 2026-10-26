@@ -15,15 +15,38 @@ trackIdData:
     - id: e55d8a6b-bc17-4c0a-9ead-1913111a1f81
       recordings:
       - id: 90b8f651-f100-43f9-a1c5-affbf40c1f2d
-        isrcs: []
+        isrcs:
+        - US38Y1121503
+        title: Holocene
+        length: 330000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2011-11-29'
       - id: c218b538-538d-4d71-9f6d-d063f5c57188
-        isrcs: []
+        isrcs: &id001
+        - US38Y1113503
+        title: Holocene
+        length: 336613
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-06-20'
       score: 0.9736287
     - id: 3ab2e199-36d4-401e-9b51-5c1c9589e55d
       recordings:
       - id: c218b538-538d-4d71-9f6d-d063f5c57188
-        isrcs: []
+        isrcs: *id001
+        title: Holocene
+        length: 336613
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-06-20'
       - id: f38c96ce-f5b6-4aec-b009-fd1b00dae238
-        isrcs: []
+        isrcs:
+        - US38Y1222403
+        title: Holocene
+        length: 336000
+        video: false
+        disambiguation: iTunes Session
+        firstReleaseDate: '2012-06-19'
       score: 0.97089267
     status: ok

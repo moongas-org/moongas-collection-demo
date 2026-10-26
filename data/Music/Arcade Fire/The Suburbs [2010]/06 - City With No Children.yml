@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 43f4363e-7e7e-4b98-bc06-07a351e88330
         isrcs: []
+        title: City with No Children
+        length: 191000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       - id: 9c118d08-9007-4afa-904c-5e9ff44eeb5f
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021637
+        title: City With No Children
+        length: 191600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: e7d8584c-47f4-4b80-b0f0-5053391a6f29
         isrcs: []
+        title: City With No Children
+        length: 191000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       score: 0.9873088
     - id: d72f0b9a-2a8b-4c0c-8208-43db5bd53af2
       recordings:
       - id: 9c118d08-9007-4afa-904c-5e9ff44eeb5f
-        isrcs: []
+        isrcs: *id001
+        title: City With No Children
+        length: 191600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.63755935
     status: ok

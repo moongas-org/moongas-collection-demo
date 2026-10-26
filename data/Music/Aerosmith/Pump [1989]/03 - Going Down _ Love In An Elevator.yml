@@ -16,26 +16,81 @@ trackIdData:
       recordings:
       - id: 10972367-24b0-4933-8da8-796ce9b9c866
         isrcs: []
+        title: Love in an Elevator
+        length: 339000
+        video: true
+        disambiguation: 'live, 2007-05-04: Jacob K. Javits Convention Center, New
+          York City, NY, USA'
+        firstReleaseDate: '2009-06-26'
       - id: 277b9513-b321-4722-a301-5370a2a37a7a
-        isrcs: []
+        isrcs:
+        - USGF19925406
+        title: Water Song / Janie’s Got a Gun
+        length: 340000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-09-12'
       - id: 2fa1a0c8-2b7c-4be6-893b-186148731fcf
         isrcs: []
+        title: Love in an Elevator
+        length: 323440
+        video: false
+        disambiguation: Unknown origin
+        firstReleaseDate:
       - id: 30d3adc5-9d54-4975-88bd-283558fd2068
         isrcs: []
+        title: Love in an Elevator
+        length: 339866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-08-17'
       - id: 3ecd2bb2-1088-431a-b56a-b1116c3150c5
         isrcs: []
+        title: Love in an Elevator
+        length: 325519
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: 46a9b2de-ebcb-41f2-b440-2e1ac1ffa83a
-        isrcs: []
+        isrcs:
+        - USGF19925404
+        title: Love in an Elevator
+        length: 321800
+        video: false
+        disambiguation: single version
+        firstReleaseDate: '1994-10-31'
       - id: 62902c46-6f24-411d-bea7-4d6a7a4cd8a3
-        isrcs: []
+        isrcs:
+        - USGF19925404
+        title: Love in an Elevator
+        length: 322227
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000'
       - id: 6b9319de-dee2-4e33-8001-fb0fa6bf673f
         isrcs: []
+        title: Love in an Elevator
+        length: 321000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-09-12'
       - id: ea5713a7-d084-490a-a6ce-3e3ce06477a2
-        isrcs: []
+        isrcs: &id001
+        - USGF19925403
+        title: Going Down / Love in an Elevator
+        length: 338960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-09-12'
       score: 0.96466243
     - id: 6e1654b3-4fa4-4643-be19-8ba50ecbf35d
       recordings:
       - id: ea5713a7-d084-490a-a6ce-3e3ce06477a2
-        isrcs: []
+        isrcs: *id001
+        title: Going Down / Love in an Elevator
+        length: 338960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-09-12'
       score: 0.69827926
     status: ok

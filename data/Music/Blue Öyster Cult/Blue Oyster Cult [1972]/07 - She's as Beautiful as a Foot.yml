@@ -15,15 +15,32 @@ trackIdData:
     - id: 887bb7d1-97c8-4525-bb35-558516c6e1e9
       recordings:
       - id: b0699d11-72cf-4bed-9207-0e4dd5562fc7
-        isrcs: []
+        isrcs:
+        - ITG272301061
+        title: She’s as Beautiful as a Foot (live)
+        length: 178640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-12-08'
       - id: bcd0a9a2-7516-4f96-b025-41e151535a41
-        isrcs: []
+        isrcs: &id001
+        - USSM19917734
+        title: She’s as Beautiful as a Foot
+        length: 176840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-01-16'
       score: 0.9749473
     - id: baac6986-fb93-4f99-9a07-424bd56ab498
       score: 0.8981738
     - id: 052deacc-58d5-434f-b85d-df6f8d7876c4
       recordings:
       - id: bcd0a9a2-7516-4f96-b025-41e151535a41
-        isrcs: []
+        isrcs: *id001
+        title: She’s as Beautiful as a Foot
+        length: 176840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-01-16'
       score: 0.8544304
     status: ok

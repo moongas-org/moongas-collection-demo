@@ -16,28 +16,72 @@ trackIdData:
       recordings:
       - id: 4596a8bc-5710-4f2b-952f-d23ce87fa113
         isrcs: []
+        title: Pass It On
+        length: 214266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982-04-05'
       - id: 89534dca-4b18-4840-89ef-cd0f93064218
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7300061
+        title: Pass It On
+        length: 213666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-10-19'
       - id: db6c2d64-1c4b-47d6-ba18-758dc1c581b6
         isrcs: []
+        title: Pass It On
+        length: 209000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-05-16'
       score: 0.9869792
     - id: c9905870-ce32-40b8-9070-77280bda0bb0
       recordings:
       - id: 89534dca-4b18-4840-89ef-cd0f93064218
-        isrcs: []
+        isrcs: *id001
+        title: Pass It On
+        length: 213666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-10-19'
       score: 0.9547732
     - id: ed17375c-ca53-46ba-9f6d-1ac657a44a38
       recordings:
       - id: 1928cb3d-eaa5-4112-b815-adb156d37223
         isrcs: []
+        title: Pass It On
+        length: 215792
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 89534dca-4b18-4840-89ef-cd0f93064218
-        isrcs: []
+        isrcs: *id001
+        title: Pass It On
+        length: 213666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-10-19'
       - id: a0050314-d969-47b5-b7fe-f4a8a4530ab1
-        isrcs: []
+        isrcs:
+        - GBAJE7100238
+        - GBFWU0400067
+        - GBUM70500041
+        title: Put It On
+        length: 214000
+        video: false
+        disambiguation: 1970 re-recording
+        firstReleaseDate: '1971'
       score: 0.8255538
     - id: 7db7ad4d-228e-492d-b1c1-9ddb190c2bef
       recordings:
       - id: 89534dca-4b18-4840-89ef-cd0f93064218
-        isrcs: []
+        isrcs: *id001
+        title: Pass It On
+        length: 213666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-10-19'
       score: 0.7823708
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: 11b25640-ddc9-4a81-92bf-cd2f3b9e04c8
       recordings:
       - id: 12cf7e6d-3db9-472d-b4a4-004d9548b410
-        isrcs: []
+        isrcs: &id001
+        - USD8D2007003
+        title: Busman’s Holiday
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-09-18'
       score: 0.9811115
     - id: 58ff17af-c3f2-4830-8df3-06e475599316
       recordings:
       - id: 12cf7e6d-3db9-472d-b4a4-004d9548b410
-        isrcs: []
+        isrcs: *id001
+        title: Busman’s Holiday
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-09-18'
       score: 0.8567708
     status: ok

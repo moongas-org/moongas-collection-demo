@@ -15,11 +15,23 @@ trackIdData:
     - id: fce9c4c4-064c-4a99-9804-94997c87b11d
       recordings:
       - id: 70d61e2e-1a22-4686-97e8-e1db977558ca
-        isrcs: []
+        isrcs: &id001
+        - GBAZP0100103
+        - GBAZP1400008
+        title: '57'
+        length: 202000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-06-13'
       score: 0.99996704
     - id: 3cee58a8-9b42-409a-852d-773fc9dce707
       recordings:
       - id: 70d61e2e-1a22-4686-97e8-e1db977558ca
-        isrcs: []
+        isrcs: *id001
+        title: '57'
+        length: 202000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-06-13'
       score: 0.7569225
     status: ok

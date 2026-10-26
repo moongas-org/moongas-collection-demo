@@ -15,28 +15,75 @@ trackIdData:
     - id: e8e2f835-738b-46e3-b08f-e53f7948dc8e
       recordings:
       - id: 797ae656-81d4-4d89-bddb-eca56f77ba72
-        isrcs: []
+        isrcs: &id001
+        - GBBKS1000349
+        title: Rumour Has It
+        length: 223266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.9970003
     - id: 7c66e8fd-109d-4256-be8e-530567452a6f
       recordings:
       - id: 37829a4a-acc3-4d13-bc0b-02e3f48edc5b
-        isrcs: []
+        isrcs:
+        - GBBKS1100244
+        title: Rumour Has It
+        length: 228000
+        video: false
+        disambiguation: 'live, 2011-09-22: Royal Albert Hall, London, UK'
+        firstReleaseDate: '2011-11-25'
       - id: 797ae656-81d4-4d89-bddb-eca56f77ba72
-        isrcs: []
+        isrcs: *id001
+        title: Rumour Has It
+        length: 223266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       - id: 9365bf3f-81ce-4b31-a486-a8b014a77f13
         isrcs: []
+        title: Rumor Has It
+        length: 223000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '1992'
       - id: c5c1e25b-fcf0-4772-8c7e-96f429fdd155
         isrcs: []
+        title: Rumour Has It
+        length: 224000
+        video: false
+        disambiguation: 'live, 2015-11-02: The London Studios, London, UK'
+        firstReleaseDate: '2015-11-20'
       - id: cdb82cf3-d153-44dc-afd5-27a401a59433
         isrcs: []
+        title: Rumour Has It
+        length: 220000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-08-29'
       - id: d68d08d6-32bf-40ea-a60b-55852328c67d
         isrcs: []
+        title: Rumour Has It
+        length: 230026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-10-12'
       score: 0.9804941
     - id: 0878e06f-fc4b-4a3c-89d9-5b2b5fff7bbe
       recordings:
       - id: 02df042c-7fd2-496e-b5c0-57ce844e8796
         isrcs: []
+        title: Rumour Has It
+        length: 232000
+        video: false
+        disambiguation: 'live, 2011-04-08: Paradiso FM, Amsterdam, Netherlands'
+        firstReleaseDate: '2011-04-28'
       - id: 797ae656-81d4-4d89-bddb-eca56f77ba72
-        isrcs: []
+        isrcs: *id001
+        title: Rumour Has It
+        length: 223266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.9640361
     status: ok

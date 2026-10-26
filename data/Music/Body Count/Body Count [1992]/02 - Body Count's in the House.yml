@@ -15,13 +15,29 @@ trackIdData:
     - id: 38d5c39e-71c6-4810-9343-5529d8da8770
       recordings:
       - id: 760a9df7-0301-4544-a87d-47f2b0c4605e
-        isrcs: []
+        isrcs: &id001
+        - USWB10102379
+        title: Body Count’s in the House
+        length: 204173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-10'
       - id: d9057611-efa2-40f4-956d-926beb715460
         isrcs: []
+        title: Body Count's in the House
+        length: 205173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-08-22'
       score: 0.9744528
     - id: 70bdfe5f-43ec-4f8f-a68d-d86cab525037
       recordings:
       - id: 760a9df7-0301-4544-a87d-47f2b0c4605e
-        isrcs: []
+        isrcs: *id001
+        title: Body Count’s in the House
+        length: 204173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-10'
       score: 0.78210706
     status: ok

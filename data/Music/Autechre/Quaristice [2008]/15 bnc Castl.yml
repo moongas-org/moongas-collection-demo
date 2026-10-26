@@ -15,16 +15,32 @@ trackIdData:
     - id: d044a41f-bbe4-4052-acc5-885cab63bc44
       recordings:
       - id: 6336f237-8b7f-428a-b231-bb36c74837b3
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700216
+        title: bnc Castl
+        length: 171973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.9946928
     - id: 731f41f0-2207-4da0-b609-6a7a2a709de6
       recordings:
       - id: 6336f237-8b7f-428a-b231-bb36c74837b3
-        isrcs: []
+        isrcs: *id001
+        title: bnc Castl
+        length: 171973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.90625
     - id: 3ca72929-c399-49a1-8cf1-d6f7ca3c3ddb
       recordings:
       - id: 6336f237-8b7f-428a-b231-bb36c74837b3
-        isrcs: []
+        isrcs: *id001
+        title: bnc Castl
+        length: 171973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.88383436
     status: ok

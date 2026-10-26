@@ -15,16 +15,32 @@ trackIdData:
     - id: 0bfceb33-cffa-4db7-a220-40f71e0e3e2a
       recordings:
       - id: 762dd8bc-499a-497b-87d9-ccb02a3368ed
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700205
+        title: plyPhon
+        length: 153173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.9942313
     - id: ed021c5f-823f-4f93-a3e2-a95698595793
       recordings:
       - id: 762dd8bc-499a-497b-87d9-ccb02a3368ed
-        isrcs: []
+        isrcs: *id001
+        title: plyPhon
+        length: 153173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.8687368
     - id: c33655df-1001-4e85-ac5d-63b7765a7acd
       recordings:
       - id: 762dd8bc-499a-497b-87d9-ccb02a3368ed
-        isrcs: []
+        isrcs: *id001
+        title: plyPhon
+        length: 153173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.59355223
     status: ok

@@ -15,21 +15,59 @@ trackIdData:
     - id: 73d04910-2cd7-4327-a6a2-7d09da2cd7c5
       recordings:
       - id: 49f2c20f-0b51-4dba-8fbe-90f2db4bbcbf
-        isrcs: []
+        isrcs:
+        - GBBPW0500098
+        title: Dayvan Cowboy
+        length: 300186
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-10-02'
       - id: 914e3740-e5c0-423c-b122-cc0cb8298a56
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0600024
+        title: Dayvan Cowboy
+        length: 301000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-05-19'
       - id: 97123b64-a009-48d6-97d5-8b9b1f70db2b
         isrcs: []
+        title: Dayvan Cowboy
+        length: 301973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: ef756a43-0905-4e59-8f05-a6b2bd977aa8
-        isrcs: []
+        isrcs: &id002
+        - GBBPW0500098
+        title: Dayvan Cowboy
+        length: 300186
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-10-12'
       score: 0.98473763
     - id: 4f5fdcf3-511d-4aa2-bf22-624d0aa6a78b
       recordings:
       - id: 914e3740-e5c0-423c-b122-cc0cb8298a56
-        isrcs: []
+        isrcs: *id001
+        title: Dayvan Cowboy
+        length: 301000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-05-19'
       - id: 97123b64-a009-48d6-97d5-8b9b1f70db2b
         isrcs: []
+        title: Dayvan Cowboy
+        length: 301973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: ef756a43-0905-4e59-8f05-a6b2bd977aa8
-        isrcs: []
+        isrcs: *id002
+        title: Dayvan Cowboy
+        length: 300186
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-10-12'
       score: 0.97115636
     status: ok

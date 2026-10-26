@@ -16,21 +16,62 @@ trackIdData:
       recordings:
       - id: 1b7eb77a-accf-410a-9862-be5c52d1498d
         isrcs: []
+        title: More Than a Feeling
+        length:
+        video: false
+        disambiguation: 'live, 1976-12-18: The Spectrum, Philadelphia, PA, USA'
+        firstReleaseDate:
       - id: 2849bb0f-4ce8-4cdf-a553-867e76fe5e12
         isrcs: []
+        title: More Than a Feeling
+        length:
+        video: false
+        disambiguation: 'part of “Life Moves Pretty Fast: The John Hughes Mixtapes”
+          DJ‐mix'
+        firstReleaseDate: '2022-11-11'
       - id: 5698b33c-eada-493e-ba34-636acc149cf8
-        isrcs: []
+        isrcs: &id001
+        - USSM17600047
+        - USSM17600444
+        - USSM17600941
+        - USSM19804762
+        - USSM19907680
+        title: More Than a Feeling
+        length: 284826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-08-25'
       - id: 70754597-23d2-4bed-9888-282bb6240ec2
         isrcs: []
+        title: More Than Feeling
+        length:
+        video: false
+        disambiguation: live
+        firstReleaseDate:
       - id: 72d0b37d-61fa-48f5-a28b-44d5dc6febd6
         isrcs: []
+        title: More Than a Feeling
+        length: 206693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021'
       - id: fab45f61-9389-424c-a193-54c8dc017368
         isrcs: []
+        title: More Than a Feeling
+        length:
+        video: false
+        disambiguation: live
+        firstReleaseDate:
       score: 0.9730024
     - id: c3a67fd3-0803-4821-a78b-1a01a3e2e7e7
       recordings:
       - id: 5698b33c-eada-493e-ba34-636acc149cf8
-        isrcs: []
+        isrcs: *id001
+        title: More Than a Feeling
+        length: 284826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-08-25'
       score: 0.9152822
     - id: 1f502bea-1d99-46f8-bb86-57aadf142d75
       score: 0.731606

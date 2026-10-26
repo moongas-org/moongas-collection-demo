@@ -16,16 +16,45 @@ trackIdData:
       recordings:
       - id: 3f5e9df9-c092-49ad-b10b-e0385d8c67f5
         isrcs: []
+        title: Leaving Babylon
+        length: 252000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-19'
       - id: b6b77449-cf22-4265-b53a-ec0d4c503e35
-        isrcs: []
+        isrcs: &id001
+        - US29V0422308
+        - USFMA1900135
+        title: Leaving Babylon
+        length: 250586
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: c2d459bb-aa0f-46c0-989e-de4adaefceed
         isrcs: []
+        title: Leaving Babylon
+        length: 251000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       score: 0.97560656
     - id: ff770915-7ff5-4b49-b863-8d70f1482bec
       recordings:
       - id: b6b77449-cf22-4265-b53a-ec0d4c503e35
-        isrcs: []
+        isrcs: *id001
+        title: Leaving Babylon
+        length: 250586
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: fb471459-b9f0-4713-be34-2230ec78001b
-        isrcs: []
+        isrcs:
+        - US29V0422307
+        - USFMA1900134
+        title: Supertouch / Shitfit
+        length: 150986
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9727057
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: a314b5d3-a595-40b7-beac-6895546452ee
       recordings:
       - id: 3a028d7d-d5ba-40c7-9547-ba6af62a275a
-        isrcs: []
+        isrcs: &id001
+        - BEZ350800031
+        title: Ptolemy
+        length: 434293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.9951872
     - id: 34fa623d-4019-4288-98e3-5057f474e402
       recordings:
       - id: 3a028d7d-d5ba-40c7-9547-ba6af62a275a
-        isrcs: []
+        isrcs: *id001
+        title: Ptolemy
+        length: 434293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.95408094
     status: ok

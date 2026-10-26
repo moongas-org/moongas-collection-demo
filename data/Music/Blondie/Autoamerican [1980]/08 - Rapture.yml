@@ -15,13 +15,24 @@ trackIdData:
     - id: ee8d8874-2c60-4396-9069-5dd7be9e2313
       recordings:
       - id: a5700d80-266d-4abb-94fa-b976288ce5b9
-        isrcs: []
+        isrcs: &id001
+        - USCH30100092
+        title: Rapture
+        length: 391426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-19'
       score: 0.98424315
     - id: a8004525-620e-47da-838c-884f0c1e9479
       score: 0.70098233
     - id: 116b9cfb-c640-4ea1-a665-07940f203deb
       recordings:
       - id: a5700d80-266d-4abb-94fa-b976288ce5b9
-        isrcs: []
+        isrcs: *id001
+        title: Rapture
+        length: 391426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-19'
       score: 0.57351005
     status: ok

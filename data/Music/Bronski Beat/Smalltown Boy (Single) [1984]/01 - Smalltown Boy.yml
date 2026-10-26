@@ -15,27 +15,68 @@ trackIdData:
     - id: 1db7a22b-fd2d-45d8-8995-735cca786f86
       recordings:
       - id: 6333bcb0-375a-4d6a-b657-3616015453ba
-        isrcs: []
+        isrcs: &id001
+        - GBAAP0200005
+        - GBAAP0200283
+        - GBAAP1812339
+        - GBAAP9190015
+        - GBAAP9500310
+        - GBCRL0800758
+        title: Smalltown Boy
+        length: 301133
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1984-07-23'
       score: 0.99261606
     - id: 1f76e0fe-2175-4899-94a5-46a239c08d25
       recordings:
       - id: 3a10d678-54f8-48de-9822-31a69ab67596
         isrcs: []
+        title: Smalltown Boy
+        length:
+        video: true
+        disambiguation: Restored Promo
+        firstReleaseDate: '2024-10-11'
       - id: 6333bcb0-375a-4d6a-b657-3616015453ba
-        isrcs: []
+        isrcs: *id001
+        title: Smalltown Boy
+        length: 301133
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1984-07-23'
       score: 0.8747693
     - id: 953fe11f-aedb-4e06-a70e-8f88848d3946
       recordings:
       - id: 5b6b700f-fb34-4b56-91fb-c1c73a743d70
         isrcs: []
+        title: Smalltown Boy
+        length: 278000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: 6333bcb0-375a-4d6a-b657-3616015453ba
-        isrcs: []
+        isrcs: *id001
+        title: Smalltown Boy
+        length: 301133
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1984-07-23'
       score: 0.8521229
     - id: dd4cd308-4f49-45f9-85e6-e3c75bd000e3
       recordings:
       - id: 6333bcb0-375a-4d6a-b657-3616015453ba
-        isrcs: []
+        isrcs: *id001
+        title: Smalltown Boy
+        length: 301133
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1984-07-23'
       - id: 6672f202-340b-4182-a8d5-e2458562355e
         isrcs: []
+        title: Smalltown Boy
+        length: 295080
+        video: false
+        disambiguation: part of “Culture Club, Vol. 3” DJ‐mix
+        firstReleaseDate: '2005-03-07'
       score: 0.8351793
     status: ok

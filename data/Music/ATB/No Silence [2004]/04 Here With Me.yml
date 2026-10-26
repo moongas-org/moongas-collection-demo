@@ -15,11 +15,22 @@ trackIdData:
     - id: 2c8eee14-094c-4cdd-aeba-a8f94a0b15b5
       recordings:
       - id: 73e3a965-bd9a-4636-8699-7e18a8c0df47
-        isrcs: []
+        isrcs: &id001
+        - DEN060401583
+        title: Here With Me
+        length: 312413
+        video: false
+        disambiguation: No Silence version
+        firstReleaseDate: '2004-05-24'
       score: 0.9891548
     - id: e63c4db0-5fa5-4268-84af-2410f2b209b5
       recordings:
       - id: 73e3a965-bd9a-4636-8699-7e18a8c0df47
-        isrcs: []
+        isrcs: *id001
+        title: Here With Me
+        length: 312413
+        video: false
+        disambiguation: No Silence version
+        firstReleaseDate: '2004-05-24'
       score: 0.7648668
     status: ok

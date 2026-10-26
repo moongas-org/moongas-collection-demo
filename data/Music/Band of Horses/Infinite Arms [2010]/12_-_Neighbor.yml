@@ -15,11 +15,22 @@ trackIdData:
     - id: edbafbd1-c1cc-4dd8-94f4-af29d12c6ec0
       recordings:
       - id: 3091f0e0-76ff-4ac3-81a4-6f56de1af22f
-        isrcs: []
+        isrcs: &id001
+        - USQX91000280
+        title: Neighbor
+        length: 358533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.98183674
     - id: 670ea682-2aa6-45fe-9c72-b467055c636b
       recordings:
       - id: 3091f0e0-76ff-4ac3-81a4-6f56de1af22f
-        isrcs: []
+        isrcs: *id001
+        title: Neighbor
+        length: 358533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.8670227
     status: ok

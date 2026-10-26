@@ -15,117 +15,395 @@ trackIdData:
     - id: aed929f8-6504-41be-ae0a-4bfada3a54c5
       recordings:
       - id: 00e37446-2e4c-409a-a8a1-ed94f1b01a57
-        isrcs: []
+        isrcs: &id001
+        - GBACF2193801
+        - USSM10307243
+        - USSM16200168
+        - USSM16201241
+        - USSM19900534
+        title: Blowin’ in the Wind
+        length: 168146
+        video: false
+        disambiguation: original stereo album mix
+        firstReleaseDate: '1963-05-27'
       - id: 10136355-8ba7-47c7-85fa-19824a811e24
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 166360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: 62768a8e-6a71-4487-8d74-9a6128e058d8
-        isrcs: []
+        isrcs: &id002
+        - USSM11003506
+        title: Blowin’ in the Wind
+        length: 168760
+        video: false
+        disambiguation: original mono album mix
+        firstReleaseDate: '1963'
       score: 0.9692445
     - id: 4d4d019b-96c7-4082-a63c-581d109d6b40
       recordings:
       - id: 00e37446-2e4c-409a-a8a1-ed94f1b01a57
-        isrcs: []
+        isrcs: *id001
+        title: Blowin’ in the Wind
+        length: 168146
+        video: false
+        disambiguation: original stereo album mix
+        firstReleaseDate: '1963-05-27'
       - id: 62768a8e-6a71-4487-8d74-9a6128e058d8
-        isrcs: []
+        isrcs: *id002
+        title: Blowin’ in the Wind
+        length: 168760
+        video: false
+        disambiguation: original mono album mix
+        firstReleaseDate: '1963'
       score: 0.9473982
     - id: f66dec11-284f-49f9-8cc2-72ee3abb8db4
       recordings:
       - id: 00e37446-2e4c-409a-a8a1-ed94f1b01a57
-        isrcs: []
+        isrcs: *id001
+        title: Blowin’ in the Wind
+        length: 168146
+        video: false
+        disambiguation: original stereo album mix
+        firstReleaseDate: '1963-05-27'
       - id: 10136355-8ba7-47c7-85fa-19824a811e24
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 166360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: 1a33ce07-9652-4366-ba20-94975b6aa886
         isrcs: []
+        title: Blowin' in the Wind
+        length: 167640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-10-11'
       - id: 2106d24c-0bae-4671-ac86-70e79f294127
         isrcs: []
+        title: Blowin' in the Wind
+        length: 170226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988'
       - id: 24cade26-dfdf-4fbc-8970-5986d55ff091
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 166000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       - id: 271606dd-adf5-4167-89ab-85f140598904
         isrcs: []
+        title: Blowing in the Wind
+        length: 169000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013'
       - id: 2d61c8bc-2895-45a9-9830-cec9ef2129a9
         isrcs: []
+        title: Blowin' in the Wind
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2002-06
       - id: 408d87f5-6ff4-45b3-94f5-d5b8d7023ed3
         isrcs: []
+        title: Blowin’ in the Wind
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2002-11
       - id: 42b01dbb-cc84-4bbf-ab92-0e250591b207
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 167213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-09-06'
       - id: 44c7f280-95b5-4e5f-9f76-4d95d0a9fef6
-        isrcs: []
+        isrcs: &id003
+        - USSM16201241
+        title: Blowin’ in the Wind
+        length: 169493
+        video: false
+        disambiguation: “Greatest Hits” version
+        firstReleaseDate: '1987'
       - id: 486f224f-53eb-4b7d-bd0e-6a78ca2e4cb6
         isrcs: []
+        title: Blowin' in the Wind
+        length: 162026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977'
       - id: 48826dec-31f3-4935-b42e-2507336b84bb
         isrcs: []
+        title: Blowin' in the Wind
+        length: 171160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-02-06'
       - id: 4c0effa6-486e-4ea6-86c2-adbf4f4540d7
         isrcs: []
+        title: Blowin' in the Wind
+        length: 165773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: 54f769b6-4089-4628-984a-02fe9f0cbf9f
         isrcs: []
+        title: Shubidube Love
+        length: 162360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: 5763099d-26d5-4b51-8535-396a86ccf5fa
-        isrcs: []
+        isrcs: &id004
+        - USSM10212624
+        title: Blowin’ in the Wind
+        length: 165506
+        video: false
+        disambiguation: 'live, 1975-11-21 (evening): Boston Music Hall, Boston, MA,
+          USA'
+        firstReleaseDate: '2002-11-25'
       - id: 62768a8e-6a71-4487-8d74-9a6128e058d8
-        isrcs: []
+        isrcs: *id002
+        title: Blowin’ in the Wind
+        length: 168760
+        video: false
+        disambiguation: original mono album mix
+        firstReleaseDate: '1963'
       - id: 708d8486-77e3-4d57-8f41-034129a72b6a
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 167000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1963'
       - id: 70b5173a-e0ae-4b82-a9ab-78b25be59c65
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 159133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016-11-18'
       - id: 750b475a-59f7-4a5b-bc62-f46d4e948670
-        isrcs: []
+        isrcs:
+        - UKPFB1893780
+        - USSM16101362
+        title: In My Time of Dyin’
+        length: 159000
+        video: false
+        disambiguation: officially released stereo studio recording
+        firstReleaseDate: '1962-03-19'
       - id: 82d1baf9-c132-46ef-a37a-244cadcd24a0
         isrcs: []
+        title: Blowin' in the Wind
+        length: 165000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989'
       - id: 929fd81c-bf28-45a0-be34-e156749b3ff5
-        isrcs: []
+        isrcs:
+        - USSM16201093
+        title: Blowin’ in the Wind
+        length: 166000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-10-12'
       - id: aad2653b-c1d6-45d7-aad9-e36880babbe6
         isrcs: []
+        title: Blowin' in the Wind
+        length: 168481
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-02-08'
       - id: b1c35c55-7fa6-4cf0-b878-b1b1332377dc
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 166800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       - id: c555945a-b86a-4c96-9090-9ad4c54f9305
         isrcs: []
+        title: Blowin' in the Wind
+        length: 162666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: c615ca2c-6c22-40cd-a56f-92af84e4d298
         isrcs: []
+        title: Blowin' in the Wind
+        length: 169226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-04'
       - id: c6684bf1-974d-437a-a9db-dec402a30e79
         isrcs: []
+        title: Blowin' in the Wind
+        length: 167880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-02-02'
       - id: c6724083-62d5-414a-8e07-44ba16a36f28
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 164000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988'
       - id: cab0ef31-9e17-4413-a33d-c8ed39d7fbde
         isrcs: []
+        title: Blowin' in the Wind
+        length: 166000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: d54b940d-5b55-4632-910f-cf0803170dcc
         isrcs: []
+        title: Blowin' in the Wind
+        length: 165493
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: e729fa8f-da0a-46b1-9f0a-d13ef55af030
-        isrcs: []
+        isrcs:
+        - USSM10106696
+        title: Blowin’ in the Wind
+        length: 168160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-27'
       - id: f00ccb89-5fd5-4ccc-b36b-458deb04dd20
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 166360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-01-24'
       - id: f25da104-e91e-4179-b810-4544327e5014
         isrcs: []
+        title: Blowin in the Wind
+        length: 167600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: f5fa6f1b-a14f-458d-883d-a848cf888eb7
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 169000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-10-18'
       - id: fcb264be-090c-4eb6-831e-202ef083aa88
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 166000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       score: 0.9149525
     - id: e63a74fc-1e4c-43db-9118-8e08a86789c0
       recordings:
       - id: 00e37446-2e4c-409a-a8a1-ed94f1b01a57
-        isrcs: []
+        isrcs: *id001
+        title: Blowin’ in the Wind
+        length: 168146
+        video: false
+        disambiguation: original stereo album mix
+        firstReleaseDate: '1963-05-27'
       - id: 0f431054-a93c-4e3b-9e71-df9f6037eacf
-        isrcs: []
+        isrcs:
+        - USWB10001232
+        - USWB10302479
+        - USWB16300012
+        title: Blowin’ in the Wind
+        length: 177546
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1963-06-18'
       - id: 2106d24c-0bae-4671-ac86-70e79f294127
         isrcs: []
+        title: Blowin' in the Wind
+        length: 170226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988'
       - id: 271606dd-adf5-4167-89ab-85f140598904
         isrcs: []
+        title: Blowing in the Wind
+        length: 169000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013'
       - id: 44c7f280-95b5-4e5f-9f76-4d95d0a9fef6
-        isrcs: []
+        isrcs: *id003
+        title: Blowin’ in the Wind
+        length: 169493
+        video: false
+        disambiguation: “Greatest Hits” version
+        firstReleaseDate: '1987'
       - id: 48826dec-31f3-4935-b42e-2507336b84bb
         isrcs: []
+        title: Blowin' in the Wind
+        length: 171160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-02-06'
       - id: 5763099d-26d5-4b51-8535-396a86ccf5fa
-        isrcs: []
+        isrcs: *id004
+        title: Blowin’ in the Wind
+        length: 165506
+        video: false
+        disambiguation: 'live, 1975-11-21 (evening): Boston Music Hall, Boston, MA,
+          USA'
+        firstReleaseDate: '2002-11-25'
       - id: 609f0dd2-3a39-417b-a42f-aa7be4503c99
-        isrcs: []
+        isrcs:
+        - USUM70500792
+        title: Foxtrot Uniform Charlie Kilo
+        length: 172000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-01-01'
       - id: 62768a8e-6a71-4487-8d74-9a6128e058d8
-        isrcs: []
+        isrcs: *id002
+        title: Blowin’ in the Wind
+        length: 168760
+        video: false
+        disambiguation: original mono album mix
+        firstReleaseDate: '1963'
       - id: 8f63ffdc-fb8a-41ce-b0f2-e2683beb572a
         isrcs: []
+        title: Blowin’ In The Wind
+        length: 169666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-03-25'
       - id: 9f9552c9-ab76-4bb5-8ec9-23e27b3c1892
         isrcs: []
+        title: Blowin' in the Wind
+        length:
+        video: false
+        disambiguation: '2001-07-10: Piazza Duomo, Brescia, Italy'
+        firstReleaseDate:
       - id: b1c35c55-7fa6-4cf0-b878-b1b1332377dc
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 166800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       - id: f5fa6f1b-a14f-458d-883d-a848cf888eb7
         isrcs: []
+        title: Blowin’ in the Wind
+        length: 169000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-10-18'
       score: 0.81915873
     status: ok

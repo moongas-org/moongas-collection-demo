@@ -16,29 +16,81 @@ trackIdData:
       recordings:
       - id: 3b15a55a-1c0d-4bc7-972a-f29cab4a995e
         isrcs: []
+        title: Track 01
+        length: 240453
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-10-04'
       - id: 624bebbb-6eb1-4953-9d0e-58ef4f9021b1
         isrcs: []
+        title: Skinny Love (radio edit)
+        length: 199000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-04-28'
       - id: 8a8ca6f4-2150-4b2b-935d-b66962de3b89
-        isrcs: []
+        isrcs: &id001
+        - US38Y0800003
+        - US38Y0811503
+        title: Skinny Love
+        length: 238520
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '2007-07-08'
       score: 0.98302346
     - id: 3d8d3cb7-3d84-483a-99f0-4c3a23dbf2eb
       recordings:
       - id: 10d2374a-a2bf-450b-896a-78fd34933c8c
         isrcs: []
+        title: Skinny Love
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-12-05'
       - id: 8a8ca6f4-2150-4b2b-935d-b66962de3b89
-        isrcs: []
+        isrcs: *id001
+        title: Skinny Love
+        length: 238520
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '2007-07-08'
       - id: ddc768a6-eb9e-4e62-b517-5a23dd59b4e6
         isrcs: []
+        title: Skinny Love
+        length: 248000
+        video: true
+        disambiguation: 'live, 2008-05-16: Later… with Jools Holland'
+        firstReleaseDate:
       - id: e5525f53-660b-49e0-9e92-7a9cbe98b22d
         isrcs: []
+        title: Skinny Love
+        length:
+        video: false
+        disambiguation: 'live, 2009‐10‐11: Riverside Theater, Milwaukee, WI, USA'
+        firstReleaseDate:
       score: 0.97458464
     - id: 17ad1d59-0f74-4880-9af2-34c6e247f4f2
       recordings:
       - id: 10d2374a-a2bf-450b-896a-78fd34933c8c
         isrcs: []
+        title: Skinny Love
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-12-05'
       - id: 8a8ca6f4-2150-4b2b-935d-b66962de3b89
-        isrcs: []
+        isrcs: *id001
+        title: Skinny Love
+        length: 238520
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '2007-07-08'
       - id: f6af7b01-777e-449a-8b81-49eb954a1540
         isrcs: []
+        title: Skinny Love
+        length: 230000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       score: 0.8902954
     status: ok

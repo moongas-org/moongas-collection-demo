@@ -15,11 +15,23 @@ trackIdData:
     - id: e128570e-2d91-4d07-bfa8-7e816b797f91
       recordings:
       - id: f4adfcf1-ffa2-4924-8f0d-baeb0549258a
-        isrcs: []
+        isrcs: &id001
+        - USUM70500579
+        - USUM70500988
+        title: Empires
+        length: 161880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-16'
       score: 0.9703652
     - id: f42eb8e2-7082-47d7-9494-d7e4be603fb2
       recordings:
       - id: f4adfcf1-ffa2-4924-8f0d-baeb0549258a
-        isrcs: []
+        isrcs: *id001
+        title: Empires
+        length: 161880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-16'
       score: 0.7359243
     status: ok

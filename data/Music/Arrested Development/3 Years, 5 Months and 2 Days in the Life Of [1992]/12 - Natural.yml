@@ -16,12 +16,29 @@ trackIdData:
       recordings:
       - id: 1010ae12-5ec6-43ac-b40d-1c05c89ebc17
         isrcs: []
+        title: Natural
+        length: 258000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-03-03'
       - id: afa02b82-12ae-4526-8eca-79083d8029ef
-        isrcs: []
+        isrcs: &id001
+        - USCH30100127
+        - USCH39200017
+        title: Natural
+        length: 270466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.9887592
     - id: 752d2e6b-da5a-48df-8ce6-f5225baba7d5
       recordings:
       - id: afa02b82-12ae-4526-8eca-79083d8029ef
-        isrcs: []
+        isrcs: *id001
+        title: Natural
+        length: 270466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.8735166
     status: ok

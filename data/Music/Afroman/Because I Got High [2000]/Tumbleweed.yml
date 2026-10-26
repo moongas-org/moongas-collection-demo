@@ -15,31 +15,77 @@ trackIdData:
     - id: 78dd4236-167f-4ae7-8e2d-fa7e527ef71e
       recordings:
       - id: 33b0b29d-5dd6-41c8-a67b-df2780855358
-        isrcs: []
+        isrcs: &id001
+        - USUR10110855
+        title: Tumbleweed
+        length: 313067
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2001-08-28'
       - id: 7be37571-a8c5-458e-abab-756da0a887e5
         isrcs: []
+        title: Tumbleweed
+        length: 321000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-06-20'
       - id: 92565bb6-b68b-481b-8372-5fedb27a4f4a
         isrcs: []
+        title: Tumbleweed
+        length: 312000
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '2001'
       score: 0.98711103
     - id: 44dfe5a8-8369-4e7c-9931-b5c55d8cdc41
       recordings:
       - id: 33b0b29d-5dd6-41c8-a67b-df2780855358
-        isrcs: []
+        isrcs: *id001
+        title: Tumbleweed
+        length: 313067
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2001-08-28'
       - id: 92565bb6-b68b-481b-8372-5fedb27a4f4a
         isrcs: []
+        title: Tumbleweed
+        length: 312000
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '2001'
       score: 0.9855617
     - id: bf3eafe8-8abb-482d-907c-3a393d7536ea
       recordings:
       - id: 33b0b29d-5dd6-41c8-a67b-df2780855358
-        isrcs: []
+        isrcs: *id001
+        title: Tumbleweed
+        length: 313067
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2001-08-28'
       - id: 7be37571-a8c5-458e-abab-756da0a887e5
         isrcs: []
+        title: Tumbleweed
+        length: 321000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-06-20'
       score: 0.910799
     - id: bc6bc180-8406-4cdf-86f5-f319123637ef
       recordings:
       - id: 33b0b29d-5dd6-41c8-a67b-df2780855358
-        isrcs: []
+        isrcs: *id001
+        title: Tumbleweed
+        length: 313067
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2001-08-28'
       - id: 7be37571-a8c5-458e-abab-756da0a887e5
         isrcs: []
+        title: Tumbleweed
+        length: 321000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-06-20'
       score: 0.6641614
     status: ok

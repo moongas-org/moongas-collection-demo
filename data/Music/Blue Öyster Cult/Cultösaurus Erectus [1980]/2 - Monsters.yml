@@ -15,15 +15,36 @@ trackIdData:
     - id: e4528e19-bc45-4169-a23a-2b1595e41b94
       recordings:
       - id: c89c7cc5-aa28-4abb-824a-cb71e7432954
-        isrcs: []
+        isrcs: &id001
+        - USSM18000439
+        title: Monsters
+        length: 311000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.9698048
     - id: d06603da-fd0e-4f65-8bf1-eade6565919a
       recordings:
       - id: 07be4af5-b652-425b-8f35-ea64091cab36
         isrcs: []
+        title: Monsters
+        length: 310560
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 62781b70-7879-4a9f-8976-e985d0aad4a1
         isrcs: []
+        title: Monsters
+        length: 311000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: c89c7cc5-aa28-4abb-824a-cb71e7432954
-        isrcs: []
+        isrcs: *id001
+        title: Monsters
+        length: 311000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.9491693
     status: ok

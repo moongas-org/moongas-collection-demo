@@ -16,17 +16,38 @@ trackIdData:
       recordings:
       - id: 5bd290d3-ba29-448c-8ffd-b797a3be9ec7
         isrcs: []
+        title: The Suburbs (continued)
+        length: 88000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       - id: f10e480c-a0df-4db5-af0e-5806d8d3b05d
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021647
+        title: The Suburbs (continued)
+        length: 87640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.9841928
     - id: c1673d33-8480-4254-a376-991f6fc4bdc3
       recordings:
       - id: f10e480c-a0df-4db5-af0e-5806d8d3b05d
-        isrcs: []
+        isrcs: *id001
+        title: The Suburbs (continued)
+        length: 87640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.962418
     - id: fc4eb124-22d5-449d-99a2-96cc036fbd56
       recordings:
       - id: f10e480c-a0df-4db5-af0e-5806d8d3b05d
-        isrcs: []
+        isrcs: *id001
+        title: The Suburbs (continued)
+        length: 87640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.68106896
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: 1ac26bc6-f768-4957-bcf9-b28d18ee4784
       recordings:
       - id: 272b6749-94fb-473c-ae6d-691a9b287843
-        isrcs: []
+        isrcs: &id001
+        - USVI20400264
+        title: Where Could I Go
+        length: 249560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-21'
       score: 0.9839135
     - id: 4aa9fb76-92c2-4a6a-ac37-d3339b892cd3
       recordings:
       - id: 272b6749-94fb-473c-ae6d-691a9b287843
-        isrcs: []
+        isrcs: *id001
+        title: Where Could I Go
+        length: 249560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-21'
       score: 0.5833333
     status: ok

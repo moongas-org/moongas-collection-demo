@@ -18,18 +18,53 @@ trackIdData:
       recordings:
       - id: 6f3d1db6-b913-4c23-befb-79789a7d660e
         isrcs: []
+        title: Where Would You Be
+        length: 273000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-09-18'
       - id: 8f874701-6aa9-4637-b355-e535832fe343
         isrcs: []
+        title: The Wizard
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016'
       - id: a6f2a45f-1847-4c3d-b3df-0963557f2c7f
         isrcs: []
+        title: The Wizard
+        length: 267000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-09-06'
       - id: b6912b63-297b-4023-8ec9-0b3d8d2d31b3
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601287
+        - GBAJE7000077
+        - USWB10202637
+        - USWB11304613
+        - USWB19900790
+        title: The Wizard
+        length: 263760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970-02-13'
       - id: e6153967-76e3-4c24-a215-486b11802e27
         isrcs: []
+        title: The Wizard
+        length: 260000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1972-11
       score: 0.9648932
     - id: ed33a2c8-d117-4897-9f38-7a0cb7d3981e
       recordings:
       - id: b6912b63-297b-4023-8ec9-0b3d8d2d31b3
-        isrcs: []
+        isrcs: *id001
+        title: The Wizard
+        length: 263760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970-02-13'
       score: 0.66841376
     status: ok

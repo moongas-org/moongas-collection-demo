@@ -16,18 +16,50 @@ trackIdData:
       recordings:
       - id: 0d3185a5-f9a6-40db-82cc-308ade5d8aaf
         isrcs: []
+        title: Diamonds on the Inside
+        length: 266546
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       - id: 4a83c502-431d-485f-8005-50184651b79c
-        isrcs: []
+        isrcs: &id001
+        - USVI20200340
+        title: Diamonds on the Inside
+        length: 266906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-01-01'
       score: 0.969673
     - id: e3c7d8ce-75aa-48f4-9ab7-b890ba6a135c
       recordings:
       - id: 062ea917-2130-4a76-ae4e-d61e45219fb1
-        isrcs: []
+        isrcs:
+        - USSM10403212
+        title: On the Floor
+        length: 243000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-03-22'
       - id: 4a83c502-431d-485f-8005-50184651b79c
-        isrcs: []
+        isrcs: *id001
+        title: Diamonds on the Inside
+        length: 266906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-01-01'
       - id: 58039959-899f-48f8-867a-331b2a01ecae
         isrcs: []
+        title: Diamonds on the Inside
+        length: 262493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2005-06
       - id: fcfe5ba8-2eb7-424f-b12b-1451bbbbda9d
         isrcs: []
+        title: Diamonds on the Inside
+        length: 259293
+        video: false
+        disambiguation: 'live, 2003-08-27: Red Rocks Amphitheatre, Morrison, CO, USA'
+        firstReleaseDate: '2004-06-15'
       score: 0.96845335
     status: ok

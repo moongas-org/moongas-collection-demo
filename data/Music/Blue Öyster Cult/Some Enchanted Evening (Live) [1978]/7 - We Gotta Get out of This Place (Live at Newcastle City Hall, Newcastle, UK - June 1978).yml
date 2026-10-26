@@ -16,13 +16,29 @@ trackIdData:
     - id: 04398199-1cba-4193-811a-5024b8e746bd
       recordings:
       - id: 05fbf2e9-5edf-449e-a275-e3d72ca1c737
-        isrcs: []
+        isrcs: &id001
+        - USSM10017650
+        title: We Gotta Get Out of This Place
+        length: 279698
+        video: false
+        disambiguation: 'live, 1978-06-01: City Hall, Newcastle, UK'
+        firstReleaseDate: '1978'
       - id: 6de508c0-32ae-4b4f-9e3d-6a5238ae03c7
         isrcs: []
+        title: We Gotta Get Out of This Place
+        length: 259226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       score: 0.9976925
     - id: 8ad897c6-ca25-446c-971c-ac0507624a81
       recordings:
       - id: 05fbf2e9-5edf-449e-a275-e3d72ca1c737
-        isrcs: []
+        isrcs: *id001
+        title: We Gotta Get Out of This Place
+        length: 279698
+        video: false
+        disambiguation: 'live, 1978-06-01: City Hall, Newcastle, UK'
+        firstReleaseDate: '1978'
       score: 0.8903613
     status: ok

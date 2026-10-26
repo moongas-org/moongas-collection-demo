@@ -15,22 +15,55 @@ trackIdData:
     - id: 7ee7e490-5d1d-4598-8872-c9560d8c4f32
       recordings:
       - id: 2b245a2f-5ab0-476d-b89f-4bc5319ce15c
-        isrcs: []
+        isrcs:
+        - USEW17400003
+        title: Deal With the Preacher
+        length: 303600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-04-12'
       - id: 2d797613-baa8-4c19-96f9-3c37a2ac863a
         isrcs: []
+        title: Bad Company
+        length: 285626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       - id: beafc22e-56a8-4846-a886-2ead8927501a
-        isrcs: []
+        isrcs: &id001
+        - USAT21405163
+        - USEW17300003
+        title: Bad Company
+        length: 290226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1974-06-15'
       score: 0.9807819
     - id: e27c4f15-5580-4d2c-bc3e-855917eaf0d1
       recordings:
       - id: beafc22e-56a8-4846-a886-2ead8927501a
-        isrcs: []
+        isrcs: *id001
+        title: Bad Company
+        length: 290226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1974-06-15'
       score: 0.9749143
     - id: 0086b79f-0bc8-40da-89ff-76c82f00ab3b
       recordings:
       - id: beafc22e-56a8-4846-a886-2ead8927501a
-        isrcs: []
+        isrcs: *id001
+        title: Bad Company
+        length: 290226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1974-06-15'
       - id: d118c652-517d-4bac-b871-1a9f4d2c2c02
         isrcs: []
+        title: Bad Company
+        length: 282000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       score: 0.92909414
     status: ok

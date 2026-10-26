@@ -15,15 +15,31 @@ trackIdData:
     - id: 68f5c89b-73ae-4dbd-947d-7b55c424c775
       recordings:
       - id: a6c59be9-2897-419e-946d-cc5aff2a1048
-        isrcs: []
+        isrcs: &id001
+        - DEN060300780
+        title: Sunset Girl
+        length: 411000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       - id: bc1cfbd0-2a93-4c5a-a895-ed77d06d1df2
         isrcs: []
+        title: Sunset Girl (Limited Clubb mix 2.3)
+        length: 507000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-10-09'
       score: 1.0
     - id: 765d6181-daf3-4e3b-8edf-46708ec92c23
       score: 0.98529494
     - id: 487d42c3-782b-40f8-a9ae-ce5822d1ff4f
       recordings:
       - id: a6c59be9-2897-419e-946d-cc5aff2a1048
-        isrcs: []
+        isrcs: *id001
+        title: Sunset Girl
+        length: 411000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       score: 0.97684187
     status: ok

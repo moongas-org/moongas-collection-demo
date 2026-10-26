@@ -15,27 +15,80 @@ trackIdData:
     - id: 4d1b82b8-4168-45a6-9d16-69f18a9dbc21
       recordings:
       - id: 30ff27cf-325f-4b7c-bd3b-848718945ca3
-        isrcs: []
+        isrcs: &id001
+        - USIR10500766
+        title: Don’t Lie
+        length: 219240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-25'
       - id: 3d327435-a258-44ce-bdbe-1e597e511937
         isrcs: []
+        title: Don’t Lie
+        length: 220000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007'
       - id: 83d5df4a-a9a6-4425-a1fb-f11392656cc4
         isrcs: []
+        title: Don't Lie (radio edit - no strings intro)
+        length: 209000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       - id: a1d91b65-694f-4670-876c-6b21a2f83347
-        isrcs: []
+        isrcs:
+        - GBARL1201145
+        title: If You Could See Me Now
+        length: 218826
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2012-09-07'
       - id: b69f3113-26a4-472a-947b-a1590292b3ac
         isrcs: []
+        title: Don't Lie (album version)
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: c0fee135-99c3-4a85-ab80-4234efcb891a
         isrcs: []
+        title: Don't Lie
+        length: 218573
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-12-05'
       - id: dfbd9eff-01c2-4ed1-87c6-e6ffc1a1ed4c
         isrcs: []
+        title: Don't Lie (radio edit)
+        length: 222000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       - id: ec88dc5b-69f6-4832-8fab-fefa7994ae9c
-        isrcs: []
+        isrcs:
+        - USIR10500766
+        title: Don’t Lie
+        length: 220386
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       - id: f6a1267a-6a39-4525-a55d-245b34f42175
         isrcs: []
+        title: Don't Lie
+        length:
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2005'
       score: 0.91304064
     - id: aedead38-dc49-42a5-b098-bae5983a6832
       recordings:
       - id: 30ff27cf-325f-4b7c-bd3b-848718945ca3
-        isrcs: []
+        isrcs: *id001
+        title: Don’t Lie
+        length: 219240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-25'
       score: 0.6446796
     status: ok

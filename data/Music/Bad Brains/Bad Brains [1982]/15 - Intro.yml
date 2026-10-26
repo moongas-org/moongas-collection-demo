@@ -16,12 +16,28 @@ trackIdData:
       recordings:
       - id: 78e0a5a5-f3fd-49b3-a48d-9c461beb0cc2
         isrcs: []
+        title: Intro
+        length: 45000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       - id: a7e6f7b4-eea9-47ae-8a51-1ef2c73dd010
-        isrcs: []
+        isrcs: &id001
+        - US29V0422315
+        title: Intro
+        length: 45000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.97265595
     - id: 2cec0a97-b742-4ae0-ad81-5d3eadb6fdd0
       recordings:
       - id: a7e6f7b4-eea9-47ae-8a51-1ef2c73dd010
-        isrcs: []
+        isrcs: *id001
+        title: Intro
+        length: 45000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9338443
     status: ok

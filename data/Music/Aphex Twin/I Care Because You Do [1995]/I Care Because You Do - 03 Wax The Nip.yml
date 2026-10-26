@@ -15,15 +15,36 @@ trackIdData:
     - id: 4a4b5d3e-90a3-4c5b-b1b6-c43db227948b
       recordings:
       - id: 4a4eee37-2cfe-4d5e-ae28-753019087d38
-        isrcs: []
+        isrcs: &id001
+        - USSI10100103
+        title: Wax the Nip
+        length: 258866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-04-24'
       - id: 9bd21cf4-ccfb-4028-94a6-03b44ed00795
         isrcs: []
+        title: Wax the Nip
+        length: 255200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-11-14'
       - id: e9004e26-08e7-4f4c-8abe-19f8af506bad
         isrcs: []
+        title: with my family [48k]
+        length: 250000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-05-08'
       score: 0.98506725
     - id: 7bc571af-9dc9-4d55-8b2b-4d02275b4b1b
       recordings:
       - id: 4a4eee37-2cfe-4d5e-ae28-753019087d38
-        isrcs: []
+        isrcs: *id001
+        title: Wax the Nip
+        length: 258866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-04-24'
       score: 0.8286195
     status: ok

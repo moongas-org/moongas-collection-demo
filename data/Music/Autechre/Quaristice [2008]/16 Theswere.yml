@@ -15,11 +15,22 @@ trackIdData:
     - id: e9f099bf-6eb3-4fab-bad6-5c8a24abf04e
       recordings:
       - id: f48169b9-27f9-46d5-9f5d-29a35a6c9e01
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700217
+        title: Theswere
+        length: 132253
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.96080565
     - id: b814301e-c58d-4cbf-9283-2f27af356654
       recordings:
       - id: f48169b9-27f9-46d5-9f5d-29a35a6c9e01
-        isrcs: []
+        isrcs: *id001
+        title: Theswere
+        length: 132253
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.8104892
     status: ok

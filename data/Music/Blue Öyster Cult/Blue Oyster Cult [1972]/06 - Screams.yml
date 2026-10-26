@@ -15,11 +15,22 @@ trackIdData:
     - id: a477dcdc-1084-403e-93f2-eabe9f4819a5
       recordings:
       - id: d218b568-b21b-4504-ae42-2748e356f071
-        isrcs: []
+        isrcs: &id001
+        - USSM19917733
+        title: Screams
+        length: 189800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-01-16'
       score: 0.97547466
     - id: c8df57d6-a9a8-45be-bc7e-92ae59668542
       recordings:
       - id: d218b568-b21b-4504-ae42-2748e356f071
-        isrcs: []
+        isrcs: *id001
+        title: Screams
+        length: 189800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-01-16'
       score: 0.8548919
     status: ok

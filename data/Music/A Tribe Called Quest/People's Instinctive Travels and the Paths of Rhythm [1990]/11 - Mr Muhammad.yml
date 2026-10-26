@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 37257907-9625-455c-bccf-b86e4367bd4e
         isrcs: []
+        title: Rhythm (Devoted to the Art of Moving Butts)
+        length: 213000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       - id: 571bda56-b68c-4f53-bd47-324cbcec0be4
         isrcs: []
+        title: Mr. Muhammad
+        length: 327000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       - id: 668ca7e8-c126-4424-951d-dfde46b99fde
-        isrcs: []
+        isrcs: &id001
+        - USJI10300146
+        title: Mr. Muhammad
+        length: 214906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.98872626
     - id: 03ef015f-5dd2-4638-89b3-916efc0dbd95
       recordings:
       - id: 668ca7e8-c126-4424-951d-dfde46b99fde
-        isrcs: []
+        isrcs: *id001
+        title: Mr. Muhammad
+        length: 214906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.9100738
     status: ok

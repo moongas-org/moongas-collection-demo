@@ -15,18 +15,39 @@ trackIdData:
     - id: 9cd47c66-0a83-45a4-91ad-1ec3fa487cc8
       recordings:
       - id: 1e4fa2ab-8bb8-4a36-9dc8-3ddf16763f85
-        isrcs: []
+        isrcs: &id001
+        - USCA29600544
+        title: Hell
+        length: 122773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-11-12'
       - id: 6f549547-3eb1-44e5-a371-1e9581d7a5fd
         isrcs: []
+        title: Hell
+        length: 121720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002'
       score: 0.95160866
     - id: 08e7f474-710c-4728-86ce-859881e1f666
       recordings:
       - id: 1e4fa2ab-8bb8-4a36-9dc8-3ddf16763f85
-        isrcs: []
+        isrcs: *id001
+        title: Hell
+        length: 122773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-11-12'
       score: 0.7608122
     - id: f2bcf50d-6327-42b3-974f-4cf9fc73a5ec
       recordings:
       - id: 1e4fa2ab-8bb8-4a36-9dc8-3ddf16763f85
-        isrcs: []
+        isrcs: *id001
+        title: Hell
+        length: 122773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-11-12'
       score: 0.7499011
     status: ok

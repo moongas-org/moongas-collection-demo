@@ -15,23 +15,65 @@ trackIdData:
     - id: 778f2057-eafb-4a27-af37-203860eaee96
       recordings:
       - id: 113a8b21-721f-405e-9f2c-27db9fa9afc7
-        isrcs: []
+        isrcs: &id001
+        - USAN29100001
+        title: Midnight in Montgomery
+        length: 226093
+        video: false
+        disambiguation: Don't Rock the Jukebox
+        firstReleaseDate: '1991-05-14'
       - id: 3aa0ba29-53f6-4af4-a2c6-e13620b8ef18
         isrcs: []
+        title: Midnight in Montgomery
+        length: 231626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-04-10'
       - id: 3be28802-dbc1-400e-af17-8b55861ff6b2
         isrcs: []
+        title: Midnight in Montgomery
+        length: 224933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999'
       - id: 594df68b-30d7-4da2-b488-34d7b1370375
-        isrcs: []
+        isrcs: &id002
+        - USAN21000113
+        title: Midnight in Montgomery
+        length: 225840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: a95350ef-93b4-48a0-9903-750d49def7f2
         isrcs: []
+        title: Midnight In Montgomery
+        length: 224000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014'
       - id: b81de091-c76e-419d-a2ae-933e5cba1ae6
         isrcs: []
+        title: Midnight in Montgomery
+        length: 228106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-11-02'
       score: 0.9732331
     - id: fa803909-e21f-4187-8553-2a7c5053f28f
       recordings:
       - id: 113a8b21-721f-405e-9f2c-27db9fa9afc7
-        isrcs: []
+        isrcs: *id001
+        title: Midnight in Montgomery
+        length: 226093
+        video: false
+        disambiguation: Don't Rock the Jukebox
+        firstReleaseDate: '1991-05-14'
       - id: 594df68b-30d7-4da2-b488-34d7b1370375
-        isrcs: []
+        isrcs: *id002
+        title: Midnight in Montgomery
+        length: 225840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       score: 0.9523668
     status: ok

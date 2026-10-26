@@ -15,17 +15,44 @@ trackIdData:
     - id: 3e255c7d-6e4b-459d-bc10-9543fb0899e1
       recordings:
       - id: 270ac005-e92f-427b-9203-4a049a7b4d3a
-        isrcs: []
+        isrcs: &id001
+        - US38Y1119305
+        title: Calgary
+        length: 250000
+        video: false
+        disambiguation: Radio Edit
+        firstReleaseDate: '2011-06-22'
       - id: 819ea6e8-397d-4690-8f9b-abb840b335e4
         isrcs: []
+        title: Calgary
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-06-09'
       - id: bf769c18-b6b9-41e7-a4f2-ba80751b82f8
-        isrcs: []
+        isrcs: &id002
+        - US38Y1113508
+        title: Calgary
+        length: 250000
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2011-06-20'
       score: 0.9990551
     - id: 31f62473-c16f-4cda-91b0-caac1f116d19
       recordings:
       - id: 270ac005-e92f-427b-9203-4a049a7b4d3a
-        isrcs: []
+        isrcs: *id001
+        title: Calgary
+        length: 250000
+        video: false
+        disambiguation: Radio Edit
+        firstReleaseDate: '2011-06-22'
       - id: bf769c18-b6b9-41e7-a4f2-ba80751b82f8
-        isrcs: []
+        isrcs: *id002
+        title: Calgary
+        length: 250000
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2011-06-20'
       score: 0.96934336
     status: ok

@@ -15,18 +15,39 @@ trackIdData:
     - id: b76e150f-f572-4842-beeb-3df1608e85ca
       recordings:
       - id: 1aa34754-8223-4745-9dbc-030b4c8fa4af
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9700007
+        title: Laughing Quarter
+        length: 425053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997-01-27'
       - id: 1af1de71-3dc1-41e2-a4c3-9b23c68b32e0
         isrcs: []
+        title: Laughing Quarter
+        length: 425173
+        video: false
+        disambiguation: alternate version
+        firstReleaseDate: '1997'
       score: 0.99653876
     - id: 61742acd-1628-4408-9633-2abd02bf771d
       recordings:
       - id: 1af1de71-3dc1-41e2-a4c3-9b23c68b32e0
         isrcs: []
+        title: Laughing Quarter
+        length: 425173
+        video: false
+        disambiguation: alternate version
+        firstReleaseDate: '1997'
       score: 0.90216243
     - id: c7d84691-ba33-4ae6-92b8-29a8be99b095
       recordings:
       - id: 1aa34754-8223-4745-9dbc-030b4c8fa4af
-        isrcs: []
+        isrcs: *id001
+        title: Laughing Quarter
+        length: 425053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997-01-27'
       score: 0.88376844
     status: ok

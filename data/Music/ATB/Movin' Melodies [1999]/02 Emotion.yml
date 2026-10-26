@@ -15,12 +15,24 @@ trackIdData:
     - id: 016a6e5b-0416-4b74-b8e7-d286e6ed9595
       recordings:
       - id: 087f4e3c-6ce5-4686-aae8-84cb2c6e6270
-        isrcs: []
+        isrcs: &id001
+        - DED579903650
+        - DEN060301017
+        title: Emotion
+        length: 264000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-04-26'
       score: 0.9872528
     - id: c551cca4-73a2-43b2-9db1-10076e9d69ca
       recordings:
       - id: 087f4e3c-6ce5-4686-aae8-84cb2c6e6270
-        isrcs: []
+        isrcs: *id001
+        title: Emotion
+        length: 264000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-04-26'
       score: 0.93231225
     - id: b89d6bb0-e392-4663-9808-9a5c860a2545
       score: 0.64522535

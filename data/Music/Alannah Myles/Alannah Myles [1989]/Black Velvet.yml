@@ -16,21 +16,57 @@ trackIdData:
       recordings:
       - id: ea711f12-ca44-4c33-ae3a-893afe449e6f
         isrcs: []
+        title: Black Velvet
+        length: 280000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       score: 0.989023
     - id: 5093f266-b6fd-4fe7-ab7b-28e2a70a1891
       recordings:
       - id: c6d82350-4216-4a74-9da1-0c4abf8dcb7a
-        isrcs: []
+        isrcs: &id001
+        - QMFME2521079
+        - USAKI9800159
+        - USAT20103053
+        - USAT20804279
+        - USAT21300058
+        - USAT29901667
+        title: Black Velvet
+        length: 287440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-03-28'
       score: 0.98368275
     - id: e4966d39-bfb9-44d8-92e3-18c6db8eb887
       recordings:
       - id: 3cba76bb-2592-4cb7-908f-1686ba4a719f
         isrcs: []
+        title: Lady in Black
+        length: 287960
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 5112ce68-1794-468d-b712-84ef81a41c8a
         isrcs: []
+        title: Black Velvet
+        length:
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2004'
       - id: c6d82350-4216-4a74-9da1-0c4abf8dcb7a
-        isrcs: []
+        isrcs: *id001
+        title: Black Velvet
+        length: 287440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-03-28'
       - id: ea711f12-ca44-4c33-ae3a-893afe449e6f
         isrcs: []
+        title: Black Velvet
+        length: 280000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       score: 0.9714531
     status: ok

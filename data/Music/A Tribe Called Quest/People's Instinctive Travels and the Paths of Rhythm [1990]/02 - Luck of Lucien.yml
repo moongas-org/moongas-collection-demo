@@ -15,15 +15,38 @@ trackIdData:
     - id: cd635783-8e81-48b2-a93a-d9774dcddf1f
       recordings:
       - id: 4e4eb697-75b2-47a8-9a21-8c2cac73c547
-        isrcs: []
+        isrcs: &id001
+        - USJI19000006
+        title: Luck of Lucien
+        length: 273173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.97636473
     - id: cdb9a052-591e-4f8e-a12f-7048384ad54d
       recordings:
       - id: 4e4eb697-75b2-47a8-9a21-8c2cac73c547
-        isrcs: []
+        isrcs: *id001
+        title: Luck of Lucien
+        length: 273173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       - id: 76b2c3c1-65a9-42ba-84fd-41e39d9b5e36
-        isrcs: []
+        isrcs:
+        - USJI19000004
+        title: Can I Kick It?
+        length: 265666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: d327735a-7816-434f-9b3c-ce66c6e0e5a4
-        isrcs: []
+        isrcs:
+        - USJI10300141
+        title: After Hours
+        length: 279000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.9761069
     status: ok

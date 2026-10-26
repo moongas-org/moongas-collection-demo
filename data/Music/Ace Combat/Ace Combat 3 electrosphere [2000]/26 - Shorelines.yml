@@ -15,11 +15,22 @@ trackIdData:
     - id: e42aae25-cb7b-49ff-b13f-5fce63861c17
       recordings:
       - id: a9fdf2f1-e649-4687-a7cc-0a155d0408a7
-        isrcs: []
+        isrcs: &id001
+        - JPX832004831
+        title: Shorelines
+        length: 202000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.9910008
     - id: 6d7ebd32-acf0-4054-89cf-f5b5c78d324b
       recordings:
       - id: a9fdf2f1-e649-4687-a7cc-0a155d0408a7
-        isrcs: []
+        isrcs: *id001
+        title: Shorelines
+        length: 202000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.9371044
     status: ok

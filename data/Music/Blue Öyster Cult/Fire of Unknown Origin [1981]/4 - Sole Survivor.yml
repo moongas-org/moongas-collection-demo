@@ -15,11 +15,22 @@ trackIdData:
     - id: 3cd61950-4e48-4716-9369-e20ebe28cc04
       recordings:
       - id: 6f7c1ad1-8609-4ba2-9110-a6bbd229e224
-        isrcs: []
+        isrcs: &id001
+        - USSM10017654
+        title: Sole Survivor
+        length: 245773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.9608716
     - id: 5a41ae59-bd4a-4646-a8e4-e1a05fccaf21
       recordings:
       - id: 6f7c1ad1-8609-4ba2-9110-a6bbd229e224
-        isrcs: []
+        isrcs: *id001
+        title: Sole Survivor
+        length: 245773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.90196466
     status: ok

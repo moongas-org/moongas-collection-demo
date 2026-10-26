@@ -15,11 +15,22 @@ trackIdData:
     - id: 2b71874e-449e-4172-8595-475b6cdd6612
       recordings:
       - id: c8c86fc3-e92e-413c-8985-b9b64fd80a53
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1300027
+        title: Jacquard Causeway
+        length: 395040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.9885453
     - id: 3d74ee15-76b8-4712-872b-4e69897de9f4
       recordings:
       - id: c8c86fc3-e92e-413c-8985-b9b64fd80a53
-        isrcs: []
+        isrcs: *id001
+        title: Jacquard Causeway
+        length: 395040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.83366615
     status: ok

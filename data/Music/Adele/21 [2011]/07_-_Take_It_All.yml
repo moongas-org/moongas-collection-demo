@@ -16,19 +16,51 @@ trackIdData:
       recordings:
       - id: 10734d1b-8a52-430e-9b67-f6e79e899772
         isrcs: []
+        title: Take It All
+        length: 253173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-10-12'
       - id: 36c7e7c7-d853-4758-850e-15f51afe6b02
         isrcs: []
+        title: Take It All
+        length:
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2012'
       - id: 4f515654-052b-4631-8a78-57ea362cd18a
-        isrcs: []
+        isrcs: &id001
+        - GBBKS1000347
+        title: Take It All
+        length: 228213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       - id: 54520823-a807-443f-821a-280944f7c0f1
         isrcs: []
+        title: Take It All
+        length: 296000
+        video: false
+        disambiguation: 'live, 2011-04-08: Paradiso FM, Amsterdam, Netherlands'
+        firstReleaseDate: '2011-04-28'
       - id: 64a8f7e1-a4fc-4427-ba1d-cf73f22e9a44
-        isrcs: []
+        isrcs:
+        - GBBKS1100243
+        title: Take It All
+        length: 236000
+        video: false
+        disambiguation: 'live, 2011-09-22: Royal Albert Hall, London, UK'
+        firstReleaseDate: '2011-11-25'
       score: 0.9995055
     - id: 21f37faf-9027-4130-8664-75e3088efa63
       recordings:
       - id: 4f515654-052b-4631-8a78-57ea362cd18a
-        isrcs: []
+        isrcs: *id001
+        title: Take It All
+        length: 228213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-01-19'
       score: 0.81134623
     - id: 87ee9366-2232-490a-ae67-1357c61de713
       score: 0.6490638

@@ -15,26 +15,71 @@ trackIdData:
     - id: 430ac40e-e8f4-4238-a856-d574702c9c29
       recordings:
       - id: 57ccd273-74f1-4889-8f0a-3ac32e8ce3d6
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1602041
+        - GBAJE7200132
+        - USWB10202653
+        title: Supernaut
+        length: 282000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-25'
       score: 0.9911986
     - id: d6f5240f-fb67-4858-83dc-8a5d83fec6a4
       recordings:
       - id: 57ccd273-74f1-4889-8f0a-3ac32e8ce3d6
-        isrcs: []
+        isrcs: *id001
+        title: Supernaut
+        length: 282000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-25'
       - id: 9c70ef66-f49c-4d30-9c60-c08ef5557daa
         isrcs: []
+        title: Super Naut
+        length: 284000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1987-11-15'
       - id: d5711a12-e6e8-4782-aaf9-c6db6fc3092b
-        isrcs: []
+        isrcs: &id002
+        - USRH12003000
+        - USWB11304621
+        title: Supernaut
+        length: 270213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-01-21'
       - id: de12430a-bc5e-44bf-84cc-fca61f91655b
         isrcs: []
+        title: Supernaut
+        length: 283653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       score: 0.9893526
     - id: b8405b31-b7d7-4f0a-9a60-f15d4af118f2
       recordings:
       - id: 57ccd273-74f1-4889-8f0a-3ac32e8ce3d6
-        isrcs: []
+        isrcs: *id001
+        title: Supernaut
+        length: 282000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-25'
       - id: 9c70ef66-f49c-4d30-9c60-c08ef5557daa
         isrcs: []
+        title: Super Naut
+        length: 284000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1987-11-15'
       - id: d5711a12-e6e8-4782-aaf9-c6db6fc3092b
-        isrcs: []
+        isrcs: *id002
+        title: Supernaut
+        length: 270213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-01-21'
       score: 0.94340056
     status: ok

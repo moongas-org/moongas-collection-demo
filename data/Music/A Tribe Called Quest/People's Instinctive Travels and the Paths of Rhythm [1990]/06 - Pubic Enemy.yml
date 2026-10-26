@@ -16,20 +16,57 @@ trackIdData:
       recordings:
       - id: 01e2a28e-e0e2-4127-8085-56297dc1f102
         isrcs: []
+        title: Pubic Enemy (Talkie)
+        length: 225000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-01-25'
       - id: 29af0d17-3c90-4e52-8aad-670e350e2449
         isrcs: []
+        title: Pubic Enemy
+        length: 225000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-11-13'
       - id: 3a29f337-5572-4810-a26c-1178491511fd
-        isrcs: []
+        isrcs:
+        - USJI19000002
+        title: I Left My Wallet in El Segundo
+        length: 246000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       - id: 3a972515-15bb-4f81-81d8-d8802fdbe3f5
         isrcs: []
+        title: Public Enemy
+        length: 227333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1999-10
       - id: c7cc49f7-70c9-452b-bcbd-f516898d61a5
-        isrcs: []
+        isrcs: &id001
+        - USJI10300143
+        title: Pubic Enemy
+        length: 228626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       - id: f887bc76-71bf-484a-9d19-b870564ecd04
         isrcs: []
+        title: Pubic Enemy
+        length: 228493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-11-25'
       score: 0.98866034
     - id: bc66b077-9f62-4e28-8aaf-3fb8ac133c9f
       recordings:
       - id: c7cc49f7-70c9-452b-bcbd-f516898d61a5
-        isrcs: []
+        isrcs: *id001
+        title: Pubic Enemy
+        length: 228626
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.8075224
     status: ok

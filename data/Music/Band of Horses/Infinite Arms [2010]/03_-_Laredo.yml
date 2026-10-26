@@ -16,13 +16,29 @@ trackIdData:
       recordings:
       - id: 6394fc35-1869-4187-95bf-3811915257e8
         isrcs: []
+        title: Oops, I Did It Again
+        length: 191680
+        video: false
+        disambiguation: 'live, 2003-02-25: Sendesaal Bremen, Bremen, Germany'
+        firstReleaseDate: '2006-02-06'
       - id: ca8da1e4-32b8-4051-8e0d-e23489f0d142
-        isrcs: []
+        isrcs: &id001
+        - USQX91000272
+        title: Laredo
+        length: 192240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-04-13'
       score: 0.96251976
     - id: 78440402-a1cc-4393-b054-3f06c7e4113b
       recordings:
       - id: ca8da1e4-32b8-4051-8e0d-e23489f0d142
-        isrcs: []
+        isrcs: *id001
+        title: Laredo
+        length: 192240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-04-13'
       score: 0.8706158
     - id: 3d701923-65fa-4b2a-8510-820c354ea7e5
       score: 0.71209127

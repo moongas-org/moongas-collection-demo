@@ -15,11 +15,22 @@ trackIdData:
     - id: 2e187f62-28e6-4939-b7ac-cbba7157510f
       recordings:
       - id: 615002ad-66ee-4de1-a1be-bfb1efe9bdac
-        isrcs: []
+        isrcs: &id001
+        - USATO1200022
+        title: Goin' to the Party
+        length: 105560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-04-03'
       score: 0.9985263
     - id: 6c4a1a38-6f5b-484b-83a0-47a8b6abb99a
       recordings:
       - id: 615002ad-66ee-4de1-a1be-bfb1efe9bdac
-        isrcs: []
+        isrcs: *id001
+        title: Goin' to the Party
+        length: 105560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-04-03'
       score: 0.64529127
     status: ok

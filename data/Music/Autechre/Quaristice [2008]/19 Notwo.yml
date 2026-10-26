@@ -15,11 +15,22 @@ trackIdData:
     - id: 2cde0d4e-0a00-4c38-b77b-8426b1357a68
       recordings:
       - id: e48b3de4-cf7d-4851-b0f2-7e458a28dfb2
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700220
+        title: Notwo
+        length: 334160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.9972969
     - id: 8e3312e2-915a-4319-9ea6-7aac680d0594
       recordings:
       - id: e48b3de4-cf7d-4851-b0f2-7e458a28dfb2
-        isrcs: []
+        isrcs: *id001
+        title: Notwo
+        length: 334160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.90987605
     status: ok

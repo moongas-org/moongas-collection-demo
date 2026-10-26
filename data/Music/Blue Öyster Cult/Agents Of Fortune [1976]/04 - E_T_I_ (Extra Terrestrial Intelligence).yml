@@ -15,19 +15,53 @@ trackIdData:
     - id: 9cf6b1d8-ee0c-402f-9979-b6c5a2728f94
       recordings:
       - id: 0be91bdc-063a-4492-befb-0f1b11bbc913
-        isrcs: []
+        isrcs: &id001
+        - USSM17600764
+        title: E.T.I. (Extra Terrestrial Intelligence)
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-05-21'
       - id: 14996e5b-7498-4cf4-a58d-1a3e884b594a
-        isrcs: []
+        isrcs:
+        - USSM10212941
+        title: E.T.I. (Extra Terrestrial Intelligence) (5.1 mix)
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-01-21'
       - id: 663040a9-6b2f-45cb-bdb0-a20ee3d6387d
-        isrcs: []
+        isrcs:
+        - ITG272000187
+        title: Godzilla (TV mix)
+        length: 221906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-06-01'
       - id: 73d895c5-6443-4785-aec1-9f02dc4ae391
-        isrcs: []
+        isrcs:
+        - ITG272000238
+        title: E.T.I. Extra Terrestrial Intelligence
+        length: 239253
+        video: false
+        disambiguation: 'live, 2016-04-08: Red Studios, Hollywood, CA, USA'
+        firstReleaseDate: '2020-03-06'
       - id: a263c07d-993c-4318-952b-e99cb042aebe
         isrcs: []
+        title: E.T.I. (Extra-Terrestrial Intelligence)
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       score: 0.96472836
     - id: f0c302c6-1dd4-4b21-831c-45066fff6139
       recordings:
       - id: 0be91bdc-063a-4492-befb-0f1b11bbc913
-        isrcs: []
+        isrcs: *id001
+        title: E.T.I. (Extra Terrestrial Intelligence)
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-05-21'
       score: 0.884474
     status: ok

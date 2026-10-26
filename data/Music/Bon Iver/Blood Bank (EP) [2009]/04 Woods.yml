@@ -15,11 +15,23 @@ trackIdData:
     - id: c569c2d9-1845-4d90-a186-bdc2a2ea7fe1
       recordings:
       - id: 6a62aba7-94ea-405b-8d9e-59acbd9dcaa9
-        isrcs: []
+        isrcs: &id001
+        - US38Y0913404
+        - USB8E1000084
+        title: Woods
+        length: 285440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-20'
       score: 0.96561843
     - id: 147c3903-ec48-4804-8ea5-c12b136f9382
       recordings:
       - id: 6a62aba7-94ea-405b-8d9e-59acbd9dcaa9
-        isrcs: []
+        isrcs: *id001
+        title: Woods
+        length: 285440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-01-20'
       score: 0.77933806
     status: ok

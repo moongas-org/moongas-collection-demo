@@ -15,11 +15,24 @@ trackIdData:
     - id: ba9a9a7e-4405-47ba-b67c-948e2894b381
       recordings:
       - id: 2b1d1e4b-9f64-476e-a4b8-60dae864ad2d
-        isrcs: []
+        isrcs: &id001
+        - USLS51444107
+        - USWB10603241
+        - USWB19901793
+        title: I Need You
+        length: 185760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.97435206
     - id: ed0f87ec-46be-4772-b6c1-164bcb586520
       recordings:
       - id: 2b1d1e4b-9f64-476e-a4b8-60dae864ad2d
-        isrcs: []
+        isrcs: *id001
+        title: I Need You
+        length: 185760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.9658162
     status: ok

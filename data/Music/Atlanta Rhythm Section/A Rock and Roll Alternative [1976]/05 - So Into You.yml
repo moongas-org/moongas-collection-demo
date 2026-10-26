@@ -15,11 +15,22 @@ trackIdData:
     - id: b5b683c7-5c7b-4c22-bd66-37567ac4f391
       recordings:
       - id: 0e3d5bbc-0b20-46d5-a237-889f994a39ca
-        isrcs: []
+        isrcs: &id001
+        - USUMG9900509
+        title: So Into You
+        length: 262000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976'
       score: 0.9786042
     - id: df54699b-9073-416c-88ec-2bfc06530471
       recordings:
       - id: 0e3d5bbc-0b20-46d5-a237-889f994a39ca
-        isrcs: []
+        isrcs: *id001
+        title: So Into You
+        length: 262000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976'
       score: 0.92484176
     status: ok

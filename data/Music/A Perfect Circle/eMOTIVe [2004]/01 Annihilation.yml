@@ -15,16 +15,38 @@ trackIdData:
     - id: a63abab1-a659-47e2-bbec-869287ce26ad
       recordings:
       - id: 2a42ff49-35c3-4d9c-a187-3c592bf06674
-        isrcs: []
+        isrcs: &id001
+        - USVI20400533
+        title: Annihilation
+        length: 133933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-11-01'
       - id: 6f113cce-159b-47da-ab0d-ed1386eb27f5
-        isrcs: []
+        isrcs:
+        - QMEJX0900040
+        title: Annihilation
+        length: 135000
+        video: false
+        disambiguation: 'live, 2011-08-02: Red Rocks Amphitheatre, Morrison, CO, USA'
+        firstReleaseDate: '2013-11-26'
       - id: 848d5585-101a-4984-88ce-7839cdc1c32e
         isrcs: []
+        title: Annihilation
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       score: 0.9748484
     - id: 981e8cc5-a070-4ddb-9f7f-71339ff1ec42
       recordings:
       - id: 2a42ff49-35c3-4d9c-a187-3c592bf06674
-        isrcs: []
+        isrcs: *id001
+        title: Annihilation
+        length: 133933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-11-01'
       score: 0.97415614
     - id: 70a2f987-cac5-4be8-b0ef-35fe4fb84d2f
       score: 0.74719805

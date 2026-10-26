@@ -15,16 +15,32 @@ trackIdData:
     - id: b3798ef2-463f-4d34-94bf-dc192f2995b9
       recordings:
       - id: ebb35b17-19f0-49db-b78f-f9ba446bcd1a
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1300036
+        title: Nothing Is Real
+        length: 232866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.9979562
     - id: 3f2f6e67-dd2d-4b5e-821b-d8405c0f89f9
       recordings:
       - id: ebb35b17-19f0-49db-b78f-f9ba446bcd1a
-        isrcs: []
+        isrcs: *id001
+        title: Nothing Is Real
+        length: 232866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.85396886
     - id: e98d7da0-d3ba-40a6-8623-f4933f3dbdd5
       recordings:
       - id: ebb35b17-19f0-49db-b78f-f9ba446bcd1a
-        isrcs: []
+        isrcs: *id001
+        title: Nothing Is Real
+        length: 232866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.6002439
     status: ok

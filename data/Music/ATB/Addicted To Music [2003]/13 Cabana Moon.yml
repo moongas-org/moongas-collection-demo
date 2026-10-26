@@ -15,18 +15,39 @@ trackIdData:
     - id: ff7c8bab-1d2a-4d1d-b092-0249a723597f
       recordings:
       - id: 3ae95f06-20bc-49bb-8a38-37abfefe14b9
-        isrcs: []
+        isrcs: &id001
+        - DEN060300784
+        title: Cabana Moon / Ruby
+        length: 650440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       score: 0.98358387
     - id: 35b7f464-244a-4e8f-89db-34b8178508f6
       recordings:
       - id: 3ae95f06-20bc-49bb-8a38-37abfefe14b9
-        isrcs: []
+        isrcs: *id001
+        title: Cabana Moon / Ruby
+        length: 650440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       - id: fb5720a8-3b3e-499f-8bed-10f5eb6f48b2
         isrcs: []
+        title: Cabana Moon
+        length: 373000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-21'
       score: 0.97863925
     - id: 81446351-c11a-4e2c-97dc-171e8b60f0b9
       recordings:
       - id: 3ae95f06-20bc-49bb-8a38-37abfefe14b9
-        isrcs: []
+        isrcs: *id001
+        title: Cabana Moon / Ruby
+        length: 650440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       score: 0.92167723
     status: ok

@@ -16,18 +16,50 @@ trackIdData:
       recordings:
       - id: 04f35e6c-5d8e-4d61-8ae7-96a6e9308d91
         isrcs: []
+        title: We Die Young
+        length: 152000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '1991-07-30'
       - id: 2321497d-016b-4fa8-afb1-f9b2a2a38fb0
-        isrcs: []
+        isrcs: &id001
+        - USSM19000767
+        title: We Die Young
+        length: 152000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1990-07
       - id: 25477eb9-516b-4bff-b369-48861115289e
         isrcs: []
+        title: We Die Young
+        length: 153000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: 6ebf9c3a-3b5b-4d2f-98bb-03f1f7543525
         isrcs: []
+        title: We Die Young
+        length: 155000
+        video: false
+        disambiguation: 'live, 1992-11-28: La Brique, Montreal, QC, Canada'
+        firstReleaseDate: '1993'
       - id: b311a73a-cd79-477a-b783-0bb4fbce6a7b
-        isrcs: []
+        isrcs:
+        - USCA28700795
+        title: Babes in the Wood
+        length: 152426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977'
       score: 0.98163897
     - id: 11b4e217-b397-43db-9654-20980f84ef81
       recordings:
       - id: 2321497d-016b-4fa8-afb1-f9b2a2a38fb0
-        isrcs: []
+        isrcs: *id001
+        title: We Die Young
+        length: 152000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1990-07
       score: 0.7778217
     status: ok

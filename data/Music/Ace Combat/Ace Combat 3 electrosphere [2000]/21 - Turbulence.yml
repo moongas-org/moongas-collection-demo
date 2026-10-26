@@ -15,13 +15,24 @@ trackIdData:
     - id: 5184d39c-44e7-4798-b4ec-813e28d4aaa4
       recordings:
       - id: ce1543e3-9598-445c-af4a-efbaddf75fb5
-        isrcs: []
+        isrcs: &id001
+        - JPX832004826
+        title: Turbulence
+        length: 132000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.9674448
     - id: eee8f4ee-82d1-48e8-a428-8532bbd4ad0b
       score: 0.8273238
     - id: 6b0c98cd-bee6-4201-b0c0-bb0fe3e5097c
       recordings:
       - id: ce1543e3-9598-445c-af4a-efbaddf75fb5
-        isrcs: []
+        isrcs: *id001
+        title: Turbulence
+        length: 132000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.82585484
     status: ok

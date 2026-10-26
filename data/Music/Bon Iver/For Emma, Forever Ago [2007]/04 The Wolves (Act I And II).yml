@@ -15,13 +15,30 @@ trackIdData:
     - id: ff5e4a3a-49fe-42ff-8c66-07d86ae8e241
       recordings:
       - id: ca11bdb5-c3df-4bbe-b6c2-f1acf81d5c2c
-        isrcs: []
+        isrcs: &id001
+        - US38Y0800004
+        - US38Y0811504
+        title: The Wolves, Act I and II
+        length: 322040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-07-08'
       - id: d4c0307c-82a7-4873-982b-d5e64e6ba65d
         isrcs: []
+        title: La Vénus à la fourrure
+        length: 2218000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-15'
       score: 0.98473763
     - id: efc905db-d0be-426d-bc99-fa0091907069
       recordings:
       - id: ca11bdb5-c3df-4bbe-b6c2-f1acf81d5c2c
-        isrcs: []
+        isrcs: *id001
+        title: The Wolves, Act I and II
+        length: 322040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-07-08'
       score: 0.97165084
     status: ok

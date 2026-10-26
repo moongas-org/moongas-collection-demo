@@ -15,13 +15,29 @@ trackIdData:
     - id: 6257c029-af59-4448-94af-ddf0efb1e02f
       recordings:
       - id: 1b7bc1b4-288c-412a-93ce-25f17eccb76b
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021639
+        title: Half Light II (No Celebration)
+        length: 267133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.99765956
     - id: 861352bb-cc4f-415b-bce5-477b64f0a94a
       recordings:
       - id: 1b7bc1b4-288c-412a-93ce-25f17eccb76b
-        isrcs: []
+        isrcs: *id001
+        title: Half Light II (No Celebration)
+        length: 267133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: b93e21a2-34f6-40ec-b46a-835d45b37016
         isrcs: []
+        title: Half Light II (No Celebration)
+        length: 267000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       score: 0.98744065
     status: ok

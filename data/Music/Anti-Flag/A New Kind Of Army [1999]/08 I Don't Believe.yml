@@ -15,11 +15,22 @@ trackIdData:
     - id: 4496a2aa-2fe3-4975-a29b-aa44557d44b1
       recordings:
       - id: 595281a2-405e-4d66-b826-93e44a00fdda
-        isrcs: []
+        isrcs: &id001
+        - TCACK1524090
+        title: I Don’t Believe
+        length: 149200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-03-23'
       score: 0.9710245
     - id: 378a6ea1-5165-4b7a-a492-e2deadc15d3f
       recordings:
       - id: 595281a2-405e-4d66-b826-93e44a00fdda
-        isrcs: []
+        isrcs: *id001
+        title: I Don’t Believe
+        length: 149200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-03-23'
       score: 0.6673919
     status: ok

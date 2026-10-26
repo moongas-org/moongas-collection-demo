@@ -16,16 +16,42 @@ trackIdData:
       recordings:
       - id: 1ea3f697-ac38-4472-b4d2-aa1d9b779054
         isrcs: []
+        title: Guiltiness
+        length: 199000
+        video: false
+        disambiguation: Dolby Atmos Mix
+        firstReleaseDate:
       - id: 492d2bc3-eba9-4a2d-96a1-756fc5dc6d14
-        isrcs: []
+        isrcs: &id001
+        - USIR27700010
+        title: Guiltiness
+        length: 199640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977-06-03'
       - id: 9605d1cb-d66d-4b7e-b98d-3f5a84b83016
         isrcs: []
+        title: Grand-Bassam
+        length: 209199
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: f1357013-ffd7-494d-9ec8-68404feed0a5
         isrcs: []
+        title: Smile Jamaica, Part Two
+        length: 189853
+        video: false
+        disambiguation: slow take
+        firstReleaseDate: '2002-11-26'
       score: 0.98826474
     - id: 3320474f-7a6a-4902-913d-d6387aa20711
       recordings:
       - id: 492d2bc3-eba9-4a2d-96a1-756fc5dc6d14
-        isrcs: []
+        isrcs: *id001
+        title: Guiltiness
+        length: 199640
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977-06-03'
       score: 0.901602
     status: ok

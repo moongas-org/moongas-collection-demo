@@ -15,12 +15,23 @@ trackIdData:
     - id: 29aec4ae-c0dc-402d-a05c-bf919561a00c
       recordings:
       - id: 28b58f86-dc23-4745-ba8d-1964f2c1c23a
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1300029
+        title: Cold Earth
+        length: 222466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.996341
     - id: c60c97e4-98e4-4a45-9169-9ee33e9fccdb
       recordings:
       - id: 28b58f86-dc23-4745-ba8d-1964f2c1c23a
-        isrcs: []
+        isrcs: *id001
+        title: Cold Earth
+        length: 222466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.7213429
     - id: b703bf8f-423c-4444-b871-3af06085a6b2
       score: 0.57311445

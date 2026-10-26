@@ -16,14 +16,37 @@ trackIdData:
       recordings:
       - id: 564a7c48-eea2-4ac6-96de-507bca70445a
         isrcs: []
+        title: Looking for Today
+        length: 306093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-04-27'
       - id: a1b57a6a-ee49-4be9-8918-dfeaba07250f
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1602028
+        - USWB11304641
+        - USWB19901305
+        title: Looking for Today
+        length: 300706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-11
       score: 0.95853114
     - id: 52a215b8-c06a-4bd7-aff6-21c2b1b88004
       recordings:
       - id: 564a7c48-eea2-4ac6-96de-507bca70445a
         isrcs: []
+        title: Looking for Today
+        length: 306093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-04-27'
       - id: a1b57a6a-ee49-4be9-8918-dfeaba07250f
-        isrcs: []
+        isrcs: *id001
+        title: Looking for Today
+        length: 300706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-11
       score: 0.93957675
     status: ok

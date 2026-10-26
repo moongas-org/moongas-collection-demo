@@ -16,24 +16,74 @@ trackIdData:
       recordings:
       - id: 01fe5c86-c644-47ec-82ce-4e774ec85923
         isrcs: []
+        title: Jane
+        length: 239800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-03'
       - id: 28df47f6-2bff-4c90-a9e1-179f9d33fa7b
-        isrcs: []
+        isrcs: &id001
+        - USRE19800767
+        title: Jane
+        length: 244400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-08-12'
       - id: 37882982-5412-4013-808f-da8fdfc721be
-        isrcs: []
+        isrcs:
+        - GBARL0501031
+        - GBARL9500020
+        title: Back for Good
+        length: 241293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: 59a677eb-2372-4a9d-abe2-092808fee997
         isrcs: []
+        title: Jane
+        length: 244666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999'
       - id: 7b466a31-ede7-42aa-8f30-7238c6f684b9
-        isrcs: []
+        isrcs:
+        - USRC17904299
+        title: Jane
+        length: 252000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1979-10
       - id: 85c50851-6c54-4a33-a833-0da4a36ce473
         isrcs: []
+        title: Jane (live)
+        length: 239040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: b11d9b22-dedf-4705-acc8-b423f3a53f50
         isrcs: []
+        title: Jane
+        length: 243960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: b6abc014-3c74-485f-971e-d2a47a77792c
-        isrcs: []
+        isrcs:
+        - USRE19600346
+        title: Jane
+        length: 238400
+        video: false
+        disambiguation: 'live, 1996-04-17: Riviera Theatre, Chicago, IL, USA'
+        firstReleaseDate: '1996-11-19'
       score: 0.982496
     - id: f0754daa-f92d-4b04-b61c-7763917b003f
       recordings:
       - id: 28df47f6-2bff-4c90-a9e1-179f9d33fa7b
-        isrcs: []
+        isrcs: *id001
+        title: Jane
+        length: 244400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-08-12'
       score: 0.8284546
     status: ok

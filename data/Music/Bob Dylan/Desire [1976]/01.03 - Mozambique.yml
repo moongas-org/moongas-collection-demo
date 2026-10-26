@@ -15,25 +15,72 @@ trackIdData:
     - id: 3033362d-b6d5-4d99-a444-19be7d1e95ff
       recordings:
       - id: 1b612fd2-1f2f-4080-822c-5b01f9b23494
-        isrcs: []
+        isrcs: &id001
+        - USSM10103238
+        title: Mozambique
+        length: 181400
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: 3ae7e402-be03-4143-8b06-ec52bfccb9a1
         isrcs: []
+        title: Mozambique
+        length: 182946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-03-25'
       - id: 496ab7d7-03a1-4890-ae6f-828c6bbc59e5
         isrcs: []
+        title: Mozambique
+        length: 181693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       - id: 6d1a0baa-f614-49d6-afe8-9325612182fa
         isrcs: []
+        title: Mozambique
+        length: 182226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2016-04-13'
       - id: e6feb9c4-ab7b-4e04-b2af-c7bdbd9720a3
-        isrcs: []
+        isrcs:
+        - USSM10103238
+        title: Mozambique
+        length: 180800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-11-01'
       - id: fae6fcc6-2693-4227-a983-a7cdf5825600
         isrcs: []
+        title: Mozambique
+        length: 175866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1987'
       score: 0.9694093
     - id: 1579c666-b71e-4b21-abfd-24c8d7ea8d70
       recordings:
       - id: 1b612fd2-1f2f-4080-822c-5b01f9b23494
-        isrcs: []
+        isrcs: *id001
+        title: Mozambique
+        length: 181400
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: b0db9d1a-d01e-41b5-951d-bd9bdbcf463a
         isrcs: []
+        title: The Times They Are A-Changin'
+        length: 181733
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: fae6fcc6-2693-4227-a983-a7cdf5825600
         isrcs: []
+        title: Mozambique
+        length: 175866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1987'
       score: 0.91574365
     status: ok

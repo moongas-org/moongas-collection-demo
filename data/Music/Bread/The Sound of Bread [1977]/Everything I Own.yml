@@ -16,14 +16,38 @@ trackIdData:
       recordings:
       - id: 409edc11-05f3-4e93-a208-3e527589d9b8
         isrcs: []
+        title: Everything I Own
+        length: 186000
+        video: false
+        disambiguation: quad mix
+        firstReleaseDate: '1973'
       - id: d068da52-8a64-4531-bf06-292b942a1ba0
-        isrcs: []
+        isrcs: &id001
+        - USEE10000092
+        - USEE10900776
+        - USEE11200757
+        - USEE19900899
+        title: Everything I Own
+        length: 187000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1972-01
       score: 0.957674
     - id: f785a9a9-13a7-4828-a42a-e17f741124fb
       recordings:
       - id: 409edc11-05f3-4e93-a208-3e527589d9b8
         isrcs: []
+        title: Everything I Own
+        length: 186000
+        video: false
+        disambiguation: quad mix
+        firstReleaseDate: '1973'
       - id: d068da52-8a64-4531-bf06-292b942a1ba0
-        isrcs: []
+        isrcs: *id001
+        title: Everything I Own
+        length: 187000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1972-01
       score: 0.954015
     status: ok

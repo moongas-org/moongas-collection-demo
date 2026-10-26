@@ -15,11 +15,22 @@ trackIdData:
     - id: 5f468502-e128-40ae-b2a8-933c5006f2f0
       recordings:
       - id: f6d6ebb3-0d92-43b6-8bed-6a95ca05be27
-        isrcs: []
+        isrcs: &id001
+        - USWB10001098
+        title: Clarice
+        length: 241293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.97488135
     - id: d016f26e-99c5-48e0-aaf7-2a4dc390b54c
       recordings:
       - id: f6d6ebb3-0d92-43b6-8bed-6a95ca05be27
-        isrcs: []
+        isrcs: *id001
+        title: Clarice
+        length: 241293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.7343091
     status: ok

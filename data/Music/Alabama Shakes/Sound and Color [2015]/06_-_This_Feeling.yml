@@ -16,12 +16,29 @@ trackIdData:
       recordings:
       - id: 5e1738df-68b3-44fd-8d03-5892d06f6050
         isrcs: []
+        title: This Feeling
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-22'
       - id: a4ce8277-a761-4b15-a4da-9ce11ae4770a
-        isrcs: []
+        isrcs: &id001
+        - USAT01400855
+        - USATO1400855
+        title: This Feeling
+        length: 269000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       score: 0.9974947
     - id: cad5049a-ac74-403b-bf41-b8e67c13b701
       recordings:
       - id: a4ce8277-a761-4b15-a4da-9ce11ae4770a
-        isrcs: []
+        isrcs: *id001
+        title: This Feeling
+        length: 269000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       score: 0.76226264
     status: ok

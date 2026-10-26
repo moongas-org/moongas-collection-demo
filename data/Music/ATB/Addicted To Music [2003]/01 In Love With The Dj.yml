@@ -16,17 +16,38 @@ trackIdData:
       recordings:
       - id: 870eea18-3426-44f2-a463-c533e7ffca12
         isrcs: []
+        title: In Love With the DJ (new vocal Clubb mix)
+        length: 408000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-10-09'
       - id: d4d8c562-4b71-476b-ae55-e01bc6fbdc92
-        isrcs: []
+        isrcs: &id001
+        - DEN060300773
+        title: In Love With the DJ
+        length: 407000
+        video: false
+        disambiguation: No Silence version
+        firstReleaseDate: '2003-04-28'
       score: 0.9997573
     - id: 49414f67-4a39-4b5e-a2ed-30d57a086189
       recordings:
       - id: d4d8c562-4b71-476b-ae55-e01bc6fbdc92
-        isrcs: []
+        isrcs: *id001
+        title: In Love With the DJ
+        length: 407000
+        video: false
+        disambiguation: No Silence version
+        firstReleaseDate: '2003-04-28'
       score: 0.75626004
     - id: fbd773c9-7f01-4880-a348-b41ea69a9680
       recordings:
       - id: d4d8c562-4b71-476b-ae55-e01bc6fbdc92
-        isrcs: []
+        isrcs: *id001
+        title: In Love With the DJ
+        length: 407000
+        video: false
+        disambiguation: No Silence version
+        firstReleaseDate: '2003-04-28'
       score: 0.6819252
     status: ok

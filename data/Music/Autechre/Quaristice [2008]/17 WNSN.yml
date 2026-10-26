@@ -15,21 +15,42 @@ trackIdData:
     - id: e100e237-466e-4f91-8125-bf11b3b896aa
       recordings:
       - id: 6f4f1027-0f05-46a4-8802-f3206d394f37
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700218
+        title: WNSN
+        length: 296733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.9951872
     - id: e18c2c20-03d9-4af3-b08f-d7337a05b902
       recordings:
       - id: 6f4f1027-0f05-46a4-8802-f3206d394f37
-        isrcs: []
+        isrcs: *id001
+        title: WNSN
+        length: 296733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.9029865
     - id: 950e33ad-23bb-49d2-b890-1cf1e9144181
       recordings:
       - id: 6f4f1027-0f05-46a4-8802-f3206d394f37
-        isrcs: []
+        isrcs: *id001
+        title: WNSN
+        length: 296733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.83719015
     - id: 92415007-b6b2-426b-aedd-f4ace649780c
       recordings:
       - id: 6f4f1027-0f05-46a4-8802-f3206d394f37
-        isrcs: []
+        isrcs: *id001
+        title: WNSN
+        length: 296733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.8173128
     status: ok

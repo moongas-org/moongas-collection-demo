@@ -15,13 +15,29 @@ trackIdData:
     - id: d84ec25e-4b57-4c2b-9db8-ed69bf39990e
       recordings:
       - id: c3c033ff-ce1a-43a1-af86-c83403c7b972
-        isrcs: []
+        isrcs: &id001
+        - USSM19917777
+        title: Veins
+        length: 239560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-10
       - id: f23f21fe-4749-4c70-96d0-fef260c6db0a
         isrcs: []
+        title: Veins
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       score: 0.99353904
     - id: 25bb1cb1-8877-4b71-ac13-3d533d0e12c7
       recordings:
       - id: c3c033ff-ce1a-43a1-af86-c83403c7b972
-        isrcs: []
+        isrcs: *id001
+        title: Veins
+        length: 239560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-10
       score: 0.97488135
     status: ok

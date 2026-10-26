@@ -16,12 +16,28 @@ trackIdData:
       recordings:
       - id: 200b2881-bf5e-45c8-a95f-0940aff3b874
         isrcs: []
+        title: See U Again
+        length: 397000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: e0c464ce-5bcf-4902-add9-464cf69480ff
-        isrcs: []
+        isrcs: &id001
+        - DEN060000180
+        title: See U Again
+        length: 395000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.9748484
     - id: 86e51203-aed4-4955-be84-3265da9a5bb7
       recordings:
       - id: e0c464ce-5bcf-4902-add9-464cf69480ff
-        isrcs: []
+        isrcs: *id001
+        title: See U Again
+        length: 395000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.6651173
     status: ok

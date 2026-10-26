@@ -15,13 +15,29 @@ trackIdData:
     - id: 7b257816-3d7a-4daa-ba90-690c9dfae855
       recordings:
       - id: a150b27e-266d-40a5-a69c-46470434dceb
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9800020
+        title: Rue the Whirl
+        length: 399493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       - id: a87e4cd0-b408-4eb6-9f15-1591e17f361c
         isrcs: []
+        title: Rue the Whirl
+        length: 400666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002'
       score: 0.9754674
     - id: 915f3c44-341c-4d5a-9548-7a98a53116ee
       recordings:
       - id: a150b27e-266d-40a5-a69c-46470434dceb
-        isrcs: []
+        isrcs: *id001
+        title: Rue the Whirl
+        length: 399493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.9688957
     status: ok

@@ -16,24 +16,76 @@ trackIdData:
       recordings:
       - id: 109417bb-9262-45f2-8241-1b56686e41b6
         isrcs: []
+        title: Magdalena
+        length:
+        video: false
+        disambiguation: 'live, 2004-01-31: Le Zénith de Paris, Paris, France'
+        firstReleaseDate:
       - id: 836d9bbe-d249-4885-8193-1b1daabe05a0
         isrcs: []
+        title: Magdalena
+        length:
+        video: false
+        disambiguation: 'live, 2001-03-27: Memorial Athletic and Convocation Center,
+          Kent, OH, USA'
+        firstReleaseDate:
       - id: 88f4eb45-ec2d-4603-8d58-6689fd23251c
         isrcs: []
+        title: Magdalena
+        length:
+        video: false
+        disambiguation: 'live, 2001‐03‐31: Roy Wilkins Auditorium, St. Paul, MN, USA'
+        firstReleaseDate:
       - id: 9ddfbe60-37a0-400d-ac30-3ef2ccfd695c
-        isrcs: []
+        isrcs:
+        - USVI20000045
+        title: Magdalena
+        length: 247000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: a3017aa1-386d-4dd6-8aeb-81398ef8e896
-        isrcs: []
+        isrcs: &id001
+        - QMEJX1300002
+        - USVI20000045
+        title: Magdalena
+        length: 246066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: a35e9a48-8186-4878-aa5e-0c0e915dce66
-        isrcs: []
+        isrcs:
+        - USVI20000094
+        title: Magdalena
+        length: 255120
+        video: false
+        disambiguation: 'live, 2000-04-05: Key Club, West Hollywood, CA, USA'
+        firstReleaseDate: '2000-05-15'
       - id: a54366d9-e627-4374-b662-d50a7676df21
-        isrcs: []
+        isrcs:
+        - QMEJX1300002
+        title: Magdalena
+        length: 250000
+        video: false
+        disambiguation: 'live, 2010: USA'
+        firstReleaseDate: '2013-12-02'
       - id: c7809325-7dd7-47ad-b652-f40ac4161a73
         isrcs: []
+        title: Magdalena
+        length:
+        video: false
+        disambiguation: 'live, 1999-10-27: The Warfield Theatre, San Francisco, CA,
+          USA'
+        firstReleaseDate:
       score: 0.99255013
     - id: b1d0ab0d-d7f2-4ba1-9cba-ce7707224490
       recordings:
       - id: a3017aa1-386d-4dd6-8aeb-81398ef8e896
-        isrcs: []
+        isrcs: *id001
+        title: Magdalena
+        length: 246066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.90361285
     status: ok

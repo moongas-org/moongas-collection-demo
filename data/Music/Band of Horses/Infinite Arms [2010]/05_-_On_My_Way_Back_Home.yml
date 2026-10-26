@@ -15,11 +15,22 @@ trackIdData:
     - id: 4cc49c67-22ac-4a0e-9cd4-4f13edba4e87
       recordings:
       - id: 79cccdc8-1568-42ad-8ec0-9398e23bba2e
-        isrcs: []
+        isrcs: &id001
+        - USQX91000267
+        title: On My Way Back Home
+        length: 208933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.98922074
     - id: 4b392840-634c-431e-b6c0-2f316c482821
       recordings:
       - id: 79cccdc8-1568-42ad-8ec0-9398e23bba2e
-        isrcs: []
+        isrcs: *id001
+        title: On My Way Back Home
+        length: 208933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.9851002
     status: ok

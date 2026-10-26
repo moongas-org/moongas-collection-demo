@@ -16,44 +16,133 @@ trackIdData:
       recordings:
       - id: 55a5f713-a081-459c-bfdb-1d71798deebf
         isrcs: []
+        title: Ventura Highway (5.1 mix)
+        length: 213000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-09-25'
       - id: 8f2cee50-a4a4-4448-84d5-ab9efdea6627
         isrcs: []
+        title: Ventura Highway
+        length: 219666
+        video: false
+        disambiguation: 'live, 1982-09-04: Blossom Music Center, Cuyahoga Falls, OH,
+          USA'
+        firstReleaseDate: '1999'
       - id: 90982229-060f-4088-95d9-4509d9d4311d
-        isrcs: []
+        isrcs: &id001
+        - USWB19901795
+        title: Ventura Highway
+        length: 211680
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-19'
       - id: a7057dde-f1dd-40b4-b80e-dc54ec44c9fa
         isrcs: []
+        title: Ventura Highway
+        length:
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2007'
       - id: d3bec45e-e2d1-4e80-80e9-b7ede5205674
-        isrcs: []
+        isrcs:
+        - USYRC1100040
+        title: Ventura Highway
+        length: 212280
+        video: false
+        disambiguation: 'live: The Troubadour, West Hollywood, CA, USA'
+        firstReleaseDate: '2012-01-10'
       - id: d7d0ad7a-8e4a-45f9-a3a2-47093da803ac
-        isrcs: []
+        isrcs:
+        - GB9TT1801723
+        - USCGH1180343
+        title: Ventura Highway
+        length: 217053
+        video: false
+        disambiguation: 2011 re‐recorded version
+        firstReleaseDate: '2011-03-15'
       - id: e7b7b8d9-fc8a-4270-90e4-c0823648e4ba
-        isrcs: []
+        isrcs:
+        - USWB10200346
+        title: Ventura Highway
+        length: 208000
+        video: false
+        disambiguation: 'live, 1977-07-24: Greek Theater, Los Angeles, CA, USA'
+        firstReleaseDate: '1977'
       score: 0.9868803
     - id: 54970c58-ca58-4caf-b58f-36273a8ef468
       recordings:
       - id: 2880430b-e2fd-4360-a5b3-0476fbdfc66b
-        isrcs: []
+        isrcs: &id002
+        - USWB10000697
+        title: Trouble
+        length: 233000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981-10-03'
       - id: 55a5f713-a081-459c-bfdb-1d71798deebf
         isrcs: []
+        title: Ventura Highway (5.1 mix)
+        length: 213000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-09-25'
       - id: 8f2cee50-a4a4-4448-84d5-ab9efdea6627
         isrcs: []
+        title: Ventura Highway
+        length: 219666
+        video: false
+        disambiguation: 'live, 1982-09-04: Blossom Music Center, Cuyahoga Falls, OH,
+          USA'
+        firstReleaseDate: '1999'
       - id: 90982229-060f-4088-95d9-4509d9d4311d
-        isrcs: []
+        isrcs: *id001
+        title: Ventura Highway
+        length: 211680
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-19'
       score: 0.9563555
     - id: a45d5ec2-db6e-4326-bcfb-470aa1c94640
       recordings:
       - id: 2880430b-e2fd-4360-a5b3-0476fbdfc66b
-        isrcs: []
+        isrcs: *id002
+        title: Trouble
+        length: 233000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981-10-03'
       - id: 55a5f713-a081-459c-bfdb-1d71798deebf
         isrcs: []
+        title: Ventura Highway (5.1 mix)
+        length: 213000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-09-25'
       - id: 8f2cee50-a4a4-4448-84d5-ab9efdea6627
         isrcs: []
+        title: Ventura Highway
+        length: 219666
+        video: false
+        disambiguation: 'live, 1982-09-04: Blossom Music Center, Cuyahoga Falls, OH,
+          USA'
+        firstReleaseDate: '1999'
       - id: 90982229-060f-4088-95d9-4509d9d4311d
-        isrcs: []
+        isrcs: *id001
+        title: Ventura Highway
+        length: 211680
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-19'
       score: 0.948576
     - id: a023becd-9841-4583-a037-b6a7ea9fec75
       recordings:
       - id: 90982229-060f-4088-95d9-4509d9d4311d
-        isrcs: []
+        isrcs: *id001
+        title: Ventura Highway
+        length: 211680
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-19'
       score: 0.7969739
     status: ok

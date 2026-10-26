@@ -15,16 +15,32 @@ trackIdData:
     - id: 9ab67881-9d12-421e-87f8-1982388dbf2d
       recordings:
       - id: de4f0923-a422-49a3-a113-6b3ad6fefb2e
-        isrcs: []
+        isrcs: &id001
+        - USQX91000274
+        title: Infinite Arms
+        length: 248466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.9838146
     - id: d6e2f1cb-f2b7-4cfa-a99b-b0086c230766
       recordings:
       - id: de4f0923-a422-49a3-a113-6b3ad6fefb2e
-        isrcs: []
+        isrcs: *id001
+        title: Infinite Arms
+        length: 248466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.96050894
     - id: 9fcc1caa-c8d3-4736-b15f-d6762ec81164
       recordings:
       - id: de4f0923-a422-49a3-a113-6b3ad6fefb2e
-        isrcs: []
+        isrcs: *id001
+        title: Infinite Arms
+        length: 248466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-14'
       score: 0.83386075
     status: ok

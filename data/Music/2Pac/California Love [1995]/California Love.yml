@@ -15,26 +15,80 @@ trackIdData:
     - id: b45c6b81-e5c6-4104-be69-f8fef7d5e61b
       recordings:
       - id: 474cf56b-3d2d-4302-803b-f5fffb0ec4f4
-        isrcs: []
+        isrcs:
+        - GBGHC0500007
+        - USKO10403841
+        - USKO10701683
+        - USUG10801475
+        title: Hit ’Em Up
+        length: 313000
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '1996-06-04'
       - id: 5a7be987-1fee-480f-9bf4-2d606acfff4f
-        isrcs: []
+        isrcs: &id001
+        - USKO10690024
+        - USNPD0801620
+        - USUG10702629
+        - USUMG0000659
+        title: California Love
+        length: 285000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: aca57a7f-8e25-4ee0-bced-6a53bfa31513
-        isrcs: []
+        isrcs: &id002
+        - USUG10702628
+        title: California Love (original version)
+        length: 285000
+        video: false
+        disambiguation: long radio edit
+        firstReleaseDate: '1995'
       - id: c03d3f83-6d9d-44a1-bd2f-0d8a72ef9447
         isrcs: []
+        title: California Love
+        length: 287453
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2000'
       - id: f3419114-060f-4465-9eec-1b26c7977304
         isrcs: []
+        title: California Love (album version)
+        length: 389000
+        video: false
+        disambiguation: original/single version
+        firstReleaseDate: '1995'
       score: 0.9776851
     - id: 8f6e3e85-fa3a-40e1-87bd-f5da2e0c2772
       recordings:
       - id: 1871954d-45a0-4b42-8012-2d8a611bd4f0
         isrcs: []
+        title: California Love
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-05-05'
       - id: 5a7be987-1fee-480f-9bf4-2d606acfff4f
-        isrcs: []
+        isrcs: *id001
+        title: California Love
+        length: 285000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: aca57a7f-8e25-4ee0-bced-6a53bfa31513
-        isrcs: []
+        isrcs: *id002
+        title: California Love (original version)
+        length: 285000
+        video: false
+        disambiguation: long radio edit
+        firstReleaseDate: '1995'
       - id: c03d3f83-6d9d-44a1-bd2f-0d8a72ef9447
         isrcs: []
+        title: California Love
+        length: 287453
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2000'
       score: 0.9767034
     - id: 25c15602-5152-4440-beda-c0bfd3dc8f43
       score: 0.85542935

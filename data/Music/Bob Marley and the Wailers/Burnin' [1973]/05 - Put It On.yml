@@ -16,30 +16,83 @@ trackIdData:
       recordings:
       - id: 2f1a5af9-ea71-4125-9c30-ee7087e01ced
         isrcs: []
+        title: Put It On
+        length: 236373
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1987'
       - id: 44f78249-8f06-42b4-adb7-31573a463e30
-        isrcs: []
+        isrcs:
+        - USIR28000018
+        title: Redemption Song
+        length: 228000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-10'
       - id: 5a0fc2d5-1910-4fa6-b5d5-f11826688dff
         isrcs: []
+        title: Put It On
+        length: 243666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-06-29'
       - id: 73b553d8-0584-4c00-a3b4-60ac98a13a2c
         isrcs: []
+        title: Put It On
+        length: 237000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007'
       - id: 96de74e4-a778-41ec-a026-8f7abb746467
-        isrcs: []
+        isrcs:
+        - USA560702584
+        title: Put It On
+        length: 243906
+        video: false
+        disambiguation: 1970 re-recording; longer mix
+        firstReleaseDate: '1992'
       - id: bf0fb128-6ecf-4e32-b460-c711f39cf320
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7300129
+        title: Put It On
+        length: 240266
+        video: false
+        disambiguation: 1973 re-recording
+        firstReleaseDate: '1973-10-19'
       - id: f5d4e480-7f27-4105-a48a-9db1149da4c6
         isrcs: []
+        title: Put It On
+        length: 243133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       score: 0.97148603
     - id: f4fe87c8-3f78-40ab-a088-f4cd30ca3f87
       recordings:
       - id: bf0fb128-6ecf-4e32-b460-c711f39cf320
-        isrcs: []
+        isrcs: *id001
+        title: Put It On
+        length: 240266
+        video: false
+        disambiguation: 1973 re-recording
+        firstReleaseDate: '1973-10-19'
       score: 0.8179391
     - id: beb9e630-850d-492c-b120-a86b337f0519
       recordings:
       - id: 50256a66-e15f-4ad5-82f7-33e24e5d7576
         isrcs: []
+        title: Put It On
+        length: 243012
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: bf0fb128-6ecf-4e32-b460-c711f39cf320
-        isrcs: []
+        isrcs: *id001
+        title: Put It On
+        length: 240266
+        video: false
+        disambiguation: 1973 re-recording
+        firstReleaseDate: '1973-10-19'
       score: 0.81711495
     - id: 07baaa27-edbb-44c0-bc23-abe4bbd1c228
       score: 0.6874341

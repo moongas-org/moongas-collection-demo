@@ -15,13 +15,32 @@ trackIdData:
     - id: 0df126aa-9bed-4429-b7e7-7e98b2213374
       recordings:
       - id: 8253f411-30c5-4229-b09f-c8545377cfc3
-        isrcs: []
+        isrcs:
+        - USUM70500576
+        - USUM70500987
+        title: Seven
+        length: 230333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003'
       - id: 9b971141-4929-418e-8feb-176c6b58f349
-        isrcs: []
+        isrcs: &id001
+        - USUM70500576
+        - USUM70500987
+        title: Through the Iris
+        length: 210000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-03-22'
       score: 0.97016746
     - id: 69b96b65-5bb4-479b-be5b-5508dd1d15d0
       recordings:
       - id: 9b971141-4929-418e-8feb-176c6b58f349
-        isrcs: []
+        isrcs: *id001
+        title: Through the Iris
+        length: 210000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-03-22'
       score: 0.7929193
     status: ok

@@ -15,11 +15,23 @@ trackIdData:
     - id: e7201c45-42a6-42be-9b77-97036d20ab19
       recordings:
       - id: 72b425c9-fac6-40bf-aa39-5f309229c021
-        isrcs: []
+        isrcs: &id001
+        - USEE19900480
+        - USSM10017653
+        title: Veteran of the Psychic Wars
+        length: 289586
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.98256195
     - id: 8c6b9b1d-f9a8-4359-bf8f-9abac3a54d6c
       recordings:
       - id: 72b425c9-fac6-40bf-aa39-5f309229c021
-        isrcs: []
+        isrcs: *id001
+        title: Veteran of the Psychic Wars
+        length: 289586
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.79298526
     status: ok

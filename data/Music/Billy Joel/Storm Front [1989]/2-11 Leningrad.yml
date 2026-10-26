@@ -16,21 +16,55 @@ trackIdData:
       recordings:
       - id: 560e3918-fe5d-4504-9c17-340247de8f8e
         isrcs: []
+        title: Feelings
+        length: 270333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-08-25'
       - id: 7cf6e998-18e2-45fb-a68f-67e4badba955
-        isrcs: []
+        isrcs: &id001
+        - USSM18900215
+        - USSM18900260
+        - USSM19303012
+        title: Leningrad
+        length: 244533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-06-01'
       - id: 7da408d4-36c5-4942-bc2d-443b6a28603a
         isrcs: []
+        title: Leningrad (Billy Joel)
+        length: 250000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018-07-01'
       - id: d816d33c-7401-4044-a40f-e57c2bc7b5be
-        isrcs: []
+        isrcs:
+        - USSM20100440
+        title: Leningrad
+        length: 241000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2001'
       score: 0.986221
     - id: ec8cf5b3-820f-4d44-8c8b-c8a3362ae4e4
       recordings:
       - id: 7cf6e998-18e2-45fb-a68f-67e4badba955
-        isrcs: []
+        isrcs: *id001
+        title: Leningrad
+        length: 244533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-06-01'
       score: 0.97695136
     - id: ff4cac62-88a5-42e6-9186-dbbb6dfb070c
       recordings:
       - id: 7cf6e998-18e2-45fb-a68f-67e4badba955
-        isrcs: []
+        isrcs: *id001
+        title: Leningrad
+        length: 244533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-06-01'
       score: 0.95773995
     status: ok

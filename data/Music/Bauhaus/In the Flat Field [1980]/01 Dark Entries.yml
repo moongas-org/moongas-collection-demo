@@ -15,18 +15,47 @@ trackIdData:
     - id: c6580040-a020-4b43-86cb-87161b729130
       recordings:
       - id: 565f22fd-fb1f-436d-9f1c-6d6a5ea7786d
-        isrcs: []
+        isrcs: &id001
+        - GBAFL0800090
+        - GBAFL9800112
+        - GBAFL9800113
+        title: Dark Entries
+        length: 232000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-01-16'
       score: 0.98196864
     - id: 705c465e-3b88-4a50-af84-ed69b945ca5a
       recordings:
       - id: 2cbbb16c-3bbd-4a8f-a5a9-0c9f58f4f9c5
         isrcs: []
+        title: Dark Entries
+        length: 235666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: 565f22fd-fb1f-436d-9f1c-6d6a5ea7786d
-        isrcs: []
+        isrcs: *id001
+        title: Dark Entries
+        length: 232000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-01-16'
       - id: ae5218fb-390f-4298-a0e7-a557915b554f
         isrcs: []
+        title: Dark Entries
+        length: 236400
+        video: false
+        disambiguation: 'live, 1998‐09‐09/10: Hammerstein Ballroom, New York City,
+          NY, USA'
+        firstReleaseDate: '1999-10-20'
       - id: f521576c-7493-4118-92b7-37d1393d2df3
         isrcs: []
+        title: Dark Entries
+        length: 231560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1986-05-01'
       score: 0.9667392
     - id: 89038af1-a73f-4ba7-bf01-8315d2fdd8fa
       score: 0.6671164

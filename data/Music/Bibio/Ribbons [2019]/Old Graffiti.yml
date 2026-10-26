@@ -15,11 +15,22 @@ trackIdData:
     - id: fdde2d08-80a1-469c-9774-aca03e7966b1
       recordings:
       - id: 42524a00-9d5a-4d9d-84eb-6faf4b298666
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1900025
+        title: Old Graffiti
+        length: 208853
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-04-12'
       score: 0.9623879
     - id: 1fa09af2-be23-43c6-815c-ca9e8ad4653c
       recordings:
       - id: 42524a00-9d5a-4d9d-84eb-6faf4b298666
-        isrcs: []
+        isrcs: *id001
+        title: Old Graffiti
+        length: 208853
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-04-12'
       score: 0.8246308
     status: ok

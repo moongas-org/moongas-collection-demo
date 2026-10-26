@@ -15,17 +15,44 @@ trackIdData:
     - id: 8994028b-2f75-42e8-8ab9-3918dfd4519f
       recordings:
       - id: 41b5ec49-3926-4afd-8e70-6fff688be7ec
-        isrcs: []
+        isrcs:
+        - GBHQK0803590
+        title: God Blessed Video
+        length: 209000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991'
       - id: 4698b3e8-1534-4162-8e5c-ad5af3076fbf
         isrcs: []
+        title: God Blessed Video
+        length: 209000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017'
       - id: 5534bea7-bf6c-4018-b0ee-82f0c4bae43c
         isrcs: []
+        title: God Blessed Video
+        length: 210000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 7a05d8e8-3d31-4835-8923-9077a8f57d33
-        isrcs: []
+        isrcs: &id001
+        - GBBLY1600625
+        title: God Blessed Video
+        length: 210400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985'
       score: 0.9826279
     - id: a3450242-27c9-4b96-ab09-58f0bc3a126f
       recordings:
       - id: 7a05d8e8-3d31-4835-8923-9077a8f57d33
-        isrcs: []
+        isrcs: *id001
+        title: God Blessed Video
+        length: 210400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985'
       score: 0.87697786
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: 62b9e318-0d2a-4957-80b3-d13e32a238bb
       recordings:
       - id: dc794564-ba6c-4446-8b7b-c2da2a7ac0d7
-        isrcs: []
+        isrcs: &id001
+        - JPX832004829
+        title: Child's Play
+        length: 174000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.976101
     - id: df55037c-b009-4cd8-b1fe-4dc0c7896130
       recordings:
       - id: dc794564-ba6c-4446-8b7b-c2da2a7ac0d7
-        isrcs: []
+        isrcs: *id001
+        title: Child's Play
+        length: 174000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.89896494
     status: ok

@@ -15,23 +15,67 @@ trackIdData:
     - id: fd3b98d5-03e7-4f38-95b9-772823281994
       recordings:
       - id: 75855dc2-d0b2-41c9-9906-59ccd254291b
-        isrcs: []
+        isrcs: &id001
+        - GBUM70607209
+        title: You Know I’m No Good (remix)
+        length: 203733
+        video: false
+        disambiguation: Ghostface UK version
+        firstReleaseDate: '2006-12-17'
       score: 0.9899789
     - id: b82324a1-7802-4352-b546-487be9c31aed
       recordings:
       - id: 4db4c50c-4c32-4af2-a15b-64c5c705c2be
         isrcs: []
+        title: You Know I’m No Good
+        length:
+        video: false
+        disambiguation: 'live, 2007-03-16: South by Southwest, La Zona Rosa, Austin,
+          TX, USA'
+        firstReleaseDate:
       - id: 75855dc2-d0b2-41c9-9906-59ccd254291b
-        isrcs: []
+        isrcs: *id001
+        title: You Know I’m No Good (remix)
+        length: 203733
+        video: false
+        disambiguation: Ghostface UK version
+        firstReleaseDate: '2006-12-17'
       - id: 7b4cae86-715f-4f13-8f2a-336fc2422216
         isrcs: []
+        title: You Know I’m No Good
+        length: 206000
+        video: false
+        disambiguation: live lounge
+        firstReleaseDate: '2007'
       - id: b473ea6d-c7d6-42e5-802e-b1d44dd59c00
-        isrcs: []
+        isrcs:
+        - GBUM70606486
+        title: To Know Him Is to Love Him
+        length: 144080
+        video: false
+        disambiguation: 'live, 2006: For NapsterLive, London'
+        firstReleaseDate: '2006'
       - id: b53f4a9a-1aae-4f2a-83e3-2b2ff1570f41
         isrcs: []
+        title: Intro
+        length: 23000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2003-10
       - id: c0a1f273-4d7b-4e3e-a9ee-25027831fac3
-        isrcs: []
+        isrcs:
+        - GBUM70605839
+        title: You Know I’m No Good
+        length: 216746
+        video: false
+        disambiguation: radio edit
+        firstReleaseDate: '2006'
       - id: d24a9500-1a3f-43de-a36a-024cfde4529a
         isrcs: []
+        title: You Know I’m No Good
+        length: 194000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       score: 0.98117745
     status: ok

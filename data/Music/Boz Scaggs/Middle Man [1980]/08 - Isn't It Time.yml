@@ -15,11 +15,23 @@ trackIdData:
     - id: ba5af767-f206-4956-bda9-36d2b38f7224
       recordings:
       - id: ac640901-7852-49fe-ae07-87a1c320511f
-        isrcs: []
+        isrcs: &id001
+        - USSM17900274
+        - USSM19802164
+        title: Isn’t It Time
+        length: 294266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-29'
       score: 0.99103373
     - id: 2b61c885-dba0-4d71-8e2f-1cec9cad737a
       recordings:
       - id: ac640901-7852-49fe-ae07-87a1c320511f
-        isrcs: []
+        isrcs: *id001
+        title: Isn’t It Time
+        length: 294266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-29'
       score: 0.8787579
     status: ok

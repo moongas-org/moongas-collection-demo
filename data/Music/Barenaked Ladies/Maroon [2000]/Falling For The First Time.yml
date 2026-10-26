@@ -15,15 +15,36 @@ trackIdData:
     - id: cf4d7394-b4f2-407f-bf50-d12916395965
       recordings:
       - id: 9af7c296-a691-4546-9886-8bd40ff61a73
-        isrcs: []
+        isrcs: &id001
+        - USRE10000906
+        title: Falling for the First Time
+        length: 219333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-09-12'
       - id: cfafd29b-0c8b-4cc9-8bd7-45e6e0ab3850
         isrcs: []
+        title: Falling for the First Time (5.1 mix)
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-09-25'
       score: 0.9938357
     - id: 63a08c31-bdd8-49d2-a945-626bcfff3deb
       recordings:
       - id: 9af7c296-a691-4546-9886-8bd40ff61a73
-        isrcs: []
+        isrcs: *id001
+        title: Falling for the First Time
+        length: 219333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-09-12'
       - id: cfafd29b-0c8b-4cc9-8bd7-45e6e0ab3850
         isrcs: []
+        title: Falling for the First Time (5.1 mix)
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-09-25'
       score: 0.95520175
     status: ok

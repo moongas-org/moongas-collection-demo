@@ -15,16 +15,32 @@ trackIdData:
     - id: 957361fe-91e7-4d1b-814c-957311824860
       recordings:
       - id: 820b9c6a-672a-4a28-9519-9db24a5897bb
-        isrcs: []
+        isrcs: &id001
+        - GBAAA0500079
+        title: Sparrowfall, Part 2
+        length: 103627
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1978-09
       score: 0.977782
     - id: 8772ae9c-858e-450c-b401-ed24fac5f9fb
       recordings:
       - id: 820b9c6a-672a-4a28-9519-9db24a5897bb
-        isrcs: []
+        isrcs: *id001
+        title: Sparrowfall, Part 2
+        length: 103627
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1978-09
       score: 0.89208025
     - id: 668a70dc-e911-49ba-ac72-ff4d62078ff3
       recordings:
       - id: 820b9c6a-672a-4a28-9519-9db24a5897bb
-        isrcs: []
+        isrcs: *id001
+        title: Sparrowfall, Part 2
+        length: 103627
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1978-09
       score: 0.86905676
     status: ok

@@ -15,18 +15,40 @@ trackIdData:
     - id: 3a33f8f2-f63c-43b5-a587-6298e56853c4
       recordings:
       - id: 9292cc80-2875-4efa-b7f8-ec2e25525d15
-        isrcs: []
+        isrcs: &id001
+        - US38Y0800008
+        - US38Y0811508
+        title: For Emma
+        length: 220720
+        video: false
+        disambiguation: original stereo mix
+        firstReleaseDate: '2007-07-08'
       score: 0.9973299
     - id: 5413477d-c499-4e2d-b2a6-1b04a3343f3f
       recordings:
       - id: 9292cc80-2875-4efa-b7f8-ec2e25525d15
-        isrcs: []
+        isrcs: *id001
+        title: For Emma
+        length: 220720
+        video: false
+        disambiguation: original stereo mix
+        firstReleaseDate: '2007-07-08'
       score: 0.970596
     - id: c1542c3b-fac7-4ddc-8d34-85baaf6e96b9
       recordings:
       - id: 9292cc80-2875-4efa-b7f8-ec2e25525d15
-        isrcs: []
+        isrcs: *id001
+        title: For Emma
+        length: 220720
+        video: false
+        disambiguation: original stereo mix
+        firstReleaseDate: '2007-07-08'
       - id: f8dd5b96-f3ed-4ca9-8881-52c54744a4f3
         isrcs: []
+        title: For Emma
+        length: 233000
+        video: false
+        disambiguation: 'live: WXPN, Philadelphia, PA, USA'
+        firstReleaseDate: '2009'
       score: 0.97043115
     status: ok

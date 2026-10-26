@@ -15,26 +15,70 @@ trackIdData:
     - id: 54d08f7d-14e9-449a-b5d2-b101882a7fb4
       recordings:
       - id: 436b4315-3db2-4c5f-84e5-234b4318dd20
-        isrcs: []
+        isrcs:
+        - USJI19000003
+        title: Bonita Applebum
+        length: 216506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: 4bd3726c-c926-4637-b3b2-b5a5bf5417bf
-        isrcs: []
+        isrcs: &id001
+        - USJI19100005
+        title: Check the Rhime
+        length: 216737
+        video: false
+        disambiguation: LP version
+        firstReleaseDate: '1991-09-24'
       - id: 4cdc3571-8bfa-44ff-bd7d-4d9808f966c9
         isrcs: []
+        title: Check the Rhime
+        length: 214946
+        video: false
+        disambiguation: 'part of “Skitz: Badmeaningood Vol. 1” DJ-mix'
+        firstReleaseDate: 2002-05
       - id: 7d1ead06-686e-4342-812e-7d2b528e6866
-        isrcs: []
+        isrcs:
+        - USJI10301225
+        title: Check the Rhime (Mr. Muhammad’s mix)
+        length: 219679
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991'
       - id: adc537c2-0b86-404b-b9de-b7b369f5df27
-        isrcs: []
+        isrcs:
+        - USJI10500066
+        title: Check the Rhime (Skeff’s mix)
+        length: 220305
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991'
       - id: d41c01ae-e95f-4d41-88d0-d4b2732162ca
         isrcs: []
+        title: The Tube
+        length: 235000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005'
       score: 0.98767143
     - id: 297ffb2e-517f-4b94-a264-24784e93bb8d
       recordings:
       - id: 4bd3726c-c926-4637-b3b2-b5a5bf5417bf
-        isrcs: []
+        isrcs: *id001
+        title: Check the Rhime
+        length: 216737
+        video: false
+        disambiguation: LP version
+        firstReleaseDate: '1991-09-24'
       score: 0.9743539
     - id: ee0fe724-e2bc-4e3d-b4aa-e6ccbd95b5af
       recordings:
       - id: 4bd3726c-c926-4637-b3b2-b5a5bf5417bf
-        isrcs: []
+        isrcs: *id001
+        title: Check the Rhime
+        length: 216737
+        video: false
+        disambiguation: LP version
+        firstReleaseDate: '1991-09-24'
       score: 0.88643855
     status: ok

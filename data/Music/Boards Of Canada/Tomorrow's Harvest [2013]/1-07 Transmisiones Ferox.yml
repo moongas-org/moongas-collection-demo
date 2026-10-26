@@ -15,11 +15,22 @@ trackIdData:
     - id: d916febc-84fa-4984-abd9-4c821d32728d
       recordings:
       - id: eeca1d57-b7c9-452b-83d7-ba628484dbaf
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1300030
+        title: Transmisiones Ferox
+        length: 138186
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.9790678
     - id: aff9dfd4-9791-49d7-8268-d725893bc068
       recordings:
       - id: eeca1d57-b7c9-452b-83d7-ba628484dbaf
-        isrcs: []
+        isrcs: *id001
+        title: Transmisiones Ferox
+        length: 138186
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.8921371
     status: ok

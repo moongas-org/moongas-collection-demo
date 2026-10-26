@@ -15,11 +15,22 @@ trackIdData:
     - id: a69d4d69-211b-40b3-bf18-c022736e67af
       recordings:
       - id: 468ad231-50ab-4927-b1e6-ccd4a450c0a1
-        isrcs: []
+        isrcs: &id001
+        - USSM17500568
+        title: Love Me Tomorrow
+        length: 197026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.9717497
     - id: 0d8992ec-45b1-47e7-985b-0b818d432121
       recordings:
       - id: 468ad231-50ab-4927-b1e6-ccd4a450c0a1
-        isrcs: []
+        isrcs: *id001
+        title: Love Me Tomorrow
+        length: 197026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.969673
     status: ok

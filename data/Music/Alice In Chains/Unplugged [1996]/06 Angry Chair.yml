@@ -15,19 +15,54 @@ trackIdData:
     - id: 343b1691-cd21-4533-b6f9-914d12a1c05d
       recordings:
       - id: 15888174-b2f7-4094-b2a6-017f1b41684c
-        isrcs: []
+        isrcs:
+        - USSM19601542
+        title: Sludge Factory
+        length: 276000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       - id: 326b1103-1a91-41f7-8845-c86c4a5042f0
-        isrcs: []
+        isrcs: &id001
+        - USSM19601544
+        title: Angry Chair
+        length: 276000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       - id: 5f10a5a2-5ca6-4e06-96db-4d914337e608
-        isrcs: []
+        isrcs:
+        - USSM19501777
+        title: Again
+        length: 245066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       - id: 85747461-8e2d-4de5-a63c-9117c6f53052
-        isrcs: []
+        isrcs:
+        - USPR39609083
+        title: Sure Know Something
+        length: 254000
+        video: false
+        disambiguation: 'live in studio, 1995‐08‐09: Sony Music Studios, New York,
+          NY, USA'
+        firstReleaseDate: '1996-03-02'
       - id: e8811e12-99de-4bdf-85f3-d599505a19ce
         isrcs: []
+        title: Angry Chair
+        length: 276000
+        video: true
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-04-10'
       score: 0.9760021
     - id: d4b9b92b-47da-4b75-a913-e11fe6928210
       recordings:
       - id: 326b1103-1a91-41f7-8845-c86c4a5042f0
-        isrcs: []
+        isrcs: *id001
+        title: Angry Chair
+        length: 276000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       score: 0.84012395
     status: ok

@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 1a5eff3b-f952-4571-a2a0-0d461ed48c85
         isrcs: []
+        title: Go Ahead in the Rain
+        length: 235693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: 52368cbb-bd9a-47ca-ac01-baa1f5cfdd3e
-        isrcs: []
+        isrcs: &id001
+        - USJI10300148
+        title: Go Ahead in the Rain
+        length: 238026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       - id: 7ef4adb1-467c-419b-bd4f-58bc5e360042
         isrcs: []
+        title: Ham ’n’ Eggs
+        length: 234000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.97847444
     - id: 94923eb9-2b91-40c3-93ee-509d33993cf6
       recordings:
       - id: 52368cbb-bd9a-47ca-ac01-baa1f5cfdd3e
-        isrcs: []
+        isrcs: *id001
+        title: Go Ahead in the Rain
+        length: 238026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.71878296
     status: ok

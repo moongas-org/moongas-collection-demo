@@ -15,13 +15,29 @@ trackIdData:
     - id: 344cf41e-09e6-4fbf-811a-266b25c3ad70
       recordings:
       - id: 7ae7dc7f-852c-4737-bf4c-acb0e5c2ad34
-        isrcs: []
+        isrcs: &id001
+        - BEZ350800034
+        title: Actium
+        length: 456000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       - id: 8096a481-cdb1-4270-9507-653d3275c551
         isrcs: []
+        title: Acid Battery
+        length: 297000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2011-10
       score: 0.98513937
     - id: 6439f5db-4be6-43fb-8550-a9f3fa00a78c
       recordings:
       - id: 7ae7dc7f-852c-4737-bf4c-acb0e5c2ad34
-        isrcs: []
+        isrcs: *id001
+        title: Actium
+        length: 456000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-11-01'
       score: 0.97322243
     status: ok

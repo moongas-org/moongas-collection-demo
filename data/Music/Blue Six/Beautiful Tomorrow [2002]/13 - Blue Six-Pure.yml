@@ -15,15 +15,36 @@ trackIdData:
     - id: 5e6695be-0ee4-4d47-95f6-56b32017250d
       recordings:
       - id: 7e6bf132-97ab-4577-a671-4716cd917f98
-        isrcs: []
+        isrcs: &id001
+        - USCN39900193
+        title: Pure
+        length: 267000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-08-05'
       - id: c93897e2-13a1-4021-b67b-8a58cd0f56da
         isrcs: []
+        title: Pure (Jay’s original vocal)
+        length: 267000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-10-02'
       score: 0.9732331
     - id: fdefbedd-18ea-474e-bbe9-bda443a56236
       recordings:
       - id: 7e6bf132-97ab-4577-a671-4716cd917f98
-        isrcs: []
+        isrcs: *id001
+        title: Pure
+        length: 267000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-08-05'
       - id: c93897e2-13a1-4021-b67b-8a58cd0f56da
         isrcs: []
+        title: Pure (Jay’s original vocal)
+        length: 267000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-10-02'
       score: 0.86145175
     status: ok

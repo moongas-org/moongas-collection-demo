@@ -15,19 +15,52 @@ trackIdData:
     - id: b18507c7-7e29-4da6-acee-f431e25adcea
       recordings:
       - id: 01dca183-110f-4cfa-b2c2-7bb36a1163ff
-        isrcs: []
+        isrcs: &id001
+        - USSM19601540
+        title: Brother
+        length: 327000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       - id: 1bccef85-d62e-493f-b4d2-177572b8b920
-        isrcs: []
+        isrcs:
+        - USSM19601551
+        title: Killer Is Me
+        length: 323480
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       - id: 5c567dc6-f027-43fd-857a-59b905a555ec
-        isrcs: []
+        isrcs:
+        - USSM19501773
+        title: Brush Away
+        length: 202093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       - id: 950c4225-c50e-4b4b-b8a1-c3a211cc72fb
         isrcs: []
+        title: Brother
+        length: 321360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1999-05
       - id: ca5fa2cb-f017-411b-aea4-cb6953cdd097
         isrcs: []
+        title: Brother
+        length: 318000
+        video: true
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-04-10'
       score: 0.9662777
     - id: 0a1024a7-4a1b-45fd-953c-b68de9f77beb
       recordings:
       - id: 01dca183-110f-4cfa-b2c2-7bb36a1163ff
-        isrcs: []
+        isrcs: *id001
+        title: Brother
+        length: 327000
+        video: false
+        disambiguation: 'live, 1996‐04‐10: Majestic Theatre, Brooklyn, NY, USA'
+        firstReleaseDate: '1996-07-29'
       score: 0.67302877
     status: ok

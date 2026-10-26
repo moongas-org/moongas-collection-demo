@@ -15,17 +15,44 @@ trackIdData:
     - id: f03f2fe0-f2d9-46e3-a894-e90d9bf5a4e2
       recordings:
       - id: 40b71a2f-b614-4fe3-a76e-ba9273fde182
-        isrcs: []
+        isrcs: &id001
+        - USIR10500509
+        title: Be Yourself
+        length: 279040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-03-29'
       - id: 57e9cd6b-b823-43ed-9e6b-adc4c70003a7
         isrcs: []
+        title: Be Yourself
+        length: 282000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       - id: ddc78e3e-6fd2-4c56-bd54-c5318f550be4
         isrcs: []
+        title: Be Yourself
+        length:
+        video: false
+        disambiguation: 'live, 2005-05-21: KROQ Weenie Roast, Verizon Wireless Amphitheater,
+          Irvine, CA, USA'
+        firstReleaseDate:
       score: 0.9736946
     - id: f0852393-e269-4a3e-ac58-7154dacba9d1
       recordings:
       - id: 40b71a2f-b614-4fe3-a76e-ba9273fde182
-        isrcs: []
+        isrcs: *id001
+        title: Be Yourself
+        length: 279040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-03-29'
       - id: 57e9cd6b-b823-43ed-9e6b-adc4c70003a7
         isrcs: []
+        title: Be Yourself
+        length: 282000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       score: 0.94610363
     status: ok

@@ -15,16 +15,32 @@ trackIdData:
     - id: 2b53adb4-f7bd-4f6d-b45f-6f21f5bbd905
       recordings:
       - id: 97172929-e79d-43d9-92e8-7c0da4f3c5f4
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1300035
+        title: Uritual
+        length: 119466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.99917644
     - id: a4de349d-a37d-46c6-b6fd-66f6343edfa6
       recordings:
       - id: 97172929-e79d-43d9-92e8-7c0da4f3c5f4
-        isrcs: []
+        isrcs: *id001
+        title: Uritual
+        length: 119466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.90491295
     - id: cad46afd-3072-438e-a978-fdfc64b82975
       recordings:
       - id: 97172929-e79d-43d9-92e8-7c0da4f3c5f4
-        isrcs: []
+        isrcs: *id001
+        title: Uritual
+        length: 119466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-06-05'
       score: 0.84443915
     status: ok

@@ -16,14 +16,36 @@ trackIdData:
       recordings:
       - id: 840f538c-7b8f-4cd3-bb31-7bed88e9af1a
         isrcs: []
+        title: Untitled
+        length: 131000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       - id: 93223be6-542c-4716-a6cf-d971b66857fa
-        isrcs: []
+        isrcs: &id001
+        - US29V0422316
+        title: Extro
+        length: 128214
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-03-19'
       - id: a7e6f7b4-eea9-47ae-8a51-1ef2c73dd010
-        isrcs: []
+        isrcs:
+        - US29V0422315
+        title: Intro
+        length: 45000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.98124343
     - id: 963c5319-318b-4856-a5ec-1f14740e5f6a
       recordings:
       - id: 93223be6-542c-4716-a6cf-d971b66857fa
-        isrcs: []
+        isrcs: *id001
+        title: Extro
+        length: 128214
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-03-19'
       score: 0.8241693
     status: ok

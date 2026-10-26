@@ -16,28 +16,90 @@ trackIdData:
       recordings:
       - id: 2a69d387-bd3a-4bfb-8289-efe316f8e925
         isrcs: []
+        title: Thomas
+        length:
+        video: false
+        disambiguation: 'live, 2001‐03‐31: Roy Wilkins Auditorium, St. Paul, MN, USA'
+        firstReleaseDate:
       - id: 5c52b574-b83b-4c40-9fc6-c5c287665548
         isrcs: []
+        title: Thomas
+        length:
+        video: false
+        disambiguation: 'live, 2001-03-27: Memorial Athletic and Convocation Center,
+          Kent, OH, USA'
+        firstReleaseDate:
       - id: 818b0251-d222-43a7-95e3-fee209221e58
         isrcs: []
+        title: Thomas
+        length: 215266
+        video: false
+        disambiguation: 'live, 2000-06-04: America West Arena, Phoenix, AZ, USA'
+        firstReleaseDate:
       - id: 884d26d1-54f3-4c7a-bdd5-a9ba0a701771
         isrcs: []
+        title: Thomas
+        length:
+        video: false
+        disambiguation: 'live, 1999-09-02: The Key Club, Hollywood, CA, USA'
+        firstReleaseDate:
       - id: a40eef19-df2e-49db-9e74-de7c67f2ef89
-        isrcs: []
+        isrcs:
+        - QMEJX1300009
+        title: Thomas
+        length: 230000
+        video: false
+        disambiguation: 'live, 2010: USA'
+        firstReleaseDate: '2013-12-02'
       - id: aafbc8a7-cef4-490d-8bfe-8427fbe5a3c3
         isrcs: []
+        title: Thomas
+        length: 223000
+        video: false
+        disambiguation: 'live, 2000-06-04: America West Arena, Phoenix, AZ, USA'
+        firstReleaseDate: '2000-05-23'
       - id: bf212788-fe39-493c-92c1-edb29ea1c2f0
-        isrcs: []
+        isrcs:
+        - USVI20000051
+        title: Thomas
+        length: 211400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: c25a7be6-3cf7-4702-af2e-09f1a0ac0642
         isrcs: []
+        title: Thomas
+        length:
+        video: false
+        disambiguation: 'live, 1999-10-27: The Warfield Theatre, San Francisco, CA,
+          USA'
+        firstReleaseDate:
       - id: e24b0f9d-70ee-431e-bc76-945e8d42b8a0
-        isrcs: []
+        isrcs: &id001
+        - QMEJX1300009
+        - USVI20000051
+        title: Thomas
+        length: 209373
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: ef82f1dd-111f-4cd3-aca0-e37363c5a85d
         isrcs: []
+        title: Thomas
+        length: 206893
+        video: false
+        disambiguation: 'live, 1999-10-18: Perfect Angels: Nile Theatre, Mesa, AZ,
+          USA'
+        firstReleaseDate:
       score: 0.9669699
     - id: d2c15689-0ee7-4073-922a-a92f17079f46
       recordings:
       - id: e24b0f9d-70ee-431e-bc76-945e8d42b8a0
-        isrcs: []
+        isrcs: *id001
+        title: Thomas
+        length: 209373
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.612144
     status: ok

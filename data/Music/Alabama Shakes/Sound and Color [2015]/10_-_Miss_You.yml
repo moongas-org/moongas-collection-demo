@@ -15,13 +15,30 @@ trackIdData:
     - id: 4fab5138-e11d-45fd-868d-c0bbf82a6fa5
       recordings:
       - id: 3a31789d-535f-4eee-bb35-ea54b7e38773
-        isrcs: []
+        isrcs: &id001
+        - QM9AA1694806
+        - USATO1400859
+        title: Miss You
+        length: 227000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       - id: ddfd7163-a3a7-4896-be02-36136b82a04a
         isrcs: []
+        title: Miss You
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-22'
       score: 0.99726397
     - id: 44a5422b-c680-4698-9c59-8dd5a45d4232
       recordings:
       - id: 3a31789d-535f-4eee-bb35-ea54b7e38773
-        isrcs: []
+        isrcs: *id001
+        title: Miss You
+        length: 227000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-04-17'
       score: 0.5814544
     status: ok

@@ -15,21 +15,66 @@ trackIdData:
     - id: f450dfc6-a4cc-4e45-a3ad-027503b0a0ca
       recordings:
       - id: 0228afad-4f8d-4502-95da-3288347f67e1
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601273
+        - GBAJE7300022
+        - USWB10202654
+        - USWB11304635
+        title: Sabbath Bloody Sabbath
+        length: 345026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-11
       - id: 57d35c1b-26ff-4ec4-8f5b-58b572d4513a
-        isrcs: []
+        isrcs:
+        - USDPS0600627
+        title: Sabbath Bloody Sabbath
+        length: 348000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-06-01'
       score: 0.96347576
     - id: fb39600e-5fe5-4b5e-9a45-024f10def579
       recordings:
       - id: 0228afad-4f8d-4502-95da-3288347f67e1
-        isrcs: []
+        isrcs: *id001
+        title: Sabbath Bloody Sabbath
+        length: 345026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-11
       - id: 43054049-a05a-4834-a82c-de61dd6b9c4e
-        isrcs: []
+        isrcs:
+        - GB5KW1601285
+        - GBAJE7200133
+        - USRH12003001
+        - USWB10202649
+        - USWB11304622
+        title: Snowblind
+        length: 328373
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-25'
       - id: 7fa049d6-b719-4070-9917-5dc2e950e59e
         isrcs: []
+        title: Sabbath Bloody Sabbath
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973'
       - id: ad6f4345-b9b8-455a-84eb-b3869e442059
         isrcs: []
+        title: Sabbath, Bloody Sabbath
+        length: 334000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: cb90e72c-c709-4f7e-aefb-64ba201db18e
         isrcs: []
+        title: Sabbath Bloody Sabbath
+        length: 334000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9417194
     status: ok

@@ -15,16 +15,33 @@ trackIdData:
     - id: 8c19ddfd-4e34-42c3-9de8-5b0ea1106f99
       recordings:
       - id: 2b14a6e4-c382-497b-8a4a-b0a38cb4bafe
-        isrcs: []
+        isrcs: &id001
+        - USSM17700406
+        - USSM19917727
+        title: Goin’ Through the Motions
+        length: 193120
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-10
       score: 0.9684863
     - id: b8bed129-cf78-49f6-affd-d4bce71f145e
       recordings:
       - id: 2b14a6e4-c382-497b-8a4a-b0a38cb4bafe
-        isrcs: []
+        isrcs: *id001
+        title: Goin’ Through the Motions
+        length: 193120
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-10
       score: 0.9651899
     - id: 0060c8f1-92fe-4215-8123-6f4b16042c22
       recordings:
       - id: 2b14a6e4-c382-497b-8a4a-b0a38cb4bafe
-        isrcs: []
+        isrcs: *id001
+        title: Goin’ Through the Motions
+        length: 193120
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-10
       score: 0.78177744
     status: ok

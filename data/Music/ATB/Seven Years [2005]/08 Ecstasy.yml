@@ -16,16 +16,42 @@ trackIdData:
       recordings:
       - id: 3523bb6c-acbc-4fcc-8574-a13d558d2e4c
         isrcs: []
+        title: Ecstasy
+        length: 247000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: 4b1602e7-5b00-4127-b97c-5706a6b89eb8
         isrcs: []
+        title: Ecstasy
+        length: 261000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021'
       - id: 9ddae744-757d-4b83-89fb-bab6a5729018
-        isrcs: []
+        isrcs: &id001
+        - DEN060500184
+        title: Ecstasy
+        length: 248680
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       - id: fa5126ac-ec2c-45ef-9647-1bb941135eb9
         isrcs: []
+        title: Ecstasy
+        length: 246000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-08-09'
       score: 0.9979562
     - id: e05eec87-83bf-47ea-a684-dddcaac57f11
       recordings:
       - id: 9ddae744-757d-4b83-89fb-bab6a5729018
-        isrcs: []
+        isrcs: *id001
+        title: Ecstasy
+        length: 248680
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       score: 0.7198249
     status: ok

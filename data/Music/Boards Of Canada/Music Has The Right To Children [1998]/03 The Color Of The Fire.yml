@@ -15,25 +15,51 @@ trackIdData:
     - id: d1a25088-c6af-4a88-bb9d-e651f87e7e1d
       recordings:
       - id: 7aecd7c0-dd37-487a-9b52-a76dc6054495
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9800012
+        title: The Color of the Fire
+        length: 105440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.97957766
     - id: c0d7e124-af63-41c9-92c7-75d30d81086b
       recordings:
       - id: 281b09d1-1ac3-49eb-ae8d-3083498b0482
         isrcs: []
+        title: Godever
+        length: 106000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 7aecd7c0-dd37-487a-9b52-a76dc6054495
-        isrcs: []
+        isrcs: *id001
+        title: The Color of the Fire
+        length: 105440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.9768825
     - id: 9c8979d4-bbb5-45ab-9b3f-1c672cb39c73
       recordings:
       - id: 3d0ed8d7-e772-4560-bfd1-363cdbc5be9d
         isrcs: []
+        title: Someone Loves Me
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-04-20'
       score: 0.8614032
     - id: 28a6f780-b682-4433-ad67-4f5b591bac90
       score: 0.79343975
     - id: 903974f1-2d4c-4b49-b0ca-1fe440670f79
       recordings:
       - id: 7aecd7c0-dd37-487a-9b52-a76dc6054495
-        isrcs: []
+        isrcs: *id001
+        title: The Color of the Fire
+        length: 105440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.695371
     status: ok

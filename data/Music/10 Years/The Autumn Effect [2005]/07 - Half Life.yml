@@ -16,12 +16,29 @@ trackIdData:
       recordings:
       - id: 22638f59-363a-4ed4-a7b5-7ee866f8ebb0
         isrcs: []
+        title: Cycle of Life
+        length: 238000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-05-13'
       - id: 2732a8c2-0541-48ef-b151-f8edf702f09b
-        isrcs: []
+        isrcs: &id001
+        - USUM70500575
+        - USUM70500986
+        title: Half Life
+        length: 256760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-16'
       score: 0.97247493
     - id: b72002aa-0122-4f34-a1f2-cd3c9f09aa83
       recordings:
       - id: 2732a8c2-0541-48ef-b151-f8edf702f09b
-        isrcs: []
+        isrcs: *id001
+        title: Half Life
+        length: 256760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-16'
       score: 0.7204971
     status: ok

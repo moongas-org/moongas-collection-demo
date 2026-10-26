@@ -16,16 +16,43 @@ trackIdData:
       recordings:
       - id: 2509e70f-d6bd-4f3e-8846-99a56325a612
         isrcs: []
+        title: High Tide or Low Tide (Jamaican version)
+        length: 285000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate:
       - id: 994f2ed2-e47f-4c75-8ec7-6478521c5f83
         isrcs: []
+        title: High Tide or Low Tide
+        length: 284800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       - id: abec0982-c14c-4c5a-b53a-565a8ce207ca
-        isrcs: []
+        isrcs:
+        - GBUM70905105
+        title: High Tide or Low Tide
+        length: 281773
+        video: false
+        disambiguation: B Is for Bob mix
+        firstReleaseDate: '2009-01-01'
       - id: fbaacb52-4acc-4bdd-a3b8-ebd3b1d41183
-        isrcs: []
+        isrcs: &id001
+        - GBAPA0100002
+        title: High Tide or Low Tide
+        length: 284733
+        video: false
+        disambiguation: original Jamaican version
+        firstReleaseDate: '2001-03-21'
       score: 0.96347576
     - id: bee2c664-a13b-4329-b809-ab29aa6006a6
       recordings:
       - id: fbaacb52-4acc-4bdd-a3b8-ebd3b1d41183
-        isrcs: []
+        isrcs: *id001
+        title: High Tide or Low Tide
+        length: 284733
+        video: false
+        disambiguation: original Jamaican version
+        firstReleaseDate: '2001-03-21'
       score: 0.95566326
     status: ok

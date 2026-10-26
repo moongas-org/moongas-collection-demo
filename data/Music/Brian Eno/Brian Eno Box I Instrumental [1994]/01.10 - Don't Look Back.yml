@@ -15,16 +15,32 @@ trackIdData:
     - id: ed91b904-71a5-409e-bf07-fb1cfa46bf0d
       recordings:
       - id: 63e4e33b-73e5-4da2-bdb9-39940ceae212
-        isrcs: []
+        isrcs: &id001
+        - GBAAA0500066
+        title: Don’t Look Back
+        length: 57466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1993-11
       score: 0.99908245
     - id: 49b0cc4a-666e-4680-a2f8-7bd0cd456279
       recordings:
       - id: 63e4e33b-73e5-4da2-bdb9-39940ceae212
-        isrcs: []
+        isrcs: *id001
+        title: Don’t Look Back
+        length: 57466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1993-11
       score: 0.9690875
     - id: 24cd3505-15a1-45fc-ad93-4456be42683e
       recordings:
       - id: 63e4e33b-73e5-4da2-bdb9-39940ceae212
-        isrcs: []
+        isrcs: *id001
+        title: Don’t Look Back
+        length: 57466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1993-11
       score: 0.84194463
     status: ok

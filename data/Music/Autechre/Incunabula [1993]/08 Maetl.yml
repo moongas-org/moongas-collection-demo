@@ -15,11 +15,22 @@ trackIdData:
     - id: c0928c89-b9c3-4b1c-8b93-b2af996e9476
       recordings:
       - id: 0ff927b7-fbf0-4aab-b075-8dc210e1f305
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9300131
+        title: Maetl
+        length: 392933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-29'
       score: 0.98246306
     - id: e4e91ac2-0f07-4bfb-9034-0e86f4a82cde
       recordings:
       - id: 0ff927b7-fbf0-4aab-b075-8dc210e1f305
-        isrcs: []
+        isrcs: *id001
+        title: Maetl
+        length: 392933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-29'
       score: 0.89784414
     status: ok

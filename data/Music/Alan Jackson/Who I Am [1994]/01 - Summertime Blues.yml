@@ -15,27 +15,65 @@ trackIdData:
     - id: b31cf187-4a7c-4406-88ae-34091d082068
       recordings:
       - id: 4ec0ff75-d530-4b84-91e8-2dd224ebce58
-        isrcs: []
+        isrcs:
+        - USAN20600069
+        title: Good Imitation of the Blues
+        length: 204426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-09-26'
       - id: 8aff3969-faff-482b-8324-8bf5ba4b4c37
         isrcs: []
+        title: Summertime Blues
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017'
       - id: adf7d2a8-29d4-4d5f-9e8f-89c87d3ed7d0
-        isrcs: []
+        isrcs: &id001
+        - USAN20000189
+        - USAN21000120
+        title: Summertime Blues
+        length: 193000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-06-28'
       - id: ddca2ded-988e-4e14-a023-d2560cb9c54c
         isrcs: []
+        title: Summertimes Blues
+        length: 200213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-30'
       score: 0.955004
     - id: c4d3d0d4-e698-4a43-818c-58c029e205ac
       recordings:
       - id: adf7d2a8-29d4-4d5f-9e8f-89c87d3ed7d0
-        isrcs: []
+        isrcs: *id001
+        title: Summertime Blues
+        length: 193000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-06-28'
       score: 0.95104825
     - id: a8afb0c8-3f60-4ce0-b436-6f16b1d9f411
       recordings:
       - id: adf7d2a8-29d4-4d5f-9e8f-89c87d3ed7d0
-        isrcs: []
+        isrcs: *id001
+        title: Summertime Blues
+        length: 193000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-06-28'
       score: 0.6972574
     - id: 4f1b1c6c-4db9-47b5-a928-80b867194fc7
       recordings:
       - id: adf7d2a8-29d4-4d5f-9e8f-89c87d3ed7d0
-        isrcs: []
+        isrcs: *id001
+        title: Summertime Blues
+        length: 193000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-06-28'
       score: 0.69646627
     status: ok

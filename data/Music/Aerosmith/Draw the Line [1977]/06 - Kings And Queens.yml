@@ -16,12 +16,29 @@ trackIdData:
       recordings:
       - id: bcab0e08-675a-47de-ba9f-8272724502d3
         isrcs: []
+        title: Kings and Queens
+        length: 226160
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: db19d7d2-a20b-4722-9cac-9c8d06b9a814
-        isrcs: []
+        isrcs: &id001
+        - USSM10020156
+        - USUG12301901
+        title: Kings and Queens
+        length: 229000
+        video: false
+        disambiguation: single version
+        firstReleaseDate: 1980-10
       score: 0.9808149
     - id: 0a272d14-ff4e-4da3-bb51-374649e4433f
       recordings:
       - id: db19d7d2-a20b-4722-9cac-9c8d06b9a814
-        isrcs: []
+        isrcs: *id001
+        title: Kings and Queens
+        length: 229000
+        video: false
+        disambiguation: single version
+        firstReleaseDate: 1980-10
       score: 0.9084586
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: 36a4b70a-b784-49a3-941a-70b480865497
       recordings:
       - id: cb6d5d36-33e7-4e7a-b233-fd9f610cafe2
-        isrcs: []
+        isrcs: &id001
+        - USA370538449
+        title: No More
+        length: 148000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981-11-16'
       score: 0.9636076
     - id: fddc1765-c21c-4473-8150-836cd97ca4fa
       recordings:
       - id: cb6d5d36-33e7-4e7a-b233-fd9f610cafe2
-        isrcs: []
+        isrcs: *id001
+        title: No More
+        length: 148000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981-11-16'
       score: 0.849288
     status: ok

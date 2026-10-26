@@ -15,28 +15,77 @@ trackIdData:
     - id: 8514e3d6-9df3-4743-b006-c0ad5bed40c9
       recordings:
       - id: 1001f481-e93e-4107-b640-cf289a122335
-        isrcs: []
+        isrcs: &id001
+        - GBDNH0400385
+        - GBGEY0400013
+        - USDM30301069
+        title: Banquet
+        length: 200360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-05-03'
       - id: 6bade1ca-281f-4423-af7d-d1d28676304f
         isrcs: []
+        title: Banquet Demo
+        length: 194848
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-03-24'
       - id: 92e2656c-4b25-4d2e-8740-3c082e701704
-        isrcs: []
+        isrcs:
+        - USSM10102936
+        title: Sally (demo)
+        length: 160000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-06-26'
       - id: a99bfa9d-f3af-4545-b8f4-1ae28ac8a588
         isrcs: []
+        title: Banquet
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-14'
       - id: b27242f6-678a-4cab-b1a8-9adecffc6687
         isrcs: []
+        title: Banquet
+        length: 198000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-08-15'
       score: 0.9656514
     - id: c7b5eff9-c0dc-4c64-a253-12472030403a
       recordings:
       - id: 1001f481-e93e-4107-b640-cf289a122335
-        isrcs: []
+        isrcs: *id001
+        title: Banquet
+        length: 200360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-05-03'
       - id: 994e9588-7b6e-4fd9-b697-6d9074123695
         isrcs: []
+        title: Banquet (2005)
+        length: 194000
+        video: true
+        disambiguation: video
+        firstReleaseDate: '2005-10-17'
       - id: a99bfa9d-f3af-4545-b8f4-1ae28ac8a588
         isrcs: []
+        title: Banquet
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-02-14'
       score: 0.90750265
     - id: d64ef024-a966-4baa-bc92-c0f230c2b2d6
       recordings:
       - id: 1001f481-e93e-4107-b640-cf289a122335
-        isrcs: []
+        isrcs: *id001
+        title: Banquet
+        length: 200360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-05-03'
       score: 0.7286063
     status: ok

@@ -16,16 +16,42 @@ trackIdData:
       recordings:
       - id: 1960dee0-54af-40cf-bcd8-c5809775d1a2
         isrcs: []
+        title: We Used to Wait
+        length: 301000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       - id: 2312aa57-02ff-481c-afba-4ae0f7fa3ca0
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021644
+        title: We Used to Wait
+        length: 301400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: b572ec40-3bc2-4a1e-bf3f-8f077613ab3c
         isrcs: []
+        title: ブタブタKブタ
+        length: 301000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002'
       - id: cbfa78b8-e676-46d9-bf2e-7309e0e823ad
         isrcs: []
+        title: We Used to Wait
+        length: 301000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       score: 0.98523206
     - id: 311c46bc-89fa-4017-96ba-707b51454c43
       recordings:
       - id: 2312aa57-02ff-481c-afba-4ae0f7fa3ca0
-        isrcs: []
+        isrcs: *id001
+        title: We Used to Wait
+        length: 301400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.9526305
     status: ok

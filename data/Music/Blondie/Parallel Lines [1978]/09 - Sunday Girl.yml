@@ -16,16 +16,43 @@ trackIdData:
       recordings:
       - id: 22615e33-c5c1-4c9c-bfd1-3c7fab5e6bd7
         isrcs: []
+        title: Sunday Girl
+        length: 186093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: 3af1db74-424d-4f3f-9ea5-73ab4dd65d19
-        isrcs: []
+        isrcs: &id001
+        - USCH30200017
+        title: Sunday Girl
+        length: 184426
+        video: false
+        disambiguation: special mix
+        firstReleaseDate: '1981-10-31'
       - id: d3fd5dc7-e955-45ab-a26d-db870e945738
-        isrcs: []
+        isrcs:
+        - USCH38500022
+        title: Sunday Girl (French version)
+        length: 191000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988-12-17'
       - id: e83ea29b-3529-4b6b-b5ad-32253a84d942
         isrcs: []
+        title: Sunday Girl
+        length: 185066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2024-09-06'
       score: 0.99116564
     - id: f2105c5d-2362-4c34-8df6-e737e2aa7e60
       recordings:
       - id: 3af1db74-424d-4f3f-9ea5-73ab4dd65d19
-        isrcs: []
+        isrcs: *id001
+        title: Sunday Girl
+        length: 184426
+        video: false
+        disambiguation: special mix
+        firstReleaseDate: '1981-10-31'
       score: 0.8100277
     status: ok

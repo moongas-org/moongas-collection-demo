@@ -15,15 +15,39 @@ trackIdData:
     - id: d044216c-4a36-4448-922a-025308eeb4fa
       recordings:
       - id: 1ed5d688-5468-4028-b8b2-cd1bab2dbbf0
-        isrcs: []
+        isrcs: &id001
+        - USSM10000373
+        - USSM17100269
+        - USSM17300308
+        - USSM18500485
+        title: Grandma’s Hands
+        length: 120600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-05
       score: 0.9621572
     - id: 9bd6c3a1-b4b8-49fc-a13b-5a2b77eb575b
       recordings:
       - id: 1ed5d688-5468-4028-b8b2-cd1bab2dbbf0
-        isrcs: []
+        isrcs: *id001
+        title: Grandma’s Hands
+        length: 120600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-05
       - id: b80e4324-6b45-44d8-a7ed-3c6292c3a441
         isrcs: []
+        title: Grandma’s Hands (5.1 mix)
+        length: 121000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-10-11'
       - id: c09684a4-dd11-4ab9-aac4-fe2a4718c70b
         isrcs: []
+        title: Grandma’s Hands (live)
+        length: 121000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009'
       score: 0.96024525
     status: ok

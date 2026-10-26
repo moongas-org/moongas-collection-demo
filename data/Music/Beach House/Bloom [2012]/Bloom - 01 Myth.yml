@@ -16,21 +16,55 @@ trackIdData:
       recordings:
       - id: 6633a519-451a-4bd5-9811-e5cfbe475e36
         isrcs: []
+        title: Myth
+        length: 258653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-09-04'
       - id: d9eed2f2-76c1-4d75-afc2-7c9944201090
         isrcs: []
+        title: Myth
+        length: 255133
+        video: false
+        disambiguation: live
+        firstReleaseDate: '2013-09-02'
       - id: eea564f4-4dc5-4115-adad-d03edb631e8c
-        isrcs: []
+        isrcs: &id001
+        - AUVB01200001
+        - GBBRP1233401
+        - USSUB1202101
+        - USSUB1296501
+        title: Myth
+        length: 258653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-03-20'
       score: 0.9938357
     - id: d25580a8-a5a5-4b12-ad12-b521da9a9802
       recordings:
       - id: eea564f4-4dc5-4115-adad-d03edb631e8c
-        isrcs: []
+        isrcs: *id001
+        title: Myth
+        length: 258653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-03-20'
       score: 0.9840454
     - id: ef9692b0-a73d-4ccb-8556-952603ca783d
       recordings:
       - id: bc64cecb-144d-4dc2-8753-bb25d2cb96f9
         isrcs: []
+        title: Myth
+        length: 260653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-08-31'
       - id: eea564f4-4dc5-4115-adad-d03edb631e8c
-        isrcs: []
+        isrcs: *id001
+        title: Myth
+        length: 258653
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-03-20'
       score: 0.9617616
     status: ok

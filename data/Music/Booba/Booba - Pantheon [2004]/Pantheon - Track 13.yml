@@ -15,11 +15,22 @@ trackIdData:
     - id: f564b41b-576b-45d0-bd89-d42b668bc71a
       recordings:
       - id: 709268d6-0003-4e12-9fe7-789e3f45cc0c
-        isrcs: []
+        isrcs: &id001
+        - FR8R60480150
+        title: Avant de partir
+        length: 324000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-11-01'
       score: 0.9855617
     - id: 7f72290b-98b6-488b-a73b-8cbc58bd709f
       recordings:
       - id: 709268d6-0003-4e12-9fe7-789e3f45cc0c
-        isrcs: []
+        isrcs: *id001
+        title: Avant de partir
+        length: 324000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-11-01'
       score: 0.9684863
     status: ok

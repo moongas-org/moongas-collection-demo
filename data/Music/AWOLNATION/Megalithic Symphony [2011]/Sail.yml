@@ -16,18 +16,50 @@ trackIdData:
       recordings:
       - id: 102723a6-1da9-4cff-b232-49f4e8f32e5d
         isrcs: []
+        title: Sail
+        length: 248000
+        video: true
+        disambiguation: unofficial video by nanalew
+        firstReleaseDate:
       - id: 53113b37-5bc8-453b-bf54-d6d2fd44d538
         isrcs: []
+        title: Sail (radio edit)
+        length: 238000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       - id: 66ec33c4-5ad2-4d7e-a6a6-25b00c413c40
         isrcs: []
+        title: Sail (UK radio edit)
+        length: 222000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: ce0009a9-7c7b-4e2f-9ed0-5533d434e75c
-        isrcs: []
+        isrcs: &id001
+        - USP6L1000053
+        - USPL61000053
+        title: Sail
+        length: 259093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-18'
       - id: ffd58a5a-4dc6-4549-bae8-f7bcd1473476
         isrcs: []
+        title: Sail
+        length: 259000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: 2013-07
       score: 0.9835509
     - id: d990b1fa-205e-42f0-a4a3-d2eaf34f554d
       recordings:
       - id: ce0009a9-7c7b-4e2f-9ed0-5533d434e75c
-        isrcs: []
+        isrcs: *id001
+        title: Sail
+        length: 259093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-05-18'
       score: 0.982529
     status: ok

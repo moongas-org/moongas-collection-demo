@@ -15,15 +15,36 @@ trackIdData:
     - id: 1ad46b52-fd71-4b7b-9d8b-0b6cf80fd964
       recordings:
       - id: 38f5b670-6131-4f8b-9cb8-763c9323a6df
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021640
+        title: Suburban War
+        length: 285133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: 5f92911f-fe3d-428e-be93-7c76760062cd
         isrcs: []
+        title: Suburban War
+        length: 285000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       score: 0.9860232
     - id: 7afb5146-0881-4d1b-b0c8-f2302d4ae7a4
       recordings:
       - id: 38f5b670-6131-4f8b-9cb8-763c9323a6df
-        isrcs: []
+        isrcs: *id001
+        title: Suburban War
+        length: 285133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: c446c4be-e18b-4f58-891b-1b396f50919f
         isrcs: []
+        title: Suburban War
+        length: 285000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       score: 0.98434204
     status: ok

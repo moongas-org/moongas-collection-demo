@@ -16,12 +16,28 @@ trackIdData:
       recordings:
       - id: 637f2097-d922-418a-8587-8a0feb5ba228
         isrcs: []
+        title: If I Had $1,000,000
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       - id: c8964f0b-841a-4876-8633-c26ff4b9aa34
-        isrcs: []
+        isrcs: &id001
+        - USRE19900117
+        title: If I Had $1000000
+        length: 267000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-07-28'
       score: 0.99370384
     - id: 1b4863fc-7fd7-411e-85f5-c5b475640d30
       recordings:
       - id: c8964f0b-841a-4876-8633-c26ff4b9aa34
-        isrcs: []
+        isrcs: *id001
+        title: If I Had $1000000
+        length: 267000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-07-28'
       score: 0.9934072
     status: ok

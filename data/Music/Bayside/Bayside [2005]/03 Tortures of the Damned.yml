@@ -15,11 +15,22 @@ trackIdData:
     - id: bfc17ff9-cd43-43d6-9e64-889123e729a5
       recordings:
       - id: 6835dcbc-c06c-4804-a977-08034495e673
-        isrcs: []
+        isrcs: &id001
+        - USVIC0525803
+        title: Tortures of the Damned
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-23'
       score: 0.9702004
     - id: 56f56282-bd9f-4563-8ef5-d8ddea843e15
       recordings:
       - id: 6835dcbc-c06c-4804-a977-08034495e673
-        isrcs: []
+        isrcs: *id001
+        title: Tortures of the Damned
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-08-23'
       score: 0.8608254
     status: ok

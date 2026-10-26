@@ -16,12 +16,30 @@ trackIdData:
       recordings:
       - id: 5e7f4f14-ce68-42fd-a36d-1dda992c04da
         isrcs: []
+        title: Turquoise Hexagon Sun
+        length: 306003
+        video: false
+        disambiguation: 'live, 2002-02-22: Helter Skelter, Aligre FM 93.1, Paris,
+          France'
+        firstReleaseDate: '2002'
       - id: a4ec6700-5ddb-4d4f-98b0-f82a480c50e0
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9800016
+        - GBLJH1410802
+        title: Turquoise Hexagon Sun
+        length: 307893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-12-01'
       score: 0.98322123
     - id: ed274a5d-f0dc-49f4-a037-1b67f4afc43b
       recordings:
       - id: a4ec6700-5ddb-4d4f-98b0-f82a480c50e0
-        isrcs: []
+        isrcs: *id001
+        title: Turquoise Hexagon Sun
+        length: 307893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-12-01'
       score: 0.9820516
     status: ok

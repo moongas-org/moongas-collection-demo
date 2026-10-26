@@ -15,19 +15,50 @@ trackIdData:
     - id: 169f01ab-7447-4cc8-96c7-f2d2dd549466
       recordings:
       - id: 41e6f343-9cbd-43ca-b2dc-ac796049163f
-        isrcs: []
+        isrcs: &id001
+        - USIR10500787
+        title: Your Time Has Come
+        length: 255426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-03'
       - id: 869ab333-cf5d-40c9-b39b-6af2881bb830
         isrcs: []
+        title: Your Time Has Come
+        length: 254000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       - id: fec6a75b-cf5d-46e2-a0f6-d4d0715b5eff
         isrcs: []
+        title: Your Time Has Come
+        length: 255400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       score: 0.9366759
     - id: e53dec7b-02c8-4c96-91dd-a939f5304593
       recordings:
       - id: 238d9344-a191-45c6-846b-61d36a270901
         isrcs: []
+        title: Your Time Has Come
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014'
       - id: 41e6f343-9cbd-43ca-b2dc-ac796049163f
-        isrcs: []
+        isrcs: *id001
+        title: Your Time Has Come
+        length: 255426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-03'
       - id: 869ab333-cf5d-40c9-b39b-6af2881bb830
         isrcs: []
+        title: Your Time Has Come
+        length: 254000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       score: 0.9275783
     status: ok

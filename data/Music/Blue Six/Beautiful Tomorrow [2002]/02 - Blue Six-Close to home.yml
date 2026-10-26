@@ -15,15 +15,36 @@ trackIdData:
     - id: b59126f1-f0b2-4f5c-aa58-41698fbfc09c
       recordings:
       - id: f6f2847f-5aa0-4eff-bb28-4e6630d5139c
-        isrcs: []
+        isrcs: &id001
+        - USCN30100195
+        title: Close to Home
+        length: 261866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       - id: f7f630ce-4292-4fdb-9953-5c36bb4c4cb9
         isrcs: []
+        title: Close To Home
+        length: 258000
+        video: false
+        disambiguation: part of a “Music for Cocktails, Part 2” DJ‐mix
+        firstReleaseDate: '2004'
       score: 0.9839794
     - id: ca6bd60c-74a0-467a-ad50-bc5770ab9d66
       recordings:
       - id: f6f2847f-5aa0-4eff-bb28-4e6630d5139c
-        isrcs: []
+        isrcs: *id001
+        title: Close to Home
+        length: 261866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       - id: f7f630ce-4292-4fdb-9953-5c36bb4c4cb9
         isrcs: []
+        title: Close To Home
+        length: 258000
+        video: false
+        disambiguation: part of a “Music for Cocktails, Part 2” DJ‐mix
+        firstReleaseDate: '2004'
       score: 0.95131195
     status: ok

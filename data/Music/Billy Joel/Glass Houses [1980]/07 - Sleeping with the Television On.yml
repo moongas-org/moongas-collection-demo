@@ -15,18 +15,42 @@ trackIdData:
     - id: 1b3cebf3-c510-490e-ba61-b4466c0218fe
       recordings:
       - id: 2e31e4c7-8670-4470-b667-a27f78229126
-        isrcs: []
+        isrcs:
+        - USSM17700369
+        - USSM17800261
+        title: Movin’ Out (Anthony’s Song)
+        length: 210000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977-09-29'
       - id: e5cd0564-fd67-499b-b9b8-ce040ddda76f
-        isrcs: []
+        isrcs: &id001
+        - USSM11100764
+        - USSM17900402
+        title: Sleeping With the Television On
+        length: 182533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       score: 0.98994595
     - id: 17fac5c5-622a-49eb-9eb8-2f1ffc88b490
       recordings:
       - id: e5cd0564-fd67-499b-b9b8-ce040ddda76f
-        isrcs: []
+        isrcs: *id001
+        title: Sleeping With the Television On
+        length: 182533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       score: 0.8657041
     - id: 770cb5cd-cc4a-448d-89b9-d87475664270
       recordings:
       - id: e5cd0564-fd67-499b-b9b8-ce040ddda76f
-        isrcs: []
+        isrcs: *id001
+        title: Sleeping With the Television On
+        length: 182533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       score: 0.7728771
     status: ok

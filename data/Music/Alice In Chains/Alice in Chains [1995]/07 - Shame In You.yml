@@ -15,19 +15,51 @@ trackIdData:
     - id: 834d3742-da75-4c7c-82a3-501c0711c338
       recordings:
       - id: 0b7ef57f-d919-4b88-a248-b0e2d697dcd9
-        isrcs: []
+        isrcs: &id001
+        - USSM19501778
+        title: Shame in You
+        length: 335933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       - id: 115c221d-1eb8-401a-a754-96f9ea747c81
         isrcs: []
+        title: Screwing Around
+        length:
+        video: false
+        disambiguation: 'live, 1992-11-27: The Channel, Boston, MA, USA'
+        firstReleaseDate:
       - id: 25642ea9-6312-4b1c-93af-e32ea99dd443
         isrcs: []
+        title: Put You Down
+        length:
+        video: false
+        disambiguation: 'live, 1992‐10‐08: Oakland–Alameda County Coliseum, Oakland,
+          CA, USA'
+        firstReleaseDate: '2017-07-24'
       - id: 3ecbde58-e8a4-4c08-9f2e-9c5898264866
         isrcs: []
+        title: My Life Is in Your Hands
+        length: 335000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-10-08'
       - id: f26a692b-d771-4366-b87c-7891d7db2c6e
         isrcs: []
+        title: Shame In You
+        length: 335000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       score: 0.98401237
     - id: 2fe97eb7-07bc-4d22-b7ba-73239d4a0eb5
       recordings:
       - id: 0b7ef57f-d919-4b88-a248-b0e2d697dcd9
-        isrcs: []
+        isrcs: *id001
+        title: Shame in You
+        length: 335933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       score: 0.7951279
     status: ok

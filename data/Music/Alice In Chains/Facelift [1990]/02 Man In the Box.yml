@@ -16,24 +16,73 @@ trackIdData:
       recordings:
       - id: 1514ff88-dd27-4146-b7a8-3aa26f7aeb15
         isrcs: []
+        title: Man in the Box
+        length:
+        video: false
+        disambiguation: 'live, 1992‐12‐20: Seattle Center Arena, Seattle, WA, USA'
+        firstReleaseDate:
       - id: 1b055a51-eac1-4b06-a28f-d0b8c7a5e65a
-        isrcs: []
+        isrcs: &id001
+        - USSM19000727
+        title: Man in the Box
+        length: 286493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-08-28'
       - id: 2e986981-582f-450a-9591-f2c41963d9a6
-        isrcs: []
+        isrcs:
+        - USLIC0600598
+        - USMC18416576
+        title: The Heat Is On
+        length: 226533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1984-12
       - id: 48aec955-de4b-40a9-be0d-285cdbe09614
         isrcs: []
+        title: Man in the Box
+        length: 277266
+        video: false
+        disambiguation: 'live, 1992‐12‐13: Seattle, WA, USA'
+        firstReleaseDate: '1992'
       - id: 94532485-f940-462b-913f-b42132897e87
         isrcs: []
+        title: Man in the Box
+        length:
+        video: false
+        disambiguation: 'live, 1992‐10‐08: Oakland–Alameda County Coliseum, Oakland,
+          CA, USA'
+        firstReleaseDate: '2017-07-24'
       - id: b30ce13f-aa23-4f86-9b0b-3aad62c7e0fb
         isrcs: []
+        title: Man in the Box
+        length: 287280
+        video: false
+        disambiguation: 'live, 1993: Europe'
+        firstReleaseDate: '1993'
       - id: c55a84bb-3119-4674-8d7f-df1ead2ea987
         isrcs: []
+        title: Man in the Box (5.1 mix)
+        length: 288000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-07-24'
       - id: f18e7b57-f1e8-404b-8175-85d9c5a344aa
         isrcs: []
+        title: Alice in Chains - Man in the Box
+        length: 286000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-12-19'
       score: 0.9717827
     - id: 9c59caea-ef9b-425a-a6ff-79b4eb585cb9
       recordings:
       - id: 1b055a51-eac1-4b06-a28f-d0b8c7a5e65a
-        isrcs: []
+        isrcs: *id001
+        title: Man in the Box
+        length: 286493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-08-28'
       score: 0.9547402
     status: ok

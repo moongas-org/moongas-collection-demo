@@ -15,11 +15,22 @@ trackIdData:
     - id: 2c3a36a1-a9e2-41d6-838e-922b237c1cae
       recordings:
       - id: 8e8ba670-96c0-44c9-a753-4a59f1b98afe
-        isrcs: []
+        isrcs: &id001
+        - USCA29201552
+        title: Washed Away
+        length: 383000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.97884053
     - id: aa89e5f1-e28c-48e2-8ad5-07c40852611b
       recordings:
       - id: 8e8ba670-96c0-44c9-a753-4a59f1b98afe
-        isrcs: []
+        isrcs: *id001
+        title: Washed Away
+        length: 383000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.9746357
     status: ok

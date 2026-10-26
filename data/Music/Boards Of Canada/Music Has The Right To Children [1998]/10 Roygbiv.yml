@@ -16,21 +16,53 @@ trackIdData:
       recordings:
       - id: 047e7369-ff5e-44cb-8d56-5fa0535df327
         isrcs: []
+        title: Roygbiv (Boards of Canada cover)
+        length: 150000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-11-30'
       - id: 1a8f24d1-19eb-4988-96b7-b82ead82b0a3
         isrcs: []
+        title: Roygbiv
+        length: 139253
+        video: false
+        disambiguation: part of “A Josh Wink Tale - The Dog Days of an 
+          Electroacoustic Summer” DJ‐mix
+        firstReleaseDate: '2003'
       - id: 2a72cd7b-f566-4c91-8e9b-7b33b95dfff7
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9800019
+        title: Roygbiv
+        length: 150280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: cdd58e5b-4fbf-4553-a166-3a5cb5295947
         isrcs: []
+        title: roygbiv
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-06-08'
       score: 0.97910076
     - id: a31ee6f7-98bd-4760-948f-c845eb665e1c
       recordings:
       - id: 2a72cd7b-f566-4c91-8e9b-7b33b95dfff7
-        isrcs: []
+        isrcs: *id001
+        title: Roygbiv
+        length: 150280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       score: 0.9701345
     - id: d46bc639-af8a-4ece-a929-96d5a28ac6ab
       recordings:
       - id: 2a72cd7b-f566-4c91-8e9b-7b33b95dfff7
-        isrcs: []
+        isrcs: *id001
+        title: Roygbiv
+        length: 150280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       score: 0.9654865
     status: ok

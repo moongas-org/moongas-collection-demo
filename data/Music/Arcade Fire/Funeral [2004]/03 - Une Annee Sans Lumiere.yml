@@ -16,17 +16,39 @@ trackIdData:
       recordings:
       - id: 1d3b70dc-4176-4c0d-9ffc-dccef897b546
         isrcs: []
+        title: Une année sans lumière
+        length:
+        video: false
+        disambiguation: 'live, 2004-12-12: Commodore Ballroom, Commodore, Vancouver,
+          BC, Canada'
+        firstReleaseDate:
       - id: d2e67c9e-3600-450c-aa69-cab51ff0c990
-        isrcs: []
+        isrcs: &id001
+        - USMRG0467004
+        title: Une année sans lumière
+        length: 220960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-14'
       score: 0.9983848
     - id: c2a1ed7b-4833-4c97-9410-56e3ee730ffc
       recordings:
       - id: d2e67c9e-3600-450c-aa69-cab51ff0c990
-        isrcs: []
+        isrcs: *id001
+        title: Une année sans lumière
+        length: 220960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-14'
       score: 0.76676273
     - id: 4f0f6f49-cb2f-43c4-b098-b6670bd9ad0f
       recordings:
       - id: d2e67c9e-3600-450c-aa69-cab51ff0c990
-        isrcs: []
+        isrcs: *id001
+        title: Une année sans lumière
+        length: 220960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-09-14'
       score: 0.6523932
     status: ok

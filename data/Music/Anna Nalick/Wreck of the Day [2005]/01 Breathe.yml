@@ -15,15 +15,36 @@ trackIdData:
     - id: 473a58d3-bb9e-4218-b1de-2f1c17a00818
       recordings:
       - id: 2202fedb-d3ef-49f1-bc2f-5eb30dae5a52
-        isrcs: []
+        isrcs: &id001
+        - USSM10800517
+        title: Breathe (2 AM) (acoustic version)
+        length: 256761
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-03-25'
       - id: ca1cc406-e760-4a96-89e0-41e70feda7bf
         isrcs: []
+        title: Breathe (2 AM)
+        length: 247946
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2005-02
       score: 0.9965058
     - id: f080e1f2-ef83-4618-9580-c390e33e88e2
       recordings:
       - id: 2202fedb-d3ef-49f1-bc2f-5eb30dae5a52
-        isrcs: []
+        isrcs: *id001
+        title: Breathe (2 AM) (acoustic version)
+        length: 256761
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-03-25'
       - id: 7dbcd2ea-f185-4708-92ab-e2b1478ab489
         isrcs: []
+        title: Breathe (2 am)
+        length: 252000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       score: 0.97010154
     status: ok

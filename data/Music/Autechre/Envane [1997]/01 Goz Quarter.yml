@@ -15,11 +15,22 @@ trackIdData:
     - id: eb0ef8b7-2db5-4a1b-8a0a-32bbcae833fb
       recordings:
       - id: 7f220b4e-59e8-4e54-bbd5-8431c2faf303
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9700005
+        title: Goz Quarter
+        length: 583000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997-01-27'
       score: 0.99426425
     - id: 38a5b93a-ec87-40aa-b2c5-00f197b4a92e
       recordings:
       - id: 7f220b4e-59e8-4e54-bbd5-8431c2faf303
-        isrcs: []
+        isrcs: *id001
+        title: Goz Quarter
+        length: 583000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997-01-27'
       score: 0.8717365
     status: ok

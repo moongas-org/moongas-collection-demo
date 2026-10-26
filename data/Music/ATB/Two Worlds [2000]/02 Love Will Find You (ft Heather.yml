@@ -15,12 +15,23 @@ trackIdData:
     - id: 06b40c8c-c2c1-44bb-99b7-12b4f68a7357
       recordings:
       - id: ffe8cc97-9efd-4ef2-a413-130db53cde12
-        isrcs: []
+        isrcs: &id001
+        - DEN060000181
+        title: Love Will Find You
+        length: 350000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.9748154
     - id: 552c0ad3-23eb-4310-abcc-22dc0322ac3c
       recordings:
       - id: ffe8cc97-9efd-4ef2-a413-130db53cde12
-        isrcs: []
+        isrcs: *id001
+        title: Love Will Find You
+        length: 350000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.86464924
     - id: 1aee4c30-6377-4a73-b293-54a83320b1cd
       score: 0.8551556

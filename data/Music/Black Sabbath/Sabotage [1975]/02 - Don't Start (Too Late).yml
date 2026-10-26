@@ -15,20 +15,49 @@ trackIdData:
     - id: f199571c-12d9-4c18-a9c6-faacde5a7ee0
       recordings:
       - id: 4fe28dd4-3fa0-4153-9665-a9612de4ff1c
-        isrcs: []
+        isrcs: &id001
+        - USRH12003046
+        title: Don’t Start (Too Late)
+        length: 49360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-06-11'
       - id: 81584fb7-9171-4411-9104-289f75b27244
-        isrcs: []
+        isrcs: &id002
+        - GB5KW1602029
+        - GBAJE7500017
+        - USRH12003046
+        title: Don’t Start (Too Late)
+        length: 49360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       score: 0.99220824
     - id: 8f5bdd41-117f-4e09-b05a-da9f444a77d9
       recordings:
       - id: 4fe28dd4-3fa0-4153-9665-a9612de4ff1c
-        isrcs: []
+        isrcs: *id001
+        title: Don’t Start (Too Late)
+        length: 49360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-06-11'
       - id: 81584fb7-9171-4411-9104-289f75b27244
-        isrcs: []
+        isrcs: *id002
+        title: Don’t Start (Too Late)
+        length: 49360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       score: 0.96419096
     - id: 04b91746-5e43-4ed5-a1d6-64064eb375c8
       recordings:
       - id: 81584fb7-9171-4411-9104-289f75b27244
-        isrcs: []
+        isrcs: *id002
+        title: Don’t Start (Too Late)
+        length: 49360
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       score: 0.9338528
     status: ok

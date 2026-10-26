@@ -16,17 +16,39 @@ trackIdData:
       recordings:
       - id: 9cbf8210-76c4-4116-8f7d-811b022d6a95
         isrcs: []
+        title: I Don’t Want to Be Alone
+        length: 214000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980'
       - id: d242f2cb-69f7-4892-80d9-8fd311dd8764
-        isrcs: []
+        isrcs: &id001
+        - USSM11100763
+        - USSM17900401
+        title: I Don’t Want to Be Alone
+        length: 237733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       score: 0.98678136
     - id: dbac33ed-772f-4bcb-b65c-e1a4fa0201cc
       recordings:
       - id: d242f2cb-69f7-4892-80d9-8fd311dd8764
-        isrcs: []
+        isrcs: *id001
+        title: I Don’t Want to Be Alone
+        length: 237733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       score: 0.8724288
     - id: 26022c58-606e-4524-b704-3478ab0bda8c
       recordings:
       - id: d242f2cb-69f7-4892-80d9-8fd311dd8764
-        isrcs: []
+        isrcs: *id001
+        title: I Don’t Want to Be Alone
+        length: 237733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       score: 0.77716243
     status: ok

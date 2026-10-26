@@ -15,15 +15,37 @@ trackIdData:
     - id: 613fb883-515e-481a-bd55-c60017e726b5
       recordings:
       - id: 99d22a5a-46e3-4aa4-86dd-3490a57a2ee8
-        isrcs: []
+        isrcs: &id001
+        - USJI10300405
+        title: Award Tour
+        length: 226226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-09'
       score: 0.9811445
     - id: f1a85911-7872-4ac2-8ad3-d3273573e5ee
       recordings:
       - id: 5b8abe76-5740-4691-b575-262b241b538d
-        isrcs: []
+        isrcs:
+        - USJI10300109
+        title: Award Tour (radio version)
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: 99d22a5a-46e3-4aa4-86dd-3490a57a2ee8
-        isrcs: []
+        isrcs: *id001
+        title: Award Tour
+        length: 226226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-09'
       - id: ec5725d5-8f28-4f04-91b9-64f5deba1345
         isrcs: []
+        title: Award Tour
+        length: 205266
+        video: false
+        disambiguation: part of “Essential Mix” DJ‐mix
+        firstReleaseDate: '2000-03-20'
       score: 0.9808808
     status: ok

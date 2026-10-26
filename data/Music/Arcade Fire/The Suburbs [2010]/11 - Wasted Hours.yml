@@ -15,13 +15,29 @@ trackIdData:
     - id: 1904f386-4c79-4137-a182-84d4ae1c1d0c
       recordings:
       - id: 00101edd-3a4f-47eb-aac1-767584291e0a
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021641
+        title: Wasted Hours
+        length: 200720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: 97d4c3d6-9268-4395-8f1d-4833a8c49e63
         isrcs: []
+        title: Wasted Hours
+        length: 201000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       score: 0.999077
     - id: 1521429e-f097-4ee4-811a-6c0a510c752a
       recordings:
       - id: 00101edd-3a4f-47eb-aac1-767584291e0a
-        isrcs: []
+        isrcs: *id001
+        title: Wasted Hours
+        length: 200720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.6464975
     status: ok

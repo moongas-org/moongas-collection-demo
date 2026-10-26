@@ -15,26 +15,70 @@ trackIdData:
     - id: 11149a2e-e14d-4ec8-8d7a-b1a49eb90186
       recordings:
       - id: 0d34a1e4-e692-4454-9b99-a9b4ab200bf9
-        isrcs: []
+        isrcs: &id001
+        - QMEJX1300013
+        - USVI20000055
+        title: Over
+        length: 141200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: 26e59e66-c1e4-4857-9a70-0c7868870b11
         isrcs: []
+        title: Over (alt.)
+        length: 163000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000'
       - id: 61564c5a-9c53-4291-895a-ff6629101b7f
         isrcs: []
+        title: Renholdër
+        length: 144000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: 947f9c3f-bad7-4d0e-82f5-3a5906e9e011
         isrcs: []
+        title: Over
+        length:
+        video: false
+        disambiguation: 'live, 2001-03-27: Memorial Athletic and Convocation Center,
+          Kent, OH, USA'
+        firstReleaseDate:
       - id: d1e7cfa9-34bb-439c-a112-b1d94721502f
         isrcs: []
+        title: Over
+        length:
+        video: false
+        disambiguation: 'live, 2001‐03‐31: Roy Wilkins Auditorium, St. Paul, MN, USA'
+        firstReleaseDate:
       - id: e227effd-20f5-45b1-8441-0b2f5da77613
-        isrcs: []
+        isrcs:
+        - USVI20000055
+        title: Over
+        length: 141200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.9825949
     - id: 7a099bef-b7b8-4b57-b1f4-5a7c3ccdabc2
       recordings:
       - id: 0d34a1e4-e692-4454-9b99-a9b4ab200bf9
-        isrcs: []
+        isrcs: *id001
+        title: Over
+        length: 141200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.72619987
     - id: 896d2607-a0db-4af7-910c-40f1669f2909
       recordings:
       - id: 0d34a1e4-e692-4454-9b99-a9b4ab200bf9
-        isrcs: []
+        isrcs: *id001
+        title: Over
+        length: 141200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       score: 0.7260444
     status: ok

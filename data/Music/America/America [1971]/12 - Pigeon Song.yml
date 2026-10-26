@@ -15,16 +15,32 @@ trackIdData:
     - id: d05ead65-96a5-474a-9fa0-5c46b78fce63
       recordings:
       - id: ab45a874-c867-4b45-a7c8-ad19c9515804
-        isrcs: []
+        isrcs: &id001
+        - USWB10001100
+        title: Pigeon Song
+        length: 138133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.9600145
     - id: 1c430917-c415-40d6-814a-35fa83067a69
       recordings:
       - id: ab45a874-c867-4b45-a7c8-ad19c9515804
-        isrcs: []
+        isrcs: *id001
+        title: Pigeon Song
+        length: 138133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.85769385
     - id: 710408ad-5b8b-4fda-bbfa-923283c7a7c8
       recordings:
       - id: ab45a874-c867-4b45-a7c8-ad19c9515804
-        isrcs: []
+        isrcs: *id001
+        title: Pigeon Song
+        length: 138133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       score: 0.66436464
     status: ok

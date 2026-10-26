@@ -16,16 +16,42 @@ trackIdData:
       recordings:
       - id: 57596512-e691-4776-8864-bbb8cad14504
         isrcs: []
+        title: Deep Blue
+        length: 268000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       - id: ac61ee6f-a603-4674-9a31-d9085aac24ca
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021642
+        title: Deep Blue
+        length: 268133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.98645175
     - id: 7b88ea55-c212-47ea-9413-0c5adf1350e9
       recordings:
       - id: 57596512-e691-4776-8864-bbb8cad14504
         isrcs: []
+        title: Deep Blue
+        length: 268000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       - id: ac61ee6f-a603-4674-9a31-d9085aac24ca
-        isrcs: []
+        isrcs: *id001
+        title: Deep Blue
+        length: 268133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: d19c24fe-7303-4d75-a23f-618af5943e8b
         isrcs: []
+        title: Deep Blue
+        length: 268000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       score: 0.9831553
     status: ok

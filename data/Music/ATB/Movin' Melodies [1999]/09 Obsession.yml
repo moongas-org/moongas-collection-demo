@@ -15,23 +15,50 @@ trackIdData:
     - id: 2e44dbc7-5fc2-485f-bb48-a2662183c4c3
       recordings:
       - id: f26116a3-8501-422f-bb16-cfd066f202e4
-        isrcs: []
+        isrcs: &id001
+        - DED579903720
+        - DEN060301024
+        title: Obsession
+        length: 385520
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-04-26'
       score: 0.97791404
     - id: 40b07b76-0c77-4593-8226-fb422aa475de
       recordings:
       - id: fe8046f7-17e1-4a3b-b943-db26ceb5d67e
         isrcs: []
+        title: Obsession
+        length: 377000
+        video: false
+        disambiguation: 'part of a “Orbiting: Beautiful Chillout Grooves 1.0” DJ‐mix'
+        firstReleaseDate: '2000'
       score: 0.9759362
     - id: 515cb6ed-c0c4-4097-b2d7-993e93ca812b
       recordings:
       - id: f26116a3-8501-422f-bb16-cfd066f202e4
-        isrcs: []
+        isrcs: *id001
+        title: Obsession
+        length: 385520
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-04-26'
       - id: fe8046f7-17e1-4a3b-b943-db26ceb5d67e
         isrcs: []
+        title: Obsession
+        length: 377000
+        video: false
+        disambiguation: 'part of a “Orbiting: Beautiful Chillout Grooves 1.0” DJ‐mix'
+        firstReleaseDate: '2000'
       score: 0.9655195
     - id: 60c2b138-d6a4-4ea6-8ad8-ec8614b4ed14
       recordings:
       - id: f26116a3-8501-422f-bb16-cfd066f202e4
-        isrcs: []
+        isrcs: *id001
+        title: Obsession
+        length: 385520
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-04-26'
       score: 0.64952534
     status: ok

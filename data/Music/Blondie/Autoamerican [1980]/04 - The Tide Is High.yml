@@ -15,33 +15,92 @@ trackIdData:
     - id: 27fb60f1-3e62-4644-ad64-e7c31f83a89f
       recordings:
       - id: 04eb924d-39eb-4114-a23b-4fb4775e2d4d
-        isrcs: []
+        isrcs: &id002
+        - USCA28000082
+        - USCH30100019
+        - USCH38000024
+        - USCH38900009
+        - USCH39800019
+        title: The Tide Is High
+        length: 231093
+        video: false
+        disambiguation: 7” edit
+        firstReleaseDate: '1980'
       - id: 28e3e1cb-03fc-4965-acdd-01b8a36aca60
         isrcs: []
+        title: Tide Is High
+        length: 283000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: c8187335-c7b9-400f-9cd7-a75e5d714e7c
         isrcs: []
+        title: The Tide Is High
+        length: 283493
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: e48a0532-f655-4169-9717-c1a0eef16af7
-        isrcs: []
+        isrcs: &id001
+        - USCH30100024
+        - USCH38000024
+        - USCH38900009
+        - USCH39800019
+        title: The Tide Is High
+        length: 280000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-19'
       score: 0.980716
     - id: ef800489-e987-4f46-8a2d-7094d1cfbad1
       recordings:
       - id: 58e93dd1-d51e-4810-bae8-a2ff6d9c5f78
         isrcs: []
+        title: Tide Is High
+        length: 275000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000'
       - id: e48a0532-f655-4169-9717-c1a0eef16af7
-        isrcs: []
+        isrcs: *id001
+        title: The Tide Is High
+        length: 280000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-19'
       score: 0.97636473
     - id: b6645cfb-b7c7-4879-b536-6bba4919e83e
       recordings:
       - id: 04eb924d-39eb-4114-a23b-4fb4775e2d4d
-        isrcs: []
+        isrcs: *id002
+        title: The Tide Is High
+        length: 231093
+        video: false
+        disambiguation: 7” edit
+        firstReleaseDate: '1980'
       - id: a4ab500a-015b-418b-b3b7-0db971faf2af
         isrcs: []
+        title: The Tide Is High
+        length: 293320
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-10-29'
       - id: e48a0532-f655-4169-9717-c1a0eef16af7
-        isrcs: []
+        isrcs: *id001
+        title: The Tide Is High
+        length: 280000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-19'
       score: 0.9287645
     - id: 2793b089-9938-4f97-9e69-36b6cab3d595
       recordings:
       - id: e48a0532-f655-4169-9717-c1a0eef16af7
-        isrcs: []
+        isrcs: *id001
+        title: The Tide Is High
+        length: 280000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-11-19'
       score: 0.8558808
     status: ok

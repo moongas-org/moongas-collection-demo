@@ -15,24 +15,61 @@ trackIdData:
     - id: 0f947cc5-a4ce-4242-af56-0ac0088b3250
       recordings:
       - id: 30ae1e4e-a83f-4693-b6f1-b0b5bceb87e2
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1602013
+        - GBAJE7100088
+        title: Solitude
+        length: 302240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       - id: c4bd31f1-bfca-4dc4-9ddf-8bf5f4fb5cab
         isrcs: []
+        title: Solitude
+        length: 300000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2024-01
       score: 0.99627507
     - id: ff3767d7-b123-4369-a9de-dc31c65cbaad
       recordings:
       - id: 30ae1e4e-a83f-4693-b6f1-b0b5bceb87e2
-        isrcs: []
+        isrcs: *id001
+        title: Solitude
+        length: 302240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       score: 0.90849155
     - id: 2d5a5b67-1a52-41e3-b398-dcfcd85ab191
       recordings:
       - id: 30ae1e4e-a83f-4693-b6f1-b0b5bceb87e2
-        isrcs: []
+        isrcs: *id001
+        title: Solitude
+        length: 302240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       - id: 39d14b84-e2a9-473d-abb3-7d9cc9860eea
         isrcs: []
+        title: Solitude
+        length: 304840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996'
       - id: a2c8382b-75d1-43f4-be10-7d13b330b3ea
         isrcs: []
+        title: Solitude
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972'
       - id: fccdf8be-ffdb-4f7c-b7ec-a28a5157e454
         isrcs: []
+        title: Solitude
+        length: 304426
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       score: 0.88083464
     status: ok

@@ -15,22 +15,54 @@ trackIdData:
     - id: 92ab48ff-8c4f-4c76-b463-4d151641e275
       recordings:
       - id: 12a72bc0-08c0-4281-8fc0-e6a3355e6ed0
-        isrcs: []
+        isrcs: &id001
+        - USA370538601
+        title: Nervous Breakdown
+        length: 127000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-01-01'
       - id: 3cf2c70f-74da-44c4-bcf9-3cd00e3f62f0
-        isrcs: []
+        isrcs:
+        - USA370538562
+        title: Nervous Breakdown
+        length: 126066
+        video: false
+        disambiguation: 'live, 1984-08-26: The Stone, San Francisco, CA, USA'
+        firstReleaseDate: '1984-01-01'
       - id: 8859299d-d6e2-49b7-ab25-021d5a472cdc
         isrcs: []
+        title: Nervous Breakdown
+        length: 131306
+        video: false
+        disambiguation: 'live, 1984-08-26: The Stone, San Francisco, CA, USA'
+        firstReleaseDate:
       score: 0.9876385
     - id: e0d05725-6b08-44aa-b444-302f3785c007
       recordings:
       - id: 12a72bc0-08c0-4281-8fc0-e6a3355e6ed0
-        isrcs: []
+        isrcs: *id001
+        title: Nervous Breakdown
+        length: 127000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-01-01'
       - id: fe8afd6a-f8fa-4fd2-8d9f-c60fa94566d9
         isrcs: []
+        title: Nervous Breakdown (Black Flag)
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1986'
       score: 0.98368275
     - id: 80e4c4a3-1156-4320-9266-0964d9e6ef45
       recordings:
       - id: 12a72bc0-08c0-4281-8fc0-e6a3355e6ed0
-        isrcs: []
+        isrcs: *id001
+        title: Nervous Breakdown
+        length: 127000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-01-01'
       score: 0.9457081
     status: ok

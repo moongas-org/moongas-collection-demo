@@ -15,18 +15,40 @@ trackIdData:
     - id: 95fa3453-5975-4237-bd5f-820f417f175b
       recordings:
       - id: c7250690-465a-4e37-aee9-f2636307233f
-        isrcs: []
+        isrcs: &id001
+        - USSM18000438
+        title: Black Blade
+        length: 393866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.98767143
     - id: a4836536-1337-4be9-ba72-6b7813907bc3
       recordings:
       - id: 86732c59-4012-4296-9bcd-62271d416ef8
-        isrcs: []
+        isrcs:
+        - USSM18000308
+        title: Black Blade
+        length: 377000
+        video: false
+        disambiguation: 'live, 1980-10-17: Nassau Coliseum, Long Island, NY, USA'
+        firstReleaseDate: '1982'
       - id: c7250690-465a-4e37-aee9-f2636307233f
-        isrcs: []
+        isrcs: *id001
+        title: Black Blade
+        length: 393866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.8943829
     - id: d597f3f8-2e4f-4242-a989-e3db381f6aac
       recordings:
       - id: c7250690-465a-4e37-aee9-f2636307233f
-        isrcs: []
+        isrcs: *id001
+        title: Black Blade
+        length: 393866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.8850211
     status: ok

@@ -16,16 +16,42 @@ trackIdData:
       recordings:
       - id: 3dc2a7e3-34aa-40f5-8efd-23757b165eba
         isrcs: []
+        title: Steppin' It Up (radio version)
+        length: 206000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-08-24'
       - id: 94d954c0-d451-4089-8d46-9abb34a13a5b
         isrcs: []
+        title: Steppin' It Up
+        length: 199706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-12-12'
       - id: b6b61da8-bc9a-40ae-bfdc-d78865e40eb0
         isrcs: []
+        title: Steppin’ it Up
+        length: 205706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: d723f7b4-a5a7-4282-a528-b52ccbad7f21
-        isrcs: []
+        isrcs: &id001
+        - USJI19810229
+        title: Steppin’ It Up
+        length: 202000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-09-09'
       score: 0.99891216
     - id: 6a813125-cf0d-4d71-89a2-6676940605ad
       recordings:
       - id: d723f7b4-a5a7-4282-a528-b52ccbad7f21
-        isrcs: []
+        isrcs: *id001
+        title: Steppin’ It Up
+        length: 202000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-09-09'
       score: 0.6978178
     status: ok

@@ -15,13 +15,29 @@ trackIdData:
     - id: e01c76cb-36d7-4893-b911-0244bc1d1cf0
       recordings:
       - id: e5c59105-364a-43ba-aead-5c9dbd1a268d
-        isrcs: []
+        isrcs: &id001
+        - USSM18000443
+        title: Hungry Boys
+        length: 218200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.98384756
     - id: d6234617-8153-4d21-9890-f1665c63f38e
       recordings:
       - id: deb83696-e3ba-4a2f-818b-39bb89e44539
         isrcs: []
+        title: Hungry Boys
+        length: 216000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: e5c59105-364a-43ba-aead-5c9dbd1a268d
-        isrcs: []
+        isrcs: *id001
+        title: Hungry Boys
+        length: 218200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-06-01'
       score: 0.97936445
     status: ok

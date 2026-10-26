@@ -15,16 +15,32 @@ trackIdData:
     - id: 0e3ff2c3-6270-4789-8bbb-69b0563a5488
       recordings:
       - id: 2f96e193-79ed-4a69-bdca-52ee0a35ee34
-        isrcs: []
+        isrcs: &id001
+        - USEP40407113
+        title: Boot Stamping on a Human Face Forever
+        length: 229266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-06-02'
       score: 0.96251976
     - id: 2c6c4d98-a155-4207-983d-96e3730e305c
       recordings:
       - id: 2f96e193-79ed-4a69-bdca-52ee0a35ee34
-        isrcs: []
+        isrcs: *id001
+        title: Boot Stamping on a Human Face Forever
+        length: 229266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-06-02'
       score: 0.88439476
     - id: 88467c93-e165-46b5-929c-7ca7ce3798b4
       recordings:
       - id: 2f96e193-79ed-4a69-bdca-52ee0a35ee34
-        isrcs: []
+        isrcs: *id001
+        title: Boot Stamping on a Human Face Forever
+        length: 229266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-06-02'
       score: 0.86853904
     status: ok

@@ -15,20 +15,47 @@ trackIdData:
     - id: 04f8b3ad-6296-4d20-a0fe-26e20be8abf7
       recordings:
       - id: b5502d6e-25af-4655-966d-faceab6fa0df
-        isrcs: []
+        isrcs: &id001
+        - USSM10023130
+        - USSM19200871
+        title: Down in a Hole
+        length: 338066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.9823642
     - id: 98874873-c473-4e07-94da-cc66ec0d55af
       recordings:
       - id: 2e3b6510-0af5-4d2b-a3fa-bf7430091d9e
         isrcs: []
+        title: Man in the Box
+        length:
+        video: false
+        disambiguation: 'live, 1993‐07‐02: Mejeriet, Lund, Sweden'
+        firstReleaseDate: '1993'
       - id: b5502d6e-25af-4655-966d-faceab6fa0df
-        isrcs: []
+        isrcs: *id001
+        title: Down in a Hole
+        length: 338066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       - id: e0de5ae9-5bd9-4a6e-85e2-92ca09f42f03
         isrcs: []
+        title: Down in a Hole
+        length: 335000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2001-08-29'
       score: 0.96759623
     - id: 4b914181-ffe4-45e3-911f-61669d01b508
       recordings:
       - id: b5502d6e-25af-4655-966d-faceab6fa0df
-        isrcs: []
+        isrcs: *id001
+        title: Down in a Hole
+        length: 338066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.8680116
     status: ok

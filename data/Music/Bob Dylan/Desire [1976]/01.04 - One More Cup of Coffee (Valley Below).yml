@@ -15,29 +15,87 @@ trackIdData:
     - id: d3c40ccb-43c3-4d4d-a761-0dbdf8aaac04
       recordings:
       - id: 03289db2-c536-40d7-9bd0-c8e8d0836350
-        isrcs: []
+        isrcs:
+        - USSM10103100
+        title: One More Cup of Coffee (Valley Below)
+        length: 227106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1978-03
       - id: 161fa158-becf-4449-83d2-4cf599fe058c
         isrcs: []
+        title: One More Cup Of Coffee
+        length: 227040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       - id: 2c2548c1-276a-44e1-a2ea-84b4abe31be9
-        isrcs: []
+        isrcs: &id001
+        - USSM10103100
+        title: One More Cup of Coffee
+        length: 226000
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: 49922481-47b8-48b8-a786-e3589961338d
-        isrcs: []
+        isrcs: &id002
+        - USSM10103100
+        title: One More Cup of Coffee (Valley Below)
+        length: 225066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012'
       - id: ae867a58-7c35-4983-8c73-d74b7789f225
         isrcs: []
+        title: One More Cup Of Coffee
+        length: 228533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-03-25'
       - id: b45a70b2-8ed1-4be8-965a-d4fa64931196
         isrcs: []
+        title: One More Cup of Coffee
+        length: 225920
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014'
       - id: eb48349a-0c18-4a54-a4cb-f77496d904e2
         isrcs: []
+        title: One More Cup of Coffee
+        length:
+        video: false
+        disambiguation: '1978-06-26: Westfalenhalle, Dortmund, West Germany'
+        firstReleaseDate:
       score: 1.0
     - id: a9a6c020-bfa0-4a65-9df0-628a2e67b866
       recordings:
       - id: 161fa158-becf-4449-83d2-4cf599fe058c
         isrcs: []
+        title: One More Cup Of Coffee
+        length: 227040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-09-21'
       - id: 2c2548c1-276a-44e1-a2ea-84b4abe31be9
-        isrcs: []
+        isrcs: *id001
+        title: One More Cup of Coffee
+        length: 226000
+        video: false
+        disambiguation: original studio mix
+        firstReleaseDate: '1976-01-05'
       - id: 49922481-47b8-48b8-a786-e3589961338d
-        isrcs: []
+        isrcs: *id002
+        title: One More Cup of Coffee (Valley Below)
+        length: 225066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012'
       - id: fa6d7151-8107-4dab-9844-9db578e76df9
         isrcs: []
+        title: One More Cup of Coffee
+        length: 227000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-03-22'
       score: 0.7451872
     status: ok

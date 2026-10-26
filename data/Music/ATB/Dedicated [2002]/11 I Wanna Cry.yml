@@ -15,11 +15,22 @@ trackIdData:
     - id: fbe6b2de-a334-492e-bb56-0e4b06d0a03a
       recordings:
       - id: 55bf015c-2fcf-4cf2-b140-16a764561c27
-        isrcs: []
+        isrcs: &id001
+        - DEN060200503
+        title: I Wanna Cry
+        length: 263346
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-28'
       score: 0.99304456
     - id: d85b03ce-d168-48ff-a146-71a194a2c2ba
       recordings:
       - id: 55bf015c-2fcf-4cf2-b140-16a764561c27
-        isrcs: []
+        isrcs: *id001
+        title: I Wanna Cry
+        length: 263346
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-28'
       score: 0.9868143
     status: ok

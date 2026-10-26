@@ -15,12 +15,23 @@ trackIdData:
     - id: e99a8eab-bb09-4b70-b32d-ddd589708005
       recordings:
       - id: 2ea26e50-1cec-48dd-abdf-c2515d56403f
-        isrcs: []
+        isrcs: &id001
+        - GBCFB0300066
+        title: Light Pattern
+        length: 312067
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-09'
       score: 0.99067116
     - id: cb7dbd89-619e-4b63-bc4f-8a9ed83390e4
       recordings:
       - id: 2ea26e50-1cec-48dd-abdf-c2515d56403f
-        isrcs: []
+        isrcs: *id001
+        title: Light Pattern
+        length: 312067
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-09'
       score: 0.80857724
     - id: bf6b530b-6f52-4151-9322-5b90ceb4c0bb
       score: 0.76592165

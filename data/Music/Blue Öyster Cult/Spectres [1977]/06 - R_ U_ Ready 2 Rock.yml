@@ -16,19 +16,46 @@ trackIdData:
       recordings:
       - id: 9f5e59d9-701b-4570-a7ee-3ad67c876b27
         isrcs: []
+        title: R.U. Ready to Rock
+        length: 226000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-10-02'
       - id: adda07e7-b057-4225-8b2a-be55df2061d5
-        isrcs: []
+        isrcs: &id001
+        - USSM19917725
+        title: R. U. Ready 2 Rock
+        length: 224760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-10
       score: 0.95665216
     - id: 9151174e-a068-4c65-ad7b-12214d4a1b9c
       recordings:
       - id: adda07e7-b057-4225-8b2a-be55df2061d5
-        isrcs: []
+        isrcs: *id001
+        title: R. U. Ready 2 Rock
+        length: 224760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-10
       score: 0.9418842
     - id: 6b7174d9-ea63-45f9-9cf6-54c65a4ad960
       recordings:
       - id: 1b22373c-2383-4ad3-98bb-9d85ad5a2be1
         isrcs: []
+        title: R.U. Ready to Rock
+        length:
+        video: false
+        disambiguation: 'live, 1986-03-27: Santa Monica Civic Auditorium, Santa Monica,
+          CA, USA'
+        firstReleaseDate:
       - id: adda07e7-b057-4225-8b2a-be55df2061d5
-        isrcs: []
+        isrcs: *id001
+        title: R. U. Ready 2 Rock
+        length: 224760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-10
       score: 0.9332476
     status: ok

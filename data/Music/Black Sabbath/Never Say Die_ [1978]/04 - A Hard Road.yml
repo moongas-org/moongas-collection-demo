@@ -16,14 +16,38 @@ trackIdData:
       recordings:
       - id: 4ba5d8c7-233a-4b7c-9e0d-0ace61ef88f6
         isrcs: []
+        title: Track 16
+        length: 361800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: 869780dd-8e96-4189-a7e3-34a1d269b446
         isrcs: []
+        title: Never Say Die
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1978-03
       - id: bfa34880-ef28-4362-9a82-ff90e7a5c56c
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1601281
+        - GBAJE7800057
+        - USWB11304553
+        - USWB19901294
+        title: A Hard Road
+        length: 364226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-28'
       score: 0.97211236
     - id: 7d8c4005-70bf-46c1-882c-610d335681d1
       recordings:
       - id: bfa34880-ef28-4362-9a82-ff90e7a5c56c
-        isrcs: []
+        isrcs: *id001
+        title: A Hard Road
+        length: 364226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-09-28'
       score: 0.9198312
     status: ok

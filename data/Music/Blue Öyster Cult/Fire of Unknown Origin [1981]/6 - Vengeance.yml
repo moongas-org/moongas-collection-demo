@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 350aa14e-aaf1-4cc5-b974-552c6f6f65e7
         isrcs: []
+        title: Vengeance (The Pact)
+        length: 280000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       - id: 5eedde44-74a8-404b-a618-94f8407aae34
-        isrcs: []
+        isrcs: &id001
+        - USSM10017656
+        title: Vengeance (The Pact)
+        length: 281133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       - id: 94ee1284-e8d5-4f7f-806e-64fd40991e2b
         isrcs: []
+        title: Until That Final Day
+        length: 281800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       score: 0.9549051
     - id: dea02500-652d-42a8-aff8-9ef3c7485994
       recordings:
       - id: 5eedde44-74a8-404b-a618-94f8407aae34
-        isrcs: []
+        isrcs: *id001
+        title: Vengeance (The Pact)
+        length: 281133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.9149525
     status: ok

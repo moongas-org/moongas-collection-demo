@@ -15,11 +15,22 @@ trackIdData:
     - id: bd7f3d9e-92e2-4bb0-918b-f6ee6118821b
       recordings:
       - id: 7789f84d-b361-44e1-b2cf-80c56d1d3a0f
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700221
+        title: Outh9X
+        length: 434600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.9849354
     - id: bd055feb-948f-4023-89f3-ab9e00754b5a
       recordings:
       - id: 7789f84d-b361-44e1-b2cf-80c56d1d3a0f
-        isrcs: []
+        isrcs: *id001
+        title: Outh9X
+        length: 434600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.7357595
     status: ok

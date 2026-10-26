@@ -16,14 +16,35 @@ trackIdData:
       recordings:
       - id: 571bda56-b68c-4f53-bd47-324cbcec0be4
         isrcs: []
+        title: Mr. Muhammad
+        length: 327000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       - id: 7ef4adb1-467c-419b-bd4f-58bc5e360042
         isrcs: []
+        title: Ham ’n’ Eggs
+        length: 234000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       - id: fbda2cfe-e037-421c-a2db-fd1d969f8860
-        isrcs: []
+        isrcs: &id001
+        - USJI10300147
+        title: Ham ’n’ Eggs
+        length: 329666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.9764966
     - id: e3e838a8-918b-4c31-b65a-6d6538440557
       recordings:
       - id: fbda2cfe-e037-421c-a2db-fd1d969f8860
-        isrcs: []
+        isrcs: *id001
+        title: Ham ’n’ Eggs
+        length: 329666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990-04-17'
       score: 0.8892405
     status: ok

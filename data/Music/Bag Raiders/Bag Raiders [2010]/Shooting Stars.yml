@@ -15,27 +15,81 @@ trackIdData:
     - id: 09bad0c2-668f-4520-8600-77bb066d2f16
       recordings:
       - id: 2fc1080f-5feb-4fb5-bd83-3f873598ee21
-        isrcs: []
+        isrcs:
+        - DEUM71702797
+        title: Ist da jemand
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-04-21'
       - id: 37b7ce3e-d708-4089-b27b-20d88dab7cad
-        isrcs: []
+        isrcs: &id001
+        - AUUM70902040
+        title: Shooting Stars
+        length: 227126
+        video: false
+        disambiguation: single version
+        firstReleaseDate: '2009-01-01'
       - id: 5bb1f7af-b2a8-498b-a246-ac7941c463ad
         isrcs: []
+        title: Shooting Stars
+        length: 222800
+        video: false
+        disambiguation: 'part of “Ministry of Sound: Decade 2000–2009” DJ‐mix'
+        firstReleaseDate: '2014-03-07'
       - id: 8b58bafa-0a0a-4199-ae6c-95c6462320dc
-        isrcs: []
+        isrcs: &id002
+        - AUUM71000558
+        title: Shooting Stars (Shazam dub)
+        length: 230000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-10-01'
       - id: e012373f-1259-46dd-a7f2-62109b210f23
-        isrcs: []
+        isrcs: &id003
+        - AUUM71001517
+        title: Shooting Stars
+        length: 235813
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-10-15'
       score: 0.9881988
     - id: 19b650a9-04bb-4a76-a7e6-6006ac8c43f5
       recordings:
       - id: 37b7ce3e-d708-4089-b27b-20d88dab7cad
-        isrcs: []
+        isrcs: *id001
+        title: Shooting Stars
+        length: 227126
+        video: false
+        disambiguation: single version
+        firstReleaseDate: '2009-01-01'
       - id: 5bb1f7af-b2a8-498b-a246-ac7941c463ad
         isrcs: []
+        title: Shooting Stars
+        length: 222800
+        video: false
+        disambiguation: 'part of “Ministry of Sound: Decade 2000–2009” DJ‐mix'
+        firstReleaseDate: '2014-03-07'
       - id: 8b58bafa-0a0a-4199-ae6c-95c6462320dc
-        isrcs: []
+        isrcs: *id002
+        title: Shooting Stars (Shazam dub)
+        length: 230000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-10-01'
       - id: d10bfe90-de70-46e4-8554-923e4be60159
         isrcs: []
+        title: Shooting Stars (instrumental)
+        length: 233000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-10-15'
       - id: e012373f-1259-46dd-a7f2-62109b210f23
-        isrcs: []
+        isrcs: *id003
+        title: Shooting Stars
+        length: 235813
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-10-15'
       score: 0.9697389
     status: ok

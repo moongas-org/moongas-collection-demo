@@ -15,11 +15,22 @@ trackIdData:
     - id: 67b31ec5-bc37-4b01-8198-7af99eaba98b
       recordings:
       - id: c078d931-d9ba-4d82-a87b-0b600126f9d1
-        isrcs: []
+        isrcs: &id001
+        - DEN060000184
+        title: Feel You Like a River
+        length: 228000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.9688175
     - id: 9dfb66c5-8e59-46dd-a627-49f9b19da01f
       recordings:
       - id: c078d931-d9ba-4d82-a87b-0b600126f9d1
-        isrcs: []
+        isrcs: *id001
+        title: Feel You Like a River
+        length: 228000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.6970926
     status: ok

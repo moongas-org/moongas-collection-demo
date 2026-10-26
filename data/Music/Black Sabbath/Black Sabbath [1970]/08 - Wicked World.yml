@@ -16,18 +16,56 @@ trackIdData:
       recordings:
       - id: 0b419b48-3172-44fd-a336-0fbffe0e959e
         isrcs: []
+        title: Wicked World
+        length: 289000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-09-06'
       - id: 23cbd00d-7ce5-4ed9-afc1-ff675ac36959
         isrcs: []
+        title: Wicked World
+        length: 283000
+        video: false
+        disambiguation: original mono mix
+        firstReleaseDate: 1970-01
       - id: 29fe8806-472c-4629-8945-cc670c0a2855
-        isrcs: []
+        isrcs: &id001
+        - GBAJE7000083
+        - USWB19900795
+        title: Wicked World
+        length: 285000
+        video: false
+        disambiguation: original stereo mix
+        firstReleaseDate: '1970-03-26'
       - id: fd4acf1b-4da1-478d-98e6-dbcda241e756
-        isrcs: []
+        isrcs:
+        - GB5KW1601269
+        - GBAJE7200130
+        - USRH12002998
+        - USWB10202651
+        - USWB11304619
+        title: Changes
+        length: 283333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-25'
       score: 0.9831883
     - id: f1219425-a751-450d-8366-1a449817597a
       recordings:
       - id: 29fe8806-472c-4629-8945-cc670c0a2855
-        isrcs: []
+        isrcs: *id001
+        title: Wicked World
+        length: 285000
+        video: false
+        disambiguation: original stereo mix
+        firstReleaseDate: '1970-03-26'
       - id: c6d7a50b-a814-45fb-9fba-8bc70a43243a
-        isrcs: []
+        isrcs:
+        - GBAJE8000076
+        title: Tomorrow’s Dream
+        length: 184466
+        video: false
+        disambiguation: 'live, 1973‐03‐11: Hard Rock, Manchester, England, UK'
+        firstReleaseDate: 1980-07
       score: 0.8950092
     status: ok

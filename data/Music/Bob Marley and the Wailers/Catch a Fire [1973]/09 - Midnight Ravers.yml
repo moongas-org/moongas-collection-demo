@@ -15,41 +15,115 @@ trackIdData:
     - id: 711fc18f-a692-4c10-b319-d0b75dc04b9b
       recordings:
       - id: 148c9452-1a81-433c-8ed2-9f454cbe8f87
-        isrcs: []
+        isrcs:
+        - GBAAP2400148
+        title: Midnight
+        length: 306640
+        video: false
+        disambiguation: US Green Album Edit
+        firstReleaseDate: '1991'
       - id: 371c4d7f-06b3-4c48-a8a2-fb159473fa42
         isrcs: []
+        title: Midnight Ravers
+        length: 308106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       - id: 6502b0e6-56dd-429b-81e7-21ab459cbb9e
-        isrcs: []
+        isrcs: &id001
+        - GBAPA0100008
+        title: Midnight Ravers
+        length: 309000
+        video: false
+        disambiguation: original Jamaican version
+        firstReleaseDate: '2001-03-21'
       - id: 93c3b93a-99f7-48f9-bb84-581169c50534
-        isrcs: []
+        isrcs: &id002
+        - GBAAA7300059
+        - GBAAN7300059
+        title: Midnight Ravers
+        length: 308200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-04-13'
       - id: c97e51a9-5f3c-47de-8129-fe4587574dfb
         isrcs: []
+        title: Midnight Ravers
+        length: 297000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973'
       score: 0.97890294
     - id: 0fc8e4ff-fcd6-4f87-a1e7-5d10c36c5201
       recordings:
       - id: 371c4d7f-06b3-4c48-a8a2-fb159473fa42
         isrcs: []
+        title: Midnight Ravers
+        length: 308106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       - id: 6502b0e6-56dd-429b-81e7-21ab459cbb9e
-        isrcs: []
+        isrcs: *id001
+        title: Midnight Ravers
+        length: 309000
+        video: false
+        disambiguation: original Jamaican version
+        firstReleaseDate: '2001-03-21'
       - id: 93c3b93a-99f7-48f9-bb84-581169c50534
-        isrcs: []
+        isrcs: *id002
+        title: Midnight Ravers
+        length: 308200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-04-13'
       - id: b37d0062-f348-40fe-8edb-6fe52401d33e
         isrcs: []
+        title: Midnight Ravers
+        length: 313000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate:
       - id: c97e51a9-5f3c-47de-8129-fe4587574dfb
         isrcs: []
+        title: Midnight Ravers
+        length: 297000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973'
       score: 0.9787711
     - id: b2568659-8084-4f0d-bb6d-ff8602f2382c
       recordings:
       - id: 6502b0e6-56dd-429b-81e7-21ab459cbb9e
-        isrcs: []
+        isrcs: *id001
+        title: Midnight Ravers
+        length: 309000
+        video: false
+        disambiguation: original Jamaican version
+        firstReleaseDate: '2001-03-21'
       - id: 93c3b93a-99f7-48f9-bb84-581169c50534
-        isrcs: []
+        isrcs: *id002
+        title: Midnight Ravers
+        length: 308200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-04-13'
       - id: c97e51a9-5f3c-47de-8129-fe4587574dfb
         isrcs: []
+        title: Midnight Ravers
+        length: 297000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973'
       score: 0.9544106
     - id: 96256905-841d-42e8-9ffd-b772f309c4e5
       recordings:
       - id: 93c3b93a-99f7-48f9-bb84-581169c50534
-        isrcs: []
+        isrcs: *id002
+        title: Midnight Ravers
+        length: 308200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973-04-13'
       score: 0.81236815
     status: ok

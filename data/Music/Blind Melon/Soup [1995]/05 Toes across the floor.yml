@@ -15,15 +15,37 @@ trackIdData:
     - id: 27b1a8f8-76cc-46a0-8121-837dcbdff63f
       recordings:
       - id: 78855de4-d65a-422c-92a6-ccf71ccc45c9
-        isrcs: []
+        isrcs: &id001
+        - USCA20101429
+        - USCA29500712
+        title: Toes Across the Floor
+        length: 185986
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-08-07'
       - id: aad600b5-25cf-473c-b9a0-c9be7cebd167
         isrcs: []
+        title: Toes Across the Floor
+        length: 184600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995'
       - id: f8d17e00-3250-47a2-9ea7-1db122f5f08e
         isrcs: []
+        title: Toes Across The Floor
+        length: 184000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-01-27'
       score: 0.9672007
     - id: 2beede7e-1979-49bb-8ac6-0b59925fd45b
       recordings:
       - id: 78855de4-d65a-422c-92a6-ccf71ccc45c9
-        isrcs: []
+        isrcs: *id001
+        title: Toes Across the Floor
+        length: 185986
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-08-07'
       score: 0.6877307
     status: ok

@@ -15,12 +15,23 @@ trackIdData:
     - id: 716d2049-d93b-483e-9b16-8d6826647f09
       recordings:
       - id: 3da5eb36-aa27-4542-ad18-e903bb412649
-        isrcs: []
+        isrcs: &id001
+        - USIR10500778
+        title: Dandelion
+        length: 278026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       score: 0.9727057
     - id: 85353df7-85c3-48e8-8531-31b6b4c253f5
       recordings:
       - id: 3da5eb36-aa27-4542-ad18-e903bb412649
-        isrcs: []
+        isrcs: *id001
+        title: Dandelion
+        length: 278026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-05-23'
       score: 0.9162711
     - id: b9032ed8-0a1e-4450-92ed-7ad43da160b3
       score: 0.8395965

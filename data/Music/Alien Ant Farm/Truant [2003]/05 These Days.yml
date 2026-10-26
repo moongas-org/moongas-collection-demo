@@ -15,12 +15,23 @@ trackIdData:
     - id: 3935fe8b-f966-4429-b02c-945c473a2f2e
       recordings:
       - id: d1aa78ec-7dd4-47aa-984b-f6fc60430f43
-        isrcs: []
+        isrcs: &id001
+        - USDW10300452
+        title: These Days
+        length: 186306
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-08-01'
       score: 0.9587289
     - id: 87159fa5-0eab-4b5c-94c5-66715760fb23
       recordings:
       - id: d1aa78ec-7dd4-47aa-984b-f6fc60430f43
-        isrcs: []
+        isrcs: *id001
+        title: These Days
+        length: 186306
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-08-01'
       score: 0.67322654
     - id: 11f3c73b-db98-41fc-81ce-31e555403fc1
       score: 0.6200587

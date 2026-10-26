@@ -16,12 +16,28 @@ trackIdData:
       recordings:
       - id: f48d0b00-94d8-4efb-94df-312b41cb94db
         isrcs: []
+        title: Rococo
+        length: 237000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       - id: f6de5637-70a0-4a53-952b-410606c41114
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021617
+        title: Rococo
+        length: 236773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.98711103
     - id: 4a0153f6-a271-4e5f-a3a8-04752449dec2
       recordings:
       - id: f6de5637-70a0-4a53-952b-410606c41114
-        isrcs: []
+        isrcs: *id001
+        title: Rococo
+        length: 236773
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.61438555
     status: ok

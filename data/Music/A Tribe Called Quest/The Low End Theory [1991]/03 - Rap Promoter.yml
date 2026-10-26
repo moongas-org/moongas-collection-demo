@@ -16,19 +16,40 @@ trackIdData:
       recordings:
       - id: 49f199a6-af9a-41c5-b067-5a87ee7143fd
         isrcs: []
+        title: Rap Promotor
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2010-03
       - id: c6ec7923-fae4-4d68-b906-37e484115c0a
-        isrcs: []
+        isrcs: &id001
+        - USJI10300152
+        title: Rap Promoter
+        length: 133000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-09-24'
       score: 0.9773207
     - id: 405cf7a5-9bb0-40a0-9248-5512362aed5f
       recordings:
       - id: c6ec7923-fae4-4d68-b906-37e484115c0a
-        isrcs: []
+        isrcs: *id001
+        title: Rap Promoter
+        length: 133000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-09-24'
       score: 0.8938885
     - id: b6949853-1c14-4f77-833b-9dd7430a2bf3
       score: 0.73401237
     - id: 5574133a-a5d4-4e12-85be-c510c66d83d2
       recordings:
       - id: c6ec7923-fae4-4d68-b906-37e484115c0a
-        isrcs: []
+        isrcs: *id001
+        title: Rap Promoter
+        length: 133000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-09-24'
       score: 0.61599517
     status: ok

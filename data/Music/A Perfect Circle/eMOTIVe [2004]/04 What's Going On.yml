@@ -16,19 +16,46 @@ trackIdData:
       recordings:
       - id: 3236341e-b927-4767-8e9c-ebc36e40dc23
         isrcs: []
+        title: What’s Going On
+        length: 301000
+        video: false
+        disambiguation: 'live, 2010: USA'
+        firstReleaseDate: '2013-11-26'
       - id: 70bf08c4-4595-4143-abed-109aabe2d9ea
-        isrcs: []
+        isrcs: &id001
+        - USVI20400536
+        title: What’s Going On
+        length: 293720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-11-01'
       - id: e6f97f25-cfec-4f44-95c4-f7e94127cecb
-        isrcs: []
+        isrcs:
+        - QMEJX0900046
+        title: What’s Going On
+        length: 294000
+        video: false
+        disambiguation: 'live, 2011-08-02: Red Rocks Amphitheatre, Morrison, CO, USA'
+        firstReleaseDate: '2013-11-26'
       score: 0.9876385
     - id: d93b3c84-bd3a-48c1-a638-47d265c0d9cf
       recordings:
       - id: 70bf08c4-4595-4143-abed-109aabe2d9ea
-        isrcs: []
+        isrcs: *id001
+        title: What’s Going On
+        length: 293720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-11-01'
       score: 0.7408689
     - id: e4404424-5373-43a4-ad9e-b517e112a033
       recordings:
       - id: 70bf08c4-4595-4143-abed-109aabe2d9ea
-        isrcs: []
+        isrcs: *id001
+        title: What’s Going On
+        length: 293720
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-11-01'
       score: 0.59464
     status: ok

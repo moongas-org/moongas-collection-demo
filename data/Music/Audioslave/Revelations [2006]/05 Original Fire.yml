@@ -15,18 +15,45 @@ trackIdData:
     - id: 048ebbc1-9696-4df4-8dc3-59076ae48747
       recordings:
       - id: 1cf4f349-b51b-40ad-a436-4e019464c10f
-        isrcs: []
+        isrcs: &id001
+        - USSM10602961
+        title: Original Fire
+        length: 218760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-07-14'
       - id: 434b930c-a3a0-413d-93f2-eb3a4e3294ac
         isrcs: []
+        title: The Meeting of the Waters
+        length: 225000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       - id: 53194139-92f7-4b09-a7a9-0855d0228b52
-        isrcs: []
+        isrcs:
+        - USSM10603155
+        title: One and the Same
+        length: 218066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-09-01'
       - id: c5c27cff-31f0-4640-a1a1-8f2611dac9bc
         isrcs: []
+        title: Original Fire
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014'
       score: 1.0
     - id: 6805cfc6-7ffe-4183-a49f-be3d822eb363
       recordings:
       - id: 1cf4f349-b51b-40ad-a436-4e019464c10f
-        isrcs: []
+        isrcs: *id001
+        title: Original Fire
+        length: 218760
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-07-14'
       score: 0.8424314
     - id: 76a54d5b-22fd-4050-a4e3-eeb4b48bd83e
       score: 0.73757255

@@ -15,21 +15,58 @@ trackIdData:
     - id: d385d023-e7c5-4ebc-b511-3c09ae0c553c
       recordings:
       - id: 2d06aef6-fa2a-44a3-a1f4-46037b919f5d
-        isrcs: []
+        isrcs: &id001
+        - USSM19917768
+        title: Hot Rails to Hell
+        length: 310933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-02
       - id: e5559e34-7473-4a75-bafd-35664ca7b8d7
-        isrcs: []
+        isrcs: &id002
+        - USSM19917751
+        title: Hot Rails to Hell
+        length: 329066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1975-02
       score: 0.95480615
     - id: 0ef6c45a-4fc3-4ed4-9eb2-995243decc5b
       recordings:
       - id: 2d06aef6-fa2a-44a3-a1f4-46037b919f5d
-        isrcs: []
+        isrcs: *id001
+        title: Hot Rails to Hell
+        length: 310933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-02
       - id: 49563a37-01c1-4848-bc1b-acbe9f191226
         isrcs: []
+        title: Hot Rails to Hell
+        length: 311000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: d664e00a-1baa-4e49-b06b-85c47986e4d7
         isrcs: []
+        title: Hot Rails to Hell
+        length: 313000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-11-01'
       - id: e5559e34-7473-4a75-bafd-35664ca7b8d7
-        isrcs: []
+        isrcs: *id002
+        title: Hot Rails to Hell
+        length: 329066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1975-02
       - id: e76722ea-b763-4ed6-90bb-31d8f6e7b06c
         isrcs: []
+        title: Hot Rails to Hell
+        length: 308600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988'
       score: 0.95038897
     status: ok

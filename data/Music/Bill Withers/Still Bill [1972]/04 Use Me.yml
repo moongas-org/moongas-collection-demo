@@ -18,22 +18,79 @@ trackIdData:
       recordings:
       - id: 3d793ca3-1e0e-4377-9d72-aa9428e081a5
         isrcs: []
+        title: Freddie’s Dead (Theme from Superfly)
+        length: 228866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1990'
       - id: 9bf67fd9-eb35-4a68-8223-1d70fdc19c11
-        isrcs: []
+        isrcs: &id001
+        - USSM10000367
+        - USSM10207818
+        - USSM17200281
+        - USSM17700713
+        - USSM18000507
+        title: Use Me
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-05-20'
       - id: a5793d80-306a-4faa-8a61-6c7b90660c77
-        isrcs: []
+        isrcs:
+        - USUM70821103
+        title: Use Me
+        length: 229000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: bbd236aa-e45b-4fd5-8e9b-a7213a9b0f15
         isrcs: []
+        title: Use Me
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       score: 0.976068
     - id: a3410ce6-544c-49a3-969c-cbe5b7d379c1
       recordings:
       - id: 28a38ecd-2283-4281-9e35-1135f28718c9
-        isrcs: []
+        isrcs:
+        - USMO10111067
+        - USMO16800261
+        - USMO16882601
+        - USMO16890001
+        title: Cloud Nine
+        length: 211693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1969-02
       - id: 2b03e9e9-0593-448d-898f-9a79c91cec34
-        isrcs: []
+        isrcs:
+        - GBAJE0506765
+        - USSM10000363
+        - USSM10207844
+        - USSM17700024
+        - USSM17700714
+        - USSM19802247
+        title: Lovely Day
+        length: 251000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1977-12
       - id: 9285bd08-ce6c-4735-8f0a-e4a45a5e4781
-        isrcs: []
+        isrcs:
+        - USMR18489014
+        title: She’s Strange
+        length: 226733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1984'
       - id: 9bf67fd9-eb35-4a68-8223-1d70fdc19c11
-        isrcs: []
+        isrcs: *id001
+        title: Use Me
+        length: 223000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-05-20'
       score: 0.9375989
     status: ok

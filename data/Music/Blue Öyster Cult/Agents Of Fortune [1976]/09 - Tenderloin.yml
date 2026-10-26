@@ -15,15 +15,37 @@ trackIdData:
     - id: b086556c-77d4-470e-8d28-ef5f65397d15
       recordings:
       - id: 647816f7-aeb3-47c3-913b-c492bdc5b030
-        isrcs: []
+        isrcs: &id001
+        - USSM17600769
+        title: Tenderloin
+        length: 220000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-06-26'
       - id: 9405e3f7-d44b-49de-b5d3-9fafc6ff61c7
-        isrcs: []
+        isrcs:
+        - ITG272000243
+        title: Tenderloin
+        length: 228944
+        video: false
+        disambiguation: 'live, 2016-04-08: Red Studios, Hollywood, CA, USA'
+        firstReleaseDate: '2020-03-06'
       - id: 9c8022fd-5963-4b0c-a6b8-fa4046d28130
         isrcs: []
+        title: Tenderloin
+        length: 237733
+        video: false
+        disambiguation: with segue from Morning Final
+        firstReleaseDate: '1976-05-21'
       score: 0.9627835
     - id: 3082d75e-3ceb-47f6-9fcc-3ca983131477
       recordings:
       - id: 647816f7-aeb3-47c3-913b-c492bdc5b030
-        isrcs: []
+        isrcs: *id001
+        title: Tenderloin
+        length: 220000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-06-26'
       score: 0.84286
     status: ok

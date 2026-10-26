@@ -15,11 +15,23 @@ trackIdData:
     - id: a4df9d3e-b0ec-4b04-8e2c-589255d82886
       recordings:
       - id: 10c16cdc-3a08-4d80-9b7c-6826d4c4aaea
-        isrcs: []
+        isrcs: &id001
+        - USCA20807304
+        - USCA28900047
+        title: Egg Man
+        length: 177706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-07-25'
       score: 0.9762988
     - id: d4784de0-8c42-42b0-91cf-ca9307b9da39
       recordings:
       - id: 10c16cdc-3a08-4d80-9b7c-6826d4c4aaea
-        isrcs: []
+        isrcs: *id001
+        title: Egg Man
+        length: 177706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-07-25'
       score: 0.7783162
     status: ok

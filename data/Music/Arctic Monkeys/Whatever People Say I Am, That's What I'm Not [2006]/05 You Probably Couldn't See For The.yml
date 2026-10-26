@@ -16,11 +16,24 @@ trackIdData:
     - id: 9edf64c9-6dab-4ac0-876b-08159edf0d39
       recordings:
       - id: d235fada-ee9f-4002-b822-b7bf709026b5
-        isrcs: []
+        isrcs: &id001
+        - GBCEL0501184
+        title: You Probably Couldn’t See for the Lights but You Were Staring 
+          Straight at Me
+        length: 130813
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.987311
     - id: 7769c0b7-f228-44e6-aaac-97a07c7a3280
       recordings:
       - id: d235fada-ee9f-4002-b822-b7bf709026b5
-        isrcs: []
+        isrcs: *id001
+        title: You Probably Couldn’t See for the Lights but You Were Staring 
+          Straight at Me
+        length: 130813
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.942148
     status: ok

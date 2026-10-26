@@ -16,11 +16,24 @@ trackIdData:
     - id: be3369e8-4ebd-41ab-8ee0-4543c312dc99
       recordings:
       - id: 90e038fe-91bc-4e5c-b9a7-ddb0488d9c4a
-        isrcs: []
+        isrcs: &id001
+        - USSM12305448
+        title: I Swear, I Really Wanted to Make a “Rap” Album but This Is 
+          Literally the Way the Wind Blew Me This Time
+        length: 740000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-11-17'
       score: 0.9824301
     - id: 1389bd9b-c472-4bd5-a526-37e7016d6aaa
       recordings:
       - id: 90e038fe-91bc-4e5c-b9a7-ddb0488d9c4a
-        isrcs: []
+        isrcs: *id001
+        title: I Swear, I Really Wanted to Make a “Rap” Album but This Is 
+          Literally the Way the Wind Blew Me This Time
+        length: 740000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023-11-17'
       score: 0.7900514
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: c0931f03-288c-47ca-8074-1d0599f61bb9
       recordings:
       - id: c110f9af-3911-4ec7-92ca-2a4bc206df9c
-        isrcs: []
+        isrcs: &id001
+        - DEN060000178
+        title: Sensuality
+        length: 233000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.9884955
     - id: 1263c0b1-4dfe-4ec3-bd51-08fca9fb53fd
       recordings:
       - id: c110f9af-3911-4ec7-92ca-2a4bc206df9c
-        isrcs: []
+        isrcs: *id001
+        title: Sensuality
+        length: 233000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-10-31'
       score: 0.65938157
     status: ok

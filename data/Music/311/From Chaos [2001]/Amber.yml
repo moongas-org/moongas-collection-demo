@@ -16,25 +16,68 @@ trackIdData:
       recordings:
       - id: 79f3117e-81fe-48e6-8dd0-7eed3977ba72
         isrcs: []
+        title: Amber
+        length: 215000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: 91bd230c-3f5b-4ad3-ae53-1dd3d77c3e0e
         isrcs: []
+        title: Amber
+        length: 220938
+        video: false
+        disambiguation: 'live, 2020-03-13: Park Theater, Las Vegas, NV, USA'
+        firstReleaseDate: '2020-03-11'
       - id: a6fbaa19-13b1-495f-a389-308f472a90eb
         isrcs: []
+        title: Amber (Radio Edit)
+        length: 177000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002'
       - id: ad4fd92e-76b4-411b-9323-038068e71729
         isrcs: []
+        title: Amber
+        length:
+        video: false
+        disambiguation: 'live, 2011-08-16: Red Rocks Amphitheatre, Morrison, Colorado,
+          USA'
+        firstReleaseDate:
       - id: b04db5fe-7f01-4f8e-bfe1-66d4caf1278f
-        isrcs: []
+        isrcs: &id001
+        - USVR10100044
+        title: Amber
+        length: 208506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-06-13'
       score: 0.9801226
     - id: 90718ce3-5e9d-4196-aad1-06a4282c225f
       recordings:
       - id: 09743c60-c85c-4e02-a4fc-a64b7d686dc5
-        isrcs: []
+        isrcs:
+        - GBAJE0300605
+        title: She Kissed Me (It Felt Like a Hit)
+        length: 207106
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-09-08'
       - id: b04db5fe-7f01-4f8e-bfe1-66d4caf1278f
-        isrcs: []
+        isrcs: *id001
+        title: Amber
+        length: 208506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-06-13'
       score: 0.9700356
     - id: 2cb78fec-5d1d-4d45-ad58-b954422a4bd5
       recordings:
       - id: b04db5fe-7f01-4f8e-bfe1-66d4caf1278f
-        isrcs: []
+        isrcs: *id001
+        title: Amber
+        length: 208506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-06-13'
       score: 0.94415873
     status: ok

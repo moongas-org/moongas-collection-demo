@@ -16,28 +16,70 @@ trackIdData:
       recordings:
       - id: 0b717398-5ea1-40ef-b6dc-2a121b4bd834
         isrcs: []
+        title: Another Green World
+        length: 137600
+        video: false
+        disambiguation: 'part of a “LateNightTales: The Flaming Lips” DJ‐mix'
+        firstReleaseDate: '2005-03-07'
       - id: 678d9f83-41b9-4d24-b92f-9d87b23f94cc
-        isrcs: []
+        isrcs:
+        - GBAAA7500081
+        title: Another Green World
+        length: 101000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-03-07'
       - id: 87588b70-b944-41b8-aa91-6fa632e46938
         isrcs: []
+        title: Another Green World
+        length: 97520
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003'
       - id: a0fc7d41-d787-43ad-b053-e9a7a6c538e8
         isrcs: []
+        title: Another Green World
+        length: 100600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1993-11
       - id: ecf9b6eb-b148-47c4-8c8f-382cb78e0528
-        isrcs: []
+        isrcs: &id001
+        - GBAAA0400080
+        title: Another Green World
+        length: 97000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1975-09
       score: 0.99701816
     - id: 8305924d-cc4e-444b-9dc6-1cc0a33d2a8b
       recordings:
       - id: ecf9b6eb-b148-47c4-8c8f-382cb78e0528
-        isrcs: []
+        isrcs: *id001
+        title: Another Green World
+        length: 97000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1975-09
       score: 0.9349716
     - id: 22e1ac46-2d87-4932-ab72-aec2688e376c
       recordings:
       - id: ecf9b6eb-b148-47c4-8c8f-382cb78e0528
-        isrcs: []
+        isrcs: *id001
+        title: Another Green World
+        length: 97000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1975-09
       score: 0.9034577
     - id: 2348d722-4a59-4060-8795-e4279f013497
       recordings:
       - id: ecf9b6eb-b148-47c4-8c8f-382cb78e0528
-        isrcs: []
+        isrcs: *id001
+        title: Another Green World
+        length: 97000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1975-09
       score: 0.9034577
     status: ok

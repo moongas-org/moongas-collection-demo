@@ -15,33 +15,98 @@ trackIdData:
     - id: e00478ce-d841-4479-969e-868ff38b7ce2
       recordings:
       - id: 90141c46-0f99-4435-a90a-af666d6599b7
-        isrcs: []
+        isrcs: &id001
+        - USWB10303105
+        - USWB10603240
+        - USWB11202706
+        - USWB19901792
+        title: A Horse With No Name
+        length: 250026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       - id: da34df30-8f1a-4cd8-9dbc-f6a0717c7ad0
         isrcs: []
+        title: A Horse With No Name
+        length: 223240
+        video: false
+        disambiguation: live
+        firstReleaseDate: '1999'
       score: 0.9905393
     - id: f4916677-2959-4132-afa4-06b20e9ed189
       recordings:
       - id: 43699276-bdf1-48aa-8e38-a46107df18c5
         isrcs: []
+        title: A Horse With No Name
+        length:
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2007'
       - id: 65728524-d267-4fa2-ae3c-d7ef4a90fd65
         isrcs: []
+        title: Horse With No Name (2012 Collection remaster)
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015'
       - id: 8473af1b-3089-4686-ba8b-abc3f13577d2
         isrcs: []
+        title: A Horse With No Name
+        length: 252000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-11-29'
       - id: 90141c46-0f99-4435-a90a-af666d6599b7
-        isrcs: []
+        isrcs: *id001
+        title: A Horse With No Name
+        length: 250026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       - id: 92463717-3254-4063-9b74-a16ff8d49570
-        isrcs: []
+        isrcs: &id002
+        - USA820600112
+        - USWB10200348
+        title: A Horse With No Name
+        length: 258160
+        video: false
+        disambiguation: 'live, 2005-10-23: XM Performance Theater, Washington, DC,
+          USA'
+        firstReleaseDate: '2006'
       - id: e72ae805-bc63-49c7-94e5-0cac5bc7cfc8
         isrcs: []
+        title: Love Me Like You Do
+        length: 256342
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017'
       score: 0.98384756
     - id: d2c46513-6f33-47f2-b235-f92ef6bbddb9
       recordings:
       - id: 3c224c4b-4791-405a-a91c-b156a7d3c015
-        isrcs: []
+        isrcs:
+        - USA820600112
+        - USWB10200348
+        title: A Horse With No Name
+        length: 257000
+        video: false
+        disambiguation: 'live, 1977-07-24: Greek Theater, Los Angeles, CA, USA'
+        firstReleaseDate: '1977'
       - id: 90141c46-0f99-4435-a90a-af666d6599b7
-        isrcs: []
+        isrcs: *id001
+        title: A Horse With No Name
+        length: 250026
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-12-01'
       - id: 92463717-3254-4063-9b74-a16ff8d49570
-        isrcs: []
+        isrcs: *id002
+        title: A Horse With No Name
+        length: 258160
+        video: false
+        disambiguation: 'live, 2005-10-23: XM Performance Theater, Washington, DC,
+          USA'
+        firstReleaseDate: '2006'
       score: 0.97336495
     - id: adf711ca-a11f-4354-9747-361281ea518d
       score: 0.74765956

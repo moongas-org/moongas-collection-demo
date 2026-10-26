@@ -15,11 +15,22 @@ trackIdData:
     - id: 947f7b2f-db8e-4308-8ec4-ba8c660d0937
       recordings:
       - id: c2442d48-6452-494b-94d7-91c5ecb797e1
-        isrcs: []
+        isrcs: &id001
+        - USSM19911970
+        title: Subhuman
+        length: 277893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-04
       score: 0.96130013
     - id: 5e7c561a-539c-49b7-b9aa-147194643a1d
       recordings:
       - id: c2442d48-6452-494b-94d7-91c5ecb797e1
-        isrcs: []
+        isrcs: *id001
+        title: Subhuman
+        length: 277893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-04
       score: 0.7625923
     status: ok

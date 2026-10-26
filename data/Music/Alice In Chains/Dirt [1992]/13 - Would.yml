@@ -16,32 +16,101 @@ trackIdData:
       recordings:
       - id: 06ade853-ffa2-4fa3-aa94-ef7cb604d1f4
         isrcs: []
+        title: Would?
+        length: 207000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2001-08-29'
       - id: 1f9f8b2a-21fe-4fc2-b953-8230a2fcce0b
         isrcs: []
+        title: Would?
+        length: 236933
+        video: false
+        disambiguation: 'live, 1993-03-02: Glasgow Barrowland, Glasgow, UK'
+        firstReleaseDate: '1996'
       - id: 35a4ccfe-1081-4c83-8841-1e6d5062980c
         isrcs: []
+        title: Would
+        length:
+        video: false
+        disambiguation: 'live, 1992‐10‐08: Oakland–Alameda County Coliseum, Oakland,
+          CA, USA'
+        firstReleaseDate: '2017-07-24'
       - id: 3dc26ca2-3239-4411-a9e0-9b2ca753bb1c
         isrcs: []
+        title: Would?
+        length:
+        video: false
+        disambiguation: 'live, 1992-11-27: The Channel, Boston, MA, USA'
+        firstReleaseDate:
       - id: 470c7b30-678f-4022-87f8-54daa752f7bd
         isrcs: []
+        title: Would?
+        length: 209000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008'
       - id: 4a633a34-a6cc-4156-b6fc-ba6f6cfa15f4
         isrcs: []
+        title: Would?
+        length:
+        video: false
+        disambiguation: 'live, 1993‐07‐02: Mejeriet, Lund, Sweden'
+        firstReleaseDate: '1993'
       - id: 91168abd-b35d-400b-b7d6-61ec821f12c4
         isrcs: []
+        title: Would? (5.1 mix)
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001-07-24'
       - id: a55c4f31-863a-4c1f-9b2b-8df9335e8f4c
         isrcs: []
+        title: Would? (Alice in Chains)
+        length: 206000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2015-11-13'
       - id: a6252909-cea5-434c-96a2-6ca4b1185b41
         isrcs: []
+        title: Would?
+        length:
+        video: false
+        disambiguation: 'live, 1993‐10‐13: Hugenottenhalle, Neu Isenburg, Germany'
+        firstReleaseDate:
       - id: b0b9e9c1-a234-42db-a2b6-d0d576bf525d
-        isrcs: []
+        isrcs: &id001
+        - USSM10414453
+        - USSM19200614
+        - USSM19200805
+        title: Would?
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-06-30'
       - id: d41e4b4e-1f4d-4f7b-9768-beff3170ab03
         isrcs: []
+        title: Breed (demo)
+        length: 185146
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: ec545679-bfbc-4e56-9132-61204a462144
         isrcs: []
+        title: Would?
+        length: 224000
+        video: false
+        disambiguation: 'live, 1993-02-02: Live Music Hall, Frankfurt, Germany'
+        firstReleaseDate: '1993'
       score: 0.983452
     - id: 4faf672c-add4-445a-b941-84658c141191
       recordings:
       - id: b0b9e9c1-a234-42db-a2b6-d0d576bf525d
-        isrcs: []
+        isrcs: *id001
+        title: Would?
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-06-30'
       score: 0.7746572
     status: ok

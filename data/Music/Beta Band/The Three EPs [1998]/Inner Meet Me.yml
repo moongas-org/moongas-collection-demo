@@ -15,11 +15,22 @@ trackIdData:
     - id: 46346729-db34-4d90-8eba-b24900cb3dee
       recordings:
       - id: f592acb0-6596-497d-8cda-d3e44e5a5ad6
-        isrcs: []
+        isrcs: &id001
+        - GBAYE9800212
+        title: Inner Meet Me
+        length: 380000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-03-02'
       score: 0.986221
     - id: 111a69fe-7f50-4dc1-b6c7-c667d7e3679b
       recordings:
       - id: f592acb0-6596-497d-8cda-d3e44e5a5ad6
-        isrcs: []
+        isrcs: *id001
+        title: Inner Meet Me
+        length: 380000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-03-02'
       score: 0.94056565
     status: ok

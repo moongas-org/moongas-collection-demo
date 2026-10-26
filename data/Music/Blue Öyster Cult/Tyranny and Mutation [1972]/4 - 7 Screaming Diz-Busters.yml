@@ -16,12 +16,28 @@ trackIdData:
       recordings:
       - id: 11bef7b9-f836-46d6-ad26-123ecfdb9dc6
         isrcs: []
+        title: Born to Be Wild
+        length: 220800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995'
       - id: 5b4c4109-74f0-48cb-8171-b49b6b884e82
-        isrcs: []
+        isrcs: &id001
+        - USSM17200017
+        title: 7 Screaming Diz‐Busters
+        length: 420840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-02
       score: 0.9872099
     - id: 6fdf78a6-4f38-4cc5-bcc8-d1a7a893c2dd
       recordings:
       - id: 5b4c4109-74f0-48cb-8171-b49b6b884e82
-        isrcs: []
+        isrcs: *id001
+        title: 7 Screaming Diz‐Busters
+        length: 420840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-02
       score: 0.93298393
     status: ok

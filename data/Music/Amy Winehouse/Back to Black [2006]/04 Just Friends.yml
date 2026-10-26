@@ -16,25 +16,74 @@ trackIdData:
       recordings:
       - id: 1acb8ade-b58c-4f44-a1db-fddcaf35fd58
         isrcs: []
+        title: Just Friends
+        length: 191859
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2020-08-21'
       - id: 1f44d8b1-2cd0-49f1-ba00-68af3d96b369
         isrcs: []
+        title: Just Friends
+        length: 197000
+        video: false
+        disambiguation: 'live, 2009: Big Band Special, BBC Radio 2'
+        firstReleaseDate: '2012-11-16'
       - id: 455e7a4a-7ded-4ad5-97ed-4a50ba1ae261
         isrcs: []
+        title: Just Friends
+        length: 194000
+        video: false
+        disambiguation: instrumental
+        firstReleaseDate: '2006'
       - id: 8a0a0f1e-5d58-430f-9f46-3c4e14220257
         isrcs: []
+        title: Just Friends
+        length: 199000
+        video: false
+        disambiguation: 'live, 2007-02-08: Paradiso, Amsterdam, Netherlands'
+        firstReleaseDate: '2007'
       - id: 8f3461f5-6833-44a6-b705-1b65ef610102
-        isrcs: []
+        isrcs: &id001
+        - GBUM70604696
+        title: Just Friends
+        length: 193306
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2006-10-30'
       - id: bf6b8532-f1b9-41d6-8295-2fa3ed81ab12
-        isrcs: []
+        isrcs:
+        - BE24A0700001
+        - BEF240700001
+        title: Candy on the Dancefloor (radio mix)
+        length: 169000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-09-28'
       - id: ff40ae51-7494-4987-b457-9635cf0e44c7
-        isrcs: []
+        isrcs:
+        - GBUM70700413
+        title: Just Friends
+        length: 193306
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '2007-03-13'
       score: 0.9826279
     - id: a307c416-0c49-48de-9ecc-e822ad0757fc
       recordings:
       - id: 8a0a0f1e-5d58-430f-9f46-3c4e14220257
         isrcs: []
+        title: Just Friends
+        length: 199000
+        video: false
+        disambiguation: 'live, 2007-02-08: Paradiso, Amsterdam, Netherlands'
+        firstReleaseDate: '2007'
       - id: 8f3461f5-6833-44a6-b705-1b65ef610102
-        isrcs: []
+        isrcs: *id001
+        title: Just Friends
+        length: 193306
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2006-10-30'
       score: 0.9799208
     - id: 16e039de-656b-4b33-92a9-3d47c29ceb24
       score: 0.7838542

@@ -15,11 +15,22 @@ trackIdData:
     - id: da2f666b-e8f1-49c7-9d37-1e4dbb291b6d
       recordings:
       - id: 8a16842e-cefa-4863-8924-e759105076f4
-        isrcs: []
+        isrcs: &id001
+        - GBBPW0700214
+        title: fwzE
+        length: 158693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.99327534
     - id: efbd8cb9-08d0-4070-beb3-da06ab053f30
       recordings:
       - id: 8a16842e-cefa-4863-8924-e759105076f4
-        isrcs: []
+        isrcs: *id001
+        title: fwzE
+        length: 158693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-01-29'
       score: 0.881428
     status: ok

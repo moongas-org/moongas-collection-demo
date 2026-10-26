@@ -15,25 +15,78 @@ trackIdData:
     - id: 949236ce-8465-488d-8315-34e161258262
       recordings:
       - id: 1874f82a-30b9-4d72-be23-b34f573e1559
-        isrcs: []
+        isrcs:
+        - USWB11900582
+        title: Sister Golden Hair (demo)
+        length: 202146
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-07-12'
       - id: 28985757-d659-4d39-be89-0509746de71a
-        isrcs: []
+        isrcs: &id001
+        - USWB10603260
+        - USWB19901801
+        title: Sister Golden Hair
+        length: 199866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975'
       - id: 3d4031c5-6833-444f-8ed8-801b2c165036
-        isrcs: []
+        isrcs:
+        - USYRC1100038
+        title: Sister Golden Hair
+        length: 191826
+        video: false
+        disambiguation: 'live: The Troubadour, West Hollywood, CA, USA'
+        firstReleaseDate: '2012-01-10'
       - id: 3e401364-530f-4cb3-b389-b7e833a3e7dd
-        isrcs: []
+        isrcs:
+        - USCA28500156
+        title: Sister Golden Hair
+        length: 201000
+        video: false
+        disambiguation: 'live, 1985-06-01: Arlington Theatre, Santa Barbara, CA, USA'
+        firstReleaseDate: '1985'
       - id: 5e805a88-41dd-4ae0-9c90-19ca88e58d9e
         isrcs: []
+        title: Sister Golden Hair
+        length: 191000
+        video: false
+        disambiguation: 'live, 1982-09-04: Blossom Music Center, Cuyahoga Falls, OH,
+          USA'
+        firstReleaseDate: '1999'
       - id: bb0de733-26f7-4131-8712-eeb904f39ddb
         isrcs: []
+        title: Sister Golden Hair
+        length: 196000
+        video: false
+        disambiguation: 'live, 1985-06-01: Arlington Theatre, Santa Barbara, CA, USA'
+        firstReleaseDate: '1996-03-07'
       - id: e595a2e6-9745-47be-8cb7-defbc1708dcc
-        isrcs: []
+        isrcs:
+        - USWB10200347
+        title: Sister Golden Hair
+        length: 205000
+        video: false
+        disambiguation: 'live, 1977-07-24: Greek Theater, Los Angeles, CA, USA'
+        firstReleaseDate: '1977'
       - id: fa5e20db-0f6b-401a-a9b8-69e2a2a69550
-        isrcs: []
+        isrcs:
+        - GBARL2101747
+        title: No (Galantis remix)
+        length: 186808
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-11-11'
       score: 0.9822653
     - id: b1ae87c5-a7bb-466f-92c2-e1951544c6da
       recordings:
       - id: 28985757-d659-4d39-be89-0509746de71a
-        isrcs: []
+        isrcs: *id001
+        title: Sister Golden Hair
+        length: 199866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975'
       score: 0.97985893
     status: ok

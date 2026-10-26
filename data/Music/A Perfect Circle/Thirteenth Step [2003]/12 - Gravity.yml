@@ -15,17 +15,44 @@ trackIdData:
     - id: 881110d1-6bf2-4d55-9d2b-72096b533467
       recordings:
       - id: c105b442-bcf1-4b8c-9e1f-83b96e77976c
-        isrcs: []
+        isrcs: &id001
+        - USVI20301037
+        title: Gravity
+        length: 306000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-09-15'
       score: 0.98928666
     - id: 7732cb7b-7ce9-4f55-98ed-ca6ca9268756
       recordings:
       - id: 029da372-9315-4277-9c69-a9c1d48ac24d
         isrcs: []
+        title: Gravity
+        length:
+        video: false
+        disambiguation: 'live, 2003-11-26: Palace Theater, Albany, NY, USA'
+        firstReleaseDate:
       - id: 08c209e7-3fc7-49f5-b0ef-c13319484b0a
         isrcs: []
+        title: Gravity
+        length:
+        video: false
+        disambiguation: 'live, 2003‐10‐31: Freeman Coliseum, San Antonio, TX, USA'
+        firstReleaseDate:
       - id: c105b442-bcf1-4b8c-9e1f-83b96e77976c
-        isrcs: []
+        isrcs: *id001
+        title: Gravity
+        length: 306000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-09-15'
       - id: e4728e52-4dea-4608-9813-4e47e7e53d54
-        isrcs: []
+        isrcs:
+        - USSM10804010
+        title: Gravity
+        length: 309573
+        video: false
+        disambiguation: 'live, 2008-07-12: The Fillmore, San Francisco, CA, USA'
+        firstReleaseDate: '2008-10-28'
       score: 0.981606
     status: ok

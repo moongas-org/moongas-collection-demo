@@ -15,25 +15,76 @@ trackIdData:
     - id: 5ec17123-68be-4133-a2b3-b1a212c5e0b4
       recordings:
       - id: e2abc40f-173b-4307-bf72-ec49b41a7384
-        isrcs: []
+        isrcs: &id001
+        - USCH30100133
+        - USCH39200004
+        title: Mr. Wendal
+        length: 247506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.9840454
     - id: 2c21e020-347e-41ce-802c-bfe787373782
       recordings:
       - id: 03d9fd73-2d9d-4c2e-b183-22e2e59bb5b1
-        isrcs: []
+        isrcs:
+        - USCA29300004
+        title: The Way She Loves Me
+        length: 256000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: 5853af4c-7df5-4eb0-b387-4679b599ed7e
-        isrcs: []
+        isrcs:
+        - USCH30100133
+        title: Mr. Wendal
+        length: 246960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-06-01'
       - id: 62003cf2-ceed-4d29-9efa-eb781a6968f8
         isrcs: []
+        title: Arrested Development
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-04-26'
       - id: 7cc1f1cf-f64a-421a-acf6-06cd3bd4c0a2
         isrcs: []
+        title: Mr. Wendall
+        length: 248000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000'
       - id: 90f99139-4298-46d7-a767-5da935aee51e
-        isrcs: []
+        isrcs:
+        - USCA29201593
+        title: Mr. Wendal
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992'
       - id: a4b9ea19-7afd-4a14-a5e8-4091b817ffc4
-        isrcs: []
+        isrcs:
+        - USCH39200004
+        title: Mr Wendal
+        length: 246560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-03-03'
       - id: e2abc40f-173b-4307-bf72-ec49b41a7384
-        isrcs: []
+        isrcs: *id001
+        title: Mr. Wendal
+        length: 247506
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       - id: fec182d9-60c5-40f7-9869-05fd75abfdab
         isrcs: []
+        title: Arrested Development
+        length: 240836
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-12-09'
       score: 0.98312235
     status: ok

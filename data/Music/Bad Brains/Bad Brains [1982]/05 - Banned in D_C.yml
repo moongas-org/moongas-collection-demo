@@ -16,16 +16,43 @@ trackIdData:
       recordings:
       - id: 08194257-41d0-48af-9359-627e65d8bc59
         isrcs: []
+        title: Banned in D.C.
+        length: 133000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       - id: 2d8fafb6-644d-4a59-9f8a-1112e7516c4d
-        isrcs: []
+        isrcs: &id001
+        - US29V0422305
+        - USFMA1900132
+        title: Banned in D.C.
+        length: 132786
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: 77593c0e-6b91-4b0d-96c3-dbc2a778156f
         isrcs: []
+        title: Banned in D.C.
+        length: 128000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: 80548759-6539-46e9-af36-40e722e1e8f0
         isrcs: []
+        title: Banned in D.C.
+        length: 129333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-01-30'
       score: 0.9857595
     - id: 9253a241-35d4-4869-98c2-01345873ddd9
       recordings:
       - id: 2d8fafb6-644d-4a59-9f8a-1112e7516c4d
-        isrcs: []
+        isrcs: *id001
+        title: Banned in D.C.
+        length: 132786
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9808149
     status: ok

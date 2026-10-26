@@ -16,17 +16,39 @@ trackIdData:
       recordings:
       - id: 066e553f-62a9-4dfb-bbef-5c3ccb9f6378
         isrcs: []
+        title: Into the Void
+        length: 373200
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995'
       - id: 8fb8ee37-8bf8-439f-94f5-a447b58c7593
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1602014
+        - GBAJE7100089
+        title: Into the Void
+        length: 372600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       score: 0.9666403
     - id: 146626bd-d4fe-4198-91f8-672b939760f3
       recordings:
       - id: 8fb8ee37-8bf8-439f-94f5-a447b58c7593
-        isrcs: []
+        isrcs: *id001
+        title: Into the Void
+        length: 372600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       score: 0.95121306
     - id: b9340003-07ab-4bb4-bf27-dbc5748f0348
       recordings:
       - id: 8fb8ee37-8bf8-439f-94f5-a447b58c7593
-        isrcs: []
+        isrcs: *id001
+        title: Into the Void
+        length: 372600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971-07-21'
       score: 0.9075356
     status: ok

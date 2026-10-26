@@ -15,15 +15,37 @@ trackIdData:
     - id: 0abb31ad-54c0-454b-acf3-2b8feac52d41
       recordings:
       - id: a7e476c8-bb6f-4930-afe1-5ad5d9189fed
-        isrcs: []
+        isrcs: &id001
+        - US29V0422303
+        - USFMA1900130
+        title: Attitude
+        length: 79866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9792668
     - id: cd8644f8-9d09-4e4d-a5ab-7c0fdcd7c744
       recordings:
       - id: 2038664b-5b36-4867-8aa9-ff5476c29c69
         isrcs: []
+        title: Attitude
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-06-11'
       - id: a7e476c8-bb6f-4930-afe1-5ad5d9189fed
-        isrcs: []
+        isrcs: *id001
+        title: Attitude
+        length: 79866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: f86cec6e-51ec-4b12-993d-a30a2e23e308
         isrcs: []
+        title: Attitude
+        length: 80000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       score: 0.964393
     status: ok

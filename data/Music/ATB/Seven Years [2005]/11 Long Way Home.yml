@@ -16,20 +16,58 @@ trackIdData:
       recordings:
       - id: 42f8617d-76a2-4025-9a64-8d56cdb4f98f
         isrcs: []
+        title: Long Way Home
+        length: 240000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-08-04'
       - id: 444af6ce-9d00-48b7-a2f0-d4a62f9f6d99
-        isrcs: []
+        isrcs:
+        - DEN060500186
+        - DEN060500187
+        title: Long Way Home
+        length: 241000
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       - id: 48a743c0-e681-4c45-a318-c274cfa58e98
         isrcs: []
+        title: Long Way Home
+        length: 238000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2003-07-07'
       - id: 6246cd60-58d8-4844-8e2d-e51f9c56f2b2
-        isrcs: []
+        isrcs: &id001
+        - DEN060300845
+        title: Long Way Home (radio edit)
+        length: 240800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-07-07'
       - id: d9c0e167-f14b-4305-bc57-ee1a711fc876
         isrcs: []
+        title: Long Way Home
+        length: 240080
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003'
       - id: dee9cf04-dac7-416c-b6df-4e09883acbf1
         isrcs: []
+        title: Long Way Home (airplay edit)
+        length: 240066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-08-18'
       score: 0.97128826
     - id: 2cd9f952-1b9d-47c9-917a-6db93d7b7d44
       recordings:
       - id: 6246cd60-58d8-4844-8e2d-e51f9c56f2b2
-        isrcs: []
+        isrcs: *id001
+        title: Long Way Home (radio edit)
+        length: 240800
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-07-07'
       score: 0.5625468
     status: ok

@@ -15,12 +15,23 @@ trackIdData:
     - id: bfcb3178-cde8-4bc1-a9f1-634ca60d4c0e
       recordings:
       - id: 9c8b0a8d-ffbc-4e82-ad4e-15f276043b9a
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9800014
+        title: Triangles & Rhombuses
+        length: 110400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.99034876
     - id: 161bd5a2-9d1c-4af0-9c64-03cc1bbf6211
       recordings:
       - id: 9c8b0a8d-ffbc-4e82-ad4e-15f276043b9a
-        isrcs: []
+        isrcs: *id001
+        title: Triangles & Rhombuses
+        length: 110400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-04-20'
       score: 0.94786674
     - id: 0784ead6-a0ee-4d95-abfc-705815175d14
       score: 0.66016144

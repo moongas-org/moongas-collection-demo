@@ -15,18 +15,39 @@ trackIdData:
     - id: 6264f56f-8668-4c8c-8f35-4c9289c466ef
       recordings:
       - id: 70e5da97-00e8-4afe-87dc-1edf94dd022c
-        isrcs: []
+        isrcs: &id001
+        - GBBPW1300025
+        title: Reach for the Dead
+        length: 287000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-05-23'
       - id: 890a5e87-c02f-4e11-bce5-a19a7cd2065a
         isrcs: []
+        title: Reach for the Dead
+        length: 298000
+        video: true
+        disambiguation: video edit
+        firstReleaseDate:
       score: 0.99947256
     - id: e28d5008-9d1a-4a71-bba3-051de191cae4
       recordings:
       - id: 70e5da97-00e8-4afe-87dc-1edf94dd022c
-        isrcs: []
+        isrcs: *id001
+        title: Reach for the Dead
+        length: 287000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-05-23'
       score: 0.8504943
     - id: 9168fcec-af4a-4034-855d-a462071c626e
       recordings:
       - id: 890a5e87-c02f-4e11-bce5-a19a7cd2065a
         isrcs: []
+        title: Reach for the Dead
+        length: 298000
+        video: true
+        disambiguation: video edit
+        firstReleaseDate:
       score: 0.73028743
     status: ok

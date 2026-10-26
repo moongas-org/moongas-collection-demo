@@ -15,11 +15,22 @@ trackIdData:
     - id: eb7e219a-7ce7-4799-abe8-813efe21ade0
       recordings:
       - id: 55172489-1ed5-4ac1-89d1-38aca4f472db
-        isrcs: []
+        isrcs: &id001
+        - ES5088905072
+        title: Mi novio es un zombi
+        length: 254000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-08-25'
       score: 0.9741232
     - id: f864a603-728a-4ebf-922a-23473b230778
       recordings:
       - id: 55172489-1ed5-4ac1-89d1-38aca4f472db
-        isrcs: []
+        isrcs: *id001
+        title: Mi novio es un zombi
+        length: 254000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-08-25'
       score: 0.933808
     status: ok

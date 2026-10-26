@@ -16,23 +16,62 @@ trackIdData:
       recordings:
       - id: 8321bb7d-24f9-4899-a372-5753cfd9a630
         isrcs: []
+        title: Not the Doctor
+        length:
+        video: true
+        disambiguation: live video 1995-04/1996-12
+        firstReleaseDate: '1997-09-08'
       - id: cd7c7fc6-c8dc-4b3e-8ae7-b92bb301bb3b
-        isrcs: []
+        isrcs: &id001
+        - USMV21500011
+        - USMV21500046
+        - USMV29900098
+        title: Not the Doctor
+        length: 227533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       score: 0.9638054
     - id: 2978d66f-a0d1-4750-b0f1-57690aab73c3
       recordings:
       - id: 45984a43-3efa-43a0-bd7d-8b4d4d0b4d74
-        isrcs: []
+        isrcs:
+        - USMV22000056
+        title: Not the Doctor
+        length: 224000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate: '2020-06-26'
       - id: 8321bb7d-24f9-4899-a372-5753cfd9a630
         isrcs: []
+        title: Not the Doctor
+        length:
+        video: true
+        disambiguation: live video 1995-04/1996-12
+        firstReleaseDate: '1997-09-08'
       - id: b0daf830-0834-4672-b8aa-47a030e21c64
         isrcs: []
+        title: Not the Doctor
+        length:
+        video: false
+        disambiguation: 'live, 1996-04-01: Alabama Halle, München, Germany'
+        firstReleaseDate: '1996'
       - id: cd7c7fc6-c8dc-4b3e-8ae7-b92bb301bb3b
-        isrcs: []
+        isrcs: *id001
+        title: Not the Doctor
+        length: 227533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       score: 0.95968485
     - id: 62cbc5e6-b342-46d8-ad71-8b77a9d4018e
       recordings:
       - id: cd7c7fc6-c8dc-4b3e-8ae7-b92bb301bb3b
-        isrcs: []
+        isrcs: *id001
+        title: Not the Doctor
+        length: 227533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       score: 0.9401042
     status: ok

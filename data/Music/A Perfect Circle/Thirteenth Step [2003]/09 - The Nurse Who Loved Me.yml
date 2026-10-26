@@ -15,18 +15,39 @@ trackIdData:
     - id: defbf892-e9a4-4f3b-8a0d-ada86561614e
       recordings:
       - id: 6760a723-26ed-4849-814f-8a41bfb980d3
-        isrcs: []
+        isrcs: &id001
+        - USVI20301034
+        title: The Nurse Who Loved Me
+        length: 245000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-09-15'
       score: 0.9868803
     - id: 67ba1f28-c594-4b09-8f06-f6bb459ddb2c
       recordings:
       - id: 6760a723-26ed-4849-814f-8a41bfb980d3
-        isrcs: []
+        isrcs: *id001
+        title: The Nurse Who Loved Me
+        length: 245000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-09-15'
       - id: af99c9c4-22d0-4d8e-8f8b-d6a13155ab54
         isrcs: []
+        title: The Nurse Who Loved Me
+        length:
+        video: false
+        disambiguation: 'live, 2003-08-05: Irving Plaza, New York, NY, USA'
+        firstReleaseDate:
       score: 0.983485
     - id: 1b9d5f2d-0002-4f55-b4ea-2657930a874a
       recordings:
       - id: 6760a723-26ed-4849-814f-8a41bfb980d3
-        isrcs: []
+        isrcs: *id001
+        title: The Nurse Who Loved Me
+        length: 245000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-09-15'
       score: 0.6960707
     status: ok

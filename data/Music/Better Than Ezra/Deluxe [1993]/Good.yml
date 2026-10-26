@@ -16,22 +16,55 @@ trackIdData:
     - id: 5400e0b1-2ee3-4318-9545-1e99e521cd4f
       recordings:
       - id: 47c3e381-7433-4818-a955-7e3dd60085e3
-        isrcs: []
+        isrcs:
+        - USWB10606336
+        - USWB19500085
+        title: Birthday Cake
+        length: 196000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-11-18'
       - id: 51c847da-755a-498a-8d8a-bb9b3315c922
-        isrcs: []
+        isrcs: &id001
+        - USEE10001294
+        title: Good
+        length: 185077
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-16'
       score: 0.98496836
     - id: 63687bfd-0877-49e5-b772-8ddc488db441
       recordings:
       - id: 2853b421-ce19-45ff-9480-6336219bd0b1
         isrcs: []
+        title: Good
+        length: 184000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000'
       - id: 4468b3eb-4aca-4564-a8fc-d71f58c93a19
         isrcs: []
+        title: Good
+        length: 186400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995'
       - id: 51c847da-755a-498a-8d8a-bb9b3315c922
-        isrcs: []
+        isrcs: *id001
+        title: Good
+        length: 185077
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-16'
       score: 0.9782107
     - id: 67915c16-b7cc-4b68-8de6-6dfd82dd3947
       recordings:
       - id: 51c847da-755a-498a-8d8a-bb9b3315c922
-        isrcs: []
+        isrcs: *id001
+        title: Good
+        length: 185077
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993-11-16'
       score: 0.8174455
     status: ok

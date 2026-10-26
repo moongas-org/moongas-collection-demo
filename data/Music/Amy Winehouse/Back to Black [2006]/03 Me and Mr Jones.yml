@@ -15,21 +15,58 @@ trackIdData:
     - id: 01ffd7ca-4fc1-46fc-8781-28cb85a5fb46
       recordings:
       - id: 217c4f4a-d6d1-44db-9581-4cc83b738446
-        isrcs: []
+        isrcs: &id001
+        - GBUM70603492
+        title: Me & Mr Jones
+        length: 153173
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2006-10-30'
       - id: 4aa1593f-e6f7-4c3a-9200-166546c65fc1
         isrcs: []
+        title: Me & Mr. Jones
+        length: 154000
+        video: false
+        disambiguation: instrumental
+        firstReleaseDate: '2006'
       - id: 5e280ba2-c999-4773-9e23-af3a3fc20575
         isrcs: []
+        title: Lullaby of Birdland
+        length: 154680
+        video: false
+        disambiguation: 'live, 2004-03-29: Stables Theatre, Wavenson, England'
+        firstReleaseDate: '2012-11-16'
       - id: d48aee07-b98d-473e-88ab-db21c309be26
-        isrcs: []
+        isrcs: &id002
+        - GBUM70700412
+        title: Me & Mr Jones
+        length: 153173
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '2007-03-13'
       score: 0.9831883
     - id: 79c86141-6b7c-4e52-89f4-7b10c862ddbd
       recordings:
       - id: 217c4f4a-d6d1-44db-9581-4cc83b738446
-        isrcs: []
+        isrcs: *id001
+        title: Me & Mr Jones
+        length: 153173
+        video: false
+        disambiguation: explicit
+        firstReleaseDate: '2006-10-30'
       - id: a945b94b-ca2a-4fb9-9360-f8e347a46837
         isrcs: []
+        title: Me & Mr Jones
+        length: 160000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: d48aee07-b98d-473e-88ab-db21c309be26
-        isrcs: []
+        isrcs: *id002
+        title: Me & Mr Jones
+        length: 153173
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '2007-03-13'
       score: 0.97890294
     status: ok

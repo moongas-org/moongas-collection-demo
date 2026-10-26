@@ -15,29 +15,80 @@ trackIdData:
     - id: c3854b1e-7ca7-4fe2-9f56-2bdf701ef747
       recordings:
       - id: 31257944-0e31-4acc-9a97-736cb24f8e7c
-        isrcs: []
+        isrcs: &id001
+        - GBAKW7100110
+        - USMC19549960
+        title: (Nothing Is Everything) Let’s See Action
+        length: 239066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971'
       - id: 57a8d695-736f-4b0f-804f-83dd7ff9ff52
         isrcs: []
+        title: It’s Still Rock and Roll to Me
+        length: 173000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: 5d097340-bb46-4121-99c3-380a5915e898
         isrcs: []
+        title: Still Gettin’ It
+        length: 218914
+        video: false
+        disambiguation: 'part of “Euphoria: Electronic Dance Music” DJ‐mix'
+        firstReleaseDate: '2013-09-16'
       - id: 69918f6c-fbcc-4aa7-a95d-eb13835c1f6c
-        isrcs: []
+        isrcs:
+        - USSM18000211
+        title: It's Still Rock and Roll to Me
+        length: 177598
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-11-16'
       - id: 7eb9d210-ebbd-4aad-8b0a-5b3b6e182564
-        isrcs: []
+        isrcs: &id002
+        - USSM11100761
+        - USSM18000211
+        title: It’s Still Rock and Roll to Me
+        length: 176973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       score: 0.9928468
     - id: 2a847d13-08a2-44a3-977c-fa0695486cb3
       recordings:
       - id: 31257944-0e31-4acc-9a97-736cb24f8e7c
-        isrcs: []
+        isrcs: *id001
+        title: (Nothing Is Everything) Let’s See Action
+        length: 239066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1971'
       - id: 7eb9d210-ebbd-4aad-8b0a-5b3b6e182564
-        isrcs: []
+        isrcs: *id002
+        title: It’s Still Rock and Roll to Me
+        length: 176973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       - id: 8572c43d-ec70-4f88-be39-dd52a49469f5
-        isrcs: []
+        isrcs:
+        - USSM18000211
+        title: It's Still Rock and Roll to Me
+        length: 177594
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2025-07-26'
       score: 0.9469607
     - id: 1c5b1ab3-7737-4f42-909b-817ca65f9d10
       recordings:
       - id: 7eb9d210-ebbd-4aad-8b0a-5b3b6e182564
-        isrcs: []
+        isrcs: *id002
+        title: It’s Still Rock and Roll to Me
+        length: 176973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1980-03-12'
       score: 0.93469805
     - id: 5716a2f8-7862-4029-89d1-06404ecd7c51
       score: 0.6313291

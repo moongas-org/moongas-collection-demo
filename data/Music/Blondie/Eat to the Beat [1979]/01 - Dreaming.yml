@@ -15,13 +15,31 @@ trackIdData:
     - id: 8525e91a-dd1e-489e-8b2a-d59453b676a7
       recordings:
       - id: 8fa90205-d1c4-4bdc-aa62-b29ff9fb6497
-        isrcs: []
+        isrcs: &id001
+        - USCH30100023
+        - USCH37900016
+        - USCH38700006
+        title: Dreaming
+        length: 186173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1979-09-14'
       - id: e64d55b0-c126-4f00-867c-baa16a1a47c8
         isrcs: []
+        title: Dreaming
+        length: 185000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988'
       score: 0.9735298
     - id: 3eb0af58-7578-41d6-8081-0f7c5079e310
       recordings:
       - id: 8fa90205-d1c4-4bdc-aa62-b29ff9fb6497
-        isrcs: []
+        isrcs: *id001
+        title: Dreaming
+        length: 186173
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1979-09-14'
       score: 0.94827926
     status: ok

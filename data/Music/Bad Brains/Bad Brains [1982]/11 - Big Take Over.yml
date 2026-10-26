@@ -15,19 +15,54 @@ trackIdData:
     - id: 3979393e-bcf4-40af-b9fa-300c390d3f3e
       recordings:
       - id: 06c4d360-fbf7-4c11-a2db-dc40fddbbfe1
-        isrcs: []
+        isrcs: &id001
+        - US29V0422311
+        - USFMA1900138
+        title: Big Take Over
+        length: 177400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: 0e9bc8a8-c334-4a47-97fc-d101cac4562a
         isrcs: []
+        title: Big Take Over
+        length: 176000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: 826ea08f-449a-430c-a0ff-3c89b4171fd5
-        isrcs: []
+        isrcs:
+        - US29V0422310
+        - USFMA1900137
+        title: I
+        length: 125000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       - id: 8b7baa98-0b50-4235-9d72-142c6068af9b
-        isrcs: []
+        isrcs:
+        - US29V0850401
+        title: Big Takeover
+        length: 181000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2008-11-11'
       - id: aac93213-4f00-429d-99b0-5846cfc919e7
         isrcs: []
+        title: Big Take Over
+        length: 177000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       score: 0.9762419
     - id: ad72ba4b-0815-46a2-b168-22dfe549f9cb
       recordings:
       - id: 06c4d360-fbf7-4c11-a2db-dc40fddbbfe1
-        isrcs: []
+        isrcs: *id001
+        title: Big Take Over
+        length: 177400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.8498154
     status: ok

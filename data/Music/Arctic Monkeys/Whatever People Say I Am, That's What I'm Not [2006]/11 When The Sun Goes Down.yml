@@ -16,31 +16,88 @@ trackIdData:
       recordings:
       - id: 2c4c65fa-3430-42f8-80b4-49bd97ab32a4
         isrcs: []
+        title: When the Sun Goes Down
+        length: 205000
+        video: false
+        disambiguation: Beneath the Boardwalk version
+        firstReleaseDate: '2004'
       - id: 42a4f483-80a8-4731-9897-0558fd2138e4
-        isrcs: []
+        isrcs: &id001
+        - GBCEL0501190
+        title: When the Sun Goes Down (radio edit)
+        length: 203000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-12-09'
       - id: 42bf1771-633f-4568-a2c9-4ae8e100e7da
         isrcs: []
+        title: When the Sun Goes Down
+        length: 204573
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002'
       - id: f05a995c-9cdd-404f-91f8-0658044be619
-        isrcs: []
+        isrcs: &id002
+        - GBCEL0501190
+        title: When the Sun Goes Down
+        length: 200013
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.97402424
     - id: 0646e36b-51d0-49ec-b282-335f96d15e3e
       recordings:
       - id: 2c4c65fa-3430-42f8-80b4-49bd97ab32a4
         isrcs: []
+        title: When the Sun Goes Down
+        length: 205000
+        video: false
+        disambiguation: Beneath the Boardwalk version
+        firstReleaseDate: '2004'
       - id: 42a4f483-80a8-4731-9897-0558fd2138e4
-        isrcs: []
+        isrcs: *id001
+        title: When the Sun Goes Down (radio edit)
+        length: 203000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-12-09'
       - id: 6aee2e77-6188-46dc-b602-915ea1293c0d
         isrcs: []
+        title: When the Sun Goes Down
+        length: 200000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2013-08-27'
       - id: d77087e5-89b1-4ff6-9fd8-8e956fb78896
         isrcs: []
+        title: When the Sun Goes Down
+        length:
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: dce58931-e4fa-48bc-a7ba-981f7d58b3f8
         isrcs: []
+        title: When the Sun Goes Down
+        length: 202000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2014-10-15'
       - id: f05a995c-9cdd-404f-91f8-0658044be619
-        isrcs: []
+        isrcs: *id002
+        title: When the Sun Goes Down
+        length: 200013
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.97382647
     - id: 9d4f3506-7ca0-4552-ba48-fa65c929229d
       recordings:
       - id: f05a995c-9cdd-404f-91f8-0658044be619
-        isrcs: []
+        isrcs: *id002
+        title: When the Sun Goes Down
+        length: 200013
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '2005'
       score: 0.68192905
     status: ok

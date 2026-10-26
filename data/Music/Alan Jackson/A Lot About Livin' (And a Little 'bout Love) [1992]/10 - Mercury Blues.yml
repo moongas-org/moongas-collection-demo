@@ -16,17 +16,38 @@ trackIdData:
       recordings:
       - id: 07c7ef1a-fd37-4dfc-8445-a9a16aa93256
         isrcs: []
+        title: Boogie Woogie Fiddle Country Blues
+        length: 211000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 1f5a5a6d-8624-44eb-a5da-c22cc8e997dc
-        isrcs: []
+        isrcs: &id001
+        - USAN20000191
+        title: Mercury Blues
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-10-09'
       score: 0.9812764
     - id: f45ce9a9-8a32-45f4-b60e-67b4da459089
       recordings:
       - id: 1f5a5a6d-8624-44eb-a5da-c22cc8e997dc
-        isrcs: []
+        isrcs: *id001
+        title: Mercury Blues
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-10-09'
       score: 0.97540873
     - id: 8c38d728-146e-41cf-863e-3d5e5aa957d3
       recordings:
       - id: 1f5a5a6d-8624-44eb-a5da-c22cc8e997dc
-        isrcs: []
+        isrcs: *id001
+        title: Mercury Blues
+        length: 219000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-10-09'
       score: 0.63001055
     status: ok

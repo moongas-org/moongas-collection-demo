@@ -15,11 +15,22 @@ trackIdData:
     - id: 3beab1ab-3f0b-47a5-86b2-ad486c12b790
       recordings:
       - id: 9539cfad-0ad7-4abe-ab60-defec3dcbe78
-        isrcs: []
+        isrcs: &id001
+        - USJI19810228
+        title: Da Booty
+        length: 201000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-09-09'
       score: 0.99897814
     - id: 503c87a5-8c2b-4c8f-948e-620b73ae6734
       recordings:
       - id: 9539cfad-0ad7-4abe-ab60-defec3dcbe78
-        isrcs: []
+        isrcs: *id001
+        title: Da Booty
+        length: 201000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-09-09'
       score: 0.94138974
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: bbcab4c3-e7e2-40c9-89e4-3ed9c131696d
       recordings:
       - id: 8260823b-0e10-413a-a77f-7ca9407023aa
-        isrcs: []
+        isrcs: &id001
+        - USCN30100202
+        title: Grace (Freedom dub)
+        length: 177733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       score: 0.97659546
     - id: 7f2e5c5c-4348-47bc-a8e1-0ce631c68d83
       recordings:
       - id: 8260823b-0e10-413a-a77f-7ca9407023aa
-        isrcs: []
+        isrcs: *id001
+        title: Grace (Freedom dub)
+        length: 177733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2002-01-22'
       score: 0.86438555
     status: ok

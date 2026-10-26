@@ -15,16 +15,33 @@ trackIdData:
     - id: a245c1c8-ef24-4533-bb1d-fbac0d4a4cc7
       recordings:
       - id: af8efac4-fc1b-4761-9a64-cd8aa85a1662
-        isrcs: []
+        isrcs: &id001
+        - USTN10218353
+        title: Glass to the Arson
+        length: 209000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-05-06'
       score: 0.96934336
     - id: dac80050-be93-4b38-864d-7f8c8e049c04
       recordings:
       - id: af8efac4-fc1b-4761-9a64-cd8aa85a1662
-        isrcs: []
+        isrcs: *id001
+        title: Glass to the Arson
+        length: 209000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-05-06'
       score: 0.94949895
     - id: 0b935ea3-f314-40bd-8616-cba98731be83
       recordings:
       - id: 4ad8d140-6bbd-4006-9948-3b7bda4e8a09
-        isrcs: []
+        isrcs:
+        - USTN10700590
+        title: Glass to the Arson (16 Bit remix)
+        length: 210240
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-11-20'
       score: 0.8139504
     status: ok

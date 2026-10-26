@@ -15,28 +15,80 @@ trackIdData:
     - id: fabef664-ece3-4a36-83f2-1db72787239b
       recordings:
       - id: 3442b706-8cef-4053-ab3e-dca0283c41dc
-        isrcs: []
+        isrcs: &id001
+        - USSM10000372
+        - USSM17100268
+        - USSM17200460
+        - USSM17200492
+        - USSM19925139
+        title: Ain’t No Sunshine
+        length: 124840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-05
       - id: 5a1525d2-6f72-4c9d-8d76-fa40c1794d84
         isrcs: []
+        title: Ain’t No Sunshine (5.1 mix)
+        length: 125000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-10-11'
       score: 0.99215454
     - id: 5d5b7c09-48e8-4157-9fee-c5aa766f4fd8
       recordings:
       - id: 278434af-c751-4c70-823f-ab8a2327106e
         isrcs: []
+        title: Ain’t No Sunshine When She’s Gone
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1977'
       - id: 3442b706-8cef-4053-ab3e-dca0283c41dc
-        isrcs: []
+        isrcs: *id001
+        title: Ain’t No Sunshine
+        length: 124840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-05
       - id: 4886f2ba-02c1-49cb-964f-611c54ced226
         isrcs: []
+        title: Ain’t No Sunshine
+        length: 117666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: 636e45ac-72e5-4a3c-9350-8e46e82e1fb3
-        isrcs: []
+        isrcs:
+        - USIR29900130
+        title: Notting Hill (score)
+        length: 286186
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-05-18'
       - id: 6fc8bd51-c82e-485e-b995-c56d31bd1905
         isrcs: []
+        title: Ain’t No Sunshine
+        length: 120746
+        video: false
+        disambiguation: 'part of a “Ministry of Sound: Legends” DJ‐mix'
+        firstReleaseDate: '2017-11-17'
       - id: d1f14d09-a59b-4a67-b23c-4d91b7d89332
-        isrcs: []
+        isrcs:
+        - USMO17000278
+        title: I Know I’m Losing You
+        length: 217133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1970'
       score: 0.95464134
     - id: 64c26d46-a89c-4f08-a90e-37cfeed5675c
       recordings:
       - id: 3442b706-8cef-4053-ab3e-dca0283c41dc
-        isrcs: []
+        isrcs: *id001
+        title: Ain’t No Sunshine
+        length: 124840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1971-05
       score: 0.93120384
     status: ok

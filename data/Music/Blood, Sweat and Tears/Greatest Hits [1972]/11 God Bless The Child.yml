@@ -16,19 +16,47 @@ trackIdData:
       recordings:
       - id: 5dbc46a0-88eb-439c-9a63-28e2a739c1ec
         isrcs: []
+        title: God Bless the Child
+        length: 361000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972'
       - id: a73a53a8-62bb-468d-a095-2d11dff8b82c
         isrcs: []
+        title: God Bless the Child
+        length: 357000
+        video: false
+        disambiguation: quad mix
+        firstReleaseDate: '1972-04-22'
       - id: b9e660e8-c278-4985-8d95-c362c0cc2bd7
-        isrcs: []
+        isrcs: &id001
+        - USSM16800034
+        - USSM16800967
+        - USSM19911960
+        title: God Bless the Child
+        length: 355266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1969-01
       score: 0.98091376
     - id: 2c955e62-1406-466d-9c9a-c4c075f7fc35
       recordings:
       - id: b9e660e8-c278-4985-8d95-c362c0cc2bd7
-        isrcs: []
+        isrcs: *id001
+        title: God Bless the Child
+        length: 355266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1969-01
       score: 0.94940007
     - id: 2883410b-8096-4862-ae53-93ef0cd933cb
       recordings:
       - id: b9e660e8-c278-4985-8d95-c362c0cc2bd7
-        isrcs: []
+        isrcs: *id001
+        title: God Bless the Child
+        length: 355266
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1969-01
       score: 0.945774
     status: ok

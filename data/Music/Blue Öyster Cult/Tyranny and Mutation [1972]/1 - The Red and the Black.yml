@@ -15,23 +15,65 @@ trackIdData:
     - id: cb3ddc5f-629d-4c7a-b6fd-dc41f62909fc
       recordings:
       - id: 7aac019a-a824-409e-acec-c430dafcfe4d
-        isrcs: []
+        isrcs: &id001
+        - USSM19917752
+        title: The Red & The Black
+        length: 273066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1975-02
       - id: a03e28d0-1977-43a4-a855-c514388bbfd4
-        isrcs: []
+        isrcs: &id002
+        - USSM17300840
+        title: The Red & the Black
+        length: 264093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-02
       - id: fa8ffc45-82fe-49b4-8e25-2e9588d71a03
         isrcs: []
+        title: The Red and the Black
+        length: 263000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-11-01'
       score: 0.97603506
     - id: 6d6d8243-2687-471b-a7e2-631054919a35
       recordings:
       - id: 08433ac7-d64a-4846-804f-dd4699930b32
         isrcs: []
+        title: The Red & The Black
+        length: 259000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2012-11-06'
       - id: 7aac019a-a824-409e-acec-c430dafcfe4d
-        isrcs: []
+        isrcs: *id001
+        title: The Red & The Black
+        length: 273066
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1975-02
       - id: 8fda7c27-f545-4aba-8bd3-cf8c7b0d4811
         isrcs: []
+        title: The Red & The Black
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: a03e28d0-1977-43a4-a855-c514388bbfd4
-        isrcs: []
+        isrcs: *id002
+        title: The Red & the Black
+        length: 264093
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-02
       - id: fa8ffc45-82fe-49b4-8e25-2e9588d71a03
         isrcs: []
+        title: The Red and the Black
+        length: 263000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1996-11-01'
       score: 0.9180512
     status: ok

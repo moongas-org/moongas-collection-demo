@@ -15,11 +15,23 @@ trackIdData:
     - id: 7075b6cb-9ae9-456a-975f-c7ea5253f593
       recordings:
       - id: be03d7b6-a4b5-4ea6-92a7-9c045085785d
-        isrcs: []
+        isrcs: &id001
+        - GBQGF0700008
+        - USALX0500966
+        title: O Katrina!
+        length: 171000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-09-01'
       score: 0.9716179
     - id: 08b16082-7b0d-472e-9fcc-54d09f4d16ba
       recordings:
       - id: be03d7b6-a4b5-4ea6-92a7-9c045085785d
-        isrcs: []
+        isrcs: *id001
+        title: O Katrina!
+        length: 171000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-09-01'
       score: 0.7814807
     status: ok

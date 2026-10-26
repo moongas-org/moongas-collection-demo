@@ -15,17 +15,44 @@ trackIdData:
     - id: 381c3dce-249f-4eb7-9df1-70aa5e44f9ed
       recordings:
       - id: 445ae00c-b357-4f67-b99d-8991973ced9d
-        isrcs: []
+        isrcs: &id001
+        - USCH39200016
+        title: Fishin’ 4 Religion
+        length: 250533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       - id: 5d3de3a7-b66b-44e5-a293-c94b66dcbc5f
-        isrcs: []
+        isrcs: &id002
+        - USCH39200016
+        title: Fishin’ 4 Religion
+        length: 249826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-03-03'
       score: 0.9906382
     - id: 6a27c1ec-15d7-445f-a064-6a6a77f2cd08
       recordings:
       - id: 445ae00c-b357-4f67-b99d-8991973ced9d
-        isrcs: []
+        isrcs: *id001
+        title: Fishin’ 4 Religion
+        length: 250533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       - id: 5d3de3a7-b66b-44e5-a293-c94b66dcbc5f
-        isrcs: []
+        isrcs: *id002
+        title: Fishin’ 4 Religion
+        length: 249826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-03-03'
       - id: 9c17a001-a64a-4482-bd47-556bc9b44a6e
         isrcs: []
+        title: Fishin' 4 Religion
+        length: 254000
+        video: false
+        disambiguation: live, 1993
+        firstReleaseDate: '1996'
       score: 0.99060524
     status: ok

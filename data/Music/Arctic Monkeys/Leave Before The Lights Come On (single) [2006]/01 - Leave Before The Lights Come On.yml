@@ -15,18 +15,40 @@ trackIdData:
     - id: 28ff2501-37a8-4f2d-87f6-94807d9f1001
       recordings:
       - id: 13b04acf-fe13-4202-9c19-edd1e6c61496
-        isrcs: []
+        isrcs: &id001
+        - GBCEL0600284
+        title: Leave Before the Lights Come On
+        length: 232053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-08-12'
       - id: 8f4980b7-1772-44b2-b91a-1f65f4d38540
-        isrcs: []
+        isrcs:
+        - USSM19000405
+        title: Sad Eyes
+        length: 230000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-11-10'
       score: 0.97676027
     - id: 1c7a42c8-364b-4b82-811e-02182e5696d5
       recordings:
       - id: 13b04acf-fe13-4202-9c19-edd1e6c61496
-        isrcs: []
+        isrcs: *id001
+        title: Leave Before the Lights Come On
+        length: 232053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-08-12'
       score: 0.96284944
     - id: 9b311ba4-d721-4b67-9e69-d1f289de334b
       recordings:
       - id: 13b04acf-fe13-4202-9c19-edd1e6c61496
-        isrcs: []
+        isrcs: *id001
+        title: Leave Before the Lights Come On
+        length: 232053
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-08-12'
       score: 0.95131195
     status: ok

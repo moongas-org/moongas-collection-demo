@@ -15,11 +15,22 @@ trackIdData:
     - id: 9df864e4-1381-467f-b019-349d69732372
       recordings:
       - id: fdee5543-9f80-4ffa-ab53-c4dd04cba443
-        isrcs: []
+        isrcs: &id001
+        - GBAAA0500084
+        title: A Measured Room
+        length: 63333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978'
       score: 0.999615
     - id: d9f0464c-ab3c-4aab-8ac1-63734c707c97
       recordings:
       - id: fdee5543-9f80-4ffa-ab53-c4dd04cba443
-        isrcs: []
+        isrcs: *id001
+        title: A Measured Room
+        length: 63333
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978'
       score: 0.9398667
     status: ok

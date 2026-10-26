@@ -15,11 +15,22 @@ trackIdData:
     - id: d12e2c5c-e076-4be5-8f07-8cfacd51a149
       recordings:
       - id: 9ecb0542-11b7-4396-b220-0cb786c83650
-        isrcs: []
+        isrcs: &id001
+        - USVIC0845507
+        title: Head on a Plate
+        length: 243880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-02-07'
       score: 0.9997363
     - id: c6a37bd7-42a7-421b-8282-a151d4b9f494
       recordings:
       - id: 9ecb0542-11b7-4396-b220-0cb786c83650
-        isrcs: []
+        isrcs: *id001
+        title: Head on a Plate
+        length: 243880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-02-07'
       score: 0.8513977
     status: ok

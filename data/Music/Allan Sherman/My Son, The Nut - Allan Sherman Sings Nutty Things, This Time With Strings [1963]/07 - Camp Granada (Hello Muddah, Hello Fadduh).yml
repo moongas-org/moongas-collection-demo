@@ -15,37 +15,106 @@ trackIdData:
     - id: 08b75f58-5322-4da3-a7a1-96ff7ecc8e25
       recordings:
       - id: 2424cae1-9d38-43be-b361-f25b865fc9db
-        isrcs: []
+        isrcs: &id001
+        - USWB10504015
+        title: Hello Muddah, Hello Faddah
+        length: 165000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-12-05'
       - id: 7b4485f9-6cc0-4a8a-a577-06753a0b900e
-        isrcs: []
+        isrcs: &id002
+        - AUMEV2484132
+        - USWB10302160
+        title: Hello Muddah, Hello Faddah (A Letter From Camp)
+        length: 171000
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1963'
       - id: 8fa15415-9d4d-43c9-8033-a9328c0eb0aa
         isrcs: []
+        title: Hello Muddah, Hello Fadduh! (A Letter From Camp) (live version)
+        length: 171534
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-11-08'
       - id: d73ccd07-440c-4bec-9183-4c60070a97b7
         isrcs: []
+        title: Hello Muddah, Hello Fadduh (A Letter From Camp)
+        length: 165880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       - id: e32c4988-e949-4dc8-ab42-f08cac19426e
-        isrcs: []
+        isrcs: &id003
+        - USWB10002973
+        title: Hello Mudduh, Hello Fadduh! (A Letter From Camp)
+        length: 169160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988-11-01'
       score: 0.96228904
     - id: ac804c7b-277b-42c9-92cf-25a74fbad530
       recordings:
       - id: 2424cae1-9d38-43be-b361-f25b865fc9db
-        isrcs: []
+        isrcs: *id001
+        title: Hello Muddah, Hello Faddah
+        length: 165000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2007-12-05'
       - id: 296c47d6-9559-405b-90d8-aaeafd917562
         isrcs: []
+        title: Hello Mudduh, Hello Fadduh! (A Letter From Camp)
+        length: 163466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1993'
       - id: 7b4485f9-6cc0-4a8a-a577-06753a0b900e
-        isrcs: []
+        isrcs: *id002
+        title: Hello Muddah, Hello Faddah (A Letter From Camp)
+        length: 171000
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1963'
       - id: 8fa15415-9d4d-43c9-8033-a9328c0eb0aa
         isrcs: []
+        title: Hello Muddah, Hello Fadduh! (A Letter From Camp) (live version)
+        length: 171534
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2005-11-08'
       - id: c29fc5a3-4cff-4d77-a195-9f252e9e5ccd
         isrcs: []
+        title: Hello Mudda, Hello Fadduh!
+        length: 170000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994'
       - id: d73ccd07-440c-4bec-9183-4c60070a97b7
         isrcs: []
+        title: Hello Muddah, Hello Fadduh (A Letter From Camp)
+        length: 165880
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       - id: e32c4988-e949-4dc8-ab42-f08cac19426e
-        isrcs: []
+        isrcs: *id003
+        title: Hello Mudduh, Hello Fadduh! (A Letter From Camp)
+        length: 169160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1988-11-01'
       score: 0.94722444
     - id: debf11e9-67f6-4355-99b4-5c047c730e0c
       recordings:
       - id: 7b4485f9-6cc0-4a8a-a577-06753a0b900e
-        isrcs: []
+        isrcs: *id002
+        title: Hello Muddah, Hello Faddah (A Letter From Camp)
+        length: 171000
+        video: false
+        disambiguation: album version
+        firstReleaseDate: '1963'
       score: 0.90987605
     - id: 1dbd398f-99f9-41ee-8db1-62b41443a4ad
       score: 0.8618473

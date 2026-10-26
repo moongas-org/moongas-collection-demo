@@ -15,11 +15,25 @@ trackIdData:
     - id: 541e9ebb-f603-4a57-b9c5-cef9bf0b0740
       recordings:
       - id: 49faa6e1-021f-473f-ab93-c2a3c16ed28d
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1602045
+        - GBAJE7200137
+        - USRH12003005
+        - USWB19901262
+        title: Under the Sun / Every Day Comes and Goes
+        length: 351400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-25'
       score: 0.9837487
     - id: 83727190-8539-4c91-8c7d-bde0c6ccfe31
       recordings:
       - id: 49faa6e1-021f-473f-ab93-c2a3c16ed28d
-        isrcs: []
+        isrcs: *id001
+        title: Under the Sun / Every Day Comes and Goes
+        length: 351400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-25'
       score: 0.87463737
     status: ok

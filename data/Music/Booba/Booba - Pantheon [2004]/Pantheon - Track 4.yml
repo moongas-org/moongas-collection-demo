@@ -15,22 +15,54 @@ trackIdData:
     - id: 49671f78-0764-4978-80f3-4f39adb6f961
       recordings:
       - id: 24fb8794-c5be-4bb1-b799-14069e00a9ca
-        isrcs: []
+        isrcs:
+        - FRA010414950
+        title: N° 10
+        length: 271000
+        video: true
+        disambiguation: Music Video
+        firstReleaseDate:
       - id: 6f5fad9d-6af8-4d57-8f3a-6adc8827fe83
-        isrcs: []
+        isrcs: &id001
+        - FR8R60480050
+        title: N°10
+        length: 278000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-07-30'
       - id: a6f65991-743f-4362-94a4-509974bb6ba8
         isrcs: []
+        title: Numéro 10
+        length: 276000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-08-06'
       - id: bf1388cc-6e05-44f0-ba63-ded011683b94
         isrcs: []
+        title: Étude (Op.10 No.3)
+        length: 278826
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1984'
       score: 0.9698048
     - id: e5ee4593-9ca8-4a7c-8b80-159cda99bb6f
       recordings:
       - id: 6f5fad9d-6af8-4d57-8f3a-6adc8827fe83
-        isrcs: []
+        isrcs: *id001
+        title: N°10
+        length: 278000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-07-30'
       score: 0.95520175
     - id: 21ab5216-457d-4733-9a0a-3223cf54c5d8
       recordings:
       - id: 6f5fad9d-6af8-4d57-8f3a-6adc8827fe83
-        isrcs: []
+        isrcs: *id001
+        title: N°10
+        length: 278000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-07-30'
       score: 0.8940203
     status: ok

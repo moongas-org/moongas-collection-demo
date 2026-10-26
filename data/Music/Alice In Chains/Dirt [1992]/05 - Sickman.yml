@@ -15,18 +15,40 @@ trackIdData:
     - id: 81487fcb-c154-4b0c-9efa-6675ad8252da
       recordings:
       - id: 3f92bc80-8490-42ac-b77e-e20c9f25ea6b
-        isrcs: []
+        isrcs: &id001
+        - USSM19200803
+        title: Sickman
+        length: 329400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       - id: 454b3abc-d283-4099-be2c-778c3e9a581b
         isrcs: []
+        title: Sickman
+        length:
+        video: false
+        disambiguation: 'live, 1992‐10‐08: Oakland–Alameda County Coliseum, Oakland,
+          CA, USA'
+        firstReleaseDate: '2017-07-24'
       score: 0.9544436
     - id: 1816d58b-60df-4fc5-8545-b7b7529d3824
       recordings:
       - id: 3f92bc80-8490-42ac-b77e-e20c9f25ea6b
-        isrcs: []
+        isrcs: *id001
+        title: Sickman
+        length: 329400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.650745
     - id: bbc7487b-4dbe-4ccb-a4ac-78c3d8dae11c
       recordings:
       - id: 3f92bc80-8490-42ac-b77e-e20c9f25ea6b
-        isrcs: []
+        isrcs: *id001
+        title: Sickman
+        length: 329400
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-09-29'
       score: 0.5769053
     status: ok

@@ -15,13 +15,29 @@ trackIdData:
     - id: 8942b676-70f2-4df7-b304-7a60819a163e
       recordings:
       - id: a4271a34-600e-413b-b383-3882243b92b4
-        isrcs: []
+        isrcs: &id001
+        - USSM19501779
+        title: God Am
+        length: 247960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       - id: bada69dc-3a0c-41a9-906c-d722a56c7b0c
         isrcs: []
+        title: God Am
+        length: 247000
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       score: 0.9805512
     - id: a4e2ec3a-dd78-4373-bb2b-2dd434e64f3a
       recordings:
       - id: a4271a34-600e-413b-b383-3882243b92b4
-        isrcs: []
+        isrcs: *id001
+        title: God Am
+        length: 247960
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-10-31'
       score: 0.7135417
     status: ok

@@ -15,11 +15,22 @@ trackIdData:
     - id: 63878824-4b26-4c79-a9a6-22889aa7d368
       recordings:
       - id: c24b36b2-bb47-44f9-a3b7-235773802f90
-        isrcs: []
+        isrcs: &id001
+        - JPX832004838
+        title: Rotation
+        length: 192000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.98058414
     - id: 2ec1af6d-6d6e-44f0-8def-1d4905c0f049
       recordings:
       - id: c24b36b2-bb47-44f9-a3b7-235773802f90
-        isrcs: []
+        isrcs: *id001
+        title: Rotation
+        length: 192000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.931072
     status: ok

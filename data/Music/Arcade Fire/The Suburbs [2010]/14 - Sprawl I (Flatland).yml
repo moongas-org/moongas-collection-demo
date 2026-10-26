@@ -15,15 +15,36 @@ trackIdData:
     - id: 90946d52-1a9d-4c47-8540-db3dcf4a49b3
       recordings:
       - id: 3381dfb0-01e7-48e6-b139-7ed7d088a16f
-        isrcs: []
+        isrcs: &id001
+        - GBUM71021645
+        title: Sprawl I (Flatland)
+        length: 174226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       - id: 61405de9-67f4-49f3-8928-0212930a391d
         isrcs: []
+        title: Sprawl I (Flatland)
+        length: 174000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010'
       - id: 9abc828f-a3a2-46bd-885f-327dc8893857
         isrcs: []
+        title: Sprawl I (Flatland)
+        length: 174000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-08-02'
       score: 0.98302346
     - id: 328cf686-e875-44b0-9caf-8a8a65841d27
       recordings:
       - id: 3381dfb0-01e7-48e6-b139-7ed7d088a16f
-        isrcs: []
+        isrcs: *id001
+        title: Sprawl I (Flatland)
+        length: 174226
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-07-03'
       score: 0.64098763
     status: ok

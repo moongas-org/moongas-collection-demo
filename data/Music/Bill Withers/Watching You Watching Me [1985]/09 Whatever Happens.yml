@@ -15,11 +15,23 @@ trackIdData:
     - id: 4a892b64-9b0b-4669-9678-43f069bc38b4
       recordings:
       - id: 475a53ab-24c9-40a1-ae7c-a26913ca27e4
-        isrcs: []
+        isrcs: &id001
+        - USSM10214737
+        - USSM18500183
+        title: Whatever Happens
+        length: 196000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985-06-21'
       score: 0.9787392
     - id: 9ba234d7-0d2e-4a0c-9e1a-7fbbaf7396c5
       recordings:
       - id: 475a53ab-24c9-40a1-ae7c-a26913ca27e4
-        isrcs: []
+        isrcs: *id001
+        title: Whatever Happens
+        length: 196000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985-06-21'
       score: 0.7880736
     status: ok

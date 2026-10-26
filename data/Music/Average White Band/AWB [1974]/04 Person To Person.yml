@@ -16,12 +16,29 @@ trackIdData:
       recordings:
       - id: 341666ef-6ab9-4478-a7b0-7bfa05a42642
         isrcs: []
+        title: Person to Person
+        length: 203000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1973'
       - id: 3ec81c44-640b-46f9-a1d3-8187b32c3ecb
-        isrcs: []
+        isrcs: &id001
+        - GBBLG7400072
+        - USAT20106484
+        title: Person to Person
+        length: 219933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-08
       score: 0.9768262
     - id: e31ca3b6-5ed9-40b5-bd2c-8b690a3d608e
       recordings:
       - id: 3ec81c44-640b-46f9-a1d3-8187b32c3ecb
-        isrcs: []
+        isrcs: *id001
+        title: Person to Person
+        length: 219933
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1974-08
       score: 0.93615013
     status: ok

@@ -15,11 +15,27 @@ trackIdData:
     - id: 0f2a7cfb-fa3c-4272-a5c6-60d30f7c94dd
       recordings:
       - id: c2be13ee-131e-4cdb-9141-0f0195a85626
-        isrcs: []
+        isrcs: &id001
+        - AUMU08600001
+        - USSM10017495
+        - USSM10117495
+        - USSM18500268
+        - USSM18500582
+        - USSM19802604
+        title: Manic Monday
+        length: 185000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985'
       score: 0.9774525
     - id: 73b9087e-7c3f-44ae-a3a2-d7500b7ba7e4
       recordings:
       - id: c2be13ee-131e-4cdb-9141-0f0195a85626
-        isrcs: []
+        isrcs: *id001
+        title: Manic Monday
+        length: 185000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1985'
       score: 0.92810524
     status: ok

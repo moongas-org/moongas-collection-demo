@@ -15,11 +15,22 @@ trackIdData:
     - id: 1bac8e7c-a478-48c5-913d-55479b672340
       recordings:
       - id: 5a461427-fc53-4fc0-ad4f-87570a90ccca
-        isrcs: []
+        isrcs: &id001
+        - GBBPW9400144
+        title: Further
+        length: 607040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-11-07'
       score: 0.9884898
     - id: 47847fcc-ed8f-4c66-acb1-da89fa4e68e7
       recordings:
       - id: 5a461427-fc53-4fc0-ad4f-87570a90ccca
-        isrcs: []
+        isrcs: *id001
+        title: Further
+        length: 607040
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1994-11-07'
       score: 0.95210975
     status: ok

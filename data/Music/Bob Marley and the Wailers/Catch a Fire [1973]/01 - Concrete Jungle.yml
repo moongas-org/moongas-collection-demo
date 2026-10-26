@@ -15,28 +15,75 @@ trackIdData:
     - id: bb4ec100-10e4-4f51-861f-ffa69d21dcb3
       recordings:
       - id: 1cbd0e39-d8c0-4b54-81d9-d146ff76cf88
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7390006
+        title: Concrete Jungle
+        length: 253000
+        video: false
+        disambiguation: 1972 re-recording
+        firstReleaseDate: '1973-04-13'
       - id: b9fdc363-4afa-4456-bb64-fbd47a01e1b6
         isrcs: []
+        title: Concrete Jungle
+        length: 254706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       score: 0.978837
     - id: 826248c2-7f08-4d9d-b9e6-4014d29226b7
       recordings:
       - id: 1cbd0e39-d8c0-4b54-81d9-d146ff76cf88
-        isrcs: []
+        isrcs: *id001
+        title: Concrete Jungle
+        length: 253000
+        video: false
+        disambiguation: 1972 re-recording
+        firstReleaseDate: '1973-04-13'
       - id: b9fdc363-4afa-4456-bb64-fbd47a01e1b6
         isrcs: []
+        title: Concrete Jungle
+        length: 254706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       score: 0.97743726
     - id: cb64627e-be1d-4441-bbed-890a46c3bc58
       recordings:
       - id: 1cbd0e39-d8c0-4b54-81d9-d146ff76cf88
-        isrcs: []
+        isrcs: *id001
+        title: Concrete Jungle
+        length: 253000
+        video: false
+        disambiguation: 1972 re-recording
+        firstReleaseDate: '1973-04-13'
       - id: 38d2e968-25d1-49e4-a570-9417326350d9
-        isrcs: []
+        isrcs:
+        - USIR27900001
+        title: So Much Trouble in the World
+        length: 240293
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1979-10-02'
       - id: 65c6983f-409a-48c9-9781-b3088025b4e7
         isrcs: []
+        title: Concrete Jungle
+        length: 252158
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2024-02-09'
       - id: b9fdc363-4afa-4456-bb64-fbd47a01e1b6
         isrcs: []
+        title: Concrete Jungle
+        length: 254706
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       - id: f1828ed3-4602-4f40-b563-ec3da3e7249f
         isrcs: []
+        title: Concrete Jungle
+        length: 254000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate:
       score: 0.9674644
     status: ok

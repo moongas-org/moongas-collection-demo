@@ -15,14 +15,30 @@ trackIdData:
     - id: 52a7f175-ff99-4926-8a03-a6b86e66ba65
       recordings:
       - id: c4dfee9b-bb06-4df0-a432-8d709c85deae
-        isrcs: []
+        isrcs: &id001
+        - DEN060300782
+        title: Peace = Illusion
+        length: 272000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       score: 0.9838146
     - id: a2fb2b56-807d-420b-a167-c808b2917de5
       recordings:
       - id: c4dfee9b-bb06-4df0-a432-8d709c85deae
-        isrcs: []
+        isrcs: *id001
+        title: Peace = Illusion
+        length: 272000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       - id: effe63d5-0cad-419e-b6f7-701a1ba168ca
         isrcs: []
+        title: Peace
+        length: 265546
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       score: 0.97128826
     - id: a5881b17-3c09-429c-b478-a6caf5c1ea33
       score: 0.71057487

@@ -15,13 +15,30 @@ trackIdData:
     - id: d53e8285-294a-4358-9650-7021834aa371
       recordings:
       - id: 41e9f99d-8952-41ff-bebc-5f79a6c1e021
-        isrcs: []
+        isrcs: &id001
+        - USSM16800970
+        - USSM19911957
+        title: Sometimes in Winter
+        length: 188866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1969-01
       score: 0.9795952
     - id: ca289d95-db23-487d-8d03-56be9b0d776e
       recordings:
       - id: 3ed05edf-36df-4455-993f-cef87673f1c7
         isrcs: []
+        title: Sometimes in Winter
+        length: 188000
+        video: false
+        disambiguation: quad mix
+        firstReleaseDate: '1972-04-22'
       - id: 41e9f99d-8952-41ff-bebc-5f79a6c1e021
-        isrcs: []
+        isrcs: *id001
+        title: Sometimes in Winter
+        length: 188866
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1969-01
       score: 0.96786
     status: ok

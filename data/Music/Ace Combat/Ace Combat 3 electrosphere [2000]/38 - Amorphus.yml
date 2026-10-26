@@ -15,11 +15,22 @@ trackIdData:
     - id: 6fe1c4f3-68ae-41a1-9b79-21b2bae5c076
       recordings:
       - id: 8c113049-697d-4432-83c8-e99e6a4ff10f
-        isrcs: []
+        isrcs: &id001
+        - JPX832004846
+        title: Amorphous
+        length: 127000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.9812764
     - id: d2a8f316-d6cf-4518-8c86-815983c7281c
       recordings:
       - id: 8c113049-697d-4432-83c8-e99e6a4ff10f
-        isrcs: []
+        isrcs: *id001
+        title: Amorphous
+        length: 127000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-08-26'
       score: 0.8992616
     status: ok

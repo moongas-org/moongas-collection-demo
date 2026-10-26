@@ -15,35 +15,99 @@ trackIdData:
     - id: 4af70b00-1918-4f7f-ab99-744cb527f34f
       recordings:
       - id: 1c1f6f78-d1e3-47ef-86b4-ce107256d7fc
-        isrcs: []
+        isrcs: &id001
+        - USSM17500265
+        - USSM17500569
+        - USSM17600939
+        title: Lido Shuffle
+        length: 221893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.9841113
     - id: a8f40558-8085-4846-9e96-87849be6d13d
       recordings:
       - id: 1c1f6f78-d1e3-47ef-86b4-ce107256d7fc
-        isrcs: []
+        isrcs: *id001
+        title: Lido Shuffle
+        length: 221893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       - id: 59efbd7c-f36c-4cc9-8956-bfa065261fe0
-        isrcs: []
+        isrcs:
+        - USSM10021547
+        - USSM10028174
+        - USSM17200181
+        - USSM17200444
+        - USSM17200555
+        - USSMI7200181
+        title: All the Young Dudes
+        length: 211000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1972-09-08'
       - id: 60c2bf70-6071-4d1a-8771-2e13d4708aa9
         isrcs: []
+        title: Lido Shuffle
+        length: 221000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2019-11-29'
       - id: 90b52218-658c-47be-8911-fc9d4cfc4640
         isrcs: []
+        title: Lido Shuffle
+        length: 216840
+        video: false
+        disambiguation: 'part of “The Party Mix: 70s” DJ-mix'
+        firstReleaseDate: '2013-11-11'
       - id: c6814682-87f0-43f4-acba-8bc01e7030b5
         isrcs: []
+        title: Lido Shuffle
+        length: 221440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-05-29'
       - id: fbf28dff-526b-44c2-83c2-6d76fb146452
         isrcs: []
+        title: Lido Shuffle
+        length: 218906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023'
       score: 0.9667392
     - id: c9a618a6-c20f-451f-bba6-453e0254e4fc
       recordings:
       - id: 1c1f6f78-d1e3-47ef-86b4-ce107256d7fc
-        isrcs: []
+        isrcs: *id001
+        title: Lido Shuffle
+        length: 221893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       - id: c6814682-87f0-43f4-acba-8bc01e7030b5
         isrcs: []
+        title: Lido Shuffle
+        length: 221440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-05-29'
       score: 0.95764107
     - id: efa0e447-5ca1-429b-9538-856c51e0e1a2
       recordings:
       - id: 1c1f6f78-d1e3-47ef-86b4-ce107256d7fc
-        isrcs: []
+        isrcs: *id001
+        title: Lido Shuffle
+        length: 221893
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       - id: fbf28dff-526b-44c2-83c2-6d76fb146452
         isrcs: []
+        title: Lido Shuffle
+        length: 218906
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2023'
       score: 0.8340915
     status: ok

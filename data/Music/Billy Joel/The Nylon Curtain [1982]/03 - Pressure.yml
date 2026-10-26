@@ -15,15 +15,39 @@ trackIdData:
     - id: 2f1e63ff-fd91-401d-b0a9-a4ec19c85e81
       recordings:
       - id: 179d482a-5abe-4eed-8ac1-08aec86097c3
-        isrcs: []
+        isrcs: &id001
+        - USSM18100395
+        - USSM18200232
+        title: Pressure
+        length: 281000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982-09-23'
       - id: 4c2ede1b-79b3-40ad-bdee-190a5893208d
-        isrcs: []
+        isrcs:
+        - USSM18100395
+        title: Pressure
+        length: 281184
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2025-07-26'
       - id: 72a6a131-5e2d-4b23-b6cc-0e1fd7cc91a7
-        isrcs: []
+        isrcs:
+        - USSM18100395
+        title: Pressure
+        length: 281184
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-11-16'
       score: 0.96034414
     - id: 6119ace2-bfc5-4ed3-99fa-1698b769b3ae
       recordings:
       - id: 179d482a-5abe-4eed-8ac1-08aec86097c3
-        isrcs: []
+        isrcs: *id001
+        title: Pressure
+        length: 281000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982-09-23'
       score: 0.944851
     status: ok

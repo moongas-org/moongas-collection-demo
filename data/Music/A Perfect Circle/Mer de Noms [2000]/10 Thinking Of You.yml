@@ -16,22 +16,66 @@ trackIdData:
       recordings:
       - id: 114d99f3-1d7e-4a96-a4fb-0fb58a309c80
         isrcs: []
+        title: Thinking of You
+        length:
+        video: false
+        disambiguation: 'live, 2001-03-27: Memorial Athletic and Convocation Center,
+          Kent, OH, USA'
+        firstReleaseDate:
       - id: 2631f15e-231e-4b25-925b-7d4f8ea2c724
         isrcs: []
+        title: Thinking of You
+        length:
+        video: false
+        disambiguation: 'live, 2004-01-31: Le Zénith de Paris, Paris, France'
+        firstReleaseDate:
       - id: 3fc544f9-1228-4e2d-8747-e336e3f6600e
-        isrcs: []
+        isrcs: &id001
+        - QMEJX1300011
+        - USVI20000053
+        title: Thinking of You
+        length: 274573
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: 7a3ffa1c-f54f-4155-a68a-4d8c02a0442a
         isrcs: []
+        title: Thinking of You
+        length: 280000
+        video: true
+        disambiguation: official music video
+        firstReleaseDate: '2004-11-15'
       - id: c2624713-014f-495c-98f5-8e30abb95312
         isrcs: []
+        title: Orestes
+        length:
+        video: false
+        disambiguation: 'live, 1999-10-27: The Warfield Theatre, San Francisco, CA,
+          USA'
+        firstReleaseDate:
       - id: ed2e6aad-ebd4-4f3c-816a-11d932a4ae80
         isrcs: []
+        title: Renholdër / Thinking of You
+        length:
+        video: false
+        disambiguation: 'live, 2001‐03‐31: Roy Wilkins Auditorium, St. Paul, MN, USA'
+        firstReleaseDate:
       score: 0.97000265
     - id: 453f30d4-05fd-4675-b45a-abd2e7596bd4
       recordings:
       - id: 3fc544f9-1228-4e2d-8747-e336e3f6600e
-        isrcs: []
+        isrcs: *id001
+        title: Thinking of You
+        length: 274573
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2000-05-23'
       - id: 7a3ffa1c-f54f-4155-a68a-4d8c02a0442a
         isrcs: []
+        title: Thinking of You
+        length: 280000
+        video: true
+        disambiguation: official music video
+        firstReleaseDate: '2004-11-15'
       score: 0.96202534
     status: ok

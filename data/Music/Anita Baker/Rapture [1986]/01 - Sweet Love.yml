@@ -16,16 +16,44 @@ trackIdData:
       recordings:
       - id: e14e75cf-d814-479c-8503-760ec6a7aef1
         isrcs: []
+        title: Sweet Love
+        length: 246840
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989'
       - id: f135d1cc-1000-4f51-bf76-c310659c10c8
         isrcs: []
+        title: Sweet Love
+        length: 252200
+        video: false
+        disambiguation: single version
+        firstReleaseDate: '1988'
       - id: ff7c972f-a036-403c-8469-e9cab5a0d3dd
-        isrcs: []
+        isrcs: &id001
+        - USAT20104367
+        - USAT20804278
+        - USAT21205883
+        title: Sweet Love
+        length: 263213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1986-08-01'
       score: 0.9942972
     - id: acb411ab-7996-4337-80ba-dbf101e528d6
       recordings:
       - id: 45ff2243-1e14-4aeb-a772-580297a6989c
         isrcs: []
+        title: Sweet Love
+        length:
+        video: false
+        disambiguation: 'part of “Throwback: Slowjamz” DJ-mix'
+        firstReleaseDate: '2016-01-29'
       - id: ff7c972f-a036-403c-8469-e9cab5a0d3dd
-        isrcs: []
+        isrcs: *id001
+        title: Sweet Love
+        length: 263213
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1986-08-01'
       score: 0.93730223
     status: ok

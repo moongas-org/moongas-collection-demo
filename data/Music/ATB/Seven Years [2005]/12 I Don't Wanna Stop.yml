@@ -16,27 +16,75 @@ trackIdData:
       recordings:
       - id: 3c69963a-e0e4-471d-b3fd-5ab3c1c7384a
         isrcs: []
+        title: I Don't Wanna Stop
+        length: 216000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011'
       - id: 3da12b2c-f545-4919-a0d3-248065fcb553
         isrcs: []
+        title: I Don’t Wanna Stop (Molella radio edit)
+        length: 216000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-17'
       - id: 80f12def-f0d4-488f-933a-11d2bf392d3b
-        isrcs: []
+        isrcs: &id001
+        - DEN060300758
+        title: I Don’t Wanna Stop
+        length: 214000
+        video: false
+        disambiguation: radio edit
+        firstReleaseDate: '2003-04-28'
       - id: fcda3147-ab04-40bc-a775-97470279644d
-        isrcs: []
+        isrcs: &id002
+        - DEN060500185
+        - DEN060500188
+        title: I Don’t Wanna Stop
+        length: 214000
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       score: 0.97837555
     - id: 362bc15f-3a76-494d-9d01-59c7b11d71fa
       recordings:
       - id: 3da12b2c-f545-4919-a0d3-248065fcb553
         isrcs: []
+        title: I Don’t Wanna Stop (Molella radio edit)
+        length: 216000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2003-06-17'
       - id: 80f12def-f0d4-488f-933a-11d2bf392d3b
-        isrcs: []
+        isrcs: *id001
+        title: I Don’t Wanna Stop
+        length: 214000
+        video: false
+        disambiguation: radio edit
+        firstReleaseDate: '2003-04-28'
       - id: fcda3147-ab04-40bc-a775-97470279644d
-        isrcs: []
+        isrcs: *id002
+        title: I Don’t Wanna Stop
+        length: 214000
+        video: false
+        disambiguation: '“Seven Years: 1998-2005” CD'
+        firstReleaseDate: '2005-06-13'
       score: 0.77081203
     - id: 4c1ccf0c-bea4-4bd5-8adc-92497b929b6c
       recordings:
       - id: 21813c96-452a-489b-8382-715fed93f4c2
         isrcs: []
+        title: I Don’t Wanna Stop
+        length: 222000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2003-04-28'
       - id: 80f12def-f0d4-488f-933a-11d2bf392d3b
-        isrcs: []
+        isrcs: *id001
+        title: I Don’t Wanna Stop
+        length: 214000
+        video: false
+        disambiguation: radio edit
+        firstReleaseDate: '2003-04-28'
       score: 0.73018205
     status: ok

@@ -16,25 +16,69 @@ trackIdData:
       recordings:
       - id: 6ea3acff-c0ce-4dbc-bc6f-ded8c9659b2b
         isrcs: []
+        title: Lowdown
+        length: 312000
+        video: true
+        disambiguation: 'live, 2004-08: Great American Music Hall, San Francisco,
+          CA, USA'
+        firstReleaseDate: '2005-09-25'
       - id: ca035bae-1853-46b5-a783-161d1b8fc1dc
         isrcs: []
+        title: Lowdown
+        length: 317533
+        video: false
+        disambiguation: 'live: KCSA Studios, Glendale, CA, USA'
+        firstReleaseDate: '1995'
       - id: f0edc569-9370-4aea-9b94-02eb9232a572
         isrcs: []
+        title: Lowdown
+        length:
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1997'
       - id: f58c7a9c-c98e-4813-bd59-82c51b86c18a
-        isrcs: []
+        isrcs: &id001
+        - USSM17500264
+        - USSM17500295
+        title: Lowdown
+        length: 317000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.9814412
     - id: 4ce1abf4-8c3d-4f29-98ae-acbad17ed24c
       recordings:
       - id: 588f472c-e5b0-43ec-8d7a-7706ae8e1b06
         isrcs: []
+        title: Lowdown
+        length: 238000
+        video: false
+        disambiguation: part of “LateNightTales Presents Music for Pleasure” 
+          DJ-mix
+        firstReleaseDate: '2012-06-11'
       - id: f58c7a9c-c98e-4813-bd59-82c51b86c18a
-        isrcs: []
+        isrcs: *id001
+        title: Lowdown
+        length: 317000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.9713542
     - id: 0ae480c9-2223-47a1-b961-8b158de3152b
       recordings:
       - id: 34d7bbc0-537b-4b44-a2a1-9990c6b0fa3f
         isrcs: []
+        title: Lowdown
+        length: 175000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2010-06-02'
       - id: f58c7a9c-c98e-4813-bd59-82c51b86c18a
-        isrcs: []
+        isrcs: *id001
+        title: Lowdown
+        length: 317000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1976-02-18'
       score: 0.96390426
     status: ok

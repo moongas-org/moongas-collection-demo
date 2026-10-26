@@ -16,12 +16,29 @@ trackIdData:
       recordings:
       - id: 3524186a-d53a-4321-a912-0327ec74eaee
         isrcs: []
+        title: Supertouch/Shitfit
+        length: 151000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2017-09-30'
       - id: fb471459-b9f0-4713-be34-2230ec78001b
-        isrcs: []
+        isrcs: &id001
+        - US29V0422307
+        - USFMA1900134
+        title: Supertouch / Shitfit
+        length: 150986
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.9597508
     - id: e10f22c3-09e1-4957-a60f-b2bff266f1e2
       recordings:
       - id: fb471459-b9f0-4713-be34-2230ec78001b
-        isrcs: []
+        isrcs: *id001
+        title: Supertouch / Shitfit
+        length: 150986
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1982'
       score: 0.8916798
     status: ok

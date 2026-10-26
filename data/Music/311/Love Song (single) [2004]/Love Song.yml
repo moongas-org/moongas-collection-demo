@@ -16,14 +16,36 @@ trackIdData:
       recordings:
       - id: 343dd7b1-d54e-4115-b2b0-a3ee07c84b89
         isrcs: []
+        title: Love Song (single version)
+        length: 208000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004'
       - id: 63543c4a-963a-4646-851d-92f512340b3e
-        isrcs: []
+        isrcs: &id001
+        - USMV20300285
+        - USVR10400026
+        title: Love Song
+        length: 208733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-02-03'
       score: 0.9489056
     - id: cfbba526-ba91-4f44-953d-0744c20a4552
       recordings:
       - id: 63543c4a-963a-4646-851d-92f512340b3e
-        isrcs: []
+        isrcs: *id001
+        title: Love Song
+        length: 208733
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2004-02-03'
       - id: 7dfde984-67f7-48c5-a6c9-b8934637cc2d
         isrcs: []
+        title: Love Song
+        length: 215000
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '2004'
       score: 0.8771097
     status: ok

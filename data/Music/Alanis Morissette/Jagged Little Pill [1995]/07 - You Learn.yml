@@ -16,22 +16,73 @@ trackIdData:
       recordings:
       - id: 1e033b88-e868-40c9-ab54-a6f8e5cebce2
         isrcs: []
+        title: You Learn
+        length:
+        video: false
+        disambiguation: "live, 1999-07-24: Woodstock '99, Rome, NY, USA"
+        firstReleaseDate:
       - id: 286a1266-c1b0-430f-b1af-4f0adc49a141
-        isrcs: []
+        isrcs:
+        - USMV20100237
+        - USWB11507020
+        title: Precious Illusions
+        length: 251440
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2001'
       - id: 5afbbde6-b2a0-499a-8cac-f45f679d0213
         isrcs: []
+        title: You Learn
+        length: 238133
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006'
       - id: 639f0356-4fbb-4fd0-9e28-9f7570316db7
-        isrcs: []
+        isrcs:
+        - USMV22000053
+        title: You Learn
+        length: 238000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate: '2020-06-26'
       - id: aff5230f-9fa7-45a3-b9be-459c287ded49
-        isrcs: []
+        isrcs:
+        - USMV29900174
+        title: You Learn (Live / Unplugged)
+        length: 261973
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1999-11-23'
       - id: e3b19d83-1fe3-47ac-91d3-36ce33d53732
-        isrcs: []
+        isrcs: &id001
+        - USMV20500298
+        - USMV21500007
+        - USMV21500042
+        - USMV29400004
+        title: You Learn
+        length: 239533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       - id: fd009dc3-8cd1-4a46-86de-d3fa2baa0ae3
-        isrcs: []
+        isrcs:
+        - DEF089204370
+        - SEVJH0803403
+        - SEVJH0803812
+        title: Young and Proud
+        length: 236466
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1992-12
       score: 0.9890889
     - id: 98f1cdff-c488-42a5-8cb9-c574d4841285
       recordings:
       - id: e3b19d83-1fe3-47ac-91d3-36ce33d53732
-        isrcs: []
+        isrcs: *id001
+        title: You Learn
+        length: 239533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1995-06-09'
       score: 0.9864188
     status: ok

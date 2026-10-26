@@ -15,23 +15,72 @@ trackIdData:
     - id: e6660c48-f2a3-438f-8c14-733d75ae3f0f
       recordings:
       - id: 6c3c81d9-be80-417a-af37-027d24a33843
-        isrcs: []
+        isrcs: &id001
+        - USRH12003049
+        title: Thrill of It All
+        length: 355280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-06-11'
       - id: 855d980e-726c-4121-9a0c-8cba92ab0980
         isrcs: []
+        title: Thrill of It All
+        length: 354160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-10-23'
       - id: bd1a54d9-122f-4eae-b229-859986917020
-        isrcs: []
+        isrcs:
+        - GB5KW1601291
+        - GBAJE7300026
+        - GBAJE7400031
+        - USWB11304639
+        - USWB19901303
+        title: Killing Yourself to Live
+        length: 341000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1973-11
       - id: d6a45305-3035-4fe7-9cb2-160a325102f1
-        isrcs: []
+        isrcs: &id002
+        - GB5KW1602031
+        - GBAJE7500020
+        - USRH12003049
+        title: Thrill of It All
+        length: 355666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       score: 0.98351794
     - id: d916920d-f831-43e6-b02d-e3be60860481
       recordings:
       - id: 5cbade2f-dc5b-4136-a4e4-b6389414ab77
         isrcs: []
+        title: Thrill of It All
+        length: 355000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2018-12-07'
       - id: 6c3c81d9-be80-417a-af37-027d24a33843
-        isrcs: []
+        isrcs: *id001
+        title: Thrill of It All
+        length: 355280
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-06-11'
       - id: 855d980e-726c-4121-9a0c-8cba92ab0980
         isrcs: []
+        title: Thrill of It All
+        length: 354160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1991-10-23'
       - id: d6a45305-3035-4fe7-9cb2-160a325102f1
-        isrcs: []
+        isrcs: *id002
+        title: Thrill of It All
+        length: 355666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       score: 0.88449365
     status: ok

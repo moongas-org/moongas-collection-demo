@@ -16,16 +16,43 @@ trackIdData:
       recordings:
       - id: 3299db50-d7c7-47dc-a8f3-60f23cbf4c09
         isrcs: []
+        title: Santa Fe
+        length: 254386
+        video: false
+        disambiguation: ''
+        firstReleaseDate:
       - id: 442a6705-122c-48b7-ab41-514328ef9726
-        isrcs: []
+        isrcs: &id001
+        - USCPT1110002
+        title: Santa Fe
+        length: 254386
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-08-26'
       score: 0.9707748
     - id: 9f00f970-f581-4a2b-b96d-7b4986ffc877
       recordings:
       - id: 442a6705-122c-48b7-ab41-514328ef9726
-        isrcs: []
+        isrcs: *id001
+        title: Santa Fe
+        length: 254386
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2011-08-26'
       - id: 8fc98c46-fa7f-445b-a01f-de5cf157407d
-        isrcs: []
+        isrcs:
+        - USCA28901056
+        title: Satisfied
+        length: 254000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1989-05-02'
       - id: 9c505fea-40ee-4dcf-b3e4-21ddb2addf0e
         isrcs: []
+        title: Santa Fe
+        length: 254000
+        video: false
+        disambiguation: 'live, 2011-09-23: WFUV, The Bronx, NY, USA'
+        firstReleaseDate: '2012'
       score: 0.85835314
     status: ok

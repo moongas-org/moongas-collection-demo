@@ -16,19 +16,46 @@ trackIdData:
       recordings:
       - id: 513a93dc-5059-469f-aafb-1b616bb04a29
         isrcs: []
+        title: Kick in the Eye
+        length: 209386
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2009-02-01'
       - id: 616ac51e-7ec0-4575-9cd4-406be153f1c2
-        isrcs: []
+        isrcs:
+        - GBAZP9800179
+        title: Kick in the Eye
+        length: 212000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1983-10
       - id: f1ca35c8-b79f-4864-a65c-caed6f33ffc5
         isrcs: []
+        title: Kick in the Eye
+        length: 216000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1983'
       score: 0.9848695
     - id: af6cc759-ec2c-460d-89c2-3395ad90d89d
       recordings:
       - id: a4a43d60-3266-4661-8a0c-c32e634cacee
-        isrcs: []
+        isrcs: &id001
+        - GBAZP8100281
+        title: Kick in the Eye 2
+        length: 220160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1981-10
       score: 0.9847046
     - id: 5aa90792-039d-4694-89b4-4e28994dbe55
       recordings:
       - id: a4a43d60-3266-4661-8a0c-c32e634cacee
-        isrcs: []
+        isrcs: *id001
+        title: Kick in the Eye 2
+        length: 220160
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 1981-10
       score: 0.9026899
     status: ok

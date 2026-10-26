@@ -15,11 +15,22 @@ trackIdData:
     - id: 6eac94ae-3bb7-496a-bbb1-8cba5c9efc92
       recordings:
       - id: 2d82da42-9947-45f5-b744-1402b9b8ff4f
-        isrcs: []
+        isrcs: &id001
+        - USCA29201543
+        title: Man’s Final Frontier
+        length: 159533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.8815269
     - id: e392cd79-6426-4ebc-8ef1-139ff969c2b4
       recordings:
       - id: 2d82da42-9947-45f5-b744-1402b9b8ff4f
-        isrcs: []
+        isrcs: *id001
+        title: Man’s Final Frontier
+        length: 159533
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-24'
       score: 0.62180245
     status: ok

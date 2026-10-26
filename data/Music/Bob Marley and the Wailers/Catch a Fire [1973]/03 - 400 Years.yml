@@ -15,19 +15,56 @@ trackIdData:
     - id: 7618c442-1eb9-4794-86ec-80d17995b007
       recordings:
       - id: 23f7356a-f3c9-4281-aa56-8726678ee635
-        isrcs: []
+        isrcs:
+        - GBAPA0100012
+        title: 400 Years
+        length: 182706
+        video: false
+        disambiguation: original Jamaican version
+        firstReleaseDate: '2001-03-21'
       - id: 65caf478-dad4-4e34-ba2b-4cec2af2475f
         isrcs: []
+        title: 400 Years
+        length: 166000
+        video: false
+        disambiguation: Dolby Atmos mix
+        firstReleaseDate:
       - id: 96198d82-c3c3-47bb-a605-90d243ab8b6e
-        isrcs: []
+        isrcs: &id001
+        - GBAAN7300124
+        title: 400 Years
+        length: 166133
+        video: false
+        disambiguation: 1972 re-recording
+        firstReleaseDate: '1970'
       - id: a6179a81-dd98-4b98-bf73-ff1b5f7900eb
-        isrcs: []
+        isrcs:
+        - GBAJE7000206
+        - GBAJE7001105
+        - GBAWA0519013
+        - GBFWU0400059
+        - USA560686249
+        title: 400 Years
+        length: 152573
+        video: false
+        disambiguation: 1970 studio session
+        firstReleaseDate: 1970-12
       - id: d7a30645-e6d0-4e89-85a7-0d492e0d9702
         isrcs: []
+        title: 400 Years
+        length: 166600
+        video: false
+        disambiguation: ''
+        firstReleaseDate: 2001-01
       score: 0.97919965
     - id: cbf0cd72-544d-4b19-b67f-7ecae00bebfe
       recordings:
       - id: 96198d82-c3c3-47bb-a605-90d243ab8b6e
-        isrcs: []
+        isrcs: *id001
+        title: 400 Years
+        length: 166133
+        video: false
+        disambiguation: 1972 re-recording
+        firstReleaseDate: '1970'
       score: 0.63627374
     status: ok

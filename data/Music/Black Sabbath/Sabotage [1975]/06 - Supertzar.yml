@@ -15,15 +15,39 @@ trackIdData:
     - id: 799ffd4a-39cd-4345-8e78-8a95159546b8
       recordings:
       - id: 7ee3d39f-7230-4e64-87d4-c7ca4500c996
-        isrcs: []
+        isrcs: &id001
+        - GB5KW1602032
+        - GBAJE7500021
+        - USRH12003050
+        title: Supertzar
+        length: 224000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       - id: f859ca51-55a7-43fb-97d0-8aa7372b20d5
-        isrcs: []
+        isrcs: &id002
+        - USRH12003050
+        title: Supertzar
+        length: 223666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-06-11'
       score: 0.9897482
     - id: c17e6d85-64ba-4690-b7a7-ee327b356949
       recordings:
       - id: 7ee3d39f-7230-4e64-87d4-c7ca4500c996
-        isrcs: []
+        isrcs: *id001
+        title: Supertzar
+        length: 224000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1975-07-28'
       - id: f859ca51-55a7-43fb-97d0-8aa7372b20d5
-        isrcs: []
+        isrcs: *id002
+        title: Supertzar
+        length: 223666
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2021-06-11'
       score: 0.9018658
     status: ok

@@ -15,22 +15,54 @@ trackIdData:
     - id: 84d09380-b652-4f7e-9cd6-be689018d4b6
       recordings:
       - id: 14a01e05-5291-4d17-966d-41c2cd1954aa
-        isrcs: []
+        isrcs: &id001
+        - USCH30100100
+        - USCH37800018
+        title: Picture This
+        length: 176000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-08-26'
       score: 0.935654
     - id: c237f67e-c694-41cf-8a5e-216370b0bff0
       recordings:
       - id: 14a01e05-5291-4d17-966d-41c2cd1954aa
-        isrcs: []
+        isrcs: *id001
+        title: Picture This
+        length: 176000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-08-26'
       - id: 5b1bd3f1-e39a-47ce-974c-df8d59b225f2
         isrcs: []
+        title: Picture This
+        length: 176693
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2026-01-30'
       - id: a89b96ec-4e6a-4ceb-b939-2e68456f3a43
         isrcs: []
+        title: Picture This
+        length: 177000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998'
       - id: ca1b249f-7b18-4801-ae1c-f559a23164e4
         isrcs: []
+        title: Picture This
+        length: 171409
+        video: true
+        disambiguation: ''
+        firstReleaseDate: '1981'
       score: 0.9276767
     - id: 28d3c3fb-9051-4679-b061-b9f987584845
       recordings:
       - id: 14a01e05-5291-4d17-966d-41c2cd1954aa
-        isrcs: []
+        isrcs: *id001
+        title: Picture This
+        length: 176000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1978-08-26'
       score: 0.7571862
     status: ok

@@ -15,13 +15,30 @@ trackIdData:
     - id: a4ec0af8-84f1-4799-bcb8-2fe083ff0cb8
       recordings:
       - id: acb7cdd5-dadc-4645-a12e-3eadb5f46907
-        isrcs: []
+        isrcs: &id001
+        - USSUB0669002
+        title: Wicked Gil
+        length: 177000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-03-21'
       - id: f0edb7e4-d38f-48a2-8ee7-0bcd4df302d0
-        isrcs: []
+        isrcs:
+        - USSM16701426
+        title: My World Fell Down
+        length: 175146
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1968'
       score: 0.9999341
     - id: dcf5ccbd-5e53-40d2-9eed-a7f50ddbcec8
       recordings:
       - id: acb7cdd5-dadc-4645-a12e-3eadb5f46907
-        isrcs: []
+        isrcs: *id001
+        title: Wicked Gil
+        length: 177000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '2006-03-21'
       score: 0.9281674
     status: ok

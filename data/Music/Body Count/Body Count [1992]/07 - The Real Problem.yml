@@ -15,13 +15,24 @@ trackIdData:
     - id: e75aa78a-6f1c-4163-86d9-343516daa270
       recordings:
       - id: d5be79b4-0b3d-476c-ac99-6c9228e8f442
-        isrcs: []
+        isrcs: &id001
+        - USWB10102384
+        title: The Real Problem
+        length: 11560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-10'
       score: 0.9826389
     - id: 4683deca-be81-4107-a2d3-81fa8a5fe450
       score: 0.97439235
     - id: 9fbdea91-a188-4d5a-8551-92d8093f2bea
       recordings:
       - id: d5be79b4-0b3d-476c-ac99-6c9228e8f442
-        isrcs: []
+        isrcs: *id001
+        title: The Real Problem
+        length: 11560
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1992-03-10'
       score: 0.93532985
     status: ok
