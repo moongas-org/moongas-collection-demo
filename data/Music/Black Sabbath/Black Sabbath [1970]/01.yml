@@ -29,12 +29,12 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1970'
       - id: 533d5cbb-3ec6-4226-994b-844bc2173ac3
-        isrcs: &id001
-        - GB5KW1601266
-        - GBAJE7000076
-        - USWB10202635
-        - USWB11304612
-        - USWB19900789
+        isrcs:
+        - "GB5KW1601266"
+        - "GBAJE7000076"
+        - "USWB10202635"
+        - "USWB11304612"
+        - "USWB19900789"
         title: Black Sabbath
         length: 379893
         video: false
@@ -44,7 +44,12 @@ trackIdData:
     - id: 4c0a2f6e-7370-4853-82f5-ae8ac8a198a5
       recordings:
       - id: 533d5cbb-3ec6-4226-994b-844bc2173ac3
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601266"
+        - "GBAJE7000076"
+        - "USWB10202635"
+        - "USWB11304612"
+        - "USWB19900789"
         title: Black Sabbath
         length: 379893
         video: false

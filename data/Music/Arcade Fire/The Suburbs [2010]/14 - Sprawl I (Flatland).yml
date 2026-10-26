@@ -15,8 +15,8 @@ trackIdData:
     - id: 90946d52-1a9d-4c47-8540-db3dcf4a49b3
       recordings:
       - id: 3381dfb0-01e7-48e6-b139-7ed7d088a16f
-        isrcs: &id001
-        - GBUM71021645
+        isrcs:
+        - "GBUM71021645"
         title: Sprawl I (Flatland)
         length: 174226
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 328cf686-e875-44b0-9caf-8a8a65841d27
       recordings:
       - id: 3381dfb0-01e7-48e6-b139-7ed7d088a16f
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021645"
         title: Sprawl I (Flatland)
         length: 174226
         video: false

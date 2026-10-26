@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2022-01-07'
       - id: 28105619-1870-4c1d-8951-86a42c4ac47b
-        isrcs: &id001
-        - DEN060301013
+        isrcs:
+        - "DEN060301013"
         title: Don’t Stop (ATB radio edit)
         length: 226693
         video: false
@@ -37,9 +37,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-04-28'
       - id: 56ad2eba-2479-4474-b226-2f4dd7c6b2ad
-        isrcs: &id003
-        - DED579903710
-        - DEN060301023
+        isrcs:
+        - "DED579903710"
+        - "DEN060301023"
         title: Don’t Stop
         length: 221160
         video: false
@@ -74,11 +74,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004-09-14'
       - id: a5b2cfab-c07b-46ed-bd19-55d6fb963b0d
-        isrcs: &id002
-        - DEN060500178
-        - DEN060500195
-        - DEN069900076
-        - TR0531303699
+        isrcs:
+        - "DEN060500178"
+        - "DEN060500195"
+        - "DEN069900076"
+        - "TR0531303699"
         title: Don’t Stop (airplay edit)
         length: 226000
         video: false
@@ -116,7 +116,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2022-01-07'
       - id: 28105619-1870-4c1d-8951-86a42c4ac47b
-        isrcs: *id001
+        isrcs:
+        - "DEN060301013"
         title: Don’t Stop (ATB radio edit)
         length: 226693
         video: false
@@ -124,7 +125,7 @@ trackIdData:
         firstReleaseDate: '1999'
       - id: 599d837e-433e-46f1-b958-0dc46aa9745c
         isrcs:
-        - DEN060301014
+        - "DEN060301014"
         title: Don’t Stop (Spacekid contacts Woody van Eyden remix)
         length: 333000
         video: false
@@ -138,7 +139,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: a5b2cfab-c07b-46ed-bd19-55d6fb963b0d
-        isrcs: *id002
+        isrcs:
+        - "DEN060500178"
+        - "DEN060500195"
+        - "DEN069900076"
+        - "TR0531303699"
         title: Don’t Stop (airplay edit)
         length: 226000
         video: false
@@ -176,7 +181,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-04-28'
       - id: 56ad2eba-2479-4474-b226-2f4dd7c6b2ad
-        isrcs: *id003
+        isrcs:
+        - "DED579903710"
+        - "DEN060301023"
         title: Don’t Stop
         length: 221160
         video: false
@@ -197,7 +204,11 @@ trackIdData:
         disambiguation: part of “Wild Trance Anthems, Vol 2” DJ-mix
         firstReleaseDate: '2016-04-16'
       - id: a5b2cfab-c07b-46ed-bd19-55d6fb963b0d
-        isrcs: *id002
+        isrcs:
+        - "DEN060500178"
+        - "DEN060500195"
+        - "DEN069900076"
+        - "TR0531303699"
         title: Don’t Stop (airplay edit)
         length: 226000
         video: false

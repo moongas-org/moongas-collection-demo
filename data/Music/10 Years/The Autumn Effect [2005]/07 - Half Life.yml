@@ -22,7 +22,7 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2008-05-13'
       - id: 2732a8c2-0541-48ef-b151-f8edf702f09b
-        isrcs: &id001
+        isrcs:
         - USUM70500575
         - USUM70500986
         title: Half Life
@@ -34,7 +34,9 @@ trackIdData:
     - id: b72002aa-0122-4f34-a1f2-cd3c9f09aa83
       recordings:
       - id: 2732a8c2-0541-48ef-b151-f8edf702f09b
-        isrcs: *id001
+        isrcs:
+        - USUM70500575
+        - USUM70500986
         title: Half Life
         length: 256760
         video: false

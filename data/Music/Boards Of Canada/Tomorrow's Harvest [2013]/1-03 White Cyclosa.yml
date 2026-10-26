@@ -15,8 +15,8 @@ trackIdData:
     - id: 78a2d6e9-25ad-489c-a3b7-be5799d1b141
       recordings:
       - id: 36f1779a-fd10-4450-98c6-ad184347818a
-        isrcs: &id001
-        - GBBPW1300026
+        isrcs:
+        - "GBBPW1300026"
         title: White Cyclosa
         length: 193120
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 4b12d9ed-321a-4a1d-8a73-5e01c4347a5a
       recordings:
       - id: 36f1779a-fd10-4450-98c6-ad184347818a
-        isrcs: *id001
+        isrcs:
+        - "GBBPW1300026"
         title: White Cyclosa
         length: 193120
         video: false

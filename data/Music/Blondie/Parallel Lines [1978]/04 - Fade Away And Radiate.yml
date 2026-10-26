@@ -15,10 +15,10 @@ trackIdData:
     - id: 08a0052b-14f7-46c4-badf-07c9ee4f62cd
       recordings:
       - id: 1bbb0193-35d3-4eed-ab00-2343b0879dca
-        isrcs: &id001
-        - USCH30100101
-        - USCH37800024
-        - USCH38500015
+        isrcs:
+        - "USCH30100101"
+        - "USCH37800024"
+        - "USCH38500015"
         title: Fade Away and Radiate
         length: 240466
         video: false
@@ -28,7 +28,10 @@ trackIdData:
     - id: 4e6bebf1-b6e5-4632-99a5-38923ba09e7c
       recordings:
       - id: 1bbb0193-35d3-4eed-ab00-2343b0879dca
-        isrcs: *id001
+        isrcs:
+        - "USCH30100101"
+        - "USCH37800024"
+        - "USCH38500015"
         title: Fade Away and Radiate
         length: 240466
         video: false

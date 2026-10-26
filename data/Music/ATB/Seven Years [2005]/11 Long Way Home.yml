@@ -23,8 +23,8 @@ trackIdData:
         firstReleaseDate: '2003-08-04'
       - id: 444af6ce-9d00-48b7-a2f0-d4a62f9f6d99
         isrcs:
-        - DEN060500186
-        - DEN060500187
+        - "DEN060500186"
+        - "DEN060500187"
         title: Long Way Home
         length: 241000
         video: false
@@ -38,8 +38,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-07-07'
       - id: 6246cd60-58d8-4844-8e2d-e51f9c56f2b2
-        isrcs: &id001
-        - DEN060300845
+        isrcs:
+        - "DEN060300845"
         title: Long Way Home (radio edit)
         length: 240800
         video: false
@@ -63,7 +63,8 @@ trackIdData:
     - id: 2cd9f952-1b9d-47c9-917a-6db93d7b7d44
       recordings:
       - id: 6246cd60-58d8-4844-8e2d-e51f9c56f2b2
-        isrcs: *id001
+        isrcs:
+        - "DEN060300845"
         title: Long Way Home (radio edit)
         length: 240800
         video: false

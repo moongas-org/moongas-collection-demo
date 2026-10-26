@@ -23,7 +23,7 @@ trackIdData:
         firstReleaseDate: '2005-03-07'
       - id: 678d9f83-41b9-4d24-b92f-9d87b23f94cc
         isrcs:
-        - GBAAA7500081
+        - "GBAAA7500081"
         title: Another Green World
         length: 101000
         video: false
@@ -44,8 +44,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 1993-11
       - id: ecf9b6eb-b148-47c4-8c8f-382cb78e0528
-        isrcs: &id001
-        - GBAAA0400080
+        isrcs:
+        - "GBAAA0400080"
         title: Another Green World
         length: 97000
         video: false
@@ -55,7 +55,8 @@ trackIdData:
     - id: 8305924d-cc4e-444b-9dc6-1cc0a33d2a8b
       recordings:
       - id: ecf9b6eb-b148-47c4-8c8f-382cb78e0528
-        isrcs: *id001
+        isrcs:
+        - "GBAAA0400080"
         title: Another Green World
         length: 97000
         video: false
@@ -65,7 +66,8 @@ trackIdData:
     - id: 22e1ac46-2d87-4932-ab72-aec2688e376c
       recordings:
       - id: ecf9b6eb-b148-47c4-8c8f-382cb78e0528
-        isrcs: *id001
+        isrcs:
+        - "GBAAA0400080"
         title: Another Green World
         length: 97000
         video: false
@@ -75,7 +77,8 @@ trackIdData:
     - id: 2348d722-4a59-4060-8795-e4279f013497
       recordings:
       - id: ecf9b6eb-b148-47c4-8c8f-382cb78e0528
-        isrcs: *id001
+        isrcs:
+        - "GBAAA0400080"
         title: Another Green World
         length: 97000
         video: false

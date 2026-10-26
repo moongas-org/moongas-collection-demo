@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2011'
       - id: 740b967e-e2f8-44c1-8fff-445a4729b775
-        isrcs: &id001
-        - DEN060500178
+        isrcs:
+        - "DEN060500178"
         title: Let U Go (2005 reworked)
         length: 264000
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: f778b064-18aa-4298-b8df-db9adf7cafa7
       recordings:
       - id: 740b967e-e2f8-44c1-8fff-445a4729b775
-        isrcs: *id001
+        isrcs:
+        - "DEN060500178"
         title: Let U Go (2005 reworked)
         length: 264000
         video: false

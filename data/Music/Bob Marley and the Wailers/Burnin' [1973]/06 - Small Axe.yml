@@ -23,21 +23,21 @@ trackIdData:
         firstReleaseDate: '1981'
       - id: 8402708f-c3b5-4bc9-99b0-8a2d9326ffac
         isrcs:
-        - GBAJE7100234
-        - USA560702549
+        - "GBAJE7100234"
+        - "USA560702549"
         title: Small Axe
         length: 236266
         video: false
         disambiguation: 1970 studio session
         firstReleaseDate: '1970'
       - id: b05894f3-1668-4a50-9e2b-72357cf64c83
-        isrcs: &id001
-        - GBAAN7090008
-        - GBAAN7300133
-        - GBAJE7100234
-        - GBAJE7100996
-        - GBFWU0400176
-        - NLF050390259
+        isrcs:
+        - "GBAAN7090008"
+        - "GBAAN7300133"
+        - "GBAJE7100234"
+        - "GBAJE7100996"
+        - "GBFWU0400176"
+        - "NLF050390259"
         title: Small Axe
         length: 241200
         video: false
@@ -45,7 +45,7 @@ trackIdData:
         firstReleaseDate: '1973-10-19'
       - id: b5c0cb82-1470-489a-98f9-9975b50ca2cd
         isrcs:
-        - USA560686259
+        - "USA560686259"
         title: Small Axe
         length: 224933
         video: false
@@ -69,7 +69,13 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2001'
       - id: b05894f3-1668-4a50-9e2b-72357cf64c83
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7090008"
+        - "GBAAN7300133"
+        - "GBAJE7100234"
+        - "GBAJE7100996"
+        - "GBFWU0400176"
+        - "NLF050390259"
         title: Small Axe
         length: 241200
         video: false

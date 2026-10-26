@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: instrumental
         firstReleaseDate: '2006'
       - id: 3f221ae8-79b1-442f-8af6-c020028e58f1
-        isrcs: &id001
-        - GBUM70603491
+        isrcs:
+        - "GBUM70603491"
         title: Wake Up Alone
         length: 222000
         video: false
@@ -42,7 +42,8 @@ trackIdData:
     - id: 0f3b8bbf-c3c4-4823-8f2d-f6186afb24b0
       recordings:
       - id: 3f221ae8-79b1-442f-8af6-c020028e58f1
-        isrcs: *id001
+        isrcs:
+        - "GBUM70603491"
         title: Wake Up Alone
         length: 222000
         video: false

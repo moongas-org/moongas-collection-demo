@@ -15,10 +15,10 @@ trackIdData:
     - id: 143f38fd-acab-4836-9758-31f230f4f1c5
       recordings:
       - id: 2f9ca378-9030-4119-a774-8d0707528a64
-        isrcs: &id001
-        - GB5KW1602030
-        - GBAJE7500019
-        - USRH12003048
+        isrcs:
+        - "GB5KW1602030"
+        - "GBAJE7500019"
+        - "USRH12003048"
         title: Megalomania
         length: 582000
         video: false
@@ -33,7 +33,7 @@ trackIdData:
         firstReleaseDate: '2004-04-27'
       - id: c9d7a363-a906-4247-8a0f-6829ab3bdee8
         isrcs:
-        - USRH12003048
+        - "USRH12003048"
         title: Megalomania
         length: 581853
         video: false
@@ -43,7 +43,10 @@ trackIdData:
     - id: e5c5f705-06e0-47e9-9c7e-b684d9d762a4
       recordings:
       - id: 2f9ca378-9030-4119-a774-8d0707528a64
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602030"
+        - "GBAJE7500019"
+        - "USRH12003048"
         title: Megalomania
         length: 582000
         video: false

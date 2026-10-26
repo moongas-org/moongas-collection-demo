@@ -15,8 +15,8 @@ trackIdData:
     - id: 102a67eb-14f1-4255-9f23-53df3a8429f7
       recordings:
       - id: b9d450c6-c275-4cbb-af21-a872d0760e83
-        isrcs: &id001
-        - USCA29201547
+        isrcs:
+        - "USCA29201547"
         title: Children Play With Earth
         length: 159333
         video: false
@@ -28,7 +28,8 @@ trackIdData:
     - id: 76cfa342-fae4-4497-b7fa-f7ffdeb8275c
       recordings:
       - id: b9d450c6-c275-4cbb-af21-a872d0760e83
-        isrcs: *id001
+        isrcs:
+        - "USCA29201547"
         title: Children Play With Earth
         length: 159333
         video: false

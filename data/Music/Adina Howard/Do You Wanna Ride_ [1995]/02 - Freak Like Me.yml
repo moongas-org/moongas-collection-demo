@@ -15,8 +15,8 @@ trackIdData:
     - id: 1193d5ba-6c99-4588-8c26-95e29d06d927
       recordings:
       - id: 11dc9c3c-6850-447e-b7f7-a63030d1208b
-        isrcs: &id001
-        - USEW19500001
+        isrcs:
+        - "USEW19500001"
         title: Freak Like Me
         length: 253000
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '1995-02-28'
       - id: c8922dc7-ccb2-4569-b08a-b042f60d688d
         isrcs:
-        - USEW19500001
+        - "USEW19500001"
         title: Freak Like Me
         length: 253613
         video: false
@@ -34,15 +34,16 @@ trackIdData:
     - id: 702a51f5-afb1-4a0b-9632-c2345d74707a
       recordings:
       - id: 11dc9c3c-6850-447e-b7f7-a63030d1208b
-        isrcs: *id001
+        isrcs:
+        - "USEW19500001"
         title: Freak Like Me
         length: 253000
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-02-28'
       - id: 5da06f7e-3225-4604-8b2f-bda47882c719
-        isrcs: &id002
-        - USEE10250521
+        isrcs:
+        - "USEE10250521"
         title: Freak Like Me (radio version)
         length: 235546
         video: false
@@ -73,7 +74,8 @@ trackIdData:
     - id: a583072e-7e9b-4d4b-b8e5-9d93fa003acf
       recordings:
       - id: 11dc9c3c-6850-447e-b7f7-a63030d1208b
-        isrcs: *id001
+        isrcs:
+        - "USEW19500001"
         title: Freak Like Me
         length: 253000
         video: false
@@ -101,7 +103,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 5da06f7e-3225-4604-8b2f-bda47882c719
-        isrcs: *id002
+        isrcs:
+        - "USEE10250521"
         title: Freak Like Me (radio version)
         length: 235546
         video: false

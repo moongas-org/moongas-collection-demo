@@ -15,8 +15,8 @@ trackIdData:
     - id: 1a92bee9-f955-4de4-9215-edea188bd94d
       recordings:
       - id: 1a38bdc5-ec0f-45a6-970d-a7939343862d
-        isrcs: &id001
-        - GBUM71021616
+        isrcs:
+        - "GBUM71021616"
         title: Modern Man
         length: 279760
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: b54fdb7f-897f-4d73-9954-b1228e06a2fb
       recordings:
       - id: 1a38bdc5-ec0f-45a6-970d-a7939343862d
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021616"
         title: Modern Man
         length: 279760
         video: false

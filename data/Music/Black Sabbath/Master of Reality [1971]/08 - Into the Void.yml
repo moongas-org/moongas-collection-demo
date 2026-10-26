@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1995'
       - id: 8fb8ee37-8bf8-439f-94f5-a447b58c7593
-        isrcs: &id001
-        - GB5KW1602014
-        - GBAJE7100089
+        isrcs:
+        - "GB5KW1602014"
+        - "GBAJE7100089"
         title: Into the Void
         length: 372600
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: 146626bd-d4fe-4198-91f8-672b939760f3
       recordings:
       - id: 8fb8ee37-8bf8-439f-94f5-a447b58c7593
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602014"
+        - "GBAJE7100089"
         title: Into the Void
         length: 372600
         video: false
@@ -44,7 +46,9 @@ trackIdData:
     - id: b9340003-07ab-4bb4-bf27-dbc5748f0348
       recordings:
       - id: 8fb8ee37-8bf8-439f-94f5-a447b58c7593
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602014"
+        - "GBAJE7100089"
         title: Into the Void
         length: 372600
         video: false

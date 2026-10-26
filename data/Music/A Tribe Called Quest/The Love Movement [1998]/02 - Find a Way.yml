@@ -23,7 +23,7 @@ trackIdData:
         firstReleaseDate: '2000'
       - id: 4ea3445b-d444-4151-b48c-a28387723d03
         isrcs:
-        - USRC12101808
+        - "USRC12101808"
         title: Find a Way
         length: 197000
         video: false
@@ -38,16 +38,16 @@ trackIdData:
         firstReleaseDate: '2001-06-20'
       - id: 8881e26b-4f85-4820-8281-d3698f4013ab
         isrcs:
-        - USJI10300166
-        - USJI10300398
+        - "USJI10300166"
+        - "USJI10300398"
         title: Oh My God
         length: 210466
         video: false
         disambiguation: ''
         firstReleaseDate: '1993-11-09'
       - id: b658ba14-d5f4-4492-a856-360b4d5c16bf
-        isrcs: &id001
-        - USJI19810227
+        isrcs:
+        - "USJI19810227"
         title: Find a Way
         length: 203000
         video: false
@@ -57,7 +57,8 @@ trackIdData:
     - id: 9ced1645-1338-46da-8d9d-63d0ebdb80b5
       recordings:
       - id: b658ba14-d5f4-4492-a856-360b4d5c16bf
-        isrcs: *id001
+        isrcs:
+        - "USJI19810227"
         title: Find a Way
         length: 203000
         video: false

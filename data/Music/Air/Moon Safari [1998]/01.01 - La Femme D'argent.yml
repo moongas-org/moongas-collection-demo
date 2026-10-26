@@ -15,8 +15,8 @@ trackIdData:
     - id: 776efa27-79a5-4f56-8a0a-951685823da6
       recordings:
       - id: 864c7424-c9ab-481e-a9c0-ad986e646c67
-        isrcs: &id001
-        - FRS639700550
+        isrcs:
+        - "FRS639700550"
         title: La Femme d’argent
         length: 429560
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 3d015b30-168b-4065-be85-601d7ae54892
       recordings:
       - id: 864c7424-c9ab-481e-a9c0-ad986e646c67
-        isrcs: *id001
+        isrcs:
+        - "FRS639700550"
         title: La Femme d’argent
         length: 429560
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: dc43e453-ac3a-46a4-af96-824fc188c1da
       recordings:
       - id: 864c7424-c9ab-481e-a9c0-ad986e646c67
-        isrcs: *id001
+        isrcs:
+        - "FRS639700550"
         title: La Femme d’argent
         length: 429560
         video: false

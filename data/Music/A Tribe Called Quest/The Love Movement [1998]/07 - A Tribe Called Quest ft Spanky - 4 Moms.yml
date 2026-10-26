@@ -15,8 +15,8 @@ trackIdData:
     - id: d8117e5e-2afd-409c-88ab-1ec8b0a96740
       recordings:
       - id: 461f7c40-0b5d-42c0-a43e-8ec1b1c0c883
-        isrcs: &id001
-        - USJI19810232
+        isrcs:
+        - "USJI19810232"
         title: 4 Moms
         length: 109000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 72e2db11-9a22-493f-b9fc-422abd6a93fd
       recordings:
       - id: 461f7c40-0b5d-42c0-a43e-8ec1b1c0c883
-        isrcs: *id001
+        isrcs:
+        - "USJI19810232"
         title: 4 Moms
         length: 109000
         video: false

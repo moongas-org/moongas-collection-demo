@@ -15,8 +15,8 @@ trackIdData:
     - id: 6257c029-af59-4448-94af-ddf0efb1e02f
       recordings:
       - id: 1b7bc1b4-288c-412a-93ce-25f17eccb76b
-        isrcs: &id001
-        - GBUM71021639
+        isrcs:
+        - "GBUM71021639"
         title: Half Light II (No Celebration)
         length: 267133
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 861352bb-cc4f-415b-bce5-477b64f0a94a
       recordings:
       - id: 1b7bc1b4-288c-412a-93ce-25f17eccb76b
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021639"
         title: Half Light II (No Celebration)
         length: 267133
         video: false

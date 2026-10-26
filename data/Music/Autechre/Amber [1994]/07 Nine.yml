@@ -15,8 +15,8 @@ trackIdData:
     - id: d6bf360d-2da0-4bc1-a03f-1b0031d46497
       recordings:
       - id: 06eb703f-a534-4d35-8fcf-8eedb2e84a9a
-        isrcs: &id001
-        - GBBPW9400143
+        isrcs:
+        - "GBBPW9400143"
         title: Nine
         length: 220200
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 006f2656-f62a-4ed6-b36d-436bf2dccb81
       recordings:
       - id: 06eb703f-a534-4d35-8fcf-8eedb2e84a9a
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9400143"
         title: Nine
         length: 220200
         video: false
@@ -50,7 +51,8 @@ trackIdData:
     - id: e332d1be-1434-485b-bb59-aa0e83e69929
       recordings:
       - id: 06eb703f-a534-4d35-8fcf-8eedb2e84a9a
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9400143"
         title: Nine
         length: 220200
         video: false

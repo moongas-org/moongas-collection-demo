@@ -15,9 +15,9 @@ trackIdData:
     - id: 04f8b3ad-6296-4d20-a0fe-26e20be8abf7
       recordings:
       - id: b5502d6e-25af-4655-966d-faceab6fa0df
-        isrcs: &id001
-        - USSM10023130
-        - USSM19200871
+        isrcs:
+        - "USSM10023130"
+        - "USSM19200871"
         title: Down in a Hole
         length: 338066
         video: false
@@ -34,7 +34,9 @@ trackIdData:
         disambiguation: 'live, 1993‐07‐02: Mejeriet, Lund, Sweden'
         firstReleaseDate: '1993'
       - id: b5502d6e-25af-4655-966d-faceab6fa0df
-        isrcs: *id001
+        isrcs:
+        - "USSM10023130"
+        - "USSM19200871"
         title: Down in a Hole
         length: 338066
         video: false
@@ -51,7 +53,9 @@ trackIdData:
     - id: 4b914181-ffe4-45e3-911f-61669d01b508
       recordings:
       - id: b5502d6e-25af-4655-966d-faceab6fa0df
-        isrcs: *id001
+        isrcs:
+        - "USSM10023130"
+        - "USSM19200871"
         title: Down in a Hole
         length: 338066
         video: false

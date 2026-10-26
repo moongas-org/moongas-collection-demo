@@ -16,18 +16,18 @@ trackIdData:
       recordings:
       - id: 282e6dc3-9953-422a-9f5a-7e3b3d43671e
         isrcs:
-        - GAQLC8300002
-        - GBBBN8300002
-        - GBBBN8300036
-        - GBBBN8302012
+        - "GAQLC8300002"
+        - "GBBBN8300002"
+        - "GBBBN8300036"
+        - "GBBBN8302012"
         title: Total Eclipse of the Heart
         length: 268413
         video: false
         disambiguation: single version
         firstReleaseDate: '1983-02-11'
       - id: 4dd209b9-80fd-4e11-8093-3bab2db810fc
-        isrcs: &id001
-        - GBBKS1000353
+        isrcs:
+        - "GBBKS1000353"
         title: He Won’t Go
         length: 277946
         video: false
@@ -37,7 +37,8 @@ trackIdData:
     - id: c3e6358a-95ef-4e21-8314-272d3c4e21d5
       recordings:
       - id: 4dd209b9-80fd-4e11-8093-3bab2db810fc
-        isrcs: *id001
+        isrcs:
+        - "GBBKS1000353"
         title: He Won’t Go
         length: 277946
         video: false
@@ -47,7 +48,8 @@ trackIdData:
     - id: 0b61f871-9357-49a0-b3d1-4b9e0b9cf70e
       recordings:
       - id: 4dd209b9-80fd-4e11-8093-3bab2db810fc
-        isrcs: *id001
+        isrcs:
+        - "GBBKS1000353"
         title: He Won’t Go
         length: 277946
         video: false
@@ -64,7 +66,8 @@ trackIdData:
     - id: e8f048c0-07c0-4406-9472-46e354935baf
       recordings:
       - id: 4dd209b9-80fd-4e11-8093-3bab2db810fc
-        isrcs: *id001
+        isrcs:
+        - "GBBKS1000353"
         title: He Won’t Go
         length: 277946
         video: false

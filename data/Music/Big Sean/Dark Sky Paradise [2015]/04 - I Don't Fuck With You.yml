@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2014-09-19'
       - id: adcfa0c2-99ab-4529-87ed-169ac0e4f646
-        isrcs: &id001
-        - USUM71414033
+        isrcs:
+        - "USUM71414033"
         title: I Don’t Fuck With You
         length: 284386
         video: false
@@ -38,7 +38,7 @@ trackIdData:
         firstReleaseDate: '2014-12-09'
       - id: fbe758fd-ca6a-4f91-becf-da9207ffc5de
         isrcs:
-        - USUM71414034
+        - "USUM71414034"
         title: I Don’t F**k With You
         length: 284408
         video: false
@@ -60,7 +60,8 @@ trackIdData:
     - id: b8de90b4-9cbd-48f2-b1da-66541bf70ddc
       recordings:
       - id: adcfa0c2-99ab-4529-87ed-169ac0e4f646
-        isrcs: *id001
+        isrcs:
+        - "USUM71414033"
         title: I Don’t Fuck With You
         length: 284386
         video: false

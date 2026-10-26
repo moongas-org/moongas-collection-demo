@@ -24,22 +24,22 @@ trackIdData:
         disambiguation: mono
         firstReleaseDate: 1980-02
       - id: 4d7a0bde-3cdd-46f6-8b60-1041083f1dcc
-        isrcs: &id003
-        - USCH38900008
+        isrcs:
+        - "USCH38900008"
         title: Call Me
         length: 191186
         video: false
         disambiguation: ''
         firstReleaseDate: '1990'
       - id: 9042d375-7f56-4439-b5e3-bb946757f108
-        isrcs: &id001
-        - USCH30100031
-        - USCH30200013
-        - USCH37900008
-        - USCH38900008
-        - USCH39800016
-        - USLIC0500092
-        - USUM72100711
+        isrcs:
+        - "USCH30100031"
+        - "USCH30200013"
+        - "USCH37900008"
+        - "USCH38900008"
+        - "USCH39800016"
+        - "USLIC0500092"
+        - "USUM72100711"
         title: Call Me
         length: 211000
         video: false
@@ -53,8 +53,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2023-01-14'
       - id: b99dca0c-abdc-4a62-8e49-d07803d56828
-        isrcs: &id002
-        - USDPK1302608
+        isrcs:
+        - "USDPK1302608"
         title: Call Me
         length: 211000
         video: false
@@ -78,7 +78,14 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010'
       - id: 9042d375-7f56-4439-b5e3-bb946757f108
-        isrcs: *id001
+        isrcs:
+        - "USCH30100031"
+        - "USCH30200013"
+        - "USCH37900008"
+        - "USCH38900008"
+        - "USCH39800016"
+        - "USLIC0500092"
+        - "USUM72100711"
         title: Call Me
         length: 211000
         video: false
@@ -86,16 +93,17 @@ trackIdData:
         firstReleaseDate: 1980-02
       - id: a48eff98-ce48-4e17-98b9-ba1f374eea45
         isrcs:
-        - GBALB0080009
-        - GBALB8500007
-        - USGMP0800020
+        - "GBALB0080009"
+        - "GBALB8500007"
+        - "USGMP0800020"
         title: Close to Me
         length: 220826
         video: false
         disambiguation: greatest hits
         firstReleaseDate: '1986-05-01'
       - id: b99dca0c-abdc-4a62-8e49-d07803d56828
-        isrcs: *id002
+        isrcs:
+        - "USDPK1302608"
         title: Call Me
         length: 211000
         video: false
@@ -119,7 +127,14 @@ trackIdData:
         disambiguation: mono
         firstReleaseDate: 1980-02
       - id: 9042d375-7f56-4439-b5e3-bb946757f108
-        isrcs: *id001
+        isrcs:
+        - "USCH30100031"
+        - "USCH30200013"
+        - "USCH37900008"
+        - "USCH38900008"
+        - "USCH39800016"
+        - "USLIC0500092"
+        - "USUM72100711"
         title: Call Me
         length: 211000
         video: false
@@ -136,14 +151,22 @@ trackIdData:
         disambiguation: mono
         firstReleaseDate: 1980-02
       - id: 4d7a0bde-3cdd-46f6-8b60-1041083f1dcc
-        isrcs: *id003
+        isrcs:
+        - "USCH38900008"
         title: Call Me
         length: 191186
         video: false
         disambiguation: ''
         firstReleaseDate: '1990'
       - id: 9042d375-7f56-4439-b5e3-bb946757f108
-        isrcs: *id001
+        isrcs:
+        - "USCH30100031"
+        - "USCH30200013"
+        - "USCH37900008"
+        - "USCH38900008"
+        - "USCH39800016"
+        - "USLIC0500092"
+        - "USUM72100711"
         title: Call Me
         length: 211000
         video: false

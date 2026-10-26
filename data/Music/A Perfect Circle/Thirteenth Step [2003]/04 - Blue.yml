@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 6ea6321f-dcb1-4cac-8496-d2590092fd2d
         isrcs:
-        - USUM71314654
+        - "USUM71314654"
         title: Blue - Commentary
         length: 80000
         video: false
         disambiguation: ''
         firstReleaseDate: '2013-11-19'
       - id: b02baa79-1f97-4d0a-93c0-387d4e2f9ffe
-        isrcs: &id001
-        - USVI20301029
+        isrcs:
+        - "USVI20301029"
         title: Blue
         length: 253667
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 6be4e440-8c35-4ffe-b084-44154e0287d8
       recordings:
       - id: b02baa79-1f97-4d0a-93c0-387d4e2f9ffe
-        isrcs: *id001
+        isrcs:
+        - "USVI20301029"
         title: Blue
         length: 253667
         video: false

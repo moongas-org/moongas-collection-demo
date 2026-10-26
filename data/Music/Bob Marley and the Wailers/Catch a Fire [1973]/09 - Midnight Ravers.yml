@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 148c9452-1a81-433c-8ed2-9f454cbe8f87
         isrcs:
-        - GBAAP2400148
+        - "GBAAP2400148"
         title: Midnight
         length: 306640
         video: false
@@ -30,17 +30,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 2001-01
       - id: 6502b0e6-56dd-429b-81e7-21ab459cbb9e
-        isrcs: &id001
-        - GBAPA0100008
+        isrcs:
+        - "GBAPA0100008"
         title: Midnight Ravers
         length: 309000
         video: false
         disambiguation: original Jamaican version
         firstReleaseDate: '2001-03-21'
       - id: 93c3b93a-99f7-48f9-bb84-581169c50534
-        isrcs: &id002
-        - GBAAA7300059
-        - GBAAN7300059
+        isrcs:
+        - "GBAAA7300059"
+        - "GBAAN7300059"
         title: Midnight Ravers
         length: 308200
         video: false
@@ -64,14 +64,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 2001-01
       - id: 6502b0e6-56dd-429b-81e7-21ab459cbb9e
-        isrcs: *id001
+        isrcs:
+        - "GBAPA0100008"
         title: Midnight Ravers
         length: 309000
         video: false
         disambiguation: original Jamaican version
         firstReleaseDate: '2001-03-21'
       - id: 93c3b93a-99f7-48f9-bb84-581169c50534
-        isrcs: *id002
+        isrcs:
+        - "GBAAA7300059"
+        - "GBAAN7300059"
         title: Midnight Ravers
         length: 308200
         video: false
@@ -95,14 +98,17 @@ trackIdData:
     - id: b2568659-8084-4f0d-bb6d-ff8602f2382c
       recordings:
       - id: 6502b0e6-56dd-429b-81e7-21ab459cbb9e
-        isrcs: *id001
+        isrcs:
+        - "GBAPA0100008"
         title: Midnight Ravers
         length: 309000
         video: false
         disambiguation: original Jamaican version
         firstReleaseDate: '2001-03-21'
       - id: 93c3b93a-99f7-48f9-bb84-581169c50534
-        isrcs: *id002
+        isrcs:
+        - "GBAAA7300059"
+        - "GBAAN7300059"
         title: Midnight Ravers
         length: 308200
         video: false
@@ -119,7 +125,9 @@ trackIdData:
     - id: 96256905-841d-42e8-9ffd-b772f309c4e5
       recordings:
       - id: 93c3b93a-99f7-48f9-bb84-581169c50534
-        isrcs: *id002
+        isrcs:
+        - "GBAAA7300059"
+        - "GBAAN7300059"
         title: Midnight Ravers
         length: 308200
         video: false

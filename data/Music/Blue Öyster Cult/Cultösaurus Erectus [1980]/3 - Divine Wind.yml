@@ -15,8 +15,8 @@ trackIdData:
     - id: 454983cc-9891-4792-a1cb-f4ead1268414
       recordings:
       - id: 3975198b-8311-4303-ba1f-8720e9dea56e
-        isrcs: &id001
-        - USSM18000440
+        isrcs:
+        - "USSM18000440"
         title: Divine Wind
         length: 307040
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 770cba97-ae49-49ba-a31b-85ee57c9258c
       recordings:
       - id: 3975198b-8311-4303-ba1f-8720e9dea56e
-        isrcs: *id001
+        isrcs:
+        - "USSM18000440"
         title: Divine Wind
         length: 307040
         video: false

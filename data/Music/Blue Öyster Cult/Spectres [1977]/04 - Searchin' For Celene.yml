@@ -15,8 +15,8 @@ trackIdData:
     - id: 9366cce7-c318-48d3-b6a3-0e632c953a9b
       recordings:
       - id: bce0f879-8b52-4a3f-b565-a37b81684b8c
-        isrcs: &id001
-        - USSM19917723
+        isrcs:
+        - "USSM19917723"
         title: Searchin’ for Celine
         length: 216626
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 0f2c91ba-a464-4bed-bfdc-4d70da33e631
       recordings:
       - id: bce0f879-8b52-4a3f-b565-a37b81684b8c
-        isrcs: *id001
+        isrcs:
+        - "USSM19917723"
         title: Searchin’ for Celine
         length: 216626
         video: false

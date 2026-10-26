@@ -23,7 +23,7 @@ trackIdData:
         firstReleaseDate: '1991'
       - id: 7592ba18-7c35-4a26-80ae-6a0a3f04b5bc
         isrcs:
-        - USSM16801238
+        - "USSM16801238"
         title: Combination of the Two
         length: 346494
         video: false
@@ -58,9 +58,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1997-09-10'
       - id: ed3216c5-a716-4f7e-a7ea-d2431f9309fb
-        isrcs: &id001
-        - USSM16801238
-        - USSM19920615
+        isrcs:
+        - "USSM16801238"
+        - "USSM19920615"
         title: Combination of the Two
         length: 348333
         video: false
@@ -77,7 +77,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2001'
       - id: ed3216c5-a716-4f7e-a7ea-d2431f9309fb
-        isrcs: *id001
+        isrcs:
+        - "USSM16801238"
+        - "USSM19920615"
         title: Combination of the Two
         length: 348333
         video: false

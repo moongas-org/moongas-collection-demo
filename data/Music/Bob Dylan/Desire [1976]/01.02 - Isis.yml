@@ -15,8 +15,8 @@ trackIdData:
     - id: f332b29c-c137-4991-ae75-981e6b367c74
       recordings:
       - id: 0b58c9f5-e27b-4a15-b1c3-27d0f349a09a
-        isrcs: &id001
-        - USSM10103237
+        isrcs:
+        - "USSM10103237"
         title: Isis
         length: 418800
         video: false
@@ -30,8 +30,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-11-07'
       - id: 90b9aeb0-6b36-42e7-8de2-efaecf044009
-        isrcs: &id002
-        - USSM10103237
+        isrcs:
+        - "USSM10103237"
         title: Isis
         length: 418293
         video: false
@@ -48,14 +48,16 @@ trackIdData:
     - id: fa6b6dbc-e47c-4772-bd3b-317d2c2b5a32
       recordings:
       - id: 0b58c9f5-e27b-4a15-b1c3-27d0f349a09a
-        isrcs: *id001
+        isrcs:
+        - "USSM10103237"
         title: Isis
         length: 418800
         video: false
         disambiguation: original studio mix
         firstReleaseDate: '1976-01-05'
       - id: 90b9aeb0-6b36-42e7-8de2-efaecf044009
-        isrcs: *id002
+        isrcs:
+        - "USSM10103237"
         title: Isis
         length: 418293
         video: false
@@ -72,14 +74,16 @@ trackIdData:
     - id: 9c3c3e9f-7ccc-4112-ab1c-ae32fa5e2fe0
       recordings:
       - id: 0b58c9f5-e27b-4a15-b1c3-27d0f349a09a
-        isrcs: *id001
+        isrcs:
+        - "USSM10103237"
         title: Isis
         length: 418800
         video: false
         disambiguation: original studio mix
         firstReleaseDate: '1976-01-05'
       - id: 90b9aeb0-6b36-42e7-8de2-efaecf044009
-        isrcs: *id002
+        isrcs:
+        - "USSM10103237"
         title: Isis
         length: 418293
         video: false

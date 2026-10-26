@@ -15,8 +15,8 @@ trackIdData:
     - id: 43006b0c-ae1a-40e3-8a20-921812313183
       recordings:
       - id: 3a9490bc-352c-43f7-873d-92bfb66968a7
-        isrcs: &id001
-        - USCA29500716
+        isrcs:
+        - "USCA29500716"
         title: Wilt
         length: 150493
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 79e055a3-32d3-4433-af11-789fa43fda0d
       recordings:
       - id: 3a9490bc-352c-43f7-873d-92bfb66968a7
-        isrcs: *id001
+        isrcs:
+        - "USCA29500716"
         title: Wilt
         length: 150493
         video: false

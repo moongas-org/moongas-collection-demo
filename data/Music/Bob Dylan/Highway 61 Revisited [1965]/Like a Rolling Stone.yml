@@ -15,19 +15,19 @@ trackIdData:
     - id: 72c098a5-50c4-4d14-8bcd-4170f9364d66
       recordings:
       - id: 2436808d-1aad-4988-a0ac-fa8812cdf23b
-        isrcs: &id001
-        - USSM11003551
+        isrcs:
+        - "USSM11003551"
         title: Like a Rolling Stone
         length: 360000
         video: false
         disambiguation: original mono studio mix
         firstReleaseDate: '1965-08-30'
       - id: 26244520-0e1d-4d42-b101-ce6b83299d33
-        isrcs: &id002
-        - USSM16500146
-        - USSM16501022
-        - USSM16501137
-        - USSM19922509
+        isrcs:
+        - "USSM16500146"
+        - "USSM16501022"
+        - "USSM16501137"
+        - "USSM19922509"
         title: Like a Rolling Stone
         length: 369733
         video: false
@@ -72,14 +72,19 @@ trackIdData:
     - id: b32a500b-9f22-42ae-8fbc-f269f2c38d23
       recordings:
       - id: 2436808d-1aad-4988-a0ac-fa8812cdf23b
-        isrcs: *id001
+        isrcs:
+        - "USSM11003551"
         title: Like a Rolling Stone
         length: 360000
         video: false
         disambiguation: original mono studio mix
         firstReleaseDate: '1965-08-30'
       - id: 26244520-0e1d-4d42-b101-ce6b83299d33
-        isrcs: *id002
+        isrcs:
+        - "USSM16500146"
+        - "USSM16501022"
+        - "USSM16501137"
+        - "USSM19922509"
         title: Like a Rolling Stone
         length: 369733
         video: false

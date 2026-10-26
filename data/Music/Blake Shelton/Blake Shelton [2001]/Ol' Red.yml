@@ -15,9 +15,9 @@ trackIdData:
     - id: 3684c70b-01ec-45de-ab1d-991800746057
       recordings:
       - id: 612d69dc-0906-4860-b806-eb801bf4793f
-        isrcs: &id001
-        - USGI10000132
-        - USWB11300589
+        isrcs:
+        - "USGI10000132"
+        - "USWB11300589"
         title: Ol’ Red
         length: 222733
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: 9d8aff38-f7b4-414f-a1e9-82faacdd8b41
       recordings:
       - id: 612d69dc-0906-4860-b806-eb801bf4793f
-        isrcs: *id001
+        isrcs:
+        - "USGI10000132"
+        - "USWB11300589"
         title: Ol’ Red
         length: 222733
         video: false

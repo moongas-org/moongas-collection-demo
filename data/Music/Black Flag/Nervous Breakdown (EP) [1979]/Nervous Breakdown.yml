@@ -15,8 +15,8 @@ trackIdData:
     - id: 92ab48ff-8c4f-4c76-b463-4d151641e275
       recordings:
       - id: 12a72bc0-08c0-4281-8fc0-e6a3355e6ed0
-        isrcs: &id001
-        - USA370538601
+        isrcs:
+        - "USA370538601"
         title: Nervous Breakdown
         length: 127000
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '1978-01-01'
       - id: 3cf2c70f-74da-44c4-bcf9-3cd00e3f62f0
         isrcs:
-        - USA370538562
+        - "USA370538562"
         title: Nervous Breakdown
         length: 126066
         video: false
@@ -41,7 +41,8 @@ trackIdData:
     - id: e0d05725-6b08-44aa-b444-302f3785c007
       recordings:
       - id: 12a72bc0-08c0-4281-8fc0-e6a3355e6ed0
-        isrcs: *id001
+        isrcs:
+        - "USA370538601"
         title: Nervous Breakdown
         length: 127000
         video: false
@@ -58,7 +59,8 @@ trackIdData:
     - id: 80e4c4a3-1156-4320-9266-0964d9e6ef45
       recordings:
       - id: 12a72bc0-08c0-4281-8fc0-e6a3355e6ed0
-        isrcs: *id001
+        isrcs:
+        - "USA370538601"
         title: Nervous Breakdown
         length: 127000
         video: false

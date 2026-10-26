@@ -15,9 +15,9 @@ trackIdData:
     - id: 23cb7afd-8b58-42ad-a618-2989f681a0e2
       recordings:
       - id: 0eb5d18b-9f8d-4692-b095-2a1bbef3ea84
-        isrcs: &id001
-        - USSM18100393
-        - USSM19701929
+        isrcs:
+        - "USSM18100393"
+        - "USSM19701929"
         title: Allentown
         length: 230120
         video: false
@@ -25,8 +25,8 @@ trackIdData:
         firstReleaseDate: '1982-09-23'
       - id: 645dff3d-10d3-4024-ba7c-4cb81c070c10
         isrcs:
-        - USSM18100393
-        - USSM19701929
+        - "USSM18100393"
+        - "USSM19701929"
         title: Allentown
         length: 230120
         video: false
@@ -36,7 +36,9 @@ trackIdData:
     - id: f63a33f2-dd2b-41e5-8809-fb5247a264eb
       recordings:
       - id: 0eb5d18b-9f8d-4692-b095-2a1bbef3ea84
-        isrcs: *id001
+        isrcs:
+        - "USSM18100393"
+        - "USSM19701929"
         title: Allentown
         length: 230120
         video: false
@@ -44,7 +46,7 @@ trackIdData:
         firstReleaseDate: '1982-09-23'
       - id: d140f9d6-0f29-45ba-bc46-0325f409adc7
         isrcs:
-        - USSM20403592
+        - "USSM20403592"
         title: Allentown
         length: 221000
         video: true
@@ -54,7 +56,9 @@ trackIdData:
     - id: b822e44c-db39-47cf-b871-c7e1f189ff37
       recordings:
       - id: 0eb5d18b-9f8d-4692-b095-2a1bbef3ea84
-        isrcs: *id001
+        isrcs:
+        - "USSM18100393"
+        - "USSM19701929"
         title: Allentown
         length: 230120
         video: false

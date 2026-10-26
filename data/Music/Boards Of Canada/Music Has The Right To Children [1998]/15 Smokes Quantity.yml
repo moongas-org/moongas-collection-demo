@@ -15,8 +15,8 @@ trackIdData:
     - id: fd6ab3bf-df36-4a00-b116-9db41823f348
       recordings:
       - id: 866cb284-51f1-4e7b-8e62-d854a7ee3c65
-        isrcs: &id001
-        - GBBPW9800024
+        isrcs:
+        - "GBBPW9800024"
         title: Smokes Quantity
         length: 187320
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 1cc5c109-b025-4411-afe4-b13ce3f86f87
       recordings:
       - id: 866cb284-51f1-4e7b-8e62-d854a7ee3c65
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9800024"
         title: Smokes Quantity
         length: 187320
         video: false
@@ -43,7 +44,8 @@ trackIdData:
     - id: de9395ef-2410-4495-bd53-300332974445
       recordings:
       - id: 866cb284-51f1-4e7b-8e62-d854a7ee3c65
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9800024"
         title: Smokes Quantity
         length: 187320
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 169f01ab-7447-4cc8-96c7-f2d2dd549466
       recordings:
       - id: 41e6f343-9cbd-43ca-b2dc-ac796049163f
-        isrcs: &id001
-        - USIR10500787
+        isrcs:
+        - "USIR10500787"
         title: Your Time Has Come
         length: 255426
         video: false
@@ -47,7 +47,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2014'
       - id: 41e6f343-9cbd-43ca-b2dc-ac796049163f
-        isrcs: *id001
+        isrcs:
+        - "USIR10500787"
         title: Your Time Has Come
         length: 255426
         video: false

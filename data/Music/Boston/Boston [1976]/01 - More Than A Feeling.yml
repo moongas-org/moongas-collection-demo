@@ -30,12 +30,12 @@ trackIdData:
           DJ‐mix'
         firstReleaseDate: '2022-11-11'
       - id: 5698b33c-eada-493e-ba34-636acc149cf8
-        isrcs: &id001
-        - USSM17600047
-        - USSM17600444
-        - USSM17600941
-        - USSM19804762
-        - USSM19907680
+        isrcs:
+        - "USSM17600047"
+        - "USSM17600444"
+        - "USSM17600941"
+        - "USSM19804762"
+        - "USSM19907680"
         title: More Than a Feeling
         length: 284826
         video: false
@@ -66,7 +66,12 @@ trackIdData:
     - id: c3a67fd3-0803-4821-a78b-1a01a3e2e7e7
       recordings:
       - id: 5698b33c-eada-493e-ba34-636acc149cf8
-        isrcs: *id001
+        isrcs:
+        - "USSM17600047"
+        - "USSM17600444"
+        - "USSM17600941"
+        - "USSM19804762"
+        - "USSM19907680"
         title: More Than a Feeling
         length: 284826
         video: false

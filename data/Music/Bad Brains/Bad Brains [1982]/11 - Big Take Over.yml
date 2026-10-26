@@ -15,9 +15,9 @@ trackIdData:
     - id: 3979393e-bcf4-40af-b9fa-300c390d3f3e
       recordings:
       - id: 06c4d360-fbf7-4c11-a2db-dc40fddbbfe1
-        isrcs: &id001
-        - US29V0422311
-        - USFMA1900138
+        isrcs:
+        - "US29V0422311"
+        - "USFMA1900138"
         title: Big Take Over
         length: 177400
         video: false
@@ -32,8 +32,8 @@ trackIdData:
         firstReleaseDate: '2006'
       - id: 826ea08f-449a-430c-a0ff-3c89b4171fd5
         isrcs:
-        - US29V0422310
-        - USFMA1900137
+        - "US29V0422310"
+        - "USFMA1900137"
         title: I
         length: 125000
         video: false
@@ -41,7 +41,7 @@ trackIdData:
         firstReleaseDate: '1982'
       - id: 8b7baa98-0b50-4235-9d72-142c6068af9b
         isrcs:
-        - US29V0850401
+        - "US29V0850401"
         title: Big Takeover
         length: 181000
         video: false
@@ -58,7 +58,9 @@ trackIdData:
     - id: ad72ba4b-0815-46a2-b168-22dfe549f9cb
       recordings:
       - id: 06c4d360-fbf7-4c11-a2db-dc40fddbbfe1
-        isrcs: *id001
+        isrcs:
+        - "US29V0422311"
+        - "USFMA1900138"
         title: Big Take Over
         length: 177400
         video: false

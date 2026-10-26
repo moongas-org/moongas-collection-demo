@@ -15,11 +15,11 @@ trackIdData:
     - id: a498f36f-cb75-4d0a-ba20-fb4e040e640c
       recordings:
       - id: bd8d9e4d-5f16-4a1f-8778-8e2863e6f8a0
-        isrcs: &id001
-        - USSM11100803
-        - USSM18600167
-        - USSM18600314
-        - USSM19400695
+        isrcs:
+        - "USSM11100803"
+        - "USSM18600167"
+        - "USSM18600314"
+        - "USSM19400695"
         title: Baby Grand
         length: 245066
         video: false
@@ -36,7 +36,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2021-09-10'
       - id: bd8d9e4d-5f16-4a1f-8778-8e2863e6f8a0
-        isrcs: *id001
+        isrcs:
+        - "USSM11100803"
+        - "USSM18600167"
+        - "USSM18600314"
+        - "USSM19400695"
         title: Baby Grand
         length: 245066
         video: false
@@ -44,7 +48,7 @@ trackIdData:
         firstReleaseDate: '1986-07-09'
       - id: e844f2ad-84a8-4a26-8c2a-fc5fb6026e46
         isrcs:
-        - USSM18600314
+        - "USSM18600314"
         title: Baby Grand
         length: 244856
         video: false
@@ -52,7 +56,7 @@ trackIdData:
         firstReleaseDate:
       - id: f1aad440-f0fb-44b3-9c06-1796ee41e28f
         isrcs:
-        - USSM18600314
+        - "USSM18600314"
         title: Baby Grand
         length: 244856
         video: false

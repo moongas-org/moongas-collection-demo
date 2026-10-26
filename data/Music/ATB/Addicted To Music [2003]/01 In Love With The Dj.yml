@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-10-09'
       - id: d4d8c562-4b71-476b-ae55-e01bc6fbdc92
-        isrcs: &id001
-        - DEN060300773
+        isrcs:
+        - "DEN060300773"
         title: In Love With the DJ
         length: 407000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 49414f67-4a39-4b5e-a2ed-30d57a086189
       recordings:
       - id: d4d8c562-4b71-476b-ae55-e01bc6fbdc92
-        isrcs: *id001
+        isrcs:
+        - "DEN060300773"
         title: In Love With the DJ
         length: 407000
         video: false
@@ -43,7 +44,8 @@ trackIdData:
     - id: fbd773c9-7f01-4880-a348-b41ea69a9680
       recordings:
       - id: d4d8c562-4b71-476b-ae55-e01bc6fbdc92
-        isrcs: *id001
+        isrcs:
+        - "DEN060300773"
         title: In Love With the DJ
         length: 407000
         video: false

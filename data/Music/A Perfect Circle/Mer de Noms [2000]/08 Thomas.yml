@@ -45,7 +45,7 @@ trackIdData:
         firstReleaseDate:
       - id: a40eef19-df2e-49db-9e74-de7c67f2ef89
         isrcs:
-        - QMEJX1300009
+        - "QMEJX1300009"
         title: Thomas
         length: 230000
         video: false
@@ -60,7 +60,7 @@ trackIdData:
         firstReleaseDate: '2000-05-23'
       - id: bf212788-fe39-493c-92c1-edb29ea1c2f0
         isrcs:
-        - USVI20000051
+        - "USVI20000051"
         title: Thomas
         length: 211400
         video: false
@@ -75,9 +75,9 @@ trackIdData:
           USA'
         firstReleaseDate:
       - id: e24b0f9d-70ee-431e-bc76-945e8d42b8a0
-        isrcs: &id001
-        - QMEJX1300009
-        - USVI20000051
+        isrcs:
+        - "QMEJX1300009"
+        - "USVI20000051"
         title: Thomas
         length: 209373
         video: false
@@ -95,7 +95,9 @@ trackIdData:
     - id: d2c15689-0ee7-4073-922a-a92f17079f46
       recordings:
       - id: e24b0f9d-70ee-431e-bc76-945e8d42b8a0
-        isrcs: *id001
+        isrcs:
+        - "QMEJX1300009"
+        - "USVI20000051"
         title: Thomas
         length: 209373
         video: false

@@ -16,16 +16,16 @@ trackIdData:
       recordings:
       - id: 23497a9f-c6d8-430c-af77-d51c42a7e844
         isrcs:
-        - USSM17500447
+        - "USSM17500447"
         title: We’re All Alone
         length: 252600
         video: false
         disambiguation: ''
         firstReleaseDate: '2021'
       - id: b3d1aad0-d79e-4446-9448-d0538f4c6fc4
-        isrcs: &id001
-        - USSM17500266
-        - USSM17500447
+        isrcs:
+        - "USSM17500266"
+        - "USSM17500447"
         title: We’re All Alone
         length: 252800
         video: false
@@ -49,7 +49,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: b3d1aad0-d79e-4446-9448-d0538f4c6fc4
-        isrcs: *id001
+        isrcs:
+        - "USSM17500266"
+        - "USSM17500447"
         title: We’re All Alone
         length: 252800
         video: false
@@ -66,7 +68,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: b3d1aad0-d79e-4446-9448-d0538f4c6fc4
-        isrcs: *id001
+        isrcs:
+        - "USSM17500266"
+        - "USSM17500447"
         title: We’re All Alone
         length: 252800
         video: false

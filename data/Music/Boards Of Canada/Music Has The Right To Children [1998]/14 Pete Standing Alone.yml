@@ -15,8 +15,8 @@ trackIdData:
     - id: de83f1fb-abbe-48ac-80f1-b91bb1a92afd
       recordings:
       - id: ce4aaed1-0a9e-4d97-b6ad-8a6445f28343
-        isrcs: &id001
-        - GBBPW9800023
+        isrcs:
+        - "GBBPW9800023"
         title: Pete Standing Alone
         length: 367666
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 2c32b004-81ad-449d-994a-fb00fac5f957
       recordings:
       - id: ce4aaed1-0a9e-4d97-b6ad-8a6445f28343
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9800023"
         title: Pete Standing Alone
         length: 367666
         video: false

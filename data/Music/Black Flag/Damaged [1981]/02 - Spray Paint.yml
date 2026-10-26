@@ -15,8 +15,8 @@ trackIdData:
     - id: 7c967384-0d25-437e-aa6a-ee9b9c0bb66f
       recordings:
       - id: 82703520-0867-45e3-b5e8-207acf7098ab
-        isrcs: &id001
-        - USA370538439
+        isrcs:
+        - "USA370538439"
         title: Spray Paint
         length: 33493
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 1ddb6ed7-d040-4c90-9e0d-d1a10ce7f3fd
       recordings:
       - id: 82703520-0867-45e3-b5e8-207acf7098ab
-        isrcs: *id001
+        isrcs:
+        - "USA370538439"
         title: Spray Paint
         length: 33493
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: b8ef8d5b-f1dc-4673-9358-f6bf020f5e73
       recordings:
       - id: 82703520-0867-45e3-b5e8-207acf7098ab
-        isrcs: *id001
+        isrcs:
+        - "USA370538439"
         title: Spray Paint
         length: 33493
         video: false

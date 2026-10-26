@@ -16,18 +16,18 @@ trackIdData:
       recordings:
       - id: 52a95423-20c2-4530-85be-5a90d065de67
         isrcs:
-        - USSM10402991
-        - USSM17600272
-        - USSM17600481
+        - "USSM10402991"
+        - "USSM17600272"
+        - "USSM17600481"
         title: New York State of Mind
         length: 362600
         video: false
         disambiguation: ''
         firstReleaseDate: '1976-05-19'
       - id: 596dcb0d-5b2a-4c03-b156-ca77efd7b804
-        isrcs: &id001
-        - USSM11100767
-        - USSM17900404
+        isrcs:
+        - "USSM11100767"
+        - "USSM17900404"
         title: Through the Long Night
         length: 165000
         video: false
@@ -35,9 +35,9 @@ trackIdData:
         firstReleaseDate: '1980-03-12'
       - id: ea976790-3e11-4e5f-b334-ec24eacec22e
         isrcs:
-        - USSM18100396
-        - USSM18200233
-        - USSM18200594
+        - "USSM18100396"
+        - "USSM18200233"
+        - "USSM18200594"
         title: Goodnight Saigon
         length: 422000
         video: false
@@ -47,7 +47,9 @@ trackIdData:
     - id: 7094890d-8655-4565-82b8-5fad3153d2f7
       recordings:
       - id: 596dcb0d-5b2a-4c03-b156-ca77efd7b804
-        isrcs: *id001
+        isrcs:
+        - "USSM11100767"
+        - "USSM17900404"
         title: Through the Long Night
         length: 165000
         video: false

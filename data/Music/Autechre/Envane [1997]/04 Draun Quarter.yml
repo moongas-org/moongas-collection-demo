@@ -15,8 +15,8 @@ trackIdData:
     - id: 05ebaa73-c5b7-4e4d-82fd-5fdbedbcb6c8
       recordings:
       - id: c3c1a31b-a611-403f-bb8b-037696533975
-        isrcs: &id001
-        - GBBPW9700008
+        isrcs:
+        - "GBBPW9700008"
         title: Draun Quarter
         length: 652866
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 4b388178-169d-4cc8-8ac0-590d5b9beee9
       recordings:
       - id: c3c1a31b-a611-403f-bb8b-037696533975
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9700008"
         title: Draun Quarter
         length: 652866
         video: false

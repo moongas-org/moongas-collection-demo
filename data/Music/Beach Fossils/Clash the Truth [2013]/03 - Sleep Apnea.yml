@@ -15,8 +15,8 @@ trackIdData:
     - id: bcecfefd-5962-4623-a3c0-bb656b4ccca9
       recordings:
       - id: 7e9f858f-29ce-4adf-8c50-e0bb6a6dd672
-        isrcs: &id001
-        - QMMZN1300102
+        isrcs:
+        - "QMMZN1300102"
         title: Sleep Apnea
         length: 146000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 0dea8cac-8f55-484c-a30a-3aa1439518b3
       recordings:
       - id: 7e9f858f-29ce-4adf-8c50-e0bb6a6dd672
-        isrcs: *id001
+        isrcs:
+        - "QMMZN1300102"
         title: Sleep Apnea
         length: 146000
         video: false

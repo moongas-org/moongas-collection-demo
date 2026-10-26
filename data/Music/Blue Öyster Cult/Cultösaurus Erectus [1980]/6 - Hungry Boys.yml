@@ -15,8 +15,8 @@ trackIdData:
     - id: e01c76cb-36d7-4893-b911-0244bc1d1cf0
       recordings:
       - id: e5c59105-364a-43ba-aead-5c9dbd1a268d
-        isrcs: &id001
-        - USSM18000443
+        isrcs:
+        - "USSM18000443"
         title: Hungry Boys
         length: 218200
         video: false
@@ -33,7 +33,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2008'
       - id: e5c59105-364a-43ba-aead-5c9dbd1a268d
-        isrcs: *id001
+        isrcs:
+        - "USSM18000443"
         title: Hungry Boys
         length: 218200
         video: false

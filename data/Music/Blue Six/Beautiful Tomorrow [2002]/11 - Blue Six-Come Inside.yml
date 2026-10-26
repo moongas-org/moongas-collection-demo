@@ -15,8 +15,8 @@ trackIdData:
     - id: 6ebf8c11-0635-453e-bbca-b8b9cca37ac1
       recordings:
       - id: b69692fd-a89e-4a64-a6ff-22318cb03b3b
-        isrcs: &id001
-        - USCN30100204
+        isrcs:
+        - "USCN30100204"
         title: Come Inside
         length: 237506
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: c7e7c70e-3843-41ff-9514-5c8407e6593c
       recordings:
       - id: b69692fd-a89e-4a64-a6ff-22318cb03b3b
-        isrcs: *id001
+        isrcs:
+        - "USCN30100204"
         title: Come Inside
         length: 237506
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: eeeca0e6-88b0-4b69-8c8a-4f6b1f6ea5c1
       recordings:
       - id: b69692fd-a89e-4a64-a6ff-22318cb03b3b
-        isrcs: *id001
+        isrcs:
+        - "USCN30100204"
         title: Come Inside
         length: 237506
         video: false

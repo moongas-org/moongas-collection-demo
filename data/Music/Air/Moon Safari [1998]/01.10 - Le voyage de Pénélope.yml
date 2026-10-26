@@ -15,8 +15,8 @@ trackIdData:
     - id: 5f6089bf-ec78-4b10-9bcb-3b1c4c729629
       recordings:
       - id: e731a2a1-8e3a-42f6-8dbe-af356714f836
-        isrcs: &id001
-        - FRS639700640
+        isrcs:
+        - "FRS639700640"
         title: Le Voyage de Pénélope
         length: 190866
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 25468a1f-d463-423a-9522-a59c5ac021af
       recordings:
       - id: e731a2a1-8e3a-42f6-8dbe-af356714f836
-        isrcs: *id001
+        isrcs:
+        - "FRS639700640"
         title: Le Voyage de Pénélope
         length: 190866
         video: false

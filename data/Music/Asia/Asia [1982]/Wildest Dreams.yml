@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1979'
       - id: 8045cea5-a948-4af8-b31b-3d0cdaa131c6
-        isrcs: &id001
-        - USGF18200806
-        - USGF19929803
+        isrcs:
+        - "USGF18200806"
+        - "USGF19929803"
         title: Wildest Dreams
         length: 311693
         video: false
@@ -62,7 +62,9 @@ trackIdData:
     - id: 73eb0b41-2425-4d4f-914e-73b1210e3f38
       recordings:
       - id: 8045cea5-a948-4af8-b31b-3d0cdaa131c6
-        isrcs: *id001
+        isrcs:
+        - "USGF18200806"
+        - "USGF19929803"
         title: Wildest Dreams
         length: 311693
         video: false
@@ -72,7 +74,9 @@ trackIdData:
     - id: 8e14edbe-7cb4-4539-bfb0-3a8933e107d6
       recordings:
       - id: 8045cea5-a948-4af8-b31b-3d0cdaa131c6
-        isrcs: *id001
+        isrcs:
+        - "USGF18200806"
+        - "USGF19929803"
         title: Wildest Dreams
         length: 311693
         video: false

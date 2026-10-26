@@ -22,19 +22,19 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2002'
       - id: 30624418-169b-4007-9b50-27414a63f5de
-        isrcs: &id001
-        - USMV20500293
-        - USMV21500008
-        - USMV21500043
-        - USMV29900096
+        isrcs:
+        - "USMV20500293"
+        - "USMV21500008"
+        - "USMV21500043"
+        - "USMV29900096"
         title: Head Over Feet
         length: 265667
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-06-09'
       - id: 55dac663-b362-4d3d-99f6-ee7fe3b3b991
-        isrcs: &id002
-        - USMV22000054
+        isrcs:
+        - "USMV22000054"
         title: Head Over Feet
         length: 265000
         video: false
@@ -49,7 +49,7 @@ trackIdData:
         firstReleaseDate: '2005-04-26'
       - id: e2f19af3-5c94-478a-9f78-fa3d92105a59
         isrcs:
-        - USMV29900177
+        - "USMV29900177"
         title: Head over Feet (Live / Unplugged)
         length: 262560
         video: false
@@ -67,21 +67,26 @@ trackIdData:
         firstReleaseDate: '2004-09-27'
       - id: 2d3da70d-5de6-4fad-96cb-3c2086478242
         isrcs:
-        - GBCBR1300042
+        - "GBCBR1300042"
         title: Head Over Feet
         length: 275000
         video: false
         disambiguation: live, 2012
         firstReleaseDate: '2013-04-22'
       - id: 30624418-169b-4007-9b50-27414a63f5de
-        isrcs: *id001
+        isrcs:
+        - "USMV20500293"
+        - "USMV21500008"
+        - "USMV21500043"
+        - "USMV29900096"
         title: Head Over Feet
         length: 265667
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-06-09'
       - id: 55dac663-b362-4d3d-99f6-ee7fe3b3b991
-        isrcs: *id002
+        isrcs:
+        - "USMV22000054"
         title: Head Over Feet
         length: 265000
         video: false
@@ -89,7 +94,7 @@ trackIdData:
         firstReleaseDate: '2020-06-26'
       - id: 6fb7379f-2a81-4997-ad5d-5117ab0a622b
         isrcs:
-        - USMV20500116
+        - "USMV20500116"
         title: Head Over Feet
         length: 257786
         video: false
@@ -97,8 +102,8 @@ trackIdData:
         firstReleaseDate: '2005-05-24'
       - id: 72930b59-2fe0-414d-b384-d65897bd3cf5
         isrcs:
-        - USMV20500292
-        - USMV29800119
+        - "USMV20500292"
+        - "USMV29800119"
         title: Thank U
         length: 258773
         video: false
@@ -113,7 +118,7 @@ trackIdData:
         firstReleaseDate:
       - id: c99c9653-8f07-4fc9-b4e9-0455141ea4e3
         isrcs:
-        - USMV21500034
+        - "USMV21500034"
         title: Head Over Feet
         length: 263280
         video: false
@@ -137,7 +142,11 @@ trackIdData:
     - id: 7ad4ca8b-b2c6-4366-ad29-e750540e6305
       recordings:
       - id: 30624418-169b-4007-9b50-27414a63f5de
-        isrcs: *id001
+        isrcs:
+        - "USMV20500293"
+        - "USMV21500008"
+        - "USMV21500043"
+        - "USMV29900096"
         title: Head Over Feet
         length: 265667
         video: false

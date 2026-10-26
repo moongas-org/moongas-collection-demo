@@ -29,9 +29,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2026-05-29'
       - id: f9ec8faa-8719-43e3-b996-913e8c4a962c
-        isrcs: &id001
-        - USCH30100062
-        - USCH37900003
+        isrcs:
+        - "USCH30100062"
+        - "USCH37900003"
         title: Union City Blue
         length: 200093
         video: false
@@ -62,7 +62,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2026-05-29'
       - id: f9ec8faa-8719-43e3-b996-913e8c4a962c
-        isrcs: *id001
+        isrcs:
+        - "USCH30100062"
+        - "USCH37900003"
         title: Union City Blue
         length: 200093
         video: false
@@ -72,7 +74,9 @@ trackIdData:
     - id: e8fa3e76-b0fc-4b59-a547-cd1e5c3ad959
       recordings:
       - id: f9ec8faa-8719-43e3-b996-913e8c4a962c
-        isrcs: *id001
+        isrcs:
+        - "USCH30100062"
+        - "USCH37900003"
         title: Union City Blue
         length: 200093
         video: false

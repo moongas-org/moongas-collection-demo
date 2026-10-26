@@ -15,8 +15,8 @@ trackIdData:
     - id: d570b6d2-71d5-43ea-a191-437215690dae
       recordings:
       - id: 6444f931-9346-4b40-b288-aa77fbfccc2c
-        isrcs: &id001
-        - USJI10300153
+        isrcs:
+        - "USJI10300153"
         title: Butter
         length: 218773
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '1991-09-24'
       - id: 7414cdac-69cb-4264-b03b-56f0beb09592
         isrcs:
-        - USJI12100075
+        - "USJI12100075"
         title: Butter (edit)
         length: 219000
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 3ddf2ed3-b631-419f-9e7c-ac312e657912
       recordings:
       - id: 6444f931-9346-4b40-b288-aa77fbfccc2c
-        isrcs: *id001
+        isrcs:
+        - "USJI10300153"
         title: Butter
         length: 218773
         video: false
@@ -44,7 +45,8 @@ trackIdData:
     - id: 493d762c-0636-49c8-a769-bfc0a7d5eb95
       recordings:
       - id: 6444f931-9346-4b40-b288-aa77fbfccc2c
-        isrcs: *id001
+        isrcs:
+        - "USJI10300153"
         title: Butter
         length: 218773
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 6ac1d84d-e43d-4ff2-9e1a-98c9732afe6a
       recordings:
       - id: 0fe6ccdf-87a2-4d1d-bb8e-57b9087041d6
-        isrcs: &id001
-        - USMV22000057
+        isrcs:
+        - "USMV22000057"
         title: Wake Up
         length: 296000
         video: false
@@ -24,19 +24,19 @@ trackIdData:
         firstReleaseDate: '2020-06-26'
       - id: 8dac9304-b57d-45f6-9860-ce27f20b2da4
         isrcs:
-        - USMV21500006
-        - USMV21500041
-        - USMV29900095
+        - "USMV21500006"
+        - "USMV21500041"
+        - "USMV29900095"
         title: Forgiven
         length: 300000
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-06-09'
       - id: d3e78cc1-2f05-4e59-96f0-5b07495bb877
-        isrcs: &id002
-        - USMV21500012
-        - USMV21500047
-        - USMV29900099
+        isrcs:
+        - "USMV21500012"
+        - "USMV21500047"
+        - "USMV29900099"
         title: Wake Up
         length: 293800
         video: false
@@ -53,14 +53,18 @@ trackIdData:
     - id: 4ddbb234-1997-4eea-973b-996130ab2fa6
       recordings:
       - id: 0fe6ccdf-87a2-4d1d-bb8e-57b9087041d6
-        isrcs: *id001
+        isrcs:
+        - "USMV22000057"
         title: Wake Up
         length: 296000
         video: false
         disambiguation: Dolby Atmos mix
         firstReleaseDate: '2020-06-26'
       - id: d3e78cc1-2f05-4e59-96f0-5b07495bb877
-        isrcs: *id002
+        isrcs:
+        - "USMV21500012"
+        - "USMV21500047"
+        - "USMV29900099"
         title: Wake Up
         length: 293800
         video: false

@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1990-04-17'
       - id: 668ca7e8-c126-4424-951d-dfde46b99fde
-        isrcs: &id001
-        - USJI10300146
+        isrcs:
+        - "USJI10300146"
         title: Mr. Muhammad
         length: 214906
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 03ef015f-5dd2-4638-89b3-916efc0dbd95
       recordings:
       - id: 668ca7e8-c126-4424-951d-dfde46b99fde
-        isrcs: *id001
+        isrcs:
+        - "USJI10300146"
         title: Mr. Muhammad
         length: 214906
         video: false

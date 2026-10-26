@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 0c330fc2-05af-40ab-a207-50ea51fac718
         isrcs:
-        - GBUM72103622
+        - "GBUM72103622"
         title: Stir It Up
         length: 310653
         video: false
         disambiguation: ''
         firstReleaseDate: '2022-07-22'
       - id: 1f47837b-43f5-4bcc-9344-a3f4a1a0bb13
-        isrcs: &id001
-        - GBAAN7390002
+        isrcs:
+        - "GBAAN7390002"
         title: Stir It Up
         length: 333000
         video: false
@@ -75,7 +75,7 @@ trackIdData:
         firstReleaseDate: 1968-10
       - id: df700596-b9fa-4c31-8580-c18459eee87f
         isrcs:
-        - USIR27800042
+        - "USIR27800042"
         title: Stir It Up
         length: 320493
         video: false
@@ -92,7 +92,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004'
       - id: 1f47837b-43f5-4bcc-9344-a3f4a1a0bb13
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7390002"
         title: Stir It Up
         length: 333000
         video: false
@@ -156,10 +157,10 @@ trackIdData:
         firstReleaseDate: '2000'
       - id: a1335a3a-840e-40c1-827e-2ff89fbf9245
         isrcs:
-        - GBAJE7600033
-        - GBAWA0519788
-        - USA560686251
-        - USA560702613
+        - "GBAJE7600033"
+        - "GBAWA0519788"
+        - "USA560686251"
+        - "USA560702613"
         title: Natural Mystic
         length: 342906
         video: false

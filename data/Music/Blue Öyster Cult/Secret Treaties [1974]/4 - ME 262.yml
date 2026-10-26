@@ -15,8 +15,8 @@ trackIdData:
     - id: 8412afa9-f243-466e-86ec-e3704010a8f2
       recordings:
       - id: 19d7e550-24c6-4214-a9de-aeca06cb60b0
-        isrcs: &id001
-        - USSM19911972
+        isrcs:
+        - "USSM19911972"
         title: ME 262
         length: 285000
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: 1974-04
       - id: 60ecfa1f-6496-423c-baac-f1858e2db5da
         isrcs:
-        - USSM19911972
+        - "USSM19911972"
         title: ME 262 (4.0 mix)
         length: 288000
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 8a5d2e42-b29a-4667-ae42-d3ede74e8662
       recordings:
       - id: 19d7e550-24c6-4214-a9de-aeca06cb60b0
-        isrcs: *id001
+        isrcs:
+        - "USSM19911972"
         title: ME 262
         length: 285000
         video: false

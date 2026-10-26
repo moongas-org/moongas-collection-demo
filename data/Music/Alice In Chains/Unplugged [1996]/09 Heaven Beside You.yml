@@ -15,8 +15,8 @@ trackIdData:
     - id: 7e16e523-247e-4e24-9988-6f6b12342d25
       recordings:
       - id: 0cd4c68f-ef62-4bf1-a606-d0389f57cd46
-        isrcs: &id001
-        - USSM19601548
+        isrcs:
+        - "USSM19601548"
         title: Would?
         length: 223000
         video: false
@@ -39,7 +39,7 @@ trackIdData:
         firstReleaseDate: '1993'
       - id: fb7f5a62-3275-4ae3-b231-04a429ff9a6c
         isrcs:
-        - USLIC0601926
+        - "USLIC0601926"
         title: Would?
         length: 228000
         video: false
@@ -49,7 +49,8 @@ trackIdData:
     - id: 2c3d741f-642b-42db-8094-dea2c4daec31
       recordings:
       - id: 0cd4c68f-ef62-4bf1-a606-d0389f57cd46
-        isrcs: *id001
+        isrcs:
+        - "USSM19601548"
         title: Would?
         length: 223000
         video: false
@@ -57,7 +58,7 @@ trackIdData:
         firstReleaseDate: 1996-02
       - id: 5ab7bd8e-99ba-4b92-a09b-569d9eb9ffd4
         isrcs:
-        - USPR39609082
+        - "USPR39609082"
         title: Domino
         length: 226000
         video: false
@@ -73,9 +74,9 @@ trackIdData:
         firstReleaseDate: '1996-04-10'
       - id: b0b9e9c1-a234-42db-a2b6-d0d576bf525d
         isrcs:
-        - USSM10414453
-        - USSM19200614
-        - USSM19200805
+        - "USSM10414453"
+        - "USSM19200614"
+        - "USSM19200805"
         title: Would?
         length: 208000
         video: false
@@ -83,7 +84,7 @@ trackIdData:
         firstReleaseDate: '1992-06-30'
       - id: e8accf1c-61a3-44c6-851d-23804076582b
         isrcs:
-        - USSM19501781
+        - "USSM19501781"
         title: Nothin’ Song
         length: 340493
         video: false

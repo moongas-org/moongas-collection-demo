@@ -23,15 +23,15 @@ trackIdData:
         firstReleaseDate: '2005'
       - id: 19d57eb5-316c-4423-ad96-ce6bc58381d1
         isrcs:
-        - USSM10505557
+        - "USSM10505557"
         title: Doesn’t Remind Me
         length: 260773
         video: false
         disambiguation: 'live, 2005-08-08: Center Staging, Burbank, CA, USA'
         firstReleaseDate: '2005'
       - id: 2a7eedcb-f7e2-4920-a3e7-c3402886896e
-        isrcs: &id001
-        - USIR10500779
+        isrcs:
+        - "USIR10500779"
         title: Doesn’t Remind Me
         length: 255533
         video: false
@@ -39,7 +39,7 @@ trackIdData:
         firstReleaseDate: '2005-05-23'
       - id: 41e6f343-9cbd-43ca-b2dc-ac796049163f
         isrcs:
-        - USIR10500787
+        - "USIR10500787"
         title: Your Time Has Come
         length: 255426
         video: false
@@ -63,7 +63,8 @@ trackIdData:
     - id: b2a6a8f7-d1b1-4a38-bbff-8ba632d12b4c
       recordings:
       - id: 2a7eedcb-f7e2-4920-a3e7-c3402886896e
-        isrcs: *id001
+        isrcs:
+        - "USIR10500779"
         title: Doesn’t Remind Me
         length: 255533
         video: false

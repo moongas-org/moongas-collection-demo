@@ -15,8 +15,8 @@ trackIdData:
     - id: 834d3742-da75-4c7c-82a3-501c0711c338
       recordings:
       - id: 0b7ef57f-d919-4b88-a248-b0e2d697dcd9
-        isrcs: &id001
-        - USSM19501778
+        isrcs:
+        - "USSM19501778"
         title: Shame in You
         length: 335933
         video: false
@@ -55,7 +55,8 @@ trackIdData:
     - id: 2fe97eb7-07bc-4d22-b7ba-73239d4a0eb5
       recordings:
       - id: 0b7ef57f-d919-4b88-a248-b0e2d697dcd9
-        isrcs: *id001
+        isrcs:
+        - "USSM19501778"
         title: Shame in You
         length: 335933
         video: false

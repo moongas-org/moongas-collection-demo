@@ -15,9 +15,9 @@ trackIdData:
     - id: 0abb31ad-54c0-454b-acf3-2b8feac52d41
       recordings:
       - id: a7e476c8-bb6f-4930-afe1-5ad5d9189fed
-        isrcs: &id001
-        - US29V0422303
-        - USFMA1900130
+        isrcs:
+        - "US29V0422303"
+        - "USFMA1900130"
         title: Attitude
         length: 79866
         video: false
@@ -34,7 +34,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2021-06-11'
       - id: a7e476c8-bb6f-4930-afe1-5ad5d9189fed
-        isrcs: *id001
+        isrcs:
+        - "US29V0422303"
+        - "USFMA1900130"
         title: Attitude
         length: 79866
         video: false

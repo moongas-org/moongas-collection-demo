@@ -15,8 +15,8 @@ trackIdData:
     - id: e8797d88-3430-4fc6-aa14-1da0c11cd63f
       recordings:
       - id: 76b568ab-d712-473c-87c6-444b11fd3194
-        isrcs: &id001
-        - USCA29201545
+        isrcs:
+        - "USCA29201545"
         title: Blues Happy
         length: 46000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: e692308a-a2e4-410f-b834-02e1fb1f98bd
       recordings:
       - id: 76b568ab-d712-473c-87c6-444b11fd3194
-        isrcs: *id001
+        isrcs:
+        - "USCA29201545"
         title: Blues Happy
         length: 46000
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: 4f85908c-fa3a-484d-811e-93b6b8f6620a
       recordings:
       - id: 76b568ab-d712-473c-87c6-444b11fd3194
-        isrcs: *id001
+        isrcs:
+        - "USCA29201545"
         title: Blues Happy
         length: 46000
         video: false

@@ -23,8 +23,8 @@ trackIdData:
         firstReleaseDate:
       - id: 4f53d4e8-1dea-416d-a548-61b3a5935954
         isrcs:
-        - USSM18300106
-        - USSM19932796
+        - "USSM18300106"
+        - "USSM19932796"
         title: Separate Ways (Worlds Apart)
         length: 326106
         video: false
@@ -32,15 +32,15 @@ trackIdData:
         firstReleaseDate: '1983-02-01'
       - id: 52e7ee12-1ec8-4aa4-b81d-ce2b5a314537
         isrcs:
-        - USCA20300155
+        - "USCA20300155"
         title: Against the Wind
         length: 333720
         video: false
         disambiguation: ''
         firstReleaseDate: '2016'
       - id: 539214f3-ecf4-40cd-ae3c-c4aab898d77d
-        isrcs: &id001
-        - USCA21100711
+        isrcs:
+        - "USCA21100711"
         title: Against the Wind
         length: 329013
         video: false
@@ -69,19 +69,19 @@ trackIdData:
         firstReleaseDate: '1994'
       - id: c76a6a6e-1861-4e7c-8ded-4f3247804328
         isrcs:
-        - USGF19141511
-        - USGF19941511
+        - "USGF19141511"
+        - "USGF19941511"
         title: The Garden
         length: 322160
         video: false
         disambiguation: ''
         firstReleaseDate: '1991-09-16'
       - id: d85a5c9e-a705-4f40-8210-a63fd116c446
-        isrcs: &id002
-        - USCA20300155
-        - USCA29400800
-        - USHRD1123150
-        - USLIC0601868
+        isrcs:
+        - "USCA20300155"
+        - "USCA29400800"
+        - "USHRD1123150"
+        - "USLIC0601868"
         title: Against the Wind
         length: 333640
         video: false
@@ -91,7 +91,8 @@ trackIdData:
     - id: 4b56cba6-0b33-41c0-9f88-f6a15d7c8c17
       recordings:
       - id: 539214f3-ecf4-40cd-ae3c-c4aab898d77d
-        isrcs: *id001
+        isrcs:
+        - "USCA21100711"
         title: Against the Wind
         length: 329013
         video: false
@@ -105,7 +106,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1992'
       - id: d85a5c9e-a705-4f40-8210-a63fd116c446
-        isrcs: *id002
+        isrcs:
+        - "USCA20300155"
+        - "USCA29400800"
+        - "USHRD1123150"
+        - "USLIC0601868"
         title: Against the Wind
         length: 333640
         video: false

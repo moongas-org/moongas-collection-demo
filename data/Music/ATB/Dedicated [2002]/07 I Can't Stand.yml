@@ -15,8 +15,8 @@ trackIdData:
     - id: 442a3c51-c5d5-4dc4-a504-4454c2a3191f
       recordings:
       - id: 94c1f96b-02f8-40d0-92f6-6931294f2e99
-        isrcs: &id001
-        - DEN060200499
+        isrcs:
+        - "DEN060200499"
         title: I Can’t Stand…
         length: 353013
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 0f08f033-7a05-4c82-9663-38440c50c254
       recordings:
       - id: 94c1f96b-02f8-40d0-92f6-6931294f2e99
-        isrcs: *id001
+        isrcs:
+        - "DEN060200499"
         title: I Can’t Stand…
         length: 353013
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: f023d16d-c546-4d54-8d18-b6026cc68687
       recordings:
       - id: 94c1f96b-02f8-40d0-92f6-6931294f2e99
-        isrcs: *id001
+        isrcs:
+        - "DEN060200499"
         title: I Can’t Stand…
         length: 353013
         video: false

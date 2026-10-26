@@ -15,8 +15,8 @@ trackIdData:
     - id: 01ffd7ca-4fc1-46fc-8781-28cb85a5fb46
       recordings:
       - id: 217c4f4a-d6d1-44db-9581-4cc83b738446
-        isrcs: &id001
-        - GBUM70603492
+        isrcs:
+        - "GBUM70603492"
         title: Me & Mr Jones
         length: 153173
         video: false
@@ -37,8 +37,8 @@ trackIdData:
         disambiguation: 'live, 2004-03-29: Stables Theatre, Wavenson, England'
         firstReleaseDate: '2012-11-16'
       - id: d48aee07-b98d-473e-88ab-db21c309be26
-        isrcs: &id002
-        - GBUM70700412
+        isrcs:
+        - "GBUM70700412"
         title: Me & Mr Jones
         length: 153173
         video: false
@@ -48,7 +48,8 @@ trackIdData:
     - id: 79c86141-6b7c-4e52-89f4-7b10c862ddbd
       recordings:
       - id: 217c4f4a-d6d1-44db-9581-4cc83b738446
-        isrcs: *id001
+        isrcs:
+        - "GBUM70603492"
         title: Me & Mr Jones
         length: 153173
         video: false
@@ -62,7 +63,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: d48aee07-b98d-473e-88ab-db21c309be26
-        isrcs: *id002
+        isrcs:
+        - "GBUM70700412"
         title: Me & Mr Jones
         length: 153173
         video: false

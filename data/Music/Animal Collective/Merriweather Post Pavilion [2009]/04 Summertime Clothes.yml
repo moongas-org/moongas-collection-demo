@@ -15,8 +15,8 @@ trackIdData:
     - id: 076853fc-c2fe-4a2f-926f-88e81780fbc8
       recordings:
       - id: 956f6990-c32c-46ab-a75e-cf08df097156
-        isrcs: &id001
-        - GBCEL0800812
+        isrcs:
+        - "GBCEL0800812"
         title: Summertime Clothes
         length: 270094
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '2009-01-06'
       - id: ab98c719-865f-4a74-aad0-3c65a7665ce1
         isrcs:
-        - GBHFW0900100
+        - "GBHFW0900100"
         title: Summertime Clothes
         length: 270000
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: a66ca859-55b3-41cc-bea5-3fd3651ddb4f
       recordings:
       - id: 956f6990-c32c-46ab-a75e-cf08df097156
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0800812"
         title: Summertime Clothes
         length: 270094
         video: false

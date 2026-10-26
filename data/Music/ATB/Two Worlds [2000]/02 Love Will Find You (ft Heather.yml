@@ -15,8 +15,8 @@ trackIdData:
     - id: 06b40c8c-c2c1-44bb-99b7-12b4f68a7357
       recordings:
       - id: ffe8cc97-9efd-4ef2-a413-130db53cde12
-        isrcs: &id001
-        - DEN060000181
+        isrcs:
+        - "DEN060000181"
         title: Love Will Find You
         length: 350000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 552c0ad3-23eb-4310-abcc-22dc0322ac3c
       recordings:
       - id: ffe8cc97-9efd-4ef2-a413-130db53cde12
-        isrcs: *id001
+        isrcs:
+        - "DEN060000181"
         title: Love Will Find You
         length: 350000
         video: false

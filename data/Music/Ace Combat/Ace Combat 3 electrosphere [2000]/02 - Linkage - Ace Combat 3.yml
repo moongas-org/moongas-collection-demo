@@ -15,8 +15,8 @@ trackIdData:
     - id: 04f20149-9f8a-4a4a-8ddd-03adbda072a5
       recordings:
       - id: 99bfe660-2b7a-49b9-8bc5-b722c0119870
-        isrcs: &id001
-        - JPX832004805
+        isrcs:
+        - "JPX832004805"
         title: Linkage
         length: 119000
         video: false
@@ -36,7 +36,8 @@ trackIdData:
     - id: 618e942e-5543-41dc-8759-3705f1251489
       recordings:
       - id: 99bfe660-2b7a-49b9-8bc5-b722c0119870
-        isrcs: *id001
+        isrcs:
+        - "JPX832004805"
         title: Linkage
         length: 119000
         video: false

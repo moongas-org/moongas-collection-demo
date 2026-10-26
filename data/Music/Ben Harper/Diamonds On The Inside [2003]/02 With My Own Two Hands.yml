@@ -15,8 +15,8 @@ trackIdData:
     - id: 2a66bbab-61c6-4274-a35d-1d876b13a1eb
       recordings:
       - id: 5be987f4-9d57-4e06-bc9b-5cab2b392325
-        isrcs: &id001
-        - USVI20200338
+        isrcs:
+        - "USVI20200338"
         title: With My Own Two Hands
         length: 274693
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: dd2674d6-2b66-4ac5-aeba-35b63afd4ef7
       recordings:
       - id: 5be987f4-9d57-4e06-bc9b-5cab2b392325
-        isrcs: *id001
+        isrcs:
+        - "USVI20200338"
         title: With My Own Two Hands
         length: 274693
         video: false

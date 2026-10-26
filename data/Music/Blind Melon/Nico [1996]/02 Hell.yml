@@ -15,8 +15,8 @@ trackIdData:
     - id: 9cd47c66-0a83-45a4-91ad-1ec3fa487cc8
       recordings:
       - id: 1e4fa2ab-8bb8-4a36-9dc8-3ddf16763f85
-        isrcs: &id001
-        - USCA29600544
+        isrcs:
+        - "USCA29600544"
         title: Hell
         length: 122773
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 08e7f474-710c-4728-86ce-859881e1f666
       recordings:
       - id: 1e4fa2ab-8bb8-4a36-9dc8-3ddf16763f85
-        isrcs: *id001
+        isrcs:
+        - "USCA29600544"
         title: Hell
         length: 122773
         video: false
@@ -43,7 +44,8 @@ trackIdData:
     - id: f2bcf50d-6327-42b3-974f-4cf9fc73a5ec
       recordings:
       - id: 1e4fa2ab-8bb8-4a36-9dc8-3ddf16763f85
-        isrcs: *id001
+        isrcs:
+        - "USCA29600544"
         title: Hell
         length: 122773
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 8dc5f0f1-1ad2-4dcf-98fb-0ee6e38f58c7
       recordings:
       - id: 1582e605-b1a3-471f-b641-932eba92140b
-        isrcs: &id001
-        - USQX91000270
+        isrcs:
+        - "USQX91000270"
         title: Compliments
         length: 207533
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: eff9f1f5-492f-419f-b464-bd04447e37db
       recordings:
       - id: 1582e605-b1a3-471f-b641-932eba92140b
-        isrcs: *id001
+        isrcs:
+        - "USQX91000270"
         title: Compliments
         length: 207533
         video: false

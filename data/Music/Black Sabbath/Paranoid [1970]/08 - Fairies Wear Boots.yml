@@ -36,20 +36,20 @@ trackIdData:
         disambiguation: quadraphonic mix
         firstReleaseDate: '1974'
       - id: d244cc78-53af-4024-b743-4b2387dc55e0
-        isrcs: &id001
-        - AUXN22142437
-        - GB5KW1601268
-        - GBAJE7000089
-        - USWB11304634
-        - USWB19900219
+        isrcs:
+        - "AUXN22142437"
+        - "GB5KW1601268"
+        - "GBAJE7000089"
+        - "USWB11304634"
+        - "USWB19900219"
         title: Jack the Stripper / Fairies Wear Boots
         length: 374000
         video: false
         disambiguation: original stereo studio mix
         firstReleaseDate: '1970-09-18'
       - id: e447613a-62a4-4268-b07e-f1171a0e36c4
-        isrcs: &id002
-        - GBAJE7000089
+        isrcs:
+        - "GBAJE7000089"
         title: Jack the Stripper / Fairies Wear Boots
         length: 373000
         video: false
@@ -73,14 +73,20 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1970'
       - id: d244cc78-53af-4024-b743-4b2387dc55e0
-        isrcs: *id001
+        isrcs:
+        - "AUXN22142437"
+        - "GB5KW1601268"
+        - "GBAJE7000089"
+        - "USWB11304634"
+        - "USWB19900219"
         title: Jack the Stripper / Fairies Wear Boots
         length: 374000
         video: false
         disambiguation: original stereo studio mix
         firstReleaseDate: '1970-09-18'
       - id: e447613a-62a4-4268-b07e-f1171a0e36c4
-        isrcs: *id002
+        isrcs:
+        - "GBAJE7000089"
         title: Jack the Stripper / Fairies Wear Boots
         length: 373000
         video: false
@@ -125,7 +131,12 @@ trackIdData:
         disambiguation: quadraphonic mix
         firstReleaseDate: '1974'
       - id: d244cc78-53af-4024-b743-4b2387dc55e0
-        isrcs: *id001
+        isrcs:
+        - "AUXN22142437"
+        - "GB5KW1601268"
+        - "GBAJE7000089"
+        - "USWB11304634"
+        - "USWB19900219"
         title: Jack the Stripper / Fairies Wear Boots
         length: 374000
         video: false
@@ -135,7 +146,12 @@ trackIdData:
     - id: 86cf940d-cc17-4f3b-8d14-7cf847149426
       recordings:
       - id: d244cc78-53af-4024-b743-4b2387dc55e0
-        isrcs: *id001
+        isrcs:
+        - "AUXN22142437"
+        - "GB5KW1601268"
+        - "GBAJE7000089"
+        - "USWB11304634"
+        - "USWB19900219"
         title: Jack the Stripper / Fairies Wear Boots
         length: 374000
         video: false

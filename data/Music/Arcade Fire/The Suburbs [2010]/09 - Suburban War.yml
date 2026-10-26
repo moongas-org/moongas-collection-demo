@@ -15,8 +15,8 @@ trackIdData:
     - id: 1ad46b52-fd71-4b7b-9d8b-0b6cf80fd964
       recordings:
       - id: 38f5b670-6131-4f8b-9cb8-763c9323a6df
-        isrcs: &id001
-        - GBUM71021640
+        isrcs:
+        - "GBUM71021640"
         title: Suburban War
         length: 285133
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 7afb5146-0881-4d1b-b0c8-f2302d4ae7a4
       recordings:
       - id: 38f5b670-6131-4f8b-9cb8-763c9323a6df
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021640"
         title: Suburban War
         length: 285133
         video: false

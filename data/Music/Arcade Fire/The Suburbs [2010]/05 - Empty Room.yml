@@ -15,8 +15,8 @@ trackIdData:
     - id: f9667de2-3747-43e2-8deb-6c124d48bd69
       recordings:
       - id: 21475268-7255-450b-a54c-5646034ff51f
-        isrcs: &id001
-        - GBUM71021636
+        isrcs:
+        - "GBUM71021636"
         title: Empty Room
         length: 171533
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: fc9c352a-136e-4cd0-9d2a-1a2e69fb2712
       recordings:
       - id: 21475268-7255-450b-a54c-5646034ff51f
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021636"
         title: Empty Room
         length: 171533
         video: false

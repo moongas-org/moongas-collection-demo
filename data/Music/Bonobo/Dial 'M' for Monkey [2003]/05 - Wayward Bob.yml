@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2009-12-28'
       - id: 9546fd8f-9324-4a5f-8167-410456707b5e
-        isrcs: &id001
-        - GBCFB0300064
+        isrcs:
+        - "GBCFB0300064"
         title: Wayward Bob
         length: 279066
         video: false
@@ -35,7 +35,8 @@ trackIdData:
     - id: de0761b8-5a1d-4364-9685-9f01a6b2639f
       recordings:
       - id: 9546fd8f-9324-4a5f-8167-410456707b5e
-        isrcs: *id001
+        isrcs:
+        - "GBCFB0300064"
         title: Wayward Bob
         length: 279066
         video: false

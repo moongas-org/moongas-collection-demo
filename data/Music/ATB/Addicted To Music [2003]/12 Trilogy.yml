@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2017-12-01'
       - id: cc5d9820-ae3b-4c79-ae61-5aa24b801185
-        isrcs: &id001
-        - DEN060300783
+        isrcs:
+        - "DEN060300783"
         title: Trilogy
         length: 214693
         video: false
@@ -47,7 +47,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004-03-01'
       - id: cc5d9820-ae3b-4c79-ae61-5aa24b801185
-        isrcs: *id001
+        isrcs:
+        - "DEN060300783"
         title: Trilogy
         length: 214693
         video: false
@@ -59,7 +60,8 @@ trackIdData:
     - id: f5c4586f-ff98-4d45-a8f9-f1ded8a5f970
       recordings:
       - id: cc5d9820-ae3b-4c79-ae61-5aa24b801185
-        isrcs: *id001
+        isrcs:
+        - "DEN060300783"
         title: Trilogy
         length: 214693
         video: false

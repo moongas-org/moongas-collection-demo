@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 2864863f-6c65-481d-8ddd-d7d994e7c5b7
         isrcs:
-        - GBALW9300035
+        - "GBALW9300035"
         title: Human Behaviour (The Underworld remix 110 B.P.M.)
         length: 726000
         video: false
@@ -38,9 +38,9 @@ trackIdData:
         firstReleaseDate: '2003-06-10'
       - id: 6719f5e8-9b80-4956-8e11-ee1614a6693a
         isrcs:
-        - USSM10000644
-        - USSM11002492
-        - USSM17801008
+        - "USSM10000644"
+        - "USSM11002492"
+        - "USSM17801008"
         title: Badlands
         length: 242000
         video: false
@@ -48,8 +48,8 @@ trackIdData:
         firstReleaseDate: 1978-05
       - id: 7204c339-a622-4ee1-88d6-edd92498ce2d
         isrcs:
-        - GBAYE0900107
-        - GBAYE8400106
+        - "GBAYE0900107"
+        - "GBAYE8400106"
         title: Hyperactive!
         length: 252640
         video: false
@@ -71,7 +71,7 @@ trackIdData:
         firstReleaseDate:
       - id: ebc61430-350e-45e4-a3ad-82a01d784208
         isrcs:
-        - GBBTF9300001
+        - "GBBTF9300001"
         title: Human Behaviour
         length: 251000
         video: false
@@ -85,8 +85,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1993'
       - id: ffb680e8-d587-4f37-88b9-2b330fbf5014
-        isrcs: &id001
-        - GBBTF9300001
+        isrcs:
+        - "GBBTF9300001"
         title: Human Behaviour
         length: 252266
         video: false
@@ -96,7 +96,8 @@ trackIdData:
     - id: 1008dcce-5f8b-468c-974f-2b7fcebc6870
       recordings:
       - id: ffb680e8-d587-4f37-88b9-2b330fbf5014
-        isrcs: *id001
+        isrcs:
+        - "GBBTF9300001"
         title: Human Behaviour
         length: 252266
         video: false

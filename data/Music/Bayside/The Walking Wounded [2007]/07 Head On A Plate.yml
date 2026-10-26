@@ -15,8 +15,8 @@ trackIdData:
     - id: d12e2c5c-e076-4be5-8f07-8cfacd51a149
       recordings:
       - id: 9ecb0542-11b7-4396-b220-0cb786c83650
-        isrcs: &id001
-        - USVIC0845507
+        isrcs:
+        - "USVIC0845507"
         title: Head on a Plate
         length: 243880
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: c6a37bd7-42a7-421b-8282-a151d4b9f494
       recordings:
       - id: 9ecb0542-11b7-4396-b220-0cb786c83650
-        isrcs: *id001
+        isrcs:
+        - "USVIC0845507"
         title: Head on a Plate
         length: 243880
         video: false

@@ -15,9 +15,9 @@ trackIdData:
     - id: 64877446-bd8a-46cd-8440-7de5a222808a
       recordings:
       - id: 5d96089c-2f83-43eb-8b2a-806f48392691
-        isrcs: &id001
-        - USSM11100762
-        - USSM17900400
+        isrcs:
+        - "USSM11100762"
+        - "USSM17900400"
         title: All for Leyna
         length: 254000
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: 313044ff-5d8b-485f-8122-48205b17cfe7
       recordings:
       - id: 5d96089c-2f83-43eb-8b2a-806f48392691
-        isrcs: *id001
+        isrcs:
+        - "USSM11100762"
+        - "USSM17900400"
         title: All for Leyna
         length: 254000
         video: false

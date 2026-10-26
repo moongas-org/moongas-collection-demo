@@ -15,8 +15,8 @@ trackIdData:
     - id: e8e2f835-738b-46e3-b08f-e53f7948dc8e
       recordings:
       - id: 797ae656-81d4-4d89-bddb-eca56f77ba72
-        isrcs: &id001
-        - GBBKS1000349
+        isrcs:
+        - "GBBKS1000349"
         title: Rumour Has It
         length: 223266
         video: false
@@ -27,14 +27,15 @@ trackIdData:
       recordings:
       - id: 37829a4a-acc3-4d13-bc0b-02e3f48edc5b
         isrcs:
-        - GBBKS1100244
+        - "GBBKS1100244"
         title: Rumour Has It
         length: 228000
         video: false
         disambiguation: 'live, 2011-09-22: Royal Albert Hall, London, UK'
         firstReleaseDate: '2011-11-25'
       - id: 797ae656-81d4-4d89-bddb-eca56f77ba72
-        isrcs: *id001
+        isrcs:
+        - "GBBKS1000349"
         title: Rumour Has It
         length: 223266
         video: false
@@ -79,7 +80,8 @@ trackIdData:
         disambiguation: 'live, 2011-04-08: Paradiso FM, Amsterdam, Netherlands'
         firstReleaseDate: '2011-04-28'
       - id: 797ae656-81d4-4d89-bddb-eca56f77ba72
-        isrcs: *id001
+        isrcs:
+        - "GBBKS1000349"
         title: Rumour Has It
         length: 223266
         video: false

@@ -15,9 +15,9 @@ trackIdData:
     - id: 9325521c-61c8-471c-8e19-d6ae57ccb1a8
       recordings:
       - id: c23ae348-e2b0-4200-ad58-1dce0ef6ebef
-        isrcs: &id001
-        - USSM10000376
-        - USSM18500187
+        isrcs:
+        - "USSM10000376"
+        - "USSM18500187"
         title: Steppin’ Right Along
         length: 345000
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: 78be4a8c-31bf-452d-9fe0-8ca990b1ca6e
       recordings:
       - id: c23ae348-e2b0-4200-ad58-1dce0ef6ebef
-        isrcs: *id001
+        isrcs:
+        - "USSM10000376"
+        - "USSM18500187"
         title: Steppin’ Right Along
         length: 345000
         video: false

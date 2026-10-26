@@ -15,9 +15,9 @@ trackIdData:
     - id: 504dac29-06c4-46e7-af23-9ad9d48df442
       recordings:
       - id: cc7ca6ea-a983-4eb8-8a7c-2b0ed87b1a5b
-        isrcs: &id001
-        - DED579903670
-        - DEN060301019
+        isrcs:
+        - "DED579903670"
+        - "DEN060301019"
         title: Zwischenstück
         length: 58000
         video: false
@@ -29,7 +29,9 @@ trackIdData:
     - id: 6986fd07-cb3b-45bc-a69e-11529f65d261
       recordings:
       - id: cc7ca6ea-a983-4eb8-8a7c-2b0ed87b1a5b
-        isrcs: *id001
+        isrcs:
+        - "DED579903670"
+        - "DEN060301019"
         title: Zwischenstück
         length: 58000
         video: false
@@ -39,7 +41,9 @@ trackIdData:
     - id: 9b07ba7c-1ffd-42d8-ba7d-d1bf1f8daac6
       recordings:
       - id: cc7ca6ea-a983-4eb8-8a7c-2b0ed87b1a5b
-        isrcs: *id001
+        isrcs:
+        - "DED579903670"
+        - "DEN060301019"
         title: Zwischenstück
         length: 58000
         video: false

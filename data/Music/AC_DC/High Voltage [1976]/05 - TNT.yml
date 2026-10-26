@@ -50,8 +50,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1976-03-01'
       - id: 6f51468d-f161-41cf-8414-cd58b370bdf8
-        isrcs: &id001
-        - AUAP07600012
+        isrcs:
+        - "AUAP07600012"
         title: T.N.T.
         length: 214800
         video: false
@@ -90,7 +90,7 @@ trackIdData:
       recordings:
       - id: ae2b6b2a-e846-4dbd-bab9-48494b4b6bc8
         isrcs:
-        - AUAP09200032
+        - "AUAP09200032"
         title: T.N.T.
         length: 227706
         video: false
@@ -101,7 +101,8 @@ trackIdData:
     - id: cab5f0ea-0653-4cbe-8a11-fb8700c1315b
       recordings:
       - id: 6f51468d-f161-41cf-8414-cd58b370bdf8
-        isrcs: *id001
+        isrcs:
+        - "AUAP07600012"
         title: T.N.T.
         length: 214800
         video: false

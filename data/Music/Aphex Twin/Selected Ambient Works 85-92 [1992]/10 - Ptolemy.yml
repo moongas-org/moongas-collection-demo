@@ -15,8 +15,8 @@ trackIdData:
     - id: a314b5d3-a595-40b7-beac-6895546452ee
       recordings:
       - id: 3a028d7d-d5ba-40c7-9547-ba6af62a275a
-        isrcs: &id001
-        - BEZ350800031
+        isrcs:
+        - "BEZ350800031"
         title: Ptolemy
         length: 434293
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 34fa623d-4019-4288-98e3-5057f474e402
       recordings:
       - id: 3a028d7d-d5ba-40c7-9547-ba6af62a275a
-        isrcs: *id001
+        isrcs:
+        - "BEZ350800031"
         title: Ptolemy
         length: 434293
         video: false

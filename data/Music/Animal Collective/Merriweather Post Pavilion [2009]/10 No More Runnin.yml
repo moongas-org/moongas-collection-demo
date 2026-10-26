@@ -15,8 +15,8 @@ trackIdData:
     - id: 3b868f75-662c-4b5a-a3e8-3f50de862201
       recordings:
       - id: 3c8c2d40-7ceb-42ca-a740-8de46376cd22
-        isrcs: &id001
-        - GBCEL0800818
+        isrcs:
+        - "GBCEL0800818"
         title: No More Runnin
         length: 263000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 78eb3444-c78c-4790-a76f-b3cbe4b57754
       recordings:
       - id: 3c8c2d40-7ceb-42ca-a740-8de46376cd22
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0800818"
         title: No More Runnin
         length: 263000
         video: false

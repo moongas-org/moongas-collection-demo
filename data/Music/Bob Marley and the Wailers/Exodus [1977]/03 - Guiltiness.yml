@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: Dolby Atmos Mix
         firstReleaseDate:
       - id: 492d2bc3-eba9-4a2d-96a1-756fc5dc6d14
-        isrcs: &id001
-        - USIR27700010
+        isrcs:
+        - "USIR27700010"
         title: Guiltiness
         length: 199640
         video: false
@@ -47,7 +47,8 @@ trackIdData:
     - id: 3320474f-7a6a-4902-913d-d6387aa20711
       recordings:
       - id: 492d2bc3-eba9-4a2d-96a1-756fc5dc6d14
-        isrcs: *id001
+        isrcs:
+        - "USIR27700010"
         title: Guiltiness
         length: 199640
         video: false

@@ -15,9 +15,9 @@ trackIdData:
     - id: 0f947cc5-a4ce-4242-af56-0ac0088b3250
       recordings:
       - id: 30ae1e4e-a83f-4693-b6f1-b0b5bceb87e2
-        isrcs: &id001
-        - GB5KW1602013
-        - GBAJE7100088
+        isrcs:
+        - "GB5KW1602013"
+        - "GBAJE7100088"
         title: Solitude
         length: 302240
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: ff3767d7-b123-4369-a9de-dc31c65cbaad
       recordings:
       - id: 30ae1e4e-a83f-4693-b6f1-b0b5bceb87e2
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602013"
+        - "GBAJE7100088"
         title: Solitude
         length: 302240
         video: false
@@ -44,7 +46,9 @@ trackIdData:
     - id: 2d5a5b67-1a52-41e3-b398-dcfcd85ab191
       recordings:
       - id: 30ae1e4e-a83f-4693-b6f1-b0b5bceb87e2
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602013"
+        - "GBAJE7100088"
         title: Solitude
         length: 302240
         video: false

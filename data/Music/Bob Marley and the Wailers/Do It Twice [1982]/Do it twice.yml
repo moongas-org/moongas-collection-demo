@@ -15,10 +15,10 @@ trackIdData:
     - id: a5edf4b9-f25e-486b-bd92-0347ac23768f
       recordings:
       - id: 097487a5-6064-4103-a49c-e4620314df27
-        isrcs: &id001
-        - GBAAN7090004
-        - GBAJE7000196
-        - GBFWU0400084
+        isrcs:
+        - "GBAAN7090004"
+        - "GBAJE7000196"
+        - "GBFWU0400084"
         title: Do It Twice
         length: 163000
         video: false
@@ -42,7 +42,10 @@ trackIdData:
     - id: eb02c789-8141-459f-bb36-ce69b0ef052e
       recordings:
       - id: 097487a5-6064-4103-a49c-e4620314df27
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7090004"
+        - "GBAJE7000196"
+        - "GBFWU0400084"
         title: Do It Twice
         length: 163000
         video: false

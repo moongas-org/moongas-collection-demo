@@ -15,8 +15,8 @@ trackIdData:
     - id: 57a04f1b-7922-4931-9ca6-eefa14bf870b
       recordings:
       - id: 68292bd3-6572-4fb1-8732-d2770f40ae9e
-        isrcs: &id001
-        - DEN060000179
+        isrcs:
+        - "DEN060000179"
         title: Endless Silence
         length: 246000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: b51fb4b7-d175-4c92-8fe7-37a896ac62cb
       recordings:
       - id: 68292bd3-6572-4fb1-8732-d2770f40ae9e
-        isrcs: *id001
+        isrcs:
+        - "DEN060000179"
         title: Endless Silence
         length: 246000
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 19aae870-158e-4e40-9855-3f108c443b60
       recordings:
       - id: d6140124-8977-4380-9883-4ab05455b605
-        isrcs: &id001
-        - JPX832004812
+        isrcs:
+        - "JPX832004812"
         title: Alert
         length: 177000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 9876ab95-29a7-44d6-ae11-79fe2cf78774
       recordings:
       - id: d6140124-8977-4380-9883-4ab05455b605
-        isrcs: *id001
+        isrcs:
+        - "JPX832004812"
         title: Alert
         length: 177000
         video: false

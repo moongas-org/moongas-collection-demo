@@ -38,12 +38,12 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2019-09-06'
       - id: b6912b63-297b-4023-8ec9-0b3d8d2d31b3
-        isrcs: &id001
-        - GB5KW1601287
-        - GBAJE7000077
-        - USWB10202637
-        - USWB11304613
-        - USWB19900790
+        isrcs:
+        - "GB5KW1601287"
+        - "GBAJE7000077"
+        - "USWB10202637"
+        - "USWB11304613"
+        - "USWB19900790"
         title: The Wizard
         length: 263760
         video: false
@@ -60,7 +60,12 @@ trackIdData:
     - id: ed33a2c8-d117-4897-9f38-7a0cb7d3981e
       recordings:
       - id: b6912b63-297b-4023-8ec9-0b3d8d2d31b3
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601287"
+        - "GBAJE7000077"
+        - "USWB10202637"
+        - "USWB11304613"
+        - "USWB19900790"
         title: The Wizard
         length: 263760
         video: false

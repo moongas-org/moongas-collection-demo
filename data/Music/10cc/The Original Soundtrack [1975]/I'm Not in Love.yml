@@ -15,7 +15,7 @@ trackIdData:
     - id: 0294ef94-8b81-46e7-b330-19bb5925684a
       recordings:
       - id: db63cb9b-a80c-4a81-9f0e-9a24fd4aec7c
-        isrcs: &id001
+        isrcs:
         - GBF087500001
         - GBF087900140
         title: I’m Not in Love
@@ -50,7 +50,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1986'
       - id: db63cb9b-a80c-4a81-9f0e-9a24fd4aec7c
-        isrcs: *id001
+        isrcs:
+        - GBF087500001
+        - GBF087900140
         title: I’m Not in Love
         length: 362626
         video: false
@@ -98,7 +100,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1984'
       - id: db63cb9b-a80c-4a81-9f0e-9a24fd4aec7c
-        isrcs: *id001
+        isrcs:
+        - GBF087500001
+        - GBF087900140
         title: I’m Not in Love
         length: 362626
         video: false

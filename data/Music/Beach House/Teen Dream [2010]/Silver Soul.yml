@@ -22,16 +22,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 2017-06
       - id: 4851bda1-464c-4b70-b923-23f53010c9c6
-        isrcs: &id001
-        - USSUB1090704
+        isrcs:
+        - "USSUB1090704"
         title: Silver Soul
         length: 280000
         video: false
         disambiguation: ''
         firstReleaseDate: '2010-08-24'
       - id: 642882be-6a84-493f-a446-ee9e87b3f8b9
-        isrcs: &id002
-        - USSUB0984502
+        isrcs:
+        - "USSUB0984502"
         title: Silver Soul
         length: 298680
         video: false
@@ -41,14 +41,16 @@ trackIdData:
     - id: 08230b5a-18f9-4573-b152-eb80de2a918d
       recordings:
       - id: 4851bda1-464c-4b70-b923-23f53010c9c6
-        isrcs: *id001
+        isrcs:
+        - "USSUB1090704"
         title: Silver Soul
         length: 280000
         video: false
         disambiguation: ''
         firstReleaseDate: '2010-08-24'
       - id: 642882be-6a84-493f-a446-ee9e87b3f8b9
-        isrcs: *id002
+        isrcs:
+        - "USSUB0984502"
         title: Silver Soul
         length: 298680
         video: false

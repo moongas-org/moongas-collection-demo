@@ -15,8 +15,8 @@ trackIdData:
     - id: 3d363731-6c2f-496f-88fb-9fb0a265e4f6
       recordings:
       - id: 97ccab6e-7ba1-4316-8030-8e8c5741fef1
-        isrcs: &id001
-        - USRE10102121
+        isrcs:
+        - "USRE10102121"
         title: It’s Only Me (The Wizard of Magicland)
         length: 154000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: ef274ce1-c923-4048-a57a-d980553a1a67
       recordings:
       - id: 97ccab6e-7ba1-4316-8030-8e8c5741fef1
-        isrcs: *id001
+        isrcs:
+        - "USRE10102121"
         title: It’s Only Me (The Wizard of Magicland)
         length: 154000
         video: false

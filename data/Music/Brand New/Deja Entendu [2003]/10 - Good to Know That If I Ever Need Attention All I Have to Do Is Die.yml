@@ -15,8 +15,8 @@ trackIdData:
     - id: 79c113df-b79d-4bd2-bba2-6d9b462bb31c
       recordings:
       - id: 040df5a2-2a4d-4f5d-a1ec-58063158581c
-        isrcs: &id001
-        - USRZR0389610
+        isrcs:
+        - "USRZR0389610"
         title: Good to Know That If I Ever Need Attention All I Have to Do Is 
           Die
         length: 420520
@@ -25,7 +25,7 @@ trackIdData:
         firstReleaseDate: '2003-06-17'
       - id: 358d8efb-c51d-4eff-9954-0afda88aee20
         isrcs:
-        - USRZR0389603
+        - "USRZR0389603"
         title: I Will Play My Game Beneath the Spin Light
         length: 237200
         video: false
@@ -35,7 +35,8 @@ trackIdData:
     - id: 6df4496a-3522-498f-b629-ff1d54ad3e28
       recordings:
       - id: 040df5a2-2a4d-4f5d-a1ec-58063158581c
-        isrcs: *id001
+        isrcs:
+        - "USRZR0389610"
         title: Good to Know That If I Ever Need Attention All I Have to Do Is 
           Die
         length: 420520

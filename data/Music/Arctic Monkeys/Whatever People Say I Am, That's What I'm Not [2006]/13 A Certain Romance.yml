@@ -15,8 +15,8 @@ trackIdData:
     - id: 5853b0f6-45c9-44f5-82d2-3b782a4b0059
       recordings:
       - id: 7a7bc35c-c49c-408b-a860-23a8cfef6d43
-        isrcs: &id001
-        - GBCEL0501192
+        isrcs:
+        - "GBCEL0501192"
         title: A Certain Romance
         length: 331200
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 141a68b3-3b2b-450a-9462-0af6d7aaadf8
       recordings:
       - id: 7a7bc35c-c49c-408b-a860-23a8cfef6d43
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0501192"
         title: A Certain Romance
         length: 331200
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 3af5ddee-816c-4844-baf1-69b0c95e2c92
       recordings:
       - id: b5f573fe-01a3-46e0-a93c-75afe854d63b
-        isrcs: &id001
-        - GBBPW9300126
+        isrcs:
+        - "GBBPW9300126"
         title: Bike
         length: 480133
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 02ec2b38-1112-4f05-b11c-6deee41c38e3
       recordings:
       - id: b5f573fe-01a3-46e0-a93c-75afe854d63b
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9300126"
         title: Bike
         length: 480133
         video: false

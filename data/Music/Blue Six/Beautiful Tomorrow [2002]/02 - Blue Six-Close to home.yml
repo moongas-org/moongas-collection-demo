@@ -15,8 +15,8 @@ trackIdData:
     - id: b59126f1-f0b2-4f5c-aa58-41698fbfc09c
       recordings:
       - id: f6f2847f-5aa0-4eff-bb28-4e6630d5139c
-        isrcs: &id001
-        - USCN30100195
+        isrcs:
+        - "USCN30100195"
         title: Close to Home
         length: 261866
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: ca6bd60c-74a0-467a-ad50-bc5770ab9d66
       recordings:
       - id: f6f2847f-5aa0-4eff-bb28-4e6630d5139c
-        isrcs: *id001
+        isrcs:
+        - "USCN30100195"
         title: Close to Home
         length: 261866
         video: false

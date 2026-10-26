@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: 'live, 2005-05-06: Plaza Anti Imperialista, Havana, Cuba'
         firstReleaseDate: '2005'
       - id: ddea4f65-abf6-42a1-9eaf-9d2b8d7c7616
-        isrcs: &id001
-        - USIR10500777
+        isrcs:
+        - "USIR10500777"
         title: '#1 Zero'
         length: 299000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 5dfd7abb-0919-4fa7-ab62-5ea4f513d8b5
       recordings:
       - id: ddea4f65-abf6-42a1-9eaf-9d2b8d7c7616
-        isrcs: *id001
+        isrcs:
+        - "USIR10500777"
         title: '#1 Zero'
         length: 299000
         video: false

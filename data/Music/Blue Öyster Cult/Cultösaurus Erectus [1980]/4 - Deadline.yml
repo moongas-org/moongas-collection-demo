@@ -15,8 +15,8 @@ trackIdData:
     - id: d05406bf-674b-42bd-b90e-2fe02cc6ec1c
       recordings:
       - id: bdfe09fb-181b-4eb6-99f4-b5ab11ff2939
-        isrcs: &id001
-        - USSM18000441
+        isrcs:
+        - "USSM18000441"
         title: Deadline
         length: 267200
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: ee6f3a54-e9bd-4a51-871d-d719203b036a
       recordings:
       - id: bdfe09fb-181b-4eb6-99f4-b5ab11ff2939
-        isrcs: *id001
+        isrcs:
+        - "USSM18000441"
         title: Deadline
         length: 267200
         video: false

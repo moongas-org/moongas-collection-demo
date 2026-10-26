@@ -15,8 +15,8 @@ trackIdData:
     - id: b3871e14-8329-4c64-a990-5a2be2ac5514
       recordings:
       - id: 014c49fe-1bed-448f-ae59-82e62af634d6
-        isrcs: &id001
-        - TCACK1524100
+        isrcs:
+        - "TCACK1524100"
         title: Outbreak
         length: 53280
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 89bb6477-5bc7-4da3-ab73-b5f79ddbe18a
       recordings:
       - id: 014c49fe-1bed-448f-ae59-82e62af634d6
-        isrcs: *id001
+        isrcs:
+        - "TCACK1524100"
         title: Outbreak
         length: 53280
         video: false

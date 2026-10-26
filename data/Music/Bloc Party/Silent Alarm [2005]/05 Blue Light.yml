@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: 'live, 2005-07-01: Eurockéennes Festival, Belfort, France'
         firstReleaseDate: '2005-10-17'
       - id: 7ee10fcf-4481-4080-86cd-6056c1341657
-        isrcs: &id001
-        - GBDNH0400386
+        isrcs:
+        - "GBDNH0400386"
         title: Blue Light
         length: 167120
         video: false
@@ -47,7 +47,8 @@ trackIdData:
     - id: 7c829904-0b9b-44fc-8fc9-8364da768a78
       recordings:
       - id: 7ee10fcf-4481-4080-86cd-6056c1341657
-        isrcs: *id001
+        isrcs:
+        - "GBDNH0400386"
         title: Blue Light
         length: 167120
         video: false

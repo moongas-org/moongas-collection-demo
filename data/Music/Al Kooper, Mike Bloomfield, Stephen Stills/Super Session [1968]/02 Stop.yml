@@ -15,9 +15,9 @@ trackIdData:
     - id: 86c93548-b9bb-4154-8b7c-32627019f51c
       recordings:
       - id: 078e87b2-b0a4-4190-84eb-8d42d309eab9
-        isrcs: &id001
-        - USSM10804435
-        - USSM19917712
+        isrcs:
+        - "USSM10804435"
+        - "USSM19917712"
         title: Stop
         length: 262000
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: b699d812-8f5b-441c-9f48-51df537e35e4
       recordings:
       - id: 078e87b2-b0a4-4190-84eb-8d42d309eab9
-        isrcs: *id001
+        isrcs:
+        - "USSM10804435"
+        - "USSM19917712"
         title: Stop
         length: 262000
         video: false

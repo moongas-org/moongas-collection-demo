@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2011'
       - id: 45d4bbb8-b4fa-4188-8252-ea61131f7963
-        isrcs: &id001
-        - USAN20000110
+        isrcs:
+        - "USAN20000110"
         title: Where I Come From
         length: 240468
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 8386edf6-d91b-4b3e-8090-4aa9b4e17043
       recordings:
       - id: 45d4bbb8-b4fa-4188-8252-ea61131f7963
-        isrcs: *id001
+        isrcs:
+        - "USAN20000110"
         title: Where I Come From
         length: 240468
         video: false
@@ -48,7 +49,7 @@ trackIdData:
         firstReleaseDate: '1997'
       - id: 93616fcf-430e-440f-8d4b-0d0756728e37
         isrcs:
-        - USAN20600044
+        - "USAN20600044"
         title: Where Do I Go From Here (A Trucker’s Song)
         length: 243960
         video: false

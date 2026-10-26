@@ -15,9 +15,9 @@ trackIdData:
     - id: 91a9d033-50be-4e27-82c5-43e3a6b9e311
       recordings:
       - id: b15f5111-05e5-416d-b249-e88a472946d5
-        isrcs: &id001
-        - CA8WH1200032
-        - US3R41428202
+        isrcs:
+        - "CA8WH1200032"
+        - "US3R41428202"
         title: Archie, Marry Me
         length: 196560
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: e9bdd9b2-3d71-4237-b8f6-d1be22c27576
       recordings:
       - id: b15f5111-05e5-416d-b249-e88a472946d5
-        isrcs: *id001
+        isrcs:
+        - "CA8WH1200032"
+        - "US3R41428202"
         title: Archie, Marry Me
         length: 196560
         video: false

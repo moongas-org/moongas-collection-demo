@@ -15,8 +15,8 @@ trackIdData:
     - id: 3536a027-4e83-4a73-8e66-164bc75bc98a
       recordings:
       - id: 04e5e986-40c9-4c59-83a6-bd804fe4989a
-        isrcs: &id001
-        - USHR20323015
+        isrcs:
+        - "USHR20323015"
         title: Unholy Confessions
         length: 284600
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '2003-08-26'
       - id: 4b5b3a93-ed75-4ff9-9b16-8eed398b9402
         isrcs:
-        - USHVR1423004
+        - "USHVR1423004"
         title: Unholy Confessions (original first cut music video)
         length: 284000
         video: true
@@ -48,7 +48,8 @@ trackIdData:
     - id: 0f91e269-08b5-472c-abc0-8c14d0031151
       recordings:
       - id: 04e5e986-40c9-4c59-83a6-bd804fe4989a
-        isrcs: *id001
+        isrcs:
+        - "USHR20323015"
         title: Unholy Confessions
         length: 284600
         video: false

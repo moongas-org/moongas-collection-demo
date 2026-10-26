@@ -15,8 +15,8 @@ trackIdData:
     - id: 3ce6e6ca-ea5a-4ca1-a231-8f5992b58af4
       recordings:
       - id: 3016f89c-fcb0-45bd-9988-dded81065e12
-        isrcs: &id001
-        - USBWK0700412
+        isrcs:
+        - "USBWK0700412"
         title: Modern Man’s Hustle
         length: 225226
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 79d4b5a1-f460-4a31-9cb2-877c0e7a60e8
       recordings:
       - id: 3016f89c-fcb0-45bd-9988-dded81065e12
-        isrcs: *id001
+        isrcs:
+        - "USBWK0700412"
         title: Modern Man’s Hustle
         length: 225226
         video: false

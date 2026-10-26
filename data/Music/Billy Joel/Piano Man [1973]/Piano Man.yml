@@ -15,9 +15,9 @@ trackIdData:
     - id: 09789cd9-189c-45bb-9e09-dd3ce32fc76a
       recordings:
       - id: 92ac918a-07f6-4f5e-b356-5897723310ca
-        isrcs: &id001
-        - USSM17200228
-        - USSM17300504
+        isrcs:
+        - "USSM17200228"
+        - "USSM17300504"
         title: Piano Man
         length: 338666
         video: false
@@ -32,7 +32,7 @@ trackIdData:
         firstReleaseDate: '2019-11-29'
       - id: c0d30bc8-9720-4afe-b7ae-52c52e1ebf72
         isrcs:
-        - USSM12306560
+        - "USSM12306560"
         title: Piano Man
         length: 339333
         video: false
@@ -57,14 +57,16 @@ trackIdData:
       recordings:
       - id: 873dda7d-5041-4fb4-a881-559da95553a1
         isrcs:
-        - USSM17300504
+        - "USSM17300504"
         title: Piano Man
         length: 339291
         video: false
         disambiguation: ''
         firstReleaseDate: '2010-11-16'
       - id: 92ac918a-07f6-4f5e-b356-5897723310ca
-        isrcs: *id001
+        isrcs:
+        - "USSM17200228"
+        - "USSM17300504"
         title: Piano Man
         length: 338666
         video: false

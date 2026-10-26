@@ -15,8 +15,8 @@ trackIdData:
     - id: 2dbebd8a-3ebf-46d1-8f7a-cd73906305e9
       recordings:
       - id: 3b3c35b4-1354-4660-9e4a-71b985df50f0
-        isrcs: &id001
-        - GBAAN7300128
+        isrcs:
+        - "GBAAN7300128"
         title: Hallelujah Time
         length: 208040
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 9637b8c2-1f4b-40fd-9d7e-66a01755b1c1
       recordings:
       - id: 3b3c35b4-1354-4660-9e4a-71b985df50f0
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7300128"
         title: Hallelujah Time
         length: 208040
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: 7f6f6512-d89b-4aac-b576-7850a1c0ede6
       recordings:
       - id: 3b3c35b4-1354-4660-9e4a-71b985df50f0
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7300128"
         title: Hallelujah Time
         length: 208040
         video: false

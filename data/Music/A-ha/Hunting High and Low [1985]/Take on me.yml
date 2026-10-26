@@ -22,16 +22,16 @@ trackIdData:
         disambiguation: live
         firstReleaseDate: '1989'
       - id: 12f65dca-de8f-43fe-a65d-f12a02aaadf3
-        isrcs: &id001
-        - USRH11600696
-        - USWB10403931
-        - USWB10808467
-        - USWB11001072
-        - USWB11001328
-        - USWB11202727
-        - USWB11506474
-        - USWB11506571
-        - USWB19901214
+        isrcs:
+        - "USRH11600696"
+        - "USWB10403931"
+        - "USWB10808467"
+        - "USWB11001072"
+        - "USWB11001328"
+        - "USWB11202727"
+        - "USWB11506474"
+        - "USWB11506571"
+        - "USWB19901214"
         title: Take On Me
         length: 227000
         video: false
@@ -53,8 +53,8 @@ trackIdData:
         firstReleaseDate:
       - id: 1a752468-9bcb-4426-b754-aed17dff761b
         isrcs:
-        - USAT29901534
-        - USAT29901663
+        - "USAT29901534"
+        - "USAT29901663"
         title: Don’t Say You Love Me
         length: 225200
         video: false
@@ -68,9 +68,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 41a84b8b-5bc7-4266-82f5-4d2e6e0f84e6
-        isrcs: &id002
-        - USWB10303001
-        - USWB11506531
+        isrcs:
+        - "USWB10303001"
+        - "USWB11506531"
         title: Take On Me
         length: 288840
         video: false
@@ -91,8 +91,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2021-03-05'
       - id: 59ced80e-5c29-4c9b-a297-5dab852e3c56
-        isrcs: &id003
-        - USWBV1500604
+        isrcs:
+        - "USWBV1500604"
         title: Take On Me (1985 alternate cut)
         length: 225000
         video: true
@@ -100,7 +100,7 @@ trackIdData:
         firstReleaseDate: '2015-09-18'
       - id: 8cad477b-9f12-4abb-92bd-355e217bec1b
         isrcs:
-        - USWB11001072
+        - "USWB11001072"
         title: Take On Me
         length: 220440
         video: false
@@ -115,9 +115,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: bbad987d-dbd1-4d4c-8fa0-843ce71ab2da
-        isrcs: &id004
-        - USWBV0300227
-        - USWBV1500603
+        isrcs:
+        - "USWBV0300227"
+        - "USWBV1500603"
         title: Take On Me
         length: 227000
         video: true
@@ -134,7 +134,16 @@ trackIdData:
     - id: 304019ab-d0b6-4e38-a854-f82668075809
       recordings:
       - id: 12f65dca-de8f-43fe-a65d-f12a02aaadf3
-        isrcs: *id001
+        isrcs:
+        - "USRH11600696"
+        - "USWB10403931"
+        - "USWB10808467"
+        - "USWB11001072"
+        - "USWB11001328"
+        - "USWB11202727"
+        - "USWB11506474"
+        - "USWB11506571"
+        - "USWB19901214"
         title: Take On Me
         length: 227000
         video: false
@@ -142,7 +151,7 @@ trackIdData:
         firstReleaseDate: '1984'
       - id: 1744ca1d-4f9a-4926-8c6e-324d75678167
         isrcs:
-        - USWB11506543
+        - "USWB11506543"
         title: Take on Me (video version)
         length: 224213
         video: false
@@ -150,7 +159,7 @@ trackIdData:
         firstReleaseDate: '2015-09-18'
       - id: 1f442d98-8bfc-4cd1-86d7-e2968f04a213
         isrcs:
-        - GBAYK8600035
+        - "GBAYK8600035"
         title: French Kissin’ in the USA
         length: 250440
         video: false
@@ -164,14 +173,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2002-04-24'
       - id: 41a84b8b-5bc7-4266-82f5-4d2e6e0f84e6
-        isrcs: *id002
+        isrcs:
+        - "USWB10303001"
+        - "USWB11506531"
         title: Take On Me
         length: 288840
         video: false
         disambiguation: ''
         firstReleaseDate: '1985'
       - id: 59ced80e-5c29-4c9b-a297-5dab852e3c56
-        isrcs: *id003
+        isrcs:
+        - "USWBV1500604"
         title: Take On Me (1985 alternate cut)
         length: 225000
         video: true
@@ -186,15 +198,17 @@ trackIdData:
         firstReleaseDate: '2007'
       - id: 71cc6188-2a4f-474b-9b2d-51eae9fa3c2f
         isrcs:
-        - USWB11001110
-        - USWB11506532
+        - "USWB11001110"
+        - "USWB11506532"
         title: Take On Me (instrumental mix)
         length: 229493
         video: false
         disambiguation: ''
         firstReleaseDate: '2011-08-12'
       - id: bbad987d-dbd1-4d4c-8fa0-843ce71ab2da
-        isrcs: *id004
+        isrcs:
+        - "USWBV0300227"
+        - "USWBV1500603"
         title: Take On Me
         length: 227000
         video: true
@@ -230,7 +244,7 @@ trackIdData:
         firstReleaseDate: '2004'
       - id: da5a8528-6820-4242-b42f-95617c438374
         isrcs:
-        - DEUM71723164
+        - "DEUM71723164"
         title: Take on Me (MTV unplugged / edit)
         length: 218000
         video: false

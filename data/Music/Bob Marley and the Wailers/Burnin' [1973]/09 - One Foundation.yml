@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2020-11-20'
       - id: e979d99b-1d2a-4f9f-a59b-60d7459fb2ac
-        isrcs: &id001
-        - GBAAN7300131
+        isrcs:
+        - "GBAAN7300131"
         title: One Foundation
         length: 222826
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 0bd3e680-ff33-40a3-acd7-139a82aaac09
       recordings:
       - id: e979d99b-1d2a-4f9f-a59b-60d7459fb2ac
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7300131"
         title: One Foundation
         length: 222826
         video: false

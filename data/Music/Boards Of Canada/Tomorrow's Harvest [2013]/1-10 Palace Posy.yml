@@ -15,8 +15,8 @@ trackIdData:
     - id: 00b49d37-bd29-45d0-a279-ceefcef1e4e5
       recordings:
       - id: 4c970f37-dcd1-4af3-b7fc-6d21997ba9a8
-        isrcs: &id001
-        - GBBPW1300033
+        isrcs:
+        - "GBBPW1300033"
         title: Palace Posy
         length: 245906
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 373cba7e-3968-4376-b4a3-67fa738dd7c1
       recordings:
       - id: 4c970f37-dcd1-4af3-b7fc-6d21997ba9a8
-        isrcs: *id001
+        isrcs:
+        - "GBBPW1300033"
         title: Palace Posy
         length: 245906
         video: false

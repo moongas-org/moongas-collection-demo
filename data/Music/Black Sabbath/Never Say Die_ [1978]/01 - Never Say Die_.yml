@@ -16,19 +16,19 @@ trackIdData:
       recordings:
       - id: 05ebc00b-67f0-4b23-b49b-39f1379cbe5a
         isrcs:
-        - USRN19500284
+        - "USRN19500284"
         title: Wild Angels
         length: 225336
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-09-26'
       - id: 4bad78ec-2f45-43fd-892e-311798774d58
-        isrcs: &id001
-        - GB5KW1601264
-        - GBAJE7800054
-        - USWB10202662
-        - USWB11304550
-        - USWB19901291
+        isrcs:
+        - "GB5KW1601264"
+        - "GBAJE7800054"
+        - "USWB10202662"
+        - "USWB11304550"
+        - "USWB19901291"
         title: Never Say Die
         length: 229826
         video: false
@@ -52,7 +52,12 @@ trackIdData:
     - id: 4264e186-c0a4-4a52-9c06-8b8582d97cf4
       recordings:
       - id: 4bad78ec-2f45-43fd-892e-311798774d58
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601264"
+        - "GBAJE7800054"
+        - "USWB10202662"
+        - "USWB11304550"
+        - "USWB19901291"
         title: Never Say Die
         length: 229826
         video: false
@@ -62,7 +67,12 @@ trackIdData:
     - id: 1793a470-8f2e-4c43-941e-bf5aea77354f
       recordings:
       - id: 4bad78ec-2f45-43fd-892e-311798774d58
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601264"
+        - "GBAJE7800054"
+        - "USWB10202662"
+        - "USWB11304550"
+        - "USWB19901291"
         title: Never Say Die
         length: 229826
         video: false

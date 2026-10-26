@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 26844ddc-303d-4302-8220-26773fed3c90
         isrcs:
-        - USA370538440
+        - "USA370538440"
         title: Six Pack
         length: 142560
         video: false
         disambiguation: ''
         firstReleaseDate: '1981-11-16'
       - id: 42847fbf-d820-47ef-976a-671a72a7daf7
-        isrcs: &id001
-        - USA370538458
+        isrcs:
+        - "USA370538458"
         title: Six Pack
         length: 139600
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 3a8b0441-7ea5-4a21-8743-fb050df411a9
       recordings:
       - id: 42847fbf-d820-47ef-976a-671a72a7daf7
-        isrcs: *id001
+        isrcs:
+        - "USA370538458"
         title: Six Pack
         length: 139600
         video: false

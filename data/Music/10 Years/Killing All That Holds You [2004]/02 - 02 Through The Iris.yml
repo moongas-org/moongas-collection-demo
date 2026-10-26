@@ -24,7 +24,7 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003'
       - id: 9b971141-4929-418e-8feb-176c6b58f349
-        isrcs: &id001
+        isrcs:
         - USUM70500576
         - USUM70500987
         title: Through the Iris
@@ -36,7 +36,9 @@ trackIdData:
     - id: 69b96b65-5bb4-479b-be5b-5508dd1d15d0
       recordings:
       - id: 9b971141-4929-418e-8feb-176c6b58f349
-        isrcs: *id001
+        isrcs:
+        - USUM70500576
+        - USUM70500987
         title: Through the Iris
         length: 210000
         video: false

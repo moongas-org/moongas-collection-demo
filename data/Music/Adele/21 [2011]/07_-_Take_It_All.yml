@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2012'
       - id: 4f515654-052b-4631-8a78-57ea362cd18a
-        isrcs: &id001
-        - GBBKS1000347
+        isrcs:
+        - "GBBKS1000347"
         title: Take It All
         length: 228213
         video: false
@@ -45,7 +45,7 @@ trackIdData:
         firstReleaseDate: '2011-04-28'
       - id: 64a8f7e1-a4fc-4427-ba1d-cf73f22e9a44
         isrcs:
-        - GBBKS1100243
+        - "GBBKS1100243"
         title: Take It All
         length: 236000
         video: false
@@ -55,7 +55,8 @@ trackIdData:
     - id: 21f37faf-9027-4130-8664-75e3088efa63
       recordings:
       - id: 4f515654-052b-4631-8a78-57ea362cd18a
-        isrcs: *id001
+        isrcs:
+        - "GBBKS1000347"
         title: Take It All
         length: 228213
         video: false

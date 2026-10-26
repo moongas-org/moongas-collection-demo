@@ -15,8 +15,8 @@ trackIdData:
     - id: d93029b5-8fa1-4970-bc28-8c925720d747
       recordings:
       - id: 417d9341-f556-46c0-bd47-c7105768a1b4
-        isrcs: &id001
-        - GBBPW1300040
+        isrcs:
+        - "GBBPW1300040"
         title: Semena Mertvykh
         length: 212133
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 3e579669-1c7c-4739-9232-beaebc2e5bd4
       recordings:
       - id: 417d9341-f556-46c0-bd47-c7105768a1b4
-        isrcs: *id001
+        isrcs:
+        - "GBBPW1300040"
         title: Semena Mertvykh
         length: 212133
         video: false

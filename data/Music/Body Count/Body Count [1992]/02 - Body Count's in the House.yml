@@ -15,8 +15,8 @@ trackIdData:
     - id: 38d5c39e-71c6-4810-9343-5529d8da8770
       recordings:
       - id: 760a9df7-0301-4544-a87d-47f2b0c4605e
-        isrcs: &id001
-        - USWB10102379
+        isrcs:
+        - "USWB10102379"
         title: Body Count’s in the House
         length: 204173
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 70bdfe5f-43ec-4f8f-a68d-d86cab525037
       recordings:
       - id: 760a9df7-0301-4544-a87d-47f2b0c4605e
-        isrcs: *id001
+        isrcs:
+        - "USWB10102379"
         title: Body Count’s in the House
         length: 204173
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: b76e150f-f572-4842-beeb-3df1608e85ca
       recordings:
       - id: 1aa34754-8223-4745-9dbc-030b4c8fa4af
-        isrcs: &id001
-        - GBBPW9700007
+        isrcs:
+        - "GBBPW9700007"
         title: Laughing Quarter
         length: 425053
         video: false
@@ -43,7 +43,8 @@ trackIdData:
     - id: c7d84691-ba33-4ae6-92b8-29a8be99b095
       recordings:
       - id: 1aa34754-8223-4745-9dbc-030b4c8fa4af
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9700007"
         title: Laughing Quarter
         length: 425053
         video: false

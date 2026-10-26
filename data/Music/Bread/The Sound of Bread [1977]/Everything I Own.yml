@@ -22,11 +22,11 @@ trackIdData:
         disambiguation: quad mix
         firstReleaseDate: '1973'
       - id: d068da52-8a64-4531-bf06-292b942a1ba0
-        isrcs: &id001
-        - USEE10000092
-        - USEE10900776
-        - USEE11200757
-        - USEE19900899
+        isrcs:
+        - "USEE10000092"
+        - "USEE10900776"
+        - "USEE11200757"
+        - "USEE19900899"
         title: Everything I Own
         length: 187000
         video: false
@@ -43,7 +43,11 @@ trackIdData:
         disambiguation: quad mix
         firstReleaseDate: '1973'
       - id: d068da52-8a64-4531-bf06-292b942a1ba0
-        isrcs: *id001
+        isrcs:
+        - "USEE10000092"
+        - "USEE10900776"
+        - "USEE11200757"
+        - "USEE19900899"
         title: Everything I Own
         length: 187000
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: Beneath the Boardwalk version
         firstReleaseDate: '2004'
       - id: 42a4f483-80a8-4731-9897-0558fd2138e4
-        isrcs: &id001
-        - GBCEL0501190
+        isrcs:
+        - "GBCEL0501190"
         title: When the Sun Goes Down (radio edit)
         length: 203000
         video: false
@@ -37,8 +37,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2002'
       - id: f05a995c-9cdd-404f-91f8-0658044be619
-        isrcs: &id002
-        - GBCEL0501190
+        isrcs:
+        - "GBCEL0501190"
         title: When the Sun Goes Down
         length: 200013
         video: false
@@ -55,7 +55,8 @@ trackIdData:
         disambiguation: Beneath the Boardwalk version
         firstReleaseDate: '2004'
       - id: 42a4f483-80a8-4731-9897-0558fd2138e4
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0501190"
         title: When the Sun Goes Down (radio edit)
         length: 203000
         video: false
@@ -83,7 +84,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2014-10-15'
       - id: f05a995c-9cdd-404f-91f8-0658044be619
-        isrcs: *id002
+        isrcs:
+        - "GBCEL0501190"
         title: When the Sun Goes Down
         length: 200013
         video: false
@@ -93,7 +95,8 @@ trackIdData:
     - id: 9d4f3506-7ca0-4552-ba48-fa65c929229d
       recordings:
       - id: f05a995c-9cdd-404f-91f8-0658044be619
-        isrcs: *id002
+        isrcs:
+        - "GBCEL0501190"
         title: When the Sun Goes Down
         length: 200013
         video: false

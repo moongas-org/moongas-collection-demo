@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 1165943d-d206-4845-a2da-96ea8f58587a
         isrcs:
-        - USIR27700008
+        - "USIR27700008"
         title: Natural Mystic
         length: 207707
         video: false
@@ -45,7 +45,7 @@ trackIdData:
         firstReleaseDate:
       - id: 78ed36b0-bf3f-41cf-932e-411cade61ee1
         isrcs:
-        - USUM71701381
+        - "USUM71701381"
         title: Natural Mystic
         length: 203000
         video: false
@@ -66,8 +66,8 @@ trackIdData:
         disambiguation: Dolby Atmos mix
         firstReleaseDate:
       - id: d8b155c4-a5fc-4b9e-9cec-a683fd84202c
-        isrcs: &id001
-        - USIR27700008
+        isrcs:
+        - "USIR27700008"
         title: Natural Mystic
         length: 207600
         video: false
@@ -85,10 +85,10 @@ trackIdData:
         firstReleaseDate:
       - id: a1335a3a-840e-40c1-827e-2ff89fbf9245
         isrcs:
-        - GBAJE7600033
-        - GBAWA0519788
-        - USA560686251
-        - USA560702613
+        - "GBAJE7600033"
+        - "GBAWA0519788"
+        - "USA560686251"
+        - "USA560702613"
         title: Natural Mystic
         length: 342906
         video: false
@@ -102,7 +102,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: d8b155c4-a5fc-4b9e-9cec-a683fd84202c
-        isrcs: *id001
+        isrcs:
+        - "USIR27700008"
         title: Natural Mystic
         length: 207600
         video: false
@@ -112,7 +113,8 @@ trackIdData:
     - id: add4f0af-12f2-41ae-9d6b-09c578003ea7
       recordings:
       - id: d8b155c4-a5fc-4b9e-9cec-a683fd84202c
-        isrcs: *id001
+        isrcs:
+        - "USIR27700008"
         title: Natural Mystic
         length: 207600
         video: false

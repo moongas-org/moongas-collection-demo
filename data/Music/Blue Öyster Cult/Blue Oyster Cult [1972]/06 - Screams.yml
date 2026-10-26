@@ -15,8 +15,8 @@ trackIdData:
     - id: a477dcdc-1084-403e-93f2-eabe9f4819a5
       recordings:
       - id: d218b568-b21b-4504-ae42-2748e356f071
-        isrcs: &id001
-        - USSM19917733
+        isrcs:
+        - "USSM19917733"
         title: Screams
         length: 189800
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: c8df57d6-a9a8-45be-bc7e-92ae59668542
       recordings:
       - id: d218b568-b21b-4504-ae42-2748e356f071
-        isrcs: *id001
+        isrcs:
+        - "USSM19917733"
         title: Screams
         length: 189800
         video: false

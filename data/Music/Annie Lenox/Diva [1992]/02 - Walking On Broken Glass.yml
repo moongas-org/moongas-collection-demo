@@ -64,8 +64,8 @@ trackIdData:
         disambiguation: 'live, 2003-11-21: Later… with Jools Holland'
         firstReleaseDate:
       - id: 969e27bd-a596-4949-91b1-aba49c58fdb1
-        isrcs: &id001
-        - GBARL9200043
+        isrcs:
+        - "GBARL9200043"
         title: Walking on Broken Glass
         length: 253000
         video: false
@@ -131,7 +131,8 @@ trackIdData:
     - id: 5a42018d-2378-4b34-9815-c7d0786550ee
       recordings:
       - id: 969e27bd-a596-4949-91b1-aba49c58fdb1
-        isrcs: *id001
+        isrcs:
+        - "GBARL9200043"
         title: Walking on Broken Glass
         length: 253000
         video: false

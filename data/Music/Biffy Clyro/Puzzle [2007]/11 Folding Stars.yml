@@ -15,8 +15,8 @@ trackIdData:
     - id: ad5e5260-1ac0-4fb0-9879-729d3dbb073f
       recordings:
       - id: 806cd17a-9c1d-481e-84eb-eb8809adc591
-        isrcs: &id001
-        - GBFTG0700010
+        isrcs:
+        - "GBFTG0700010"
         title: Folding Stars
         length: 255160
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 3288c635-949e-47fd-9341-0982046eec42
       recordings:
       - id: 806cd17a-9c1d-481e-84eb-eb8809adc591
-        isrcs: *id001
+        isrcs:
+        - "GBFTG0700010"
         title: Folding Stars
         length: 255160
         video: false

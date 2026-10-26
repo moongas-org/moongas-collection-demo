@@ -15,7 +15,7 @@ trackIdData:
     - id: d70d9eac-c733-4717-af08-a466cba8ff63
       recordings:
       - id: 7e03ea63-fdd6-4b41-95a2-cfa65f399b41
-        isrcs: &id001
+        isrcs:
         - USEE10900613
         - USEE19900929
         title: Candy Everybody Wants
@@ -34,7 +34,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1996'
       - id: 7e03ea63-fdd6-4b41-95a2-cfa65f399b41
-        isrcs: *id001
+        isrcs:
+        - USEE10900613
+        - USEE19900929
         title: Candy Everybody Wants
         length: 184000
         video: false

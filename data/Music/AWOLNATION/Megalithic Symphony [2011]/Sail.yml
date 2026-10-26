@@ -36,9 +36,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2011'
       - id: ce0009a9-7c7b-4e2f-9ed0-5533d434e75c
-        isrcs: &id001
-        - USP6L1000053
-        - USPL61000053
+        isrcs:
+        - "USP6L1000053"
+        - "USPL61000053"
         title: Sail
         length: 259093
         video: false
@@ -55,7 +55,9 @@ trackIdData:
     - id: d990b1fa-205e-42f0-a4a3-d2eaf34f554d
       recordings:
       - id: ce0009a9-7c7b-4e2f-9ed0-5533d434e75c
-        isrcs: *id001
+        isrcs:
+        - "USP6L1000053"
+        - "USPL61000053"
         title: Sail
         length: 259093
         video: false

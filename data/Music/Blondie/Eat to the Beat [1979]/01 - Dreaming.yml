@@ -15,10 +15,10 @@ trackIdData:
     - id: 8525e91a-dd1e-489e-8b2a-d59453b676a7
       recordings:
       - id: 8fa90205-d1c4-4bdc-aa62-b29ff9fb6497
-        isrcs: &id001
-        - USCH30100023
-        - USCH37900016
-        - USCH38700006
+        isrcs:
+        - "USCH30100023"
+        - "USCH37900016"
+        - "USCH38700006"
         title: Dreaming
         length: 186173
         video: false
@@ -35,7 +35,10 @@ trackIdData:
     - id: 3eb0af58-7578-41d6-8081-0f7c5079e310
       recordings:
       - id: 8fa90205-d1c4-4bdc-aa62-b29ff9fb6497
-        isrcs: *id001
+        isrcs:
+        - "USCH30100023"
+        - "USCH37900016"
+        - "USCH38700006"
         title: Dreaming
         length: 186173
         video: false

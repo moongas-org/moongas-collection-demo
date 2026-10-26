@@ -15,8 +15,8 @@ trackIdData:
     - id: 24b27fad-36ed-4b5c-a1b2-70d2d1e5efe7
       recordings:
       - id: 1822df4c-5930-4bb8-b78c-4cf65294e413
-        isrcs: &id001
-        - USATO1200017
+        isrcs:
+        - "USATO1200017"
         title: Hold On
         length: 226186
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: b5044e6e-f3af-461b-864f-dcd3028faa35
       recordings:
       - id: 1822df4c-5930-4bb8-b78c-4cf65294e413
-        isrcs: *id001
+        isrcs:
+        - "USATO1200017"
         title: Hold On
         length: 226186
         video: false
@@ -50,7 +51,8 @@ trackIdData:
     - id: 8b0a624c-df8c-41fa-a0a2-ebc1e718a405
       recordings:
       - id: 1822df4c-5930-4bb8-b78c-4cf65294e413
-        isrcs: *id001
+        isrcs:
+        - "USATO1200017"
         title: Hold On
         length: 226186
         video: false

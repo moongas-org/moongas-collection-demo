@@ -29,9 +29,9 @@ trackIdData:
         disambiguation: original mono mix
         firstReleaseDate: 1970-01
       - id: 29fe8806-472c-4629-8945-cc670c0a2855
-        isrcs: &id001
-        - GBAJE7000083
-        - USWB19900795
+        isrcs:
+        - "GBAJE7000083"
+        - "USWB19900795"
         title: Wicked World
         length: 285000
         video: false
@@ -39,11 +39,11 @@ trackIdData:
         firstReleaseDate: '1970-03-26'
       - id: fd4acf1b-4da1-478d-98e6-dbcda241e756
         isrcs:
-        - GB5KW1601269
-        - GBAJE7200130
-        - USRH12002998
-        - USWB10202651
-        - USWB11304619
+        - "GB5KW1601269"
+        - "GBAJE7200130"
+        - "USRH12002998"
+        - "USWB10202651"
+        - "USWB11304619"
         title: Changes
         length: 283333
         video: false
@@ -53,7 +53,9 @@ trackIdData:
     - id: f1219425-a751-450d-8366-1a449817597a
       recordings:
       - id: 29fe8806-472c-4629-8945-cc670c0a2855
-        isrcs: *id001
+        isrcs:
+        - "GBAJE7000083"
+        - "USWB19900795"
         title: Wicked World
         length: 285000
         video: false
@@ -61,7 +63,7 @@ trackIdData:
         firstReleaseDate: '1970-03-26'
       - id: c6d7a50b-a814-45fb-9fba-8bc70a43243a
         isrcs:
-        - GBAJE8000076
+        - "GBAJE8000076"
         title: Tomorrow’s Dream
         length: 184466
         video: false

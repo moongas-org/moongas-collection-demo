@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010'
       - id: a7da2a05-ca00-4762-a2fb-65bbaba76758
-        isrcs: &id001
-        - GBUM71018416
+        isrcs:
+        - "GBUM71018416"
         title: Month of May
         length: 230720
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: f923d4fd-732e-409b-b8e4-0a08f31deb42
       recordings:
       - id: a7da2a05-ca00-4762-a2fb-65bbaba76758
-        isrcs: *id001
+        isrcs:
+        - "GBUM71018416"
         title: Month of May
         length: 230720
         video: false

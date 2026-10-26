@@ -15,11 +15,11 @@ trackIdData:
     - id: 667a8338-a140-426c-a091-e8f1a86fcd9b
       recordings:
       - id: 700219b2-78a7-44ec-813a-a070dd988aff
-        isrcs: &id001
-        - GB5KW1601271
-        - GBAJE7100082
-        - USWB10202644
-        - USWB11304542
+        isrcs:
+        - "GB5KW1601271"
+        - "GBAJE7100082"
+        - "USWB10202644"
+        - "USWB11304542"
         title: Sweet Leaf
         length: 305000
         video: false
@@ -43,7 +43,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: 700219b2-78a7-44ec-813a-a070dd988aff
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601271"
+        - "GBAJE7100082"
+        - "USWB10202644"
+        - "USWB11304542"
         title: Sweet Leaf
         length: 305000
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 778f2057-eafb-4a27-af37-203860eaee96
       recordings:
       - id: 113a8b21-721f-405e-9f2c-27db9fa9afc7
-        isrcs: &id001
-        - USAN29100001
+        isrcs:
+        - "USAN29100001"
         title: Midnight in Montgomery
         length: 226093
         video: false
@@ -37,8 +37,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1999'
       - id: 594df68b-30d7-4da2-b488-34d7b1370375
-        isrcs: &id002
-        - USAN21000113
+        isrcs:
+        - "USAN21000113"
         title: Midnight in Montgomery
         length: 225840
         video: false
@@ -62,14 +62,16 @@ trackIdData:
     - id: fa803909-e21f-4187-8553-2a7c5053f28f
       recordings:
       - id: 113a8b21-721f-405e-9f2c-27db9fa9afc7
-        isrcs: *id001
+        isrcs:
+        - "USAN29100001"
         title: Midnight in Montgomery
         length: 226093
         video: false
         disambiguation: Don't Rock the Jukebox
         firstReleaseDate: '1991-05-14'
       - id: 594df68b-30d7-4da2-b488-34d7b1370375
-        isrcs: *id002
+        isrcs:
+        - "USAN21000113"
         title: Midnight in Montgomery
         length: 225840
         video: false

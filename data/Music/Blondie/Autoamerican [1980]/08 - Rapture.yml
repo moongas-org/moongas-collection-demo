@@ -15,8 +15,8 @@ trackIdData:
     - id: ee8d8874-2c60-4396-9069-5dd7be9e2313
       recordings:
       - id: a5700d80-266d-4abb-94fa-b976288ce5b9
-        isrcs: &id001
-        - USCH30100092
+        isrcs:
+        - "USCH30100092"
         title: Rapture
         length: 391426
         video: false
@@ -28,7 +28,8 @@ trackIdData:
     - id: 116b9cfb-c640-4ea1-a665-07940f203deb
       recordings:
       - id: a5700d80-266d-4abb-94fa-b976288ce5b9
-        isrcs: *id001
+        isrcs:
+        - "USCH30100092"
         title: Rapture
         length: 391426
         video: false

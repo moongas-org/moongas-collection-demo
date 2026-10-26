@@ -15,8 +15,8 @@ trackIdData:
     - id: 27ca7531-f881-424a-b987-a2960ea2d97e
       recordings:
       - id: acc8f927-65e9-4662-8665-8127efe76e6a
-        isrcs: &id001
-        - GBBPW9400137
+        isrcs:
+        - "GBBPW9400137"
         title: Foil
         length: 364733
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 1944e965-d0a5-4360-9fd7-46dae0c55845
       recordings:
       - id: acc8f927-65e9-4662-8665-8127efe76e6a
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9400137"
         title: Foil
         length: 364733
         video: false

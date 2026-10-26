@@ -15,12 +15,12 @@ trackIdData:
     - id: 27fb60f1-3e62-4644-ad64-e7c31f83a89f
       recordings:
       - id: 04eb924d-39eb-4114-a23b-4fb4775e2d4d
-        isrcs: &id002
-        - USCA28000082
-        - USCH30100019
-        - USCH38000024
-        - USCH38900009
-        - USCH39800019
+        isrcs:
+        - "USCA28000082"
+        - "USCH30100019"
+        - "USCH38000024"
+        - "USCH38900009"
+        - "USCH39800019"
         title: The Tide Is High
         length: 231093
         video: false
@@ -41,11 +41,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1996'
       - id: e48a0532-f655-4169-9717-c1a0eef16af7
-        isrcs: &id001
-        - USCH30100024
-        - USCH38000024
-        - USCH38900009
-        - USCH39800019
+        isrcs:
+        - "USCH30100024"
+        - "USCH38000024"
+        - "USCH38900009"
+        - "USCH39800019"
         title: The Tide Is High
         length: 280000
         video: false
@@ -62,7 +62,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: e48a0532-f655-4169-9717-c1a0eef16af7
-        isrcs: *id001
+        isrcs:
+        - "USCH30100024"
+        - "USCH38000024"
+        - "USCH38900009"
+        - "USCH39800019"
         title: The Tide Is High
         length: 280000
         video: false
@@ -72,7 +76,12 @@ trackIdData:
     - id: b6645cfb-b7c7-4879-b536-6bba4919e83e
       recordings:
       - id: 04eb924d-39eb-4114-a23b-4fb4775e2d4d
-        isrcs: *id002
+        isrcs:
+        - "USCA28000082"
+        - "USCH30100019"
+        - "USCH38000024"
+        - "USCH38900009"
+        - "USCH39800019"
         title: The Tide Is High
         length: 231093
         video: false
@@ -86,7 +95,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1996-10-29'
       - id: e48a0532-f655-4169-9717-c1a0eef16af7
-        isrcs: *id001
+        isrcs:
+        - "USCH30100024"
+        - "USCH38000024"
+        - "USCH38900009"
+        - "USCH39800019"
         title: The Tide Is High
         length: 280000
         video: false
@@ -96,7 +109,11 @@ trackIdData:
     - id: 2793b089-9938-4f97-9e69-36b6cab3d595
       recordings:
       - id: e48a0532-f655-4169-9717-c1a0eef16af7
-        isrcs: *id001
+        isrcs:
+        - "USCH30100024"
+        - "USCH38000024"
+        - "USCH38900009"
+        - "USCH39800019"
         title: The Tide Is High
         length: 280000
         video: false

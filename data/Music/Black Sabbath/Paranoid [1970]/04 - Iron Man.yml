@@ -15,8 +15,8 @@ trackIdData:
     - id: 281f7310-9b50-430b-a85c-08b67f15f28b
       recordings:
       - id: 3af79a1f-85bb-451c-9900-0f46e6ed5ccf
-        isrcs: &id001
-        - USRH11604251
+        isrcs:
+        - "USRH11604251"
         title: Iron Man
         length: 354000
         video: false
@@ -58,14 +58,14 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: a15e2d0a-efcb-4f4f-ad54-22a4879bbcf9
-        isrcs: &id002
-        - AUXN22142436
-        - GB5KW1601265
-        - GBAJE7000085
-        - USUG11101026
-        - USWB10302179
-        - USWB11304630
-        - USWB19900215
+        isrcs:
+        - "AUXN22142436"
+        - "GB5KW1601265"
+        - "GBAJE7000085"
+        - "USUG11101026"
+        - "USWB10302179"
+        - "USWB11304630"
+        - "USWB19900215"
         title: Iron Man
         length: 355293
         video: false
@@ -103,7 +103,8 @@ trackIdData:
     - id: 4cddd8e8-362a-4578-b92b-db4f0acc1851
       recordings:
       - id: 3af79a1f-85bb-451c-9900-0f46e6ed5ccf
-        isrcs: *id001
+        isrcs:
+        - "USRH11604251"
         title: Iron Man
         length: 354000
         video: false
@@ -125,7 +126,7 @@ trackIdData:
         firstReleaseDate: '1996'
       - id: 80bb9134-15fe-4358-851c-e5b2f1d55b8b
         isrcs:
-        - USRN19600383
+        - "USRN19600383"
         title: Wrong Again
         length: 196600
         video: false
@@ -139,7 +140,14 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: a15e2d0a-efcb-4f4f-ad54-22a4879bbcf9
-        isrcs: *id002
+        isrcs:
+        - "AUXN22142436"
+        - "GB5KW1601265"
+        - "GBAJE7000085"
+        - "USUG11101026"
+        - "USWB10302179"
+        - "USWB11304630"
+        - "USWB19900215"
         title: Iron Man
         length: 355293
         video: false
@@ -177,7 +185,14 @@ trackIdData:
     - id: 0b97a64d-cf94-47b6-b6dd-dbfeea88df4c
       recordings:
       - id: a15e2d0a-efcb-4f4f-ad54-22a4879bbcf9
-        isrcs: *id002
+        isrcs:
+        - "AUXN22142436"
+        - "GB5KW1601265"
+        - "GBAJE7000085"
+        - "USUG11101026"
+        - "USWB10302179"
+        - "USWB11304630"
+        - "USWB19900215"
         title: Iron Man
         length: 355293
         video: false

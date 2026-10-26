@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 2250fd61-9c64-4c62-ac12-3b94e2a66a27
         isrcs:
-        - DEA629963000
+        - "DEA629963000"
         title: Buffalo soldier
         length: 259000
         video: false
         disambiguation: ''
         firstReleaseDate: '1999-10-18'
       - id: 62fa31ee-236f-486c-acfd-a4098cd23cca
-        isrcs: &id001
-        - USIR20110142
+        isrcs:
+        - "USIR20110142"
         title: Buffalo Soldier
         length: 164133
         video: false
@@ -38,8 +38,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: ad8f8af7-28f6-4ec6-b68e-77305b38ab7b
-        isrcs: &id002
-        - USIR28300004
+        isrcs:
+        - "USIR28300004"
         title: Buffalo Soldier
         length: 257506
         video: false
@@ -63,14 +63,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 62fa31ee-236f-486c-acfd-a4098cd23cca
-        isrcs: *id001
+        isrcs:
+        - "USIR20110142"
         title: Buffalo Soldier
         length: 164133
         video: false
         disambiguation: single version
         firstReleaseDate: '1983'
       - id: ad8f8af7-28f6-4ec6-b68e-77305b38ab7b
-        isrcs: *id002
+        isrcs:
+        - "USIR28300004"
         title: Buffalo Soldier
         length: 257506
         video: false

@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 23f7356a-f3c9-4281-aa56-8726678ee635
         isrcs:
-        - GBAPA0100012
+        - "GBAPA0100012"
         title: 400 Years
         length: 182706
         video: false
@@ -30,8 +30,8 @@ trackIdData:
         disambiguation: Dolby Atmos mix
         firstReleaseDate:
       - id: 96198d82-c3c3-47bb-a605-90d243ab8b6e
-        isrcs: &id001
-        - GBAAN7300124
+        isrcs:
+        - "GBAAN7300124"
         title: 400 Years
         length: 166133
         video: false
@@ -39,11 +39,11 @@ trackIdData:
         firstReleaseDate: '1970'
       - id: a6179a81-dd98-4b98-bf73-ff1b5f7900eb
         isrcs:
-        - GBAJE7000206
-        - GBAJE7001105
-        - GBAWA0519013
-        - GBFWU0400059
-        - USA560686249
+        - "GBAJE7000206"
+        - "GBAJE7001105"
+        - "GBAWA0519013"
+        - "GBFWU0400059"
+        - "USA560686249"
         title: 400 Years
         length: 152573
         video: false
@@ -60,7 +60,8 @@ trackIdData:
     - id: cbf0cd72-544d-4b19-b67f-7ecae00bebfe
       recordings:
       - id: 96198d82-c3c3-47bb-a605-90d243ab8b6e
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7300124"
         title: 400 Years
         length: 166133
         video: false

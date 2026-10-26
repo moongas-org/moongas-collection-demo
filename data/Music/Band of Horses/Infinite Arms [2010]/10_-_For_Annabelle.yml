@@ -15,8 +15,8 @@ trackIdData:
     - id: 65d19b0a-f9c6-47a3-8c72-3652d584eea8
       recordings:
       - id: 414b27ae-301b-4fbd-a932-a06262964a71
-        isrcs: &id001
-        - USQX91000278
+        isrcs:
+        - "USQX91000278"
         title: For Annabelle
         length: 186133
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 535aedcf-9ad1-4d6e-a8fc-8d6608bb44cb
       recordings:
       - id: 414b27ae-301b-4fbd-a932-a06262964a71
-        isrcs: *id001
+        isrcs:
+        - "USQX91000278"
         title: For Annabelle
         length: 186133
         video: false

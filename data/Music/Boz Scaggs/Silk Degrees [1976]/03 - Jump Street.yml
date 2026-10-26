@@ -15,8 +15,8 @@ trackIdData:
     - id: d85e8850-8454-458c-a6eb-04309c09ee02
       recordings:
       - id: 0b4360c4-9d18-4653-94ae-d10b41c2c5a3
-        isrcs: &id001
-        - USSM17500564
+        isrcs:
+        - "USSM17500564"
         title: Jump Street
         length: 313293
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: de538990-96f8-48e7-bc9a-6136c61b8208
       recordings:
       - id: 0b4360c4-9d18-4653-94ae-d10b41c2c5a3
-        isrcs: *id001
+        isrcs:
+        - "USSM17500564"
         title: Jump Street
         length: 313293
         video: false

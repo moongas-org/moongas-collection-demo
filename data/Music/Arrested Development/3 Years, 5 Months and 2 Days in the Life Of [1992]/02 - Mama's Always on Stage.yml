@@ -15,16 +15,16 @@ trackIdData:
     - id: 6374c3e4-5b1f-4650-9be5-9c12b6b12447
       recordings:
       - id: 288bf8f9-0d1b-46f3-828a-022149d29807
-        isrcs: &id001
-        - USCH39200018
+        isrcs:
+        - "USCH39200018"
         title: Mama’s Always on Stage
         length: 205733
         video: false
         disambiguation: ''
         firstReleaseDate: '1992-03-24'
       - id: 9733eb6e-a3e5-45b9-a5f8-a55ebee2384e
-        isrcs: &id002
-        - USCH39200018
+        isrcs:
+        - "USCH39200018"
         title: Mama’s Always on Stage
         length: 205800
         video: false
@@ -41,7 +41,8 @@ trackIdData:
     - id: aabde0cb-65d1-454c-9d4d-d19865cc2c3d
       recordings:
       - id: 288bf8f9-0d1b-46f3-828a-022149d29807
-        isrcs: *id001
+        isrcs:
+        - "USCH39200018"
         title: Mama’s Always on Stage
         length: 205733
         video: false
@@ -62,7 +63,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1993-03-23'
       - id: 9733eb6e-a3e5-45b9-a5f8-a55ebee2384e
-        isrcs: *id002
+        isrcs:
+        - "USCH39200018"
         title: Mama’s Always on Stage
         length: 205800
         video: false
@@ -70,7 +72,7 @@ trackIdData:
         firstReleaseDate: '2003-03-03'
       - id: f160d361-0494-4f81-9bbf-bc674a58ee2d
         isrcs:
-        - USCH30100131
+        - "USCH30100131"
         title: Mama's Always on Stage
         length: 199946
         video: false

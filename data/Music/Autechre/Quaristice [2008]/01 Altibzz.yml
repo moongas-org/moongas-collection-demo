@@ -15,8 +15,8 @@ trackIdData:
     - id: f8b8d4d9-5391-49ca-b2c1-6aef36db9720
       recordings:
       - id: 2a89ce30-c0ca-4f87-a7d9-467bbf23e2fb
-        isrcs: &id001
-        - GBBPW0700202
+        isrcs:
+        - "GBBPW0700202"
         title: Altibzz
         length: 172480
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 69683b18-a47a-4335-8a77-bd6c5fafe0d5
       recordings:
       - id: 2a89ce30-c0ca-4f87-a7d9-467bbf23e2fb
-        isrcs: *id001
+        isrcs:
+        - "GBBPW0700202"
         title: Altibzz
         length: 172480
         video: false

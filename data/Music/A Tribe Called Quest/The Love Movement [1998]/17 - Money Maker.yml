@@ -15,8 +15,8 @@ trackIdData:
     - id: a2f1a6a3-c5b2-4f91-b1b5-a119a65f21ee
       recordings:
       - id: ba85b8b3-6a2a-450d-bd03-24c239c64605
-        isrcs: &id001
-        - USJI19810391
+        isrcs:
+        - "USJI19810391"
         title: Money Maker
         length: 262000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 92962632-2d60-4c3c-aae5-6a9279686c5d
       recordings:
       - id: ba85b8b3-6a2a-450d-bd03-24c239c64605
-        isrcs: *id001
+        isrcs:
+        - "USJI19810391"
         title: Money Maker
         length: 262000
         video: false

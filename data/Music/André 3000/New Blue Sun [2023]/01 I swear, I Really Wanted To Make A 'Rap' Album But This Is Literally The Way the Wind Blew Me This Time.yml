@@ -16,8 +16,8 @@ trackIdData:
     - id: be3369e8-4ebd-41ab-8ee0-4543c312dc99
       recordings:
       - id: 90e038fe-91bc-4e5c-b9a7-ddb0488d9c4a
-        isrcs: &id001
-        - USSM12305448
+        isrcs:
+        - "USSM12305448"
         title: I Swear, I Really Wanted to Make a “Rap” Album but This Is 
           Literally the Way the Wind Blew Me This Time
         length: 740000
@@ -28,7 +28,8 @@ trackIdData:
     - id: 1389bd9b-c472-4bd5-a526-37e7016d6aaa
       recordings:
       - id: 90e038fe-91bc-4e5c-b9a7-ddb0488d9c4a
-        isrcs: *id001
+        isrcs:
+        - "USSM12305448"
         title: I Swear, I Really Wanted to Make a “Rap” Album but This Is 
           Literally the Way the Wind Blew Me This Time
         length: 740000

@@ -15,11 +15,11 @@ trackIdData:
     - id: e00478ce-d841-4479-969e-868ff38b7ce2
       recordings:
       - id: 90141c46-0f99-4435-a90a-af666d6599b7
-        isrcs: &id001
-        - USWB10303105
-        - USWB10603240
-        - USWB11202706
-        - USWB19901792
+        isrcs:
+        - "USWB10303105"
+        - "USWB10603240"
+        - "USWB11202706"
+        - "USWB19901792"
         title: A Horse With No Name
         length: 250026
         video: false
@@ -57,16 +57,20 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1994-11-29'
       - id: 90141c46-0f99-4435-a90a-af666d6599b7
-        isrcs: *id001
+        isrcs:
+        - "USWB10303105"
+        - "USWB10603240"
+        - "USWB11202706"
+        - "USWB19901792"
         title: A Horse With No Name
         length: 250026
         video: false
         disambiguation: ''
         firstReleaseDate: '1971-12-01'
       - id: 92463717-3254-4063-9b74-a16ff8d49570
-        isrcs: &id002
-        - USA820600112
-        - USWB10200348
+        isrcs:
+        - "USA820600112"
+        - "USWB10200348"
         title: A Horse With No Name
         length: 258160
         video: false
@@ -85,22 +89,28 @@ trackIdData:
       recordings:
       - id: 3c224c4b-4791-405a-a91c-b156a7d3c015
         isrcs:
-        - USA820600112
-        - USWB10200348
+        - "USA820600112"
+        - "USWB10200348"
         title: A Horse With No Name
         length: 257000
         video: false
         disambiguation: 'live, 1977-07-24: Greek Theater, Los Angeles, CA, USA'
         firstReleaseDate: '1977'
       - id: 90141c46-0f99-4435-a90a-af666d6599b7
-        isrcs: *id001
+        isrcs:
+        - "USWB10303105"
+        - "USWB10603240"
+        - "USWB11202706"
+        - "USWB19901792"
         title: A Horse With No Name
         length: 250026
         video: false
         disambiguation: ''
         firstReleaseDate: '1971-12-01'
       - id: 92463717-3254-4063-9b74-a16ff8d49570
-        isrcs: *id002
+        isrcs:
+        - "USA820600112"
+        - "USWB10200348"
         title: A Horse With No Name
         length: 258160
         video: false

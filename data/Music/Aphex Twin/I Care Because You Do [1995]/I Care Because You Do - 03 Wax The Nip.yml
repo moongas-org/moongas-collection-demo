@@ -15,8 +15,8 @@ trackIdData:
     - id: 4a4b5d3e-90a3-4c5b-b1b6-c43db227948b
       recordings:
       - id: 4a4eee37-2cfe-4d5e-ae28-753019087d38
-        isrcs: &id001
-        - USSI10100103
+        isrcs:
+        - "USSI10100103"
         title: Wax the Nip
         length: 258866
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 7bc571af-9dc9-4d55-8b2b-4d02275b4b1b
       recordings:
       - id: 4a4eee37-2cfe-4d5e-ae28-753019087d38
-        isrcs: *id001
+        isrcs:
+        - "USSI10100103"
         title: Wax the Nip
         length: 258866
         video: false

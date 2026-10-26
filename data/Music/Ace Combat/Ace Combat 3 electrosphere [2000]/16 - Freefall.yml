@@ -15,8 +15,8 @@ trackIdData:
     - id: 6f00e3cf-bfe3-48bb-b64e-dc1ad5070772
       recordings:
       - id: 64961571-120b-4f36-bbbe-aa34706c5315
-        isrcs: &id001
-        - JPX832004823
+        isrcs:
+        - "JPX832004823"
         title: Freefall
         length: 182000
         video: false
@@ -28,7 +28,8 @@ trackIdData:
     - id: aa48cd06-1cf2-4af5-a5c2-b923935b9dab
       recordings:
       - id: 64961571-120b-4f36-bbbe-aa34706c5315
-        isrcs: *id001
+        isrcs:
+        - "JPX832004823"
         title: Freefall
         length: 182000
         video: false

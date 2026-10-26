@@ -23,21 +23,21 @@ trackIdData:
         firstReleaseDate: '1988-10-10'
       - id: 4d78b3d1-42a2-4a50-8475-29e7cf5b5e64
         isrcs:
-        - USCRB0000546
-        - USF096700120
-        - USPG16590023
-        - USPG19090023
-        - USRHD0709001
-        - USUR10200949
+        - "USCRB0000546"
+        - "USF096700120"
+        - "USPG16590023"
+        - "USPG19090023"
+        - "USRHD0709001"
+        - "USUR10200949"
         title: Unchained Melody
         length: 217000
         video: false
         disambiguation: ''
         firstReleaseDate: '1965-07-17'
       - id: 6651608b-55ab-4903-8c29-b8cbc21d99b7
-        isrcs: &id001
-        - GBAAP0500263
-        - GBAAP9500222
+        isrcs:
+        - "GBAAP0500263"
+        - "GBAAP9500222"
         title: Cruel Summer
         length: 210960
         video: false
@@ -90,9 +90,9 @@ trackIdData:
         firstReleaseDate: '1988-10-10'
       - id: 17fae7dd-4037-4ea6-b05a-dbb60b7bc9e6
         isrcs:
-        - USSM12501576
-        - USSM18500510
-        - USSM19802607
+        - "USSM12501576"
+        - "USSM18500510"
+        - "USSM19802607"
         title: Walking Down Your Street
         length: 196320
         video: false
@@ -106,7 +106,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1992'
       - id: 6651608b-55ab-4903-8c29-b8cbc21d99b7
-        isrcs: *id001
+        isrcs:
+        - "GBAAP0500263"
+        - "GBAAP9500222"
         title: Cruel Summer
         length: 210960
         video: false
@@ -128,8 +130,8 @@ trackIdData:
         firstReleaseDate: '1995'
       - id: 954a15b2-a0a6-4dbe-b875-800857ede7fe
         isrcs:
-        - USAN20900074
-        - USAN29700110
+        - "USAN20900074"
+        - "USAN29700110"
         title: She’s Not the Cheatin’ Kind
         length: 205000
         video: false
@@ -151,8 +153,8 @@ trackIdData:
         firstReleaseDate: '1993'
       - id: d15765f5-9c0c-43f5-8daf-f3630d31d0e3
         isrcs:
-        - USAN20000190
-        - USAN21000119
+        - "USAN20000190"
+        - "USAN21000119"
         title: (Who Says) You Can’t Have It All
         length: 209680
         video: false
@@ -170,8 +172,8 @@ trackIdData:
       recordings:
       - id: 095d4220-11ed-4905-b09f-10c7f50dc4d7
         isrcs:
-        - DKAWM9800803
-        - SEVJH0803303
+        - "DKAWM9800803"
+        - "SEVJH0803303"
         title: Cruel Summer
         length: 215000
         video: false
@@ -186,14 +188,16 @@ trackIdData:
         firstReleaseDate: '2023-07-13'
       - id: 4c99d548-f494-4564-8196-f1a08c8fc479
         isrcs:
-        - GBAYE8600094
+        - "GBAYE8600094"
         title: Set Me Free
         length: 216440
         video: false
         disambiguation: ''
         firstReleaseDate: '1986-08-11'
       - id: 6651608b-55ab-4903-8c29-b8cbc21d99b7
-        isrcs: *id001
+        isrcs:
+        - "GBAAP0500263"
+        - "GBAAP9500222"
         title: Cruel Summer
         length: 210960
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 344cf41e-09e6-4fbf-811a-266b25c3ad70
       recordings:
       - id: 7ae7dc7f-852c-4737-bf4c-acb0e5c2ad34
-        isrcs: &id001
-        - BEZ350800034
+        isrcs:
+        - "BEZ350800034"
         title: Actium
         length: 456000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 6439f5db-4be6-43fb-8550-a9f3fa00a78c
       recordings:
       - id: 7ae7dc7f-852c-4737-bf4c-acb0e5c2ad34
-        isrcs: *id001
+        isrcs:
+        - "BEZ350800034"
         title: Actium
         length: 456000
         video: false

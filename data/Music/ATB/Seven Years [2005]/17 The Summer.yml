@@ -15,8 +15,8 @@ trackIdData:
     - id: e86cdc51-5716-42e6-b577-452126eb5889
       recordings:
       - id: 448862dd-f6b7-45f4-9354-cd8834078f25
-        isrcs: &id001
-        - DEN060000182
+        isrcs:
+        - "DEN060000182"
         title: The Summer
         length: 221000
         video: false
@@ -30,8 +30,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-04-28'
       - id: 82582be9-81b9-4b03-9725-de876b2c7605
-        isrcs: &id002
-        - DEN060500193
+        isrcs:
+        - "DEN060500193"
         title: The Summer
         length: 226773
         video: false
@@ -48,7 +48,8 @@ trackIdData:
     - id: a25100ec-620e-4770-8997-4e3c719da7b1
       recordings:
       - id: 448862dd-f6b7-45f4-9354-cd8834078f25
-        isrcs: *id001
+        isrcs:
+        - "DEN060000182"
         title: The Summer
         length: 221000
         video: false
@@ -69,7 +70,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: 82582be9-81b9-4b03-9725-de876b2c7605
-        isrcs: *id002
+        isrcs:
+        - "DEN060500193"
         title: The Summer
         length: 226773
         video: false
@@ -84,8 +86,8 @@ trackIdData:
         firstReleaseDate: '2011'
       - id: de395e38-a7a7-4869-af6d-c5931f0c12d8
         isrcs:
-        - DEN060000142
-        - DEN060500180
+        - "DEN060000142"
+        - "DEN060500180"
         title: The Summer (airplay mix)
         length: 226000
         video: false

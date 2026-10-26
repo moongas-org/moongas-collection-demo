@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2014'
       - id: a917e88b-dbee-46cc-84ff-57d867fed2c0
-        isrcs: &id001
-        - DEN060401587
+        isrcs:
+        - "DEN060401587"
         title: Sun Goes Down
         length: 247306
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: d9eee447-ead8-4156-8763-8126fb87695a
       recordings:
       - id: a917e88b-dbee-46cc-84ff-57d867fed2c0
-        isrcs: *id001
+        isrcs:
+        - "DEN060401587"
         title: Sun Goes Down
         length: 247306
         video: false

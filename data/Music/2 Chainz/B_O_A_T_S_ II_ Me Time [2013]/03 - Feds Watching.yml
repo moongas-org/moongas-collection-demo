@@ -15,7 +15,7 @@ trackIdData:
     - id: c9e66ea9-37ac-4282-ab11-6eef137129dd
       recordings:
       - id: 0686c33e-b368-43f1-8324-787bd2fd3109
-        isrcs: &id001
+        isrcs:
         - USUM71308137
         title: Feds Watching
         length: 250000
@@ -26,7 +26,8 @@ trackIdData:
     - id: fac5ca21-9f89-4dc8-a446-a894cec0d33d
       recordings:
       - id: 0686c33e-b368-43f1-8324-787bd2fd3109
-        isrcs: *id001
+        isrcs:
+        - USUM71308137
         title: Feds Watching
         length: 250000
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1992'
       - id: c8964f0b-841a-4876-8633-c26ff4b9aa34
-        isrcs: &id001
-        - USRE19900117
+        isrcs:
+        - "USRE19900117"
         title: If I Had $1000000
         length: 267000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 1b4863fc-7fd7-411e-85f5-c5b475640d30
       recordings:
       - id: c8964f0b-841a-4876-8633-c26ff4b9aa34
-        isrcs: *id001
+        isrcs:
+        - "USRE19900117"
         title: If I Had $1000000
         length: 267000
         video: false

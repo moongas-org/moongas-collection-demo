@@ -15,8 +15,8 @@ trackIdData:
     - id: 5184d39c-44e7-4798-b4ec-813e28d4aaa4
       recordings:
       - id: ce1543e3-9598-445c-af4a-efbaddf75fb5
-        isrcs: &id001
-        - JPX832004826
+        isrcs:
+        - "JPX832004826"
         title: Turbulence
         length: 132000
         video: false
@@ -28,7 +28,8 @@ trackIdData:
     - id: 6b0c98cd-bee6-4201-b0c0-bb0fe3e5097c
       recordings:
       - id: ce1543e3-9598-445c-af4a-efbaddf75fb5
-        isrcs: *id001
+        isrcs:
+        - "JPX832004826"
         title: Turbulence
         length: 132000
         video: false

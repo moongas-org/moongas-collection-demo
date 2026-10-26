@@ -15,8 +15,8 @@ trackIdData:
     - id: 4afa9774-88c2-493d-85fa-657e581c5374
       recordings:
       - id: 6cfd0a62-f82d-45de-a025-eb05dd591a6d
-        isrcs: &id001
-        - JPX832004825
+        isrcs:
+        - "JPX832004825"
         title: Analogue
         length: 202000
         video: false
@@ -28,7 +28,8 @@ trackIdData:
     - id: 89ec1b74-f889-4f11-83c0-c752cc084f1c
       recordings:
       - id: 6cfd0a62-f82d-45de-a025-eb05dd591a6d
-        isrcs: *id001
+        isrcs:
+        - "JPX832004825"
         title: Analogue
         length: 202000
         video: false

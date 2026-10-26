@@ -15,8 +15,8 @@ trackIdData:
     - id: e65b774c-c97a-47bc-ac51-81667b89e48b
       recordings:
       - id: 4810b42e-2bb1-4795-874b-85df8fd62ca9
-        isrcs: &id001
-        - GBCEL0700067
+        isrcs:
+        - "GBCEL0700067"
         title: Fluorescent Adolescent
         length: 177533
         video: false
@@ -41,14 +41,15 @@ trackIdData:
         firstReleaseDate:
       - id: 44f225d1-f204-46e9-8b20-a64c48476219
         isrcs:
-        - GBCEL0900446
+        - "GBCEL0900446"
         title: Potion Approaching
         length: 212133
         video: false
         disambiguation: album version
         firstReleaseDate: '2009-08-19'
       - id: 4810b42e-2bb1-4795-874b-85df8fd62ca9
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0700067"
         title: Fluorescent Adolescent
         length: 177533
         video: false

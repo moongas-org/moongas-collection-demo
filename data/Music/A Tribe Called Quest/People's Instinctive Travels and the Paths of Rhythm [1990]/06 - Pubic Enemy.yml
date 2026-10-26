@@ -30,7 +30,7 @@ trackIdData:
         firstReleaseDate: '2015-11-13'
       - id: 3a29f337-5572-4810-a26c-1178491511fd
         isrcs:
-        - USJI19000002
+        - "USJI19000002"
         title: I Left My Wallet in El Segundo
         length: 246000
         video: false
@@ -44,8 +44,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 1999-10
       - id: c7cc49f7-70c9-452b-bcbd-f516898d61a5
-        isrcs: &id001
-        - USJI10300143
+        isrcs:
+        - "USJI10300143"
         title: Pubic Enemy
         length: 228626
         video: false
@@ -62,7 +62,8 @@ trackIdData:
     - id: bc66b077-9f62-4e28-8aaf-3fb8ac133c9f
       recordings:
       - id: c7cc49f7-70c9-452b-bcbd-f516898d61a5
-        isrcs: *id001
+        isrcs:
+        - "USJI10300143"
         title: Pubic Enemy
         length: 228626
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1992'
       - id: 2a4e6453-8206-4292-9856-c497ef038dca
-        isrcs: &id001
-        - USCH39200007
+        isrcs:
+        - "USCH39200007"
         title: People Everyday
         length: 206933
         video: false
@@ -52,8 +52,8 @@ trackIdData:
         firstReleaseDate: '2005-02-09'
       - id: e9770c4a-40f8-437b-b3e2-0ba75394885e
         isrcs:
-        - USCH30100132
-        - USCH39200007
+        - "USCH30100132"
+        - "USCH39200007"
         title: People Everyday
         length: 208506
         video: false
@@ -63,7 +63,8 @@ trackIdData:
     - id: 3473d7b4-bb48-4c7c-a059-31f31de577b3
       recordings:
       - id: 2a4e6453-8206-4292-9856-c497ef038dca
-        isrcs: *id001
+        isrcs:
+        - "USCH39200007"
         title: People Everyday
         length: 206933
         video: false
@@ -73,7 +74,8 @@ trackIdData:
     - id: 6ef9212c-47d3-422f-92d0-d17b532b6723
       recordings:
       - id: 2a4e6453-8206-4292-9856-c497ef038dca
-        isrcs: *id001
+        isrcs:
+        - "USCH39200007"
         title: People Everyday
         length: 206933
         video: false

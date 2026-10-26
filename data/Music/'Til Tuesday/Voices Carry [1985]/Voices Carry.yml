@@ -59,7 +59,7 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1994'
       - id: c79f422d-2cfb-4b4d-b3be-f4a8459235e7
-        isrcs: &id001
+        isrcs:
         - USSM10027739
         - USSM18400066
         - USSM18500037
@@ -100,7 +100,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2002'
       - id: c79f422d-2cfb-4b4d-b3be-f4a8459235e7
-        isrcs: *id001
+        isrcs:
+        - USSM10027739
+        - USSM18400066
+        - USSM18500037
         title: Voices Carry
         length: 261666
         video: false

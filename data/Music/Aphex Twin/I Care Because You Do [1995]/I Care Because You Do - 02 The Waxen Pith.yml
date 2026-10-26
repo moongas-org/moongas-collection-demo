@@ -15,8 +15,8 @@ trackIdData:
     - id: c257bf64-2d02-426b-a035-855072f0c5f3
       recordings:
       - id: 3bc7bfaf-d9d2-42f7-987b-86b21d1cfbef
-        isrcs: &id001
-        - USSI10100102
+        isrcs:
+        - "USSI10100102"
         title: The Waxen Pith
         length: 289800
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 35d06869-d2d4-48a9-a11d-906faa223a45
       recordings:
       - id: 3bc7bfaf-d9d2-42f7-987b-86b21d1cfbef
-        isrcs: *id001
+        isrcs:
+        - "USSI10100102"
         title: The Waxen Pith
         length: 289800
         video: false

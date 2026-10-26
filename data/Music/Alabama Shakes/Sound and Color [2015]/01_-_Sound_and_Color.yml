@@ -15,8 +15,8 @@ trackIdData:
     - id: d64ebef2-e753-4c50-a426-100a0d66a37f
       recordings:
       - id: a4954cc5-7d34-449f-9850-517a7c9530e4
-        isrcs: &id001
-        - USATO1400850
+        isrcs:
+        - "USATO1400850"
         title: Sound & Color
         length: 183000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: cc391d11-8e2d-4771-9669-4f1e1d400b3c
       recordings:
       - id: a4954cc5-7d34-449f-9850-517a7c9530e4
-        isrcs: *id001
+        isrcs:
+        - "USATO1400850"
         title: Sound & Color
         length: 183000
         video: false
@@ -43,7 +44,8 @@ trackIdData:
     - id: c37fa7f2-8293-4370-99d4-63191a6be0c7
       recordings:
       - id: a4954cc5-7d34-449f-9850-517a7c9530e4
-        isrcs: *id001
+        isrcs:
+        - "USATO1400850"
         title: Sound & Color
         length: 183000
         video: false

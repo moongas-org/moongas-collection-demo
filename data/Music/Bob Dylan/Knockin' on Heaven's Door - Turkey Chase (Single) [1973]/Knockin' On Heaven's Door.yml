@@ -23,7 +23,7 @@ trackIdData:
         firstReleaseDate: '2019-11-01'
       - id: 06e8bcd7-10a5-431f-bae6-27e265a8672a
         isrcs:
-        - AUAP06600062
+        - "AUAP06600062"
         title: Friday on My Mind
         length: 162213
         video: false
@@ -87,21 +87,21 @@ trackIdData:
         firstReleaseDate: '2016-08-05'
       - id: 653ab2c3-4428-4c3c-9507-64cc65833560
         isrcs:
-        - USSM17300203
+        - "USSM17300203"
         title: Knockin’ on Heaven’s Door
         length: 149280
         video: false
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: 6fe0f731-6a6a-4985-a9bb-cd032ec3bc3a
-        isrcs: &id001
-        - USSM10024015
-        - USSM11304547
-        - USSM17300203
-        - USSM17300459
-        - USSM17300837
-        - USSM17301243
-        - USSM19901420
+        isrcs:
+        - "USSM10024015"
+        - "USSM11304547"
+        - "USSM17300203"
+        - "USSM17300459"
+        - "USSM17300837"
+        - "USSM17301243"
+        - "USSM19901420"
         title: Knockin’ on Heaven’s Door
         length: 150933
         video: false
@@ -115,8 +115,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010'
       - id: 7873ca04-859f-4250-83fe-20249c7563d6
-        isrcs: &id002
-        - USSM17300203
+        isrcs:
+        - "USSM17300203"
         title: Knockin’ on Heaven’s Door
         length: 150933
         video: false
@@ -145,8 +145,8 @@ trackIdData:
         firstReleaseDate: '1993'
       - id: 85057ddb-649d-462e-ac17-66d7c9963bb1
         isrcs:
-        - UKPFB1893790
-        - USSM16101370
+        - "UKPFB1893790"
+        - "USSM16101370"
         title: Freight Train Blues
         length: 139000
         video: false
@@ -175,7 +175,7 @@ trackIdData:
         firstReleaseDate: '2016-04-13'
       - id: 964a245f-6dec-4582-9491-b4a09b9ffdff
         isrcs:
-        - USSM17300459
+        - "USSM17300459"
         title: Knockin' On Heaven's Door
         length: 150133
         video: false
@@ -246,8 +246,8 @@ trackIdData:
         firstReleaseDate: '2023-09-08'
       - id: bbe6d2f2-ffa5-47ff-9ec3-3b3cab48b002
         isrcs:
-        - GBCKK1543704
-        - USAT29300007
+        - "GBCKK1543704"
+        - "USAT29300007"
         title: It’s About Time
         length: 161173
         video: false
@@ -321,7 +321,7 @@ trackIdData:
       recordings:
       - id: 4bb6d172-cedf-42c0-ab79-3a91e98f5e1d
         isrcs:
-        - USSM16800127
+        - "USSM16800127"
         title: You Ain’t Going Nowhere
         length: 155266
         video: false
@@ -335,7 +335,14 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2016-08-05'
       - id: 6fe0f731-6a6a-4985-a9bb-cd032ec3bc3a
-        isrcs: *id001
+        isrcs:
+        - "USSM10024015"
+        - "USSM11304547"
+        - "USSM17300203"
+        - "USSM17300459"
+        - "USSM17300837"
+        - "USSM17301243"
+        - "USSM19901420"
         title: Knockin’ on Heaven’s Door
         length: 150933
         video: false
@@ -408,7 +415,14 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2018-11-09'
       - id: 6fe0f731-6a6a-4985-a9bb-cd032ec3bc3a
-        isrcs: *id001
+        isrcs:
+        - "USSM10024015"
+        - "USSM11304547"
+        - "USSM17300203"
+        - "USSM17300459"
+        - "USSM17300837"
+        - "USSM17301243"
+        - "USSM19901420"
         title: Knockin’ on Heaven’s Door
         length: 150933
         video: false
@@ -422,7 +436,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010'
       - id: 7873ca04-859f-4250-83fe-20249c7563d6
-        isrcs: *id002
+        isrcs:
+        - "USSM17300203"
         title: Knockin’ on Heaven’s Door
         length: 150933
         video: false

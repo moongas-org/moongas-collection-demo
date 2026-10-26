@@ -15,8 +15,8 @@ trackIdData:
     - id: 25c39423-9888-4328-bd99-2f1f83e395c0
       recordings:
       - id: 12db16d7-6541-4a3e-9fc1-fa1f27501bbb
-        isrcs: &id001
-        - BEZ350800026
+        isrcs:
+        - "BEZ350800026"
         title: i
         length: 77400
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 7eef3dcb-a0c0-4cce-9617-e005bd2cb284
       recordings:
       - id: 12db16d7-6541-4a3e-9fc1-fa1f27501bbb
-        isrcs: *id001
+        isrcs:
+        - "BEZ350800026"
         title: i
         length: 77400
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: e490cf29-0b04-4c7c-bde1-90f9d1f25fa3
       recordings:
       - id: 12db16d7-6541-4a3e-9fc1-fa1f27501bbb
-        isrcs: *id001
+        isrcs:
+        - "BEZ350800026"
         title: i
         length: 77400
         video: false

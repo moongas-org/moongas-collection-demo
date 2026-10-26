@@ -15,8 +15,8 @@ trackIdData:
     - id: bf28e3d6-02e6-4c1a-b956-ec20b51b327c
       recordings:
       - id: b52e9718-242e-46d1-9c5c-4ba4ca7151cd
-        isrcs: &id001
-        - USSUB0774508
+        isrcs:
+        - "USSUB0774508"
         title: Marry Song
         length: 203266
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 33d52334-c0c0-4e37-85ce-8ca63bb79ca6
       recordings:
       - id: b52e9718-242e-46d1-9c5c-4ba4ca7151cd
-        isrcs: *id001
+        isrcs:
+        - "USSUB0774508"
         title: Marry Song
         length: 203266
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: cc767fbd-a6e7-4d67-b4ad-b3c69e8e4a88
       recordings:
       - id: 23fc683a-3361-47fd-b4f7-84c1aca205ef
-        isrcs: &id001
-        - GBAYE1200792
+        isrcs:
+        - "GBAYE1200792"
         title: Song 2
         length: 127293
         video: false
@@ -51,11 +51,11 @@ trackIdData:
         disambiguation: part of “Get Yer Yo Yo’s Out” DJ-mix
         firstReleaseDate: '2006-01-25'
       - id: b39b7227-c271-4ab8-912b-cb1fe2fc0e5e
-        isrcs: &id002
-        - GBAYE1200348
-        - GBAYE1400841
-        - GBAYE9600015
-        - USRHD0708242
+        isrcs:
+        - "GBAYE1200348"
+        - "GBAYE1400841"
+        - "GBAYE9600015"
+        - "USRHD0708242"
         title: Song 2
         length: 121253
         video: false
@@ -63,10 +63,10 @@ trackIdData:
         firstReleaseDate: '1997-01-29'
       - id: dc87225b-46bc-4a5d-837f-14e7eb8f2ca2
         isrcs:
-        - GBAYE0000921
-        - GBAYE0900757
-        - GBAYE6300408
-        - GBUM71505896
+        - "GBAYE0000921"
+        - "GBAYE0900757"
+        - "GBAYE6300408"
+        - "GBUM71505896"
         title: From Me to You
         length: 117106
         video: false
@@ -76,7 +76,8 @@ trackIdData:
     - id: 3a44a14d-b3ab-4ee0-8140-0af507fb3d8b
       recordings:
       - id: 23fc683a-3361-47fd-b4f7-84c1aca205ef
-        isrcs: *id001
+        isrcs:
+        - "GBAYE1200792"
         title: Song 2
         length: 127293
         video: false
@@ -104,7 +105,11 @@ trackIdData:
         disambiguation: 'live, 1999-03-10: The Depot Studios, London, UK'
         firstReleaseDate: '2012-07-27'
       - id: b39b7227-c271-4ab8-912b-cb1fe2fc0e5e
-        isrcs: *id002
+        isrcs:
+        - "GBAYE1200348"
+        - "GBAYE1400841"
+        - "GBAYE9600015"
+        - "USRHD0708242"
         title: Song 2
         length: 121253
         video: false

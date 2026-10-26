@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2021'
       - id: 9ddae744-757d-4b83-89fb-bab6a5729018
-        isrcs: &id001
-        - DEN060500184
+        isrcs:
+        - "DEN060500184"
         title: Ecstasy
         length: 248680
         video: false
@@ -47,7 +47,8 @@ trackIdData:
     - id: e05eec87-83bf-47ea-a684-dddcaac57f11
       recordings:
       - id: 9ddae744-757d-4b83-89fb-bab6a5729018
-        isrcs: *id001
+        isrcs:
+        - "DEN060500184"
         title: Ecstasy
         length: 248680
         video: false

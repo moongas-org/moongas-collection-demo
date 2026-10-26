@@ -44,7 +44,7 @@ trackIdData:
         firstReleaseDate: '2018-10-19'
       - id: 74eb6eed-2a70-47ef-a8f8-34dca9425da6
         isrcs:
-        - USSM18900005
+        - "USSM18900005"
         title: House of Fire
         length: 226520
         video: false
@@ -72,10 +72,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2014-05-30'
       - id: 9cf90c96-922a-4335-9d4a-a209dba34fe0
-        isrcs: &id001
-        - USSM18900004
-        - USSM18900468
-        - USSM19803018
+        isrcs:
+        - "USSM18900004"
+        - "USSM18900468"
+        - "USSM19803018"
         title: Poison
         length: 269386
         video: false
@@ -121,7 +121,7 @@ trackIdData:
         firstReleaseDate: '2026-05-29'
       - id: 2635187e-a59f-4341-87e8-fc8a34522290
         isrcs:
-        - USSM18900468
+        - "USSM18900468"
         title: Poison (single version)
         length: 269000
         video: false
@@ -149,7 +149,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2001'
       - id: 9cf90c96-922a-4335-9d4a-a209dba34fe0
-        isrcs: *id001
+        isrcs:
+        - "USSM18900004"
+        - "USSM18900468"
+        - "USSM19803018"
         title: Poison
         length: 269386
         video: false

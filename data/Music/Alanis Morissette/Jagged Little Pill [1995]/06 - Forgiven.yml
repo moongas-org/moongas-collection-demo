@@ -16,27 +16,27 @@ trackIdData:
       recordings:
       - id: 3086ba71-66f7-4dd9-a082-1277b503011f
         isrcs:
-        - USMV29900184
-        - USWB10505295
-        - USWB19800163
+        - "USMV29900184"
+        - "USWB10505295"
+        - "USWB19800163"
         title: Uninvited (Live / Unplugged)
         length: 276200
         video: false
         disambiguation: ''
         firstReleaseDate: '1998-03-31'
       - id: 8dac9304-b57d-45f6-9860-ce27f20b2da4
-        isrcs: &id001
-        - USMV21500006
-        - USMV21500041
-        - USMV29900095
+        isrcs:
+        - "USMV21500006"
+        - "USMV21500041"
+        - "USMV29900095"
         title: Forgiven
         length: 300000
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-06-09'
       - id: a002b290-f643-4528-9f9a-bd9eef733e9e
-        isrcs: &id002
-        - USMV22000052
+        isrcs:
+        - "USMV22000052"
         title: Forgiven
         length: 296000
         video: false
@@ -53,14 +53,18 @@ trackIdData:
         disambiguation: live video 1995-04/1996-12
         firstReleaseDate: '1997-09-08'
       - id: 8dac9304-b57d-45f6-9860-ce27f20b2da4
-        isrcs: *id001
+        isrcs:
+        - "USMV21500006"
+        - "USMV21500041"
+        - "USMV29900095"
         title: Forgiven
         length: 300000
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-06-09'
       - id: a002b290-f643-4528-9f9a-bd9eef733e9e
-        isrcs: *id002
+        isrcs:
+        - "USMV22000052"
         title: Forgiven
         length: 296000
         video: false

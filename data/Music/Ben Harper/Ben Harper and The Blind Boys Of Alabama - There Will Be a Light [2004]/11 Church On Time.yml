@@ -15,8 +15,8 @@ trackIdData:
     - id: 4e496526-28f8-42bf-8b6a-5d9dbc03c7dd
       recordings:
       - id: 356bedc5-8699-40ef-943c-1cf1828e193d
-        isrcs: &id001
-        - USVI20400272
+        isrcs:
+        - "USVI20400272"
         title: Church on Time
         length: 257306
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: fc7959ae-b4e7-49f6-a1b5-c7004840fdf4
       recordings:
       - id: 356bedc5-8699-40ef-943c-1cf1828e193d
-        isrcs: *id001
+        isrcs:
+        - "USVI20400272"
         title: Church on Time
         length: 257306
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: 8b2fbdf7-ed47-47ed-b10e-d7679074d9cc
       recordings:
       - id: 356bedc5-8699-40ef-943c-1cf1828e193d
-        isrcs: *id001
+        isrcs:
+        - "USVI20400272"
         title: Church on Time
         length: 257306
         video: false

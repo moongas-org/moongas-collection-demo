@@ -15,10 +15,10 @@ trackIdData:
     - id: 259b3ece-2c74-40db-89ae-c529bf0b0449
       recordings:
       - id: f7b37efd-a473-442f-b57b-0307a20ac763
-        isrcs: &id001
-        - USSM10000374
-        - USSM17500293
-        - USSM17500557
+        isrcs:
+        - "USSM10000374"
+        - "USSM17500293"
+        - "USSM17500557"
         title: Hello Like Before
         length: 329000
         video: false
@@ -28,7 +28,10 @@ trackIdData:
     - id: 7799755a-34d3-4518-a09f-d72ce8fc5d72
       recordings:
       - id: f7b37efd-a473-442f-b57b-0307a20ac763
-        isrcs: *id001
+        isrcs:
+        - "USSM10000374"
+        - "USSM17500293"
+        - "USSM17500557"
         title: Hello Like Before
         length: 329000
         video: false

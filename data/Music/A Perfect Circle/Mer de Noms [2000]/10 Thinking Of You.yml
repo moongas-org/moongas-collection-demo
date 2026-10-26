@@ -30,9 +30,9 @@ trackIdData:
         disambiguation: 'live, 2004-01-31: Le Zénith de Paris, Paris, France'
         firstReleaseDate:
       - id: 3fc544f9-1228-4e2d-8747-e336e3f6600e
-        isrcs: &id001
-        - QMEJX1300011
-        - USVI20000053
+        isrcs:
+        - "QMEJX1300011"
+        - "USVI20000053"
         title: Thinking of You
         length: 274573
         video: false
@@ -64,7 +64,9 @@ trackIdData:
     - id: 453f30d4-05fd-4675-b45a-abd2e7596bd4
       recordings:
       - id: 3fc544f9-1228-4e2d-8747-e336e3f6600e
-        isrcs: *id001
+        isrcs:
+        - "QMEJX1300011"
+        - "USVI20000053"
         title: Thinking of You
         length: 274573
         video: false

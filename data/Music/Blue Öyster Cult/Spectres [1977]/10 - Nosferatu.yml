@@ -15,8 +15,8 @@ trackIdData:
     - id: 83d7c130-10b4-4822-b823-53a774c51939
       recordings:
       - id: 59ec0358-c83e-4ac2-8141-467ef8bc52eb
-        isrcs: &id001
-        - USSM19917728
+        isrcs:
+        - "USSM19917728"
         title: Nosferatu
         length: 321826
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: eea75a18-a71b-4bf8-96f2-259d7f5d9e5a
       recordings:
       - id: 59ec0358-c83e-4ac2-8141-467ef8bc52eb
-        isrcs: *id001
+        isrcs:
+        - "USSM19917728"
         title: Nosferatu
         length: 321826
         video: false

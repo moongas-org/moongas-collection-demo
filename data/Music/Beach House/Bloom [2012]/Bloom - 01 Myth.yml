@@ -29,11 +29,11 @@ trackIdData:
         disambiguation: live
         firstReleaseDate: '2013-09-02'
       - id: eea564f4-4dc5-4115-adad-d03edb631e8c
-        isrcs: &id001
-        - AUVB01200001
-        - GBBRP1233401
-        - USSUB1202101
-        - USSUB1296501
+        isrcs:
+        - "AUVB01200001"
+        - "GBBRP1233401"
+        - "USSUB1202101"
+        - "USSUB1296501"
         title: Myth
         length: 258653
         video: false
@@ -43,7 +43,11 @@ trackIdData:
     - id: d25580a8-a5a5-4b12-ad12-b521da9a9802
       recordings:
       - id: eea564f4-4dc5-4115-adad-d03edb631e8c
-        isrcs: *id001
+        isrcs:
+        - "AUVB01200001"
+        - "GBBRP1233401"
+        - "USSUB1202101"
+        - "USSUB1296501"
         title: Myth
         length: 258653
         video: false
@@ -60,7 +64,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2012-08-31'
       - id: eea564f4-4dc5-4115-adad-d03edb631e8c
-        isrcs: *id001
+        isrcs:
+        - "AUVB01200001"
+        - "GBBRP1233401"
+        - "USSUB1202101"
+        - "USSUB1296501"
         title: Myth
         length: 258653
         video: false

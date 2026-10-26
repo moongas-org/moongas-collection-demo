@@ -15,8 +15,8 @@ trackIdData:
     - id: d6c8a72f-5bfe-4e26-8158-94320d84c3f0
       recordings:
       - id: f54b6e3a-9870-4de4-8bf8-466febdf57ff
-        isrcs: &id001
-        - DEN060401582
+        isrcs:
+        - "DEN060401582"
         title: The Autumn Leaves
         length: 342546
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 7600e6d6-c21f-4685-bac8-c1ec819bb97f
       recordings:
       - id: f54b6e3a-9870-4de4-8bf8-466febdf57ff
-        isrcs: *id001
+        isrcs:
+        - "DEN060401582"
         title: The Autumn Leaves
         length: 342546
         video: false

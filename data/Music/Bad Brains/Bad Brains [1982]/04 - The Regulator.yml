@@ -29,9 +29,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2017-09-30'
       - id: fae73f28-3470-40a5-9dcc-b29770022a0b
-        isrcs: &id001
-        - US29V0422304
-        - USFMA1900131
+        isrcs:
+        - "US29V0422304"
+        - "USFMA1900131"
         title: The Regulator
         length: 67946
         video: false
@@ -41,7 +41,9 @@ trackIdData:
     - id: 63cd77b3-af4f-4f9c-b6e8-9c0514d24619
       recordings:
       - id: fae73f28-3470-40a5-9dcc-b29770022a0b
-        isrcs: *id001
+        isrcs:
+        - "US29V0422304"
+        - "USFMA1900131"
         title: The Regulator
         length: 67946
         video: false

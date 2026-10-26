@@ -15,8 +15,8 @@ trackIdData:
     - id: aed54ac7-3859-4807-a780-d7550e9db061
       recordings:
       - id: a0fa31e2-aeef-4cbb-ba4f-35f5fa02076d
-        isrcs: &id001
-        - USVIC0525808
+        isrcs:
+        - "USVIC0525808"
         title: Existing in a Crisis (Evelyn)
         length: 263000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 048c7e5c-7c74-4b2c-9fda-b320a91b0067
       recordings:
       - id: a0fa31e2-aeef-4cbb-ba4f-35f5fa02076d
-        isrcs: *id001
+        isrcs:
+        - "USVIC0525808"
         title: Existing in a Crisis (Evelyn)
         length: 263000
         video: false

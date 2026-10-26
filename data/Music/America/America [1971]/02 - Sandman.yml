@@ -15,10 +15,10 @@ trackIdData:
     - id: 4f1a872f-0db8-441b-8cc1-4e67aeaf0a91
       recordings:
       - id: 92289f62-9baf-45ab-9a80-dfde72a0ed1b
-        isrcs: &id001
-        - USWB10001092
-        - USWB10400967
-        - USWB10603243
+        isrcs:
+        - "USWB10001092"
+        - "USWB10400967"
+        - "USWB10603243"
         title: Sandman
         length: 307493
         video: false
@@ -30,7 +30,10 @@ trackIdData:
     - id: 19aa1c48-04aa-4217-a78c-b371ff4d896f
       recordings:
       - id: 92289f62-9baf-45ab-9a80-dfde72a0ed1b
-        isrcs: *id001
+        isrcs:
+        - "USWB10001092"
+        - "USWB10400967"
+        - "USWB10603243"
         title: Sandman
         length: 307493
         video: false
@@ -40,7 +43,10 @@ trackIdData:
     - id: dc304f19-edbe-4b99-ab38-06fb7f9d19ff
       recordings:
       - id: 92289f62-9baf-45ab-9a80-dfde72a0ed1b
-        isrcs: *id001
+        isrcs:
+        - "USWB10001092"
+        - "USWB10400967"
+        - "USWB10603243"
         title: Sandman
         length: 307493
         video: false

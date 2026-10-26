@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2017-05-27'
       - id: c4d87620-fbea-46ec-bfac-f8f9c64ec7c3
-        isrcs: &id001
-        - USATO1400853
+        isrcs:
+        - "USATO1400853"
         title: Future People
         length: 202000
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 6c98f703-58dc-492b-86c1-b0b7e7ebf70b
       recordings:
       - id: c4d87620-fbea-46ec-bfac-f8f9c64ec7c3
-        isrcs: *id001
+        isrcs:
+        - "USATO1400853"
         title: Future People
         length: 202000
         video: false

@@ -15,17 +15,17 @@ trackIdData:
     - id: 45857869-2909-4795-af3b-fe67ed761e2a
       recordings:
       - id: 6182da4f-4f98-4421-9a6e-96a71f5006ad
-        isrcs: &id001
-        - GB5KW1601290
-        - GBAJE7100084
+        isrcs:
+        - "GB5KW1601290"
+        - "GBAJE7100084"
         title: Embryo
         length: 28173
         video: false
         disambiguation: ''
         firstReleaseDate: '1971-07-21'
       - id: a0bc4a86-332f-4e33-9c15-9f29b8401fbe
-        isrcs: &id002
-        - USWB11304544
+        isrcs:
+        - "USWB11304544"
         title: Embryo
         length: 45333
         video: false
@@ -35,14 +35,17 @@ trackIdData:
     - id: 6d59dc1d-dac4-439a-b469-a4827788a78b
       recordings:
       - id: 6182da4f-4f98-4421-9a6e-96a71f5006ad
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601290"
+        - "GBAJE7100084"
         title: Embryo
         length: 28173
         video: false
         disambiguation: ''
         firstReleaseDate: '1971-07-21'
       - id: a0bc4a86-332f-4e33-9c15-9f29b8401fbe
-        isrcs: *id002
+        isrcs:
+        - "USWB11304544"
         title: Embryo
         length: 45333
         video: false
@@ -52,7 +55,9 @@ trackIdData:
     - id: 6a0ae9e2-1dba-479d-a0ef-037a51d5743b
       recordings:
       - id: 6182da4f-4f98-4421-9a6e-96a71f5006ad
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601290"
+        - "GBAJE7100084"
         title: Embryo
         length: 28173
         video: false
@@ -62,7 +67,9 @@ trackIdData:
     - id: bd8a759a-6001-4c67-b804-02dc9d6c98cc
       recordings:
       - id: 6182da4f-4f98-4421-9a6e-96a71f5006ad
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601290"
+        - "GBAJE7100084"
         title: Embryo
         length: 28173
         video: false

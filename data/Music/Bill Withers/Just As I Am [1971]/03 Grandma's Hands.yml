@@ -15,11 +15,11 @@ trackIdData:
     - id: d044216c-4a36-4448-922a-025308eeb4fa
       recordings:
       - id: 1ed5d688-5468-4028-b8b2-cd1bab2dbbf0
-        isrcs: &id001
-        - USSM10000373
-        - USSM17100269
-        - USSM17300308
-        - USSM18500485
+        isrcs:
+        - "USSM10000373"
+        - "USSM17100269"
+        - "USSM17300308"
+        - "USSM18500485"
         title: Grandma’s Hands
         length: 120600
         video: false
@@ -29,7 +29,11 @@ trackIdData:
     - id: 9bd6c3a1-b4b8-49fc-a13b-5a2b77eb575b
       recordings:
       - id: 1ed5d688-5468-4028-b8b2-cd1bab2dbbf0
-        isrcs: *id001
+        isrcs:
+        - "USSM10000373"
+        - "USSM17100269"
+        - "USSM17300308"
+        - "USSM18500485"
         title: Grandma’s Hands
         length: 120600
         video: false

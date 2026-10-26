@@ -15,8 +15,8 @@ trackIdData:
     - id: a45f9659-f9b0-47a7-9bff-e76187d08f9a
       recordings:
       - id: 8019e648-60fa-4412-a772-cdeb28606906
-        isrcs: &id001
-        - USUG12301900
+        isrcs:
+        - "USUG12301900"
         title: Seasons of Wither
         length: 304733
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: dbf65f4a-63f3-428e-ade4-df1f3a376470
       recordings:
       - id: 8019e648-60fa-4412-a772-cdeb28606906
-        isrcs: *id001
+        isrcs:
+        - "USUG12301900"
         title: Seasons of Wither
         length: 304733
         video: false
@@ -40,9 +41,9 @@ trackIdData:
         disambiguation: quad mix
         firstReleaseDate: '1975'
       - id: 972670b4-0a0f-4bf3-bf21-3ef094c5c97b
-        isrcs: &id002
-        - USSM10025392
-        - USSM10207904
+        isrcs:
+        - "USSM10025392"
+        - "USSM10207904"
         title: Seasons of Wither
         length: 338000
         video: false
@@ -66,14 +67,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1997-03-18'
       - id: 8019e648-60fa-4412-a772-cdeb28606906
-        isrcs: *id001
+        isrcs:
+        - "USUG12301900"
         title: Seasons of Wither
         length: 304733
         video: false
         disambiguation: ''
         firstReleaseDate: '1974-03-15'
       - id: 972670b4-0a0f-4bf3-bf21-3ef094c5c97b
-        isrcs: *id002
+        isrcs:
+        - "USSM10025392"
+        - "USSM10207904"
         title: Seasons of Wither
         length: 338000
         video: false

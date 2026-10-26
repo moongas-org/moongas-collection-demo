@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004'
       - id: 4d8ca8d4-6254-4967-b4db-53e5844e79d0
-        isrcs: &id001
-        - GBAAN7790003
-        - USIR27700014
+        isrcs:
+        - "GBAAN7790003"
+        - "USIR27700014"
         title: Waiting in Vain
         length: 255666
         video: false
@@ -32,7 +32,7 @@ trackIdData:
         firstReleaseDate: '1977-06-03'
       - id: 67284152-e6a9-4e14-ba6a-962f83de69d9
         isrcs:
-        - GBAAN7390003
+        - "GBAAN7390003"
         title: I Shot the Sheriff
         length: 281200
         video: false
@@ -46,8 +46,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2009'
       - id: d657a76b-73a1-46e5-96a2-bd3dd883e5a9
-        isrcs: &id002
-        - USIR20200012
+        isrcs:
+        - "USIR20200012"
         title: Waiting in Vain
         length: 252906
         video: false
@@ -71,14 +71,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004'
       - id: 4d8ca8d4-6254-4967-b4db-53e5844e79d0
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7790003"
+        - "USIR27700014"
         title: Waiting in Vain
         length: 255666
         video: false
         disambiguation: album version
         firstReleaseDate: '1977-06-03'
       - id: d657a76b-73a1-46e5-96a2-bd3dd883e5a9
-        isrcs: *id002
+        isrcs:
+        - "USIR20200012"
         title: Waiting in Vain
         length: 252906
         video: false
@@ -109,7 +112,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004'
       - id: 4d8ca8d4-6254-4967-b4db-53e5844e79d0
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7790003"
+        - "USIR27700014"
         title: Waiting in Vain
         length: 255666
         video: false
@@ -130,7 +135,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: d657a76b-73a1-46e5-96a2-bd3dd883e5a9
-        isrcs: *id002
+        isrcs:
+        - "USIR20200012"
         title: Waiting in Vain
         length: 252906
         video: false

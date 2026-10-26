@@ -15,8 +15,8 @@ trackIdData:
     - id: 4a1df109-a453-4290-9092-e9c2566f2cc0
       recordings:
       - id: 67390ff9-bc49-4554-882a-e83e450a429d
-        isrcs: &id001
-        - USRN19600091
+        isrcs:
+        - "USRN19600091"
         title: Dixieland Delight
         length: 238093
         video: false
@@ -33,7 +33,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-10-07'
       - id: 67390ff9-bc49-4554-882a-e83e450a429d
-        isrcs: *id001
+        isrcs:
+        - "USRN19600091"
         title: Dixieland Delight
         length: 238093
         video: false
@@ -64,7 +65,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-10-07'
       - id: 67390ff9-bc49-4554-882a-e83e450a429d
-        isrcs: *id001
+        isrcs:
+        - "USRN19600091"
         title: Dixieland Delight
         length: 238093
         video: false

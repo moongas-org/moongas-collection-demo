@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004-05-24'
       - id: 860d4b6e-1288-4383-ac1c-381053b21c5f
-        isrcs: &id001
-        - DEN060500185
-        - DEN060500187
+        isrcs:
+        - "DEN060500185"
+        - "DEN060500187"
         title: Marrakech
         length: 225000
         video: false
@@ -55,7 +55,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004-05-24'
       - id: 860d4b6e-1288-4383-ac1c-381053b21c5f
-        isrcs: *id001
+        isrcs:
+        - "DEN060500185"
+        - "DEN060500187"
         title: Marrakech
         length: 225000
         video: false

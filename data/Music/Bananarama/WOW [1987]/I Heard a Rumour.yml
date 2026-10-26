@@ -15,8 +15,8 @@ trackIdData:
     - id: 1446867e-56ff-459a-9ee3-177b0bbb8e93
       recordings:
       - id: 4eb5cc25-7e2b-4e85-bac2-683da6b25769
-        isrcs: &id001
-        - GBAAP9600096
+        isrcs:
+        - "GBAAP9600096"
         title: I Heard a Rumour
         length: 205093
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 74b666e3-f996-4f32-a87e-3b6de7965091
       recordings:
       - id: 4eb5cc25-7e2b-4e85-bac2-683da6b25769
-        isrcs: *id001
+        isrcs:
+        - "GBAAP9600096"
         title: I Heard a Rumour
         length: 205093
         video: false
@@ -50,7 +51,8 @@ trackIdData:
     - id: 86d62efa-a6c1-4005-82d3-5327706ace3a
       recordings:
       - id: 4eb5cc25-7e2b-4e85-bac2-683da6b25769
-        isrcs: *id001
+        isrcs:
+        - "GBAAP9600096"
         title: I Heard a Rumour
         length: 205093
         video: false

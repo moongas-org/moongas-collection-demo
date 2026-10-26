@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 3c472c14-705b-4650-a133-796a68b65621
         isrcs:
-        - GBBLY1004737
+        - "GBBLY1004737"
         title: The Night Is Full
         length: 251360
         video: false
@@ -30,8 +30,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2002-02-18'
       - id: 80d51005-a544-4eb5-b63e-2d07c1f20da0
-        isrcs: &id001
-        - USSM17100736
+        isrcs:
+        - "USSM17100736"
         title: Cities on Flame With Rock and Roll
         length: 243200
         video: false
@@ -53,7 +53,7 @@ trackIdData:
         firstReleaseDate: '2013-06-17'
       - id: a34e2507-23bf-47a3-8f65-69d6fa6f8866
         isrcs:
-        - ITG272000183
+        - "ITG272000183"
         title: Cities on Flame With Rock ’n’ Roll
         length: 248066
         video: false
@@ -75,7 +75,7 @@ trackIdData:
         firstReleaseDate: '1992'
       - id: e1589c39-812a-48ec-8a8c-086d3c1bd6ef
         isrcs:
-        - USSM17100736
+        - "USSM17100736"
         title: Cities on Flame With Rock and Roll
         length: 244000
         video: false
@@ -90,7 +90,7 @@ trackIdData:
         firstReleaseDate: '2007-10-28'
       - id: edf63ead-5bba-4699-a498-29e36733ae18
         isrcs:
-        - USSM19917756
+        - "USSM19917756"
         title: Cities on Flame
         length: 245666
         video: false
@@ -110,7 +110,8 @@ trackIdData:
     - id: 00d77ee4-0d7d-448e-8742-7b58c2fb79ec
       recordings:
       - id: 80d51005-a544-4eb5-b63e-2d07c1f20da0
-        isrcs: *id001
+        isrcs:
+        - "USSM17100736"
         title: Cities on Flame With Rock and Roll
         length: 243200
         video: false

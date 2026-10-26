@@ -15,8 +15,8 @@ trackIdData:
     - id: c385853b-85be-4e7a-b9c2-3ca77538dc0b
       recordings:
       - id: 0d43ba5c-ac22-41b9-a3f6-966bf16c009d
-        isrcs: &id001
-        - US4SC0501921
+        isrcs:
+        - "US4SC0501921"
         title: Tootsie Roll
         length: 257000
         video: false
@@ -45,7 +45,7 @@ trackIdData:
         firstReleaseDate:
       - id: 7e5aff5b-df91-431b-8bcb-a8d8b6bbcbee
         isrcs:
-        - US4SC0501985
+        - "US4SC0501985"
         title: Tootsee Roll (rap version)
         length: 260866
         video: false
@@ -59,9 +59,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005'
       - id: b6eb1ffe-0e54-48af-8ccd-20265824abde
-        isrcs: &id002
-        - US4SC0501930
-        - US4SC0501987
+        isrcs:
+        - "US4SC0501930"
+        - "US4SC0501987"
         title: Tootsee Roll (dance version)
         length: 261360
         video: false
@@ -69,7 +69,7 @@ trackIdData:
         firstReleaseDate: '1994-01-24'
       - id: bd2a70dd-d3ef-490b-acf6-1caa7b91cc3b
         isrcs:
-        - US4SC0501912
+        - "US4SC0501912"
         title: Da Train
         length: 267026
         video: false
@@ -100,7 +100,8 @@ trackIdData:
     - id: 180d7e33-d49c-4909-acb6-09c4c7b3e905
       recordings:
       - id: 0d43ba5c-ac22-41b9-a3f6-966bf16c009d
-        isrcs: *id001
+        isrcs:
+        - "US4SC0501921"
         title: Tootsie Roll
         length: 257000
         video: false
@@ -108,7 +109,7 @@ trackIdData:
         firstReleaseDate: '1994-05-27'
       - id: 3148f3a9-590d-44ae-a171-00b9b6160e0d
         isrcs:
-        - US4SC0501988
+        - "US4SC0501988"
         title: Tootsee Roll (Tootseemental remix)
         length: 260000
         video: false
@@ -122,7 +123,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: b6eb1ffe-0e54-48af-8ccd-20265824abde
-        isrcs: *id002
+        isrcs:
+        - "US4SC0501930"
+        - "US4SC0501987"
         title: Tootsee Roll (dance version)
         length: 261360
         video: false

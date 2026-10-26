@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2009-03-25'
       - id: b1aee0eb-1ff4-49ec-be2b-ffefb05109ce
-        isrcs: &id001
-        - GBAAN7090009
-        - GBAAN7300130
+        isrcs:
+        - "GBAAN7090009"
+        - "GBAAN7300130"
         title: Duppy Conqueror
         length: 224400
         video: false
@@ -55,7 +55,9 @@ trackIdData:
     - id: d00d1dff-db8d-428e-ae97-cdd166213900
       recordings:
       - id: b1aee0eb-1ff4-49ec-be2b-ffefb05109ce
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7090009"
+        - "GBAAN7300130"
         title: Duppy Conqueror
         length: 224400
         video: false

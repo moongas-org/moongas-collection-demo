@@ -15,9 +15,9 @@ trackIdData:
     - id: 8205c5be-afa5-440d-bed1-f0fd8bf9595c
       recordings:
       - id: c825b3da-2573-4007-b042-90a4edb6acd1
-        isrcs: &id001
-        - GB5KW1601282
-        - GBAJE7100087
+        isrcs:
+        - "GB5KW1601282"
+        - "GBAJE7100087"
         title: Lord of This World
         length: 326466
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: 61a40590-04b4-4707-8c4c-00332135786a
       recordings:
       - id: c825b3da-2573-4007-b042-90a4edb6acd1
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601282"
+        - "GBAJE7100087"
         title: Lord of This World
         length: 326466
         video: false

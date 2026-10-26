@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2007-10-22'
       - id: daa40715-0aed-4db8-b398-db7677a8cba3
-        isrcs: &id001
-        - GBBPW0700011
+        isrcs:
+        - "GBBPW0700011"
         title: Tonto
         length: 463000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 1646e667-20b6-4c04-9721-c7b4bf8c9355
       recordings:
       - id: daa40715-0aed-4db8-b398-db7677a8cba3
-        isrcs: *id001
+        isrcs:
+        - "GBBPW0700011"
         title: Tonto
         length: 463000
         video: false

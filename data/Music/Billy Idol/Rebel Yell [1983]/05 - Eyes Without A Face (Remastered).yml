@@ -15,9 +15,9 @@ trackIdData:
     - id: ccd0ca33-f872-464b-805d-b7e984925398
       recordings:
       - id: 9ad4e4f4-6460-44f2-88ef-6d82e83a5b74
-        isrcs: &id001
-        - USCH38400023
-        - USCH39900056
+        isrcs:
+        - "USCH38400023"
+        - "USCH39900056"
         title: Eyes Without a Face
         length: 298000
         video: false
@@ -25,8 +25,8 @@ trackIdData:
         firstReleaseDate: '1983-11-10'
       - id: e2c35987-296b-4a88-a450-c37b69d68932
         isrcs:
-        - USCH38400023
-        - USCH38800011
+        - "USCH38400023"
+        - "USCH38800011"
         title: Eyes Without a Face
         length: 249840
         video: false
@@ -43,7 +43,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2008-06-24'
       - id: 9ad4e4f4-6460-44f2-88ef-6d82e83a5b74
-        isrcs: *id001
+        isrcs:
+        - "USCH38400023"
+        - "USCH39900056"
         title: Eyes Without a Face
         length: 298000
         video: false
@@ -51,7 +53,7 @@ trackIdData:
         firstReleaseDate: '1983-11-10'
       - id: de967c79-254f-4367-84d5-997dac943854
         isrcs:
-        - USUM72310311
+        - "USUM72310311"
         title: Eyes Without a Face
         length: 299000
         video: false

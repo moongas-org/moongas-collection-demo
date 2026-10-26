@@ -29,9 +29,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1987'
       - id: 822f7997-d052-4f87-8e5b-cebbc02d28ac
-        isrcs: &id001
-        - USSM16701017
-        - USSM19917674
+        isrcs:
+        - "USSM16701017"
+        - "USSM19917674"
         title: I Can’t Quit Her
         length: 218800
         video: false
@@ -63,9 +63,9 @@ trackIdData:
         firstReleaseDate: '1970'
       - id: 4070b723-5192-4c42-931b-59ccc6f6e655
         isrcs:
-        - USSM19400527
-        - USSM19500527
-        - USSM20401129
+        - "USSM19400527"
+        - "USSM19500527"
+        - "USSM20401129"
         title: Lost in America
         length: 233000
         video: false
@@ -79,7 +79,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2014-01-07'
       - id: 822f7997-d052-4f87-8e5b-cebbc02d28ac
-        isrcs: *id001
+        isrcs:
+        - "USSM16701017"
+        - "USSM19917674"
         title: I Can’t Quit Her
         length: 218800
         video: false

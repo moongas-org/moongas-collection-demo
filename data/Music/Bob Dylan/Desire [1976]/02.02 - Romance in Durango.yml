@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005-09-21'
       - id: a9a433c1-7d84-45ab-b175-c61709914743
-        isrcs: &id001
-        - USSM10103241
+        isrcs:
+        - "USSM10103241"
         title: Romance in Durango
         length: 344026
         video: false
@@ -44,8 +44,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: e0939a1f-aae2-46a5-a919-35de8fb87b13
-        isrcs: &id002
-        - USSM10103241
+        isrcs:
+        - "USSM10103241"
         title: Romance in Durango
         length: 344333
         video: false
@@ -53,7 +53,7 @@ trackIdData:
         firstReleaseDate: '2013-11-01'
       - id: ef14ab54-a330-46bd-9c69-a07d7bb76ba3
         isrcs:
-        - US3M51215409
+        - "US3M51215409"
         title: Romance in Durango
         length: 344520
         video: false
@@ -63,14 +63,16 @@ trackIdData:
     - id: cfcfbd20-b0a3-453d-a612-5bbe49508305
       recordings:
       - id: a9a433c1-7d84-45ab-b175-c61709914743
-        isrcs: *id001
+        isrcs:
+        - "USSM10103241"
         title: Romance in Durango
         length: 344026
         video: false
         disambiguation: original studio mix
         firstReleaseDate: '1976-01-05'
       - id: e0939a1f-aae2-46a5-a919-35de8fb87b13
-        isrcs: *id002
+        isrcs:
+        - "USSM10103241"
         title: Romance in Durango
         length: 344333
         video: false
@@ -87,7 +89,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005-09-21'
       - id: a9a433c1-7d84-45ab-b175-c61709914743
-        isrcs: *id001
+        isrcs:
+        - "USSM10103241"
         title: Romance in Durango
         length: 344026
         video: false

@@ -15,12 +15,12 @@ trackIdData:
     - id: b245a3b2-bd8b-4c7a-b6de-0a39091fcaf6
       recordings:
       - id: 7e79dfb0-dd94-4d1e-998f-452ac47e4368
-        isrcs: &id001
-        - GBA077700020
-        - GBA077700080
-        - GBAKW7701041
-        - NLF057790033
-        - USRH10650368
+        isrcs:
+        - "GBA077700020"
+        - "GBA077700080"
+        - "GBAKW7701041"
+        - "NLF057790033"
+        - "USRH10650368"
         title: More Than a Woman
         length: 196893
         video: false
@@ -45,14 +45,19 @@ trackIdData:
         firstReleaseDate:
       - id: 6e92516c-afb2-489b-80c9-9e7da3164041
         isrcs:
-        - GBAKW9800283
+        - "GBAKW9800283"
         title: Night Fever / More Than a Woman
         length: 205666
         video: false
         disambiguation: 'live, 1997-11-14: MGM Grand, Las Vegas, NV, USA'
         firstReleaseDate: '1998-11-03'
       - id: 7e79dfb0-dd94-4d1e-998f-452ac47e4368
-        isrcs: *id001
+        isrcs:
+        - "GBA077700020"
+        - "GBA077700080"
+        - "GBAKW7701041"
+        - "NLF057790033"
+        - "USRH10650368"
         title: More Than a Woman
         length: 196893
         video: false

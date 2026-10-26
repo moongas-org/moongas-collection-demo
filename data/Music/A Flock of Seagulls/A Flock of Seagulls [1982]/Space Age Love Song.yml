@@ -15,13 +15,13 @@ trackIdData:
     - id: d5fc1ca1-fd26-4436-a95b-c9c873893d10
       recordings:
       - id: 0f15d534-0ab0-4a37-9100-e43ea6add8a7
-        isrcs: &id001
-        - GB5KW2203252
-        - GBAHK9500311
-        - GBLGL1274297
-        - USA560745878
-        - USA560749053
-        - USDPS0610101
+        isrcs:
+        - "GB5KW2203252"
+        - "GBAHK9500311"
+        - "GBLGL1274297"
+        - "USA560745878"
+        - "USA560749053"
+        - "USDPS0610101"
         title: Space Age Love Song
         length: 227866
         video: false
@@ -31,7 +31,13 @@ trackIdData:
     - id: 3eff6db4-09a4-4626-94e5-47688d9bc425
       recordings:
       - id: 0f15d534-0ab0-4a37-9100-e43ea6add8a7
-        isrcs: *id001
+        isrcs:
+        - "GB5KW2203252"
+        - "GBAHK9500311"
+        - "GBLGL1274297"
+        - "USA560745878"
+        - "USA560749053"
+        - "USDPS0610101"
         title: Space Age Love Song
         length: 227866
         video: false

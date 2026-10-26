@@ -50,12 +50,12 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: 83c91f79-b394-487f-a884-e83941000358
-        isrcs: &id001
-        - FRZ026700280
-        - GBA076700190
-        - GBAKW6700061
-        - USRH10650347
-        - USRH10903957
+        isrcs:
+        - "FRZ026700280"
+        - "GBA076700190"
+        - "GBAKW6700061"
+        - "USRH10650347"
+        - "USRH10903957"
         title: New York Mining Disaster 1941
         length: 131000
         video: false
@@ -63,7 +63,7 @@ trackIdData:
         firstReleaseDate: 1967-07
       - id: 85077aa5-5611-41f9-8706-3539ac6dff89
         isrcs:
-        - GBAKW9800285
+        - "GBAKW9800285"
         title: New York Mining Disaster 1941
         length: 134866
         video: false
@@ -115,7 +115,12 @@ trackIdData:
         disambiguation: 'live, 1998-09-05: Wembley Stadium, London, UK'
         firstReleaseDate:
       - id: 83c91f79-b394-487f-a884-e83941000358
-        isrcs: *id001
+        isrcs:
+        - "FRZ026700280"
+        - "GBA076700190"
+        - "GBAKW6700061"
+        - "USRH10650347"
+        - "USRH10903957"
         title: New York Mining Disaster 1941
         length: 131000
         video: false

@@ -23,8 +23,8 @@ trackIdData:
           CA, USA'
         firstReleaseDate: '1979-11-25'
       - id: beb62636-d766-4719-91ca-f4c76d0eb0f9
-        isrcs: &id001
-        - GBAAN7400147
+        isrcs:
+        - "GBAAN7400147"
         title: Them Belly Full (but We Hungry)
         length: 193000
         video: false
@@ -41,7 +41,8 @@ trackIdData:
     - id: 7f199317-0d5b-4db6-9cd4-ad3d1c43c01a
       recordings:
       - id: beb62636-d766-4719-91ca-f4c76d0eb0f9
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7400147"
         title: Them Belly Full (but We Hungry)
         length: 193000
         video: false

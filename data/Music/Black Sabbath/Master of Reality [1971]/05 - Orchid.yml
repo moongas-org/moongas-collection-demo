@@ -36,9 +36,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2007'
       - id: daf1ca36-56be-430a-bb91-27e7c906d140
-        isrcs: &id001
-        - GB5KW1602011
-        - GBAJE7100086
+        isrcs:
+        - "GB5KW1602011"
+        - "GBAJE7100086"
         title: Orchid
         length: 91000
         video: false
@@ -83,7 +83,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 2024-01
       - id: daf1ca36-56be-430a-bb91-27e7c906d140
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602011"
+        - "GBAJE7100086"
         title: Orchid
         length: 91000
         video: false

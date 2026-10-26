@@ -15,8 +15,8 @@ trackIdData:
     - id: c8f34f92-d111-4910-8a8c-53a8c9b4fa8a
       recordings:
       - id: 1a8f8d3d-5189-44ab-b2e9-883e3e7abcf7
-        isrcs: &id001
-        - USSM19921963
+        isrcs:
+        - "USSM19921963"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 425893
         video: false
@@ -37,8 +37,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-06-13'
       - id: 589ec3c9-1345-40ce-b379-53288bbd1982
-        isrcs: &id002
-        - USSM19921963
+        isrcs:
+        - "USSM19921963"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 425893
         video: false
@@ -52,16 +52,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 90567658-25b3-4366-a0de-22321dff0966
-        isrcs: &id003
-        - USSM16601253
+        isrcs:
+        - "USSM16601253"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 426333
         video: false
         disambiguation: officially released stereo studio recording
         firstReleaseDate: '1966-05-16'
       - id: 92f7d6ca-3ff3-4db7-9c41-60c9456e7f9a
-        isrcs: &id004
-        - USSM11003565
+        isrcs:
+        - "USSM11003565"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 425893
         video: false
@@ -76,7 +76,7 @@ trackIdData:
         firstReleaseDate: '1989'
       - id: d6480c1c-4379-454d-a2de-eb57fca9a6fe
         isrcs:
-        - USSM19921963
+        - "USSM19921963"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 426505
         video: false
@@ -93,7 +93,8 @@ trackIdData:
     - id: 6b8aa2b1-6b64-4f82-865c-88f28e59af56
       recordings:
       - id: 1a8f8d3d-5189-44ab-b2e9-883e3e7abcf7
-        isrcs: *id001
+        isrcs:
+        - "USSM19921963"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 425893
         video: false
@@ -114,7 +115,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-06-13'
       - id: 589ec3c9-1345-40ce-b379-53288bbd1982
-        isrcs: *id002
+        isrcs:
+        - "USSM19921963"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 425893
         video: false
@@ -142,14 +144,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 90567658-25b3-4366-a0de-22321dff0966
-        isrcs: *id003
+        isrcs:
+        - "USSM16601253"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 426333
         video: false
         disambiguation: officially released stereo studio recording
         firstReleaseDate: '1966-05-16'
       - id: 92f7d6ca-3ff3-4db7-9c41-60c9456e7f9a
-        isrcs: *id004
+        isrcs:
+        - "USSM11003565"
         title: Stuck Inside of Mobile With the Memphis Blues Again
         length: 425893
         video: false

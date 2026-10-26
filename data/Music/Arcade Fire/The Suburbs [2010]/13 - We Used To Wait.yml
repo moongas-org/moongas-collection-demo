@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010'
       - id: 2312aa57-02ff-481c-afba-4ae0f7fa3ca0
-        isrcs: &id001
-        - GBUM71021644
+        isrcs:
+        - "GBUM71021644"
         title: We Used to Wait
         length: 301400
         video: false
@@ -47,7 +47,8 @@ trackIdData:
     - id: 311c46bc-89fa-4017-96ba-707b51454c43
       recordings:
       - id: 2312aa57-02ff-481c-afba-4ae0f7fa3ca0
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021644"
         title: We Used to Wait
         length: 301400
         video: false

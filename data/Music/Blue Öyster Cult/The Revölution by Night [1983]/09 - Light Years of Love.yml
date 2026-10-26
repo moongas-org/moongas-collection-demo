@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 50051ccf-5ceb-4800-a293-92d618705b24
-        isrcs: &id001
-        - USSM19917782
+        isrcs:
+        - "USSM19917782"
         title: Light Years of Love
         length: 244666
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: bf995f50-beac-43fa-9db7-474844b422d7
       recordings:
       - id: 50051ccf-5ceb-4800-a293-92d618705b24
-        isrcs: *id001
+        isrcs:
+        - "USSM19917782"
         title: Light Years of Love
         length: 244666
         video: false
@@ -43,7 +44,8 @@ trackIdData:
     - id: 2ec52bc8-2225-4504-b607-46ede19f9f1d
       recordings:
       - id: 50051ccf-5ceb-4800-a293-92d618705b24
-        isrcs: *id001
+        isrcs:
+        - "USSM19917782"
         title: Light Years of Love
         length: 244666
         video: false

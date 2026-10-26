@@ -15,8 +15,8 @@ trackIdData:
     - id: 55315d49-443b-4b0d-b97a-946f0c7d6cfd
       recordings:
       - id: 2059a15e-b725-446b-be40-e92529e1fed0
-        isrcs: &id001
-        - GBPVV2400038
+        isrcs:
+        - "GBPVV2400038"
         title: Skeleton
         length: 196000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 36ed8e7a-d10e-4f8c-b9c2-671d230f7d89
       recordings:
       - id: 2059a15e-b725-446b-be40-e92529e1fed0
-        isrcs: *id001
+        isrcs:
+        - "GBPVV2400038"
         title: Skeleton
         length: 196000
         video: false

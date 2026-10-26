@@ -15,8 +15,8 @@ trackIdData:
     - id: 361d5341-1865-4777-8493-b6b1b33db2be
       recordings:
       - id: 9422fcd2-1fd5-432a-bb59-00a4575b2490
-        isrcs: &id001
-        - USCA29201549
+        isrcs:
+        - "USCA29201549"
         title: Eve of Reality
         length: 102640
         video: false
@@ -33,7 +33,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1993-03-03'
       - id: 9422fcd2-1fd5-432a-bb59-00a4575b2490
-        isrcs: *id001
+        isrcs:
+        - "USCA29201549"
         title: Eve of Reality
         length: 102640
         video: false

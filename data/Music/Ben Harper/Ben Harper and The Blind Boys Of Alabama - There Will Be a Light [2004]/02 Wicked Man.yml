@@ -15,8 +15,8 @@ trackIdData:
     - id: 7036ae4b-1ba9-4176-b682-5d18da907ea8
       recordings:
       - id: 088cef11-324d-454e-a38e-6b1613538c67
-        isrcs: &id001
-        - USVI20400263
+        isrcs:
+        - "USVI20400263"
         title: Wicked Man
         length: 213133
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 9a760d17-76bf-4047-9be8-996e2f29415e
       recordings:
       - id: 088cef11-324d-454e-a38e-6b1613538c67
-        isrcs: *id001
+        isrcs:
+        - "USVI20400263"
         title: Wicked Man
         length: 213133
         video: false

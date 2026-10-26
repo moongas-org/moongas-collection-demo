@@ -15,8 +15,8 @@ trackIdData:
     - id: 3efb4447-019b-4b3c-ad90-843629bbe2fd
       recordings:
       - id: 45bc061f-5dcd-4f9b-9772-5bff9646586d
-        isrcs: &id001
-        - USSM10017651
+        isrcs:
+        - "USSM10017651"
         title: Fire of Unknown Origin
         length: 251093
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 803afeba-762c-449c-b4cb-7f7810cdf729
       recordings:
       - id: 45bc061f-5dcd-4f9b-9772-5bff9646586d
-        isrcs: *id001
+        isrcs:
+        - "USSM10017651"
         title: Fire of Unknown Origin
         length: 251093
         video: false

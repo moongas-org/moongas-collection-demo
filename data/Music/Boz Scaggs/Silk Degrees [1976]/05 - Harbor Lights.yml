@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2009-08-20'
       - id: 55184cdf-1b12-4311-bfc0-3aef04672067
-        isrcs: &id001
-        - USSM17500263
-        - USSM17500566
+        isrcs:
+        - "USSM17500263"
+        - "USSM17500566"
         title: Harbor Lights
         length: 358933
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: 34dc98a2-3434-475c-aa44-fd17a309bdc1
       recordings:
       - id: 55184cdf-1b12-4311-bfc0-3aef04672067
-        isrcs: *id001
+        isrcs:
+        - "USSM17500263"
+        - "USSM17500566"
         title: Harbor Lights
         length: 358933
         video: false
@@ -44,7 +46,9 @@ trackIdData:
     - id: a30d24d0-5210-4941-8340-eec348446b00
       recordings:
       - id: 55184cdf-1b12-4311-bfc0-3aef04672067
-        isrcs: *id001
+        isrcs:
+        - "USSM17500263"
+        - "USSM17500566"
         title: Harbor Lights
         length: 358933
         video: false

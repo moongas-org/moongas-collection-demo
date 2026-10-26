@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1991-09-23'
       - id: 35a87f34-f0b1-4787-ad6b-5b0b02d4ce79
-        isrcs: &id001
-        - USJI10300163
+        isrcs:
+        - "USJI10300163"
         title: Sucka Nigga
         length: 245613
         video: false
@@ -31,7 +31,7 @@ trackIdData:
         firstReleaseDate: '1993-11-09'
       - id: 5bfd86b6-5e42-4d7c-a202-c8d1a3623f59
         isrcs:
-        - USJI19810394
+        - "USJI19810394"
         title: Jazz (We’ve Got) (re‐recording radio)
         length: 259000
         video: false
@@ -67,7 +67,7 @@ trackIdData:
         firstReleaseDate: '1992'
       - id: b97521f1-d290-4a4f-a9a1-488646764e82
         isrcs:
-        - USJI19810394
+        - "USJI19810394"
         title: Jazz (We’ve Got) (re‐recording)
         length: 260390
         video: false
@@ -75,7 +75,7 @@ trackIdData:
         firstReleaseDate: '2021-09-23'
       - id: e1603c1f-c03e-4d5d-9232-f5092a3c9144
         isrcs:
-        - USJI19100004
+        - "USJI19100004"
         title: Jazz (We’ve Got)
         length: 250226
         video: false
@@ -90,7 +90,7 @@ trackIdData:
         firstReleaseDate: '2004'
       - id: f439450e-51f2-4695-8689-72aeef32e213
         isrcs:
-        - USJI10400710
+        - "USJI10400710"
         title: Jazz (We’ve Got) (re‐recording radio)
         length: 260290
         video: false
@@ -100,7 +100,8 @@ trackIdData:
     - id: a04858fc-41ce-4083-bf73-9aa77f8a61bb
       recordings:
       - id: 35a87f34-f0b1-4787-ad6b-5b0b02d4ce79
-        isrcs: *id001
+        isrcs:
+        - "USJI10300163"
         title: Sucka Nigga
         length: 245613
         video: false

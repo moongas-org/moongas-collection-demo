@@ -15,8 +15,8 @@ trackIdData:
     - id: 47578d4d-6cb7-4807-a3c1-02480ef48550
       recordings:
       - id: 267f443d-e32a-4e01-9f80-54b5ecc5e05b
-        isrcs: &id001
-        - GBBPW0700213
+        isrcs:
+        - "GBBPW0700213"
         title: Fol3
         length: 227120
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 43d19387-f790-4661-befb-c32e4cd95134
       recordings:
       - id: 267f443d-e32a-4e01-9f80-54b5ecc5e05b
-        isrcs: *id001
+        isrcs:
+        - "GBBPW0700213"
         title: Fol3
         length: 227120
         video: false

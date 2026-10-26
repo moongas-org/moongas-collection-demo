@@ -43,8 +43,8 @@ trackIdData:
         disambiguation: 'live, 2007-02-08: Paradiso, Amsterdam, Netherlands'
         firstReleaseDate: '2007'
       - id: 8f3461f5-6833-44a6-b705-1b65ef610102
-        isrcs: &id001
-        - GBUM70604696
+        isrcs:
+        - "GBUM70604696"
         title: Just Friends
         length: 193306
         video: false
@@ -52,8 +52,8 @@ trackIdData:
         firstReleaseDate: '2006-10-30'
       - id: bf6b8532-f1b9-41d6-8295-2fa3ed81ab12
         isrcs:
-        - BE24A0700001
-        - BEF240700001
+        - "BE24A0700001"
+        - "BEF240700001"
         title: Candy on the Dancefloor (radio mix)
         length: 169000
         video: false
@@ -61,7 +61,7 @@ trackIdData:
         firstReleaseDate: '2007-09-28'
       - id: ff40ae51-7494-4987-b457-9635cf0e44c7
         isrcs:
-        - GBUM70700413
+        - "GBUM70700413"
         title: Just Friends
         length: 193306
         video: false
@@ -78,7 +78,8 @@ trackIdData:
         disambiguation: 'live, 2007-02-08: Paradiso, Amsterdam, Netherlands'
         firstReleaseDate: '2007'
       - id: 8f3461f5-6833-44a6-b705-1b65ef610102
-        isrcs: *id001
+        isrcs:
+        - "GBUM70604696"
         title: Just Friends
         length: 193306
         video: false

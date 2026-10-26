@@ -15,8 +15,8 @@ trackIdData:
     - id: a7800fe7-6495-41f3-b6a5-7cdc4a03755b
       recordings:
       - id: d029fb1d-bb7c-429d-90fc-01abd0037e22
-        isrcs: &id001
-        - USCA29201548
+        isrcs:
+        - "USCA29201548"
         title: U
         length: 302360
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: ae48361c-f51c-4d7e-9c40-fd3235feafc6
       recordings:
       - id: d029fb1d-bb7c-429d-90fc-01abd0037e22
-        isrcs: *id001
+        isrcs:
+        - "USCA29201548"
         title: U
         length: 302360
         video: false

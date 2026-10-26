@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 85d0dbd2-c2bc-49d6-9cc6-d64808ef3575
         isrcs:
-        - GBCEL0900452
+        - "GBCEL0900452"
         title: Red Right Hand
         length: 259000
         video: false
         disambiguation: B-side
         firstReleaseDate: '2009-08-16'
       - id: 8dee0224-bcf9-4023-a805-9562bafd3450
-        isrcs: &id001
-        - GBCEL0700074
+        isrcs:
+        - "GBCEL0700074"
         title: '505'
         length: 253000
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 474ff561-b738-4c56-bb7f-e672e64362fc
       recordings:
       - id: 8dee0224-bcf9-4023-a805-9562bafd3450
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0700074"
         title: '505'
         length: 253000
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 5dd9b02e-3ec2-4f6b-bef4-11083cf0f760
       recordings:
       - id: cab0362a-7df6-42d1-abd8-e72c53ff349c
-        isrcs: &id001
-        - DEN060000172
+        isrcs:
+        - "DEN060000172"
         title: First Love
         length: 382000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: d0c0c817-32ea-488a-9e12-91cf90c7c7b3
       recordings:
       - id: cab0362a-7df6-42d1-abd8-e72c53ff349c
-        isrcs: *id001
+        isrcs:
+        - "DEN060000172"
         title: First Love
         length: 382000
         video: false

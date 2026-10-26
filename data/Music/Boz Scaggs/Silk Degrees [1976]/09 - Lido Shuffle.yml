@@ -15,10 +15,10 @@ trackIdData:
     - id: 4af70b00-1918-4f7f-ab99-744cb527f34f
       recordings:
       - id: 1c1f6f78-d1e3-47ef-86b4-ce107256d7fc
-        isrcs: &id001
-        - USSM17500265
-        - USSM17500569
-        - USSM17600939
+        isrcs:
+        - "USSM17500265"
+        - "USSM17500569"
+        - "USSM17600939"
         title: Lido Shuffle
         length: 221893
         video: false
@@ -28,7 +28,10 @@ trackIdData:
     - id: a8f40558-8085-4846-9e96-87849be6d13d
       recordings:
       - id: 1c1f6f78-d1e3-47ef-86b4-ce107256d7fc
-        isrcs: *id001
+        isrcs:
+        - "USSM17500265"
+        - "USSM17500569"
+        - "USSM17600939"
         title: Lido Shuffle
         length: 221893
         video: false
@@ -36,12 +39,12 @@ trackIdData:
         firstReleaseDate: '1976-02-18'
       - id: 59efbd7c-f36c-4cc9-8956-bfa065261fe0
         isrcs:
-        - USSM10021547
-        - USSM10028174
-        - USSM17200181
-        - USSM17200444
-        - USSM17200555
-        - USSMI7200181
+        - "USSM10021547"
+        - "USSM10028174"
+        - "USSM17200181"
+        - "USSM17200444"
+        - "USSM17200555"
+        - "USSMI7200181"
         title: All the Young Dudes
         length: 211000
         video: false
@@ -79,7 +82,10 @@ trackIdData:
     - id: c9a618a6-c20f-451f-bba6-453e0254e4fc
       recordings:
       - id: 1c1f6f78-d1e3-47ef-86b4-ce107256d7fc
-        isrcs: *id001
+        isrcs:
+        - "USSM17500265"
+        - "USSM17500569"
+        - "USSM17600939"
         title: Lido Shuffle
         length: 221893
         video: false
@@ -96,7 +102,10 @@ trackIdData:
     - id: efa0e447-5ca1-429b-9538-856c51e0e1a2
       recordings:
       - id: 1c1f6f78-d1e3-47ef-86b4-ce107256d7fc
-        isrcs: *id001
+        isrcs:
+        - "USSM17500265"
+        - "USSM17500569"
+        - "USSM17600939"
         title: Lido Shuffle
         length: 221893
         video: false

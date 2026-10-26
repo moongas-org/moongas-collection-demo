@@ -37,15 +37,15 @@ trackIdData:
         firstReleaseDate: '1991'
       - id: 4c42a52f-de64-428f-b21d-6bf10553feb3
         isrcs:
-        - USIR20200005
+        - "USIR20200005"
         title: Jamming
         length: 200000
         video: false
         disambiguation: remixed in 1984 by Eric “E.T.” Thorngren
         firstReleaseDate: '2002-01-01'
       - id: 60962159-1957-4337-bd84-ac847fb23403
-        isrcs: &id002
-        - USIR20200005
+        isrcs:
+        - "USIR20200005"
         title: Jamming
         length: 197733
         video: false
@@ -73,9 +73,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1984'
       - id: 755ea925-c364-4e59-b21f-8d0f4f73f821
-        isrcs: &id001
-        - GBAAN7790005
-        - USIR27700013
+        isrcs:
+        - "GBAAN7790005"
+        - "USIR27700013"
         title: Jamming
         length: 211133
         video: false
@@ -132,7 +132,7 @@ trackIdData:
         firstReleaseDate: '1999'
       - id: d377d993-c39b-4ecd-b0ae-361039d348e6
         isrcs:
-        - USIR27700013
+        - "USIR27700013"
         title: Jamming
         length: 212117
         video: false
@@ -140,7 +140,7 @@ trackIdData:
         firstReleaseDate: '2024-02-09'
       - id: d7a3a2c6-8ae9-4855-90ba-144f5ebf2994
         isrcs:
-        - USUM71701384
+        - "USUM71701384"
         title: Jamming
         length: 211000
         video: false
@@ -173,16 +173,18 @@ trackIdData:
       recordings:
       - id: 5a80bd9b-4d50-4329-a392-005e9b4be48f
         isrcs:
-        - USMO10000523
-        - USMO17100041
-        - USMO19290028
+        - "USMO10000523"
+        - "USMO17100041"
+        - "USMO19290028"
         title: What’s Going On
         length: 233000
         video: false
         disambiguation: original LP version
         firstReleaseDate: '1971-05-20'
       - id: 755ea925-c364-4e59-b21f-8d0f4f73f821
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7790005"
+        - "USIR27700013"
         title: Jamming
         length: 211133
         video: false
@@ -199,14 +201,17 @@ trackIdData:
     - id: 4ab9e4c1-c41e-447e-9eef-35aa7202c4be
       recordings:
       - id: 60962159-1957-4337-bd84-ac847fb23403
-        isrcs: *id002
+        isrcs:
+        - "USIR20200005"
         title: Jamming
         length: 197733
         video: false
         disambiguation: 7” edit
         firstReleaseDate: '1984-05-08'
       - id: 755ea925-c364-4e59-b21f-8d0f4f73f821
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7790005"
+        - "USIR27700013"
         title: Jamming
         length: 211133
         video: false

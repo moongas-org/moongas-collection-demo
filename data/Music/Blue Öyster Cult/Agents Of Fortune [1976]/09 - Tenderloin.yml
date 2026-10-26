@@ -15,8 +15,8 @@ trackIdData:
     - id: b086556c-77d4-470e-8d28-ef5f65397d15
       recordings:
       - id: 647816f7-aeb3-47c3-913b-c492bdc5b030
-        isrcs: &id001
-        - USSM17600769
+        isrcs:
+        - "USSM17600769"
         title: Tenderloin
         length: 220000
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '2001-06-26'
       - id: 9405e3f7-d44b-49de-b5d3-9fafc6ff61c7
         isrcs:
-        - ITG272000243
+        - "ITG272000243"
         title: Tenderloin
         length: 228944
         video: false
@@ -41,7 +41,8 @@ trackIdData:
     - id: 3082d75e-3ceb-47f6-9fcc-3ca983131477
       recordings:
       - id: 647816f7-aeb3-47c3-913b-c492bdc5b030
-        isrcs: *id001
+        isrcs:
+        - "USSM17600769"
         title: Tenderloin
         length: 220000
         video: false

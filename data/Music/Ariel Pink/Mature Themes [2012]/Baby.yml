@@ -15,8 +15,8 @@ trackIdData:
     - id: 93ea810a-8118-44d6-9f69-325b6fea4f13
       recordings:
       - id: ffec11c2-80bf-4e92-a63d-07bd76f5568e
-        isrcs: &id001
-        - GBAFL1200184
+        isrcs:
+        - "GBAFL1200184"
         title: Baby
         length: 287000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 558ec4da-b32f-4ef7-8962-a6fd274a977d
       recordings:
       - id: ffec11c2-80bf-4e92-a63d-07bd76f5568e
-        isrcs: *id001
+        isrcs:
+        - "GBAFL1200184"
         title: Baby
         length: 287000
         video: false

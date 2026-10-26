@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 879bfbf4-d085-4df9-b34d-8ccd9d94661e
         isrcs:
-        - GBBLY8200188
+        - "GBBLY8200188"
         title: Some Things Don’t Matter
         length: 260933
         video: false
         disambiguation: ''
         firstReleaseDate: 1982-12
       - id: e246bded-fee0-4997-9a01-ada099539715
-        isrcs: &id001
-        - USSUB0774504
+        isrcs:
+        - "USSUB0774504"
         title: Detlef Schrempf
         length: 268480
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 0a57a505-32f0-4fb4-8ef0-8e3b9c6446d2
       recordings:
       - id: e246bded-fee0-4997-9a01-ada099539715
-        isrcs: *id001
+        isrcs:
+        - "USSUB0774504"
         title: Detlef Schrempf
         length: 268480
         video: false

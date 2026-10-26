@@ -15,8 +15,8 @@ trackIdData:
     - id: 203fe6d9-1f48-4009-ae2b-636fc4602b50
       recordings:
       - id: fe781775-4723-4566-947d-8e0258c351a0
-        isrcs: &id001
-        - USSI10100107
+        isrcs:
+        - "USSI10100107"
         title: Start as You Mean to Go On
         length: 365373
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: b0afcb0b-21ba-463c-a68b-b4dbbcb781ea
       recordings:
       - id: fe781775-4723-4566-947d-8e0258c351a0
-        isrcs: *id001
+        isrcs:
+        - "USSI10100107"
         title: Start as You Mean to Go On
         length: 365373
         video: false

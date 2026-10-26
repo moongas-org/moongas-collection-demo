@@ -15,8 +15,8 @@ trackIdData:
     - id: 640c5818-41cb-4d2a-8646-d2d008beac41
       recordings:
       - id: 624230fd-1441-4722-93db-093b68f28338
-        isrcs: &id001
-        - USJI10300407
+        isrcs:
+        - "USJI10300407"
         title: 8 Million Stories
         length: 261866
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 57f73b4f-917d-499d-8ebf-11a29ef06caf
       recordings:
       - id: 624230fd-1441-4722-93db-093b68f28338
-        isrcs: *id001
+        isrcs:
+        - "USJI10300407"
         title: 8 Million Stories
         length: 261866
         video: false

@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: 'live, 1999-04-19: Nakano Sun-Plaza, Tokyo, Japan'
         firstReleaseDate: '1999'
       - id: b218b076-2ac7-476f-a749-ff0a774f10b1
-        isrcs: &id001
-        - USGF19682301
+        isrcs:
+        - "USGF19682301"
         title: Devils Haircut
         length: 194226
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 563ebdf9-efd0-4662-a4cd-a145dc50a54e
       recordings:
       - id: b218b076-2ac7-476f-a749-ff0a774f10b1
-        isrcs: *id001
+        isrcs:
+        - "USGF19682301"
         title: Devils Haircut
         length: 194226
         video: false
@@ -50,7 +51,8 @@ trackIdData:
     - id: 10438cfe-5cd8-4cba-adf9-a40580fe308b
       recordings:
       - id: b218b076-2ac7-476f-a749-ff0a774f10b1
-        isrcs: *id001
+        isrcs:
+        - "USGF19682301"
         title: Devils Haircut
         length: 194226
         video: false

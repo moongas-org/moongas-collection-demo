@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 59c4027f-9aec-4f1a-b713-e2773bd8fca0
         isrcs:
-        - QMEJX0900044
+        - "QMEJX0900044"
         title: Rose
         length: 225986
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '2013-11-26'
       - id: 688cb61f-c204-496f-b339-02e227d32a09
         isrcs:
-        - USAR28601029
+        - "USAR28601029"
         title: Lo, How a Rose E'er Blooming
         length: 207000
         video: false
@@ -45,17 +45,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: d6ce0a24-0195-49a9-9860-95a65461bb4a
-        isrcs: &id001
-        - USVI20000046
+        isrcs:
+        - "USVI20000046"
         title: Rose
         length: 206000
         video: false
         disambiguation: ''
         firstReleaseDate: '2000-05-23'
       - id: ed781db6-5a47-4dd3-91bc-ce604aa204d2
-        isrcs: &id002
-        - QMEJX1300003
-        - USVI20000046
+        isrcs:
+        - "QMEJX1300003"
+        - "USVI20000046"
         title: Rose
         length: 206000
         video: false
@@ -63,7 +63,7 @@ trackIdData:
         firstReleaseDate: '2000-05-23'
       - id: ffa203d3-9e5f-4226-9ef7-e606c740cff2
         isrcs:
-        - USUM71314646
+        - "USUM71314646"
         title: Rose - Commentary
         length: 132000
         video: false
@@ -73,14 +73,17 @@ trackIdData:
     - id: 0fe982d1-7a8d-422a-a8bc-811825f475c8
       recordings:
       - id: d6ce0a24-0195-49a9-9860-95a65461bb4a
-        isrcs: *id001
+        isrcs:
+        - "USVI20000046"
         title: Rose
         length: 206000
         video: false
         disambiguation: ''
         firstReleaseDate: '2000-05-23'
       - id: ed781db6-5a47-4dd3-91bc-ce604aa204d2
-        isrcs: *id002
+        isrcs:
+        - "QMEJX1300003"
+        - "USVI20000046"
         title: Rose
         length: 206000
         video: false

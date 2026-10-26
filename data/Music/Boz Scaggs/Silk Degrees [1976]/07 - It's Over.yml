@@ -15,9 +15,9 @@ trackIdData:
     - id: a4f25250-20b8-4c9c-abfa-1ca7586f0d7b
       recordings:
       - id: 1a12f80f-b366-400f-a3c8-18060de6fb87
-        isrcs: &id001
-        - USSM17500262
-        - USSM17500567
+        isrcs:
+        - "USSM17500262"
+        - "USSM17500567"
         title: It’s Over
         length: 171680
         video: false
@@ -29,7 +29,9 @@ trackIdData:
     - id: 834b4ea8-8c28-4a01-a58a-aa1abbdb5a13
       recordings:
       - id: 1a12f80f-b366-400f-a3c8-18060de6fb87
-        isrcs: *id001
+        isrcs:
+        - "USSM17500262"
+        - "USSM17500567"
         title: It’s Over
         length: 171680
         video: false

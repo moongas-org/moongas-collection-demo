@@ -16,11 +16,11 @@ trackIdData:
       recordings:
       - id: 04eb924d-39eb-4114-a23b-4fb4775e2d4d
         isrcs:
-        - USCA28000082
-        - USCH30100019
-        - USCH38000024
-        - USCH38900009
-        - USCH39800019
+        - "USCA28000082"
+        - "USCH30100019"
+        - "USCH38000024"
+        - "USCH38900009"
+        - "USCH39800019"
         title: The Tide Is High
         length: 231093
         video: false
@@ -34,12 +34,12 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2013-08-26'
       - id: 3a4ed83a-7fde-43a9-ba41-97237a90a04f
-        isrcs: &id001
-        - GBAAA0900051
-        - GBAAA8700010
-        - GBBLG8500257
-        - UCMC18723313
-        - USMC18723313
+        isrcs:
+        - "GBAAA0900051"
+        - "GBAAA8700010"
+        - "GBBLG8500257"
+        - "UCMC18723313"
+        - "USMC18723313"
         title: Heaven Is a Place on Earth
         length: 245000
         video: false
@@ -77,7 +77,12 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2013-08-26'
       - id: 3a4ed83a-7fde-43a9-ba41-97237a90a04f
-        isrcs: *id001
+        isrcs:
+        - "GBAAA0900051"
+        - "GBAAA8700010"
+        - "GBBLG8500257"
+        - "UCMC18723313"
+        - "USMC18723313"
         title: Heaven Is a Place on Earth
         length: 245000
         video: false
@@ -85,7 +90,7 @@ trackIdData:
         firstReleaseDate: '1987-09-21'
       - id: 5e18808d-ac4d-42cf-8136-f160fca41c27
         isrcs:
-        - GBBLG8700257
+        - "GBBLG8700257"
         title: Heaven Is a Place on Earth (promo 7″ edit)
         length: 234000
         video: false
@@ -100,9 +105,9 @@ trackIdData:
         firstReleaseDate: '2015-08-21'
       - id: b26a4d55-91a6-43a6-93f6-67c65627fb9a
         isrcs:
-        - ITD011500057
-        - ITM000102883
-        - ITMOO0102883
+        - "ITD011500057"
+        - "ITM000102883"
+        - "ITMOO0102883"
         title: Call Me
         length: 245440
         video: false
@@ -117,11 +122,11 @@ trackIdData:
         firstReleaseDate: '2006-10-10'
       - id: db7836b8-1fd6-4ca5-9924-c87c3921f23e
         isrcs:
-        - FR6V81865671
-        - GBAYE7200258
-        - GBDXG0600141
-        - GBDXG0600241
-        - USWB10808449
+        - "FR6V81865671"
+        - "GBAYE7200258"
+        - "GBDXG0600141"
+        - "GBDXG0600241"
+        - "USWB10808449"
         title: Smoke on the Water
         length: 227000
         video: false
@@ -152,7 +157,12 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2007'
       - id: 3a4ed83a-7fde-43a9-ba41-97237a90a04f
-        isrcs: *id001
+        isrcs:
+        - "GBAAA0900051"
+        - "GBAAA8700010"
+        - "GBBLG8500257"
+        - "UCMC18723313"
+        - "USMC18723313"
         title: Heaven Is a Place on Earth
         length: 245000
         video: false

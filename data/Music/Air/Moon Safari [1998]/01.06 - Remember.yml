@@ -15,8 +15,8 @@ trackIdData:
     - id: 4978a98d-dd5d-4db7-8cf2-3cff7b1630a6
       recordings:
       - id: 1f21c40d-6e29-4c67-a5c9-fa50aa59b3e7
-        isrcs: &id001
-        - FRS639700600
+        isrcs:
+        - "FRS639700600"
         title: Remember
         length: 154293
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: b0439425-83a3-4fe1-b1c8-cee7294d04bf
       recordings:
       - id: 1f21c40d-6e29-4c67-a5c9-fa50aa59b3e7
-        isrcs: *id001
+        isrcs:
+        - "FRS639700600"
         title: Remember
         length: 154293
         video: false

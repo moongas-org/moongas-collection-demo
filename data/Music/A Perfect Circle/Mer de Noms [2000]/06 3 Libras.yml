@@ -37,9 +37,9 @@ trackIdData:
         disambiguation: 'live, 2001‐03‐31: Roy Wilkins Auditorium, St. Paul, MN, USA'
         firstReleaseDate:
       - id: 65ef8004-09b3-4280-be38-87039df9d2cb
-        isrcs: &id001
-        - QMEJX1300007
-        - USVI20000049
+        isrcs:
+        - "QMEJX1300007"
+        - "USVI20000049"
         title: 3 Libras
         length: 218000
         video: false
@@ -93,7 +93,9 @@ trackIdData:
     - id: 9b678b90-f2f8-4abe-82b6-59310f168bff
       recordings:
       - id: 65ef8004-09b3-4280-be38-87039df9d2cb
-        isrcs: *id001
+        isrcs:
+        - "QMEJX1300007"
+        - "USVI20000049"
         title: 3 Libras
         length: 218000
         video: false
@@ -103,7 +105,9 @@ trackIdData:
     - id: feca9786-10a4-44d9-b0ac-b8495aee0363
       recordings:
       - id: 65ef8004-09b3-4280-be38-87039df9d2cb
-        isrcs: *id001
+        isrcs:
+        - "QMEJX1300007"
+        - "USVI20000049"
         title: 3 Libras
         length: 218000
         video: false
@@ -114,8 +118,8 @@ trackIdData:
       recordings:
       - id: ed781db6-5a47-4dd3-91bc-ce604aa204d2
         isrcs:
-        - QMEJX1300003
-        - USVI20000046
+        - "QMEJX1300003"
+        - "USVI20000046"
         title: Rose
         length: 206000
         video: false

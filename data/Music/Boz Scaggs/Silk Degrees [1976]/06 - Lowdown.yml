@@ -37,9 +37,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1997'
       - id: f58c7a9c-c98e-4813-bd59-82c51b86c18a
-        isrcs: &id001
-        - USSM17500264
-        - USSM17500295
+        isrcs:
+        - "USSM17500264"
+        - "USSM17500295"
         title: Lowdown
         length: 317000
         video: false
@@ -57,7 +57,9 @@ trackIdData:
           DJ-mix
         firstReleaseDate: '2012-06-11'
       - id: f58c7a9c-c98e-4813-bd59-82c51b86c18a
-        isrcs: *id001
+        isrcs:
+        - "USSM17500264"
+        - "USSM17500295"
         title: Lowdown
         length: 317000
         video: false
@@ -74,7 +76,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010-06-02'
       - id: f58c7a9c-c98e-4813-bd59-82c51b86c18a
-        isrcs: *id001
+        isrcs:
+        - "USSM17500264"
+        - "USSM17500295"
         title: Lowdown
         length: 317000
         video: false

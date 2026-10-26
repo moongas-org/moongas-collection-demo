@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 2b245a2f-5ab0-476d-b89f-4bc5319ce15c
         isrcs:
-        - USEW17400003
+        - "USEW17400003"
         title: Deal With the Preacher
         length: 303600
         video: false
@@ -30,9 +30,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005'
       - id: beafc22e-56a8-4846-a886-2ead8927501a
-        isrcs: &id001
-        - USAT21405163
-        - USEW17300003
+        isrcs:
+        - "USAT21405163"
+        - "USEW17300003"
         title: Bad Company
         length: 290226
         video: false
@@ -42,7 +42,9 @@ trackIdData:
     - id: e27c4f15-5580-4d2c-bc3e-855917eaf0d1
       recordings:
       - id: beafc22e-56a8-4846-a886-2ead8927501a
-        isrcs: *id001
+        isrcs:
+        - "USAT21405163"
+        - "USEW17300003"
         title: Bad Company
         length: 290226
         video: false
@@ -52,7 +54,9 @@ trackIdData:
     - id: 0086b79f-0bc8-40da-89ff-76c82f00ab3b
       recordings:
       - id: beafc22e-56a8-4846-a886-2ead8927501a
-        isrcs: *id001
+        isrcs:
+        - "USAT21405163"
+        - "USEW17300003"
         title: Bad Company
         length: 290226
         video: false

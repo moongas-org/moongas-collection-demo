@@ -15,8 +15,8 @@ trackIdData:
     - id: 29077cba-baaf-4645-94eb-13743b70a7d3
       recordings:
       - id: d8786d03-8c77-419e-bcf4-fd766e9c137d
-        isrcs: &id001
-        - GBCEL0501186
+        isrcs:
+        - "GBCEL0501186"
         title: Riot Van
         length: 134933
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 8ce51d60-b40a-42fb-a89a-a64690b3bde3
       recordings:
       - id: d8786d03-8c77-419e-bcf4-fd766e9c137d
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0501186"
         title: Riot Van
         length: 134933
         video: false

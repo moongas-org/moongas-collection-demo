@@ -15,8 +15,8 @@ trackIdData:
     - id: 8e9a54ca-b3a1-4ded-bd45-cb7058cbd695
       recordings:
       - id: 0d6dc2c1-fe43-45ba-abde-ecff2ba7ec76
-        isrcs: &id001
-        - GBAYC8804146
+        isrcs:
+        - "GBAYC8804146"
         title: 'Symphony no. 5 in C minor, op. 67: I. Allegro con brio'
         length: 392693
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: d530bc40-a2d8-45b5-be3e-d4d5a716c267
       recordings:
       - id: 0d6dc2c1-fe43-45ba-abde-ecff2ba7ec76
-        isrcs: *id001
+        isrcs:
+        - "GBAYC8804146"
         title: 'Symphony no. 5 in C minor, op. 67: I. Allegro con brio'
         length: 392693
         video: false

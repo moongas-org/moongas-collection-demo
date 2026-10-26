@@ -15,8 +15,8 @@ trackIdData:
     - id: 59d4d31a-8a56-499c-a974-79ea74d048c5
       recordings:
       - id: 81f39d84-b0c6-45ac-9607-e0e33ae6245a
-        isrcs: &id001
-        - USSM19917722
+        isrcs:
+        - "USSM19917722"
         title: Death Valley Nights
         length: 248640
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: a123cbb7-3616-4742-86a0-0acc65e00b85
       recordings:
       - id: 81f39d84-b0c6-45ac-9607-e0e33ae6245a
-        isrcs: *id001
+        isrcs:
+        - "USSM19917722"
         title: Death Valley Nights
         length: 248640
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: 547907dd-0f62-49a6-bb72-077b2d160c9c
       recordings:
       - id: 81f39d84-b0c6-45ac-9607-e0e33ae6245a
-        isrcs: *id001
+        isrcs:
+        - "USSM19917722"
         title: Death Valley Nights
         length: 248640
         video: false

@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 0c2f7f98-10dd-4cd1-a8a9-621f99b54f08
         isrcs:
-        - USSM10103014
+        - "USSM10103014"
         title: O.D.’d on Life Itself (live)
         length: 292640
         video: false
@@ -24,15 +24,15 @@ trackIdData:
         firstReleaseDate: '2001-06-26'
       - id: 24014e10-99bb-432f-889e-7958dba91318
         isrcs:
-        - ITG272000179
+        - "ITG272000179"
         title: O.D.’d on Life Itself
         length: 293000
         video: false
         disambiguation: 1994 re-recording
         firstReleaseDate: '1994-06-01'
       - id: 73cb66fa-d144-4722-823f-2fc2e8523719
-        isrcs: &id001
-        - USSM19917767
+        isrcs:
+        - "USSM19917767"
         title: O.D.’d on Life Itself
         length: 289200
         video: false
@@ -40,7 +40,7 @@ trackIdData:
         firstReleaseDate: 1973-02
       - id: 7b5f8a11-6c1f-41d9-b2c0-0d968ad7d787
         isrcs:
-        - USSM19917767
+        - "USSM19917767"
         title: O.D.’d on Life Itself
         length: 288000
         video: false
@@ -50,7 +50,8 @@ trackIdData:
     - id: a71fe1df-995b-4ef2-8bb0-4085d30d18e1
       recordings:
       - id: 73cb66fa-d144-4722-823f-2fc2e8523719
-        isrcs: *id001
+        isrcs:
+        - "USSM19917767"
         title: O.D.’d on Life Itself
         length: 289200
         video: false

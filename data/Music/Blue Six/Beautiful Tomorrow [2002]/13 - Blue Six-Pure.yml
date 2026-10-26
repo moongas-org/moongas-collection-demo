@@ -15,8 +15,8 @@ trackIdData:
     - id: 5e6695be-0ee4-4d47-95f6-56b32017250d
       recordings:
       - id: 7e6bf132-97ab-4577-a671-4716cd917f98
-        isrcs: &id001
-        - USCN39900193
+        isrcs:
+        - "USCN39900193"
         title: Pure
         length: 267000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: fdefbedd-18ea-474e-bbe9-bda443a56236
       recordings:
       - id: 7e6bf132-97ab-4577-a671-4716cd917f98
-        isrcs: *id001
+        isrcs:
+        - "USCN39900193"
         title: Pure
         length: 267000
         video: false

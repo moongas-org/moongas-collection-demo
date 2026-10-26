@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1999-09-22'
       - id: 784bdba8-67ea-429e-af66-0c6ff684e171
-        isrcs: &id001
-        - USVI29500032
+        isrcs:
+        - "USVI29500032"
         title: Burn One Down
         length: 211626
         video: false
@@ -47,7 +47,8 @@ trackIdData:
     - id: 0d4592c3-e05f-42e6-bf2a-a75aa6bd20ef
       recordings:
       - id: 784bdba8-67ea-429e-af66-0c6ff684e171
-        isrcs: *id001
+        isrcs:
+        - "USVI29500032"
         title: Burn One Down
         length: 211626
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004-05-17'
       - id: dbc4754f-d178-46b1-9bbd-ec132fca87ff
-        isrcs: &id001
-        - USSM19917735
+        isrcs:
+        - "USSM19917735"
         title: Workshop of the Telescopes
         length: 240543
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 080dd790-4a36-4452-a576-fb50a8de74c8
       recordings:
       - id: dbc4754f-d178-46b1-9bbd-ec132fca87ff
-        isrcs: *id001
+        isrcs:
+        - "USSM19917735"
         title: Workshop of the Telescopes
         length: 240543
         video: false

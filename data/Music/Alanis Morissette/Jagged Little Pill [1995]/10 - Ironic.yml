@@ -30,9 +30,9 @@ trackIdData:
         firstReleaseDate: '2007'
       - id: 0b9c5be6-0b85-447b-9c9e-3bfc357b6225
         isrcs:
-        - DEF089204330
-        - SEVJH0803412
-        - SEVJH0803808
+        - "DEF089204330"
+        - "SEVJH0803412"
+        - "SEVJH0803808"
         title: Dancer in a Daydream
         length: 220026
         video: false
@@ -46,11 +46,11 @@ trackIdData:
         disambiguation: 'live, 2004-03-16: Sessions'
         firstReleaseDate: '2004-03-16'
       - id: 245329cb-8cdb-43ba-8fe4-0b3e1aad8761
-        isrcs: &id001
-        - USMV20500296
-        - USMV21500010
-        - USMV21500045
-        - USMV29400003
+        isrcs:
+        - "USMV20500296"
+        - "USMV21500010"
+        - "USMV21500045"
+        - "USMV29400003"
         title: Ironic
         length: 228866
         video: false
@@ -58,15 +58,15 @@ trackIdData:
         firstReleaseDate: '1995-06-09'
       - id: 27f85fa1-574a-4194-bfde-e18a36d66b21
         isrcs:
-        - USMV29900180
+        - "USMV29900180"
         title: Ironic (live / unplugged)
         length: 253600
         video: false
         disambiguation: ''
         firstReleaseDate: '1999-11-23'
       - id: 390ce7cc-c953-4b67-84f5-2d766b1b507b
-        isrcs: &id002
-        - USMV22000032
+        isrcs:
+        - "USMV22000032"
         title: Ironic
         length: 227000
         video: false
@@ -125,7 +125,11 @@ trackIdData:
     - id: 9a5b20e5-e010-4142-94b2-b9158ca6a9f4
       recordings:
       - id: 245329cb-8cdb-43ba-8fe4-0b3e1aad8761
-        isrcs: *id001
+        isrcs:
+        - "USMV20500296"
+        - "USMV21500010"
+        - "USMV21500045"
+        - "USMV29400003"
         title: Ironic
         length: 228866
         video: false
@@ -142,7 +146,11 @@ trackIdData:
     - id: d0c03bed-d846-47d2-a72a-92213d8abdb1
       recordings:
       - id: 245329cb-8cdb-43ba-8fe4-0b3e1aad8761
-        isrcs: *id001
+        isrcs:
+        - "USMV20500296"
+        - "USMV21500010"
+        - "USMV21500045"
+        - "USMV29400003"
         title: Ironic
         length: 228866
         video: false
@@ -173,14 +181,19 @@ trackIdData:
     - id: 2363f3c5-e1e6-4e96-9452-519ea53006fc
       recordings:
       - id: 245329cb-8cdb-43ba-8fe4-0b3e1aad8761
-        isrcs: *id001
+        isrcs:
+        - "USMV20500296"
+        - "USMV21500010"
+        - "USMV21500045"
+        - "USMV29400003"
         title: Ironic
         length: 228866
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-06-09'
       - id: 390ce7cc-c953-4b67-84f5-2d766b1b507b
-        isrcs: *id002
+        isrcs:
+        - "USMV22000032"
         title: Ironic
         length: 227000
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: e8285281-ab2c-43b8-aeee-21d689b70812
       recordings:
       - id: 3fe4531d-c538-40aa-ab0b-fb5eb3cda5e9
-        isrcs: &id001
-        - GBBPW1300031
+        isrcs:
+        - "GBBPW1300031"
         title: Sick Times
         length: 256373
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 67057037-708c-4a64-9e0d-066bf70ed45f
       recordings:
       - id: 3fe4531d-c538-40aa-ab0b-fb5eb3cda5e9
-        isrcs: *id001
+        isrcs:
+        - "GBBPW1300031"
         title: Sick Times
         length: 256373
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: bd2e96c8-fc69-429c-96e4-b7d74753df1d
-        isrcs: &id001
-        - USSM19917778
+        isrcs:
+        - "USSM19917778"
         title: Shadow of California
         length: 310266
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 51960c73-696d-4b12-bc73-002816faf859
       recordings:
       - id: bd2e96c8-fc69-429c-96e4-b7d74753df1d
-        isrcs: *id001
+        isrcs:
+        - "USSM19917778"
         title: Shadow of California
         length: 310266
         video: false

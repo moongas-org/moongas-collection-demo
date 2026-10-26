@@ -16,8 +16,8 @@ trackIdData:
     - id: 04398199-1cba-4193-811a-5024b8e746bd
       recordings:
       - id: 05fbf2e9-5edf-449e-a275-e3d72ca1c737
-        isrcs: &id001
-        - USSM10017650
+        isrcs:
+        - "USSM10017650"
         title: We Gotta Get Out of This Place
         length: 279698
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 8ad897c6-ca25-446c-971c-ac0507624a81
       recordings:
       - id: 05fbf2e9-5edf-449e-a275-e3d72ca1c737
-        isrcs: *id001
+        isrcs:
+        - "USSM10017650"
         title: We Gotta Get Out of This Place
         length: 279698
         video: false

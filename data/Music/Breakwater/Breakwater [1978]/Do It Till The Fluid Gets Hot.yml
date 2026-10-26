@@ -15,8 +15,8 @@ trackIdData:
     - id: 5fd4b410-d5a0-4c26-95f5-4df95d632563
       recordings:
       - id: 09ac2a4d-3bad-4ef9-a66c-87b0702fab5c
-        isrcs: &id001
-        - USAR10400853
+        isrcs:
+        - "USAR10400853"
         title: Do It Till the Fluid Gets Hot
         length: 258000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: a3341ddc-3f1a-4b2f-ada8-3d0aa4a3d061
       recordings:
       - id: 09ac2a4d-3bad-4ef9-a66c-87b0702fab5c
-        isrcs: *id001
+        isrcs:
+        - "USAR10400853"
         title: Do It Till the Fluid Gets Hot
         length: 258000
         video: false

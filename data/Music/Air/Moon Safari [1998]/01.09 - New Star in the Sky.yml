@@ -15,8 +15,8 @@ trackIdData:
     - id: 39140405-9780-4617-9238-b934897b17f1
       recordings:
       - id: 062f1c9f-564c-4eb7-9baf-b8944cd17ad3
-        isrcs: &id001
-        - FRS639700630
+        isrcs:
+        - "FRS639700630"
         title: New Star in the Sky
         length: 340600
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 88c48795-65e6-4d59-abc8-bc8ced67d8cb
       recordings:
       - id: 062f1c9f-564c-4eb7-9baf-b8944cd17ad3
-        isrcs: *id001
+        isrcs:
+        - "FRS639700630"
         title: New Star in the Sky
         length: 340600
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: 5b366160-1327-4d05-804a-3c016141aeba
       recordings:
       - id: 062f1c9f-564c-4eb7-9baf-b8944cd17ad3
-        isrcs: *id001
+        isrcs:
+        - "FRS639700630"
         title: New Star in the Sky
         length: 340600
         video: false

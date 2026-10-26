@@ -15,8 +15,8 @@ trackIdData:
     - id: 590e9dc9-a0d7-4bc6-8856-fcc266c62131
       recordings:
       - id: 57f7f4a8-12ef-44e2-8527-db47f09889fd
-        isrcs: &id001
-        - GBCEL0800817
+        isrcs:
+        - "GBCEL0800817"
         title: Lion in a Coma
         length: 252000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 150851f4-8a01-4421-adc0-d27f90eb5154
       recordings:
       - id: 57f7f4a8-12ef-44e2-8527-db47f09889fd
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0800817"
         title: Lion in a Coma
         length: 252000
         video: false

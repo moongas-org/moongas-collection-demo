@@ -15,8 +15,8 @@ trackIdData:
     - id: 0018d494-edaf-4ca2-b90d-3a50e249f901
       recordings:
       - id: 3b0122f2-3f7b-4ec3-be4d-1a9b569cc4bd
-        isrcs: &id001
-        - USSM17300841
+        isrcs:
+        - "USSM17300841"
         title: Flaming Telepaths
         length: 319733
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 60b8b3ff-2b05-4177-825b-d101db0b4ace
       recordings:
       - id: 3b0122f2-3f7b-4ec3-be4d-1a9b569cc4bd
-        isrcs: *id001
+        isrcs:
+        - "USSM17300841"
         title: Flaming Telepaths
         length: 319733
         video: false

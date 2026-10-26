@@ -50,8 +50,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1988'
       - id: 53b100bc-1f2d-475c-8535-197a2ff49967
-        isrcs: &id001
-        - USIV30300214
+        isrcs:
+        - "USIV30300214"
         title: Livin’ on a Prayer
         length: 246717
         video: true
@@ -65,8 +65,8 @@ trackIdData:
         disambiguation: 'live, 1993-08-28: Hardturm‐Stadion, Zurich, Switzerland'
         firstReleaseDate: '1996'
       - id: 5e830aa8-ff1e-4a6f-9aab-b2684bb25c2d
-        isrcs: &id003
-        - USUM72109582
+        isrcs:
+        - "USUM72109582"
         title: Livin’ on a Prayer
         length: 226800
         video: false
@@ -87,12 +87,12 @@ trackIdData:
         disambiguation: live
         firstReleaseDate: '2006-07-15'
       - id: c7e5ae79-b20b-46ab-89b4-63612ac3206f
-        isrcs: &id002
-        - USLIC0600588
-        - USPR38619998
-        - USPR39402218
-        - USUM70502809
-        - USUM70502810
+        isrcs:
+        - "USLIC0600588"
+        - "USPR38619998"
+        - "USPR39402218"
+        - "USUM70502809"
+        - "USUM70502810"
         title: Livin’ on a Prayer
         length: 250000
         video: false
@@ -117,7 +117,7 @@ trackIdData:
       recordings:
       - id: 45c9cca4-a120-45ed-b3f5-67bd2b2c90bc
         isrcs:
-        - USMR18489019
+        - "USMR18489019"
         title: Love Lies
         length: 248000
         video: false
@@ -138,7 +138,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1988'
       - id: 53b100bc-1f2d-475c-8535-197a2ff49967
-        isrcs: *id001
+        isrcs:
+        - "USIV30300214"
         title: Livin’ on a Prayer
         length: 246717
         video: true
@@ -159,7 +160,12 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: c7e5ae79-b20b-46ab-89b4-63612ac3206f
-        isrcs: *id002
+        isrcs:
+        - "USLIC0600588"
+        - "USPR38619998"
+        - "USPR39402218"
+        - "USUM70502809"
+        - "USUM70502810"
         title: Livin’ on a Prayer
         length: 250000
         video: false
@@ -218,7 +224,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1988'
       - id: 53b100bc-1f2d-475c-8535-197a2ff49967
-        isrcs: *id001
+        isrcs:
+        - "USIV30300214"
         title: Livin’ on a Prayer
         length: 246717
         video: true
@@ -232,7 +239,8 @@ trackIdData:
         disambiguation: 'live, 1993-08-28: Hardturm‐Stadion, Zurich, Switzerland'
         firstReleaseDate: '1996'
       - id: 5e830aa8-ff1e-4a6f-9aab-b2684bb25c2d
-        isrcs: *id003
+        isrcs:
+        - "USUM72109582"
         title: Livin’ on a Prayer
         length: 226800
         video: false
@@ -274,7 +282,12 @@ trackIdData:
         disambiguation: live
         firstReleaseDate:
       - id: c7e5ae79-b20b-46ab-89b4-63612ac3206f
-        isrcs: *id002
+        isrcs:
+        - "USLIC0600588"
+        - "USPR38619998"
+        - "USPR39402218"
+        - "USUM70502809"
+        - "USUM70502810"
         title: Livin’ on a Prayer
         length: 250000
         video: false
@@ -303,7 +316,7 @@ trackIdData:
         firstReleaseDate: '1987'
       - id: fd7d2493-4067-49dc-b0ec-358274530010
         isrcs:
-        - QMVRR1500607
+        - "QMVRR1500607"
         title: Livin' on a Prayer
         length: 251676
         video: false
@@ -313,7 +326,12 @@ trackIdData:
     - id: cbdf6cdf-be84-4abd-a11d-7266f9147a0f
       recordings:
       - id: c7e5ae79-b20b-46ab-89b4-63612ac3206f
-        isrcs: *id002
+        isrcs:
+        - "USLIC0600588"
+        - "USPR38619998"
+        - "USPR39402218"
+        - "USUM70502809"
+        - "USUM70502810"
         title: Livin’ on a Prayer
         length: 250000
         video: false

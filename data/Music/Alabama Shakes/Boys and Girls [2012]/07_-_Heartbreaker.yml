@@ -15,8 +15,8 @@ trackIdData:
     - id: d1975c63-10f1-49f8-8764-7cd6784d7b45
       recordings:
       - id: 93b4142d-d1c6-4c2a-8c51-ac3ddbe03668
-        isrcs: &id001
-        - USATO1200023
+        isrcs:
+        - "USATO1200023"
         title: Heartbreaker
         length: 227000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: b389fcb1-275f-42a7-a644-cf5fe812b733
       recordings:
       - id: 93b4142d-d1c6-4c2a-8c51-ac3ddbe03668
-        isrcs: *id001
+        isrcs:
+        - "USATO1200023"
         title: Heartbreaker
         length: 227000
         video: false

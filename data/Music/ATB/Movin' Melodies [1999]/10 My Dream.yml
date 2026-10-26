@@ -15,10 +15,10 @@ trackIdData:
     - id: adeeb6d2-6918-4d20-ab38-552da071d9ce
       recordings:
       - id: 4d0b507d-5c04-4914-8f2f-9029573ec411
-        isrcs: &id001
-        - DED579903730
-        - DEN060301025
-        - DEN120000024
+        isrcs:
+        - "DED579903730"
+        - "DEN060301025"
+        - "DEN120000024"
         title: My Dream
         length: 425666
         video: false
@@ -28,7 +28,10 @@ trackIdData:
     - id: a134c7d5-3b9d-44c2-b0bc-8965d1664296
       recordings:
       - id: 4d0b507d-5c04-4914-8f2f-9029573ec411
-        isrcs: *id001
+        isrcs:
+        - "DED579903730"
+        - "DEN060301025"
+        - "DEN120000024"
         title: My Dream
         length: 425666
         video: false

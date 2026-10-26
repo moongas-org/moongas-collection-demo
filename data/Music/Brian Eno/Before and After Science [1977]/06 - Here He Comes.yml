@@ -15,9 +15,9 @@ trackIdData:
     - id: b7b99a49-f60c-4c78-9929-d19f63ee9691
       recordings:
       - id: 248fea9b-fa9d-4713-a8d1-2d46afcecb28
-        isrcs: &id001
-        - GBAAA0400093
-        - GBAAA7700118
+        isrcs:
+        - "GBAAA0400093"
+        - "GBAAA7700118"
         title: Here He Comes
         length: 338893
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: cbc44dcd-4d4c-42b4-b8f0-8cf6ec2efa65
       recordings:
       - id: 248fea9b-fa9d-4713-a8d1-2d46afcecb28
-        isrcs: *id001
+        isrcs:
+        - "GBAAA0400093"
+        - "GBAAA7700118"
         title: Here He Comes
         length: 338893
         video: false

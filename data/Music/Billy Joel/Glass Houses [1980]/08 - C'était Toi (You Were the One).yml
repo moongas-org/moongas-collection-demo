@@ -15,9 +15,9 @@ trackIdData:
     - id: 15ba71dd-a403-435c-8104-b3b8e38f711b
       recordings:
       - id: a7bd95a5-4827-4f94-a070-f4a6482b3ae8
-        isrcs: &id001
-        - USSM11100765
-        - USSM18000290
+        isrcs:
+        - "USSM11100765"
+        - "USSM18000290"
         title: C’était toi (You Were the One)
         length: 205506
         video: false
@@ -25,7 +25,7 @@ trackIdData:
         firstReleaseDate: '1980-03-12'
       - id: c5e255d2-ddd0-45b0-9f85-1c7e57d0b15f
         isrcs:
-        - USSM18000290
+        - "USSM18000290"
         title: C'Etait Toi (You Were the One)
         length: 205821
         video: false
@@ -35,7 +35,9 @@ trackIdData:
     - id: 0cb82389-1d19-4c92-8f90-0fcb915e2e6f
       recordings:
       - id: a7bd95a5-4827-4f94-a070-f4a6482b3ae8
-        isrcs: *id001
+        isrcs:
+        - "USSM11100765"
+        - "USSM18000290"
         title: C’était toi (You Were the One)
         length: 205506
         video: false
@@ -45,7 +47,9 @@ trackIdData:
     - id: be27491c-af76-41c1-a4c7-6c3baec121de
       recordings:
       - id: a7bd95a5-4827-4f94-a070-f4a6482b3ae8
-        isrcs: *id001
+        isrcs:
+        - "USSM11100765"
+        - "USSM18000290"
         title: C’était toi (You Were the One)
         length: 205506
         video: false

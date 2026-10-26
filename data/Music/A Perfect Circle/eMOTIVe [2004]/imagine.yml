@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 2002-10
       - id: 7d06ccd4-614d-4826-b328-c2b4c30987a1
-        isrcs: &id001
-        - USVI20400534
+        isrcs:
+        - "USVI20400534"
         title: Imagine
         length: 288000
         video: false
@@ -31,7 +31,7 @@ trackIdData:
         firstReleaseDate: '2004-10-09'
       - id: b3319d41-1027-4dd3-b61c-d1b8f6bf409a
         isrcs:
-        - USUM71314655
+        - "USUM71314655"
         title: Imagine - Commentary
         length: 121000
         video: false
@@ -39,7 +39,7 @@ trackIdData:
         firstReleaseDate: '2013-11-19'
       - id: d4d10a90-ac1c-4142-bf8a-db0a268a6c78
         isrcs:
-        - QMEJX0900041
+        - "QMEJX0900041"
         title: Imagine
         length: 295000
         video: false
@@ -56,7 +56,8 @@ trackIdData:
     - id: 5c80924d-4d92-49de-afce-2ba0ed2e1386
       recordings:
       - id: 7d06ccd4-614d-4826-b328-c2b4c30987a1
-        isrcs: *id001
+        isrcs:
+        - "USVI20400534"
         title: Imagine
         length: 288000
         video: false

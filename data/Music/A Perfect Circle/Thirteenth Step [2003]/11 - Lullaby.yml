@@ -15,8 +15,8 @@ trackIdData:
     - id: 8f82cd81-876b-456b-b2cc-d2da8ec916f3
       recordings:
       - id: daa4e96f-923b-4705-b0d3-66bbfd33f811
-        isrcs: &id001
-        - USVI20301036
+        isrcs:
+        - "USVI20301036"
         title: Lullaby
         length: 122000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: daa4e96f-923b-4705-b0d3-66bbfd33f811
-        isrcs: *id001
+        isrcs:
+        - "USVI20301036"
         title: Lullaby
         length: 122000
         video: false

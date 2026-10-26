@@ -15,16 +15,16 @@ trackIdData:
     - id: 2fce783b-cbf2-4b05-9d65-13ef39b9119c
       recordings:
       - id: 21aa4238-f9cf-4ae8-942b-bfbea98e88b6
-        isrcs: &id001
-        - USSM10017648
+        isrcs:
+        - "USSM10017648"
         title: Godzilla
         length: 248733
         video: false
         disambiguation: 'live, 1978-06-01: City Hall, Newcastle, UK'
         firstReleaseDate: '1978'
       - id: 324695be-1bac-4ac6-b067-4aa1dbc25253
-        isrcs: &id002
-        - USSM10017648
+        isrcs:
+        - "USSM10017648"
         title: Godzilla
         length: 253333
         video: false
@@ -34,14 +34,16 @@ trackIdData:
     - id: 3aa08279-616c-48be-95f3-5859d08de5de
       recordings:
       - id: 21aa4238-f9cf-4ae8-942b-bfbea98e88b6
-        isrcs: *id001
+        isrcs:
+        - "USSM10017648"
         title: Godzilla
         length: 248733
         video: false
         disambiguation: 'live, 1978-06-01: City Hall, Newcastle, UK'
         firstReleaseDate: '1978'
       - id: 324695be-1bac-4ac6-b067-4aa1dbc25253
-        isrcs: *id002
+        isrcs:
+        - "USSM10017648"
         title: Godzilla
         length: 253333
         video: false
@@ -51,14 +53,16 @@ trackIdData:
     - id: 78b9e08e-e408-4ad4-a63f-ea874bf786f8
       recordings:
       - id: 21aa4238-f9cf-4ae8-942b-bfbea98e88b6
-        isrcs: *id001
+        isrcs:
+        - "USSM10017648"
         title: Godzilla
         length: 248733
         video: false
         disambiguation: 'live, 1978-06-01: City Hall, Newcastle, UK'
         firstReleaseDate: '1978'
       - id: 324695be-1bac-4ac6-b067-4aa1dbc25253
-        isrcs: *id002
+        isrcs:
+        - "USSM10017648"
         title: Godzilla
         length: 253333
         video: false

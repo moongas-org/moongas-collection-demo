@@ -15,11 +15,11 @@ trackIdData:
     - id: fe173ade-c8bf-4bb4-a8ef-122570852e92
       recordings:
       - id: 0047675a-2e06-4565-ae5d-263b00e30325
-        isrcs: &id001
-        - DEE868900002
-        - USSM10015584
-        - USSM10015601
-        - USSM17200519
+        isrcs:
+        - "DEE868900002"
+        - "USSM10015584"
+        - "USSM10015601"
+        - "USSM17200519"
         title: It Never Rains in Southern California
         length: 232000
         video: false
@@ -27,8 +27,8 @@ trackIdData:
         firstReleaseDate: '1972'
       - id: 25cfc5ad-c69f-4c35-98e5-fdfca467e7f5
         isrcs:
-        - DEE869901064
-        - USAR19700609
+        - "DEE869901064"
+        - "USAR19700609"
         title: It’s Like That
         length: 250000
         video: false
@@ -85,7 +85,7 @@ trackIdData:
         firstReleaseDate: '1997'
       - id: 97b624e4-52be-4c99-aa43-d90377a9be33
         isrcs:
-        - USWB19901637
+        - "USWB19901637"
         title: When I Meet Them
         length: 218706
         video: false
@@ -100,10 +100,10 @@ trackIdData:
         firstReleaseDate: '1996'
       - id: afdf1f7b-328e-4c56-8393-96198ba09936
         isrcs:
-        - GBBBN7200001
-        - GBBBN9999947
-        - SEYOK1833114
-        - USSM17200425
+        - "GBBBN7200001"
+        - "GBBBN9999947"
+        - "SEYOK1833114"
+        - "USSM17200425"
         title: I Can See Clearly Now
         length: 165306
         video: false
@@ -139,7 +139,7 @@ trackIdData:
         firstReleaseDate:
       - id: e789167d-fd99-493c-ad17-7112fd11ddde
         isrcs:
-        - NLB630000264
+        - "NLB630000264"
         title: The Air That I Breathe
         length: 234866
         video: false
@@ -163,7 +163,11 @@ trackIdData:
     - id: 376b9d18-3e37-41fa-86e8-47c90d5530a2
       recordings:
       - id: 0047675a-2e06-4565-ae5d-263b00e30325
-        isrcs: *id001
+        isrcs:
+        - "DEE868900002"
+        - "USSM10015584"
+        - "USSM10015601"
+        - "USSM17200519"
         title: It Never Rains in Southern California
         length: 232000
         video: false

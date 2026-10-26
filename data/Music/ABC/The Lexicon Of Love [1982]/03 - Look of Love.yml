@@ -15,21 +15,21 @@ trackIdData:
     - id: 83073493-c9bd-4a45-8064-be51109bcdd0
       recordings:
       - id: 529a8dcb-39d9-453c-be4e-36286ebe3ed9
-        isrcs: &id001
-        - GBF088200008
-        - NFL057290002
-        - USAFM1100003
-        - USGMP0800122
+        isrcs:
+        - "GBF088200008"
+        - "NFL057290002"
+        - "USAFM1100003"
+        - "USGMP0800122"
         title: The Look of Love
         length: 209533
         video: false
         disambiguation: ''
         firstReleaseDate: '1991'
       - id: 991257e8-8bf2-4059-8cb9-0da6d5bdc598
-        isrcs: &id002
-        - GBF088200008
-        - GBUM70601979
-        - USA371425902
+        isrcs:
+        - "GBF088200008"
+        - "GBUM70601979"
+        - "USA371425902"
         title: The Look of Love
         length: 209533
         video: false
@@ -37,7 +37,7 @@ trackIdData:
         firstReleaseDate: 1982-05
       - id: f4070aba-f7bb-4512-8e1c-51e880297640
         isrcs:
-        - GBF080400550
+        - "GBF080400550"
         title: The Look of Love
         length: 359000
         video: false
@@ -48,9 +48,9 @@ trackIdData:
       recordings:
       - id: 38106b69-e5b5-45e9-9173-82ffcec7c545
         isrcs:
-        - GBF086700158
-        - GBF086700727
-        - GBFO86700727
+        - "GBF086700158"
+        - "GBF086700727"
+        - "GBFO86700727"
         title: The Look of Love
         length: 212000
         video: false
@@ -58,14 +58,18 @@ trackIdData:
         firstReleaseDate: 1967-12
       - id: 47846719-bb0c-4e5f-989a-860c6fea4942
         isrcs:
-        - GBUM72202512
+        - "GBUM72202512"
         title: The Look of Love, Pt.1 (Steven Wilson stereo mix / 2022)
         length: 209320
         video: false
         disambiguation: ''
         firstReleaseDate: '2023-07-21'
       - id: 529a8dcb-39d9-453c-be4e-36286ebe3ed9
-        isrcs: *id001
+        isrcs:
+        - "GBF088200008"
+        - "NFL057290002"
+        - "USAFM1100003"
+        - "USGMP0800122"
         title: The Look of Love
         length: 209533
         video: false
@@ -87,7 +91,7 @@ trackIdData:
         firstReleaseDate: '2023-08-04'
       - id: 6f386d81-28c7-427d-b219-d53b91a2ffd6
         isrcs:
-        - GBUM72202520
+        - "GBUM72202520"
         title: The Look of Love, Pt.1 (Steven Wilson instrumental mix / 2022)
         length: 209320
         video: false
@@ -102,14 +106,17 @@ trackIdData:
         firstReleaseDate: '2022-11-25'
       - id: 874cf938-f366-4adf-8f07-e7d0fe55fe4e
         isrcs:
-        - USAFM1100003
+        - "USAFM1100003"
         title: The Look of Love (Rerecorded)
         length: 211000
         video: false
         disambiguation: ''
         firstReleaseDate: '2020-09-11'
       - id: 991257e8-8bf2-4059-8cb9-0da6d5bdc598
-        isrcs: *id002
+        isrcs:
+        - "GBF088200008"
+        - "GBUM70601979"
+        - "USA371425902"
         title: The Look of Love
         length: 209533
         video: false
@@ -124,8 +131,8 @@ trackIdData:
         firstReleaseDate: '1997'
       - id: a702a6dd-04ef-4f33-8f7c-05c040d818ef
         isrcs:
-        - GBBBY0300024
-        - USMC18213661
+        - "GBBBY0300024"
+        - "USMC18213661"
         title: Pass the Dutchie
         length: 203093
         video: false

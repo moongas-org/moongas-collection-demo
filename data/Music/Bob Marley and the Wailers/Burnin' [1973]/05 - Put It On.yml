@@ -23,7 +23,7 @@ trackIdData:
         firstReleaseDate: '1987'
       - id: 44f78249-8f06-42b4-adb7-31573a463e30
         isrcs:
-        - USIR28000018
+        - "USIR28000018"
         title: Redemption Song
         length: 228000
         video: false
@@ -45,15 +45,15 @@ trackIdData:
         firstReleaseDate: '2007'
       - id: 96de74e4-a778-41ec-a026-8f7abb746467
         isrcs:
-        - USA560702584
+        - "USA560702584"
         title: Put It On
         length: 243906
         video: false
         disambiguation: 1970 re-recording; longer mix
         firstReleaseDate: '1992'
       - id: bf0fb128-6ecf-4e32-b460-c711f39cf320
-        isrcs: &id001
-        - GBAAN7300129
+        isrcs:
+        - "GBAAN7300129"
         title: Put It On
         length: 240266
         video: false
@@ -70,7 +70,8 @@ trackIdData:
     - id: f4fe87c8-3f78-40ab-a088-f4cd30ca3f87
       recordings:
       - id: bf0fb128-6ecf-4e32-b460-c711f39cf320
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7300129"
         title: Put It On
         length: 240266
         video: false
@@ -87,7 +88,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2001'
       - id: bf0fb128-6ecf-4e32-b460-c711f39cf320
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7300129"
         title: Put It On
         length: 240266
         video: false

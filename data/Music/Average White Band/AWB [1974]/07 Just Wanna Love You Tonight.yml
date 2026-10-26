@@ -16,16 +16,16 @@ trackIdData:
       recordings:
       - id: 52a5bb63-5458-4298-880e-346f0c55a7fc
         isrcs:
-        - GBANY9000025
+        - "GBANY9000025"
         title: Life on the Line
         length: 237200
         video: false
         disambiguation: ''
         firstReleaseDate: '1990'
       - id: 6a3023f2-6647-4343-be58-c78718a43c3c
-        isrcs: &id001
-        - GBBLG7400075
-        - USAT20106489
+        isrcs:
+        - "GBBLG7400075"
+        - "USAT20106489"
         title: Just Wanna Love You Tonight
         length: 237800
         video: false
@@ -35,7 +35,9 @@ trackIdData:
     - id: 8f2b79ed-cdf3-4708-8395-dbbac9e0bb2e
       recordings:
       - id: 6a3023f2-6647-4343-be58-c78718a43c3c
-        isrcs: *id001
+        isrcs:
+        - "GBBLG7400075"
+        - "USAT20106489"
         title: Just Wanna Love You Tonight
         length: 237800
         video: false

@@ -15,12 +15,12 @@ trackIdData:
     - id: aa32537f-b88a-4a9d-9084-8f5060c43710
       recordings:
       - id: 2b9a748c-f297-40b7-8a3b-437d010266f1
-        isrcs: &id001
-        - USAT20110369
-        - USAT20201837
-        - USAT20902230
-        - USEE10412858
-        - USEE11200792
+        isrcs:
+        - "USAT20110369"
+        - "USAT20201837"
+        - "USAT20902230"
+        - "USEE10412858"
+        - "USEE11200792"
         title: Ride Captain Ride
         length: 223773
         video: false
@@ -28,13 +28,13 @@ trackIdData:
         firstReleaseDate: '1970'
       - id: 47da814e-c620-41b9-9ed3-098d6261b74b
         isrcs:
-        - GBF086800754
-        - GBF089400040
-        - GBFO86800754
-        - GBUM70703630
-        - USAT20004061
-        - USAT20301976
-        - USAT20702465
+        - "GBF086800754"
+        - "GBF089400040"
+        - "GBFO86800754"
+        - "GBUM70703630"
+        - "USAT20004061"
+        - "USAT20301976"
+        - "USAT20702465"
         title: Son of a Preacher Man
         length: 146706
         video: false
@@ -44,7 +44,12 @@ trackIdData:
     - id: 36feed9c-b608-4f33-b1ac-045d1f222212
       recordings:
       - id: 2b9a748c-f297-40b7-8a3b-437d010266f1
-        isrcs: *id001
+        isrcs:
+        - "USAT20110369"
+        - "USAT20201837"
+        - "USAT20902230"
+        - "USEE10412858"
+        - "USEE11200792"
         title: Ride Captain Ride
         length: 223773
         video: false

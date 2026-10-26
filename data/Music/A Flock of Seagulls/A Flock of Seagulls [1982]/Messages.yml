@@ -29,11 +29,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010'
       - id: cd69a50e-86e3-41e7-b23e-0f022ea09da7
-        isrcs: &id001
-        - GB5KW2203250
-        - GBAHK0300262
-        - USA560749059
-        - USRVF1400672
+        isrcs:
+        - "GB5KW2203250"
+        - "GBAHK0300262"
+        - "USA560749059"
+        - "USRVF1400672"
         title: Messages
         length: 172546
         video: false
@@ -43,7 +43,11 @@ trackIdData:
     - id: bdfef763-880a-44c6-80a9-299d2771e688
       recordings:
       - id: cd69a50e-86e3-41e7-b23e-0f022ea09da7
-        isrcs: *id001
+        isrcs:
+        - "GB5KW2203250"
+        - "GBAHK0300262"
+        - "USA560749059"
+        - "USRVF1400672"
         title: Messages
         length: 172546
         video: false

@@ -15,9 +15,9 @@ trackIdData:
     - id: 84d09380-b652-4f7e-9cd6-be689018d4b6
       recordings:
       - id: 14a01e05-5291-4d17-966d-41c2cd1954aa
-        isrcs: &id001
-        - USCH30100100
-        - USCH37800018
+        isrcs:
+        - "USCH30100100"
+        - "USCH37800018"
         title: Picture This
         length: 176000
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: c237f67e-c694-41cf-8a5e-216370b0bff0
       recordings:
       - id: 14a01e05-5291-4d17-966d-41c2cd1954aa
-        isrcs: *id001
+        isrcs:
+        - "USCH30100100"
+        - "USCH37800018"
         title: Picture This
         length: 176000
         video: false
@@ -58,7 +60,9 @@ trackIdData:
     - id: 28d3c3fb-9051-4679-b061-b9f987584845
       recordings:
       - id: 14a01e05-5291-4d17-966d-41c2cd1954aa
-        isrcs: *id001
+        isrcs:
+        - "USCH30100100"
+        - "USCH37800018"
         title: Picture This
         length: 176000
         video: false

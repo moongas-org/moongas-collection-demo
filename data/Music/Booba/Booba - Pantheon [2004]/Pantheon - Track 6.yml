@@ -15,8 +15,8 @@ trackIdData:
     - id: f2caaa84-0b1a-4440-8c13-521526b4dae2
       recordings:
       - id: 1cef270c-5b48-4de6-8511-5718fa37e1cf
-        isrcs: &id001
-        - FR8R60480100
+        isrcs:
+        - "FR8R60480100"
         title: R.A.P.
         length: 236160
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 54d6acc5-8389-42fb-99b8-2eeb365c13bc
       recordings:
       - id: 1cef270c-5b48-4de6-8511-5718fa37e1cf
-        isrcs: *id001
+        isrcs:
+        - "FR8R60480100"
         title: R.A.P.
         length: 236160
         video: false

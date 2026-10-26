@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 436b4315-3db2-4c5f-84e5-234b4318dd20
         isrcs:
-        - USJI19000003
+        - "USJI19000003"
         title: Bonita Applebum
         length: 216506
         video: false
         disambiguation: ''
         firstReleaseDate: '1990'
       - id: 4bd3726c-c926-4637-b3b2-b5a5bf5417bf
-        isrcs: &id001
-        - USJI19100005
+        isrcs:
+        - "USJI19100005"
         title: Check the Rhime
         length: 216737
         video: false
@@ -39,7 +39,7 @@ trackIdData:
         firstReleaseDate: 2002-05
       - id: 7d1ead06-686e-4342-812e-7d2b528e6866
         isrcs:
-        - USJI10301225
+        - "USJI10301225"
         title: Check the Rhime (Mr. Muhammad’s mix)
         length: 219679
         video: false
@@ -47,7 +47,7 @@ trackIdData:
         firstReleaseDate: '1991'
       - id: adc537c2-0b86-404b-b9de-b7b369f5df27
         isrcs:
-        - USJI10500066
+        - "USJI10500066"
         title: Check the Rhime (Skeff’s mix)
         length: 220305
         video: false
@@ -64,7 +64,8 @@ trackIdData:
     - id: 297ffb2e-517f-4b94-a264-24784e93bb8d
       recordings:
       - id: 4bd3726c-c926-4637-b3b2-b5a5bf5417bf
-        isrcs: *id001
+        isrcs:
+        - "USJI19100005"
         title: Check the Rhime
         length: 216737
         video: false
@@ -74,7 +75,8 @@ trackIdData:
     - id: ee0fe724-e2bc-4e3d-b4aa-e6ccbd95b5af
       recordings:
       - id: 4bd3726c-c926-4637-b3b2-b5a5bf5417bf
-        isrcs: *id001
+        isrcs:
+        - "USJI19100005"
         title: Check the Rhime
         length: 216737
         video: false

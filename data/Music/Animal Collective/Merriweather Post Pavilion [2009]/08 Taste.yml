@@ -15,8 +15,8 @@ trackIdData:
     - id: b1342e0e-28d3-419b-897c-880f571a9686
       recordings:
       - id: f3ffbfc9-a4ab-4fb5-a1ff-8a6a3a576bba
-        isrcs: &id001
-        - GBCEL0800816
+        isrcs:
+        - "GBCEL0800816"
         title: Taste
         length: 233000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: b9bf5657-2e36-402a-a0b0-348d63f7b508
       recordings:
       - id: f3ffbfc9-a4ab-4fb5-a1ff-8a6a3a576bba
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0800816"
         title: Taste
         length: 233000
         video: false

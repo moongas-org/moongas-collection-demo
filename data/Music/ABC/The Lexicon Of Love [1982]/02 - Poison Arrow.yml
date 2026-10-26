@@ -15,12 +15,12 @@ trackIdData:
     - id: c6df2fab-c2c1-4106-b17e-f31042c1d2bb
       recordings:
       - id: f7e41791-f377-4e54-b7ae-7d10cb8153f2
-        isrcs: &id001
-        - GBF088200044
-        - GBF088200180
-        - GBFO88200044
-        - GBL280400769
-        - USA371574602
+        isrcs:
+        - "GBF088200044"
+        - "GBF088200180"
+        - "GBFO88200044"
+        - "GBL280400769"
+        - "USA371574602"
         title: Poison Arrow
         length: 204000
         video: false
@@ -31,7 +31,7 @@ trackIdData:
       recordings:
       - id: 28ffd94b-404d-4194-a2ec-86b685b13c50
         isrcs:
-        - GBAJE7900021
+        - "GBAJE7900021"
         title: Feels Like I’m in Love
         length: 197000
         video: false
@@ -46,7 +46,7 @@ trackIdData:
         firstReleaseDate: '2026-01-02'
       - id: 913cc030-57b6-4bd8-a85b-df93519fb166
         isrcs:
-        - GBF088200044
+        - "GBF088200044"
         title: Poison Arrow
         length: 198333
         video: false
@@ -60,7 +60,12 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2023-08-04'
       - id: f7e41791-f377-4e54-b7ae-7d10cb8153f2
-        isrcs: *id001
+        isrcs:
+        - "GBF088200044"
+        - "GBF088200180"
+        - "GBFO88200044"
+        - "GBL280400769"
+        - "USA371574602"
         title: Poison Arrow
         length: 204000
         video: false

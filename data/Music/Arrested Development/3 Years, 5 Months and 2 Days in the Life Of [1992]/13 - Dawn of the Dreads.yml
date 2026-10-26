@@ -15,8 +15,8 @@ trackIdData:
     - id: 835474ad-3a0f-47f7-bd29-d96699d26742
       recordings:
       - id: a5d18830-111b-428b-a864-8afc56e93c07
-        isrcs: &id001
-        - USCA29201551
+        isrcs:
+        - "USCA29201551"
         title: Dawn of the Dreads
         length: 318360
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 16a654cd-2c6d-481f-a7c8-be6972c4aa82
       recordings:
       - id: a5d18830-111b-428b-a864-8afc56e93c07
-        isrcs: *id001
+        isrcs:
+        - "USCA29201551"
         title: Dawn of the Dreads
         length: 318360
         video: false

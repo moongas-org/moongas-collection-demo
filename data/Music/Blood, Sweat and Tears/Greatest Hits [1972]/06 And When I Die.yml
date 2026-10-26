@@ -37,8 +37,8 @@ trackIdData:
         firstReleaseDate: '2017'
       - id: 32dc9a9c-c936-4ec5-afe3-8320f5f096f3
         isrcs:
-        - GBAYE0500610
-        - GBAYE1600186
+        - "GBAYE0500610"
+        - "GBAYE1600186"
         title: Swallowed in the Sea
         length: 238960
         video: false
@@ -46,11 +46,11 @@ trackIdData:
         firstReleaseDate: '2005-06-01'
       - id: 455d37cd-780f-4ae8-af72-f0294e3c0c93
         isrcs:
-        - GBA076800170
-        - GBAKW6801012
-        - USRH10650354
-        - USRH10651551
-        - USRH10903959
+        - "GBA076800170"
+        - "GBAKW6801012"
+        - "USRH10650354"
+        - "USRH10651551"
+        - "USRH10903959"
         title: I Started a Joke
         length: 189000
         video: false
@@ -58,7 +58,7 @@ trackIdData:
         firstReleaseDate: 1968-09
       - id: 5ec1ae77-e4cf-4b7d-b8fe-533cfe922790
         isrcs:
-        - USSM16800971
+        - "USSM16800971"
         title: And When I Die
         length: 207000
         video: false
@@ -79,8 +79,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: 82d95813-6efe-4bc0-acf7-c1c77b9eab15
-        isrcs: &id001
-        - USSM19911959
+        isrcs:
+        - "USSM19911959"
         title: And When I Die
         length: 245000
         video: false
@@ -95,7 +95,7 @@ trackIdData:
         firstReleaseDate: '2004'
       - id: a45a2f20-7144-421a-9fe0-fcead73b415c
         isrcs:
-        - USSM16800031
+        - "USSM16800031"
         title: And When I Die
         length: 243000
         video: false
@@ -126,7 +126,8 @@ trackIdData:
     - id: 96088bfe-d5d9-4210-9319-95c8faed76cf
       recordings:
       - id: 82d95813-6efe-4bc0-acf7-c1c77b9eab15
-        isrcs: *id001
+        isrcs:
+        - "USSM19911959"
         title: And When I Die
         length: 245000
         video: false

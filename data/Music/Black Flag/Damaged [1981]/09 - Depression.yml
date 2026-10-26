@@ -15,8 +15,8 @@ trackIdData:
     - id: c9fe4eeb-242f-4a6c-b64b-0263ab7221d8
       recordings:
       - id: 585398ed-1275-4579-9451-e8dd7db9d59c
-        isrcs: &id001
-        - USA370538446
+        isrcs:
+        - "USA370538446"
         title: Depression
         length: 150920
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: aaa45564-68a0-4e36-b0b3-bfc260c9da24
       recordings:
       - id: 585398ed-1275-4579-9451-e8dd7db9d59c
-        isrcs: *id001
+        isrcs:
+        - "USA370538446"
         title: Depression
         length: 150920
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2015-04-22'
       - id: 1b5e0b96-2d50-49a3-a1b0-4ee3948bbbfd
-        isrcs: &id001
-        - USATO1400856
+        isrcs:
+        - "USATO1400856"
         title: Guess Who
         length: 196000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 778de1d1-c397-434a-bc69-d10219e4408f
       recordings:
       - id: 1b5e0b96-2d50-49a3-a1b0-4ee3948bbbfd
-        isrcs: *id001
+        isrcs:
+        - "USATO1400856"
         title: Guess Who
         length: 196000
         video: false

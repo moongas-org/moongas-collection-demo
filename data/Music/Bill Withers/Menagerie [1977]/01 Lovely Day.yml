@@ -15,21 +15,21 @@ trackIdData:
     - id: dcfd3d1a-be2e-4dce-97f4-3da9d1fe6ed3
       recordings:
       - id: 2b03e9e9-0593-448d-898f-9a79c91cec34
-        isrcs: &id001
-        - GBAJE0506765
-        - USSM10000363
-        - USSM10207844
-        - USSM17700024
-        - USSM17700714
-        - USSM19802247
+        isrcs:
+        - "GBAJE0506765"
+        - "USSM10000363"
+        - "USSM10207844"
+        - "USSM17700024"
+        - "USSM17700714"
+        - "USSM19802247"
         title: Lovely Day
         length: 251000
         video: false
         disambiguation: ''
         firstReleaseDate: 1977-12
       - id: 57a55643-4374-4787-81b2-ae653aa4ef7d
-        isrcs: &id002
-        - USSM10311119
+        isrcs:
+        - "USSM10311119"
         title: Lovely Day (remix)
         length: 247400
         video: false
@@ -46,7 +46,13 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2018'
       - id: 2b03e9e9-0593-448d-898f-9a79c91cec34
-        isrcs: *id001
+        isrcs:
+        - "GBAJE0506765"
+        - "USSM10000363"
+        - "USSM10207844"
+        - "USSM17700024"
+        - "USSM17700714"
+        - "USSM19802247"
         title: Lovely Day
         length: 251000
         video: false
@@ -54,7 +60,7 @@ trackIdData:
         firstReleaseDate: 1977-12
       - id: 32726e30-79fa-41ea-831b-565c74e2f3cf
         isrcs:
-        - USSM19909876
+        - "USSM19909876"
         title: Lovely Day (12″ Sunshine mix)
         length: 394000
         video: false
@@ -62,15 +68,16 @@ trackIdData:
         firstReleaseDate: '1988'
       - id: 551ba391-b9b4-4eb4-8683-859b186fbf3b
         isrcs:
-        - GB01A0800927
-        - GBDLQ0400019
+        - "GB01A0800927"
+        - "GBDLQ0400019"
         title: Get Down on It
         length: 255440
         video: false
         disambiguation: ''
         firstReleaseDate: '2004-04-21'
       - id: 57a55643-4374-4787-81b2-ae653aa4ef7d
-        isrcs: *id002
+        isrcs:
+        - "USSM10311119"
         title: Lovely Day (remix)
         length: 247400
         video: false

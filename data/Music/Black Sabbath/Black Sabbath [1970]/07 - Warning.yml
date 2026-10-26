@@ -15,9 +15,9 @@ trackIdData:
     - id: ee1d8c3c-81de-40a8-b442-4ae9a782ec3e
       recordings:
       - id: 1177e328-8a85-401f-989d-d14e29bd6c1c
-        isrcs: &id001
-        - GB5KW1602009
-        - GBAJE7000082
+        isrcs:
+        - "GB5KW1602009"
+        - "GBAJE7000082"
         title: Warning
         length: 632000
         video: false
@@ -25,7 +25,7 @@ trackIdData:
         firstReleaseDate: '1970-02-13'
       - id: 784f5566-6e4d-472f-a770-e0a2aeafa78a
         isrcs:
-        - GBUM70901754
+        - "GBUM70901754"
         title: Warning, Part 1
         length: 417000
         video: false
@@ -35,7 +35,9 @@ trackIdData:
     - id: 43168864-23f0-4abf-b084-b890dd0b15f9
       recordings:
       - id: 1177e328-8a85-401f-989d-d14e29bd6c1c
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602009"
+        - "GBAJE7000082"
         title: Warning
         length: 632000
         video: false
@@ -43,7 +45,7 @@ trackIdData:
         firstReleaseDate: '1970-02-13'
       - id: c058a46b-d664-4d89-861c-ecd41cccae8c
         isrcs:
-        - GBAJE7000082
+        - "GBAJE7000082"
         title: Warning
         length: 211227
         video: false

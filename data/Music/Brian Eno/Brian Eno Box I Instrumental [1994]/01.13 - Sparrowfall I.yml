@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1994'
       - id: 8486833c-6723-43e6-a62e-819adb33d34a
-        isrcs: &id001
-        - GBAAA0500078
+        isrcs:
+        - "GBAAA0500078"
         title: Sparrowfall, Part 1
         length: 70920
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 2d341cc8-6075-4d7c-bae1-dbd04db25fa2
       recordings:
       - id: 8486833c-6723-43e6-a62e-819adb33d34a
-        isrcs: *id001
+        isrcs:
+        - "GBAAA0500078"
         title: Sparrowfall, Part 1
         length: 70920
         video: false

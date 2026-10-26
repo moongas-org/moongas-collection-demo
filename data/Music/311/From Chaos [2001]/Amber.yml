@@ -44,8 +44,8 @@ trackIdData:
           USA'
         firstReleaseDate:
       - id: b04db5fe-7f01-4f8e-bfe1-66d4caf1278f
-        isrcs: &id001
-        - USVR10100044
+        isrcs:
+        - "USVR10100044"
         title: Amber
         length: 208506
         video: false
@@ -56,14 +56,15 @@ trackIdData:
       recordings:
       - id: 09743c60-c85c-4e02-a4fc-a64b7d686dc5
         isrcs:
-        - GBAJE0300605
+        - "GBAJE0300605"
         title: She Kissed Me (It Felt Like a Hit)
         length: 207106
         video: false
         disambiguation: ''
         firstReleaseDate: '2003-09-08'
       - id: b04db5fe-7f01-4f8e-bfe1-66d4caf1278f
-        isrcs: *id001
+        isrcs:
+        - "USVR10100044"
         title: Amber
         length: 208506
         video: false
@@ -73,7 +74,8 @@ trackIdData:
     - id: 2cb78fec-5d1d-4d45-ad58-b954422a4bd5
       recordings:
       - id: b04db5fe-7f01-4f8e-bfe1-66d4caf1278f
-        isrcs: *id001
+        isrcs:
+        - "USVR10100044"
         title: Amber
         length: 208506
         video: false

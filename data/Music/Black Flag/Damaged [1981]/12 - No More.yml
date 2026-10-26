@@ -15,8 +15,8 @@ trackIdData:
     - id: 36a4b70a-b784-49a3-941a-70b480865497
       recordings:
       - id: cb6d5d36-33e7-4e7a-b233-fd9f610cafe2
-        isrcs: &id001
-        - USA370538449
+        isrcs:
+        - "USA370538449"
         title: No More
         length: 148000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: fddc1765-c21c-4473-8150-836cd97ca4fa
       recordings:
       - id: cb6d5d36-33e7-4e7a-b233-fd9f610cafe2
-        isrcs: *id001
+        isrcs:
+        - "USA370538449"
         title: No More
         length: 148000
         video: false

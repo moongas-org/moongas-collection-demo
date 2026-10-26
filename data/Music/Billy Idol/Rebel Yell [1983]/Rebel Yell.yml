@@ -15,8 +15,8 @@ trackIdData:
     - id: 73c65043-0bbb-4fdf-91ef-6ad6657636d4
       recordings:
       - id: 086ead7e-a6a4-4c88-b25f-9c8f19639108
-        isrcs: &id001
-        - USUM72310345
+        isrcs:
+        - "USUM72310345"
         title: Rebel Yell
         length: 289000
         video: false
@@ -38,8 +38,8 @@ trackIdData:
         firstReleaseDate: '1998-08-26'
       - id: 526534f0-f805-4055-86c5-49800d40eb95
         isrcs:
-        - USAM17900072
-        - USAM17900358
+        - "USAM17900072"
+        - "USAM17900358"
         title: Babe
         length: 266000
         video: false
@@ -53,8 +53,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2012'
       - id: 714f98c7-d207-45d0-85df-e5a79bc3426e
-        isrcs: &id002
-        - USCH39900054
+        isrcs:
+        - "USCH39900054"
         title: Rebel Yell
         length: 286773
         video: false
@@ -68,17 +68,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1988'
       - id: 7f52bce7-f2ff-4d2c-a580-89801ce30b7d
-        isrcs: &id003
-        - USCH30100151
+        isrcs:
+        - "USCH30100151"
         title: Rebel Yell
         length: 284733
         video: false
         disambiguation: ''
         firstReleaseDate: '2019-05-24'
       - id: 99b99f36-8cea-4df7-96e8-fe32965abc93
-        isrcs: &id004
-        - USCH38400024
-        - USCH39900054
+        isrcs:
+        - "USCH38400024"
+        - "USCH39900054"
         title: Rebel Yell
         length: 287760
         video: false
@@ -102,7 +102,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: 086ead7e-a6a4-4c88-b25f-9c8f19639108
-        isrcs: *id001
+        isrcs:
+        - "USUM72310345"
         title: Rebel Yell
         length: 289000
         video: false
@@ -110,7 +111,7 @@ trackIdData:
         firstReleaseDate: '2023-11-11'
       - id: 14afde4c-ab69-4658-8dc6-25b37e244fca
         isrcs:
-        - USCA28801041
+        - "USCA28801041"
         title: Rebel Yell
         length: 224746
         video: false
@@ -139,7 +140,7 @@ trackIdData:
         firstReleaseDate: '2008-06-24'
       - id: 3ee5d214-a3e0-47b2-80da-5a485d100c36
         isrcs:
-        - GBAAM8100001
+        - "GBAAM8100001"
         title: Labelled With Love
         length: 272213
         video: false
@@ -153,14 +154,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: 714f98c7-d207-45d0-85df-e5a79bc3426e
-        isrcs: *id002
+        isrcs:
+        - "USCH39900054"
         title: Rebel Yell
         length: 286773
         video: false
         disambiguation: ''
         firstReleaseDate: '1988'
       - id: 7f52bce7-f2ff-4d2c-a580-89801ce30b7d
-        isrcs: *id003
+        isrcs:
+        - "USCH30100151"
         title: Rebel Yell
         length: 284733
         video: false
@@ -174,7 +177,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 1985-10
       - id: 99b99f36-8cea-4df7-96e8-fe32965abc93
-        isrcs: *id004
+        isrcs:
+        - "USCH38400024"
+        - "USCH39900054"
         title: Rebel Yell
         length: 287760
         video: false
@@ -191,21 +196,24 @@ trackIdData:
     - id: eaea1a73-b751-467c-a509-9dab46960d37
       recordings:
       - id: 086ead7e-a6a4-4c88-b25f-9c8f19639108
-        isrcs: *id001
+        isrcs:
+        - "USUM72310345"
         title: Rebel Yell
         length: 289000
         video: false
         disambiguation: Dolby Atmos mix
         firstReleaseDate: '2023-11-11'
       - id: 714f98c7-d207-45d0-85df-e5a79bc3426e
-        isrcs: *id002
+        isrcs:
+        - "USCH39900054"
         title: Rebel Yell
         length: 286773
         video: false
         disambiguation: ''
         firstReleaseDate: '1988'
       - id: 7f52bce7-f2ff-4d2c-a580-89801ce30b7d
-        isrcs: *id003
+        isrcs:
+        - "USCH30100151"
         title: Rebel Yell
         length: 284733
         video: false
@@ -219,7 +227,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 1985-10
       - id: 99b99f36-8cea-4df7-96e8-fe32965abc93
-        isrcs: *id004
+        isrcs:
+        - "USCH38400024"
+        - "USCH39900054"
         title: Rebel Yell
         length: 287760
         video: false

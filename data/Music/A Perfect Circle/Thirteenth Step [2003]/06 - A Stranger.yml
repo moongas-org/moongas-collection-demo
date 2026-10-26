@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 2fd9de77-eb50-47fe-a56a-2bbda288092a
         isrcs:
-        - QMEJX1300020
+        - "QMEJX1300020"
         title: A Stranger
         length: 191000
         video: false
         disambiguation: 'live, 2010: USA'
         firstReleaseDate: '2013-11-26'
       - id: 3d33ce84-6416-45e2-925c-da5ec4a85023
-        isrcs: &id001
-        - USVI20301031
+        isrcs:
+        - "USVI20301031"
         title: A Stranger
         length: 192333
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 17155afe-b20d-4a83-8cfa-7c1c3b94c6e3
       recordings:
       - id: 3d33ce84-6416-45e2-925c-da5ec4a85023
-        isrcs: *id001
+        isrcs:
+        - "USVI20301031"
         title: A Stranger
         length: 192333
         video: false
@@ -44,7 +45,8 @@ trackIdData:
     - id: 8184369a-cd98-417b-960f-634eb51a342b
       recordings:
       - id: 3d33ce84-6416-45e2-925c-da5ec4a85023
-        isrcs: *id001
+        isrcs:
+        - "USVI20301031"
         title: A Stranger
         length: 192333
         video: false

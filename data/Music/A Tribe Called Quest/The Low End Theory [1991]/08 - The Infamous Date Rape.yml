@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 25da7859-3b18-469a-90ce-597ba9b1df70
         isrcs:
-        - USJI10300158
+        - "USJI10300158"
         title: Everything Is Fair
         length: 178333
         video: false
         disambiguation: ''
         firstReleaseDate: '1991-09-24'
       - id: ec543c14-4280-4710-af7c-7ae1ee782c6a
-        isrcs: &id001
-        - USJI10300157
+        isrcs:
+        - "USJI10300157"
         title: The Infamous Date Rape
         length: 173573
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 38707cc9-0866-417b-853d-bb80b506a81f
       recordings:
       - id: ec543c14-4280-4710-af7c-7ae1ee782c6a
-        isrcs: *id001
+        isrcs:
+        - "USJI10300157"
         title: The Infamous Date Rape
         length: 173573
         video: false

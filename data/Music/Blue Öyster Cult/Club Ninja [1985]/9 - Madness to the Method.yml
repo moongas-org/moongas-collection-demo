@@ -15,8 +15,8 @@ trackIdData:
     - id: 2062a4cb-24d8-4d43-a1fe-676f0159fa24
       recordings:
       - id: 0a9f03d9-7d40-408c-a364-65b7c86e3fa7
-        isrcs: &id001
-        - USSM18500992
+        isrcs:
+        - "USSM18500992"
         title: Madness to the Method
         length: 447550
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 47f3d131-3bf4-4b1c-8d2e-4dfd7c074c99
       recordings:
       - id: 0a9f03d9-7d40-408c-a364-65b7c86e3fa7
-        isrcs: *id001
+        isrcs:
+        - "USSM18500992"
         title: Madness to the Method
         length: 447550
         video: false

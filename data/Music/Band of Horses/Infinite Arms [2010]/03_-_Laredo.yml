@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: 'live, 2003-02-25: Sendesaal Bremen, Bremen, Germany'
         firstReleaseDate: '2006-02-06'
       - id: ca8da1e4-32b8-4051-8e0d-e23489f0d142
-        isrcs: &id001
-        - USQX91000272
+        isrcs:
+        - "USQX91000272"
         title: Laredo
         length: 192240
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 78440402-a1cc-4393-b054-3f06c7e4113b
       recordings:
       - id: ca8da1e4-32b8-4051-8e0d-e23489f0d142
-        isrcs: *id001
+        isrcs:
+        - "USQX91000272"
         title: Laredo
         length: 192240
         video: false

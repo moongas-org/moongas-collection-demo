@@ -15,8 +15,8 @@ trackIdData:
     - id: 90b913cf-305d-4f66-a537-fbda45db8f46
       recordings:
       - id: f415141c-5db2-47b9-b84a-a14e28590abf
-        isrcs: &id001
-        - US38Y0811506
+        isrcs:
+        - "US38Y0811506"
         title: Creature Fear
         length: 186120
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 905d3885-b9e0-4256-91f9-c02f91673aec
       recordings:
       - id: f415141c-5db2-47b9-b84a-a14e28590abf
-        isrcs: *id001
+        isrcs:
+        - "US38Y0811506"
         title: Creature Fear
         length: 186120
         video: false

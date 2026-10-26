@@ -15,8 +15,8 @@ trackIdData:
     - id: d84ec25e-4b57-4c2b-9db8-ed69bf39990e
       recordings:
       - id: c3c033ff-ce1a-43a1-af86-c83403c7b972
-        isrcs: &id001
-        - USSM19917777
+        isrcs:
+        - "USSM19917777"
         title: Veins
         length: 239560
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 25bb1cb1-8877-4b71-ac13-3d533d0e12c7
       recordings:
       - id: c3c033ff-ce1a-43a1-af86-c83403c7b972
-        isrcs: *id001
+        isrcs:
+        - "USSM19917777"
         title: Veins
         length: 239560
         video: false

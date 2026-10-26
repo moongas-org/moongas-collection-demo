@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1993'
       - id: 35307836-7e63-430d-b4f7-d8cdf28bb923
-        isrcs: &id001
-        - USAT21000290
-        - USEW17800010
+        isrcs:
+        - "USAT21000290"
+        - "USEW17800010"
         title: Rock ’n’ Roll Fantasy
         length: 199400
         video: false
@@ -104,7 +104,9 @@ trackIdData:
     - id: 19e632da-7357-4966-b3d0-37c5100d33d5
       recordings:
       - id: 35307836-7e63-430d-b4f7-d8cdf28bb923
-        isrcs: *id001
+        isrcs:
+        - "USAT21000290"
+        - "USEW17800010"
         title: Rock ’n’ Roll Fantasy
         length: 199400
         video: false
@@ -121,7 +123,9 @@ trackIdData:
     - id: 2771117e-1f5e-4b69-a3fd-d22f8ca7eea8
       recordings:
       - id: 35307836-7e63-430d-b4f7-d8cdf28bb923
-        isrcs: *id001
+        isrcs:
+        - "USAT21000290"
+        - "USEW17800010"
         title: Rock ’n’ Roll Fantasy
         length: 199400
         video: false
@@ -150,7 +154,7 @@ trackIdData:
         firstReleaseDate:
       - id: e4ea09d7-023d-499d-a162-2e80f33933f6
         isrcs:
-        - USMR18210015
+        - "USMR18210015"
         title: I Still Love You
         length: 366106
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 3e255c7d-6e4b-459d-bc10-9543fb0899e1
       recordings:
       - id: 270ac005-e92f-427b-9203-4a049a7b4d3a
-        isrcs: &id001
-        - US38Y1119305
+        isrcs:
+        - "US38Y1119305"
         title: Calgary
         length: 250000
         video: false
@@ -30,8 +30,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2011-06-09'
       - id: bf769c18-b6b9-41e7-a4f2-ba80751b82f8
-        isrcs: &id002
-        - US38Y1113508
+        isrcs:
+        - "US38Y1113508"
         title: Calgary
         length: 250000
         video: false
@@ -41,14 +41,16 @@ trackIdData:
     - id: 31f62473-c16f-4cda-91b0-caac1f116d19
       recordings:
       - id: 270ac005-e92f-427b-9203-4a049a7b4d3a
-        isrcs: *id001
+        isrcs:
+        - "US38Y1119305"
         title: Calgary
         length: 250000
         video: false
         disambiguation: Radio Edit
         firstReleaseDate: '2011-06-22'
       - id: bf769c18-b6b9-41e7-a4f2-ba80751b82f8
-        isrcs: *id002
+        isrcs:
+        - "US38Y1113508"
         title: Calgary
         length: 250000
         video: false

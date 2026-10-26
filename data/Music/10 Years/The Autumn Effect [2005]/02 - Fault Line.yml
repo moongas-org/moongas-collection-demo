@@ -15,7 +15,7 @@ trackIdData:
     - id: 845b8658-1793-4ea9-8ee1-90c78e06f853
       recordings:
       - id: 50e7fc7d-aeee-4f13-8861-05b69b841372
-        isrcs: &id001
+        isrcs:
         - USUM70500570
         - USUM70500981
         title: Fault Line
@@ -34,7 +34,9 @@ trackIdData:
     - id: 6b56c3c5-396a-4271-9157-ef7ba8f63217
       recordings:
       - id: 50e7fc7d-aeee-4f13-8861-05b69b841372
-        isrcs: *id001
+        isrcs:
+        - USUM70500570
+        - USUM70500981
         title: Fault Line
         length: 230946
         video: false

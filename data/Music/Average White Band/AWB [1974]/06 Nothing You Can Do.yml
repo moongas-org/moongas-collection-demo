@@ -15,9 +15,9 @@ trackIdData:
     - id: 024ac977-37a6-4fd3-ae7d-5dd3c1a982eb
       recordings:
       - id: fcfd47ff-a13c-48fb-881a-868a18caff6c
-        isrcs: &id001
-        - GBBLG7400074
-        - USAT20106487
+        isrcs:
+        - "GBBLG7400074"
+        - "USAT20106487"
         title: Nothing You Can Do
         length: 246280
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: c4a94025-2c88-48b2-9f16-4eefb8f9b768
       recordings:
       - id: fcfd47ff-a13c-48fb-881a-868a18caff6c
-        isrcs: *id001
+        isrcs:
+        - "GBBLG7400074"
+        - "USAT20106487"
         title: Nothing You Can Do
         length: 246280
         video: false

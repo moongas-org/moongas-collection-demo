@@ -15,11 +15,11 @@ trackIdData:
     - id: 818dca1e-e8c0-493a-abf3-7c710723f991
       recordings:
       - id: cda29a96-9523-460d-bcfe-4b46f6f0a53a
-        isrcs: &id001
-        - USEE10180854
-        - USEE10608733
-        - USEE11300014
-        - USEE19900889
+        isrcs:
+        - "USEE10180854"
+        - "USEE10608733"
+        - "USEE11300014"
+        - "USEE19900889"
         title: Make It With You
         length: 192200
         video: false
@@ -36,7 +36,11 @@ trackIdData:
     - id: d6429f4e-5564-425d-8e45-fc8e51bd4948
       recordings:
       - id: cda29a96-9523-460d-bcfe-4b46f6f0a53a
-        isrcs: *id001
+        isrcs:
+        - "USEE10180854"
+        - "USEE10608733"
+        - "USEE11300014"
+        - "USEE19900889"
         title: Make It With You
         length: 192200
         video: false

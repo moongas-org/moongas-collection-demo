@@ -15,17 +15,17 @@ trackIdData:
     - id: 39a079f6-50c6-47ed-b4c2-1987885d80f7
       recordings:
       - id: 1bc64445-ba5c-4116-b7b9-96169d5854e6
-        isrcs: &id001
-        - DE2DY1800943
-        - GBAAN7090006
-        - GBAJE0500925
-        - GBAJE7000127
-        - GBAWA0519010
-        - GBFWU0400075
-        - GBFWU0400187
-        - USA560686250
-        - USA560702599
-        - USIR27800260
+        isrcs:
+        - "DE2DY1800943"
+        - "GBAAN7090006"
+        - "GBAJE0500925"
+        - "GBAJE7000127"
+        - "GBAWA0519010"
+        - "GBFWU0400075"
+        - "GBFWU0400187"
+        - "USA560686250"
+        - "USA560702599"
+        - "USIR27800260"
         title: Sun Is Shining
         length: 132000
         video: false
@@ -48,8 +48,8 @@ trackIdData:
         firstReleaseDate: '2005-11-14'
       - id: 68c64b20-3c1a-4225-8ae6-6893403e841e
         isrcs:
-        - USRE10100056
-        - USRE11500143
+        - "USRE10100056"
+        - "USRE11500143"
         title: Believe in Life
         length: 305773
         video: false
@@ -71,11 +71,11 @@ trackIdData:
         firstReleaseDate: '1985'
       - id: a6179a81-dd98-4b98-bf73-ff1b5f7900eb
         isrcs:
-        - GBAJE7000206
-        - GBAJE7001105
-        - GBAWA0519013
-        - GBFWU0400059
-        - USA560686249
+        - "GBAJE7000206"
+        - "GBAJE7001105"
+        - "GBAWA0519013"
+        - "GBFWU0400059"
+        - "USA560686249"
         title: 400 Years
         length: 152573
         video: false
@@ -83,7 +83,7 @@ trackIdData:
         firstReleaseDate: 1970-12
       - id: d4222381-5977-4c0d-b2b2-1a0b90946f2a
         isrcs:
-        - USUM71807112
+        - "USUM71807112"
         title: Sun Is Shining (Stephen Marley “Kaya 40” mix)
         length: 308000
         video: false
@@ -91,16 +91,16 @@ trackIdData:
         firstReleaseDate: '2018-08-24'
       - id: e5a40d38-f332-4d90-962c-e98589948c3e
         isrcs:
-        - USIR27800260
-        - USUM70505266
+        - "USIR27800260"
+        - "USUM70505266"
         title: Sun Is Shining
         length: 275440
         video: false
         disambiguation: ''
         firstReleaseDate: '1995-05-23'
       - id: ef7d7372-a250-4103-a0bf-3427766bb615
-        isrcs: &id002
-        - USIR27800260
+        isrcs:
+        - "USIR27800260"
         title: Sun Is Shining
         length: 298000
         video: false
@@ -124,7 +124,17 @@ trackIdData:
     - id: 6617700c-5178-40ec-9ea0-0cd211c88b7d
       recordings:
       - id: 1bc64445-ba5c-4116-b7b9-96169d5854e6
-        isrcs: *id001
+        isrcs:
+        - "DE2DY1800943"
+        - "GBAAN7090006"
+        - "GBAJE0500925"
+        - "GBAJE7000127"
+        - "GBAWA0519010"
+        - "GBFWU0400075"
+        - "GBFWU0400187"
+        - "USA560686250"
+        - "USA560702599"
+        - "USIR27800260"
         title: Sun Is Shining
         length: 132000
         video: false
@@ -138,7 +148,8 @@ trackIdData:
         disambiguation: 1977 re-recording; Dolby Atmos mix
         firstReleaseDate:
       - id: ef7d7372-a250-4103-a0bf-3427766bb615
-        isrcs: *id002
+        isrcs:
+        - "USIR27800260"
         title: Sun Is Shining
         length: 298000
         video: false

@@ -15,10 +15,10 @@ trackIdData:
     - id: 9856653d-5ed2-4268-8b0c-655d35354d18
       recordings:
       - id: 13e9f5cf-6e16-4049-b84a-774aa3cd9c14
-        isrcs: &id001
-        - GB5KW1602024
-        - USWB11304636
-        - USWB19901300
+        isrcs:
+        - "GB5KW1602024"
+        - "USWB11304636"
+        - "USWB19901300"
         title: A National Acrobat
         length: 375000
         video: false
@@ -28,7 +28,10 @@ trackIdData:
     - id: 980178ef-a942-480c-80a4-5ba3517a302b
       recordings:
       - id: 13e9f5cf-6e16-4049-b84a-774aa3cd9c14
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602024"
+        - "USWB11304636"
+        - "USWB19901300"
         title: A National Acrobat
         length: 375000
         video: false

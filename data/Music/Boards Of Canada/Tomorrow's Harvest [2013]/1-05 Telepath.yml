@@ -15,8 +15,8 @@ trackIdData:
     - id: 3b434712-979d-4c50-938b-53b61fb05bf0
       recordings:
       - id: e67e5f2c-3443-4248-99f0-d24d68d75bb2
-        isrcs: &id001
-        - GBBPW1300028
+        isrcs:
+        - "GBBPW1300028"
         title: Telepath
         length: 92800
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 2757b1a5-eab1-4ec2-aa71-dce9bfdb3b67
       recordings:
       - id: e67e5f2c-3443-4248-99f0-d24d68d75bb2
-        isrcs: *id001
+        isrcs:
+        - "GBBPW1300028"
         title: Telepath
         length: 92800
         video: false

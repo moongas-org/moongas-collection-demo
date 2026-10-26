@@ -15,9 +15,9 @@ trackIdData:
     - id: 27b1a8f8-76cc-46a0-8121-837dcbdff63f
       recordings:
       - id: 78855de4-d65a-422c-92a6-ccf71ccc45c9
-        isrcs: &id001
-        - USCA20101429
-        - USCA29500712
+        isrcs:
+        - "USCA20101429"
+        - "USCA29500712"
         title: Toes Across the Floor
         length: 185986
         video: false
@@ -41,7 +41,9 @@ trackIdData:
     - id: 2beede7e-1979-49bb-8ac6-0b59925fd45b
       recordings:
       - id: 78855de4-d65a-422c-92a6-ccf71ccc45c9
-        isrcs: *id001
+        isrcs:
+        - "USCA20101429"
+        - "USCA29500712"
         title: Toes Across the Floor
         length: 185986
         video: false

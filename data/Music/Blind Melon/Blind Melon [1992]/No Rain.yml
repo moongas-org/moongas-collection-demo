@@ -79,10 +79,10 @@ trackIdData:
         firstReleaseDate: '1995'
       - id: be78b3cc-9b1b-4df9-b832-575b6af1cf89
         isrcs:
-        - DEC739900923
-        - DEH250200011
-        - DEH250200012
-        - DEH259900010
+        - "DEC739900923"
+        - "DEH250200011"
+        - "DEH250200012"
+        - "DEH259900010"
         title: Mambo No.5 (A Little bit Of…)
         length: 219805
         video: false
@@ -96,10 +96,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1999'
       - id: e901cbeb-61af-4a78-a855-a23ebac6a41a
-        isrcs: &id001
-        - DEAF70908094
-        - USCA20101428
-        - USCA29200194
+        isrcs:
+        - "DEAF70908094"
+        - "USCA20101428"
+        - "USCA29200194"
         title: No Rain
         length: 217106
         video: false
@@ -130,7 +130,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1992'
       - id: e901cbeb-61af-4a78-a855-a23ebac6a41a
-        isrcs: *id001
+        isrcs:
+        - "DEAF70908094"
+        - "USCA20101428"
+        - "USCA29200194"
         title: No Rain
         length: 217106
         video: false
@@ -140,7 +143,10 @@ trackIdData:
     - id: 6e772c63-b84f-4f4f-946e-4cddcba5b797
       recordings:
       - id: e901cbeb-61af-4a78-a855-a23ebac6a41a
-        isrcs: *id001
+        isrcs:
+        - "DEAF70908094"
+        - "USCA20101428"
+        - "USCA29200194"
         title: No Rain
         length: 217106
         video: false

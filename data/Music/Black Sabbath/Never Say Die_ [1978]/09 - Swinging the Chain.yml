@@ -15,11 +15,11 @@ trackIdData:
     - id: 9696a8d4-c38d-4fdf-ba27-ca2235e69829
       recordings:
       - id: 01d8ca63-41c2-4445-ab44-b32b1ea677c9
-        isrcs: &id001
-        - GB5KW1602018
-        - GBAJE7800062
-        - USWB11304558
-        - USWB19901299
+        isrcs:
+        - "GB5KW1602018"
+        - "GBAJE7800062"
+        - "USWB11304558"
+        - "USWB19901299"
         title: Swinging the Chain
         length: 247173
         video: false
@@ -36,7 +36,11 @@ trackIdData:
     - id: 7a6b12c2-ee49-4592-ba57-b4197d951aed
       recordings:
       - id: 01d8ca63-41c2-4445-ab44-b32b1ea677c9
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602018"
+        - "GBAJE7800062"
+        - "USWB11304558"
+        - "USWB19901299"
         title: Swinging the Chain
         length: 247173
         video: false

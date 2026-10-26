@@ -29,20 +29,20 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2023-03-14'
       - id: 661f4f40-8433-4e6a-bef5-6398ff85c583
-        isrcs: &id001
-        - GBAJE7000088
+        isrcs:
+        - "GBAJE7000088"
         title: Rat Salad
         length: 150720
         video: false
         disambiguation: ''
         firstReleaseDate: '2016-11-11'
       - id: b4829586-0ff3-4376-b2b8-f42dbbc9e885
-        isrcs: &id002
-        - AUXN22142431
-        - GB5KW1601270
-        - GBAJE7000088
-        - USWB11304633
-        - USWB19900218
+        isrcs:
+        - "AUXN22142431"
+        - "GB5KW1601270"
+        - "GBAJE7000088"
+        - "USWB11304633"
+        - "USWB19900218"
         title: Rat Salad
         length: 150426
         video: false
@@ -52,14 +52,20 @@ trackIdData:
     - id: 2fe43261-cab4-4cd2-9818-b682f59ffe82
       recordings:
       - id: 661f4f40-8433-4e6a-bef5-6398ff85c583
-        isrcs: *id001
+        isrcs:
+        - "GBAJE7000088"
         title: Rat Salad
         length: 150720
         video: false
         disambiguation: ''
         firstReleaseDate: '2016-11-11'
       - id: b4829586-0ff3-4376-b2b8-f42dbbc9e885
-        isrcs: *id002
+        isrcs:
+        - "AUXN22142431"
+        - "GB5KW1601270"
+        - "GBAJE7000088"
+        - "USWB11304633"
+        - "USWB19900218"
         title: Rat Salad
         length: 150426
         video: false
@@ -69,7 +75,12 @@ trackIdData:
     - id: e81ba352-df95-4f3c-baae-485d570bc3be
       recordings:
       - id: b4829586-0ff3-4376-b2b8-f42dbbc9e885
-        isrcs: *id002
+        isrcs:
+        - "AUXN22142431"
+        - "GB5KW1601270"
+        - "GBAJE7000088"
+        - "USWB11304633"
+        - "USWB19900218"
         title: Rat Salad
         length: 150426
         video: false

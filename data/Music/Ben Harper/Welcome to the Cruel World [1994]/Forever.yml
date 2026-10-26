@@ -15,8 +15,8 @@ trackIdData:
     - id: 3230e46d-4403-4799-b504-960c79675113
       recordings:
       - id: f5b81cdf-c5e1-463f-898c-c0f3c9838a2e
-        isrcs: &id001
-        - USVI29400013
+        isrcs:
+        - "USVI29400013"
         title: Forever
         length: 202426
         video: false
@@ -40,7 +40,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2024-09-06'
       - id: f5b81cdf-c5e1-463f-898c-c0f3c9838a2e
-        isrcs: *id001
+        isrcs:
+        - "USVI29400013"
         title: Forever
         length: 202426
         video: false
@@ -50,7 +51,8 @@ trackIdData:
     - id: c1a4a57b-0aff-4bb5-9cf9-630f954882fb
       recordings:
       - id: f5b81cdf-c5e1-463f-898c-c0f3c9838a2e
-        isrcs: *id001
+        isrcs:
+        - "USVI29400013"
         title: Forever
         length: 202426
         video: false

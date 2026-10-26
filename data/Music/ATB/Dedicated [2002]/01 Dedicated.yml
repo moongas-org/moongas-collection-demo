@@ -36,8 +36,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2011'
       - id: eb1cdef8-bb67-4118-aedb-24c560f37750
-        isrcs: &id001
-        - DEN060200495
+        isrcs:
+        - "DEN060200495"
         title: Dedicated
         length: 255880
         video: false
@@ -47,7 +47,8 @@ trackIdData:
     - id: febac7eb-b644-4e7d-afeb-df97511d4e58
       recordings:
       - id: eb1cdef8-bb67-4118-aedb-24c560f37750
-        isrcs: *id001
+        isrcs:
+        - "DEN060200495"
         title: Dedicated
         length: 255880
         video: false
@@ -55,7 +56,7 @@ trackIdData:
         firstReleaseDate: '2002-01-28'
       - id: ec1a18a7-defa-404d-93b1-c30d85e64907
         isrcs:
-        - DEN061700068
+        - "DEN061700068"
         title: Heart of Stone
         length: 224640
         video: false

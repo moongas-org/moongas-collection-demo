@@ -15,8 +15,8 @@ trackIdData:
     - id: 1cb4e4f4-0ddf-4528-bd81-9b4b02303b1d
       recordings:
       - id: b41a0010-0154-4a7e-af14-cf44f0f10c30
-        isrcs: &id001
-        - USDW10022225
+        isrcs:
+        - "USDW10022225"
         title: Sticks and Stones
         length: 196133
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 1bbac30a-656b-4140-baf3-8a3afbf755fe
       recordings:
       - id: b41a0010-0154-4a7e-af14-cf44f0f10c30
-        isrcs: *id001
+        isrcs:
+        - "USDW10022225"
         title: Sticks and Stones
         length: 196133
         video: false

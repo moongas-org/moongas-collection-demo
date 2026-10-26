@@ -15,8 +15,8 @@ trackIdData:
     - id: 5aad6ec4-233f-4aeb-883a-2c3030d43bd7
       recordings:
       - id: bebc71c5-88dd-4819-b676-03f4e07ceb90
-        isrcs: &id001
-        - USSM17500563
+        isrcs:
+        - "USSM17500563"
         title: Georgia
         length: 236600
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 2d8d7940-756e-459c-b1ad-04673ceae9d2
       recordings:
       - id: bebc71c5-88dd-4819-b676-03f4e07ceb90
-        isrcs: *id001
+        isrcs:
+        - "USSM17500563"
         title: Georgia
         length: 236600
         video: false

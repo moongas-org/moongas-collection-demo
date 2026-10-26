@@ -15,9 +15,9 @@ trackIdData:
     - id: 325d3ded-2516-4c4c-bc5c-3433b1106f94
       recordings:
       - id: 42eeab1a-b0f3-445a-9776-af27c8c8a649
-        isrcs: &id001
-        - GBBLG7400070
-        - USAT20106482
+        isrcs:
+        - "GBBLG7400070"
+        - "USAT20106482"
         title: Got the Love
         length: 232000
         video: false
@@ -41,7 +41,9 @@ trackIdData:
     - id: a9633986-a758-4100-b74c-a75878993065
       recordings:
       - id: 42eeab1a-b0f3-445a-9776-af27c8c8a649
-        isrcs: *id001
+        isrcs:
+        - "GBBLG7400070"
+        - "USAT20106482"
         title: Got the Love
         length: 232000
         video: false

@@ -36,8 +36,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: d723f7b4-a5a7-4282-a528-b52ccbad7f21
-        isrcs: &id001
-        - USJI19810229
+        isrcs:
+        - "USJI19810229"
         title: Steppin’ It Up
         length: 202000
         video: false
@@ -47,7 +47,8 @@ trackIdData:
     - id: 6a813125-cf0d-4d71-89a2-6676940605ad
       recordings:
       - id: d723f7b4-a5a7-4282-a528-b52ccbad7f21
-        isrcs: *id001
+        isrcs:
+        - "USJI19810229"
         title: Steppin’ It Up
         length: 202000
         video: false

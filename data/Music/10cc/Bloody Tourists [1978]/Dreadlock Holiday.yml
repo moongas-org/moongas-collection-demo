@@ -79,7 +79,7 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2019'
       - id: f096fef1-0d0f-41e9-98fc-be4a29e97d09
-        isrcs: &id001
+        isrcs:
         - GBF087800002
         title: Dreadlock Holiday
         length: 268000
@@ -146,7 +146,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1999'
       - id: f096fef1-0d0f-41e9-98fc-be4a29e97d09
-        isrcs: *id001
+        isrcs:
+        - GBF087800002
         title: Dreadlock Holiday
         length: 268000
         video: false

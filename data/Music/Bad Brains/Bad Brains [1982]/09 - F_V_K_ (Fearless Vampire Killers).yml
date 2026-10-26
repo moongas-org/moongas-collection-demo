@@ -15,9 +15,9 @@ trackIdData:
     - id: 82a7d11a-2803-4027-96d4-eadce533651c
       recordings:
       - id: eb1b6d5b-24f4-4d66-b636-e04d576cef49
-        isrcs: &id001
-        - US29V0422309
-        - USFMA1900136
+        isrcs:
+        - "US29V0422309"
+        - "USFMA1900136"
         title: Fearless Vampire Killers
         length: 67506
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: 7b27381b-6ff1-41fc-8ae3-71a00a1bd902
       recordings:
       - id: eb1b6d5b-24f4-4d66-b636-e04d576cef49
-        isrcs: *id001
+        isrcs:
+        - "US29V0422309"
+        - "USFMA1900136"
         title: Fearless Vampire Killers
         length: 67506
         video: false
@@ -44,7 +46,9 @@ trackIdData:
     - id: f14317d9-6b33-452c-b295-3a5392fc3c46
       recordings:
       - id: eb1b6d5b-24f4-4d66-b636-e04d576cef49
-        isrcs: *id001
+        isrcs:
+        - "US29V0422309"
+        - "USFMA1900136"
         title: Fearless Vampire Killers
         length: 67506
         video: false

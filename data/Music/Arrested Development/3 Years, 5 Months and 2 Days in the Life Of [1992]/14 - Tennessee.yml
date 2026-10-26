@@ -15,9 +15,9 @@ trackIdData:
     - id: 37e69024-1ff0-4b42-bec1-1212538feef8
       recordings:
       - id: 849fcbdc-45e9-45ea-94fd-853524cbb15b
-        isrcs: &id001
-        - USCH30100128
-        - USCH39200021
+        isrcs:
+        - "USCH30100128"
+        - "USCH39200021"
         title: Tennessee
         length: 273706
         video: false
@@ -25,7 +25,7 @@ trackIdData:
         firstReleaseDate: '1992-03-24'
       - id: ba4890be-7b13-49e8-a3f9-775773447e66
         isrcs:
-        - USCH39200021
+        - "USCH39200021"
         title: Tennessee
         length: 274280
         video: false
@@ -33,7 +33,7 @@ trackIdData:
         firstReleaseDate: '2003'
       - id: ffe16071-129e-47f5-b6b4-7b39bcdce16e
         isrcs:
-        - USCH39200021
+        - "USCH39200021"
         title: Tennessee
         length: 272706
         video: false
@@ -45,7 +45,9 @@ trackIdData:
     - id: 0ef202fc-e878-454c-ac7c-685319f6a0a5
       recordings:
       - id: 849fcbdc-45e9-45ea-94fd-853524cbb15b
-        isrcs: *id001
+        isrcs:
+        - "USCH30100128"
+        - "USCH39200021"
         title: Tennessee
         length: 273706
         video: false

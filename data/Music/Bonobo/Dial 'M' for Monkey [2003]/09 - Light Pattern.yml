@@ -15,8 +15,8 @@ trackIdData:
     - id: e99a8eab-bb09-4b70-b32d-ddd589708005
       recordings:
       - id: 2ea26e50-1cec-48dd-abdf-c2515d56403f
-        isrcs: &id001
-        - GBCFB0300066
+        isrcs:
+        - "GBCFB0300066"
         title: Light Pattern
         length: 312067
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: cb7dbd89-619e-4b63-bc4f-8a9ed83390e4
       recordings:
       - id: 2ea26e50-1cec-48dd-abdf-c2515d56403f
-        isrcs: *id001
+        isrcs:
+        - "GBCFB0300066"
         title: Light Pattern
         length: 312067
         video: false

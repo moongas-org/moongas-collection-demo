@@ -22,10 +22,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1998-08-25'
       - id: 7cf6e998-18e2-45fb-a68f-67e4badba955
-        isrcs: &id001
-        - USSM18900215
-        - USSM18900260
-        - USSM19303012
+        isrcs:
+        - "USSM18900215"
+        - "USSM18900260"
+        - "USSM19303012"
         title: Leningrad
         length: 244533
         video: false
@@ -40,7 +40,7 @@ trackIdData:
         firstReleaseDate: '2018-07-01'
       - id: d816d33c-7401-4044-a40f-e57c2bc7b5be
         isrcs:
-        - USSM20100440
+        - "USSM20100440"
         title: Leningrad
         length: 241000
         video: true
@@ -50,7 +50,10 @@ trackIdData:
     - id: ec8cf5b3-820f-4d44-8c8b-c8a3362ae4e4
       recordings:
       - id: 7cf6e998-18e2-45fb-a68f-67e4badba955
-        isrcs: *id001
+        isrcs:
+        - "USSM18900215"
+        - "USSM18900260"
+        - "USSM19303012"
         title: Leningrad
         length: 244533
         video: false
@@ -60,7 +63,10 @@ trackIdData:
     - id: ff4cac62-88a5-42e6-9186-dbbb6dfb070c
       recordings:
       - id: 7cf6e998-18e2-45fb-a68f-67e4badba955
-        isrcs: *id001
+        isrcs:
+        - "USSM18900215"
+        - "USSM18900260"
+        - "USSM19303012"
         title: Leningrad
         length: 244533
         video: false

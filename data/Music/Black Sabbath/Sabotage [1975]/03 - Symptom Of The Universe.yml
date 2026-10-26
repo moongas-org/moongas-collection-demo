@@ -15,10 +15,10 @@ trackIdData:
     - id: 0dd8fd17-6832-480a-b6d4-ca9e5681f504
       recordings:
       - id: 9ac447ff-05d9-4058-b6fb-012fd57cd592
-        isrcs: &id001
-        - GB5KW1601275
-        - GBAJE7500018
-        - USRH12003047
+        isrcs:
+        - "GB5KW1601275"
+        - "GBAJE7500018"
+        - "USRH12003047"
         title: Symptom of the Universe
         length: 389080
         video: false
@@ -35,7 +35,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 9ac447ff-05d9-4058-b6fb-012fd57cd592
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1601275"
+        - "GBAJE7500018"
+        - "USRH12003047"
         title: Symptom of the Universe
         length: 389080
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 9753a27c-8c95-4ed4-80ae-a81b848ef64f
       recordings:
       - id: 3638c55c-5b44-4eda-b25b-5e2fcca06ad7
-        isrcs: &id001
-        - USDW10300451
+        isrcs:
+        - "USDW10300451"
         title: Glow
         length: 197293
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 7c970829-0de4-4aa2-8bc2-77ee2cc7e1e3
       recordings:
       - id: 3638c55c-5b44-4eda-b25b-5e2fcca06ad7
-        isrcs: *id001
+        isrcs:
+        - "USDW10300451"
         title: Glow
         length: 197293
         video: false

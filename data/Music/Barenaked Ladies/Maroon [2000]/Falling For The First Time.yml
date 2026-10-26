@@ -15,8 +15,8 @@ trackIdData:
     - id: cf4d7394-b4f2-407f-bf50-d12916395965
       recordings:
       - id: 9af7c296-a691-4546-9886-8bd40ff61a73
-        isrcs: &id001
-        - USRE10000906
+        isrcs:
+        - "USRE10000906"
         title: Falling for the First Time
         length: 219333
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 63a08c31-bdd8-49d2-a945-626bcfff3deb
       recordings:
       - id: 9af7c296-a691-4546-9886-8bd40ff61a73
-        isrcs: *id001
+        isrcs:
+        - "USRE10000906"
         title: Falling for the First Time
         length: 219333
         video: false

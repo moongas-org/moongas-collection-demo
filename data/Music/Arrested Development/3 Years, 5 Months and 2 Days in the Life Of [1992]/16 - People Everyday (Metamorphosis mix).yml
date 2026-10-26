@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: 16874746-6471-4ab3-abc8-5e5f58928047
-        isrcs: &id001
-        - USCH39200050
+        isrcs:
+        - "USCH39200050"
         title: People Everyday (Metamorphosis radio edit)
         length: 297000
         video: false
@@ -31,7 +31,7 @@ trackIdData:
         firstReleaseDate: '1992-03-24'
       - id: 2a4e6453-8206-4292-9856-c497ef038dca
         isrcs:
-        - USCH39200007
+        - "USCH39200007"
         title: People Everyday
         length: 206933
         video: false
@@ -60,7 +60,7 @@ trackIdData:
         firstReleaseDate: '2011-08-01'
       - id: 754fe02f-d8e5-416f-a51d-bf999275bede
         isrcs:
-        - USVGB0412094
+        - "USVGB0412094"
         title: Baba’s Dance Party
         length: 295240
         video: false
@@ -68,7 +68,7 @@ trackIdData:
         firstReleaseDate: '2004-01-01'
       - id: 7aa063f9-51d0-4962-a7d0-1668100ec3e7
         isrcs:
-        - USCH39200012
+        - "USCH39200012"
         title: People Everyday (Metamorphosis MIX)
         length: 296333
         video: false
@@ -76,7 +76,7 @@ trackIdData:
         firstReleaseDate: '2003-03-03'
       - id: 8e46dd28-81c0-4c56-8119-56135f419a4c
         isrcs:
-        - USCH39200012
+        - "USCH39200012"
         title: People Everyday (Metamorphosis MIX)
         length: 298000
         video: false
@@ -91,7 +91,7 @@ trackIdData:
         firstReleaseDate: '2000-04-25'
       - id: d0f76b97-0cc2-4de9-a5a0-6cef9318f194
         isrcs:
-        - USCH39200012
+        - "USCH39200012"
         title: People Everyday (Metamorphosis mix)
         length: 296625
         video: false
@@ -108,7 +108,8 @@ trackIdData:
     - id: 16e404a3-a53c-4225-b2c0-a85d9f14217e
       recordings:
       - id: 16874746-6471-4ab3-abc8-5e5f58928047
-        isrcs: *id001
+        isrcs:
+        - "USCH39200050"
         title: People Everyday (Metamorphosis radio edit)
         length: 297000
         video: false
@@ -132,7 +133,8 @@ trackIdData:
     - id: 054c84b6-b067-4d85-9326-6cb78e4934f2
       recordings:
       - id: 16874746-6471-4ab3-abc8-5e5f58928047
-        isrcs: *id001
+        isrcs:
+        - "USCH39200050"
         title: People Everyday (Metamorphosis radio edit)
         length: 297000
         video: false

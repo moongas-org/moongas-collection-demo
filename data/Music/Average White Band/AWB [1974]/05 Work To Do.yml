@@ -29,9 +29,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1997-11-10'
       - id: e93c68f0-2592-42b6-b184-e7ff5b4c8437
-        isrcs: &id001
-        - GBBLG7400073
-        - USAT20106485
+        isrcs:
+        - "GBBLG7400073"
+        - "USAT20106485"
         title: Work to Do
         length: 265000
         video: false
@@ -55,7 +55,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1997-11-10'
       - id: e93c68f0-2592-42b6-b184-e7ff5b4c8437
-        isrcs: *id001
+        isrcs:
+        - "GBBLG7400073"
+        - "USAT20106485"
         title: Work to Do
         length: 265000
         video: false

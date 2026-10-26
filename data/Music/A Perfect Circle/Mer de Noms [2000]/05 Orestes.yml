@@ -30,9 +30,9 @@ trackIdData:
           Kent, OH, USA'
         firstReleaseDate:
       - id: 84bedce5-9609-411e-8b82-f19ec651d5eb
-        isrcs: &id001
-        - QMEJX1300005
-        - USVI20000048
+        isrcs:
+        - "QMEJX1300005"
+        - "USVI20000048"
         title: Orestes
         length: 288000
         video: false
@@ -55,7 +55,7 @@ trackIdData:
         firstReleaseDate:
       - id: c3d5c9ac-70bd-4d8c-b932-ab3977d1825e
         isrcs:
-        - USUM71314648
+        - "USUM71314648"
         title: Orestes - Commentary
         length: 143000
         video: false
@@ -72,7 +72,9 @@ trackIdData:
     - id: 183fe23b-1b2d-4e83-8be7-9f13b69595c1
       recordings:
       - id: 84bedce5-9609-411e-8b82-f19ec651d5eb
-        isrcs: *id001
+        isrcs:
+        - "QMEJX1300005"
+        - "USVI20000048"
         title: Orestes
         length: 288000
         video: false

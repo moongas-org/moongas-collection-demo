@@ -29,10 +29,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: b85d7a9b-c74d-4ea0-b16f-1e35957b5042
-        isrcs: &id001
-        - USSM17600049
-        - USSM17600647
-        - USSM19804766
+        isrcs:
+        - "USSM17600049"
+        - "USSM17600647"
+        - "USSM19804766"
         title: Smokin’
         length: 261493
         video: false
@@ -40,8 +40,8 @@ trackIdData:
         firstReleaseDate: '1976-08-25'
       - id: d676560b-2710-4cf5-af3d-040826ffb696
         isrcs:
-        - USCA20500246
-        - USCH38300002
+        - "USCA20500246"
+        - "USCH38300002"
         title: Love Is a Battlefield
         length: 249640
         video: false
@@ -66,7 +66,7 @@ trackIdData:
         firstReleaseDate: '1993'
       - id: 3cf12ed4-f091-4c97-8032-7369a68fb41b
         isrcs:
-        - USSM17600049
+        - "USSM17600049"
         title: Smokin'
         length: 259827
         video: false
@@ -87,7 +87,10 @@ trackIdData:
         disambiguation: live
         firstReleaseDate:
       - id: b85d7a9b-c74d-4ea0-b16f-1e35957b5042
-        isrcs: *id001
+        isrcs:
+        - "USSM17600049"
+        - "USSM17600647"
+        - "USSM19804766"
         title: Smokin’
         length: 261493
         video: false
@@ -95,7 +98,7 @@ trackIdData:
         firstReleaseDate: '1976-08-25'
       - id: d95c9ffd-cd15-4a72-a9bc-f71baad15b41
         isrcs:
-        - USSM19804766
+        - "USSM19804766"
         title: Smokin’
         length: 259800
         video: false

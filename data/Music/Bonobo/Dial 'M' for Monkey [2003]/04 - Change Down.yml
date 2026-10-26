@@ -15,8 +15,8 @@ trackIdData:
     - id: 10242df5-2e10-47d0-9de4-5f2a1d535fb4
       recordings:
       - id: d2be7592-9f41-488b-bd7c-b0eece61c29b
-        isrcs: &id001
-        - GBCFB0300063
+        isrcs:
+        - "GBCFB0300063"
         title: Change Down
         length: 273013
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 913b047c-8bd7-4cff-a482-628b34d0d77e
       recordings:
       - id: d2be7592-9f41-488b-bd7c-b0eece61c29b
-        isrcs: *id001
+        isrcs:
+        - "GBCFB0300063"
         title: Change Down
         length: 273013
         video: false

@@ -15,11 +15,11 @@ trackIdData:
     - id: e7791527-0b70-4e31-a80b-d509dccc1db2
       recordings:
       - id: 61873c83-752c-4bea-8618-f6f90dc22826
-        isrcs: &id001
-        - AUVB01200005
-        - GBBRP1233405
-        - USSUB1202105
-        - USSUB1296505
+        isrcs:
+        - "AUVB01200005"
+        - "GBBRP1233405"
+        - "USSUB1202105"
+        - "USSUB1296505"
         title: The Hours
         length: 251720
         video: false
@@ -29,7 +29,11 @@ trackIdData:
     - id: 9b809135-878f-454a-8ac8-e79b5d6b124e
       recordings:
       - id: 61873c83-752c-4bea-8618-f6f90dc22826
-        isrcs: *id001
+        isrcs:
+        - "AUVB01200005"
+        - "GBBRP1233405"
+        - "USSUB1202105"
+        - "USSUB1296505"
         title: The Hours
         length: 251720
         video: false

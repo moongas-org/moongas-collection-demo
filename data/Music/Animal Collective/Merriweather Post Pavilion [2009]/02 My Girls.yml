@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 2009-12
       - id: 4679d415-5bab-4bc5-bf08-81c3f32784ff
-        isrcs: &id001
-        - GBCEL0800810
+        isrcs:
+        - "GBCEL0800810"
         title: My Girls
         length: 341000
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 4ccf2362-ebe3-4491-b191-6a6bd6dfa056
       recordings:
       - id: 4679d415-5bab-4bc5-bf08-81c3f32784ff
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0800810"
         title: My Girls
         length: 341000
         video: false
@@ -71,7 +72,8 @@ trackIdData:
     - id: b8c3b34a-1ecc-490e-be00-f306afc5df81
       recordings:
       - id: 4679d415-5bab-4bc5-bf08-81c3f32784ff
-        isrcs: *id001
+        isrcs:
+        - "GBCEL0800810"
         title: My Girls
         length: 341000
         video: false

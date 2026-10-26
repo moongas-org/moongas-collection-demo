@@ -15,7 +15,7 @@ trackIdData:
     - id: e128570e-2d91-4d07-bfa8-7e816b797f91
       recordings:
       - id: f4adfcf1-ffa2-4924-8f0d-baeb0549258a
-        isrcs: &id001
+        isrcs:
         - USUM70500579
         - USUM70500988
         title: Empires
@@ -27,7 +27,9 @@ trackIdData:
     - id: f42eb8e2-7082-47d7-9494-d7e4be603fb2
       recordings:
       - id: f4adfcf1-ffa2-4924-8f0d-baeb0549258a
-        isrcs: *id001
+        isrcs:
+        - USUM70500579
+        - USUM70500988
         title: Empires
         length: 161880
         video: false

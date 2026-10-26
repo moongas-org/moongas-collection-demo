@@ -15,8 +15,8 @@ trackIdData:
     - id: 573a27f4-2129-47b2-9487-09bd9e301b85
       recordings:
       - id: 887dfb61-251f-443e-ba65-181d83620a2e
-        isrcs: &id001
-        - USSM10304950
+        isrcs:
+        - "USSM10304950"
         title: Imaginos
         length: 346200
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: f6099124-f371-489b-8e1f-d517fa75e924
       recordings:
       - id: 887dfb61-251f-443e-ba65-181d83620a2e
-        isrcs: *id001
+        isrcs:
+        - "USSM10304950"
         title: Imaginos
         length: 346200
         video: false

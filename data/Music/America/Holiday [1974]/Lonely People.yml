@@ -15,8 +15,8 @@ trackIdData:
     - id: eae07035-c4b1-441d-b6b4-e77c813af7ae
       recordings:
       - id: 9eb551f2-9aae-4bd9-9e08-ce7458fa0203
-        isrcs: &id001
-        - USWB19901800
+        isrcs:
+        - "USWB19901800"
         title: Lonely People
         length: 149146
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 9465fa28-6fae-4b1e-9617-7f0ca07ab9eb
       recordings:
       - id: 9eb551f2-9aae-4bd9-9e08-ce7458fa0203
-        isrcs: *id001
+        isrcs:
+        - "USWB19901800"
         title: Lonely People
         length: 149146
         video: false

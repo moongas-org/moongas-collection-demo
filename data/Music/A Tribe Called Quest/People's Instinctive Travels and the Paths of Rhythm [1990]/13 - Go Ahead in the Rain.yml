@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2008'
       - id: 52368cbb-bd9a-47ca-ac01-baa1f5cfdd3e
-        isrcs: &id001
-        - USJI10300148
+        isrcs:
+        - "USJI10300148"
         title: Go Ahead in the Rain
         length: 238026
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 94923eb9-2b91-40c3-93ee-509d33993cf6
       recordings:
       - id: 52368cbb-bd9a-47ca-ac01-baa1f5cfdd3e
-        isrcs: *id001
+        isrcs:
+        - "USJI10300148"
         title: Go Ahead in the Rain
         length: 238026
         video: false

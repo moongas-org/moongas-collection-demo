@@ -22,7 +22,7 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1972-12-01'
       - id: 8d3f7f30-e83a-4168-8aaf-6220c0d1efb2
-        isrcs: &id001
+        isrcs:
         - GBF087600005
         - GBF087800005
         - GBF087900120
@@ -78,7 +78,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2018-06-29'
       - id: 8d3f7f30-e83a-4168-8aaf-6220c0d1efb2
-        isrcs: *id001
+        isrcs:
+        - GBF087600005
+        - GBF087800005
+        - GBF087900120
+        - USRHD0612420
         title: The Things We Do for Love
         length: 209267
         video: false
@@ -102,7 +106,11 @@ trackIdData:
     - id: 0ad53a2d-6ad9-442c-8f01-7db8a3e18756
       recordings:
       - id: 8d3f7f30-e83a-4168-8aaf-6220c0d1efb2
-        isrcs: *id001
+        isrcs:
+        - GBF087600005
+        - GBF087800005
+        - GBF087900120
+        - USRHD0612420
         title: The Things We Do for Love
         length: 209267
         video: false

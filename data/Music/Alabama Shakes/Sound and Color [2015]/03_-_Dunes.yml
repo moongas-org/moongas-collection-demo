@@ -15,8 +15,8 @@ trackIdData:
     - id: 0f00a6c7-ea68-4c76-9291-e7171b2bc440
       recordings:
       - id: 38b5a151-b606-4197-80ab-64b6e97a4e3d
-        isrcs: &id001
-        - USATO1400852
+        isrcs:
+        - "USATO1400852"
         title: Dunes
         length: 258000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: f670061b-ebdf-41f1-8a62-422ed5619c55
       recordings:
       - id: 38b5a151-b606-4197-80ab-64b6e97a4e3d
-        isrcs: *id001
+        isrcs:
+        - "USATO1400852"
         title: Dunes
         length: 258000
         video: false

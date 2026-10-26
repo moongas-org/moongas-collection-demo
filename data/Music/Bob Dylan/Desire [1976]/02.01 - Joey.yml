@@ -16,15 +16,15 @@ trackIdData:
       recordings:
       - id: 0f7bd102-a89f-49e4-bc29-03391f36dac9
         isrcs:
-        - USSM10103240
+        - "USSM10103240"
         title: Joey
         length: 665133
         video: false
         disambiguation: ''
         firstReleaseDate: '2013-11-01'
       - id: 17c1e7ca-7b10-490b-9804-143ddf4ed96c
-        isrcs: &id001
-        - USSM10103240
+        isrcs:
+        - "USSM10103240"
         title: Joey
         length: 665000
         video: false
@@ -41,7 +41,8 @@ trackIdData:
     - id: a1e7ac6c-ace0-41f0-99c5-706717f624e9
       recordings:
       - id: 17c1e7ca-7b10-490b-9804-143ddf4ed96c
-        isrcs: *id001
+        isrcs:
+        - "USSM10103240"
         title: Joey
         length: 665000
         video: false
@@ -51,7 +52,8 @@ trackIdData:
     - id: b3c38577-5be8-480b-a8e0-a5934c3c6c97
       recordings:
       - id: 17c1e7ca-7b10-490b-9804-143ddf4ed96c
-        isrcs: *id001
+        isrcs:
+        - "USSM10103240"
         title: Joey
         length: 665000
         video: false

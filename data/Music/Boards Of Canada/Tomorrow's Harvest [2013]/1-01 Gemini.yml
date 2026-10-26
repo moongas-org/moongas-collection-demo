@@ -15,8 +15,8 @@ trackIdData:
     - id: 22eea53e-1c03-4cae-bf82-d011cd5ecc1a
       recordings:
       - id: b931f0e6-fc1a-4f0f-9804-d2d202e81721
-        isrcs: &id001
-        - GBBPW1300024
+        isrcs:
+        - "GBBPW1300024"
         title: Gemini
         length: 177213
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 1ade5863-8d7c-4a24-b23d-bbb8078fd5da
       recordings:
       - id: b931f0e6-fc1a-4f0f-9804-d2d202e81721
-        isrcs: *id001
+        isrcs:
+        - "GBBPW1300024"
         title: Gemini
         length: 177213
         video: false

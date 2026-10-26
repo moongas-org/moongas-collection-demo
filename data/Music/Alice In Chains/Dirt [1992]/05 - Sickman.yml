@@ -15,8 +15,8 @@ trackIdData:
     - id: 81487fcb-c154-4b0c-9efa-6675ad8252da
       recordings:
       - id: 3f92bc80-8490-42ac-b77e-e20c9f25ea6b
-        isrcs: &id001
-        - USSM19200803
+        isrcs:
+        - "USSM19200803"
         title: Sickman
         length: 329400
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 1816d58b-60df-4fc5-8545-b7b7529d3824
       recordings:
       - id: 3f92bc80-8490-42ac-b77e-e20c9f25ea6b
-        isrcs: *id001
+        isrcs:
+        - "USSM19200803"
         title: Sickman
         length: 329400
         video: false
@@ -44,7 +45,8 @@ trackIdData:
     - id: bbc7487b-4dbe-4ccb-a4ac-78c3d8dae11c
       recordings:
       - id: 3f92bc80-8490-42ac-b77e-e20c9f25ea6b
-        isrcs: *id001
+        isrcs:
+        - "USSM19200803"
         title: Sickman
         length: 329400
         video: false

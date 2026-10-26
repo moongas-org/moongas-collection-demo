@@ -29,9 +29,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-11-10'
       - id: c6a79d84-56cc-46b6-98fa-cc1b184528f6
-        isrcs: &id001
-        - USA370532229
-        - USA370532331
+        isrcs:
+        - "USA370532229"
+        - "USA370532331"
         title: What You Won’t Do for Love
         length: 286506
         video: false
@@ -41,7 +41,9 @@ trackIdData:
     - id: d8b57814-4aaa-41db-89ac-18f7faa64900
       recordings:
       - id: c6a79d84-56cc-46b6-98fa-cc1b184528f6
-        isrcs: *id001
+        isrcs:
+        - "USA370532229"
+        - "USA370532331"
         title: What You Won’t Do for Love
         length: 286506
         video: false
@@ -51,7 +53,9 @@ trackIdData:
     - id: 1da94b02-4172-4d49-bd14-acf0e935d562
       recordings:
       - id: c6a79d84-56cc-46b6-98fa-cc1b184528f6
-        isrcs: *id001
+        isrcs:
+        - "USA370532229"
+        - "USA370532331"
         title: What You Won’t Do for Love
         length: 286506
         video: false

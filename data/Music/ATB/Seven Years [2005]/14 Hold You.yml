@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 1af82ae0-4544-4d45-9a65-b8a56b9344db
         isrcs:
-        - DEN060100394
+        - "DEN060100394"
         title: Wonderful Days (2001 radio edit)
         length: 192840
         video: false
@@ -44,17 +44,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2001'
       - id: c74e3c5c-849a-47d0-b7a7-b04b6eb7936b
-        isrcs: &id001
-        - DEN060500182
-        - DEN060500190
+        isrcs:
+        - "DEN060500182"
+        - "DEN060500190"
         title: Hold You
         length: 208293
         video: false
         disambiguation: '“Seven Years: 1998-2005” CD'
         firstReleaseDate: '2005-06-13'
       - id: e8453971-c0c9-432c-9ca2-665e7949ed9e
-        isrcs: &id002
-        - DEN060100429
+        isrcs:
+        - "DEN060100429"
         title: Hold You (airplay mix)
         length: 210000
         video: false
@@ -85,14 +85,17 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2001-11-29'
       - id: c74e3c5c-849a-47d0-b7a7-b04b6eb7936b
-        isrcs: *id001
+        isrcs:
+        - "DEN060500182"
+        - "DEN060500190"
         title: Hold You
         length: 208293
         video: false
         disambiguation: '“Seven Years: 1998-2005” CD'
         firstReleaseDate: '2005-06-13'
       - id: e8453971-c0c9-432c-9ca2-665e7949ed9e
-        isrcs: *id002
+        isrcs:
+        - "DEN060100429"
         title: Hold You (airplay mix)
         length: 210000
         video: false

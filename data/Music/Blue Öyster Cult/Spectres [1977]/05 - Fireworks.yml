@@ -15,8 +15,8 @@ trackIdData:
     - id: fb190753-7a66-40fc-a57a-c75360ae3278
       recordings:
       - id: b4196d8b-6703-4e60-9e32-cf168513683f
-        isrcs: &id001
-        - USSM19917724
+        isrcs:
+        - "USSM19917724"
         title: Fireworks
         length: 192250
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: a2b8610b-5aac-496a-ba2a-36d3dcca94a4
       recordings:
       - id: b4196d8b-6703-4e60-9e32-cf168513683f
-        isrcs: *id001
+        isrcs:
+        - "USSM19917724"
         title: Fireworks
         length: 192250
         video: false

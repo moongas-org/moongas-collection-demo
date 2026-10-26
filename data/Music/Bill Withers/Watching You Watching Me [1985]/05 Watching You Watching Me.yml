@@ -15,9 +15,9 @@ trackIdData:
     - id: c494f4a9-bb90-48b1-867e-33e829480c44
       recordings:
       - id: d111cb10-e10d-4a54-9e2f-df86bfae0fa8
-        isrcs: &id001
-        - USSM10214735
-        - USSM18500184
+        isrcs:
+        - "USSM10214735"
+        - "USSM18500184"
         title: Watching You Watching Me
         length: 349000
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: d27da431-cfb6-4014-aa58-a5129b471a8c
       recordings:
       - id: d111cb10-e10d-4a54-9e2f-df86bfae0fa8
-        isrcs: *id001
+        isrcs:
+        - "USSM10214735"
+        - "USSM18500184"
         title: Watching You Watching Me
         length: 349000
         video: false

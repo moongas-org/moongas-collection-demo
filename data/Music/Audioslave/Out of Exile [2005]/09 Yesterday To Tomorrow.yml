@@ -15,8 +15,8 @@ trackIdData:
     - id: 9424665e-9270-48fd-88fa-c7abfcdc8a4d
       recordings:
       - id: 3568ac0a-6408-493d-9e67-8216588e411d
-        isrcs: &id001
-        - USIR10500786
+        isrcs:
+        - "USIR10500786"
         title: Yesterday to Tomorrow
         length: 273680
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '2005-05-23'
       - id: b8391e59-2aca-4f4d-851e-fd640028c6b1
         isrcs:
-        - USA970204009
+        - "USA970204009"
         title: Yesterday, Tomorrow
         length: 262000
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 8ee38440-9c9a-41e8-82f9-d5ebc43f6011
       recordings:
       - id: 3568ac0a-6408-493d-9e67-8216588e411d
-        isrcs: *id001
+        isrcs:
+        - "USIR10500786"
         title: Yesterday to Tomorrow
         length: 273680
         video: false

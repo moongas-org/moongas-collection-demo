@@ -16,29 +16,29 @@ trackIdData:
       recordings:
       - id: 474cf56b-3d2d-4302-803b-f5fffb0ec4f4
         isrcs:
-        - GBGHC0500007
-        - USKO10403841
-        - USKO10701683
-        - USUG10801475
+        - "GBGHC0500007"
+        - "USKO10403841"
+        - "USKO10701683"
+        - "USUG10801475"
         title: Hit ’Em Up
         length: 313000
         video: false
         disambiguation: explicit
         firstReleaseDate: '1996-06-04'
       - id: 5a7be987-1fee-480f-9bf4-2d606acfff4f
-        isrcs: &id001
-        - USKO10690024
-        - USNPD0801620
-        - USUG10702629
-        - USUMG0000659
+        isrcs:
+        - "USKO10690024"
+        - "USNPD0801620"
+        - "USUG10702629"
+        - "USUMG0000659"
         title: California Love
         length: 285000
         video: false
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: aca57a7f-8e25-4ee0-bced-6a53bfa31513
-        isrcs: &id002
-        - USUG10702628
+        isrcs:
+        - "USUG10702628"
         title: California Love (original version)
         length: 285000
         video: false
@@ -69,14 +69,19 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2003-05-05'
       - id: 5a7be987-1fee-480f-9bf4-2d606acfff4f
-        isrcs: *id001
+        isrcs:
+        - "USKO10690024"
+        - "USNPD0801620"
+        - "USUG10702629"
+        - "USUMG0000659"
         title: California Love
         length: 285000
         video: false
         disambiguation: ''
         firstReleaseDate: '1998'
       - id: aca57a7f-8e25-4ee0-bced-6a53bfa31513
-        isrcs: *id002
+        isrcs:
+        - "USUG10702628"
         title: California Love (original version)
         length: 285000
         video: false

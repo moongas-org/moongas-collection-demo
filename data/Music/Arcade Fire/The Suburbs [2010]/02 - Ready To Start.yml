@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010-08-02'
       - id: ab205556-92b9-4c89-adec-0a9dbce7b43f
-        isrcs: &id001
-        - GBUM71021615
+        isrcs:
+        - "GBUM71021615"
         title: Ready to Start
         length: 255906
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: c3a53c2a-137c-449b-b01b-86db9c24bea6
       recordings:
       - id: ab205556-92b9-4c89-adec-0a9dbce7b43f
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021615"
         title: Ready to Start
         length: 255906
         video: false

@@ -15,9 +15,9 @@ trackIdData:
     - id: e7201c45-42a6-42be-9b77-97036d20ab19
       recordings:
       - id: 72b425c9-fac6-40bf-aa39-5f309229c021
-        isrcs: &id001
-        - USEE19900480
-        - USSM10017653
+        isrcs:
+        - "USEE19900480"
+        - "USSM10017653"
         title: Veteran of the Psychic Wars
         length: 289586
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: 8c6b9b1d-f9a8-4359-bf8f-9abac3a54d6c
       recordings:
       - id: 72b425c9-fac6-40bf-aa39-5f309229c021
-        isrcs: *id001
+        isrcs:
+        - "USEE19900480"
+        - "USSM10017653"
         title: Veteran of the Psychic Wars
         length: 289586
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1999-08-03'
       - id: 28df47f6-2bff-4c90-a9e1-179f9d33fa7b
-        isrcs: &id001
-        - USRE19800767
+        isrcs:
+        - "USRE19800767"
         title: Jane
         length: 244400
         video: false
@@ -31,8 +31,8 @@ trackIdData:
         firstReleaseDate: '1994-08-12'
       - id: 37882982-5412-4013-808f-da8fdfc721be
         isrcs:
-        - GBARL0501031
-        - GBARL9500020
+        - "GBARL0501031"
+        - "GBARL9500020"
         title: Back for Good
         length: 241293
         video: false
@@ -47,7 +47,7 @@ trackIdData:
         firstReleaseDate: '1999'
       - id: 7b466a31-ede7-42aa-8f30-7238c6f684b9
         isrcs:
-        - USRC17904299
+        - "USRC17904299"
         title: Jane
         length: 252000
         video: false
@@ -69,7 +69,7 @@ trackIdData:
         firstReleaseDate: '2001'
       - id: b6abc014-3c74-485f-971e-d2a47a77792c
         isrcs:
-        - USRE19600346
+        - "USRE19600346"
         title: Jane
         length: 238400
         video: false
@@ -79,7 +79,8 @@ trackIdData:
     - id: f0754daa-f92d-4b04-b61c-7763917b003f
       recordings:
       - id: 28df47f6-2bff-4c90-a9e1-179f9d33fa7b
-        isrcs: *id001
+        isrcs:
+        - "USRE19800767"
         title: Jane
         length: 244400
         video: false

@@ -15,11 +15,11 @@ trackIdData:
     - id: 34493f33-67d7-4a14-a4ab-c4b383dd0c09
       recordings:
       - id: a8d7415e-c129-47d7-ba01-b4d253af8d6d
-        isrcs: &id001
-        - USCH30100029
-        - USCH37800010
-        - USCH37800020
-        - USCH38500014
+        isrcs:
+        - "USCH30100029"
+        - "USCH37800010"
+        - "USCH37800020"
+        - "USCH38500014"
         title: One Way or Another
         length: 212133
         video: false
@@ -43,7 +43,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1999-02-18'
       - id: a8d7415e-c129-47d7-ba01-b4d253af8d6d
-        isrcs: *id001
+        isrcs:
+        - "USCH30100029"
+        - "USCH37800010"
+        - "USCH37800020"
+        - "USCH38500014"
         title: One Way or Another
         length: 212133
         video: false
@@ -53,7 +57,11 @@ trackIdData:
     - id: 1c8a10a1-1b67-44cc-8ea5-e9b263067189
       recordings:
       - id: a8d7415e-c129-47d7-ba01-b4d253af8d6d
-        isrcs: *id001
+        isrcs:
+        - "USCH30100029"
+        - "USCH37800010"
+        - "USCH37800020"
+        - "USCH38500014"
         title: One Way or Another
         length: 212133
         video: false
@@ -63,7 +71,11 @@ trackIdData:
     - id: 13a1cfe9-5d98-487a-bc70-d79ce4c030f2
       recordings:
       - id: a8d7415e-c129-47d7-ba01-b4d253af8d6d
-        isrcs: *id001
+        isrcs:
+        - "USCH30100029"
+        - "USCH37800010"
+        - "USCH37800020"
+        - "USCH38500014"
         title: One Way or Another
         length: 212133
         video: false

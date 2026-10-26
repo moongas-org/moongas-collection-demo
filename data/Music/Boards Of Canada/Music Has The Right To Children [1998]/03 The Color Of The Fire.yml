@@ -15,8 +15,8 @@ trackIdData:
     - id: d1a25088-c6af-4a88-bb9d-e651f87e7e1d
       recordings:
       - id: 7aecd7c0-dd37-487a-9b52-a76dc6054495
-        isrcs: &id001
-        - GBBPW9800012
+        isrcs:
+        - "GBBPW9800012"
         title: The Color of the Fire
         length: 105440
         video: false
@@ -33,7 +33,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 7aecd7c0-dd37-487a-9b52-a76dc6054495
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9800012"
         title: The Color of the Fire
         length: 105440
         video: false
@@ -55,7 +56,8 @@ trackIdData:
     - id: 903974f1-2d4c-4b49-b0ca-1fe440670f79
       recordings:
       - id: 7aecd7c0-dd37-487a-9b52-a76dc6054495
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9800012"
         title: The Color of the Fire
         length: 105440
         video: false

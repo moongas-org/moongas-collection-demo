@@ -15,8 +15,8 @@ trackIdData:
     - id: c001faad-c5e6-4879-94a0-72da4fc2c2a0
       recordings:
       - id: 388af42f-8375-4875-9719-789ad2f2ac26
-        isrcs: &id001
-        - USVI20400541
+        isrcs:
+        - "USVI20400541"
         title: Gimmie Gimmie Gimmie
         length: 138640
         video: false
@@ -24,7 +24,7 @@ trackIdData:
         firstReleaseDate: '2004-11-01'
       - id: 452a287a-3692-4ec1-be97-d8095ac33455
         isrcs:
-        - GBAJE6800677
+        - "GBAJE6800677"
         title: Gimme Gimme
         length: 135000
         video: false
@@ -34,7 +34,8 @@ trackIdData:
     - id: 83672d33-e522-402f-9ef7-9af5658e6c03
       recordings:
       - id: 388af42f-8375-4875-9719-789ad2f2ac26
-        isrcs: *id001
+        isrcs:
+        - "USVI20400541"
         title: Gimmie Gimmie Gimmie
         length: 138640
         video: false

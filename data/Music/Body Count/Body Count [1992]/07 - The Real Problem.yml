@@ -15,8 +15,8 @@ trackIdData:
     - id: e75aa78a-6f1c-4163-86d9-343516daa270
       recordings:
       - id: d5be79b4-0b3d-476c-ac99-6c9228e8f442
-        isrcs: &id001
-        - USWB10102384
+        isrcs:
+        - "USWB10102384"
         title: The Real Problem
         length: 11560
         video: false
@@ -28,7 +28,8 @@ trackIdData:
     - id: 9fbdea91-a188-4d5a-8551-92d8093f2bea
       recordings:
       - id: d5be79b4-0b3d-476c-ac99-6c9228e8f442
-        isrcs: *id001
+        isrcs:
+        - "USWB10102384"
         title: The Real Problem
         length: 11560
         video: false

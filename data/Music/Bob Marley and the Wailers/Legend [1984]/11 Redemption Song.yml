@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: Dolby Atmos mix
         firstReleaseDate:
       - id: 44f78249-8f06-42b4-adb7-31573a463e30
-        isrcs: &id001
-        - USIR28000018
+        isrcs:
+        - "USIR28000018"
         title: Redemption Song
         length: 228000
         video: false
@@ -31,8 +31,8 @@ trackIdData:
         firstReleaseDate: '1980-06-10'
       - id: 4d8ca8d4-6254-4967-b4db-53e5844e79d0
         isrcs:
-        - GBAAN7790003
-        - USIR27700014
+        - "GBAAN7790003"
+        - "USIR27700014"
         title: Waiting in Vain
         length: 255666
         video: false
@@ -54,7 +54,7 @@ trackIdData:
         firstReleaseDate: '2003'
       - id: cf73f026-9347-42c0-91d7-3e6e31e2e0e9
         isrcs:
-        - USIR20110141
+        - "USIR20110141"
         title: Redemption Song (band version)
         length: 217693
         video: false
@@ -64,7 +64,8 @@ trackIdData:
     - id: efe82dd9-b02d-4e48-b165-5e1acb38b5e2
       recordings:
       - id: 44f78249-8f06-42b4-adb7-31573a463e30
-        isrcs: *id001
+        isrcs:
+        - "USIR28000018"
         title: Redemption Song
         length: 228000
         video: false

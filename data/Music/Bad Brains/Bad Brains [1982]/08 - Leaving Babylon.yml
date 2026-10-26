@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010-07-19'
       - id: b6b77449-cf22-4265-b53a-ec0d4c503e35
-        isrcs: &id001
-        - US29V0422308
-        - USFMA1900135
+        isrcs:
+        - "US29V0422308"
+        - "USFMA1900135"
         title: Leaving Babylon
         length: 250586
         video: false
@@ -41,7 +41,9 @@ trackIdData:
     - id: ff770915-7ff5-4b49-b863-8d70f1482bec
       recordings:
       - id: b6b77449-cf22-4265-b53a-ec0d4c503e35
-        isrcs: *id001
+        isrcs:
+        - "US29V0422308"
+        - "USFMA1900135"
         title: Leaving Babylon
         length: 250586
         video: false
@@ -49,8 +51,8 @@ trackIdData:
         firstReleaseDate: '1982'
       - id: fb471459-b9f0-4713-be34-2230ec78001b
         isrcs:
-        - US29V0422307
-        - USFMA1900134
+        - "US29V0422307"
+        - "USFMA1900134"
         title: Supertouch / Shitfit
         length: 150986
         video: false

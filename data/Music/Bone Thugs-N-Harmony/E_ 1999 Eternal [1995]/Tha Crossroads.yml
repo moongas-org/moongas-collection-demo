@@ -36,16 +36,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010-10-05'
       - id: 25792069-10b6-41c1-a4a3-b5aea7fb918a
-        isrcs: &id001
-        - US23S9528108
+        isrcs:
+        - "US23S9528108"
         title: Tha Crossroads (DJ U‐Neek’s Mo Thug remix)
         length: 223573
         video: false
         disambiguation: explicit
         firstReleaseDate: '1995'
       - id: 2656665c-5997-4d39-b886-ab6289de2420
-        isrcs: &id002
-        - US23S9528108
+        isrcs:
+        - "US23S9528108"
         title: Tha Crossroads
         length: 223560
         video: false
@@ -165,7 +165,7 @@ trackIdData:
         firstReleaseDate: '1996-07-05'
       - id: 897422fa-eaa2-4dde-8498-bf77a11f9239
         isrcs:
-        - USSM10305195
+        - "USSM10305195"
         title: Tha Crossroads
         length: 226253
         video: false
@@ -294,14 +294,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2014'
       - id: 25792069-10b6-41c1-a4a3-b5aea7fb918a
-        isrcs: *id001
+        isrcs:
+        - "US23S9528108"
         title: Tha Crossroads (DJ U‐Neek’s Mo Thug remix)
         length: 223573
         video: false
         disambiguation: explicit
         firstReleaseDate: '1995'
       - id: 2656665c-5997-4d39-b886-ab6289de2420
-        isrcs: *id002
+        isrcs:
+        - "US23S9528108"
         title: Tha Crossroads
         length: 223560
         video: false

@@ -15,10 +15,10 @@ trackIdData:
     - id: 5434bd95-0467-48f4-b693-72e5221c8743
       recordings:
       - id: 12f04784-8393-4d2c-a5fe-376588322c39
-        isrcs: &id001
-        - GBBBN0401184
-        - GBBBN8200035
-        - USSM18200085
+        isrcs:
+        - "GBBBN0401184"
+        - "GBBBN8200035"
+        - "USSM18200085"
         title: Der Kommissar
         length: 342173
         video: false
@@ -35,7 +35,10 @@ trackIdData:
     - id: c8808ab8-0bf3-44b2-bda3-f06862d9f546
       recordings:
       - id: 12f04784-8393-4d2c-a5fe-376588322c39
-        isrcs: *id001
+        isrcs:
+        - "GBBBN0401184"
+        - "GBBBN8200035"
+        - "USSM18200085"
         title: Der Kommissar
         length: 342173
         video: false
@@ -43,7 +46,7 @@ trackIdData:
         firstReleaseDate: '1982'
       - id: 1a496926-b52c-4143-8398-7ddbfaaf19cf
         isrcs:
-        - DEA610101205
+        - "DEA610101205"
         title: Der Kommissar, Part II (club mix)
         length: 340266
         video: false
@@ -67,7 +70,10 @@ trackIdData:
     - id: 716c452f-29f5-4194-a68a-ea2bb3430b92
       recordings:
       - id: 12f04784-8393-4d2c-a5fe-376588322c39
-        isrcs: *id001
+        isrcs:
+        - "GBBBN0401184"
+        - "GBBBN8200035"
+        - "USSM18200085"
         title: Der Kommissar
         length: 342173
         video: false

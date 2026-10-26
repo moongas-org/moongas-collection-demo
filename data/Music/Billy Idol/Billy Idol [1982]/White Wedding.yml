@@ -36,11 +36,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1995'
       - id: f0dbbefb-d7ec-4de9-b0f9-91b74efcfc44
-        isrcs: &id001
-        - USCH30100008
-        - USCH38400026
-        - USCH38800007
-        - USMV28200003
+        isrcs:
+        - "USCH30100008"
+        - "USCH38400026"
+        - "USCH38800007"
+        - "USMV28200003"
         title: White Wedding, Part 1
         length: 252226
         video: false
@@ -58,7 +58,7 @@ trackIdData:
         firstReleaseDate: '2001-09-18'
       - id: 2cbbc493-c8d5-4b52-aeca-3dc342475e1a
         isrcs:
-        - USEE10301523
+        - "USEE10301523"
         title: Make It Last Forever
         length: 252213
         video: false
@@ -73,9 +73,9 @@ trackIdData:
         firstReleaseDate: '2014-11-11'
       - id: 48a465ce-d211-40db-ae43-b73347ae7a66
         isrcs:
-        - USCN10500371
-        - USCN18000041
-        - USCN19100046
+        - "USCN10500371"
+        - "USCN18000041"
+        - "USCN19100046"
         title: Lady
         length: 231800
         video: false
@@ -117,7 +117,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1982'
       - id: f0dbbefb-d7ec-4de9-b0f9-91b74efcfc44
-        isrcs: *id001
+        isrcs:
+        - "USCH30100008"
+        - "USCH38400026"
+        - "USCH38800007"
+        - "USMV28200003"
         title: White Wedding, Part 1
         length: 252226
         video: false
@@ -141,7 +145,11 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1985'
       - id: f0dbbefb-d7ec-4de9-b0f9-91b74efcfc44
-        isrcs: *id001
+        isrcs:
+        - "USCH30100008"
+        - "USCH38400026"
+        - "USCH38800007"
+        - "USMV28200003"
         title: White Wedding, Part 1
         length: 252226
         video: false
@@ -151,7 +159,11 @@ trackIdData:
     - id: 0fd0e456-e1c7-4eb0-a555-4019d040af6c
       recordings:
       - id: f0dbbefb-d7ec-4de9-b0f9-91b74efcfc44
-        isrcs: *id001
+        isrcs:
+        - "USCH30100008"
+        - "USCH38400026"
+        - "USCH38800007"
+        - "USMV28200003"
         title: White Wedding, Part 1
         length: 252226
         video: false

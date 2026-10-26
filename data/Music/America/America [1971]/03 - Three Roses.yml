@@ -15,8 +15,8 @@ trackIdData:
     - id: 56f1ab87-4720-4ac0-98aa-91e2cb731564
       recordings:
       - id: 497eadcd-0191-4884-8c5e-c09ebc4fbe4c
-        isrcs: &id001
-        - USWB10001093
+        isrcs:
+        - "USWB10001093"
         title: Three Roses
         length: 234000
         video: false
@@ -28,7 +28,8 @@ trackIdData:
     - id: 84f91344-4930-4a04-ac04-4c5609ca82c8
       recordings:
       - id: 497eadcd-0191-4884-8c5e-c09ebc4fbe4c
-        isrcs: *id001
+        isrcs:
+        - "USWB10001093"
         title: Three Roses
         length: 234000
         video: false

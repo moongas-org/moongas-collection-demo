@@ -15,8 +15,8 @@ trackIdData:
     - id: 7b5351a2-18ef-4e57-8490-a1c3d3520bce
       recordings:
       - id: 4a6ad571-f3d8-40d2-b5b5-aabaf1fb7dd0
-        isrcs: &id001
-        - USSM19200800
+        isrcs:
+        - "USSM19200800"
         title: Dam That River
         length: 189360
         video: false
@@ -48,7 +48,8 @@ trackIdData:
     - id: 7256f05d-03f5-4215-bc33-0ba044238bec
       recordings:
       - id: 4a6ad571-f3d8-40d2-b5b5-aabaf1fb7dd0
-        isrcs: *id001
+        isrcs:
+        - "USSM19200800"
         title: Dam That River
         length: 189360
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 81a7e765-da4b-4742-bec5-988f806681d6
       recordings:
       - id: 58d2aaf4-bd47-42da-a9fe-9476452634f7
-        isrcs: &id001
-        - US38Y0811502
+        isrcs:
+        - "US38Y0811502"
         title: Lump Sum
         length: 201066
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 5edde8f3-b966-49d7-9461-450393dfe871
       recordings:
       - id: 58d2aaf4-bd47-42da-a9fe-9476452634f7
-        isrcs: *id001
+        isrcs:
+        - "US38Y0811502"
         title: Lump Sum
         length: 201066
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: cba979a7-5801-4d62-b1de-95a2ec74d9cb
       recordings:
       - id: 58d2aaf4-bd47-42da-a9fe-9476452634f7
-        isrcs: *id001
+        isrcs:
+        - "US38Y0811502"
         title: Lump Sum
         length: 201066
         video: false

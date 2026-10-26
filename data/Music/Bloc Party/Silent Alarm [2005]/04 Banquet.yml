@@ -15,10 +15,10 @@ trackIdData:
     - id: 8514e3d6-9df3-4743-b006-c0ad5bed40c9
       recordings:
       - id: 1001f481-e93e-4107-b640-cf289a122335
-        isrcs: &id001
-        - GBDNH0400385
-        - GBGEY0400013
-        - USDM30301069
+        isrcs:
+        - "GBDNH0400385"
+        - "GBGEY0400013"
+        - "USDM30301069"
         title: Banquet
         length: 200360
         video: false
@@ -33,7 +33,7 @@ trackIdData:
         firstReleaseDate: '2023-03-24'
       - id: 92e2656c-4b25-4d2e-8740-3c082e701704
         isrcs:
-        - USSM10102936
+        - "USSM10102936"
         title: Sally (demo)
         length: 160000
         video: false
@@ -57,7 +57,10 @@ trackIdData:
     - id: c7b5eff9-c0dc-4c64-a253-12472030403a
       recordings:
       - id: 1001f481-e93e-4107-b640-cf289a122335
-        isrcs: *id001
+        isrcs:
+        - "GBDNH0400385"
+        - "GBGEY0400013"
+        - "USDM30301069"
         title: Banquet
         length: 200360
         video: false
@@ -81,7 +84,10 @@ trackIdData:
     - id: d64ef024-a966-4baa-bc92-c0f230c2b2d6
       recordings:
       - id: 1001f481-e93e-4107-b640-cf289a122335
-        isrcs: *id001
+        isrcs:
+        - "GBDNH0400385"
+        - "GBGEY0400013"
+        - "USDM30301069"
         title: Banquet
         length: 200360
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: 3986a960-c63f-455b-9cb8-49b1cc391e48
       recordings:
       - id: eb7b4b1f-eafc-4b0f-90c1-f6464ba4d1d9
-        isrcs: &id001
-        - DEN060200502
+        isrcs:
+        - "DEN060200502"
         title: Basic Love
         length: 447080
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 679fde93-a80b-426a-8ae4-840d45b3248e
       recordings:
       - id: eb7b4b1f-eafc-4b0f-90c1-f6464ba4d1d9
-        isrcs: *id001
+        isrcs:
+        - "DEN060200502"
         title: Basic Love
         length: 447080
         video: false

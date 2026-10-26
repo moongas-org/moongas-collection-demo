@@ -43,8 +43,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: bf0b2b61-2d7f-4eb4-a920-38528745db03
-        isrcs: &id001
-        - USSM19501548
+        isrcs:
+        - "USSM19501548"
         title: Grind
         length: 285000
         video: false
@@ -54,7 +54,8 @@ trackIdData:
     - id: 80608303-e4c9-43bc-a67a-401467b74431
       recordings:
       - id: bf0b2b61-2d7f-4eb4-a920-38528745db03
-        isrcs: *id001
+        isrcs:
+        - "USSM19501548"
         title: Grind
         length: 285000
         video: false

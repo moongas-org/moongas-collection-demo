@@ -29,10 +29,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1996'
       - id: fc98929a-062c-4dd8-900d-5947d7ee0921
-        isrcs: &id001
-        - GB5KW1602025
-        - USWB11304637
-        - USWB19901301
+        isrcs:
+        - "GB5KW1602025"
+        - "USWB11304637"
+        - "USWB19901301"
         title: Fluff
         length: 249360
         video: false
@@ -42,7 +42,10 @@ trackIdData:
     - id: 548a182d-5d68-4d79-8dcc-857dff84ab15
       recordings:
       - id: fc98929a-062c-4dd8-900d-5947d7ee0921
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602025"
+        - "USWB11304637"
+        - "USWB19901301"
         title: Fluff
         length: 249360
         video: false

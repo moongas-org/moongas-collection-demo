@@ -15,8 +15,8 @@ trackIdData:
     - id: 88b1dd22-bb2b-47a3-84bb-2fdf83604c37
       recordings:
       - id: c62f8617-4e77-4198-81bb-fc8c2665b18d
-        isrcs: &id001
-        - GBBPW0700203
+        isrcs:
+        - "GBBPW0700203"
         title: The Plc
         length: 256706
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: c61f8b0e-1730-4c5a-b75b-092904f23ed0
       recordings:
       - id: c62f8617-4e77-4198-81bb-fc8c2665b18d
-        isrcs: *id001
+        isrcs:
+        - "GBBPW0700203"
         title: The Plc
         length: 256706
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: e31ee155-1b24-42ae-ad02-67a793669ceb
       recordings:
       - id: c62f8617-4e77-4198-81bb-fc8c2665b18d
-        isrcs: *id001
+        isrcs:
+        - "GBBPW0700203"
         title: The Plc
         length: 256706
         video: false

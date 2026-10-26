@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1973'
       - id: 3ec81c44-640b-46f9-a1d3-8187b32c3ecb
-        isrcs: &id001
-        - GBBLG7400072
-        - USAT20106484
+        isrcs:
+        - "GBBLG7400072"
+        - "USAT20106484"
         title: Person to Person
         length: 219933
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: e31ca3b6-5ed9-40b5-bd2c-8b690a3d608e
       recordings:
       - id: 3ec81c44-640b-46f9-a1d3-8187b32c3ecb
-        isrcs: *id001
+        isrcs:
+        - "GBBLG7400072"
+        - "USAT20106484"
         title: Person to Person
         length: 219933
         video: false

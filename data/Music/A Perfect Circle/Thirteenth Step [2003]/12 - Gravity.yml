@@ -15,8 +15,8 @@ trackIdData:
     - id: 881110d1-6bf2-4d55-9d2b-72096b533467
       recordings:
       - id: c105b442-bcf1-4b8c-9e1f-83b96e77976c
-        isrcs: &id001
-        - USVI20301037
+        isrcs:
+        - "USVI20301037"
         title: Gravity
         length: 306000
         video: false
@@ -40,7 +40,8 @@ trackIdData:
         disambiguation: 'live, 2003‐10‐31: Freeman Coliseum, San Antonio, TX, USA'
         firstReleaseDate:
       - id: c105b442-bcf1-4b8c-9e1f-83b96e77976c
-        isrcs: *id001
+        isrcs:
+        - "USVI20301037"
         title: Gravity
         length: 306000
         video: false
@@ -48,7 +49,7 @@ trackIdData:
         firstReleaseDate: '2003-09-15'
       - id: e4728e52-4dea-4608-9813-4e47e7e53d54
         isrcs:
-        - USSM10804010
+        - "USSM10804010"
         title: Gravity
         length: 309573
         video: false

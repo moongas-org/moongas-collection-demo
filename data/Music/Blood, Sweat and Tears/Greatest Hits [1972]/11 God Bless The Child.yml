@@ -29,10 +29,10 @@ trackIdData:
         disambiguation: quad mix
         firstReleaseDate: '1972-04-22'
       - id: b9e660e8-c278-4985-8d95-c362c0cc2bd7
-        isrcs: &id001
-        - USSM16800034
-        - USSM16800967
-        - USSM19911960
+        isrcs:
+        - "USSM16800034"
+        - "USSM16800967"
+        - "USSM19911960"
         title: God Bless the Child
         length: 355266
         video: false
@@ -42,7 +42,10 @@ trackIdData:
     - id: 2c955e62-1406-466d-9c9a-c4c075f7fc35
       recordings:
       - id: b9e660e8-c278-4985-8d95-c362c0cc2bd7
-        isrcs: *id001
+        isrcs:
+        - "USSM16800034"
+        - "USSM16800967"
+        - "USSM19911960"
         title: God Bless the Child
         length: 355266
         video: false
@@ -52,7 +55,10 @@ trackIdData:
     - id: 2883410b-8096-4862-ae53-93ef0cd933cb
       recordings:
       - id: b9e660e8-c278-4985-8d95-c362c0cc2bd7
-        isrcs: *id001
+        isrcs:
+        - "USSM16800034"
+        - "USSM16800967"
+        - "USSM19911960"
         title: God Bless the Child
         length: 355266
         video: false

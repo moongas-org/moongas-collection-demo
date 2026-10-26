@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005'
       - id: 5fc2855e-a94c-4d3f-9ddc-47f1d8b7a134
-        isrcs: &id001
-        - USVI20400540
+        isrcs:
+        - "USVI20400540"
         title: Passive
         length: 250173
         video: false
@@ -52,7 +52,7 @@ trackIdData:
         firstReleaseDate:
       - id: b5a4d308-c9eb-4182-8e7f-453457c5a2ba
         isrcs:
-        - QMEJX0900056
+        - "QMEJX0900056"
         title: Passive
         length: 340000
         video: false
@@ -60,7 +60,7 @@ trackIdData:
         firstReleaseDate: '2013-11-26'
       - id: c8917b42-be50-41a3-ad88-966e050897cf
         isrcs:
-        - USUM71314656
+        - "USUM71314656"
         title: Passive - Commentary
         length: 57000
         video: false
@@ -98,7 +98,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005'
       - id: 5fc2855e-a94c-4d3f-9ddc-47f1d8b7a134
-        isrcs: *id001
+        isrcs:
+        - "USVI20400540"
         title: Passive
         length: 250173
         video: false

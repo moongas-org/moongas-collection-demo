@@ -15,8 +15,8 @@ trackIdData:
     - id: cc48836b-7367-4f4e-93dd-2ae2f8e9d92c
       recordings:
       - id: e1217d4b-e353-4d0b-b499-34232dc9f29f
-        isrcs: &id001
-        - USJI10300160
+        isrcs:
+        - "USJI10300160"
         title: What?
         length: 148706
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 6396e6a3-9c86-4a49-90da-28688195ec55
       recordings:
       - id: e1217d4b-e353-4d0b-b499-34232dc9f29f
-        isrcs: *id001
+        isrcs:
+        - "USJI10300160"
         title: What?
         length: 148706
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: 2000be87-c314-4897-b00d-f50823d100e5
       recordings:
       - id: e1217d4b-e353-4d0b-b499-34232dc9f29f
-        isrcs: *id001
+        isrcs:
+        - "USJI10300160"
         title: What?
         length: 148706
         video: false

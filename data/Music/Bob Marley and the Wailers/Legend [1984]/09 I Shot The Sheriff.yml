@@ -23,16 +23,16 @@ trackIdData:
         firstReleaseDate: '1993'
       - id: 1bc64445-ba5c-4116-b7b9-96169d5854e6
         isrcs:
-        - DE2DY1800943
-        - GBAAN7090006
-        - GBAJE0500925
-        - GBAJE7000127
-        - GBAWA0519010
-        - GBFWU0400075
-        - GBFWU0400187
-        - USA560686250
-        - USA560702599
-        - USIR27800260
+        - "DE2DY1800943"
+        - "GBAAN7090006"
+        - "GBAJE0500925"
+        - "GBAJE7000127"
+        - "GBAWA0519010"
+        - "GBFWU0400075"
+        - "GBFWU0400187"
+        - "USA560686250"
+        - "USA560702599"
+        - "USIR27800260"
         title: Sun Is Shining
         length: 132000
         video: false
@@ -83,15 +83,15 @@ trackIdData:
         firstReleaseDate:
       - id: 530776fe-c65b-4df0-8566-068ed51df024
         isrcs:
-        - USUM71302815
+        - "USUM71302815"
         title: I Shot the Sheriff
         length: 268826
         video: false
         disambiguation: 'live, 1978-07-07: Ahoy Club, Rotterdam, Netherlands'
         firstReleaseDate: '1994'
       - id: 53f18530-fe2d-4b97-8cd7-55fdfbf2fede
-        isrcs: &id001
-        - GBAAN7390003
+        isrcs:
+        - "GBAAN7390003"
         title: I Shot the Sheriff
         length: 281000
         video: false
@@ -105,8 +105,8 @@ trackIdData:
         disambiguation: 'live, 1980-06-12: Westfalenstadion, Dortmund, Germany'
         firstReleaseDate: '2020-11-20'
       - id: 67284152-e6a9-4e14-ba6a-962f83de69d9
-        isrcs: &id002
-        - GBAAN7390003
+        isrcs:
+        - "GBAAN7390003"
         title: I Shot the Sheriff
         length: 281200
         video: false
@@ -128,7 +128,7 @@ trackIdData:
         firstReleaseDate: '2001'
       - id: 9c7ac284-8a79-4915-8e24-23d5251dca07
         isrcs:
-        - GBAAN7390009
+        - "GBAAN7390009"
         title: I Shot the Sheriff
         length: 228826
         video: false
@@ -164,7 +164,7 @@ trackIdData:
         firstReleaseDate: '1998'
       - id: fbaacb52-4acc-4bdd-a3b8-ebd3b1d41183
         isrcs:
-        - GBAPA0100002
+        - "GBAPA0100002"
         title: High Tide or Low Tide
         length: 284733
         video: false
@@ -232,7 +232,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2002'
       - id: 53f18530-fe2d-4b97-8cd7-55fdfbf2fede
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7390003"
         title: I Shot the Sheriff
         length: 281000
         video: false
@@ -246,7 +247,8 @@ trackIdData:
         disambiguation: 'live, 1980-06-12: Westfalenstadion, Dortmund, Germany'
         firstReleaseDate: '2020-11-20'
       - id: 67284152-e6a9-4e14-ba6a-962f83de69d9
-        isrcs: *id002
+        isrcs:
+        - "GBAAN7390003"
         title: I Shot the Sheriff
         length: 281200
         video: false

@@ -15,9 +15,9 @@ trackIdData:
     - id: 112666c9-df2e-4e3d-8679-6ba56a43c23a
       recordings:
       - id: 5a164c72-19e5-4689-b4c3-23ab85d96595
-        isrcs: &id001
-        - USSM10207819
-        - USSM17200306
+        isrcs:
+        - "USSM10207819"
+        - "USSM17200306"
         title: Kissing My Love
         length: 229466
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: 76d9b45e-d848-4eb4-acbf-5293c9297257
       recordings:
       - id: 5a164c72-19e5-4689-b4c3-23ab85d96595
-        isrcs: *id001
+        isrcs:
+        - "USSM10207819"
+        - "USSM17200306"
         title: Kissing My Love
         length: 229466
         video: false

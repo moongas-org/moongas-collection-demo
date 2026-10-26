@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2017-09-30'
       - id: fb471459-b9f0-4713-be34-2230ec78001b
-        isrcs: &id001
-        - US29V0422307
-        - USFMA1900134
+        isrcs:
+        - "US29V0422307"
+        - "USFMA1900134"
         title: Supertouch / Shitfit
         length: 150986
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: e10f22c3-09e1-4957-a60f-b2bff266f1e2
       recordings:
       - id: fb471459-b9f0-4713-be34-2230ec78001b
-        isrcs: *id001
+        isrcs:
+        - "US29V0422307"
+        - "USFMA1900134"
         title: Supertouch / Shitfit
         length: 150986
         video: false

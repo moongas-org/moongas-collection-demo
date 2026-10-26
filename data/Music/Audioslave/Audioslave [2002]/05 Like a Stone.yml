@@ -23,8 +23,8 @@ trackIdData:
           Amphitheatre, Universal City, CA, USA'
         firstReleaseDate: '2005'
       - id: 1fbc0c99-3094-410c-8c44-a3d2b87ec423
-        isrcs: &id001
-        - USSM10211587
+        isrcs:
+        - "USSM10211587"
         title: Like a Stone
         length: 294000
         video: false
@@ -32,7 +32,7 @@ trackIdData:
         firstReleaseDate: '2002-11-15'
       - id: 28fd5146-c24e-4a9c-86e4-7f57496a1e5d
         isrcs:
-        - USIR10500783
+        - "USIR10500783"
         title: Out of Exile
         length: 291200
         video: false
@@ -46,8 +46,8 @@ trackIdData:
         disambiguation: 'live, 2005-08-05: Sessions @AOL Music'
         firstReleaseDate: '2005-05-05'
       - id: 6f1c0397-c274-42a6-a0ea-4a122a7bad46
-        isrcs: &id002
-        - USSM20300004
+        isrcs:
+        - "USSM20300004"
         title: Like a Stone
         length: 300000
         video: true
@@ -71,7 +71,8 @@ trackIdData:
     - id: 58f6906c-2977-4d2e-9fe2-39d5ac5db692
       recordings:
       - id: 1fbc0c99-3094-410c-8c44-a3d2b87ec423
-        isrcs: *id001
+        isrcs:
+        - "USSM10211587"
         title: Like a Stone
         length: 294000
         video: false
@@ -85,7 +86,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010-02-25'
       - id: 6f1c0397-c274-42a6-a0ea-4a122a7bad46
-        isrcs: *id002
+        isrcs:
+        - "USSM20300004"
         title: Like a Stone
         length: 300000
         video: true

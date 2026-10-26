@@ -15,8 +15,8 @@ trackIdData:
     - id: 51a9acd1-2833-4537-85a7-74b08263263c
       recordings:
       - id: 3a29f337-5572-4810-a26c-1178491511fd
-        isrcs: &id001
-        - USJI19000002
+        isrcs:
+        - "USJI19000002"
         title: I Left My Wallet in El Segundo
         length: 246000
         video: false
@@ -38,7 +38,7 @@ trackIdData:
         firstReleaseDate: '2003-01-20'
       - id: 903bd644-6f1f-4624-a883-59dcc67c25f6
         isrcs:
-        - GBAHK9600108
+        - "GBAHK9600108"
         title: Crew
         length: 118000
         video: false
@@ -62,7 +62,8 @@ trackIdData:
     - id: ec091033-c924-4784-90cc-2b843b3f0757
       recordings:
       - id: 3a29f337-5572-4810-a26c-1178491511fd
-        isrcs: *id001
+        isrcs:
+        - "USJI19000002"
         title: I Left My Wallet in El Segundo
         length: 246000
         video: false
@@ -84,7 +85,7 @@ trackIdData:
         firstReleaseDate: '2003-01-20'
       - id: e1603c1f-c03e-4d5d-9232-f5092a3c9144
         isrcs:
-        - USJI19100004
+        - "USJI19100004"
         title: Jazz (We’ve Got)
         length: 250226
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2011'
       - id: e0c464ce-5bcf-4902-add9-464cf69480ff
-        isrcs: &id001
-        - DEN060000180
+        isrcs:
+        - "DEN060000180"
         title: See U Again
         length: 395000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 86e51203-aed4-4955-be84-3265da9a5bb7
       recordings:
       - id: e0c464ce-5bcf-4902-add9-464cf69480ff
-        isrcs: *id001
+        isrcs:
+        - "DEN060000180"
         title: See U Again
         length: 395000
         video: false

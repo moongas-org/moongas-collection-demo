@@ -15,8 +15,8 @@ trackIdData:
     - id: d5a99fe4-7568-461d-a926-87107cb22739
       recordings:
       - id: 9547dfb8-8522-4c7c-874e-91f08defe82f
-        isrcs: &id001
-        - DEB339559101
+        isrcs:
+        - "DEB339559101"
         title: Spiegel im Spiegel
         length: 636000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 2a7d5087-8472-4b44-a060-d054f519ec0d
       recordings:
       - id: 9547dfb8-8522-4c7c-874e-91f08defe82f
-        isrcs: *id001
+        isrcs:
+        - "DEB339559101"
         title: Spiegel im Spiegel
         length: 636000
         video: false

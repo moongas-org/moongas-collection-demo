@@ -15,9 +15,9 @@ trackIdData:
     - id: 5cff8820-89e9-455b-83a2-085056ef5ca6
       recordings:
       - id: eea42b97-0f31-482a-a5f4-1f0512c73d7f
-        isrcs: &id001
-        - DED579903740
-        - DEN060301026
+        isrcs:
+        - "DED579903740"
+        - "DEN060301026"
         title: Kayama
         length: 265933
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: 76e6f3ce-c63c-48be-9ce1-2da1b6c333d6
       recordings:
       - id: eea42b97-0f31-482a-a5f4-1f0512c73d7f
-        isrcs: *id001
+        isrcs:
+        - "DED579903740"
+        - "DEN060301026"
         title: Kayama
         length: 265933
         video: false

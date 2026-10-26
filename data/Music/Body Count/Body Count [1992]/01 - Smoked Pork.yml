@@ -15,8 +15,8 @@ trackIdData:
     - id: 77e6998f-1877-45bd-b676-22ac3852e727
       recordings:
       - id: 86aae68c-7881-49bc-a155-8a349a148922
-        isrcs: &id001
-        - USWB10102378
+        isrcs:
+        - "USWB10102378"
         title: Smoked Pork
         length: 47266
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: e58777be-5d0a-4e82-b999-5b9f62a14b14
       recordings:
       - id: 86aae68c-7881-49bc-a155-8a349a148922
-        isrcs: *id001
+        isrcs:
+        - "USWB10102378"
         title: Smoked Pork
         length: 47266
         video: false
@@ -36,7 +37,8 @@ trackIdData:
     - id: 675d78b6-0e03-4bb7-bc37-ba7075a6c315
       recordings:
       - id: 86aae68c-7881-49bc-a155-8a349a148922
-        isrcs: *id001
+        isrcs:
+        - "USWB10102378"
         title: Smoked Pork
         length: 47266
         video: false

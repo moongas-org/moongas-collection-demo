@@ -15,9 +15,9 @@ trackIdData:
     - id: 2e44dbc7-5fc2-485f-bb48-a2662183c4c3
       recordings:
       - id: f26116a3-8501-422f-bb16-cfd066f202e4
-        isrcs: &id001
-        - DED579903720
-        - DEN060301024
+        isrcs:
+        - "DED579903720"
+        - "DEN060301024"
         title: Obsession
         length: 385520
         video: false
@@ -37,7 +37,9 @@ trackIdData:
     - id: 515cb6ed-c0c4-4097-b2d7-993e93ca812b
       recordings:
       - id: f26116a3-8501-422f-bb16-cfd066f202e4
-        isrcs: *id001
+        isrcs:
+        - "DED579903720"
+        - "DEN060301024"
         title: Obsession
         length: 385520
         video: false
@@ -54,7 +56,9 @@ trackIdData:
     - id: 60c2b138-d6a4-4ea6-8ad8-ec8614b4ed14
       recordings:
       - id: f26116a3-8501-422f-bb16-cfd066f202e4
-        isrcs: *id001
+        isrcs:
+        - "DED579903720"
+        - "DEN060301024"
         title: Obsession
         length: 385520
         video: false

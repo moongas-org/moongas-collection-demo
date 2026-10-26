@@ -15,8 +15,8 @@ trackIdData:
     - id: 4ce2e918-5d03-47bb-849e-55785c75388c
       recordings:
       - id: 5fac597a-d4cf-4620-a3b1-97ce1120a303
-        isrcs: &id001
-        - DEN060300778
+        isrcs:
+        - "DEN060300778"
         title: I Will Not Forget
         length: 295013
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 79619bb7-7e14-4021-bdf4-f072e3ba2141
       recordings:
       - id: 5fac597a-d4cf-4620-a3b1-97ce1120a303
-        isrcs: *id001
+        isrcs:
+        - "DEN060300778"
         title: I Will Not Forget
         length: 295013
         video: false

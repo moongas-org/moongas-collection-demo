@@ -22,10 +22,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004-04-27'
       - id: a1b57a6a-ee49-4be9-8918-dfeaba07250f
-        isrcs: &id001
-        - GB5KW1602028
-        - USWB11304641
-        - USWB19901305
+        isrcs:
+        - "GB5KW1602028"
+        - "USWB11304641"
+        - "USWB19901305"
         title: Looking for Today
         length: 300706
         video: false
@@ -42,7 +42,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004-04-27'
       - id: a1b57a6a-ee49-4be9-8918-dfeaba07250f
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602028"
+        - "USWB11304641"
+        - "USWB19901305"
         title: Looking for Today
         length: 300706
         video: false

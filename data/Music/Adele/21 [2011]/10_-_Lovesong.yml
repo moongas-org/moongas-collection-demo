@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2012'
       - id: 7932ba40-a0d3-4a7e-8d85-b351fd33317e
-        isrcs: &id001
-        - GBBKS1000352
+        isrcs:
+        - "GBBKS1000352"
         title: Lovesong
         length: 316280
         video: false
@@ -45,7 +45,7 @@ trackIdData:
         firstReleaseDate: '2012'
       - id: fe4c59a4-f561-4e88-8d0c-d66ae64907c3
         isrcs:
-        - GBBKS1100247
+        - "GBBKS1100247"
         title: Lovesong
         length: 317000
         video: false
@@ -55,7 +55,8 @@ trackIdData:
     - id: ff8af719-0ba5-4544-b118-f800fffb2b44
       recordings:
       - id: 7932ba40-a0d3-4a7e-8d85-b351fd33317e
-        isrcs: *id001
+        isrcs:
+        - "GBBKS1000352"
         title: Lovesong
         length: 316280
         video: false
@@ -65,7 +66,8 @@ trackIdData:
     - id: 3080eca1-0430-4620-bb0e-2e3323a9d10d
       recordings:
       - id: 7932ba40-a0d3-4a7e-8d85-b351fd33317e
-        isrcs: *id001
+        isrcs:
+        - "GBBKS1000352"
         title: Lovesong
         length: 316280
         video: false

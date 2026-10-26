@@ -37,9 +37,9 @@ trackIdData:
           Portugal'
         firstReleaseDate:
       - id: f1e57531-e0df-4b3e-938f-1ae30c5b1a11
-        isrcs: &id001
-        - GBCEL1300332
-        - GBCEL1300362
+        isrcs:
+        - "GBCEL1300332"
+        - "GBCEL1300362"
         title: Do I Wanna Know?
         length: 272000
         video: false
@@ -50,8 +50,8 @@ trackIdData:
       recordings:
       - id: 30e5ac2d-7d1e-439f-985f-323323055edb
         isrcs:
-        - GBAHT1500386
-        - GBAHT1500396
+        - "GBAHT1500386"
+        - "GBAHT1500396"
         title: Snake Oil
         length: 261173
         video: false
@@ -73,7 +73,7 @@ trackIdData:
         firstReleaseDate:
       - id: 98c2b337-e12e-4a1f-b8ba-9d67e6a70d04
         isrcs:
-        - GBCEL1300615
+        - "GBCEL1300615"
         title: Do I Wanna Know?
         length: 267044
         video: false
@@ -81,11 +81,11 @@ trackIdData:
         firstReleaseDate: '2013-09-09'
       - id: b6912b63-297b-4023-8ec9-0b3d8d2d31b3
         isrcs:
-        - GB5KW1601287
-        - GBAJE7000077
-        - USWB10202637
-        - USWB11304613
-        - USWB19900790
+        - "GB5KW1601287"
+        - "GBAJE7000077"
+        - "USWB10202637"
+        - "USWB11304613"
+        - "USWB19900790"
         title: The Wizard
         length: 263760
         video: false
@@ -100,7 +100,9 @@ trackIdData:
           UK'
         firstReleaseDate:
       - id: f1e57531-e0df-4b3e-938f-1ae30c5b1a11
-        isrcs: *id001
+        isrcs:
+        - "GBCEL1300332"
+        - "GBCEL1300362"
         title: Do I Wanna Know?
         length: 272000
         video: false

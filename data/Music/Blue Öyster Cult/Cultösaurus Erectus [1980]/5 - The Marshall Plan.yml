@@ -15,8 +15,8 @@ trackIdData:
     - id: 080da016-ca7a-447e-bf4a-213e0e4e7f0b
       recordings:
       - id: 4bd93490-bc69-46d8-8364-2f5455a851cb
-        isrcs: &id001
-        - USSM18000442
+        isrcs:
+        - "USSM18000442"
         title: The Marshall Plan
         length: 325693
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 22bd022e-eb17-4fcc-b546-d34655f3a04d
       recordings:
       - id: 4bd93490-bc69-46d8-8364-2f5455a851cb
-        isrcs: *id001
+        isrcs:
+        - "USSM18000442"
         title: The Marshall Plan
         length: 325693
         video: false

@@ -15,8 +15,8 @@ trackIdData:
     - id: fb17d3e5-6a4c-4040-a3f5-e56c4f6fa6ee
       recordings:
       - id: 18e6ac7f-50e6-4364-b8a3-cbdc9b0ec81f
-        isrcs: &id001
-        - USVI20400265
+        isrcs:
+        - "USVI20400265"
         title: Church House Steps
         length: 286440
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: f81400ee-de05-42b6-b35f-f0e486e93f52
       recordings:
       - id: 18e6ac7f-50e6-4364-b8a3-cbdc9b0ec81f
-        isrcs: *id001
+        isrcs:
+        - "USVI20400265"
         title: Church House Steps
         length: 286440
         video: false

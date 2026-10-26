@@ -15,8 +15,8 @@ trackIdData:
     - id: 1904f386-4c79-4137-a182-84d4ae1c1d0c
       recordings:
       - id: 00101edd-3a4f-47eb-aac1-767584291e0a
-        isrcs: &id001
-        - GBUM71021641
+        isrcs:
+        - "GBUM71021641"
         title: Wasted Hours
         length: 200720
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 1521429e-f097-4ee4-811a-6c0a510c752a
       recordings:
       - id: 00101edd-3a4f-47eb-aac1-767584291e0a
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021641"
         title: Wasted Hours
         length: 200720
         video: false

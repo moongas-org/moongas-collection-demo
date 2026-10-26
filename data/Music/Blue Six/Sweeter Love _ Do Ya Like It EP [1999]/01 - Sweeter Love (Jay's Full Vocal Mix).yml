@@ -22,10 +22,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1999'
       - id: 9f12ab7d-670a-49da-8f92-03735d987f9a
-        isrcs: &id001
-        - GBBGH9930101
-        - USCN30100197
-        - USWA19810085
+        isrcs:
+        - "GBBGH9930101"
+        - "USCN30100197"
+        - "USWA19810085"
         title: Sweeter Love
         length: 497360
         video: false
@@ -35,7 +35,10 @@ trackIdData:
     - id: 38d30c4e-5e66-427a-a1aa-936d6e102d6a
       recordings:
       - id: 9f12ab7d-670a-49da-8f92-03735d987f9a
-        isrcs: *id001
+        isrcs:
+        - "GBBGH9930101"
+        - "USCN30100197"
+        - "USWA19810085"
         title: Sweeter Love
         length: 497360
         video: false
@@ -47,7 +50,10 @@ trackIdData:
     - id: 8c2b037e-6dc4-4f98-b92c-f2e1a89dc1a4
       recordings:
       - id: 9f12ab7d-670a-49da-8f92-03735d987f9a
-        isrcs: *id001
+        isrcs:
+        - "GBBGH9930101"
+        - "USCN30100197"
+        - "USWA19810085"
         title: Sweeter Love
         length: 497360
         video: false

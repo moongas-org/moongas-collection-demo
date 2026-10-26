@@ -15,8 +15,8 @@ trackIdData:
     - id: bb4ec100-10e4-4f51-861f-ffa69d21dcb3
       recordings:
       - id: 1cbd0e39-d8c0-4b54-81d9-d146ff76cf88
-        isrcs: &id001
-        - GBAAN7390006
+        isrcs:
+        - "GBAAN7390006"
         title: Concrete Jungle
         length: 253000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 826248c2-7f08-4d9d-b9e6-4014d29226b7
       recordings:
       - id: 1cbd0e39-d8c0-4b54-81d9-d146ff76cf88
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7390006"
         title: Concrete Jungle
         length: 253000
         video: false
@@ -50,7 +51,8 @@ trackIdData:
     - id: cb64627e-be1d-4441-bbed-890a46c3bc58
       recordings:
       - id: 1cbd0e39-d8c0-4b54-81d9-d146ff76cf88
-        isrcs: *id001
+        isrcs:
+        - "GBAAN7390006"
         title: Concrete Jungle
         length: 253000
         video: false
@@ -58,7 +60,7 @@ trackIdData:
         firstReleaseDate: '1973-04-13'
       - id: 38d2e968-25d1-49e4-a570-9417326350d9
         isrcs:
-        - USIR27900001
+        - "USIR27900001"
         title: So Much Trouble in the World
         length: 240293
         video: false

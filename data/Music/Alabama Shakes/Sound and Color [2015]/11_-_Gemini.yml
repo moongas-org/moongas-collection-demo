@@ -15,8 +15,8 @@ trackIdData:
     - id: 4ce915ac-a820-48e2-8b02-f6171089eef6
       recordings:
       - id: 3e7ac96c-a9de-4937-89b5-dac34c021283
-        isrcs: &id001
-        - USATO1400860
+        isrcs:
+        - "USATO1400860"
         title: Gemini
         length: 396000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 19223c02-232d-440a-909a-98ae1ce53021
       recordings:
       - id: 3e7ac96c-a9de-4937-89b5-dac34c021283
-        isrcs: *id001
+        isrcs:
+        - "USATO1400860"
         title: Gemini
         length: 396000
         video: false

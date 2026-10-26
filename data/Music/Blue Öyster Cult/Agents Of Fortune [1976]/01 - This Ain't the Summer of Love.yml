@@ -15,8 +15,8 @@ trackIdData:
     - id: c05c45aa-cbc5-4270-9b53-d6b3e963d2f6
       recordings:
       - id: 73f3a1a6-7c8a-43bb-b5e3-6b050685d58b
-        isrcs: &id001
-        - USSM17600395
+        isrcs:
+        - "USSM17600395"
         title: This Ain’t the Summer of Love
         length: 141293
         video: false
@@ -31,7 +31,7 @@ trackIdData:
         firstReleaseDate: '1997'
       - id: 855c169d-7d8b-422e-a066-bf553e45bbbb
         isrcs:
-        - USSM17600395
+        - "USSM17600395"
         title: This Ain’t the Summer of Love
         length: 140000
         video: false
@@ -39,7 +39,7 @@ trackIdData:
         firstReleaseDate: '2009'
       - id: a3f8bd7e-bbd3-4c31-8ecf-f285ba6cc123
         isrcs:
-        - ITG272000177
+        - "ITG272000177"
         title: This Ain’t the Summer of Love
         length: 167000
         video: false
@@ -47,7 +47,7 @@ trackIdData:
         firstReleaseDate: '1994-06-01'
       - id: b9f29998-6ab9-4a77-b1b6-d6d28c52246d
         isrcs:
-        - ITG272000235
+        - "ITG272000235"
         title: This Ain’t the Summer of Love
         length: 137333
         video: false
@@ -58,14 +58,15 @@ trackIdData:
       recordings:
       - id: 1db1bbe6-c7ab-4913-b347-7c97f7fd12de
         isrcs:
-        - USSM10212938
+        - "USSM10212938"
         title: This Ain’t the Summer of Love (5.1 mix)
         length: 141000
         video: false
         disambiguation: ''
         firstReleaseDate: '2003-01-21'
       - id: 73f3a1a6-7c8a-43bb-b5e3-6b050685d58b
-        isrcs: *id001
+        isrcs:
+        - "USSM17600395"
         title: This Ain’t the Summer of Love
         length: 141293
         video: false
@@ -103,7 +104,8 @@ trackIdData:
     - id: 37bdef39-6a83-4e32-8678-722896364d21
       recordings:
       - id: 73f3a1a6-7c8a-43bb-b5e3-6b050685d58b
-        isrcs: *id001
+        isrcs:
+        - "USSM17600395"
         title: This Ain’t the Summer of Love
         length: 141293
         video: false

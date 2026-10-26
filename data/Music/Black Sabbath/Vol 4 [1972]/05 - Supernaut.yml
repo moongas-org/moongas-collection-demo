@@ -15,10 +15,10 @@ trackIdData:
     - id: 430ac40e-e8f4-4238-a856-d574702c9c29
       recordings:
       - id: 57ccd273-74f1-4889-8f0a-3ac32e8ce3d6
-        isrcs: &id001
-        - GB5KW1602041
-        - GBAJE7200132
-        - USWB10202653
+        isrcs:
+        - "GB5KW1602041"
+        - "GBAJE7200132"
+        - "USWB10202653"
         title: Supernaut
         length: 282000
         video: false
@@ -28,7 +28,10 @@ trackIdData:
     - id: d6f5240f-fb67-4858-83dc-8a5d83fec6a4
       recordings:
       - id: 57ccd273-74f1-4889-8f0a-3ac32e8ce3d6
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602041"
+        - "GBAJE7200132"
+        - "USWB10202653"
         title: Supernaut
         length: 282000
         video: false
@@ -42,9 +45,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1987-11-15'
       - id: d5711a12-e6e8-4782-aaf9-c6db6fc3092b
-        isrcs: &id002
-        - USRH12003000
-        - USWB11304621
+        isrcs:
+        - "USRH12003000"
+        - "USWB11304621"
         title: Supernaut
         length: 270213
         video: false
@@ -61,7 +64,10 @@ trackIdData:
     - id: b8405b31-b7d7-4f0a-9a60-f15d4af118f2
       recordings:
       - id: 57ccd273-74f1-4889-8f0a-3ac32e8ce3d6
-        isrcs: *id001
+        isrcs:
+        - "GB5KW1602041"
+        - "GBAJE7200132"
+        - "USWB10202653"
         title: Supernaut
         length: 282000
         video: false
@@ -75,7 +81,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1987-11-15'
       - id: d5711a12-e6e8-4782-aaf9-c6db6fc3092b
-        isrcs: *id002
+        isrcs:
+        - "USRH12003000"
+        - "USWB11304621"
         title: Supernaut
         length: 270213
         video: false

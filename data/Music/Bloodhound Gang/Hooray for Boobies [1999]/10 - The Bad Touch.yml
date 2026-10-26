@@ -15,16 +15,16 @@ trackIdData:
     - id: 53561f9e-a384-4e94-9b8a-f90b1220fe73
       recordings:
       - id: a1a4e180-a602-4104-afed-b5fcc1c06271
-        isrcs: &id001
-        - USIR19902530
+        isrcs:
+        - "USIR19902530"
         title: The Bad Touch
         length: 260506
         video: false
         disambiguation: ''
         firstReleaseDate: '1999-09-03'
       - id: e9285ccc-2ea4-4f96-b83a-51afb9edcea2
-        isrcs: &id002
-        - USIR19902530
+        isrcs:
+        - "USIR19902530"
         title: The Bad Touch
         length: 268426
         video: false
@@ -49,7 +49,7 @@ trackIdData:
         firstReleaseDate:
       - id: 1c46f161-2147-44eb-a6d9-a1f01aa0ccc1
         isrcs:
-        - USIR19915011
+        - "USIR19915011"
         title: The Bad Touch
         length: 260000
         video: false
@@ -57,7 +57,7 @@ trackIdData:
         firstReleaseDate: '1999'
       - id: 22f4f3e9-7d73-4aaf-82c8-08162b838d25
         isrcs:
-        - USIR19902530
+        - "USIR19902530"
         title: The Bad Touch
         length: 260000
         video: false
@@ -72,7 +72,7 @@ trackIdData:
         firstReleaseDate: '1999'
       - id: 46920468-64a8-417f-8a0d-6baebcce3f16
         isrcs:
-        - USIR19902530
+        - "USIR19902530"
         title: The Bad Touch
         length: 260653
         video: false
@@ -93,7 +93,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2019-02-22'
       - id: a1a4e180-a602-4104-afed-b5fcc1c06271
-        isrcs: *id001
+        isrcs:
+        - "USIR19902530"
         title: The Bad Touch
         length: 260506
         video: false
@@ -122,9 +123,9 @@ trackIdData:
         firstReleaseDate: '2000'
       - id: d9dea1a5-87a4-421a-86e1-58117a7cc8aa
         isrcs:
-        - GBARL1100964
-        - GBARL1801304
-        - GBBBM9802037
+        - "GBARL1100964"
+        - "GBARL1801304"
+        - "GBBBM9802037"
         title: You Stole the Sun From My Heart
         length: 261000
         video: false
@@ -138,7 +139,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000'
       - id: e9285ccc-2ea4-4f96-b83a-51afb9edcea2
-        isrcs: *id002
+        isrcs:
+        - "USIR19902530"
         title: The Bad Touch
         length: 268426
         video: false

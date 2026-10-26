@@ -79,10 +79,10 @@ trackIdData:
         disambiguation: 'live, 1993‐10‐13: Hugenottenhalle, Neu Isenburg, Germany'
         firstReleaseDate:
       - id: b0b9e9c1-a234-42db-a2b6-d0d576bf525d
-        isrcs: &id001
-        - USSM10414453
-        - USSM19200614
-        - USSM19200805
+        isrcs:
+        - "USSM10414453"
+        - "USSM19200614"
+        - "USSM19200805"
         title: Would?
         length: 208000
         video: false
@@ -106,7 +106,10 @@ trackIdData:
     - id: 4faf672c-add4-445a-b941-84658c141191
       recordings:
       - id: b0b9e9c1-a234-42db-a2b6-d0d576bf525d
-        isrcs: *id001
+        isrcs:
+        - "USSM10414453"
+        - "USSM19200614"
+        - "USSM19200805"
         title: Would?
         length: 208000
         video: false

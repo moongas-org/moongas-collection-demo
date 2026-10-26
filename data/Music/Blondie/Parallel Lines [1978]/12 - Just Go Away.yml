@@ -15,9 +15,9 @@ trackIdData:
     - id: 513b7b14-8d75-4991-a009-46427167e079
       recordings:
       - id: ccd11b0f-d98c-4381-a5e1-75531be31daf
-        isrcs: &id001
-        - USCH30100110
-        - USCH38500021
+        isrcs:
+        - "USCH30100110"
+        - "USCH38500021"
         title: Just Go Away
         length: 207160
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: 9953cd34-5bfe-4ebe-9e14-c0846e8b1555
       recordings:
       - id: ccd11b0f-d98c-4381-a5e1-75531be31daf
-        isrcs: *id001
+        isrcs:
+        - "USCH30100110"
+        - "USCH38500021"
         title: Just Go Away
         length: 207160
         video: false

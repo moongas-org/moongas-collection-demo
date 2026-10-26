@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: 2011-06
       - id: 213757f0-41cd-4daa-bc6a-4d990fa5d5ab
-        isrcs: &id001
-        - BEZ350800023
+        isrcs:
+        - "BEZ350800023"
         title: Tha
         length: 547106
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 5bce8652-8078-43b7-9cb0-fa397f9a2c67
       recordings:
       - id: 213757f0-41cd-4daa-bc6a-4d990fa5d5ab
-        isrcs: *id001
+        isrcs:
+        - "BEZ350800023"
         title: Tha
         length: 547106
         video: false

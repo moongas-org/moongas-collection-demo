@@ -15,8 +15,8 @@ trackIdData:
     - id: d1ef6713-fa0c-4261-b06a-ae1515c28f1a
       recordings:
       - id: d1d5abc1-e14b-4b8d-b8ae-88890dba8d8a
-        isrcs: &id001
-        - USJI10300155
+        isrcs:
+        - "USJI10300155"
         title: Show Business
         length: 233426
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 45b42689-49dd-4e5e-b6f2-35b29bed4add
       recordings:
       - id: d1d5abc1-e14b-4b8d-b8ae-88890dba8d8a
-        isrcs: *id001
+        isrcs:
+        - "USJI10300155"
         title: Show Business
         length: 233426
         video: false

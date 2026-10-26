@@ -15,8 +15,8 @@ trackIdData:
     - id: d4fefbb4-f4da-4162-a79a-95a450f11e7d
       recordings:
       - id: 638e78da-a197-4f5d-8a07-6cee8b16113e
-        isrcs: &id001
-        - USSM18500991
+        isrcs:
+        - "USSM18500991"
         title: Shadow Warrior
         length: 342293
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 097df87a-9137-4651-a121-7e759bd2191a
       recordings:
       - id: 638e78da-a197-4f5d-8a07-6cee8b16113e
-        isrcs: *id001
+        isrcs:
+        - "USSM18500991"
         title: Shadow Warrior
         length: 342293
         video: false

@@ -22,21 +22,21 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1970'
       - id: bc322b58-9a1a-4865-b98a-14bf903b12ed
-        isrcs: &id001
-        - USA560795178
-        - USBR10100083
-        - USBT21610937
-        - USBT21612065
-        - USDEI1009000
-        - USRHD0610119
+        isrcs:
+        - "USA560795178"
+        - "USBR10100083"
+        - "USBT21610937"
+        - "USBT21612065"
+        - "USDEI1009000"
+        - "USRHD0610119"
         title: One Toke Over the Line
         length: 201133
         video: false
         disambiguation: ''
         firstReleaseDate: 1970-11
       - id: d3eecd51-8748-4955-8760-82ec19c93767
-        isrcs: &id002
-        - USBR10100083
+        isrcs:
+        - "USBR10100083"
         title: One Toke Over the Line
         length: 201586
         video: false
@@ -75,7 +75,7 @@ trackIdData:
         firstReleaseDate: '1999'
       - id: 5154c53e-709c-4dd6-ac7e-9ea02014d304
         isrcs:
-        - CANC21208078
+        - "CANC21208078"
         title: One Toke Over the Line
         length: 206293
         video: false
@@ -89,7 +89,13 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2009-01-27'
       - id: bc322b58-9a1a-4865-b98a-14bf903b12ed
-        isrcs: *id001
+        isrcs:
+        - "USA560795178"
+        - "USBR10100083"
+        - "USBT21610937"
+        - "USBT21612065"
+        - "USDEI1009000"
+        - "USRHD0610119"
         title: One Toke Over the Line
         length: 201133
         video: false
@@ -103,7 +109,8 @@ trackIdData:
         disambiguation: re-recording
         firstReleaseDate: '2005-07-05'
       - id: d3eecd51-8748-4955-8760-82ec19c93767
-        isrcs: *id002
+        isrcs:
+        - "USBR10100083"
         title: One Toke Over the Line
         length: 201586
         video: false

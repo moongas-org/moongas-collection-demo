@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: db19d7d2-a20b-4722-9cac-9c8d06b9a814
-        isrcs: &id001
-        - USSM10020156
-        - USUG12301901
+        isrcs:
+        - "USSM10020156"
+        - "USUG12301901"
         title: Kings and Queens
         length: 229000
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: 0a272d14-ff4e-4da3-bb51-374649e4433f
       recordings:
       - id: db19d7d2-a20b-4722-9cac-9c8d06b9a814
-        isrcs: *id001
+        isrcs:
+        - "USSM10020156"
+        - "USUG12301901"
         title: Kings and Queens
         length: 229000
         video: false

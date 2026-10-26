@@ -51,16 +51,16 @@ trackIdData:
         firstReleaseDate: '2005-02-14'
       - id: a4fb2c62-f463-4a7f-8625-b22d218e5531
         isrcs:
-        - GBUM70909899
+        - "GBUM70909899"
         title: Like Eating Glass
         length: 244000
         video: false
         disambiguation: 'live, 2009-07-20: The Roundhouse, London, UK'
         firstReleaseDate: '2009-01-01'
       - id: e0c81899-a69b-42e7-bc57-1edd2f30562a
-        isrcs: &id001
-        - GBDNH0400383
-        - GBDNH0400620
+        isrcs:
+        - "GBDNH0400383"
+        - "GBDNH0400620"
         title: Like Eating Glass
         length: 261986
         video: false
@@ -70,7 +70,9 @@ trackIdData:
     - id: c6f0a296-27f4-4dc3-ae82-386cf61ddbf9
       recordings:
       - id: e0c81899-a69b-42e7-bc57-1edd2f30562a
-        isrcs: *id001
+        isrcs:
+        - "GBDNH0400383"
+        - "GBDNH0400620"
         title: Like Eating Glass
         length: 261986
         video: false

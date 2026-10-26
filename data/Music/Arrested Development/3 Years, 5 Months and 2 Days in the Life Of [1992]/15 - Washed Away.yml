@@ -15,8 +15,8 @@ trackIdData:
     - id: 2c3a36a1-a9e2-41d6-838e-922b237c1cae
       recordings:
       - id: 8e8ba670-96c0-44c9-a753-4a59f1b98afe
-        isrcs: &id001
-        - USCA29201552
+        isrcs:
+        - "USCA29201552"
         title: Washed Away
         length: 383000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: aa89e5f1-e28c-48e2-8ad5-07c40852611b
       recordings:
       - id: 8e8ba670-96c0-44c9-a753-4a59f1b98afe
-        isrcs: *id001
+        isrcs:
+        - "USCA29201552"
         title: Washed Away
         length: 383000
         video: false

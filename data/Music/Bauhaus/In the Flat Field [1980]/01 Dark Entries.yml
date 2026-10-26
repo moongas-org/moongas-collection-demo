@@ -15,10 +15,10 @@ trackIdData:
     - id: c6580040-a020-4b43-86cb-87161b729130
       recordings:
       - id: 565f22fd-fb1f-436d-9f1c-6d6a5ea7786d
-        isrcs: &id001
-        - GBAFL0800090
-        - GBAFL9800112
-        - GBAFL9800113
+        isrcs:
+        - "GBAFL0800090"
+        - "GBAFL9800112"
+        - "GBAFL9800113"
         title: Dark Entries
         length: 232000
         video: false
@@ -35,7 +35,10 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2006'
       - id: 565f22fd-fb1f-436d-9f1c-6d6a5ea7786d
-        isrcs: *id001
+        isrcs:
+        - "GBAFL0800090"
+        - "GBAFL9800112"
+        - "GBAFL9800113"
         title: Dark Entries
         length: 232000
         video: false

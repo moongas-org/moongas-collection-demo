@@ -15,8 +15,8 @@ trackIdData:
     - id: 0c915be2-86cd-4448-a053-29cad376ad68
       recordings:
       - id: f13d8aae-76dc-47ce-97e2-e7c445ddce29
-        isrcs: &id001
-        - USDW10022217
+        isrcs:
+        - "USDW10022217"
         title: Movies
         length: 196000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 9a54dc8b-2856-4330-b042-e071332938aa
       recordings:
       - id: f13d8aae-76dc-47ce-97e2-e7c445ddce29
-        isrcs: *id001
+        isrcs:
+        - "USDW10022217"
         title: Movies
         length: 196000
         video: false
@@ -43,7 +44,8 @@ trackIdData:
     - id: ba62f16b-881c-4d61-b1a0-b8f17f7ec1e3
       recordings:
       - id: f13d8aae-76dc-47ce-97e2-e7c445ddce29
-        isrcs: *id001
+        isrcs:
+        - "USDW10022217"
         title: Movies
         length: 196000
         video: false

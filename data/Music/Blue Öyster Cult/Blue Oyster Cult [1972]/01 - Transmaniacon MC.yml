@@ -23,15 +23,15 @@ trackIdData:
         firstReleaseDate: '1990-01-01'
       - id: 87a3595b-267b-4113-bbdf-56381c584065
         isrcs:
-        - USSM17100007
+        - "USSM17100007"
         title: Transmaniacon MC
         length: 203080
         video: false
         disambiguation: ''
         firstReleaseDate: '2023-06-23'
       - id: a5fdaca0-3cb6-4d8e-b673-998bcd40ad01
-        isrcs: &id001
-        - USSM17100007
+        isrcs:
+        - "USSM17100007"
         title: Transmaniacon MC
         length: 201000
         video: false
@@ -41,7 +41,8 @@ trackIdData:
     - id: 873c5df6-8a03-4e34-b333-fed0bd82266f
       recordings:
       - id: a5fdaca0-3cb6-4d8e-b673-998bcd40ad01
-        isrcs: *id001
+        isrcs:
+        - "USSM17100007"
         title: Transmaniacon MC
         length: 201000
         video: false

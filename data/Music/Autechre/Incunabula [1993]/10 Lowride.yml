@@ -15,9 +15,9 @@ trackIdData:
     - id: 06f99f14-ecdc-46f5-9d44-14ffede9d266
       recordings:
       - id: 7ed5687c-d006-4dd3-9780-9f7200dfe6f1
-        isrcs: &id001
-        - GBAQH9400051
-        - GBBPW9300133
+        isrcs:
+        - "GBAQH9400051"
+        - "GBBPW9300133"
         title: Lowride
         length: 436000
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: ced85cf0-0760-4a11-b46d-ab483b77e884
       recordings:
       - id: 7ed5687c-d006-4dd3-9780-9f7200dfe6f1
-        isrcs: *id001
+        isrcs:
+        - "GBAQH9400051"
+        - "GBBPW9300133"
         title: Lowride
         length: 436000
         video: false

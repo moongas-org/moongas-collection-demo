@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1996'
       - id: ea050799-a314-442a-9612-c2a192492b4b
-        isrcs: &id001
-        - GBBPW9800018
+        isrcs:
+        - "GBBPW9800018"
         title: Bocuma
         length: 95973
         video: false
@@ -35,7 +35,8 @@ trackIdData:
     - id: 9b1f74e2-2e62-41ea-9d0a-072856ec5c0c
       recordings:
       - id: ea050799-a314-442a-9612-c2a192492b4b
-        isrcs: *id001
+        isrcs:
+        - "GBBPW9800018"
         title: Bocuma
         length: 95973
         video: false

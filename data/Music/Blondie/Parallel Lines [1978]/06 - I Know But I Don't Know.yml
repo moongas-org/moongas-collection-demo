@@ -15,9 +15,9 @@ trackIdData:
     - id: d8cdb262-61d7-453a-b94f-5d116fbe7fec
       recordings:
       - id: e298ab8c-d380-450f-a328-ab628422c612
-        isrcs: &id001
-        - USCH30100103
-        - USCH38500017
+        isrcs:
+        - "USCH30100103"
+        - "USCH38500017"
         title: I Know but I Don’t Know
         length: 234760
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: fb9b7334-ec80-482d-bdc3-4a7a0d0a2eab
       recordings:
       - id: e298ab8c-d380-450f-a328-ab628422c612
-        isrcs: *id001
+        isrcs:
+        - "USCH30100103"
+        - "USCH38500017"
         title: I Know but I Don’t Know
         length: 234760
         video: false

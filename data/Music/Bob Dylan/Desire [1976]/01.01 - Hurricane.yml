@@ -29,8 +29,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2000-01-31'
       - id: 8774b94d-0e6a-4b4d-9e17-d916b1715bb4
-        isrcs: &id001
-        - USSM17500299
+        isrcs:
+        - "USSM17500299"
         title: Hurricane
         length: 514000
         video: false
@@ -51,9 +51,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005-09-21'
       - id: b249950e-5ff4-401a-aa3f-44c9db9e380e
-        isrcs: &id002
-        - USSM17500299
-        - USSM17500791
+        isrcs:
+        - "USSM17500299"
+        - "USSM17500791"
         title: Hurricane
         length: 513573
         video: false
@@ -119,7 +119,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2009-03-22'
       - id: 8774b94d-0e6a-4b4d-9e17-d916b1715bb4
-        isrcs: *id001
+        isrcs:
+        - "USSM17500299"
         title: Hurricane
         length: 514000
         video: false
@@ -148,7 +149,7 @@ trackIdData:
         firstReleaseDate: '1997'
       - id: adde0c32-38ca-439d-ba1c-9d0932de5cc9
         isrcs:
-        - USSM17500763
+        - "USSM17500763"
         title: Hurricane
         length: 513000
         video: false
@@ -162,7 +163,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2016-04-13'
       - id: b249950e-5ff4-401a-aa3f-44c9db9e380e
-        isrcs: *id002
+        isrcs:
+        - "USSM17500299"
+        - "USSM17500791"
         title: Hurricane
         length: 513573
         video: false
@@ -291,15 +294,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 85d37735-676c-40ea-92ef-e1378b0abbd6
-        isrcs: &id003
-        - USSM17500299
+        isrcs:
+        - "USSM17500299"
         title: Hurricane
         length: 512600
         video: false
         disambiguation: ''
         firstReleaseDate: '1994-11-15'
       - id: 8774b94d-0e6a-4b4d-9e17-d916b1715bb4
-        isrcs: *id001
+        isrcs:
+        - "USSM17500299"
         title: Hurricane
         length: 514000
         video: false
@@ -341,7 +345,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2016-04-13'
       - id: b249950e-5ff4-401a-aa3f-44c9db9e380e
-        isrcs: *id002
+        isrcs:
+        - "USSM17500299"
+        - "USSM17500791"
         title: Hurricane
         length: 513573
         video: false
@@ -386,14 +392,16 @@ trackIdData:
     - id: 19817b91-7280-4299-947f-15bb49d88b34
       recordings:
       - id: 85d37735-676c-40ea-92ef-e1378b0abbd6
-        isrcs: *id003
+        isrcs:
+        - "USSM17500299"
         title: Hurricane
         length: 512600
         video: false
         disambiguation: ''
         firstReleaseDate: '1994-11-15'
       - id: 8774b94d-0e6a-4b4d-9e17-d916b1715bb4
-        isrcs: *id001
+        isrcs:
+        - "USSM17500299"
         title: Hurricane
         length: 514000
         video: false
@@ -407,7 +415,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005-09-21'
       - id: b249950e-5ff4-401a-aa3f-44c9db9e380e
-        isrcs: *id002
+        isrcs:
+        - "USSM17500299"
+        - "USSM17500791"
         title: Hurricane
         length: 513573
         video: false

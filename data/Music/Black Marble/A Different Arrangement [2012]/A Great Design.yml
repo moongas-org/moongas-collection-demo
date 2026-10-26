@@ -36,8 +36,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2014-10-01'
       - id: f57563f4-5a99-40f4-89cb-06916823a5ba
-        isrcs: &id001
-        - USHF31206303
+        isrcs:
+        - "USHF31206303"
         title: A Great Design
         length: 270000
         video: false
@@ -47,7 +47,8 @@ trackIdData:
     - id: 7fccf27b-aabe-47cf-8a76-da946f361a21
       recordings:
       - id: f57563f4-5a99-40f4-89cb-06916823a5ba
-        isrcs: *id001
+        isrcs:
+        - "USHF31206303"
         title: A Great Design
         length: 270000
         video: false

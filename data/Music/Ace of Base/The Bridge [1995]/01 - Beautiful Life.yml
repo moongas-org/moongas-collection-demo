@@ -15,9 +15,9 @@ trackIdData:
     - id: ee2c6ea3-555b-45c6-ab52-f1a62d9ff06d
       recordings:
       - id: 095d4220-11ed-4905-b09f-10c7f50dc4d7
-        isrcs: &id001
-        - DKAWM9800803
-        - SEVJH0803303
+        isrcs:
+        - "DKAWM9800803"
+        - "SEVJH0803303"
         title: Cruel Summer
         length: 215000
         video: false
@@ -52,14 +52,14 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2008-11-14'
       - id: 554a7958-37ca-4718-8e25-b777d7bece35
-        isrcs: &id002
-        - DEF089503870
-        - DEF089504260
-        - DKAWM9500101
-        - DKAWM9500801
-        - RUB421600411
-        - SEVJH0803501
-        - USA561444858
+        isrcs:
+        - "DEF089503870"
+        - "DEF089504260"
+        - "DKAWM9500101"
+        - "DKAWM9500801"
+        - "RUB421600411"
+        - "SEVJH0803501"
+        - "USA561444858"
         title: Beautiful Life
         length: 219200
         video: false
@@ -74,7 +74,7 @@ trackIdData:
         firstReleaseDate: '1998'
       - id: 80867b97-db0a-4b5f-86ce-e02f59d5350b
         isrcs:
-        - GBAKW9800088
+        - "GBAKW9800088"
         title: All That I Need
         length: 221000
         video: false
@@ -82,7 +82,7 @@ trackIdData:
         firstReleaseDate: '1998-04-20'
       - id: 97486cce-da70-4b91-adec-4bea104e306b
         isrcs:
-        - SEVJH0805727
+        - "SEVJH0805727"
         title: Cruel Summer (Blazin’ Rhythm remix)
         length: 213107
         video: false
@@ -118,9 +118,9 @@ trackIdData:
         firstReleaseDate: '1997'
       - id: e156c7ad-0dfb-4c7a-86a2-bcc704ca391e
         isrcs:
-        - DEF089204260
-        - SEVJH0803406
-        - SEVJH0803801
+        - "DEF089204260"
+        - "SEVJH0803406"
+        - "SEVJH0803801"
         title: Voulez‐vous danser
         length: 200066
         video: false
@@ -152,16 +152,18 @@ trackIdData:
       recordings:
       - id: 01845758-65c8-4891-97c1-f2a1be8b25e6
         isrcs:
-        - GBAAA0300123
-        - GBAAA8900012
-        - GBAAA8900036
+        - "GBAAA0300123"
+        - "GBAAA8900012"
+        - "GBAAA8900036"
         title: Back to Life (However Do You Want Me)
         length: 227826
         video: false
         disambiguation: ''
         firstReleaseDate: '1989-06-13'
       - id: 095d4220-11ed-4905-b09f-10c7f50dc4d7
-        isrcs: *id001
+        isrcs:
+        - "DKAWM9800803"
+        - "SEVJH0803303"
         title: Cruel Summer
         length: 215000
         video: false
@@ -196,7 +198,14 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate:
       - id: 554a7958-37ca-4718-8e25-b777d7bece35
-        isrcs: *id002
+        isrcs:
+        - "DEF089503870"
+        - "DEF089504260"
+        - "DKAWM9500101"
+        - "DKAWM9500801"
+        - "RUB421600411"
+        - "SEVJH0803501"
+        - "USA561444858"
         title: Beautiful Life
         length: 219200
         video: false

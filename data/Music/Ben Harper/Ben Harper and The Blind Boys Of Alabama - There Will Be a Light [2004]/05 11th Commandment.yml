@@ -15,8 +15,8 @@ trackIdData:
     - id: c8c138dc-d653-41b7-9bce-3e07b2650ac3
       recordings:
       - id: 517c9995-6be0-4366-ad58-2a07657bb27e
-        isrcs: &id001
-        - USVI20400266
+        isrcs:
+        - "USVI20400266"
         title: 11th Commandment
         length: 94800
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 98df46a7-ae3d-4768-85f3-e666f27af3db
       recordings:
       - id: 517c9995-6be0-4366-ad58-2a07657bb27e
-        isrcs: *id001
+        isrcs:
+        - "USVI20400266"
         title: 11th Commandment
         length: 94800
         video: false

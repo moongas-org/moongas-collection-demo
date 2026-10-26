@@ -15,8 +15,8 @@ trackIdData:
     - id: 34df97f2-232d-42dd-971e-f3a7f3795de2
       recordings:
       - id: 11489633-0810-4fd0-9ea4-035b4bbc95cc
-        isrcs: &id001
-        - USATO1200024
+        isrcs:
+        - "USATO1200024"
         title: Boys & Girls
         length: 205986
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 856cc781-057e-4348-82e3-821fced91329
       recordings:
       - id: 11489633-0810-4fd0-9ea4-035b4bbc95cc
-        isrcs: *id001
+        isrcs:
+        - "USATO1200024"
         title: Boys & Girls
         length: 205986
         video: false

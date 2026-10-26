@@ -15,10 +15,10 @@ trackIdData:
     - id: 9612054a-2f7f-40a8-9110-319db06f493f
       recordings:
       - id: 1ea4a37d-df32-4713-a940-914900e1aa1c
-        isrcs: &id001
-        - DEA621800692
-        - DEA629260151
-        - USAT20002485
+        isrcs:
+        - "DEA621800692"
+        - "DEA629260151"
+        - "USAT20002485"
         title: Forever Young (special dance version)
         length: 371000
         video: false
@@ -35,7 +35,10 @@ trackIdData:
     - id: 74d1016e-f0f7-4f69-8682-ac966c6c909c
       recordings:
       - id: 1ea4a37d-df32-4713-a940-914900e1aa1c
-        isrcs: *id001
+        isrcs:
+        - "DEA621800692"
+        - "DEA629260151"
+        - "USAT20002485"
         title: Forever Young (special dance version)
         length: 371000
         video: false
@@ -45,7 +48,10 @@ trackIdData:
     - id: 17e9a60d-043f-4762-a534-750226b58982
       recordings:
       - id: 1ea4a37d-df32-4713-a940-914900e1aa1c
-        isrcs: *id001
+        isrcs:
+        - "DEA621800692"
+        - "DEA629260151"
+        - "USAT20002485"
         title: Forever Young (special dance version)
         length: 371000
         video: false

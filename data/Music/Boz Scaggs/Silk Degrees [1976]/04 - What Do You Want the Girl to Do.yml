@@ -15,8 +15,8 @@ trackIdData:
     - id: 254158e7-3a02-44c5-a61d-4f8eda896fd5
       recordings:
       - id: 66318fea-5fb6-4c80-8416-f6b67a204106
-        isrcs: &id001
-        - USSM17500565
+        isrcs:
+        - "USSM17500565"
         title: What Do You Want the Girl to Do
         length: 233266
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: a49e56ce-3481-4679-b6b2-3cfcd9118d40
       recordings:
       - id: 66318fea-5fb6-4c80-8416-f6b67a204106
-        isrcs: *id001
+        isrcs:
+        - "USSM17500565"
         title: What Do You Want the Girl to Do
         length: 233266
         video: false

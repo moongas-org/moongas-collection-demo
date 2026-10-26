@@ -15,8 +15,8 @@ trackIdData:
     - id: 6bfa7b83-54df-48c9-81da-5791c453ee96
       recordings:
       - id: 9af8d74f-03a3-4bc6-b6a7-c59889e1d475
-        isrcs: &id001
-        - USVI20400268
+        isrcs:
+        - "USVI20400268"
         title: Pictures of Jesus
         length: 225266
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 08267dd0-0274-484d-b007-0f89a4e28483
       recordings:
       - id: 9af8d74f-03a3-4bc6-b6a7-c59889e1d475
-        isrcs: *id001
+        isrcs:
+        - "USVI20400268"
         title: Pictures of Jesus
         length: 225266
         video: false

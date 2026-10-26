@@ -16,7 +16,7 @@ trackIdData:
       recordings:
       - id: 03289db2-c536-40d7-9bd0-c8e8d0836350
         isrcs:
-        - USSM10103100
+        - "USSM10103100"
         title: One More Cup of Coffee (Valley Below)
         length: 227106
         video: false
@@ -30,16 +30,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005-09-21'
       - id: 2c2548c1-276a-44e1-a2ea-84b4abe31be9
-        isrcs: &id001
-        - USSM10103100
+        isrcs:
+        - "USSM10103100"
         title: One More Cup of Coffee
         length: 226000
         video: false
         disambiguation: original studio mix
         firstReleaseDate: '1976-01-05'
       - id: 49922481-47b8-48b8-a786-e3589961338d
-        isrcs: &id002
-        - USSM10103100
+        isrcs:
+        - "USSM10103100"
         title: One More Cup of Coffee (Valley Below)
         length: 225066
         video: false
@@ -77,14 +77,16 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2005-09-21'
       - id: 2c2548c1-276a-44e1-a2ea-84b4abe31be9
-        isrcs: *id001
+        isrcs:
+        - "USSM10103100"
         title: One More Cup of Coffee
         length: 226000
         video: false
         disambiguation: original studio mix
         firstReleaseDate: '1976-01-05'
       - id: 49922481-47b8-48b8-a786-e3589961338d
-        isrcs: *id002
+        isrcs:
+        - "USSM10103100"
         title: One More Cup of Coffee (Valley Below)
         length: 225066
         video: false

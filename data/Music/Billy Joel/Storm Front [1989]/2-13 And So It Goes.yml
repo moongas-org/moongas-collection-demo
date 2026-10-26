@@ -15,9 +15,9 @@ trackIdData:
     - id: 24d217c6-bb99-411b-a6fb-fb7bd8b3aa39
       recordings:
       - id: 0cd83d6f-ff20-4fa0-9eda-458d81ed537a
-        isrcs: &id001
-        - USSM18300227
-        - USSM18900213
+        isrcs:
+        - "USSM18300227"
+        - "USSM18900213"
         title: And So It Goes
         length: 218000
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: e12b1f23-87a2-4dbd-8fa5-162777e31439
       recordings:
       - id: 0cd83d6f-ff20-4fa0-9eda-458d81ed537a
-        isrcs: *id001
+        isrcs:
+        - "USSM18300227"
+        - "USSM18900213"
         title: And So It Goes
         length: 218000
         video: false
@@ -35,7 +37,7 @@ trackIdData:
         firstReleaseDate: '1989-06-01'
       - id: 11159f31-62cb-47a6-a213-cf308dcf24e1
         isrcs:
-        - USSM18900213
+        - "USSM18900213"
         title: And So It Goes
         length: 220836
         video: false
@@ -43,7 +45,7 @@ trackIdData:
         firstReleaseDate: '2025-07-26'
       - id: 96e74eb5-1c5f-4eb5-84f6-bcc73314599f
         isrcs:
-        - USSM18900213
+        - "USSM18900213"
         title: And So It Goes
         length: 220836
         video: false
@@ -53,7 +55,9 @@ trackIdData:
     - id: 8ad66990-fff4-4ab4-82c3-2d50b7205063
       recordings:
       - id: 0cd83d6f-ff20-4fa0-9eda-458d81ed537a
-        isrcs: *id001
+        isrcs:
+        - "USSM18300227"
+        - "USSM18900213"
         title: And So It Goes
         length: 218000
         video: false

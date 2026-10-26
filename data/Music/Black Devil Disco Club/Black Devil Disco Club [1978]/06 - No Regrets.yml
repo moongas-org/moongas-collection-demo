@@ -15,8 +15,8 @@ trackIdData:
     - id: 540355e7-6c98-40fa-89a0-ef0ec6ca19ff
       recordings:
       - id: 29767d51-a4d3-4cee-94db-bf5ad6312eec
-        isrcs: &id001
-        - FRU451400356
+        isrcs:
+        - "FRU451400356"
         title: No Regrets
         length: 303000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 13dc69c3-a3ee-411f-a071-0781043a810d
       recordings:
       - id: 29767d51-a4d3-4cee-94db-bf5ad6312eec
-        isrcs: *id001
+        isrcs:
+        - "FRU451400356"
         title: No Regrets
         length: 303000
         video: false

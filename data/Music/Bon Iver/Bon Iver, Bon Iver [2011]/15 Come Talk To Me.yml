@@ -15,16 +15,16 @@ trackIdData:
     - id: 0392d432-1686-4547-ae77-659c8596da81
       recordings:
       - id: 6c1d1c7f-ead1-4a34-8d75-e7678041141a
-        isrcs: &id001
-        - US38Y1121102
+        isrcs:
+        - "US38Y1121102"
         title: Come Talk to Me
         length: 382000
         video: false
         disambiguation: ''
         firstReleaseDate: '2010-04-17'
       - id: 6ce5dac3-4c52-436b-a291-6a894133bcdd
-        isrcs: &id002
-        - GBCPB1000738
+        isrcs:
+        - "GBCPB1000738"
         title: Come Talk to Me
         length: 378000
         video: false
@@ -34,14 +34,16 @@ trackIdData:
     - id: 589b7499-d100-4250-b223-769a7fedaffc
       recordings:
       - id: 6c1d1c7f-ead1-4a34-8d75-e7678041141a
-        isrcs: *id001
+        isrcs:
+        - "US38Y1121102"
         title: Come Talk to Me
         length: 382000
         video: false
         disambiguation: ''
         firstReleaseDate: '2010-04-17'
       - id: 6ce5dac3-4c52-436b-a291-6a894133bcdd
-        isrcs: *id002
+        isrcs:
+        - "GBCPB1000738"
         title: Come Talk to Me
         length: 378000
         video: false

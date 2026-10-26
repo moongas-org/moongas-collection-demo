@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1991-07-30'
       - id: 2321497d-016b-4fa8-afb1-f9b2a2a38fb0
-        isrcs: &id001
-        - USSM19000767
+        isrcs:
+        - "USSM19000767"
         title: We Die Young
         length: 152000
         video: false
@@ -45,7 +45,7 @@ trackIdData:
         firstReleaseDate: '1993'
       - id: b311a73a-cd79-477a-b783-0bb4fbce6a7b
         isrcs:
-        - USCA28700795
+        - "USCA28700795"
         title: Babes in the Wood
         length: 152426
         video: false
@@ -55,7 +55,8 @@ trackIdData:
     - id: 11b4e217-b397-43db-9654-20980f84ef81
       recordings:
       - id: 2321497d-016b-4fa8-afb1-f9b2a2a38fb0
-        isrcs: *id001
+        isrcs:
+        - "USSM19000767"
         title: We Die Young
         length: 152000
         video: false

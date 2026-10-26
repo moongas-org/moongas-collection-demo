@@ -15,8 +15,8 @@ trackIdData:
     - id: 31c4cffe-7c53-48b2-be49-04e1a9248893
       recordings:
       - id: afd9bab5-85a5-4080-8d5c-d2abfd67c61c
-        isrcs: &id001
-        - USA2P1013068
+        isrcs:
+        - "USA2P1013068"
         title: James Connolly
         length: 359000
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 11b7fc18-7d7c-4de9-ba4d-eedba1bf2dd9
       recordings:
       - id: afd9bab5-85a5-4080-8d5c-d2abfd67c61c
-        isrcs: *id001
+        isrcs:
+        - "USA2P1013068"
         title: James Connolly
         length: 359000
         video: false

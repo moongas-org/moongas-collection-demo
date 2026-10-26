@@ -15,8 +15,8 @@ trackIdData:
     - id: 4eca5481-e50b-4c23-ab2d-15940c141eb8
       recordings:
       - id: c9cefddd-2f77-46a4-be24-6468e5531473
-        isrcs: &id001
-        - USSUB0774510
+        isrcs:
+        - "USSUB0774510"
         title: Window Blues
         length: 241306
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 71e3c2a3-8e7a-4bae-89f4-1e26fc0c3752
       recordings:
       - id: c9cefddd-2f77-46a4-be24-6468e5531473
-        isrcs: *id001
+        isrcs:
+        - "USSUB0774510"
         title: Window Blues
         length: 241306
         video: false

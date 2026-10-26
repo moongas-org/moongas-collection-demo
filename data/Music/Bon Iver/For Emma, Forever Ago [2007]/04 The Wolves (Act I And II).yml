@@ -15,9 +15,9 @@ trackIdData:
     - id: ff5e4a3a-49fe-42ff-8c66-07d86ae8e241
       recordings:
       - id: ca11bdb5-c3df-4bbe-b6c2-f1acf81d5c2c
-        isrcs: &id001
-        - US38Y0800004
-        - US38Y0811504
+        isrcs:
+        - "US38Y0800004"
+        - "US38Y0811504"
         title: The Wolves, Act I and II
         length: 322040
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: efc905db-d0be-426d-bc99-fa0091907069
       recordings:
       - id: ca11bdb5-c3df-4bbe-b6c2-f1acf81d5c2c
-        isrcs: *id001
+        isrcs:
+        - "US38Y0800004"
+        - "US38Y0811504"
         title: The Wolves, Act I and II
         length: 322040
         video: false

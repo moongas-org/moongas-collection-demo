@@ -15,8 +15,8 @@ trackIdData:
     - id: c485470f-ff49-4cdf-b464-cf08a9c3f282
       recordings:
       - id: 13965a79-d828-4d72-b995-0d239c6ee714
-        isrcs: &id001
-        - USAN29600147
+        isrcs:
+        - "USAN29600147"
         title: Little Bitty
         length: 158824
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: 2dfbe654-93e8-499b-ba09-29fe9ef69247
       recordings:
       - id: 13965a79-d828-4d72-b995-0d239c6ee714
-        isrcs: *id001
+        isrcs:
+        - "USAN29600147"
         title: Little Bitty
         length: 158824
         video: false
@@ -57,7 +58,8 @@ trackIdData:
     - id: 6d47ae2e-eb02-455b-a326-76cb639962b6
       recordings:
       - id: 13965a79-d828-4d72-b995-0d239c6ee714
-        isrcs: *id001
+        isrcs:
+        - "USAN29600147"
         title: Little Bitty
         length: 158824
         video: false

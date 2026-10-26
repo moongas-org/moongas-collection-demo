@@ -37,8 +37,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1988'
       - id: 909d50f0-7263-4daa-aaf1-5b2a679b7efd
-        isrcs: &id001
-        - USRN19400218
+        isrcs:
+        - "USRN19400218"
         title: If You’re Gonna Play in Texas (You Gotta Have a Fiddle in the 
           Band)
         length: 203000
@@ -54,7 +54,7 @@ trackIdData:
         firstReleaseDate: '1997'
       - id: 9a1d015d-ebec-4f2c-a247-2ffc5ab66a2f
         isrcs:
-        - USRN19400218
+        - "USRN19400218"
         title: If You’re Gonna Play in Texas
         length: 214240
         video: false
@@ -80,7 +80,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2002-09-24'
       - id: 909d50f0-7263-4daa-aaf1-5b2a679b7efd
-        isrcs: *id001
+        isrcs:
+        - "USRN19400218"
         title: If You’re Gonna Play in Texas (You Gotta Have a Fiddle in the 
           Band)
         length: 203000

@@ -30,15 +30,15 @@ trackIdData:
         firstReleaseDate: 2001-01
       - id: abec0982-c14c-4c5a-b53a-565a8ce207ca
         isrcs:
-        - GBUM70905105
+        - "GBUM70905105"
         title: High Tide or Low Tide
         length: 281773
         video: false
         disambiguation: B Is for Bob mix
         firstReleaseDate: '2009-01-01'
       - id: fbaacb52-4acc-4bdd-a3b8-ebd3b1d41183
-        isrcs: &id001
-        - GBAPA0100002
+        isrcs:
+        - "GBAPA0100002"
         title: High Tide or Low Tide
         length: 284733
         video: false
@@ -48,7 +48,8 @@ trackIdData:
     - id: bee2c664-a13b-4329-b809-ab29aa6006a6
       recordings:
       - id: fbaacb52-4acc-4bdd-a3b8-ebd3b1d41183
-        isrcs: *id001
+        isrcs:
+        - "GBAPA0100002"
         title: High Tide or Low Tide
         length: 284733
         video: false

@@ -22,8 +22,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2010-08-02'
       - id: 9c118d08-9007-4afa-904c-5e9ff44eeb5f
-        isrcs: &id001
-        - GBUM71021637
+        isrcs:
+        - "GBUM71021637"
         title: City With No Children
         length: 191600
         video: false
@@ -40,7 +40,8 @@ trackIdData:
     - id: d72f0b9a-2a8b-4c0c-8208-43db5bd53af2
       recordings:
       - id: 9c118d08-9007-4afa-904c-5e9ff44eeb5f
-        isrcs: *id001
+        isrcs:
+        - "GBUM71021637"
         title: City With No Children
         length: 191600
         video: false

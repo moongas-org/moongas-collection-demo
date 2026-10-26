@@ -15,8 +15,8 @@ trackIdData:
     - id: e4528e19-bc45-4169-a23a-2b1595e41b94
       recordings:
       - id: c89c7cc5-aa28-4abb-824a-cb71e7432954
-        isrcs: &id001
-        - USSM18000439
+        isrcs:
+        - "USSM18000439"
         title: Monsters
         length: 311000
         video: false
@@ -40,7 +40,8 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2008'
       - id: c89c7cc5-aa28-4abb-824a-cb71e7432954
-        isrcs: *id001
+        isrcs:
+        - "USSM18000439"
         title: Monsters
         length: 311000
         video: false

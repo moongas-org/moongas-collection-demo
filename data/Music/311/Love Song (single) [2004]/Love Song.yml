@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '2004'
       - id: 63543c4a-963a-4646-851d-92f512340b3e
-        isrcs: &id001
-        - USMV20300285
-        - USVR10400026
+        isrcs:
+        - "USMV20300285"
+        - "USVR10400026"
         title: Love Song
         length: 208733
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: cfbba526-ba91-4f44-953d-0744c20a4552
       recordings:
       - id: 63543c4a-963a-4646-851d-92f512340b3e
-        isrcs: *id001
+        isrcs:
+        - "USMV20300285"
+        - "USVR10400026"
         title: Love Song
         length: 208733
         video: false

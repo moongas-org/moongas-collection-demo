@@ -15,9 +15,9 @@ trackIdData:
     - id: d42d5ade-7df6-4167-9f15-6975330d6d21
       recordings:
       - id: 28f41205-4ed1-4ec6-bca2-8f77b36d726c
-        isrcs: &id001
-        - GBAFR7410031
-        - USHC17400021
+        isrcs:
+        - "GBAFR7410031"
+        - "USHC17400021"
         title: Take Me to the River
         length: 223653
         video: false
@@ -25,17 +25,17 @@ trackIdData:
         firstReleaseDate: '1974-10-02'
       - id: 3e009ceb-57d2-413c-80d9-22635a4eef69
         isrcs:
-        - USRE10100264
-        - USRE11200462
+        - "USRE10100264"
+        - "USRE11200462"
         title: Midnight at the Oasis
         length: 228360
         video: false
         disambiguation: ''
         firstReleaseDate: '1973'
       - id: 5fbba1d8-824f-4975-869d-d32f87fcf17b
-        isrcs: &id002
-        - GBAFR7010004
-        - US2HK0914207
+        isrcs:
+        - "GBAFR7010004"
+        - "US2HK0914207"
         title: I Can’t Get Next to You
         length: 228213
         video: false
@@ -57,16 +57,16 @@ trackIdData:
         firstReleaseDate: '1972-01-31'
       - id: d94cd6ec-32b7-4673-a60f-b711d97c52f5
         isrcs:
-        - GBAFR7110027
+        - "GBAFR7110027"
         title: Light My Fire
         length: 235000
         video: false
         disambiguation: ''
         firstReleaseDate: '1971-08-14'
       - id: ec90590d-3b61-4a10-83e3-3acc34d9c1e9
-        isrcs: &id003
-        - US2HK0914502
-        - USHC17400021
+        isrcs:
+        - "US2HK0914502"
+        - "USHC17400021"
         title: Take Me to the River
         length: 226000
         video: false
@@ -77,14 +77,16 @@ trackIdData:
       recordings:
       - id: 1b9a416a-0ae5-44fa-b628-fe3331ed13e8
         isrcs:
-        - USMC19135888
+        - "USMC19135888"
         title: Take Me to the River
         length: 219333
         video: false
         disambiguation: ''
         firstReleaseDate: '1991-08-01'
       - id: 28f41205-4ed1-4ec6-bca2-8f77b36d726c
-        isrcs: *id001
+        isrcs:
+        - "GBAFR7410031"
+        - "USHC17400021"
         title: Take Me to the River
         length: 223653
         video: false
@@ -98,14 +100,18 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1973-07-18'
       - id: 5fbba1d8-824f-4975-869d-d32f87fcf17b
-        isrcs: *id002
+        isrcs:
+        - "GBAFR7010004"
+        - "US2HK0914207"
         title: I Can’t Get Next to You
         length: 228213
         video: false
         disambiguation: ''
         firstReleaseDate: 1970-11
       - id: ec90590d-3b61-4a10-83e3-3acc34d9c1e9
-        isrcs: *id003
+        isrcs:
+        - "US2HK0914502"
+        - "USHC17400021"
         title: Take Me to the River
         length: 226000
         video: false

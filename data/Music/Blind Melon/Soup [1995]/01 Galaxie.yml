@@ -15,8 +15,8 @@ trackIdData:
     - id: c8667950-8c80-4244-9cc8-e56e509ab0b1
       recordings:
       - id: c43ee188-0049-4eec-ba2e-0385c5edd2db
-        isrcs: &id001
-        - USCA29500708
+        isrcs:
+        - "USCA29500708"
         title: Hello Goodbye / Galaxie
         length: 211133
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: d504f0b7-9fad-498b-9289-40f92ecc1823
       recordings:
       - id: c43ee188-0049-4eec-ba2e-0385c5edd2db
-        isrcs: *id001
+        isrcs:
+        - "USCA29500708"
         title: Hello Goodbye / Galaxie
         length: 211133
         video: false

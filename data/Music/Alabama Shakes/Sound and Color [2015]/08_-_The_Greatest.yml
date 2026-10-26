@@ -15,8 +15,8 @@ trackIdData:
     - id: 88d30ffb-89b9-46c6-a642-5d42274ce27e
       recordings:
       - id: 52bacc67-8c29-47d3-96b0-1012b10428e2
-        isrcs: &id001
-        - USATO1400857
+        isrcs:
+        - "USATO1400857"
         title: The Greatest
         length: 230000
         video: false
@@ -33,7 +33,8 @@ trackIdData:
     - id: 967ac7db-0b91-4151-bd6f-bcf404ee1fe9
       recordings:
       - id: 52bacc67-8c29-47d3-96b0-1012b10428e2
-        isrcs: *id001
+        isrcs:
+        - "USATO1400857"
         title: The Greatest
         length: 230000
         video: false

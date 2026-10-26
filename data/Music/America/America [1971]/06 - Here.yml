@@ -15,8 +15,8 @@ trackIdData:
     - id: 0d895fdf-dbef-4fe8-9500-6ff687cc1757
       recordings:
       - id: 1217b491-23f0-408c-9b86-a8e169865762
-        isrcs: &id001
-        - USWB10001095
+        isrcs:
+        - "USWB10001095"
         title: Here
         length: 329800
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: 347870e8-e182-4f5e-8de8-14cc63e38275
       recordings:
       - id: 1217b491-23f0-408c-9b86-a8e169865762
-        isrcs: *id001
+        isrcs:
+        - "USWB10001095"
         title: Here
         length: 329800
         video: false

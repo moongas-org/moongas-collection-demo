@@ -15,8 +15,8 @@ trackIdData:
     - id: 86a9f55e-eab5-4d11-af7d-d4f18039a1ff
       recordings:
       - id: 018edc7a-ae46-4b76-8877-2a51c5b8ee08
-        isrcs: &id001
-        - DEN060401590
+        isrcs:
+        - "DEN060401590"
         title: Eternal Swells
         length: 314693
         video: false
@@ -26,7 +26,8 @@ trackIdData:
     - id: aba917d7-7494-4620-9740-faf76d4abaef
       recordings:
       - id: 018edc7a-ae46-4b76-8877-2a51c5b8ee08
-        isrcs: *id001
+        isrcs:
+        - "DEN060401590"
         title: Eternal Swells
         length: 314693
         video: false

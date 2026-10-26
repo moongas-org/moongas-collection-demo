@@ -22,9 +22,9 @@ trackIdData:
         disambiguation: ''
         firstReleaseDate: '1993-03-03'
       - id: afa02b82-12ae-4526-8eca-79083d8029ef
-        isrcs: &id001
-        - USCH30100127
-        - USCH39200017
+        isrcs:
+        - "USCH30100127"
+        - "USCH39200017"
         title: Natural
         length: 270466
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: 752d2e6b-da5a-48df-8ce6-f5225baba7d5
       recordings:
       - id: afa02b82-12ae-4526-8eca-79083d8029ef
-        isrcs: *id001
+        isrcs:
+        - "USCH30100127"
+        - "USCH39200017"
         title: Natural
         length: 270466
         video: false

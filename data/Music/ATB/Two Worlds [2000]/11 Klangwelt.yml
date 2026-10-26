@@ -15,9 +15,9 @@ trackIdData:
     - id: 91963d97-040b-47de-87d3-f631e9a7cd40
       recordings:
       - id: 6f8306cc-7501-41b8-86ea-3a4294cade80
-        isrcs: &id001
-        - DEN060000190
-        - DEN120000013
+        isrcs:
+        - "DEN060000190"
+        - "DEN120000013"
         title: Klangwelt
         length: 439000
         video: false
@@ -27,7 +27,9 @@ trackIdData:
     - id: ffc1c678-9a33-47fa-becd-de802782c5a1
       recordings:
       - id: 6f8306cc-7501-41b8-86ea-3a4294cade80
-        isrcs: *id001
+        isrcs:
+        - "DEN060000190"
+        - "DEN120000013"
         title: Klangwelt
         length: 439000
         video: false
@@ -37,7 +39,9 @@ trackIdData:
     - id: 0c36cb8a-bf2d-4f38-a9f8-9b0b4bb57a81
       recordings:
       - id: 6f8306cc-7501-41b8-86ea-3a4294cade80
-        isrcs: *id001
+        isrcs:
+        - "DEN060000190"
+        - "DEN120000013"
         title: Klangwelt
         length: 439000
         video: false

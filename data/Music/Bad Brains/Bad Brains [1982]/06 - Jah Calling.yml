@@ -15,9 +15,9 @@ trackIdData:
     - id: 0f778534-abae-4a31-885b-79074b9551d3
       recordings:
       - id: 545a4131-bd0e-482c-a021-aac92ef07f5a
-        isrcs: &id001
-        - US29V0422306
-        - USFMA1900133
+        isrcs:
+        - "US29V0422306"
+        - "USFMA1900133"
         title: Jah Calling
         length: 151626
         video: false
@@ -34,7 +34,9 @@ trackIdData:
     - id: 9b4cc2b2-3f8e-458e-b505-80010ca544e0
       recordings:
       - id: 545a4131-bd0e-482c-a021-aac92ef07f5a
-        isrcs: *id001
+        isrcs:
+        - "US29V0422306"
+        - "USFMA1900133"
         title: Jah Calling
         length: 151626
         video: false
