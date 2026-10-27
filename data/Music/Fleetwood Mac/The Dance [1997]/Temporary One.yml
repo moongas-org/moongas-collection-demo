@@ -16,7 +16,19 @@ trackIdData:
       recordings:
       - id: 1eaef080-3c1d-4908-b7cb-6169f43f6a79
         isrcs: []
+        title: Temporary One
+        length: 250000
+        video: true
+        disambiguation: 'live, 1997-05-23: Warner Brothers Studios, Burbank, California,
+          USA'
+        firstReleaseDate: '1997'
       - id: 2628b130-0bde-41c0-b60b-e0789b6f16c2
-        isrcs: []
+        isrcs:
+        - USRE19700410
+        title: Temporary One
+        length: 240706
+        video: false
+        disambiguation: 'live, 1997-05-23: Warner Brothers Studios, Burbank, CA, USA'
+        firstReleaseDate: '1997-08-19'
       score: 0.96284944
     status: ok
