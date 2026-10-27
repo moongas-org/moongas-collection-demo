@@ -16,8 +16,19 @@ trackIdData:
       recordings:
       - id: a76386a6-bee3-4d1f-af53-90bf97883ee1
         isrcs: []
+        title: Someone in London
+        length: 123200
+        video: false
+        disambiguation: clean
+        firstReleaseDate: '1998-08-25'
       - id: fc48c4d4-10ff-40b3-8389-9e7335eeb8fc
-        isrcs: []
+        isrcs:
+        - USUR19801165
+        title: Someone in London
+        length: 123000
+        video: false
+        disambiguation: ''
+        firstReleaseDate: '1998-08-25'
       score: 0.9685852
     - id: 7954d01b-5ada-4d8d-911a-fe843400363b
       score: 0.65915084
