@@ -47,3 +47,305 @@ mediaFileData:
         firstReleaseDate: '2026-08-10'
       score: 0.98645175
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4kBVOtBs3YunWqXO7yD2Di
+    trackId: 4kBVOtBs3YunWqXO7yD2Di
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW10022224&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/32NCJL0H6esnZ1JwnLrxCw
+            href: https://api.spotify.com/v1/albums/32NCJL0H6esnZ1JwnLrxCw
+            id: 32NCJL0H6esnZ1JwnLrxCw
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730efb6ed4ed07fbf18cb37854
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020efb6ed4ed07fbf18cb37854
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510efb6ed4ed07fbf18cb37854
+            is_playable: true
+            name: ANThology (2026 Remastered)
+            release_date: '2001'
+            release_date_precision: year
+            total_tracks: 14
+            type: album
+            uri: spotify:album:32NCJL0H6esnZ1JwnLrxCw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 209066
+          explicit: false
+          external_ids:
+            isrc: USDW10022224
+          external_urls:
+            spotify: https://open.spotify.com/track/4kBVOtBs3YunWqXO7yD2Di
+          href: https://api.spotify.com/v1/tracks/4kBVOtBs3YunWqXO7yD2Di
+          id: 4kBVOtBs3YunWqXO7yD2Di
+          is_local: false
+          is_playable: true
+          name: Smooth Criminal - 2026 Remastered
+          track_number: 12
+          type: track
+          uri: spotify:track:4kBVOtBs3YunWqXO7yD2Di
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/0Kucza2kOX3aKefmhuwEGp
+            href: https://api.spotify.com/v1/albums/0Kucza2kOX3aKefmhuwEGp
+            id: 0Kucza2kOX3aKefmhuwEGp
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a51937bee293ae6eb62edc98
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a51937bee293ae6eb62edc98
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a51937bee293ae6eb62edc98
+            is_playable: true
+            name: The Best Of Alien Ant Farm 20th Century Masters The Millennium
+              Collection
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0Kucza2kOX3aKefmhuwEGp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 209360
+          explicit: false
+          external_ids:
+            isrc: USDW10022224
+          external_urls:
+            spotify: https://open.spotify.com/track/6KlESwx6JWh4QiPYRU4Nm3
+          href: https://api.spotify.com/v1/tracks/6KlESwx6JWh4QiPYRU4Nm3
+          id: 6KlESwx6JWh4QiPYRU4Nm3
+          is_local: false
+          is_playable: true
+          name: Smooth Criminal
+          track_number: 3
+          type: track
+          uri: spotify:track:6KlESwx6JWh4QiPYRU4Nm3
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6nIQVkL2OlugxAIQVugdmn
+            href: https://api.spotify.com/v1/albums/6nIQVkL2OlugxAIQVugdmn
+            id: 6nIQVkL2OlugxAIQVugdmn
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737a822d07c754891156573cb5
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027a822d07c754891156573cb5
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517a822d07c754891156573cb5
+            is_playable: true
+            name: Punk Rock 90's & 00's
+            release_date: '2019-08-30'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:6nIQVkL2OlugxAIQVugdmn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 209360
+          explicit: false
+          external_ids:
+            isrc: USDW10022224
+          external_urls:
+            spotify: https://open.spotify.com/track/1pkr4yJw9kHb2qv5VFvVOX
+          href: https://api.spotify.com/v1/tracks/1pkr4yJw9kHb2qv5VFvVOX
+          id: 1pkr4yJw9kHb2qv5VFvVOX
+          is_local: false
+          is_playable: true
+          name: Smooth Criminal
+          track_number: 9
+          type: track
+          uri: spotify:track:1pkr4yJw9kHb2qv5VFvVOX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/485LROKZChFOie99Ln5MPC
+            href: https://api.spotify.com/v1/albums/485LROKZChFOie99Ln5MPC
+            id: 485LROKZChFOie99Ln5MPC
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736596fe550a386b301bae750c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026596fe550a386b301bae750c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516596fe550a386b301bae750c
+            is_playable: true
+            name: 2000's Rock Hits
+            release_date: '2021-02-19'
+            release_date_precision: day
+            total_tracks: 38
+            type: album
+            uri: spotify:album:485LROKZChFOie99Ln5MPC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 209360
+          explicit: false
+          external_ids:
+            isrc: USDW10022224
+          external_urls:
+            spotify: https://open.spotify.com/track/3HCuZuJzCQuIHjjvh9TVah
+          href: https://api.spotify.com/v1/tracks/3HCuZuJzCQuIHjjvh9TVah
+          id: 3HCuZuJzCQuIHjjvh9TVah
+          is_local: false
+          is_playable: true
+          name: Smooth Criminal
+          track_number: 7
+          type: track
+          uri: spotify:track:3HCuZuJzCQuIHjjvh9TVah
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/0UkYlaMWOML5u4UcFlrGft
+            href: https://api.spotify.com/v1/albums/0UkYlaMWOML5u4UcFlrGft
+            id: 0UkYlaMWOML5u4UcFlrGft
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738df8dead3be6fdd8ad87050f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028df8dead3be6fdd8ad87050f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518df8dead3be6fdd8ad87050f
+            is_playable: true
+            name: ANThology (Deluxe Edition)
+            release_date: '2026-07-31'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0UkYlaMWOML5u4UcFlrGft
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 209066
+          explicit: false
+          external_ids:
+            isrc: USDW10022224
+          external_urls:
+            spotify: https://open.spotify.com/track/0ey6L6OStPbKAbvvLBUi1D
+          href: https://api.spotify.com/v1/tracks/0ey6L6OStPbKAbvvLBUi1D
+          id: 0ey6L6OStPbKAbvvLBUi1D
+          is_local: false
+          is_playable: true
+          name: Smooth Criminal - 2026 Remastered
+          track_number: 12
+          type: track
+          uri: spotify:track:0ey6L6OStPbKAbvvLBUi1D
+    isrc: USDW10022224

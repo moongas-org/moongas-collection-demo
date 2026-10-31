@@ -5,7 +5,7 @@ trackData:
   album: Thirteenth Step
   genre: Alternative Metal
   year: 2003
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 253.7
     fingerprint: 
@@ -43,3 +43,133 @@ trackIdData:
         firstReleaseDate: '2003-09-15'
       score: 0.90565664
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2EcR17Tsh3d2jqMwgc7RCC
+    trackId: 2EcR17Tsh3d2jqMwgc7RCC
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71314654&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/2aXPcf785Q6Ep7jZHHKJTx
+            href: https://api.spotify.com/v1/albums/2aXPcf785Q6Ep7jZHHKJTx
+            id: 2aXPcf785Q6Ep7jZHHKJTx
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273127881ef42b76342e1282b0f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02127881ef42b76342e1282b0f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851127881ef42b76342e1282b0f
+            is_playable: true
+            name: Three Sixty Commentary (Deluxe Edition)
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:2aXPcf785Q6Ep7jZHHKJTx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 80586
+          explicit: true
+          external_ids:
+            isrc: USUM71314654
+          external_urls:
+            spotify: https://open.spotify.com/track/2EcR17Tsh3d2jqMwgc7RCC
+          href: https://api.spotify.com/v1/tracks/2EcR17Tsh3d2jqMwgc7RCC
+          id: 2EcR17Tsh3d2jqMwgc7RCC
+          is_local: false
+          is_playable: true
+          name: Blue - Commentary
+          track_number: 10
+          type: track
+          uri: spotify:track:2EcR17Tsh3d2jqMwgc7RCC
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/0BkelCcwa3XChong06D5BY
+            href: https://api.spotify.com/v1/albums/0BkelCcwa3XChong06D5BY
+            id: 0BkelCcwa3XChong06D5BY
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273617f8363dd90a808013fd6f0
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02617f8363dd90a808013fd6f0
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851617f8363dd90a808013fd6f0
+            is_playable: true
+            name: Three Sixty Commentary
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0BkelCcwa3XChong06D5BY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 80600
+          explicit: true
+          external_ids:
+            isrc: USUM71314654
+          external_urls:
+            spotify: https://open.spotify.com/track/319nrcEC5Ttu5UYdprQYIr
+          href: https://api.spotify.com/v1/tracks/319nrcEC5Ttu5UYdprQYIr
+          id: 319nrcEC5Ttu5UYdprQYIr
+          is_local: false
+          is_playable: true
+          name: Blue - Commentary
+          track_number: 8
+          type: track
+          uri: spotify:track:319nrcEC5Ttu5UYdprQYIr
+    isrc: USUM71314654

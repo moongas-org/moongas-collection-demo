@@ -39,3 +39,76 @@ mediaFileData:
         firstReleaseDate: '1996-06-18'
       score: 0.9999011
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/54kPDKPzCXoPhE9JoWZJvI
+    trackId: 54kPDKPzCXoPhE9JoWZJvI
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW10300459&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/1SuYxXIQvF5ien3UJdQ2Sd
+            href: https://api.spotify.com/v1/albums/1SuYxXIQvF5ien3UJdQ2Sd
+            id: 1SuYxXIQvF5ien3UJdQ2Sd
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27363635c989dd9446f12bbb63d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0263635c989dd9446f12bbb63d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485163635c989dd9446f12bbb63d
+            is_playable: true
+            name: truANT
+            release_date: '2003-08-19'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1SuYxXIQvF5ien3UJdQ2Sd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 219773
+          explicit: false
+          external_ids:
+            isrc: USDW10300459
+          external_urls:
+            spotify: https://open.spotify.com/track/54kPDKPzCXoPhE9JoWZJvI
+          href: https://api.spotify.com/v1/tracks/54kPDKPzCXoPhE9JoWZJvI
+          id: 54kPDKPzCXoPhE9JoWZJvI
+          is_local: false
+          is_playable: true
+          name: Hope
+          track_number: 12
+          type: track
+          uri: spotify:track:54kPDKPzCXoPhE9JoWZJvI
+    isrc: USDW10300459

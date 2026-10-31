@@ -87,3 +87,304 @@ mediaFileData:
         firstReleaseDate: '2002-07-15'
       score: 0.9612671
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/11G4sluzxB6UVKyKte3OgV
+    trackId: 11G4sluzxB6UVKyKte3OgV
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ASEAYD8001060&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+              href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+              id: 0LcJLqbBmaGUft1e9Mm8HV
+              name: ABBA
+              type: artist
+              uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+            external_urls:
+              spotify: https://open.spotify.com/album/34lTW6LuORpuIiYfqsetuq
+            href: https://api.spotify.com/v1/albums/34lTW6LuORpuIiYfqsetuq
+            id: 34lTW6LuORpuIiYfqsetuq
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ec5de82891e542d4877c6d98
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ec5de82891e542d4877c6d98
+            is_playable: true
+            name: The Essential Collection
+            release_date: '2012-01-01'
+            release_date_precision: day
+            total_tracks: 39
+            type: album
+            uri: spotify:album:34lTW6LuORpuIiYfqsetuq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 2
+          duration_ms: 264066
+          explicit: false
+          external_ids:
+            isrc: SEAYD8001060
+          external_urls:
+            spotify: https://open.spotify.com/track/11G4sluzxB6UVKyKte3OgV
+          href: https://api.spotify.com/v1/tracks/11G4sluzxB6UVKyKte3OgV
+          id: 11G4sluzxB6UVKyKte3OgV
+          is_local: false
+          is_playable: true
+          name: Happy New Year
+          track_number: 11
+          type: track
+          uri: spotify:track:11G4sluzxB6UVKyKte3OgV
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+              href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+              id: 0LcJLqbBmaGUft1e9Mm8HV
+              name: ABBA
+              type: artist
+              uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf
+            href: https://api.spotify.com/v1/albums/3ZdkT5buYFi1WQaB0XNNtf
+            id: 3ZdkT5buYFi1WQaB0XNNtf
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514d08fc99eff4ed52dfce91fa
+            is_playable: true
+            name: Super Trouper
+            release_date: '1980'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3ZdkT5buYFi1WQaB0XNNtf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 263693
+          explicit: false
+          external_ids:
+            isrc: SEAYD8001060
+          external_urls:
+            spotify: https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX
+          href: https://api.spotify.com/v1/tracks/4AsvGVDWs16fqIiIdDzyvX
+          id: 4AsvGVDWs16fqIiIdDzyvX
+          is_local: false
+          is_playable: true
+          name: Happy New Year
+          track_number: 6
+          type: track
+          uri: spotify:track:4AsvGVDWs16fqIiIdDzyvX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3GakHeRSW1D1vZKds5ja0l
+            href: https://api.spotify.com/v1/albums/3GakHeRSW1D1vZKds5ja0l
+            id: 3GakHeRSW1D1vZKds5ja0l
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737ef2e8dd1b49b69e958c82a0
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027ef2e8dd1b49b69e958c82a0
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517ef2e8dd1b49b69e958c82a0
+            is_playable: true
+            name: POP LOVE HITS VOL 18
+            release_date: '2023-03-23'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:3GakHeRSW1D1vZKds5ja0l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 263693
+          explicit: false
+          external_ids:
+            isrc: SEAYD8001060
+          external_urls:
+            spotify: https://open.spotify.com/track/4jaEeV7ckSL13SxIPfGrOA
+          href: https://api.spotify.com/v1/tracks/4jaEeV7ckSL13SxIPfGrOA
+          id: 4jaEeV7ckSL13SxIPfGrOA
+          is_local: false
+          is_playable: true
+          name: Happy New Year
+          track_number: 5
+          type: track
+          uri: spotify:track:4jaEeV7ckSL13SxIPfGrOA
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4SLISapmea5pjnFQ6GYhDy
+            href: https://api.spotify.com/v1/albums/4SLISapmea5pjnFQ6GYhDy
+            id: 4SLISapmea5pjnFQ6GYhDy
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d2e10aeb586b13cfa94f4653
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d2e10aeb586b13cfa94f4653
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d2e10aeb586b13cfa94f4653
+            is_playable: true
+            name: Buon Anno 2021
+            release_date: '2026-04-03'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4SLISapmea5pjnFQ6GYhDy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 263693
+          explicit: false
+          external_ids:
+            isrc: SEAYD8001060
+          external_urls:
+            spotify: https://open.spotify.com/track/3rUcr9VM6X58MTE88QJRPX
+          href: https://api.spotify.com/v1/tracks/3rUcr9VM6X58MTE88QJRPX
+          id: 3rUcr9VM6X58MTE88QJRPX
+          is_local: false
+          is_playable: true
+          name: Happy New Year
+          track_number: 3
+          type: track
+          uri: spotify:track:3rUcr9VM6X58MTE88QJRPX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/56F2qsRaq8xQ9K0g0uhzPW
+            href: https://api.spotify.com/v1/albums/56F2qsRaq8xQ9K0g0uhzPW
+            id: 56F2qsRaq8xQ9K0g0uhzPW
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273016834b63a148bbf0623e7c4
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02016834b63a148bbf0623e7c4
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851016834b63a148bbf0623e7c4
+            is_playable: true
+            name: JULMUSIK
+            release_date: '2024-11-08'
+            release_date_precision: day
+            total_tracks: 52
+            type: album
+            uri: spotify:album:56F2qsRaq8xQ9K0g0uhzPW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 263693
+          explicit: false
+          external_ids:
+            isrc: SEAYD8001060
+          external_urls:
+            spotify: https://open.spotify.com/track/2Ozt4ug4NQ9YR0W7JMJLlC
+          href: https://api.spotify.com/v1/tracks/2Ozt4ug4NQ9YR0W7JMJLlC
+          id: 2Ozt4ug4NQ9YR0W7JMJLlC
+          is_local: false
+          is_playable: true
+          name: Happy New Year
+          track_number: 29
+          type: track
+          uri: spotify:track:2Ozt4ug4NQ9YR0W7JMJLlC
+    isrc: SEAYD8001060

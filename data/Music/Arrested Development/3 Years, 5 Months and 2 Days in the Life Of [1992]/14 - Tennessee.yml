@@ -5,7 +5,7 @@ trackData:
   album: 3 Years, 5 Months and 2 Days in the Life Of?
   genre: Hip-Hop
   year: 1992
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 272.74
     fingerprint: 
@@ -41,6 +41,7 @@ trackIdData:
         firstReleaseDate: '2003-03-03'
       score: 0.98727584
     - id: ee05b303-28da-401c-a1a4-4d416dbe01f3
+      recordings: []
       score: 0.89131725
     - id: 0ef202fc-e878-454c-ac7c-685319f6a0a5
       recordings:
@@ -55,3 +56,304 @@ trackIdData:
         firstReleaseDate: '1992-03-24'
       score: 0.852024
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5OBMDlv0lkObVtN4V7ZaQS
+    trackId: 5OBMDlv0lkObVtN4V7ZaQS
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCH30100128&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7LrzrJKyZDZ0pQVrS62zZm
+            href: https://api.spotify.com/v1/albums/7LrzrJKyZDZ0pQVrS62zZm
+            id: 7LrzrJKyZDZ0pQVrS62zZm
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273aef8ef4e8a0a91ec9ff0cc8c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02aef8ef4e8a0a91ec9ff0cc8c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851aef8ef4e8a0a91ec9ff0cc8c
+            is_playable: true
+            name: '20 #1’s: Classic Hip Hop'
+            release_date: '2015-12-18'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:7LrzrJKyZDZ0pQVrS62zZm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+            href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+            id: 5Va9LuEmaZxnbk1gMnjMD7
+            name: Arrested Development
+            type: artist
+            uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+          disc_number: 1
+          duration_ms: 272705
+          explicit: false
+          external_ids:
+            isrc: USCH30100128
+          external_urls:
+            spotify: https://open.spotify.com/track/5OBMDlv0lkObVtN4V7ZaQS
+          href: https://api.spotify.com/v1/tracks/5OBMDlv0lkObVtN4V7ZaQS
+          id: 5OBMDlv0lkObVtN4V7ZaQS
+          is_local: false
+          is_playable: true
+          name: Tennessee
+          track_number: 17
+          type: track
+          uri: spotify:track:5OBMDlv0lkObVtN4V7ZaQS
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+              href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+              id: 5Va9LuEmaZxnbk1gMnjMD7
+              name: Arrested Development
+              type: artist
+              uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+            external_urls:
+              spotify: https://open.spotify.com/album/4Q0QBX3Td4FfHeG7fiJcVW
+            href: https://api.spotify.com/v1/albums/4Q0QBX3Td4FfHeG7fiJcVW
+            id: 4Q0QBX3Td4FfHeG7fiJcVW
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273406ca7a421c0f83b14aba4e1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02406ca7a421c0f83b14aba4e1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851406ca7a421c0f83b14aba4e1
+            is_playable: true
+            name: Classic Masters
+            release_date: '2002-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4Q0QBX3Td4FfHeG7fiJcVW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+            href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+            id: 5Va9LuEmaZxnbk1gMnjMD7
+            name: Arrested Development
+            type: artist
+            uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+          disc_number: 1
+          duration_ms: 272706
+          explicit: false
+          external_ids:
+            isrc: USCH30100128
+          external_urls:
+            spotify: https://open.spotify.com/track/5K8qwhQQSAj9ebIvlNJY8q
+          href: https://api.spotify.com/v1/tracks/5K8qwhQQSAj9ebIvlNJY8q
+          id: 5K8qwhQQSAj9ebIvlNJY8q
+          is_local: false
+          is_playable: true
+          name: Tennessee - Remastered 2001
+          track_number: 1
+          type: track
+          uri: spotify:track:5K8qwhQQSAj9ebIvlNJY8q
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0lhEa1Mo3lhJN2y1QQaobK
+            href: https://api.spotify.com/v1/albums/0lhEa1Mo3lhJN2y1QQaobK
+            id: 0lhEa1Mo3lhJN2y1QQaobK
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f3fc1cf0da5f686600f9d3cf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f3fc1cf0da5f686600f9d3cf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f3fc1cf0da5f686600f9d3cf
+            is_playable: true
+            name: Rap Classics
+            release_date: '2017-10-20'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:0lhEa1Mo3lhJN2y1QQaobK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+            href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+            id: 5Va9LuEmaZxnbk1gMnjMD7
+            name: Arrested Development
+            type: artist
+            uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+          disc_number: 1
+          duration_ms: 274400
+          explicit: false
+          external_ids:
+            isrc: USCH30100128
+          external_urls:
+            spotify: https://open.spotify.com/track/2U6cFhsPyxIOe39ojtfW8d
+          href: https://api.spotify.com/v1/tracks/2U6cFhsPyxIOe39ojtfW8d
+          id: 2U6cFhsPyxIOe39ojtfW8d
+          is_local: false
+          is_playable: true
+          name: Tennessee - Remastered 2001
+          track_number: 16
+          type: track
+          uri: spotify:track:2U6cFhsPyxIOe39ojtfW8d
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5jqZUeIlC5ZysCWXdFNlcS
+            href: https://api.spotify.com/v1/albums/5jqZUeIlC5ZysCWXdFNlcS
+            id: 5jqZUeIlC5ZysCWXdFNlcS
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738cb4ae4477ea529c1b33b47c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028cb4ae4477ea529c1b33b47c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518cb4ae4477ea529c1b33b47c
+            is_playable: true
+            name: 'Thumbplay Music Presents: Old School Hip Hop'
+            release_date: '2010-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5jqZUeIlC5ZysCWXdFNlcS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+            href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+            id: 5Va9LuEmaZxnbk1gMnjMD7
+            name: Arrested Development
+            type: artist
+            uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+          disc_number: 1
+          duration_ms: 272706
+          explicit: false
+          external_ids:
+            isrc: USCH30100128
+          external_urls:
+            spotify: https://open.spotify.com/track/3DSswUVRAKSdFgKJ0hfHiC
+          href: https://api.spotify.com/v1/tracks/3DSswUVRAKSdFgKJ0hfHiC
+          id: 3DSswUVRAKSdFgKJ0hfHiC
+          is_local: false
+          is_playable: true
+          name: Tennessee - Remastered 2001
+          track_number: 10
+          type: track
+          uri: spotify:track:3DSswUVRAKSdFgKJ0hfHiC
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3fUZnHJ2iPCEk7R8SZDCtj
+            href: https://api.spotify.com/v1/albums/3fUZnHJ2iPCEk7R8SZDCtj
+            id: 3fUZnHJ2iPCEk7R8SZDCtj
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273dfd66bf6862053965ce08b7c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02dfd66bf6862053965ce08b7c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851dfd66bf6862053965ce08b7c
+            is_playable: true
+            name: '20 #1’s: Classic Hip Hop'
+            release_date: '2015-12-18'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:3fUZnHJ2iPCEk7R8SZDCtj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+            href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+            id: 5Va9LuEmaZxnbk1gMnjMD7
+            name: Arrested Development
+            type: artist
+            uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+          disc_number: 1
+          duration_ms: 272705
+          explicit: false
+          external_ids:
+            isrc: USCH30100128
+          external_urls:
+            spotify: https://open.spotify.com/track/5WUozFlnduKqZtN369trWy
+          href: https://api.spotify.com/v1/tracks/5WUozFlnduKqZtN369trWy
+          id: 5WUozFlnduKqZtN369trWy
+          is_local: false
+          is_playable: true
+          name: Tennessee - Remastered 2001
+          track_number: 17
+          type: track
+          uri: spotify:track:5WUozFlnduKqZtN369trWy
+    isrc: USCH30100128

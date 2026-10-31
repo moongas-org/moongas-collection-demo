@@ -5,7 +5,7 @@ trackData:
   album: The Low End Theory
   genre: Hip-Hop
   year: 1991
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 217.5
     fingerprint: 
@@ -40,3 +40,190 @@ trackIdData:
         firstReleaseDate: '1991-09-24'
       score: 0.9808809
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ
+    trackId: 4HfxDJ0uLHTLe0fZrx0MbQ
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJI19100005&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a
+            href: https://api.spotify.com/v1/albums/1p12OAWwudgMqfMzjMvl2a
+            id: 1p12OAWwudgMqfMzjMvl2a
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f38c6b37a21334e22005b1f7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f38c6b37a21334e22005b1f7
+            is_playable: true
+            name: The Low End Theory
+            release_date: '1991-09-24'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1p12OAWwudgMqfMzjMvl2a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 216693
+          explicit: false
+          external_ids:
+            isrc: USJI19100005
+          external_urls:
+            spotify: https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ
+          href: https://api.spotify.com/v1/tracks/4HfxDJ0uLHTLe0fZrx0MbQ
+          id: 4HfxDJ0uLHTLe0fZrx0MbQ
+          is_local: false
+          is_playable: true
+          name: Check the Rhime
+          track_number: 9
+          type: track
+          uri: spotify:track:4HfxDJ0uLHTLe0fZrx0MbQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/5ixIb78OVWTRefUrjV7WYK
+            href: https://api.spotify.com/v1/albums/5ixIb78OVWTRefUrjV7WYK
+            id: 5ixIb78OVWTRefUrjV7WYK
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f14f390e39630e93fca4ec00
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f14f390e39630e93fca4ec00
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f14f390e39630e93fca4ec00
+            is_playable: true
+            name: Hits, Rarities & Remixes
+            release_date: '2003-06-17'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:5ixIb78OVWTRefUrjV7WYK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 216786
+          explicit: false
+          external_ids:
+            isrc: USJI19100005
+          external_urls:
+            spotify: https://open.spotify.com/track/1wcuJteJWdrfIGQLxcCRDq
+          href: https://api.spotify.com/v1/tracks/1wcuJteJWdrfIGQLxcCRDq
+          id: 1wcuJteJWdrfIGQLxcCRDq
+          is_local: false
+          is_playable: true
+          name: Check the Rhime
+          track_number: 8
+          type: track
+          uri: spotify:track:1wcuJteJWdrfIGQLxcCRDq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU
+            href: https://api.spotify.com/v1/albums/3FAK4h4t9uV4JxzESXllAU
+            id: 3FAK4h4t9uV4JxzESXllAU
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b1ddb9f5f519e0d37bc94a53
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b1ddb9f5f519e0d37bc94a53
+            is_playable: true
+            name: The Anthology
+            release_date: '1999-10-26'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3FAK4h4t9uV4JxzESXllAU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 219093
+          explicit: false
+          external_ids:
+            isrc: USJI19100005
+          external_urls:
+            spotify: https://open.spotify.com/track/3ReVrQAUwmml8zhyBNteWL
+          href: https://api.spotify.com/v1/tracks/3ReVrQAUwmml8zhyBNteWL
+          id: 3ReVrQAUwmml8zhyBNteWL
+          is_local: false
+          is_playable: true
+          name: Check the Rhime
+          track_number: 1
+          type: track
+          uri: spotify:track:3ReVrQAUwmml8zhyBNteWL
+    isrc: USJI19100005

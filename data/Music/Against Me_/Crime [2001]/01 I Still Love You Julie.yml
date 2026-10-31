@@ -5,7 +5,7 @@ trackData:
   album: Crime
   genre: Punk Rock
   year: 2001
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 188.53
     fingerprint: 
@@ -25,3 +25,76 @@ trackIdData:
         firstReleaseDate: '2001-03-01'
       score: 0.9760021
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3HPPSMSHG7Y98r1mgDEUf6
+    trackId: 3HPPSMSHG7Y98r1mgDEUf6
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS68Z0500001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl
+              href: https://api.spotify.com/v1/artists/29lz7gs8edwnnfuXW4FhMl
+              id: 29lz7gs8edwnnfuXW4FhMl
+              name: Against Me!
+              type: artist
+              uri: spotify:artist:29lz7gs8edwnnfuXW4FhMl
+            external_urls:
+              spotify: https://open.spotify.com/album/5QyKUenOnwxWQldkAoqHzU
+            href: https://api.spotify.com/v1/albums/5QyKUenOnwxWQldkAoqHzU
+            id: 5QyKUenOnwxWQldkAoqHzU
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a67147d2906c72fd60850747
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a67147d2906c72fd60850747
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a67147d2906c72fd60850747
+            is_playable: true
+            name: Crime
+            release_date: '2001-03-01'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:5QyKUenOnwxWQldkAoqHzU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl
+            href: https://api.spotify.com/v1/artists/29lz7gs8edwnnfuXW4FhMl
+            id: 29lz7gs8edwnnfuXW4FhMl
+            name: Against Me!
+            type: artist
+            uri: spotify:artist:29lz7gs8edwnnfuXW4FhMl
+          disc_number: 1
+          duration_ms: 188480
+          explicit: true
+          external_ids:
+            isrc: US68Z0500001
+          external_urls:
+            spotify: https://open.spotify.com/track/3HPPSMSHG7Y98r1mgDEUf6
+          href: https://api.spotify.com/v1/tracks/3HPPSMSHG7Y98r1mgDEUf6
+          id: 3HPPSMSHG7Y98r1mgDEUf6
+          is_local: false
+          is_playable: true
+          name: I Still Love You Julie
+          track_number: 1
+          type: track
+          uri: spotify:track:3HPPSMSHG7Y98r1mgDEUf6
+    isrc: US68Z0500001

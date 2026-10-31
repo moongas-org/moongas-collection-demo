@@ -58,3 +58,76 @@ mediaFileData:
         firstReleaseDate: '2017-10-31'
       score: 0.99709916
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3w39hZDGqukIsEajUX5FH9
+    trackId: 3w39hZDGqukIsEajUX5FH9
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJI19200003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU
+            href: https://api.spotify.com/v1/albums/3FAK4h4t9uV4JxzESXllAU
+            id: 3FAK4h4t9uV4JxzESXllAU
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b1ddb9f5f519e0d37bc94a53
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b1ddb9f5f519e0d37bc94a53
+            is_playable: true
+            name: The Anthology
+            release_date: '1999-10-26'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3FAK4h4t9uV4JxzESXllAU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 165626
+          explicit: false
+          external_ids:
+            isrc: USJI19200003
+          external_urls:
+            spotify: https://open.spotify.com/track/3w39hZDGqukIsEajUX5FH9
+          href: https://api.spotify.com/v1/tracks/3w39hZDGqukIsEajUX5FH9
+          id: 3w39hZDGqukIsEajUX5FH9
+          is_local: false
+          is_playable: true
+          name: Hot Sex
+          track_number: 11
+          type: track
+          uri: spotify:track:3w39hZDGqukIsEajUX5FH9
+    isrc: USJI19200003

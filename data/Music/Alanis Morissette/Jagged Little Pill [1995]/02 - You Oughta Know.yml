@@ -89,3 +89,247 @@ mediaFileData:
         firstReleaseDate: 1992-12
       score: 0.9785074
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5kEYJI6WYx9kHUNwLdDbCm
+    trackId: 5kEYJI6WYx9kHUNwLdDbCm
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMV29900183&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi
+              href: https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi
+              id: 6ogn9necmbUdCppmNnGOdi
+              name: Alanis Morissette
+              type: artist
+              uri: spotify:artist:6ogn9necmbUdCppmNnGOdi
+            external_urls:
+              spotify: https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv
+            href: https://api.spotify.com/v1/albums/0LkVxRq8mZbPUaRgEEvxKv
+            id: 0LkVxRq8mZbPUaRgEEvxKv
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27321efe6654042386a884431b8
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0221efe6654042386a884431b8
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485121efe6654042386a884431b8
+            is_playable: true
+            name: Live / Unplugged
+            release_date: '1999-11-12'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0LkVxRq8mZbPUaRgEEvxKv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi
+            href: https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi
+            id: 6ogn9necmbUdCppmNnGOdi
+            name: Alanis Morissette
+            type: artist
+            uri: spotify:artist:6ogn9necmbUdCppmNnGOdi
+          disc_number: 1
+          duration_ms: 301666
+          explicit: true
+          external_ids:
+            isrc: USMV29900183
+          external_urls:
+            spotify: https://open.spotify.com/track/5kEYJI6WYx9kHUNwLdDbCm
+          href: https://api.spotify.com/v1/tracks/5kEYJI6WYx9kHUNwLdDbCm
+          id: 5kEYJI6WYx9kHUNwLdDbCm
+          is_local: false
+          is_playable: true
+          name: You Oughta Know - Live / Unplugged
+          track_number: 11
+          type: track
+          uri: spotify:track:5kEYJI6WYx9kHUNwLdDbCm
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3PNHZhtPE4tnviW283nOeN
+            href: https://api.spotify.com/v1/albums/3PNHZhtPE4tnviW283nOeN
+            id: 3PNHZhtPE4tnviW283nOeN
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27357d3be4136af81c57350ddea
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0257d3be4136af81c57350ddea
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485157d3be4136af81c57350ddea
+            is_playable: true
+            name: Acoustic Throwback
+            release_date: '2021-07-30'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:3PNHZhtPE4tnviW283nOeN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi
+            href: https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi
+            id: 6ogn9necmbUdCppmNnGOdi
+            name: Alanis Morissette
+            type: artist
+            uri: spotify:artist:6ogn9necmbUdCppmNnGOdi
+          disc_number: 1
+          duration_ms: 301666
+          explicit: true
+          external_ids:
+            isrc: USMV29900183
+          external_urls:
+            spotify: https://open.spotify.com/track/7C2wfQGcREsfJcA5eCCLz7
+          href: https://api.spotify.com/v1/tracks/7C2wfQGcREsfJcA5eCCLz7
+          id: 7C2wfQGcREsfJcA5eCCLz7
+          is_local: false
+          is_playable: true
+          name: You Oughta Know - Live Unplugged Version
+          track_number: 16
+          type: track
+          uri: spotify:track:7C2wfQGcREsfJcA5eCCLz7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6FkI4tRnDjxd6gD8g0i3BU
+            href: https://api.spotify.com/v1/albums/6FkI4tRnDjxd6gD8g0i3BU
+            id: 6FkI4tRnDjxd6gD8g0i3BU
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734cf045f70828727c1e681cae
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024cf045f70828727c1e681cae
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514cf045f70828727c1e681cae
+            is_playable: true
+            name: Acústicos muy acrósticos
+            release_date: '2024-02-02'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:6FkI4tRnDjxd6gD8g0i3BU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi
+            href: https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi
+            id: 6ogn9necmbUdCppmNnGOdi
+            name: Alanis Morissette
+            type: artist
+            uri: spotify:artist:6ogn9necmbUdCppmNnGOdi
+          disc_number: 1
+          duration_ms: 301666
+          explicit: true
+          external_ids:
+            isrc: USMV29900183
+          external_urls:
+            spotify: https://open.spotify.com/track/3xDGCsJ9wYrUFuDLxoDzvq
+          href: https://api.spotify.com/v1/tracks/3xDGCsJ9wYrUFuDLxoDzvq
+          id: 3xDGCsJ9wYrUFuDLxoDzvq
+          is_local: false
+          is_playable: true
+          name: You Oughta Know - Live Unplugged Version
+          track_number: 21
+          type: track
+          uri: spotify:track:3xDGCsJ9wYrUFuDLxoDzvq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2syAUIXtbLZqJW0lNXYEjm
+            href: https://api.spotify.com/v1/albums/2syAUIXtbLZqJW0lNXYEjm
+            id: 2syAUIXtbLZqJW0lNXYEjm
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731dfe6cb42efecd0dfb13b919
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021dfe6cb42efecd0dfb13b919
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511dfe6cb42efecd0dfb13b919
+            is_playable: true
+            name: Starke Frauen - Top 100
+            release_date: '2025-04-11'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:2syAUIXtbLZqJW0lNXYEjm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi
+            href: https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi
+            id: 6ogn9necmbUdCppmNnGOdi
+            name: Alanis Morissette
+            type: artist
+            uri: spotify:artist:6ogn9necmbUdCppmNnGOdi
+          disc_number: 1
+          duration_ms: 301666
+          explicit: true
+          external_ids:
+            isrc: USMV29900183
+          external_urls:
+            spotify: https://open.spotify.com/track/56MCMhEyu18dSKJQ69ac4P
+          href: https://api.spotify.com/v1/tracks/56MCMhEyu18dSKJQ69ac4P
+          id: 56MCMhEyu18dSKJQ69ac4P
+          is_local: false
+          is_playable: true
+          name: You Oughta Know - Live Unplugged Version
+          track_number: 89
+          type: track
+          uri: spotify:track:56MCMhEyu18dSKJQ69ac4P
+    isrc: USMV29900183

@@ -5,7 +5,7 @@ trackData:
   album: La vie electrique
   genre: Alternative Rock
   year: 2015
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 289.93
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2015-08-28'
       score: 0.96486026
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1teSzuPRHQ5Xgz8DsIB1pv
+    trackId: 1teSzuPRHQ5Xgz8DsIB1pv
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRX851400457&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/07FdDpjaazFWWzqcFUPegG
+              href: https://api.spotify.com/v1/artists/07FdDpjaazFWWzqcFUPegG
+              id: 07FdDpjaazFWWzqcFUPegG
+              name: Aline
+              type: artist
+              uri: spotify:artist:07FdDpjaazFWWzqcFUPegG
+            external_urls:
+              spotify: https://open.spotify.com/album/3LWIzN2IJOfloe4lEtomxV
+            href: https://api.spotify.com/v1/albums/3LWIzN2IJOfloe4lEtomxV
+            id: 3LWIzN2IJOfloe4lEtomxV
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273570ffeeb2aaa6c57482af099
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02570ffeeb2aaa6c57482af099
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851570ffeeb2aaa6c57482af099
+            is_playable: true
+            name: La vie electrique
+            release_date: '2015-08-28'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3LWIzN2IJOfloe4lEtomxV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/07FdDpjaazFWWzqcFUPegG
+            href: https://api.spotify.com/v1/artists/07FdDpjaazFWWzqcFUPegG
+            id: 07FdDpjaazFWWzqcFUPegG
+            name: Aline
+            type: artist
+            uri: spotify:artist:07FdDpjaazFWWzqcFUPegG
+          disc_number: 1
+          duration_ms: 289885
+          explicit: false
+          external_ids:
+            isrc: FRX851400457
+          external_urls:
+            spotify: https://open.spotify.com/track/1teSzuPRHQ5Xgz8DsIB1pv
+          href: https://api.spotify.com/v1/tracks/1teSzuPRHQ5Xgz8DsIB1pv
+          id: 1teSzuPRHQ5Xgz8DsIB1pv
+          is_local: false
+          is_playable: true
+          name: Avenue des armées
+          track_number: 1
+          type: track
+          uri: spotify:track:1teSzuPRHQ5Xgz8DsIB1pv
+    isrc: FRX851400457

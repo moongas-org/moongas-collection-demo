@@ -5,7 +5,7 @@ trackData:
   album: America
   genre: Classic Rock
   year: 1971
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 188.06
     fingerprint: 
@@ -39,3 +39,311 @@ trackIdData:
         firstReleaseDate: '1971-12-01'
       score: 0.9658162
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7jCizq5eYtTrDhCFRRMfOW
+    trackId: 7jCizq5eYtTrDhCFRRMfOW
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10603241&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6MLrKyrOiyxJXEWFGdCm4o
+            href: https://api.spotify.com/v1/albums/6MLrKyrOiyxJXEWFGdCm4o
+            id: 6MLrKyrOiyxJXEWFGdCm4o
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e6ab2db717a42757c55c0cbe
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e6ab2db717a42757c55c0cbe
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e6ab2db717a42757c55c0cbe
+            is_playable: true
+            name: Essential Yacht Rock
+            release_date: '2022-03-11'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:6MLrKyrOiyxJXEWFGdCm4o
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 185760
+          explicit: false
+          external_ids:
+            isrc: USWB10603241
+          external_urls:
+            spotify: https://open.spotify.com/track/7jCizq5eYtTrDhCFRRMfOW
+          href: https://api.spotify.com/v1/tracks/7jCizq5eYtTrDhCFRRMfOW
+          id: 7jCizq5eYtTrDhCFRRMfOW
+          is_local: false
+          is_playable: true
+          name: I Need You
+          track_number: 9
+          type: track
+          uri: spotify:track:7jCizq5eYtTrDhCFRRMfOW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+              href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+              id: 35U9lQaRWSQISxQAB94Meo
+              name: America
+              type: artist
+              uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+            external_urls:
+              spotify: https://open.spotify.com/album/074qwgdr7Vn4rkqR4O5rK8
+            href: https://api.spotify.com/v1/albums/074qwgdr7Vn4rkqR4O5rK8
+            id: 074qwgdr7Vn4rkqR4O5rK8
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27301f6119ffb63f9e4eb1824f3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0201f6119ffb63f9e4eb1824f3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485101f6119ffb63f9e4eb1824f3
+            is_playable: true
+            name: 'Definitive Pop: America'
+            release_date: '2007-02-05'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:074qwgdr7Vn4rkqR4O5rK8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx
+            href: https://api.spotify.com/v1/artists/4Fgf6RvuWpiwDXSE7Vammx
+            id: 4Fgf6RvuWpiwDXSE7Vammx
+            name: George Martin
+            type: artist
+            uri: spotify:artist:4Fgf6RvuWpiwDXSE7Vammx
+          disc_number: 1
+          duration_ms: 185760
+          explicit: false
+          external_ids:
+            isrc: USWB10603241
+          external_urls:
+            spotify: https://open.spotify.com/track/1EGYEgjRsYdIDj11x8ZXlJ
+          href: https://api.spotify.com/v1/tracks/1EGYEgjRsYdIDj11x8ZXlJ
+          id: 1EGYEgjRsYdIDj11x8ZXlJ
+          is_local: false
+          is_playable: true
+          name: I Need You - 2006 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:1EGYEgjRsYdIDj11x8ZXlJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6iqiERJMmkUnL3c4njh4QS
+            href: https://api.spotify.com/v1/albums/6iqiERJMmkUnL3c4njh4QS
+            id: 6iqiERJMmkUnL3c4njh4QS
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273c08dca7dc7469cf328a9e330
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02c08dca7dc7469cf328a9e330
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851c08dca7dc7469cf328a9e330
+            is_playable: true
+            name: 70s Rock Radio
+            release_date: '2020-03-13'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:6iqiERJMmkUnL3c4njh4QS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 185760
+          explicit: false
+          external_ids:
+            isrc: USWB10603241
+          external_urls:
+            spotify: https://open.spotify.com/track/6emDfc3ClawH1BIS472Lzm
+          href: https://api.spotify.com/v1/tracks/6emDfc3ClawH1BIS472Lzm
+          id: 6emDfc3ClawH1BIS472Lzm
+          is_local: false
+          is_playable: true
+          name: I Need You
+          track_number: 15
+          type: track
+          uri: spotify:track:6emDfc3ClawH1BIS472Lzm
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3fKNvXsNmfW5fLjPGeV7BM
+            href: https://api.spotify.com/v1/albums/3fKNvXsNmfW5fLjPGeV7BM
+            id: 3fKNvXsNmfW5fLjPGeV7BM
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273da0048cebf3a5e6c0db7847a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02da0048cebf3a5e6c0db7847a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851da0048cebf3a5e6c0db7847a
+            is_playable: true
+            name: Seventies Power Ballads
+            release_date: '2017-12-11'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:3fKNvXsNmfW5fLjPGeV7BM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 185760
+          explicit: false
+          external_ids:
+            isrc: USWB10603241
+          external_urls:
+            spotify: https://open.spotify.com/track/0BRr6CVpaCXYwYAdtulVRh
+          href: https://api.spotify.com/v1/tracks/0BRr6CVpaCXYwYAdtulVRh
+          id: 0BRr6CVpaCXYwYAdtulVRh
+          is_local: false
+          is_playable: true
+          name: I Need You
+          track_number: 10
+          type: track
+          uri: spotify:track:0BRr6CVpaCXYwYAdtulVRh
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5F2mU7wRUg2eteaYGAxqCs
+            href: https://api.spotify.com/v1/albums/5F2mU7wRUg2eteaYGAxqCs
+            id: 5F2mU7wRUg2eteaYGAxqCs
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736b2bc054154d015574c474e6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026b2bc054154d015574c474e6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516b2bc054154d015574c474e6
+            is_playable: true
+            name: Original 70's
+            release_date: '2020-03-13'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:5F2mU7wRUg2eteaYGAxqCs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 185760
+          explicit: false
+          external_ids:
+            isrc: USWB10603241
+          external_urls:
+            spotify: https://open.spotify.com/track/3HiRaxkRrLMclIqtSipD46
+          href: https://api.spotify.com/v1/tracks/3HiRaxkRrLMclIqtSipD46
+          id: 3HiRaxkRrLMclIqtSipD46
+          is_local: false
+          is_playable: true
+          name: I Need You
+          track_number: 17
+          type: track
+          uri: spotify:track:3HiRaxkRrLMclIqtSipD46
+    isrc: USWB10603241

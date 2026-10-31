@@ -5,7 +5,7 @@ trackData:
   album: Before Today
   genre: Indie Pop
   year: 2010
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 308.71
     fingerprint: 
@@ -24,3 +24,133 @@ trackIdData:
         firstReleaseDate: '2010-04-26'
       score: 0.98671544
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0ztWzWzixMYPL3Xgg5s6nl
+    trackId: 0ztWzWzixMYPL3Xgg5s6nl
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAFL1000046&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN
+              href: https://api.spotify.com/v1/artists/5H0YoDsPDi9fObFmJtTjfN
+              id: 5H0YoDsPDi9fObFmJtTjfN
+              name: Ariel Pink
+              type: artist
+              uri: spotify:artist:5H0YoDsPDi9fObFmJtTjfN
+            external_urls:
+              spotify: https://open.spotify.com/album/2dzt3Y2SwHsPNMbk8zXNP3
+            href: https://api.spotify.com/v1/albums/2dzt3Y2SwHsPNMbk8zXNP3
+            id: 2dzt3Y2SwHsPNMbk8zXNP3
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273562b9e1d800bd1926d38ed9e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02562b9e1d800bd1926d38ed9e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851562b9e1d800bd1926d38ed9e
+            is_playable: true
+            name: Round and Round
+            release_date: '2010-04-26'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:2dzt3Y2SwHsPNMbk8zXNP3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN
+            href: https://api.spotify.com/v1/artists/5H0YoDsPDi9fObFmJtTjfN
+            id: 5H0YoDsPDi9fObFmJtTjfN
+            name: Ariel Pink
+            type: artist
+            uri: spotify:artist:5H0YoDsPDi9fObFmJtTjfN
+          disc_number: 1
+          duration_ms: 308680
+          explicit: false
+          external_ids:
+            isrc: GBAFL1000046
+          external_urls:
+            spotify: https://open.spotify.com/track/0ztWzWzixMYPL3Xgg5s6nl
+          href: https://api.spotify.com/v1/tracks/0ztWzWzixMYPL3Xgg5s6nl
+          id: 0ztWzWzixMYPL3Xgg5s6nl
+          is_local: false
+          is_playable: true
+          name: Round and Round
+          track_number: 1
+          type: track
+          uri: spotify:track:0ztWzWzixMYPL3Xgg5s6nl
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN
+              href: https://api.spotify.com/v1/artists/5H0YoDsPDi9fObFmJtTjfN
+              id: 5H0YoDsPDi9fObFmJtTjfN
+              name: Ariel Pink
+              type: artist
+              uri: spotify:artist:5H0YoDsPDi9fObFmJtTjfN
+            external_urls:
+              spotify: https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J
+            href: https://api.spotify.com/v1/albums/4dFE0GGL1lOGd76kx6yl4J
+            id: 4dFE0GGL1lOGd76kx6yl4J
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e6d607273a39fc70ca100606
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e6d607273a39fc70ca100606
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e6d607273a39fc70ca100606
+            is_playable: true
+            name: Before Today
+            release_date: '2010-06-07'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4dFE0GGL1lOGd76kx6yl4J
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN
+            href: https://api.spotify.com/v1/artists/5H0YoDsPDi9fObFmJtTjfN
+            id: 5H0YoDsPDi9fObFmJtTjfN
+            name: Ariel Pink
+            type: artist
+            uri: spotify:artist:5H0YoDsPDi9fObFmJtTjfN
+          disc_number: 1
+          duration_ms: 308680
+          explicit: false
+          external_ids:
+            isrc: GBAFL1000046
+          external_urls:
+            spotify: https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6
+          href: https://api.spotify.com/v1/tracks/0IpxdHYUGxYvhZTeCdppH6
+          id: 0IpxdHYUGxYvhZTeCdppH6
+          is_local: false
+          is_playable: true
+          name: Round and Round
+          track_number: 5
+          type: track
+          uri: spotify:track:0IpxdHYUGxYvhZTeCdppH6
+    isrc: GBAFL1000046

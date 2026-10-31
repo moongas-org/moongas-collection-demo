@@ -74,3 +74,76 @@ mediaFileData:
         firstReleaseDate: '1988'
       score: 0.831784
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6ZijsJ9Oh0xgOdY0O1xCWN
+    trackId: 6ZijsJ9Oh0xgOdY0O1xCWN
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN19600091&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC
+              href: https://api.spotify.com/v1/artists/6rJqqRce0Kvo2dJUXoHleC
+              id: 6rJqqRce0Kvo2dJUXoHleC
+              name: Alabama
+              type: artist
+              uri: spotify:artist:6rJqqRce0Kvo2dJUXoHleC
+            external_urls:
+              spotify: https://open.spotify.com/album/4UUE6qWrIn7L54UZxv0DDQ
+            href: https://api.spotify.com/v1/albums/4UUE6qWrIn7L54UZxv0DDQ
+            id: 4UUE6qWrIn7L54UZxv0DDQ
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d0ea94f6bff3fd2e5f74e52f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d0ea94f6bff3fd2e5f74e52f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d0ea94f6bff3fd2e5f74e52f
+            is_playable: true
+            name: The Essential Alabama 3.0
+            release_date: '2009-12-22'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:4UUE6qWrIn7L54UZxv0DDQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC
+            href: https://api.spotify.com/v1/artists/6rJqqRce0Kvo2dJUXoHleC
+            id: 6rJqqRce0Kvo2dJUXoHleC
+            name: Alabama
+            type: artist
+            uri: spotify:artist:6rJqqRce0Kvo2dJUXoHleC
+          disc_number: 1
+          duration_ms: 236426
+          explicit: false
+          external_ids:
+            isrc: USRN19600091
+          external_urls:
+            spotify: https://open.spotify.com/track/6ZijsJ9Oh0xgOdY0O1xCWN
+          href: https://api.spotify.com/v1/tracks/6ZijsJ9Oh0xgOdY0O1xCWN
+          id: 6ZijsJ9Oh0xgOdY0O1xCWN
+          is_local: false
+          is_playable: true
+          name: Dixieland Delight - Single Edit
+          track_number: 12
+          type: track
+          uri: spotify:track:6ZijsJ9Oh0xgOdY0O1xCWN
+    isrc: USRN19600091

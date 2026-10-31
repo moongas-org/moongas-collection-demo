@@ -101,3 +101,133 @@ mediaFileData:
         firstReleaseDate: '1995-06-09'
       score: 0.94257647
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3C0WDkRRf9VUNs59sTT6Wr
+    trackId: 3C0WDkRRf9VUNs59sTT6Wr
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10103339&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu
+              href: https://api.spotify.com/v1/artists/2LJxr7Pt3JnP60eLxwbDOu
+              id: 2LJxr7Pt3JnP60eLxwbDOu
+              name: Mandy Moore
+              type: artist
+              uri: spotify:artist:2LJxr7Pt3JnP60eLxwbDOu
+            external_urls:
+              spotify: https://open.spotify.com/album/551186Jr75bHrh58ZdEMhW
+            href: https://api.spotify.com/v1/albums/551186Jr75bHrh58ZdEMhW
+            id: 551186Jr75bHrh58ZdEMhW
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273799f7be1146fe51116221e20
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02799f7be1146fe51116221e20
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851799f7be1146fe51116221e20
+            is_playable: true
+            name: The Best of Mandy Moore
+            release_date: '2004-11-16'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:551186Jr75bHrh58ZdEMhW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu
+            href: https://api.spotify.com/v1/artists/2LJxr7Pt3JnP60eLxwbDOu
+            id: 2LJxr7Pt3JnP60eLxwbDOu
+            name: Mandy Moore
+            type: artist
+            uri: spotify:artist:2LJxr7Pt3JnP60eLxwbDOu
+          disc_number: 1
+          duration_ms: 219093
+          explicit: false
+          external_ids:
+            isrc: USSM10103339
+          external_urls:
+            spotify: https://open.spotify.com/track/3C0WDkRRf9VUNs59sTT6Wr
+          href: https://api.spotify.com/v1/tracks/3C0WDkRRf9VUNs59sTT6Wr
+          id: 3C0WDkRRf9VUNs59sTT6Wr
+          is_local: false
+          is_playable: true
+          name: In My Pocket
+          track_number: 5
+          type: track
+          uri: spotify:track:3C0WDkRRf9VUNs59sTT6Wr
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu
+              href: https://api.spotify.com/v1/artists/2LJxr7Pt3JnP60eLxwbDOu
+              id: 2LJxr7Pt3JnP60eLxwbDOu
+              name: Mandy Moore
+              type: artist
+              uri: spotify:artist:2LJxr7Pt3JnP60eLxwbDOu
+            external_urls:
+              spotify: https://open.spotify.com/album/5HcsWBlYBlkqVAmKl3ZM8k
+            href: https://api.spotify.com/v1/albums/5HcsWBlYBlkqVAmKl3ZM8k
+            id: 5HcsWBlYBlkqVAmKl3ZM8k
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735ab6aed1264b3f983291a828
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025ab6aed1264b3f983291a828
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515ab6aed1264b3f983291a828
+            is_playable: true
+            name: Mandy Moore
+            release_date: '2001-06-18'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5HcsWBlYBlkqVAmKl3ZM8k
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu
+            href: https://api.spotify.com/v1/artists/2LJxr7Pt3JnP60eLxwbDOu
+            id: 2LJxr7Pt3JnP60eLxwbDOu
+            name: Mandy Moore
+            type: artist
+            uri: spotify:artist:2LJxr7Pt3JnP60eLxwbDOu
+          disc_number: 1
+          duration_ms: 219893
+          explicit: false
+          external_ids:
+            isrc: USSM10103339
+          external_urls:
+            spotify: https://open.spotify.com/track/19MsMKqidf4Iufr9gyu996
+          href: https://api.spotify.com/v1/tracks/19MsMKqidf4Iufr9gyu996
+          id: 19MsMKqidf4Iufr9gyu996
+          is_local: false
+          is_playable: true
+          name: In My Pocket
+          track_number: 1
+          type: track
+          uri: spotify:track:19MsMKqidf4Iufr9gyu996
+    isrc: USSM10103339

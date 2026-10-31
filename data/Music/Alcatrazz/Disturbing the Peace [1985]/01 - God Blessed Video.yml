@@ -57,3 +57,76 @@ mediaFileData:
         firstReleaseDate: '1985'
       score: 0.87697786
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0msLEdhP1haAiywBwKhR1t
+    trackId: 0msLEdhP1haAiywBwKhR1t
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBHQK0803590&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1LLiPRA3oThhxVf7W7gXQZ
+              href: https://api.spotify.com/v1/artists/1LLiPRA3oThhxVf7W7gXQZ
+              id: 1LLiPRA3oThhxVf7W7gXQZ
+              name: Alcatrazz
+              type: artist
+              uri: spotify:artist:1LLiPRA3oThhxVf7W7gXQZ
+            external_urls:
+              spotify: https://open.spotify.com/album/2UfvRD6YERaU3i8pvPMEly
+            href: https://api.spotify.com/v1/albums/2UfvRD6YERaU3i8pvPMEly
+            id: 2UfvRD6YERaU3i8pvPMEly
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f12116f51d91429dfbbc46cd
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f12116f51d91429dfbbc46cd
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f12116f51d91429dfbbc46cd
+            is_playable: true
+            name: Disturbing The Peace (Expanded Edition)
+            release_date: '2011-01-07'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:2UfvRD6YERaU3i8pvPMEly
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1LLiPRA3oThhxVf7W7gXQZ
+            href: https://api.spotify.com/v1/artists/1LLiPRA3oThhxVf7W7gXQZ
+            id: 1LLiPRA3oThhxVf7W7gXQZ
+            name: Alcatrazz
+            type: artist
+            uri: spotify:artist:1LLiPRA3oThhxVf7W7gXQZ
+          disc_number: 1
+          duration_ms: 210360
+          explicit: false
+          external_ids:
+            isrc: GBHQK0803590
+          external_urls:
+            spotify: https://open.spotify.com/track/0msLEdhP1haAiywBwKhR1t
+          href: https://api.spotify.com/v1/tracks/0msLEdhP1haAiywBwKhR1t
+          id: 0msLEdhP1haAiywBwKhR1t
+          is_local: false
+          is_playable: true
+          name: God Blessed Video
+          track_number: 1
+          type: track
+          uri: spotify:track:0msLEdhP1haAiywBwKhR1t
+    isrc: GBHQK0803590

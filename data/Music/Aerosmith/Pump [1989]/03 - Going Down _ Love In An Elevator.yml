@@ -95,3 +95,190 @@ mediaFileData:
         firstReleaseDate: '1989-09-12'
       score: 0.69827926
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Z9uN2vPafj5r0h88rWEfl
+    trackId: 0Z9uN2vPafj5r0h88rWEfl
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGF19925406&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+              href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+              id: 7Ey4PD4MYsKc5I2dolUwbH
+              name: Aerosmith
+              type: artist
+              uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+            external_urls:
+              spotify: https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC
+            href: https://api.spotify.com/v1/albums/5Z3bU10WcD9JOt98mui7DC
+            id: 5Z3bU10WcD9JOt98mui7DC
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732252eb939eee53f33fab866b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022252eb939eee53f33fab866b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512252eb939eee53f33fab866b
+            is_playable: true
+            name: Greatest Hits (Deluxe)
+            release_date: '2023-08-18'
+            release_date_precision: day
+            total_tracks: 44
+            type: album
+            uri: spotify:album:5Z3bU10WcD9JOt98mui7DC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 2
+          duration_ms: 332946
+          explicit: false
+          external_ids:
+            isrc: USGF19925406
+          external_urls:
+            spotify: https://open.spotify.com/track/0Z9uN2vPafj5r0h88rWEfl
+          href: https://api.spotify.com/v1/tracks/0Z9uN2vPafj5r0h88rWEfl
+          id: 0Z9uN2vPafj5r0h88rWEfl
+          is_local: false
+          is_playable: true
+          name: Water Song/Janie's Got A Gun
+          track_number: 14
+          type: track
+          uri: spotify:track:0Z9uN2vPafj5r0h88rWEfl
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+              href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+              id: 7Ey4PD4MYsKc5I2dolUwbH
+              name: Aerosmith
+              type: artist
+              uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+            external_urls:
+              spotify: https://open.spotify.com/album/1cVnullowgTG4CA9J8Wko6
+            href: https://api.spotify.com/v1/albums/1cVnullowgTG4CA9J8Wko6
+            id: 1cVnullowgTG4CA9J8Wko6
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ef94f857b552763ea70df6a7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ef94f857b552763ea70df6a7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ef94f857b552763ea70df6a7
+            is_playable: true
+            name: Pump
+            release_date: '1989-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1cVnullowgTG4CA9J8Wko6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 333160
+          explicit: false
+          external_ids:
+            isrc: USGF19925406
+          external_urls:
+            spotify: https://open.spotify.com/track/4VUMJt04KFAJAsoOijZxM9
+          href: https://api.spotify.com/v1/tracks/4VUMJt04KFAJAsoOijZxM9
+          id: 4VUMJt04KFAJAsoOijZxM9
+          is_local: false
+          is_playable: true
+          name: Water Song/Janie's Got A Gun
+          track_number: 5
+          type: track
+          uri: spotify:track:4VUMJt04KFAJAsoOijZxM9
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+              href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+              id: 7Ey4PD4MYsKc5I2dolUwbH
+              name: Aerosmith
+              type: artist
+              uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+            external_urls:
+              spotify: https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT
+            href: https://api.spotify.com/v1/albums/2WXQrFpRtf1FVSS70D5TVT
+            id: 2WXQrFpRtf1FVSS70D5TVT
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737286808a6e05a3c35d100db6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027286808a6e05a3c35d100db6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517286808a6e05a3c35d100db6
+            is_playable: true
+            name: Pump
+            release_date: '1989-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2WXQrFpRtf1FVSS70D5TVT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 338840
+          explicit: false
+          external_ids:
+            isrc: USGF19925406
+          external_urls:
+            spotify: https://open.spotify.com/track/5XPDEg7yZT893Ocru6IEph
+          href: https://api.spotify.com/v1/tracks/5XPDEg7yZT893Ocru6IEph
+          id: 5XPDEg7yZT893Ocru6IEph
+          is_local: false
+          is_playable: true
+          name: Water Song/Janie's Got A Gun
+          track_number: 5
+          type: track
+          uri: spotify:track:5XPDEg7yZT893Ocru6IEph
+    isrc: USGF19925406

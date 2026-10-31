@@ -5,7 +5,7 @@ trackData:
   album: Thirteenth Step
   genre: Alternative Metal
   year: 2003
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 154.99
     fingerprint: 
@@ -24,5 +24,79 @@ trackIdData:
         firstReleaseDate: '2003-09-15'
       score: 0.9894185
     - id: 09ddc460-df9f-41b8-b41b-5bfc57d11fd5
+      recordings: []
       score: 0.96050894
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4kCyIl6vCmUuviWuT2TY1b
+    trackId: 4kCyIl6vCmUuviWuT2TY1b
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20301033&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9
+            href: https://api.spotify.com/v1/albums/49K6hYDEr5M3GxIBBxlPf9
+            id: 49K6hYDEr5M3GxIBBxlPf9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739fce7baa218063d99799ce52
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029fce7baa218063d99799ce52
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519fce7baa218063d99799ce52
+            is_playable: true
+            name: Thirteenth Step
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:49K6hYDEr5M3GxIBBxlPf9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 154960
+          explicit: false
+          external_ids:
+            isrc: USVI20301033
+          external_urls:
+            spotify: https://open.spotify.com/track/4kCyIl6vCmUuviWuT2TY1b
+          href: https://api.spotify.com/v1/tracks/4kCyIl6vCmUuviWuT2TY1b
+          id: 4kCyIl6vCmUuviWuT2TY1b
+          is_local: false
+          is_playable: true
+          name: Crimes
+          track_number: 8
+          type: track
+          uri: spotify:track:4kCyIl6vCmUuviWuT2TY1b
+    isrc: USVI20301033

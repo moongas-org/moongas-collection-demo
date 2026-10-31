@@ -66,3 +66,133 @@ mediaFileData:
         firstReleaseDate: '1980-10-10'
       score: 0.9775336
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS
+    trackId: 5E47rKJbS74jyLZaSgb0kS
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEWM0910016&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA
+              href: https://api.spotify.com/v1/artists/1pBsvSnrhmgDZqisT13SFA
+              id: 1pBsvSnrhmgDZqisT13SFA
+              name: Agent Orange
+              type: artist
+              uri: spotify:artist:1pBsvSnrhmgDZqisT13SFA
+            external_urls:
+              spotify: https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas
+            href: https://api.spotify.com/v1/albums/1IJw5lrtuyb72eDp8o0kas
+            id: 1IJw5lrtuyb72eDp8o0kas
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d6ea853bfded1299c0e9b47e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d6ea853bfded1299c0e9b47e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d6ea853bfded1299c0e9b47e
+            is_playable: true
+            name: Living In Darkness (30th Anniversary Edition)
+            release_date: '1981'
+            release_date_precision: year
+            total_tracks: 9
+            type: album
+            uri: spotify:album:1IJw5lrtuyb72eDp8o0kas
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA
+            href: https://api.spotify.com/v1/artists/1pBsvSnrhmgDZqisT13SFA
+            id: 1pBsvSnrhmgDZqisT13SFA
+            name: Agent Orange
+            type: artist
+            uri: spotify:artist:1pBsvSnrhmgDZqisT13SFA
+          disc_number: 1
+          duration_ms: 113240
+          explicit: false
+          external_ids:
+            isrc: USEWM0910016
+          external_urls:
+            spotify: https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS
+          href: https://api.spotify.com/v1/tracks/5E47rKJbS74jyLZaSgb0kS
+          id: 5E47rKJbS74jyLZaSgb0kS
+          is_local: false
+          is_playable: true
+          name: Bloodstains - Original Version
+          track_number: 1
+          type: track
+          uri: spotify:track:5E47rKJbS74jyLZaSgb0kS
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA
+              href: https://api.spotify.com/v1/artists/1pBsvSnrhmgDZqisT13SFA
+              id: 1pBsvSnrhmgDZqisT13SFA
+              name: Agent Orange
+              type: artist
+              uri: spotify:artist:1pBsvSnrhmgDZqisT13SFA
+            external_urls:
+              spotify: https://open.spotify.com/album/7JiuiyXFPyQIlV4yIG9s9c
+            href: https://api.spotify.com/v1/albums/7JiuiyXFPyQIlV4yIG9s9c
+            id: 7JiuiyXFPyQIlV4yIG9s9c
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f231871b137fe47181221038
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f231871b137fe47181221038
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f231871b137fe47181221038
+            is_playable: true
+            name: Bloodstains (Original Posh Boy Recording - Remastered)
+            release_date: '2018-07-10'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:7JiuiyXFPyQIlV4yIG9s9c
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA
+            href: https://api.spotify.com/v1/artists/1pBsvSnrhmgDZqisT13SFA
+            id: 1pBsvSnrhmgDZqisT13SFA
+            name: Agent Orange
+            type: artist
+            uri: spotify:artist:1pBsvSnrhmgDZqisT13SFA
+          disc_number: 1
+          duration_ms: 112849
+          explicit: false
+          external_ids:
+            isrc: USEWM0910016
+          external_urls:
+            spotify: https://open.spotify.com/track/3GwtuZZbGBUXZE3KZEOJtb
+          href: https://api.spotify.com/v1/tracks/3GwtuZZbGBUXZE3KZEOJtb
+          id: 3GwtuZZbGBUXZE3KZEOJtb
+          is_local: false
+          is_playable: true
+          name: Bloodstains - Original Posh Boy Recording - Remastered
+          track_number: 1
+          type: track
+          uri: spotify:track:3GwtuZZbGBUXZE3KZEOJtb
+    isrc: USEWM0910016

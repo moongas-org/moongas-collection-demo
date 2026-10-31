@@ -49,3 +49,133 @@ mediaFileData:
         firstReleaseDate: '2010-07-03'
       score: 0.6393394
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/634HZykqTbJhmdoq6v2w7i
+    trackId: 634HZykqTbJhmdoq6v2w7i
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71021636&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB
+              href: https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB
+              id: 3kjuyTCjPG1WMFCiyc5IuB
+              name: Arcade Fire
+              type: artist
+              uri: spotify:artist:3kjuyTCjPG1WMFCiyc5IuB
+            external_urls:
+              spotify: https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI
+            href: https://api.spotify.com/v1/albums/3DrgM5X3yX1JP1liNLAOHI
+            id: 3DrgM5X3yX1JP1liNLAOHI
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273532391d63cfd6d32677f7af6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02532391d63cfd6d32677f7af6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851532391d63cfd6d32677f7af6
+            is_playable: true
+            name: The Suburbs
+            release_date: '2010-08-02'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:3DrgM5X3yX1JP1liNLAOHI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB
+            href: https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB
+            id: 3kjuyTCjPG1WMFCiyc5IuB
+            name: Arcade Fire
+            type: artist
+            uri: spotify:artist:3kjuyTCjPG1WMFCiyc5IuB
+          disc_number: 1
+          duration_ms: 171533
+          explicit: false
+          external_ids:
+            isrc: GBUM71021636
+          external_urls:
+            spotify: https://open.spotify.com/track/634HZykqTbJhmdoq6v2w7i
+          href: https://api.spotify.com/v1/tracks/634HZykqTbJhmdoq6v2w7i
+          id: 634HZykqTbJhmdoq6v2w7i
+          is_local: false
+          is_playable: true
+          name: Empty Room
+          track_number: 5
+          type: track
+          uri: spotify:track:634HZykqTbJhmdoq6v2w7i
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB
+              href: https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB
+              id: 3kjuyTCjPG1WMFCiyc5IuB
+              name: Arcade Fire
+              type: artist
+              uri: spotify:artist:3kjuyTCjPG1WMFCiyc5IuB
+            external_urls:
+              spotify: https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F
+            href: https://api.spotify.com/v1/albums/0gkUcpkyW2SXN49Yktkf6F
+            id: 0gkUcpkyW2SXN49Yktkf6F
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731d6b4b0418200b6324734062
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021d6b4b0418200b6324734062
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511d6b4b0418200b6324734062
+            is_playable: true
+            name: The Suburbs (Deluxe)
+            release_date: '2010-07-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0gkUcpkyW2SXN49Yktkf6F
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB
+            href: https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB
+            id: 3kjuyTCjPG1WMFCiyc5IuB
+            name: Arcade Fire
+            type: artist
+            uri: spotify:artist:3kjuyTCjPG1WMFCiyc5IuB
+          disc_number: 1
+          duration_ms: 171533
+          explicit: false
+          external_ids:
+            isrc: GBUM71021636
+          external_urls:
+            spotify: https://open.spotify.com/track/3KX0CbXVvEb81gL0LIanR4
+          href: https://api.spotify.com/v1/tracks/3KX0CbXVvEb81gL0LIanR4
+          id: 3KX0CbXVvEb81gL0LIanR4
+          is_local: false
+          is_playable: true
+          name: Empty Room
+          track_number: 5
+          type: track
+          uri: spotify:track:3KX0CbXVvEb81gL0LIanR4
+    isrc: GBUM71021636

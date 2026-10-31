@@ -5,7 +5,7 @@ trackData:
   album: The Love Movement
   genre: Hip-Hop
   year: 1998
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 262.4
     fingerprint: 
@@ -35,3 +35,76 @@ trackIdData:
         firstReleaseDate: '1998-09-09'
       score: 0.6428006
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0wmZOCWtc9OfUTkR5isTzi
+    trackId: 0wmZOCWtc9OfUTkR5isTzi
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJI19810391&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2
+            href: https://api.spotify.com/v1/albums/0FH3WsTCWaDmfpEojJ4sN2
+            id: 0FH3WsTCWaDmfpEojJ4sN2
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27389202df9fbd69ea49e9efe11
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0289202df9fbd69ea49e9efe11
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485189202df9fbd69ea49e9efe11
+            is_playable: true
+            name: The Love Movement
+            release_date: '1998-09-29'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:0FH3WsTCWaDmfpEojJ4sN2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 262373
+          explicit: false
+          external_ids:
+            isrc: USJI19810391
+          external_urls:
+            spotify: https://open.spotify.com/track/0wmZOCWtc9OfUTkR5isTzi
+          href: https://api.spotify.com/v1/tracks/0wmZOCWtc9OfUTkR5isTzi
+          id: 0wmZOCWtc9OfUTkR5isTzi
+          is_local: false
+          is_playable: true
+          name: Money Maker
+          track_number: 17
+          type: track
+          uri: spotify:track:0wmZOCWtc9OfUTkR5isTzi
+    isrc: USJI19810391

@@ -85,3 +85,76 @@ mediaFileData:
         firstReleaseDate: '1974-03-01'
       score: 0.8664623
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Fw0ZcHVaNN8k3cppKjRiB
+    trackId: 3Fw0ZcHVaNN8k3cppKjRiB
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUG12301900&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+              href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+              id: 7Ey4PD4MYsKc5I2dolUwbH
+              name: Aerosmith
+              type: artist
+              uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+            external_urls:
+              spotify: https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC
+            href: https://api.spotify.com/v1/albums/5Z3bU10WcD9JOt98mui7DC
+            id: 5Z3bU10WcD9JOt98mui7DC
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732252eb939eee53f33fab866b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022252eb939eee53f33fab866b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512252eb939eee53f33fab866b
+            is_playable: true
+            name: Greatest Hits (Deluxe)
+            release_date: '2023-08-18'
+            release_date_precision: day
+            total_tracks: 44
+            type: album
+            uri: spotify:album:5Z3bU10WcD9JOt98mui7DC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 303945
+          explicit: false
+          external_ids:
+            isrc: USUG12301900
+          external_urls:
+            spotify: https://open.spotify.com/track/3Fw0ZcHVaNN8k3cppKjRiB
+          href: https://api.spotify.com/v1/tracks/3Fw0ZcHVaNN8k3cppKjRiB
+          id: 3Fw0ZcHVaNN8k3cppKjRiB
+          is_local: false
+          is_playable: true
+          name: Seasons Of Wither
+          track_number: 7
+          type: track
+          uri: spotify:track:3Fw0ZcHVaNN8k3cppKjRiB
+    isrc: USUG12301900

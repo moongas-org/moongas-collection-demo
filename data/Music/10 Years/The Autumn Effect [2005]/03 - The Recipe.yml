@@ -5,7 +5,7 @@ trackData:
   album: The Autumn Effect
   genre: Alternative Metal
   year: 2005
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 216.62
     fingerprint: 
@@ -37,3 +37,76 @@ trackIdData:
         firstReleaseDate: '2005-08-16'
       score: 0.7284085
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3OBVgbVzoq5hdCoyHgBDtH
+    trackId: 3OBVgbVzoq5hdCoyHgBDtH
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM70500982&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph
+              href: https://api.spotify.com/v1/artists/0REMf7H0VP6DwfZ9MbuWph
+              id: 0REMf7H0VP6DwfZ9MbuWph
+              name: 10 Years
+              type: artist
+              uri: spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+            external_urls:
+              spotify: https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp
+            href: https://api.spotify.com/v1/albums/1VlMcoG1aI4E4kBIVoH5cp
+            id: 1VlMcoG1aI4E4kBIVoH5cp
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27366812882de8214e916e4d9d1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0266812882de8214e916e4d9d1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485166812882de8214e916e4d9d1
+            is_playable: true
+            name: The Autumn Effect
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:1VlMcoG1aI4E4kBIVoH5cp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph
+            href: https://api.spotify.com/v1/artists/0REMf7H0VP6DwfZ9MbuWph
+            id: 0REMf7H0VP6DwfZ9MbuWph
+            name: 10 Years
+            type: artist
+            uri: spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+          disc_number: 1
+          duration_ms: 216586
+          explicit: false
+          external_ids:
+            isrc: USUM70500982
+          external_urls:
+            spotify: https://open.spotify.com/track/3OBVgbVzoq5hdCoyHgBDtH
+          href: https://api.spotify.com/v1/tracks/3OBVgbVzoq5hdCoyHgBDtH
+          id: 3OBVgbVzoq5hdCoyHgBDtH
+          is_local: false
+          is_playable: true
+          name: The Recipe
+          track_number: 3
+          type: track
+          uri: spotify:track:3OBVgbVzoq5hdCoyHgBDtH
+    isrc: USUM70500982

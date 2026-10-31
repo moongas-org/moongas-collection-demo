@@ -133,3 +133,76 @@ mediaFileData:
         firstReleaseDate: '1994-01-24'
       score: 0.7809863
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0TZiZV8pQ6RBlo3Fmd5LX1
+    trackId: 0TZiZV8pQ6RBlo3Fmd5LX1
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS4SC0501921&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7qeBsFLeNEuzrDhDMbnDwF
+              href: https://api.spotify.com/v1/artists/7qeBsFLeNEuzrDhDMbnDwF
+              id: 7qeBsFLeNEuzrDhDMbnDwF
+              name: 69 Boyz
+              type: artist
+              uri: spotify:artist:7qeBsFLeNEuzrDhDMbnDwF
+            external_urls:
+              spotify: https://open.spotify.com/album/0pTv9npSf7D3pqKDi9fad1
+            href: https://api.spotify.com/v1/albums/0pTv9npSf7D3pqKDi9fad1
+            id: 0pTv9npSf7D3pqKDi9fad1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f356e944410b8c17e150f09e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f356e944410b8c17e150f09e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f356e944410b8c17e150f09e
+            is_playable: true
+            name: 199 Quad (w/ Bonus Dvd)
+            release_date: '1994-05-27'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:0pTv9npSf7D3pqKDi9fad1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yEPVc7x7Q8oPNGxToCzLu
+            href: https://api.spotify.com/v1/artists/1yEPVc7x7Q8oPNGxToCzLu
+            id: 1yEPVc7x7Q8oPNGxToCzLu
+            name: YZ
+            type: artist
+            uri: spotify:artist:1yEPVc7x7Q8oPNGxToCzLu
+          disc_number: 1
+          duration_ms: 256333
+          explicit: true
+          external_ids:
+            isrc: US4SC0501921
+          external_urls:
+            spotify: https://open.spotify.com/track/0TZiZV8pQ6RBlo3Fmd5LX1
+          href: https://api.spotify.com/v1/tracks/0TZiZV8pQ6RBlo3Fmd5LX1
+          id: 0TZiZV8pQ6RBlo3Fmd5LX1
+          is_local: false
+          is_playable: true
+          name: Tootsee Roll
+          track_number: 12
+          type: track
+          uri: spotify:track:0TZiZV8pQ6RBlo3Fmd5LX1
+    isrc: US4SC0501921

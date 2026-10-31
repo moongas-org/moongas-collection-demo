@@ -5,7 +5,7 @@ trackData:
   album: Movin' Melodies
   genre: Electronic (Instrumental)
   year: 1999
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 58.05
     fingerprint: 
@@ -25,6 +25,7 @@ trackIdData:
         firstReleaseDate: '1999-04-26'
       score: 0.9893037
     - id: 07ae0766-8583-4278-85df-df2bca3f7cf0
+      recordings: []
       score: 0.9406506
     - id: 6986fd07-cb3b-45bc-a69e-11529f65d261
       recordings:
@@ -51,3 +52,76 @@ trackIdData:
         firstReleaseDate: '1999-04-26'
       score: 0.93762267
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4F9OHm72qnbt4BNZyybtMY
+    trackId: 4F9OHm72qnbt4BNZyybtMY
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEN060301019&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk
+            href: https://api.spotify.com/v1/albums/4DfD9bqzlfSbEf5kWgufPk
+            id: 4DfD9bqzlfSbEf5kWgufPk
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27326971635f39cfc30b37ecf05
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0226971635f39cfc30b37ecf05
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485126971635f39cfc30b37ecf05
+            is_playable: true
+            name: Movin' Melodies
+            release_date: '1999-04-26'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4DfD9bqzlfSbEf5kWgufPk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 58000
+          explicit: false
+          external_ids:
+            isrc: DEN060301019
+          external_urls:
+            spotify: https://open.spotify.com/track/4F9OHm72qnbt4BNZyybtMY
+          href: https://api.spotify.com/v1/tracks/4F9OHm72qnbt4BNZyybtMY
+          id: 4F9OHm72qnbt4BNZyybtMY
+          is_local: false
+          is_playable: true
+          name: Zwischenstück
+          track_number: 4
+          type: track
+          uri: spotify:track:4F9OHm72qnbt4BNZyybtMY
+    isrc: DEN060301019

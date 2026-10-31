@@ -5,7 +5,7 @@ trackData:
   album: Whatever People Say I Am, That's What I'm Not
   genre: Indie Rock
   year: 2006
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 193.62
     fingerprint: 
@@ -24,6 +24,7 @@ trackIdData:
         firstReleaseDate: '2005'
       score: 0.9787381
     - id: 7e39179d-524f-407e-bec0-9af61ee4b6c0
+      recordings: []
       score: 0.68304986
     - id: bce0d76e-a339-4ecd-b198-ff1f9fd06799
       recordings:
@@ -37,3 +38,76 @@ trackIdData:
         firstReleaseDate: '2005'
       score: 0.66660076
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2vQQfWTanvD99OeHLAoyhW
+    trackId: 2vQQfWTanvD99OeHLAoyhW
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0501191&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+              href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+              id: 7Ln80lUS6He07XvHI8qqHH
+              name: Arctic Monkeys
+              type: artist
+              uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+            external_urls:
+              spotify: https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1
+            href: https://api.spotify.com/v1/albums/50Zz8CkIhATKUlQMbHO3k1
+            id: 50Zz8CkIhATKUlQMbHO3k1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
+            is_playable: true
+            name: Whatever People Say I Am, That's What I'm Not
+            release_date: '2006-01-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:50Zz8CkIhATKUlQMbHO3k1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+            href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+            id: 7Ln80lUS6He07XvHI8qqHH
+            name: Arctic Monkeys
+            type: artist
+            uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+          disc_number: 1
+          duration_ms: 193426
+          explicit: false
+          external_ids:
+            isrc: GBCEL0501191
+          external_urls:
+            spotify: https://open.spotify.com/track/2vQQfWTanvD99OeHLAoyhW
+          href: https://api.spotify.com/v1/tracks/2vQQfWTanvD99OeHLAoyhW
+          id: 2vQQfWTanvD99OeHLAoyhW
+          is_local: false
+          is_playable: true
+          name: From The Ritz To The Rubble
+          track_number: 12
+          type: track
+          uri: spotify:track:2vQQfWTanvD99OeHLAoyhW
+    isrc: GBCEL0501191

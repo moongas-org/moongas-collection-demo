@@ -5,7 +5,7 @@ trackData:
   album: Crazy Rap
   genre: Hip-Hop
   year: 2001
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 355.47
     fingerprint: 
@@ -48,3 +48,304 @@ trackIdData:
         firstReleaseDate: '2000-09-12'
       score: 0.9771193
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ACZpHI5vZ5Ea4xGlkdGWM
+    trackId: 1ACZpHI5vZ5Ea4xGlkdGWM
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUR10110847&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+              href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+              id: 4Icvbp9RDt5aY2TWDOVDsr
+              name: Afroman
+              type: artist
+              uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+            external_urls:
+              spotify: https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0
+            href: https://api.spotify.com/v1/albums/5WW91LUt9Oqkhzrg0Ao4K0
+            id: 5WW91LUt9Oqkhzrg0Ao4K0
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273734b1164a9e0faa980ce1b92
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02734b1164a9e0faa980ce1b92
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851734b1164a9e0faa980ce1b92
+            is_playable: true
+            name: The Good Times
+            release_date: '2001-08-28'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5WW91LUt9Oqkhzrg0Ao4K0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 328666
+          explicit: true
+          external_ids:
+            isrc: USUR10110847
+          external_urls:
+            spotify: https://open.spotify.com/track/1ACZpHI5vZ5Ea4xGlkdGWM
+          href: https://api.spotify.com/v1/tracks/1ACZpHI5vZ5Ea4xGlkdGWM
+          id: 1ACZpHI5vZ5Ea4xGlkdGWM
+          is_local: false
+          is_playable: true
+          name: Crazy Rap (Colt 45 & 2 Zig Zags)
+          track_number: 2
+          type: track
+          uri: spotify:track:1ACZpHI5vZ5Ea4xGlkdGWM
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6FUzzzmdHBtEpNEmTxI73M
+            href: https://api.spotify.com/v1/albums/6FUzzzmdHBtEpNEmTxI73M
+            id: 6FUzzzmdHBtEpNEmTxI73M
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273db9c164d9b1c04e0db90bcfb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02db9c164d9b1c04e0db90bcfb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851db9c164d9b1c04e0db90bcfb
+            is_playable: true
+            name: 2000s Hip Hop
+            release_date: '2019-10-18'
+            release_date_precision: day
+            total_tracks: 37
+            type: album
+            uri: spotify:album:6FUzzzmdHBtEpNEmTxI73M
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 328666
+          explicit: true
+          external_ids:
+            isrc: USUR10110847
+          external_urls:
+            spotify: https://open.spotify.com/track/4c8VzzjJps5O6RITruWEu6
+          href: https://api.spotify.com/v1/tracks/4c8VzzjJps5O6RITruWEu6
+          id: 4c8VzzjJps5O6RITruWEu6
+          is_local: false
+          is_playable: true
+          name: Crazy Rap (Colt 45 & 2 Zig Zags)
+          track_number: 23
+          type: track
+          uri: spotify:track:4c8VzzjJps5O6RITruWEu6
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/63O8ybYo02UFq85OezynsY
+            href: https://api.spotify.com/v1/albums/63O8ybYo02UFq85OezynsY
+            id: 63O8ybYo02UFq85OezynsY
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f1d43ba9539df1fb8af008cc
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f1d43ba9539df1fb8af008cc
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f1d43ba9539df1fb8af008cc
+            is_playable: true
+            name: Funky Rap Fridays
+            release_date: '2020-03-20'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:63O8ybYo02UFq85OezynsY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 328666
+          explicit: true
+          external_ids:
+            isrc: USUR10110847
+          external_urls:
+            spotify: https://open.spotify.com/track/6BNXWnlw1QBJDKfADvg2oa
+          href: https://api.spotify.com/v1/tracks/6BNXWnlw1QBJDKfADvg2oa
+          id: 6BNXWnlw1QBJDKfADvg2oa
+          is_local: false
+          is_playable: true
+          name: Crazy Rap (Colt 45 & 2 Zig Zags)
+          track_number: 30
+          type: track
+          uri: spotify:track:6BNXWnlw1QBJDKfADvg2oa
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3Dj3kn4PTdCsHzGhJUl8bi
+            href: https://api.spotify.com/v1/albums/3Dj3kn4PTdCsHzGhJUl8bi
+            id: 3Dj3kn4PTdCsHzGhJUl8bi
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731e34e2b13575fe679cc10739
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021e34e2b13575fe679cc10739
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511e34e2b13575fe679cc10739
+            is_playable: true
+            name: Rap Kings Vol 4
+            release_date: '2023-03-08'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:3Dj3kn4PTdCsHzGhJUl8bi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 328666
+          explicit: true
+          external_ids:
+            isrc: USUR10110847
+          external_urls:
+            spotify: https://open.spotify.com/track/3cN6jou6QX6EGuAR9IylDf
+          href: https://api.spotify.com/v1/tracks/3cN6jou6QX6EGuAR9IylDf
+          id: 3cN6jou6QX6EGuAR9IylDf
+          is_local: false
+          is_playable: true
+          name: Crazy Rap (Colt 45 & 2 Zig Zags)
+          track_number: 20
+          type: track
+          uri: spotify:track:3cN6jou6QX6EGuAR9IylDf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7hZNNdgRbKNcKhb8DXQtRb
+            href: https://api.spotify.com/v1/albums/7hZNNdgRbKNcKhb8DXQtRb
+            id: 7hZNNdgRbKNcKhb8DXQtRb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273046b12ad25ead0ccc89ae3aa
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02046b12ad25ead0ccc89ae3aa
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851046b12ad25ead0ccc89ae3aa
+            is_playable: true
+            name: 4/20 (Four Twenty)
+            release_date: '2021-04-23'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:7hZNNdgRbKNcKhb8DXQtRb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 328666
+          explicit: true
+          external_ids:
+            isrc: USUR10110847
+          external_urls:
+            spotify: https://open.spotify.com/track/48bioUK8hPSKlXxoC3QTgn
+          href: https://api.spotify.com/v1/tracks/48bioUK8hPSKlXxoC3QTgn
+          id: 48bioUK8hPSKlXxoC3QTgn
+          is_local: false
+          is_playable: true
+          name: Crazy Rap (Colt 45 & 2 Zig Zags)
+          track_number: 20
+          type: track
+          uri: spotify:track:48bioUK8hPSKlXxoC3QTgn
+    isrc: USUR10110847

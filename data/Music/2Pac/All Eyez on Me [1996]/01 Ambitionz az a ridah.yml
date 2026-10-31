@@ -95,3 +95,76 @@ mediaFileData:
       recordings: []
       score: 0.758051
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/749PtD6lJcRc2b0Vy8lTXw
+    trackId: 749PtD6lJcRc2b0Vy8lTXw
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSKO10302580&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+              href: https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh
+              id: 1ZwdS5xdxEREPySFridCfh
+              name: 2Pac
+              type: artist
+              uri: spotify:artist:1ZwdS5xdxEREPySFridCfh
+            external_urls:
+              spotify: https://open.spotify.com/album/3gx2d7IdrkoMva44o4pkNm
+            href: https://api.spotify.com/v1/albums/3gx2d7IdrkoMva44o4pkNm
+            id: 3gx2d7IdrkoMva44o4pkNm
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273281759df315a24566f2ec043
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02281759df315a24566f2ec043
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851281759df315a24566f2ec043
+            is_playable: true
+            name: Deathrow Presents Nu-Mixx Klazzics
+            release_date: '2003-10-07'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3gx2d7IdrkoMva44o4pkNm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+            href: https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh
+            id: 1ZwdS5xdxEREPySFridCfh
+            name: 2Pac
+            type: artist
+            uri: spotify:artist:1ZwdS5xdxEREPySFridCfh
+          disc_number: 1
+          duration_ms: 261360
+          explicit: false
+          external_ids:
+            isrc: USKO10302580
+          external_urls:
+            spotify: https://open.spotify.com/track/749PtD6lJcRc2b0Vy8lTXw
+          href: https://api.spotify.com/v1/tracks/749PtD6lJcRc2b0Vy8lTXw
+          id: 749PtD6lJcRc2b0Vy8lTXw
+          is_local: false
+          is_playable: true
+          name: Ambitionz Az A Ridah - Nu-Mixx
+          track_number: 10
+          type: track
+          uri: spotify:track:749PtD6lJcRc2b0Vy8lTXw
+    isrc: USKO10302580

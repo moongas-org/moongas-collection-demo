@@ -5,7 +5,7 @@ trackData:
   album: Blueprints For The Black Market
   genre: Emo / Pop-Rock
   year: 2003
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 197.8
     fingerprint: 
@@ -24,3 +24,133 @@ trackIdData:
         firstReleaseDate: '2003-05-06'
       score: 0.971519
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Fowr6vlOSn5Y1VrDUSd5C
+    trackId: 0Fowr6vlOSn5Y1VrDUSd5C
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSTN10218349&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+              href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+              id: 5v61OSg53KaQxGMpErkBNp
+              name: Anberlin
+              type: artist
+              uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+            external_urls:
+              spotify: https://open.spotify.com/album/36oe7wKlSzYswiAXb4Kt35
+            href: https://api.spotify.com/v1/albums/36oe7wKlSzYswiAXb4Kt35
+            id: 36oe7wKlSzYswiAXb4Kt35
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a243e5a74bf9f9e7c9985a1e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a243e5a74bf9f9e7c9985a1e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a243e5a74bf9f9e7c9985a1e
+            is_playable: true
+            name: Blueprints For The Black Market
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:36oe7wKlSzYswiAXb4Kt35
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+            href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+            id: 5v61OSg53KaQxGMpErkBNp
+            name: Anberlin
+            type: artist
+            uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+          disc_number: 1
+          duration_ms: 197573
+          explicit: false
+          external_ids:
+            isrc: USTN10218349
+          external_urls:
+            spotify: https://open.spotify.com/track/0Fowr6vlOSn5Y1VrDUSd5C
+          href: https://api.spotify.com/v1/tracks/0Fowr6vlOSn5Y1VrDUSd5C
+          id: 0Fowr6vlOSn5Y1VrDUSd5C
+          is_local: false
+          is_playable: true
+          name: Cadence
+          track_number: 10
+          type: track
+          uri: spotify:track:0Fowr6vlOSn5Y1VrDUSd5C
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+              href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+              id: 5v61OSg53KaQxGMpErkBNp
+              name: Anberlin
+              type: artist
+              uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+            external_urls:
+              spotify: https://open.spotify.com/album/4E7OiIG2Pd5l52NrICTPxL
+            href: https://api.spotify.com/v1/albums/4E7OiIG2Pd5l52NrICTPxL
+            id: 4E7OiIG2Pd5l52NrICTPxL
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738804e89d9baea21db4922f83
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028804e89d9baea21db4922f83
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518804e89d9baea21db4922f83
+            is_playable: true
+            name: 'Blueprints For City Friendships: The Anberlin Anthology'
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:4E7OiIG2Pd5l52NrICTPxL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+            href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+            id: 5v61OSg53KaQxGMpErkBNp
+            name: Anberlin
+            type: artist
+            uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+          disc_number: 1
+          duration_ms: 197573
+          explicit: false
+          external_ids:
+            isrc: USTN10218349
+          external_urls:
+            spotify: https://open.spotify.com/track/0UiAUaJRIPifX12I2ZPCLb
+          href: https://api.spotify.com/v1/tracks/0UiAUaJRIPifX12I2ZPCLb
+          id: 0UiAUaJRIPifX12I2ZPCLb
+          is_local: false
+          is_playable: true
+          name: Cadence
+          track_number: 10
+          type: track
+          uri: spotify:track:0UiAUaJRIPifX12I2ZPCLb
+    isrc: USTN10218349

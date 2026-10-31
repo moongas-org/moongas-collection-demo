@@ -189,3 +189,133 @@ mediaFileData:
         firstReleaseDate: '1983'
       score: 0.9653547
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4jSvQsjubFS849MtGGMitg
+    trackId: 4jSvQsjubFS849MtGGMitg
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUEM01000132&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg
+              href: https://api.spotify.com/v1/artists/6clbbhnIqpHnqxwtOWcilg
+              id: 6clbbhnIqpHnqxwtOWcilg
+              name: Little River Band
+              type: artist
+              uri: spotify:artist:6clbbhnIqpHnqxwtOWcilg
+            external_urls:
+              spotify: https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ
+            href: https://api.spotify.com/v1/albums/5XXymqS9NunPlUbovZK8WJ
+            id: 5XXymqS9NunPlUbovZK8WJ
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ad53be7d2ec379399660c1ec
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ad53be7d2ec379399660c1ec
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ad53be7d2ec379399660c1ec
+            is_playable: true
+            name: Sleeper Catcher (Remastered 2022)
+            release_date: '1978'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5XXymqS9NunPlUbovZK8WJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg
+            href: https://api.spotify.com/v1/artists/6clbbhnIqpHnqxwtOWcilg
+            id: 6clbbhnIqpHnqxwtOWcilg
+            name: Little River Band
+            type: artist
+            uri: spotify:artist:6clbbhnIqpHnqxwtOWcilg
+          disc_number: 1
+          duration_ms: 234564
+          explicit: false
+          external_ids:
+            isrc: AUEM01000132
+          external_urls:
+            spotify: https://open.spotify.com/track/4jSvQsjubFS849MtGGMitg
+          href: https://api.spotify.com/v1/tracks/4jSvQsjubFS849MtGGMitg
+          id: 4jSvQsjubFS849MtGGMitg
+          is_local: false
+          is_playable: true
+          name: Shut Down, Turn Off - Remastered 2022
+          track_number: 8
+          type: track
+          uri: spotify:track:4jSvQsjubFS849MtGGMitg
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg
+              href: https://api.spotify.com/v1/artists/6clbbhnIqpHnqxwtOWcilg
+              id: 6clbbhnIqpHnqxwtOWcilg
+              name: Little River Band
+              type: artist
+              uri: spotify:artist:6clbbhnIqpHnqxwtOWcilg
+            external_urls:
+              spotify: https://open.spotify.com/album/5knuXBWenny1xBG6ug66ks
+            href: https://api.spotify.com/v1/albums/5knuXBWenny1xBG6ug66ks
+            id: 5knuXBWenny1xBG6ug66ks
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273c395855a1ad4ffd8bd1a1aa4
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02c395855a1ad4ffd8bd1a1aa4
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851c395855a1ad4ffd8bd1a1aa4
+            is_playable: true
+            name: Ultimate Hits (Remastered 2022)
+            release_date: '2022-10-14'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5knuXBWenny1xBG6ug66ks
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg
+            href: https://api.spotify.com/v1/artists/6clbbhnIqpHnqxwtOWcilg
+            id: 6clbbhnIqpHnqxwtOWcilg
+            name: Little River Band
+            type: artist
+            uri: spotify:artist:6clbbhnIqpHnqxwtOWcilg
+          disc_number: 1
+          duration_ms: 234564
+          explicit: false
+          external_ids:
+            isrc: AUEM01000132
+          external_urls:
+            spotify: https://open.spotify.com/track/0Lc2Z7F4lF0C04zJNR4AwR
+          href: https://api.spotify.com/v1/tracks/0Lc2Z7F4lF0C04zJNR4AwR
+          id: 0Lc2Z7F4lF0C04zJNR4AwR
+          is_local: false
+          is_playable: true
+          name: Shut Down, Turn Off - Remastered 2022
+          track_number: 10
+          type: track
+          uri: spotify:track:0Lc2Z7F4lF0C04zJNR4AwR
+    isrc: AUEM01000132

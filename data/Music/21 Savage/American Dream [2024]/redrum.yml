@@ -64,3 +64,76 @@ mediaFileData:
         firstReleaseDate: '2024-05-24'
       score: 0.97976005
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2
+    trackId: 3OQrbQGIHe3Q0nKN4ricz2
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM12309186&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft
+              href: https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft
+              id: 1URnnhqYAYcrqrcwql10ft
+              name: 21 Savage
+              type: artist
+              uri: spotify:artist:1URnnhqYAYcrqrcwql10ft
+            external_urls:
+              spotify: https://open.spotify.com/album/2NmIkHfuMdIdqJlu3LtxwU
+            href: https://api.spotify.com/v1/albums/2NmIkHfuMdIdqJlu3LtxwU
+            id: 2NmIkHfuMdIdqJlu3LtxwU
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27337274ce49c817d8c4200cdbe
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0237274ce49c817d8c4200cdbe
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485137274ce49c817d8c4200cdbe
+            is_playable: true
+            name: american dream
+            release_date: '2024-01-10'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:2NmIkHfuMdIdqJlu3LtxwU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft
+            href: https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft
+            id: 1URnnhqYAYcrqrcwql10ft
+            name: 21 Savage
+            type: artist
+            uri: spotify:artist:1URnnhqYAYcrqrcwql10ft
+          disc_number: 1
+          duration_ms: 270697
+          explicit: false
+          external_ids:
+            isrc: USSM12309186
+          external_urls:
+            spotify: https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2
+          href: https://api.spotify.com/v1/tracks/3OQrbQGIHe3Q0nKN4ricz2
+          id: 3OQrbQGIHe3Q0nKN4ricz2
+          is_local: false
+          is_playable: true
+          name: redrum
+          track_number: 3
+          type: track
+          uri: spotify:track:3OQrbQGIHe3Q0nKN4ricz2
+    isrc: USSM12309186

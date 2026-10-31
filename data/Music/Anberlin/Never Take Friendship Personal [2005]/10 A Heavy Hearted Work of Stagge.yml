@@ -5,7 +5,7 @@ trackData:
   album: Never Take Friendship Personal
   genre: Emo / Pop-Rock
   year: 2005
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 72.18
     fingerprint: 
@@ -24,3 +24,133 @@ trackIdData:
         firstReleaseDate: '2005-02-01'
       score: 0.9955757
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/788TldDkzJHt6JId4VUKL6
+    trackId: 788TldDkzJHt6JId4VUKL6
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSTN10448341&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+              href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+              id: 5v61OSg53KaQxGMpErkBNp
+              name: Anberlin
+              type: artist
+              uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+            external_urls:
+              spotify: https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w
+            href: https://api.spotify.com/v1/albums/7F1dp39OljDwaJes2ruO0w
+            id: 7F1dp39OljDwaJes2ruO0w
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273c10f473ce20bef8d799fe8a9
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02c10f473ce20bef8d799fe8a9
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851c10f473ce20bef8d799fe8a9
+            is_playable: true
+            name: Never Take Friendship Personal
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7F1dp39OljDwaJes2ruO0w
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+            href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+            id: 5v61OSg53KaQxGMpErkBNp
+            name: Anberlin
+            type: artist
+            uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+          disc_number: 1
+          duration_ms: 74146
+          explicit: false
+          external_ids:
+            isrc: USTN10448341
+          external_urls:
+            spotify: https://open.spotify.com/track/788TldDkzJHt6JId4VUKL6
+          href: https://api.spotify.com/v1/tracks/788TldDkzJHt6JId4VUKL6
+          id: 788TldDkzJHt6JId4VUKL6
+          is_local: false
+          is_playable: true
+          name: A Heavy Hearted Work Of Staggering Genius
+          track_number: 10
+          type: track
+          uri: spotify:track:788TldDkzJHt6JId4VUKL6
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+              href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+              id: 5v61OSg53KaQxGMpErkBNp
+              name: Anberlin
+              type: artist
+              uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+            external_urls:
+              spotify: https://open.spotify.com/album/4E7OiIG2Pd5l52NrICTPxL
+            href: https://api.spotify.com/v1/albums/4E7OiIG2Pd5l52NrICTPxL
+            id: 4E7OiIG2Pd5l52NrICTPxL
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738804e89d9baea21db4922f83
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028804e89d9baea21db4922f83
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518804e89d9baea21db4922f83
+            is_playable: true
+            name: 'Blueprints For City Friendships: The Anberlin Anthology'
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:4E7OiIG2Pd5l52NrICTPxL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+            href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+            id: 5v61OSg53KaQxGMpErkBNp
+            name: Anberlin
+            type: artist
+            uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+          disc_number: 2
+          duration_ms: 72120
+          explicit: false
+          external_ids:
+            isrc: USTN10448341
+          external_urls:
+            spotify: https://open.spotify.com/track/504vqed0cXxiG4Zw8Nbuiz
+          href: https://api.spotify.com/v1/tracks/504vqed0cXxiG4Zw8Nbuiz
+          id: 504vqed0cXxiG4Zw8Nbuiz
+          is_local: false
+          is_playable: true
+          name: A Heavy Hearted Work Of Staggering Genius
+          track_number: 10
+          type: track
+          uri: spotify:track:504vqed0cXxiG4Zw8Nbuiz
+    isrc: USTN10448341

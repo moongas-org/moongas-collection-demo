@@ -5,7 +5,7 @@ trackData:
   album: Anchor Point
   genre: Electronic
   year: 2022
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 328.03
     fingerprint: 
@@ -24,3 +24,353 @@ trackIdData:
         firstReleaseDate: '2022-06-03'
       score: 0.995451
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7
+    trackId: 1D7PE3dDyonJfUP6oSuaq7
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AITFGO2200045&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV
+              href: https://api.spotify.com/v1/artists/4jercY4pUhY6jB8eQjpVJV
+              id: 4jercY4pUhY6jB8eQjpVJV
+              name: Ahmed Spins
+              type: artist
+              uri: spotify:artist:4jercY4pUhY6jB8eQjpVJV
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye
+              href: https://api.spotify.com/v1/artists/6gbEfMzGr0anNu4sKlXZye
+              id: 6gbEfMzGr0anNu4sKlXZye
+              name: Stevo Atambire
+              type: artist
+              uri: spotify:artist:6gbEfMzGr0anNu4sKlXZye
+            - external_urls:
+                spotify: https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X
+              href: https://api.spotify.com/v1/artists/70PnxFjOBPqfF4CZSt3A3X
+              id: 70PnxFjOBPqfF4CZSt3A3X
+              name: Lizwi
+              type: artist
+              uri: spotify:artist:70PnxFjOBPqfF4CZSt3A3X
+            external_urls:
+              spotify: https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V
+            href: https://api.spotify.com/v1/albums/1WmE8DAfRSq16Qre7SEV1V
+            id: 1WmE8DAfRSq16Qre7SEV1V
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273111081c73cb31997094ae4c3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02111081c73cb31997094ae4c3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851111081c73cb31997094ae4c3
+            is_playable: true
+            name: Anchor Point EP
+            release_date: '2022-06-03'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:1WmE8DAfRSq16Qre7SEV1V
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV
+            href: https://api.spotify.com/v1/artists/4jercY4pUhY6jB8eQjpVJV
+            id: 4jercY4pUhY6jB8eQjpVJV
+            name: Ahmed Spins
+            type: artist
+            uri: spotify:artist:4jercY4pUhY6jB8eQjpVJV
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X
+            href: https://api.spotify.com/v1/artists/70PnxFjOBPqfF4CZSt3A3X
+            id: 70PnxFjOBPqfF4CZSt3A3X
+            name: Lizwi
+            type: artist
+            uri: spotify:artist:70PnxFjOBPqfF4CZSt3A3X
+          disc_number: 1
+          duration_ms: 328000
+          explicit: false
+          external_ids:
+            isrc: ITFGO2200045
+          external_urls:
+            spotify: https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7
+          href: https://api.spotify.com/v1/tracks/1D7PE3dDyonJfUP6oSuaq7
+          id: 1D7PE3dDyonJfUP6oSuaq7
+          is_local: false
+          is_playable: true
+          name: Waves & Wavs
+          track_number: 2
+          type: track
+          uri: spotify:track:1D7PE3dDyonJfUP6oSuaq7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2XnFWFIwG1PEAqZOjlIQzt
+            href: https://api.spotify.com/v1/albums/2XnFWFIwG1PEAqZOjlIQzt
+            id: 2XnFWFIwG1PEAqZOjlIQzt
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736a53b6676e2430fd2e9bbd71
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026a53b6676e2430fd2e9bbd71
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516a53b6676e2430fd2e9bbd71
+            is_playable: true
+            name: Deep House 2026
+            release_date: '2026-02-13'
+            release_date_precision: day
+            total_tracks: 53
+            type: album
+            uri: spotify:album:2XnFWFIwG1PEAqZOjlIQzt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV
+            href: https://api.spotify.com/v1/artists/4jercY4pUhY6jB8eQjpVJV
+            id: 4jercY4pUhY6jB8eQjpVJV
+            name: Ahmed Spins
+            type: artist
+            uri: spotify:artist:4jercY4pUhY6jB8eQjpVJV
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X
+            href: https://api.spotify.com/v1/artists/70PnxFjOBPqfF4CZSt3A3X
+            id: 70PnxFjOBPqfF4CZSt3A3X
+            name: Lizwi
+            type: artist
+            uri: spotify:artist:70PnxFjOBPqfF4CZSt3A3X
+          disc_number: 1
+          duration_ms: 328000
+          explicit: false
+          external_ids:
+            isrc: ITFGO2200045
+          external_urls:
+            spotify: https://open.spotify.com/track/007UYZWgITNpgz3jAEGfau
+          href: https://api.spotify.com/v1/tracks/007UYZWgITNpgz3jAEGfau
+          id: 007UYZWgITNpgz3jAEGfau
+          is_local: false
+          is_playable: true
+          name: Waves & Wavs
+          track_number: 33
+          type: track
+          uri: spotify:track:007UYZWgITNpgz3jAEGfau
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7pjYklTT6bYYsSoMLHBBhl
+            href: https://api.spotify.com/v1/albums/7pjYklTT6bYYsSoMLHBBhl
+            id: 7pjYklTT6bYYsSoMLHBBhl
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739c3eec58b7a2f7a2e8aa08bb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029c3eec58b7a2f7a2e8aa08bb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519c3eec58b7a2f7a2e8aa08bb
+            is_playable: true
+            name: Beach Bar Vibes 2026
+            release_date: '2025-04-16'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:7pjYklTT6bYYsSoMLHBBhl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV
+            href: https://api.spotify.com/v1/artists/4jercY4pUhY6jB8eQjpVJV
+            id: 4jercY4pUhY6jB8eQjpVJV
+            name: Ahmed Spins
+            type: artist
+            uri: spotify:artist:4jercY4pUhY6jB8eQjpVJV
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X
+            href: https://api.spotify.com/v1/artists/70PnxFjOBPqfF4CZSt3A3X
+            id: 70PnxFjOBPqfF4CZSt3A3X
+            name: Lizwi
+            type: artist
+            uri: spotify:artist:70PnxFjOBPqfF4CZSt3A3X
+          disc_number: 1
+          duration_ms: 328000
+          explicit: false
+          external_ids:
+            isrc: ITFGO2200045
+          external_urls:
+            spotify: https://open.spotify.com/track/3ksd1TpvAaXcms3zh2nxX0
+          href: https://api.spotify.com/v1/tracks/3ksd1TpvAaXcms3zh2nxX0
+          id: 3ksd1TpvAaXcms3zh2nxX0
+          is_local: false
+          is_playable: true
+          name: Waves & Wavs
+          track_number: 23
+          type: track
+          uri: spotify:track:3ksd1TpvAaXcms3zh2nxX0
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/12PqNwGcQI00hB8oMjw9Nk
+            href: https://api.spotify.com/v1/albums/12PqNwGcQI00hB8oMjw9Nk
+            id: 12PqNwGcQI00hB8oMjw9Nk
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735534dc6ba7092f814bb962cc
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025534dc6ba7092f814bb962cc
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515534dc6ba7092f814bb962cc
+            is_playable: true
+            name: Mykonos Beach Club
+            release_date: '2025-09-19'
+            release_date_precision: day
+            total_tracks: 36
+            type: album
+            uri: spotify:album:12PqNwGcQI00hB8oMjw9Nk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV
+            href: https://api.spotify.com/v1/artists/4jercY4pUhY6jB8eQjpVJV
+            id: 4jercY4pUhY6jB8eQjpVJV
+            name: Ahmed Spins
+            type: artist
+            uri: spotify:artist:4jercY4pUhY6jB8eQjpVJV
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X
+            href: https://api.spotify.com/v1/artists/70PnxFjOBPqfF4CZSt3A3X
+            id: 70PnxFjOBPqfF4CZSt3A3X
+            name: Lizwi
+            type: artist
+            uri: spotify:artist:70PnxFjOBPqfF4CZSt3A3X
+          disc_number: 1
+          duration_ms: 328000
+          explicit: false
+          external_ids:
+            isrc: ITFGO2200045
+          external_urls:
+            spotify: https://open.spotify.com/track/7iBA4tjI39awnJYqbPbDnT
+          href: https://api.spotify.com/v1/tracks/7iBA4tjI39awnJYqbPbDnT
+          id: 7iBA4tjI39awnJYqbPbDnT
+          is_local: false
+          is_playable: true
+          name: Waves & Wavs
+          track_number: 25
+          type: track
+          uri: spotify:track:7iBA4tjI39awnJYqbPbDnT
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4Q1yHNfxw0riCTgcbP1zbv
+            href: https://api.spotify.com/v1/albums/4Q1yHNfxw0riCTgcbP1zbv
+            id: 4Q1yHNfxw0riCTgcbP1zbv
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738fc402e70f727fe2886a036e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028fc402e70f727fe2886a036e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518fc402e70f727fe2886a036e
+            is_playable: true
+            name: Afro House Mix
+            release_date: '2026-01-30'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:4Q1yHNfxw0riCTgcbP1zbv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV
+            href: https://api.spotify.com/v1/artists/4jercY4pUhY6jB8eQjpVJV
+            id: 4jercY4pUhY6jB8eQjpVJV
+            name: Ahmed Spins
+            type: artist
+            uri: spotify:artist:4jercY4pUhY6jB8eQjpVJV
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X
+            href: https://api.spotify.com/v1/artists/70PnxFjOBPqfF4CZSt3A3X
+            id: 70PnxFjOBPqfF4CZSt3A3X
+            name: Lizwi
+            type: artist
+            uri: spotify:artist:70PnxFjOBPqfF4CZSt3A3X
+          disc_number: 1
+          duration_ms: 328000
+          explicit: false
+          external_ids:
+            isrc: ITFGO2200045
+          external_urls:
+            spotify: https://open.spotify.com/track/6rxe5paiqjZug66wmalrwV
+          href: https://api.spotify.com/v1/tracks/6rxe5paiqjZug66wmalrwV
+          id: 6rxe5paiqjZug66wmalrwV
+          is_local: false
+          is_playable: true
+          name: Waves & Wavs
+          track_number: 4
+          type: track
+          uri: spotify:track:6rxe5paiqjZug66wmalrwV
+    isrc: ITFGO2200045

@@ -193,3 +193,304 @@ mediaFileData:
         firstReleaseDate: '2008-03-10'
       score: 0.9036458
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw
+    trackId: 6xq5DxZWGgdStAxGAil0yw
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSPR37930021&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m
+              href: https://api.spotify.com/v1/artists/6SLAMfhOi7UJI0fMztaK0m
+              id: 6SLAMfhOi7UJI0fMztaK0m
+              name: Rainbow
+              type: artist
+              uri: spotify:artist:6SLAMfhOi7UJI0fMztaK0m
+            external_urls:
+              spotify: https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ
+            href: https://api.spotify.com/v1/albums/1xlTRhgWQSEvu9DPHVn8uJ
+            id: 1xlTRhgWQSEvu9DPHVn8uJ
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273380a8be605d3765f34ec54f7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02380a8be605d3765f34ec54f7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851380a8be605d3765f34ec54f7
+            is_playable: true
+            name: Down To Earth
+            release_date: '1979-01-01'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:1xlTRhgWQSEvu9DPHVn8uJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m
+            href: https://api.spotify.com/v1/artists/6SLAMfhOi7UJI0fMztaK0m
+            id: 6SLAMfhOi7UJI0fMztaK0m
+            name: Rainbow
+            type: artist
+            uri: spotify:artist:6SLAMfhOi7UJI0fMztaK0m
+          disc_number: 1
+          duration_ms: 197160
+          explicit: false
+          external_ids:
+            isrc: USPR37930021
+          external_urls:
+            spotify: https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw
+          href: https://api.spotify.com/v1/tracks/6xq5DxZWGgdStAxGAil0yw
+          id: 6xq5DxZWGgdStAxGAil0yw
+          is_local: false
+          is_playable: true
+          name: Since You Been Gone
+          track_number: 5
+          type: track
+          uri: spotify:track:6xq5DxZWGgdStAxGAil0yw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3ktE8CgeIdlhs7DbVR89eu
+            href: https://api.spotify.com/v1/albums/3ktE8CgeIdlhs7DbVR89eu
+            id: 3ktE8CgeIdlhs7DbVR89eu
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f9818d8cddda764e595c1d01
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f9818d8cddda764e595c1d01
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f9818d8cddda764e595c1d01
+            is_playable: true
+            name: 70s Mix
+            release_date: '2019-06-14'
+            release_date_precision: day
+            total_tracks: 39
+            type: album
+            uri: spotify:album:3ktE8CgeIdlhs7DbVR89eu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m
+            href: https://api.spotify.com/v1/artists/6SLAMfhOi7UJI0fMztaK0m
+            id: 6SLAMfhOi7UJI0fMztaK0m
+            name: Rainbow
+            type: artist
+            uri: spotify:artist:6SLAMfhOi7UJI0fMztaK0m
+          disc_number: 1
+          duration_ms: 198506
+          explicit: false
+          external_ids:
+            isrc: USPR37930021
+          external_urls:
+            spotify: https://open.spotify.com/track/69F2Oz2f4zgyLPQzBmJG3O
+          href: https://api.spotify.com/v1/tracks/69F2Oz2f4zgyLPQzBmJG3O
+          id: 69F2Oz2f4zgyLPQzBmJG3O
+          is_local: false
+          is_playable: true
+          name: Since You Been Gone
+          track_number: 21
+          type: track
+          uri: spotify:track:69F2Oz2f4zgyLPQzBmJG3O
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4Sw9QbyKdN9jnqt9xcVV5N
+            href: https://api.spotify.com/v1/albums/4Sw9QbyKdN9jnqt9xcVV5N
+            id: 4Sw9QbyKdN9jnqt9xcVV5N
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732236b35e0228c0298bfbbad7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022236b35e0228c0298bfbbad7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512236b35e0228c0298bfbbad7
+            is_playable: true
+            name: Classic Rock Radio
+            release_date: '2018-06-01'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:4Sw9QbyKdN9jnqt9xcVV5N
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m
+            href: https://api.spotify.com/v1/artists/6SLAMfhOi7UJI0fMztaK0m
+            id: 6SLAMfhOi7UJI0fMztaK0m
+            name: Rainbow
+            type: artist
+            uri: spotify:artist:6SLAMfhOi7UJI0fMztaK0m
+          disc_number: 1
+          duration_ms: 197704
+          explicit: false
+          external_ids:
+            isrc: USPR37930021
+          external_urls:
+            spotify: https://open.spotify.com/track/4RTNY088TFl2nuHhb9iV8U
+          href: https://api.spotify.com/v1/tracks/4RTNY088TFl2nuHhb9iV8U
+          id: 4RTNY088TFl2nuHhb9iV8U
+          is_local: false
+          is_playable: true
+          name: Since You Been Gone
+          track_number: 4
+          type: track
+          uri: spotify:track:4RTNY088TFl2nuHhb9iV8U
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m
+              href: https://api.spotify.com/v1/artists/6SLAMfhOi7UJI0fMztaK0m
+              id: 6SLAMfhOi7UJI0fMztaK0m
+              name: Rainbow
+              type: artist
+              uri: spotify:artist:6SLAMfhOi7UJI0fMztaK0m
+            external_urls:
+              spotify: https://open.spotify.com/album/4G234rY4lzrdG5JcygrPUw
+            href: https://api.spotify.com/v1/albums/4G234rY4lzrdG5JcygrPUw
+            id: 4G234rY4lzrdG5JcygrPUw
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738dc25e4823e04ef9f4c0bfd8
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028dc25e4823e04ef9f4c0bfd8
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518dc25e4823e04ef9f4c0bfd8
+            is_playable: true
+            name: Down To Earth (Deluxe Edition)
+            release_date: '1979'
+            release_date_precision: year
+            total_tracks: 22
+            type: album
+            uri: spotify:album:4G234rY4lzrdG5JcygrPUw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m
+            href: https://api.spotify.com/v1/artists/6SLAMfhOi7UJI0fMztaK0m
+            id: 6SLAMfhOi7UJI0fMztaK0m
+            name: Rainbow
+            type: artist
+            uri: spotify:artist:6SLAMfhOi7UJI0fMztaK0m
+          disc_number: 1
+          duration_ms: 197866
+          explicit: false
+          external_ids:
+            isrc: USPR37930021
+          external_urls:
+            spotify: https://open.spotify.com/track/4LRhDmXUbc8ir102rSaB3V
+          href: https://api.spotify.com/v1/tracks/4LRhDmXUbc8ir102rSaB3V
+          id: 4LRhDmXUbc8ir102rSaB3V
+          is_local: false
+          is_playable: true
+          name: Since You Been Gone
+          track_number: 5
+          type: track
+          uri: spotify:track:4LRhDmXUbc8ir102rSaB3V
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m
+              href: https://api.spotify.com/v1/artists/6SLAMfhOi7UJI0fMztaK0m
+              id: 6SLAMfhOi7UJI0fMztaK0m
+              name: Rainbow
+              type: artist
+              uri: spotify:artist:6SLAMfhOi7UJI0fMztaK0m
+            external_urls:
+              spotify: https://open.spotify.com/album/6ZkHKKe3hp4veHPyyiGGBi
+            href: https://api.spotify.com/v1/albums/6ZkHKKe3hp4veHPyyiGGBi
+            id: 6ZkHKKe3hp4veHPyyiGGBi
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735f0dfe734f9c26129186d873
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025f0dfe734f9c26129186d873
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515f0dfe734f9c26129186d873
+            is_playable: true
+            name: The Very Best Of Rainbow
+            release_date: '1997-07-15'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:6ZkHKKe3hp4veHPyyiGGBi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m
+            href: https://api.spotify.com/v1/artists/6SLAMfhOi7UJI0fMztaK0m
+            id: 6SLAMfhOi7UJI0fMztaK0m
+            name: Rainbow
+            type: artist
+            uri: spotify:artist:6SLAMfhOi7UJI0fMztaK0m
+          disc_number: 1
+          duration_ms: 197600
+          explicit: false
+          external_ids:
+            isrc: USPR37930021
+          external_urls:
+            spotify: https://open.spotify.com/track/4GeDRMFwoO3NOGMKXXRZmf
+          href: https://api.spotify.com/v1/tracks/4GeDRMFwoO3NOGMKXXRZmf
+          id: 4GeDRMFwoO3NOGMKXXRZmf
+          is_local: false
+          is_playable: true
+          name: Since You Been Gone
+          track_number: 8
+          type: track
+          uri: spotify:track:4GeDRMFwoO3NOGMKXXRZmf
+    isrc: USPR37930021

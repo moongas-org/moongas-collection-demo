@@ -52,3 +52,76 @@ mediaFileData:
         firstReleaseDate: 2002-01
       score: 0.964168
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6YReJ9zstsmznCfo8BC2Cd
+    trackId: 6YReJ9zstsmznCfo8BC2Cd
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGB5KW2203249&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt
+              href: https://api.spotify.com/v1/artists/0uAjBatvB4ubpd4kCfjmNt
+              id: 0uAjBatvB4ubpd4kCfjmNt
+              name: A Flock Of Seagulls
+              type: artist
+              uri: spotify:artist:0uAjBatvB4ubpd4kCfjmNt
+            external_urls:
+              spotify: https://open.spotify.com/album/5xwe3HpR7I8s0kB7Gg4LRd
+            href: https://api.spotify.com/v1/albums/5xwe3HpR7I8s0kB7Gg4LRd
+            id: 5xwe3HpR7I8s0kB7Gg4LRd
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e2f236d0ad512e0bb63108e1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e2f236d0ad512e0bb63108e1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e2f236d0ad512e0bb63108e1
+            is_playable: true
+            name: A Flock of Seagulls (Deluxe)
+            release_date: '2023-02-17'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:5xwe3HpR7I8s0kB7Gg4LRd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt
+            href: https://api.spotify.com/v1/artists/0uAjBatvB4ubpd4kCfjmNt
+            id: 0uAjBatvB4ubpd4kCfjmNt
+            name: A Flock Of Seagulls
+            type: artist
+            uri: spotify:artist:0uAjBatvB4ubpd4kCfjmNt
+          disc_number: 1
+          duration_ms: 232045
+          explicit: false
+          external_ids:
+            isrc: GB5KW2203249
+          external_urls:
+            spotify: https://open.spotify.com/track/6YReJ9zstsmznCfo8BC2Cd
+          href: https://api.spotify.com/v1/tracks/6YReJ9zstsmznCfo8BC2Cd
+          id: 6YReJ9zstsmznCfo8BC2Cd
+          is_local: false
+          is_playable: true
+          name: Modern Love Is Automatic - 2023 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:6YReJ9zstsmznCfo8BC2Cd
+    isrc: GB5KW2203249

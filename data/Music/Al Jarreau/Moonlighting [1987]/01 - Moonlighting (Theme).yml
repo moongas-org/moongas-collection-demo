@@ -73,3 +73,133 @@ mediaFileData:
       recordings: []
       score: 0.5686643
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6yWpvk0QIMkBKosCPYLOzZ
+    trackId: 6yWpvk0QIMkBKosCPYLOzZ
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBQRF0703855&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe
+              href: https://api.spotify.com/v1/artists/3YR92OLKlvkK5oKNekSqXe
+              id: 3YR92OLKlvkK5oKNekSqXe
+              name: Al Jarreau
+              type: artist
+              uri: spotify:artist:3YR92OLKlvkK5oKNekSqXe
+            external_urls:
+              spotify: https://open.spotify.com/album/4RL5l3dpYtxe9Jz0iSZ9S9
+            href: https://api.spotify.com/v1/albums/4RL5l3dpYtxe9Jz0iSZ9S9
+            id: 4RL5l3dpYtxe9Jz0iSZ9S9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e5e65056e4b491ca89022ea8
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e5e65056e4b491ca89022ea8
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e5e65056e4b491ca89022ea8
+            is_playable: true
+            name: Sings Al Green
+            release_date: '2011-12-10'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4RL5l3dpYtxe9Jz0iSZ9S9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe
+            href: https://api.spotify.com/v1/artists/3YR92OLKlvkK5oKNekSqXe
+            id: 3YR92OLKlvkK5oKNekSqXe
+            name: Al Jarreau
+            type: artist
+            uri: spotify:artist:3YR92OLKlvkK5oKNekSqXe
+          disc_number: 1
+          duration_ms: 172133
+          explicit: false
+          external_ids:
+            isrc: GBQRF0703855
+          external_urls:
+            spotify: https://open.spotify.com/track/6yWpvk0QIMkBKosCPYLOzZ
+          href: https://api.spotify.com/v1/tracks/6yWpvk0QIMkBKosCPYLOzZ
+          id: 6yWpvk0QIMkBKosCPYLOzZ
+          is_local: false
+          is_playable: true
+          name: I'm Still in Love With You
+          track_number: 4
+          type: track
+          uri: spotify:track:6yWpvk0QIMkBKosCPYLOzZ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe
+              href: https://api.spotify.com/v1/artists/3YR92OLKlvkK5oKNekSqXe
+              id: 3YR92OLKlvkK5oKNekSqXe
+              name: Al Jarreau
+              type: artist
+              uri: spotify:artist:3YR92OLKlvkK5oKNekSqXe
+            external_urls:
+              spotify: https://open.spotify.com/album/6F4QDi5eHSE5yospCR2O0U
+            href: https://api.spotify.com/v1/albums/6F4QDi5eHSE5yospCR2O0U
+            id: 6F4QDi5eHSE5yospCR2O0U
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731a9fdf732bc1d4ee6807b207
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021a9fdf732bc1d4ee6807b207
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511a9fdf732bc1d4ee6807b207
+            is_playable: true
+            name: Get Soulful with Al Jarreau
+            release_date: '2013-12-08'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:6F4QDi5eHSE5yospCR2O0U
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe
+            href: https://api.spotify.com/v1/artists/3YR92OLKlvkK5oKNekSqXe
+            id: 3YR92OLKlvkK5oKNekSqXe
+            name: Al Jarreau
+            type: artist
+            uri: spotify:artist:3YR92OLKlvkK5oKNekSqXe
+          disc_number: 1
+          duration_ms: 172133
+          explicit: false
+          external_ids:
+            isrc: GBQRF0703855
+          external_urls:
+            spotify: https://open.spotify.com/track/2PPQGfgcsBHHJhkm3knbl4
+          href: https://api.spotify.com/v1/tracks/2PPQGfgcsBHHJhkm3knbl4
+          id: 2PPQGfgcsBHHJhkm3knbl4
+          is_local: false
+          is_playable: true
+          name: I'm Still in Love with You
+          track_number: 7
+          type: track
+          uri: spotify:track:2PPQGfgcsBHHJhkm3knbl4
+    isrc: GBQRF0703855

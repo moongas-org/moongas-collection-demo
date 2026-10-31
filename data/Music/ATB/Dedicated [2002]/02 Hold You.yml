@@ -103,3 +103,133 @@ mediaFileData:
         firstReleaseDate: '2001-12-03'
       score: 0.9749473
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7woaDt4dTCfsrMqcuyYvRo
+    trackId: 7woaDt4dTCfsrMqcuyYvRo
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEN060100394&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz
+              href: https://api.spotify.com/v1/artists/36QdWK7j3cN0UIPyrB6TIz
+              id: 36QdWK7j3cN0UIPyrB6TIz
+              name: Starsplash
+              type: artist
+              uri: spotify:artist:36QdWK7j3cN0UIPyrB6TIz
+            external_urls:
+              spotify: https://open.spotify.com/album/5836HK7rjhdZA5e2ZCUYSB
+            href: https://api.spotify.com/v1/albums/5836HK7rjhdZA5e2ZCUYSB
+            id: 5836HK7rjhdZA5e2ZCUYSB
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27372c5bcd6271dd4f40107b862
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0272c5bcd6271dd4f40107b862
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485172c5bcd6271dd4f40107b862
+            is_playable: true
+            name: Here We Go Again!
+            release_date: '2001-03-18'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5836HK7rjhdZA5e2ZCUYSB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz
+            href: https://api.spotify.com/v1/artists/36QdWK7j3cN0UIPyrB6TIz
+            id: 36QdWK7j3cN0UIPyrB6TIz
+            name: Starsplash
+            type: artist
+            uri: spotify:artist:36QdWK7j3cN0UIPyrB6TIz
+          disc_number: 1
+          duration_ms: 193693
+          explicit: false
+          external_ids:
+            isrc: DEN060100394
+          external_urls:
+            spotify: https://open.spotify.com/track/7woaDt4dTCfsrMqcuyYvRo
+          href: https://api.spotify.com/v1/tracks/7woaDt4dTCfsrMqcuyYvRo
+          id: 7woaDt4dTCfsrMqcuyYvRo
+          is_local: false
+          is_playable: true
+          name: Wonderful Days - 2001 Radio Edit
+          track_number: 4
+          type: track
+          uri: spotify:track:7woaDt4dTCfsrMqcuyYvRo
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz
+              href: https://api.spotify.com/v1/artists/36QdWK7j3cN0UIPyrB6TIz
+              id: 36QdWK7j3cN0UIPyrB6TIz
+              name: Starsplash
+              type: artist
+              uri: spotify:artist:36QdWK7j3cN0UIPyrB6TIz
+            external_urls:
+              spotify: https://open.spotify.com/album/0BMfkc829vQOcMOqIT6tJz
+            href: https://api.spotify.com/v1/albums/0BMfkc829vQOcMOqIT6tJz
+            id: 0BMfkc829vQOcMOqIT6tJz
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d179e0e26d11d086091f6f9b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d179e0e26d11d086091f6f9b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d179e0e26d11d086091f6f9b
+            is_playable: true
+            name: Wonderful Days
+            release_date: '2001-10-08'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:0BMfkc829vQOcMOqIT6tJz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz
+            href: https://api.spotify.com/v1/artists/36QdWK7j3cN0UIPyrB6TIz
+            id: 36QdWK7j3cN0UIPyrB6TIz
+            name: Starsplash
+            type: artist
+            uri: spotify:artist:36QdWK7j3cN0UIPyrB6TIz
+          disc_number: 1
+          duration_ms: 193693
+          explicit: false
+          external_ids:
+            isrc: DEN060100394
+          external_urls:
+            spotify: https://open.spotify.com/track/2jMzKC7xPdMbqEjbUoErNo
+          href: https://api.spotify.com/v1/tracks/2jMzKC7xPdMbqEjbUoErNo
+          id: 2jMzKC7xPdMbqEjbUoErNo
+          is_local: false
+          is_playable: true
+          name: Wonderful Days - 2001 Radio Edit
+          track_number: 1
+          type: track
+          uri: spotify:track:2jMzKC7xPdMbqEjbUoErNo
+    isrc: DEN060100394

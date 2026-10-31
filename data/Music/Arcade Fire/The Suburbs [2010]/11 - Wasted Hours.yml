@@ -42,3 +42,76 @@ mediaFileData:
         firstReleaseDate: '2010-07-03'
       score: 0.6464975
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6336VDSySvOz7FD2EX7VcT
+    trackId: 6336VDSySvOz7FD2EX7VcT
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71021641&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB
+              href: https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB
+              id: 3kjuyTCjPG1WMFCiyc5IuB
+              name: Arcade Fire
+              type: artist
+              uri: spotify:artist:3kjuyTCjPG1WMFCiyc5IuB
+            external_urls:
+              spotify: https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI
+            href: https://api.spotify.com/v1/albums/3DrgM5X3yX1JP1liNLAOHI
+            id: 3DrgM5X3yX1JP1liNLAOHI
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273532391d63cfd6d32677f7af6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02532391d63cfd6d32677f7af6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851532391d63cfd6d32677f7af6
+            is_playable: true
+            name: The Suburbs
+            release_date: '2010-08-02'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:3DrgM5X3yX1JP1liNLAOHI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB
+            href: https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB
+            id: 3kjuyTCjPG1WMFCiyc5IuB
+            name: Arcade Fire
+            type: artist
+            uri: spotify:artist:3kjuyTCjPG1WMFCiyc5IuB
+          disc_number: 1
+          duration_ms: 200720
+          explicit: false
+          external_ids:
+            isrc: GBUM71021641
+          external_urls:
+            spotify: https://open.spotify.com/track/6336VDSySvOz7FD2EX7VcT
+          href: https://api.spotify.com/v1/tracks/6336VDSySvOz7FD2EX7VcT
+          id: 6336VDSySvOz7FD2EX7VcT
+          is_local: false
+          is_playable: true
+          name: Wasted Hours
+          track_number: 11
+          type: track
+          uri: spotify:track:6336VDSySvOz7FD2EX7VcT
+    isrc: GBUM71021641

@@ -5,7 +5,7 @@ trackData:
   album: So Help Me God!
   genre: Hip-Hop
   year: 2020
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 205.22
     fingerprint: 
@@ -32,3 +32,83 @@ trackIdData:
         firstReleaseDate: '2020-11-13'
       score: 0.9295886
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7oN7mBg1r39crVwTK5PrWt
+    trackId: 7oN7mBg1r39crVwTK5PrWt
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUG12002960&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp
+              href: https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp
+              id: 17lzZA2AlOHwCwFALHttmp
+              name: 2 Chainz
+              type: artist
+              uri: spotify:artist:17lzZA2AlOHwCwFALHttmp
+            external_urls:
+              spotify: https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF
+            href: https://api.spotify.com/v1/albums/5RYrgGSMiYXGF8iwj2i1wF
+            id: 5RYrgGSMiYXGF8iwj2i1wF
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735aa0595fedf70e27dca892c7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025aa0595fedf70e27dca892c7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515aa0595fedf70e27dca892c7
+            is_playable: true
+            name: So Help Me God!
+            release_date: '2020-11-13'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:5RYrgGSMiYXGF8iwj2i1wF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp
+            href: https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp
+            id: 17lzZA2AlOHwCwFALHttmp
+            name: 2 Chainz
+            type: artist
+            uri: spotify:artist:17lzZA2AlOHwCwFALHttmp
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b
+            href: https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b
+            id: 7wlFDEWiM5OoIAt8RSli8b
+            name: YoungBoy Never Broke Again
+            type: artist
+            uri: spotify:artist:7wlFDEWiM5OoIAt8RSli8b
+          disc_number: 1
+          duration_ms: 203968
+          explicit: true
+          external_ids:
+            isrc: USUG12002960
+          external_urls:
+            spotify: https://open.spotify.com/track/7oN7mBg1r39crVwTK5PrWt
+          href: https://api.spotify.com/v1/tracks/7oN7mBg1r39crVwTK5PrWt
+          id: 7oN7mBg1r39crVwTK5PrWt
+          is_local: false
+          is_playable: true
+          name: Save Me (feat. YoungBoy Never Broke Again)
+          track_number: 3
+          type: track
+          uri: spotify:track:7oN7mBg1r39crVwTK5PrWt
+    isrc: USUG12002960

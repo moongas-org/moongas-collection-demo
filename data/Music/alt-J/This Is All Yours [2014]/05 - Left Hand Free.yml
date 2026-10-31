@@ -62,3 +62,133 @@ mediaFileData:
         firstReleaseDate:
       score: 0.7954246
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4NwJWJ7rIZBnv8TwNRhGG2
+    trackId: 4NwJWJ7rIZBnv8TwNRhGG2
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBZUZ1400272&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5
+              href: https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5
+              id: 3XHO7cRUPCLOr6jwp8vsx5
+              name: alt-J
+              type: artist
+              uri: spotify:artist:3XHO7cRUPCLOr6jwp8vsx5
+            external_urls:
+              spotify: https://open.spotify.com/album/2dyS8KJ2vQl2KpAZXrH1BW
+            href: https://api.spotify.com/v1/albums/2dyS8KJ2vQl2KpAZXrH1BW
+            id: 2dyS8KJ2vQl2KpAZXrH1BW
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273cfafa0c75d239d9f5ec28196
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02cfafa0c75d239d9f5ec28196
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851cfafa0c75d239d9f5ec28196
+            is_playable: true
+            name: Left Hand Free
+            release_date: '2014-07-07'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:2dyS8KJ2vQl2KpAZXrH1BW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5
+            href: https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5
+            id: 3XHO7cRUPCLOr6jwp8vsx5
+            name: alt-J
+            type: artist
+            uri: spotify:artist:3XHO7cRUPCLOr6jwp8vsx5
+          disc_number: 1
+          duration_ms: 173630
+          explicit: false
+          external_ids:
+            isrc: GBZUZ1400272
+          external_urls:
+            spotify: https://open.spotify.com/track/4NwJWJ7rIZBnv8TwNRhGG2
+          href: https://api.spotify.com/v1/tracks/4NwJWJ7rIZBnv8TwNRhGG2
+          id: 4NwJWJ7rIZBnv8TwNRhGG2
+          is_local: false
+          is_playable: true
+          name: Left Hand Free
+          track_number: 1
+          type: track
+          uri: spotify:track:4NwJWJ7rIZBnv8TwNRhGG2
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5
+              href: https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5
+              id: 3XHO7cRUPCLOr6jwp8vsx5
+              name: alt-J
+              type: artist
+              uri: spotify:artist:3XHO7cRUPCLOr6jwp8vsx5
+            external_urls:
+              spotify: https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a
+            href: https://api.spotify.com/v1/albums/4oktVvRuO1In9B7Hz0xm0a
+            id: 4oktVvRuO1In9B7Hz0xm0a
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0211b3df35e2e46d91f585afd9
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485111b3df35e2e46d91f585afd9
+            is_playable: true
+            name: This Is All Yours
+            release_date: '2014-09-22'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:4oktVvRuO1In9B7Hz0xm0a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5
+            href: https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5
+            id: 3XHO7cRUPCLOr6jwp8vsx5
+            name: alt-J
+            type: artist
+            uri: spotify:artist:3XHO7cRUPCLOr6jwp8vsx5
+          disc_number: 1
+          duration_ms: 173630
+          explicit: false
+          external_ids:
+            isrc: GBZUZ1400272
+          external_urls:
+            spotify: https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN
+          href: https://api.spotify.com/v1/tracks/4iEOVEULZRvmzYSZY2ViKN
+          id: 4iEOVEULZRvmzYSZY2ViKN
+          is_local: false
+          is_playable: true
+          name: Left Hand Free
+          track_number: 5
+          type: track
+          uri: spotify:track:4iEOVEULZRvmzYSZY2ViKN
+    isrc: GBZUZ1400272

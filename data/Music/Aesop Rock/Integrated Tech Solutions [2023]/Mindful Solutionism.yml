@@ -5,7 +5,7 @@ trackData:
   album: Integrated Tech Solutions
   genre: Hip-Hop
   year: 2023
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 214.99
     fingerprint: 
@@ -25,3 +25,76 @@ trackIdData:
         firstReleaseDate: '2023-09-14'
       score: 0.99920887
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2oET5wngczW7vMQEwRTmyv
+    trackId: 2oET5wngczW7vMQEwRTmyv
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBWK2300002&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ
+              href: https://api.spotify.com/v1/artists/2fSaE6BXtQy0x7R7v9IOmZ
+              id: 2fSaE6BXtQy0x7R7v9IOmZ
+              name: Aesop Rock
+              type: artist
+              uri: spotify:artist:2fSaE6BXtQy0x7R7v9IOmZ
+            external_urls:
+              spotify: https://open.spotify.com/album/64L1urQKsuPJQMteCZX6pX
+            href: https://api.spotify.com/v1/albums/64L1urQKsuPJQMteCZX6pX
+            id: 64L1urQKsuPJQMteCZX6pX
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731946b068576319d7cc903adc
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021946b068576319d7cc903adc
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511946b068576319d7cc903adc
+            is_playable: true
+            name: Integrated Tech Solutions
+            release_date: '2023-11-10'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:64L1urQKsuPJQMteCZX6pX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ
+            href: https://api.spotify.com/v1/artists/2fSaE6BXtQy0x7R7v9IOmZ
+            id: 2fSaE6BXtQy0x7R7v9IOmZ
+            name: Aesop Rock
+            type: artist
+            uri: spotify:artist:2fSaE6BXtQy0x7R7v9IOmZ
+          disc_number: 1
+          duration_ms: 214960
+          explicit: true
+          external_ids:
+            isrc: USBWK2300002
+          external_urls:
+            spotify: https://open.spotify.com/track/2oET5wngczW7vMQEwRTmyv
+          href: https://api.spotify.com/v1/tracks/2oET5wngczW7vMQEwRTmyv
+          id: 2oET5wngczW7vMQEwRTmyv
+          is_local: false
+          is_playable: true
+          name: Mindful Solutionism
+          track_number: 2
+          type: track
+          uri: spotify:track:2oET5wngczW7vMQEwRTmyv
+    isrc: USBWK2300002

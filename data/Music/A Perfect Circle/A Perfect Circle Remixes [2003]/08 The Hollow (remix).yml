@@ -45,3 +45,83 @@ mediaFileData:
         firstReleaseDate: '2000-11-06'
       score: 0.9631461
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6MB1nlTanPE1oasPutT0DY
+    trackId: 6MB1nlTanPE1oasPutT0DY
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20400581&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/4GmQxktbk1GJxpRqSUe26q
+            href: https://api.spotify.com/v1/albums/4GmQxktbk1GJxpRqSUe26q
+            id: 4GmQxktbk1GJxpRqSUe26q
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e9ce14632c393a8ddffd82f2
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e9ce14632c393a8ddffd82f2
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e9ce14632c393a8ddffd82f2
+            is_playable: true
+            name: aMOTION
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:4GmQxktbk1GJxpRqSUe26q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2EBSD6PCj7Ur3BteUGNYnB
+            href: https://api.spotify.com/v1/artists/2EBSD6PCj7Ur3BteUGNYnB
+            id: 2EBSD6PCj7Ur3BteUGNYnB
+            name: Paz Lenchantin
+            type: artist
+            uri: spotify:artist:2EBSD6PCj7Ur3BteUGNYnB
+          disc_number: 1
+          duration_ms: 220173
+          explicit: false
+          external_ids:
+            isrc: USVI20400581
+          external_urls:
+            spotify: https://open.spotify.com/track/6MB1nlTanPE1oasPutT0DY
+          href: https://api.spotify.com/v1/tracks/6MB1nlTanPE1oasPutT0DY
+          id: 6MB1nlTanPE1oasPutT0DY
+          is_local: false
+          is_playable: true
+          name: Hollow - Constantly Consuming Mix
+          track_number: 8
+          type: track
+          uri: spotify:track:6MB1nlTanPE1oasPutT0DY
+    isrc: USVI20400581

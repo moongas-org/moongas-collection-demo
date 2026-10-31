@@ -68,3 +68,304 @@ mediaFileData:
         firstReleaseDate: '1994-09-24'
       score: 0.9778811
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3OmWPC4tmUpJtLEq5xzX88
+    trackId: 3OmWPC4tmUpJtLEq5xzX88
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW10200306&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8
+              href: https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8
+              id: 2bA6fzP0lMAQ4kz6CF61w8
+              name: Toby Keith
+              type: artist
+              uri: spotify:artist:2bA6fzP0lMAQ4kz6CF61w8
+            external_urls:
+              spotify: https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC
+            href: https://api.spotify.com/v1/albums/3UBjWaGRf6ppcvnJd9M9UC
+            id: 3UBjWaGRf6ppcvnJd9M9UC
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d241324e9e9f14f83f293c5a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d241324e9e9f14f83f293c5a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d241324e9e9f14f83f293c5a
+            is_playable: true
+            name: Toby Keith 35 Biggest Hits
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:3UBjWaGRf6ppcvnJd9M9UC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8
+            href: https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8
+            id: 2bA6fzP0lMAQ4kz6CF61w8
+            name: Toby Keith
+            type: artist
+            uri: spotify:artist:2bA6fzP0lMAQ4kz6CF61w8
+          disc_number: 2
+          duration_ms: 195040
+          explicit: false
+          external_ids:
+            isrc: USDW10200306
+          external_urls:
+            spotify: https://open.spotify.com/track/3OmWPC4tmUpJtLEq5xzX88
+          href: https://api.spotify.com/v1/tracks/3OmWPC4tmUpJtLEq5xzX88
+          id: 3OmWPC4tmUpJtLEq5xzX88
+          is_local: false
+          is_playable: true
+          name: Courtesy Of The Red, White And Blue (The Angry American)
+          track_number: 4
+          type: track
+          uri: spotify:track:3OmWPC4tmUpJtLEq5xzX88
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8
+              href: https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8
+              id: 2bA6fzP0lMAQ4kz6CF61w8
+              name: Toby Keith
+              type: artist
+              uri: spotify:artist:2bA6fzP0lMAQ4kz6CF61w8
+            external_urls:
+              spotify: https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY
+            href: https://api.spotify.com/v1/albums/7ExectJocqn8sMKq4Tn4LY
+            id: 7ExectJocqn8sMKq4Tn4LY
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273bb5c54a68f9ce31f83b98de4
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02bb5c54a68f9ce31f83b98de4
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851bb5c54a68f9ce31f83b98de4
+            is_playable: true
+            name: Unleashed
+            release_date: '2002-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7ExectJocqn8sMKq4Tn4LY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8
+            href: https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8
+            id: 2bA6fzP0lMAQ4kz6CF61w8
+            name: Toby Keith
+            type: artist
+            uri: spotify:artist:2bA6fzP0lMAQ4kz6CF61w8
+          disc_number: 1
+          duration_ms: 195533
+          explicit: false
+          external_ids:
+            isrc: USDW10200306
+          external_urls:
+            spotify: https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa
+          href: https://api.spotify.com/v1/tracks/0M7mWKqwTIaVjYyxfZmtTa
+          id: 0M7mWKqwTIaVjYyxfZmtTa
+          is_local: false
+          is_playable: true
+          name: Courtesy Of The Red, White And Blue (The Angry American)
+          track_number: 1
+          type: track
+          uri: spotify:track:0M7mWKqwTIaVjYyxfZmtTa
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/06oqylDjMKEdO5FJ8PV4uT
+            href: https://api.spotify.com/v1/albums/06oqylDjMKEdO5FJ8PV4uT
+            id: 06oqylDjMKEdO5FJ8PV4uT
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731e82b4781d996e654c25df24
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021e82b4781d996e654c25df24
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511e82b4781d996e654c25df24
+            is_playable: true
+            name: Patriotic
+            release_date: '2018-06-22'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:06oqylDjMKEdO5FJ8PV4uT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8
+            href: https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8
+            id: 2bA6fzP0lMAQ4kz6CF61w8
+            name: Toby Keith
+            type: artist
+            uri: spotify:artist:2bA6fzP0lMAQ4kz6CF61w8
+          disc_number: 1
+          duration_ms: 195533
+          explicit: false
+          external_ids:
+            isrc: USDW10200306
+          external_urls:
+            spotify: https://open.spotify.com/track/3CQUTCJHZ3yUookLYvIZHB
+          href: https://api.spotify.com/v1/tracks/3CQUTCJHZ3yUookLYvIZHB
+          id: 3CQUTCJHZ3yUookLYvIZHB
+          is_local: false
+          is_playable: true
+          name: Courtesy Of The Red, White And Blue (The Angry American)
+          track_number: 2
+          type: track
+          uri: spotify:track:3CQUTCJHZ3yUookLYvIZHB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4622e6y1xQx188iRZDfLuy
+            href: https://api.spotify.com/v1/albums/4622e6y1xQx188iRZDfLuy
+            id: 4622e6y1xQx188iRZDfLuy
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d57a597e4905df9369c83c32
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d57a597e4905df9369c83c32
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d57a597e4905df9369c83c32
+            is_playable: true
+            name: 4th of July Cookout
+            release_date: '2022-06-08'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:4622e6y1xQx188iRZDfLuy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8
+            href: https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8
+            id: 2bA6fzP0lMAQ4kz6CF61w8
+            name: Toby Keith
+            type: artist
+            uri: spotify:artist:2bA6fzP0lMAQ4kz6CF61w8
+          disc_number: 1
+          duration_ms: 195480
+          explicit: false
+          external_ids:
+            isrc: USDW10200306
+          external_urls:
+            spotify: https://open.spotify.com/track/076GqyQxSPoD5c1hLKFKw6
+          href: https://api.spotify.com/v1/tracks/076GqyQxSPoD5c1hLKFKw6
+          id: 076GqyQxSPoD5c1hLKFKw6
+          is_local: false
+          is_playable: true
+          name: Courtesy Of The Red, White And Blue (The Angry American)
+          track_number: 11
+          type: track
+          uri: spotify:track:076GqyQxSPoD5c1hLKFKw6
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8
+              href: https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8
+              id: 2bA6fzP0lMAQ4kz6CF61w8
+              name: Toby Keith
+              type: artist
+              uri: spotify:artist:2bA6fzP0lMAQ4kz6CF61w8
+            external_urls:
+              spotify: https://open.spotify.com/album/5GbASKPwYwyJrNP9PqeXEE
+            href: https://api.spotify.com/v1/albums/5GbASKPwYwyJrNP9PqeXEE
+            id: 5GbASKPwYwyJrNP9PqeXEE
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27352338b065f39f20acac6e0a3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0252338b065f39f20acac6e0a3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485152338b065f39f20acac6e0a3
+            is_playable: true
+            name: Greatest Hits 2
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5GbASKPwYwyJrNP9PqeXEE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8
+            href: https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8
+            id: 2bA6fzP0lMAQ4kz6CF61w8
+            name: Toby Keith
+            type: artist
+            uri: spotify:artist:2bA6fzP0lMAQ4kz6CF61w8
+          disc_number: 1
+          duration_ms: 195480
+          explicit: false
+          external_ids:
+            isrc: USDW10200306
+          external_urls:
+            spotify: https://open.spotify.com/track/6m8NclCU2wPapd4NUs4A6H
+          href: https://api.spotify.com/v1/tracks/6m8NclCU2wPapd4NUs4A6H
+          id: 6m8NclCU2wPapd4NUs4A6H
+          is_local: false
+          is_playable: true
+          name: Courtesy Of The Red, White And Blue (The Angry American)
+          track_number: 7
+          type: track
+          uri: spotify:track:6m8NclCU2wPapd4NUs4A6H
+    isrc: USDW10200306

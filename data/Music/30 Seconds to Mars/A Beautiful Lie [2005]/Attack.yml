@@ -5,7 +5,7 @@ trackData:
   album: A Beautiful Lie
   genre: Alternative Rock
   year: 2005
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 188.24
     fingerprint: 
@@ -32,5 +32,193 @@ trackIdData:
         firstReleaseDate: '2005-04-03'
       score: 0.97570544
     - id: 72168195-4af1-42fa-84b6-5270eb5dd412
+      recordings: []
       score: 0.63544965
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6j9UKf4N0ElMTuhZ8CMe0p
+    trackId: 6j9UKf4N0ElMTuhZ8CMe0p
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20500137&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD
+              href: https://api.spotify.com/v1/artists/0RqtSIYZmd4fiBKVFqyIqD
+              id: 0RqtSIYZmd4fiBKVFqyIqD
+              name: Thirty Seconds To Mars
+              type: artist
+              uri: spotify:artist:0RqtSIYZmd4fiBKVFqyIqD
+            external_urls:
+              spotify: https://open.spotify.com/album/7agt72GwSxZYPmx4Uu8S3U
+            href: https://api.spotify.com/v1/albums/7agt72GwSxZYPmx4Uu8S3U
+            id: 7agt72GwSxZYPmx4Uu8S3U
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738aee90cc3a5a902d1bea80b3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028aee90cc3a5a902d1bea80b3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518aee90cc3a5a902d1bea80b3
+            is_playable: true
+            name: A Beautiful Lie (20 Year Anniversary)
+            release_date: '2026-03-27'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7agt72GwSxZYPmx4Uu8S3U
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD
+            href: https://api.spotify.com/v1/artists/0RqtSIYZmd4fiBKVFqyIqD
+            id: 0RqtSIYZmd4fiBKVFqyIqD
+            name: Thirty Seconds To Mars
+            type: artist
+            uri: spotify:artist:0RqtSIYZmd4fiBKVFqyIqD
+          disc_number: 1
+          duration_ms: 191807
+          explicit: false
+          external_ids:
+            isrc: USVI20500137
+          external_urls:
+            spotify: https://open.spotify.com/track/6j9UKf4N0ElMTuhZ8CMe0p
+          href: https://api.spotify.com/v1/tracks/6j9UKf4N0ElMTuhZ8CMe0p
+          id: 6j9UKf4N0ElMTuhZ8CMe0p
+          is_local: false
+          is_playable: true
+          name: Savior
+          track_number: 6
+          type: track
+          uri: spotify:track:6j9UKf4N0ElMTuhZ8CMe0p
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD
+              href: https://api.spotify.com/v1/artists/0RqtSIYZmd4fiBKVFqyIqD
+              id: 0RqtSIYZmd4fiBKVFqyIqD
+              name: Thirty Seconds To Mars
+              type: artist
+              uri: spotify:artist:0RqtSIYZmd4fiBKVFqyIqD
+            external_urls:
+              spotify: https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT
+            href: https://api.spotify.com/v1/albums/5sHvTCk793vr9EkSKcD7IT
+            id: 5sHvTCk793vr9EkSKcD7IT
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273865b538169f199dac610b854
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02865b538169f199dac610b854
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851865b538169f199dac610b854
+            is_playable: true
+            name: A Beautiful Lie
+            release_date: '2005-08-16'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5sHvTCk793vr9EkSKcD7IT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD
+            href: https://api.spotify.com/v1/artists/0RqtSIYZmd4fiBKVFqyIqD
+            id: 0RqtSIYZmd4fiBKVFqyIqD
+            name: Thirty Seconds To Mars
+            type: artist
+            uri: spotify:artist:0RqtSIYZmd4fiBKVFqyIqD
+          disc_number: 1
+          duration_ms: 191426
+          explicit: false
+          external_ids:
+            isrc: USVI20500137
+          external_urls:
+            spotify: https://open.spotify.com/track/3UobpTI1cP54bPL1l3l2jP
+          href: https://api.spotify.com/v1/tracks/3UobpTI1cP54bPL1l3l2jP
+          id: 3UobpTI1cP54bPL1l3l2jP
+          is_local: false
+          is_playable: true
+          name: Savior
+          track_number: 6
+          type: track
+          uri: spotify:track:3UobpTI1cP54bPL1l3l2jP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0bseOFqSX38SQp5BZmFA9p
+            href: https://api.spotify.com/v1/albums/0bseOFqSX38SQp5BZmFA9p
+            id: 0bseOFqSX38SQp5BZmFA9p
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27344d0899d6e64763c42362c2c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0244d0899d6e64763c42362c2c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485144d0899d6e64763c42362c2c
+            is_playable: true
+            name: Rock Para Empezar El Año En El Gimnasio
+            release_date: '2024-12-20'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:0bseOFqSX38SQp5BZmFA9p
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD
+            href: https://api.spotify.com/v1/artists/0RqtSIYZmd4fiBKVFqyIqD
+            id: 0RqtSIYZmd4fiBKVFqyIqD
+            name: Thirty Seconds To Mars
+            type: artist
+            uri: spotify:artist:0RqtSIYZmd4fiBKVFqyIqD
+          disc_number: 1
+          duration_ms: 191808
+          explicit: false
+          external_ids:
+            isrc: USVI20500137
+          external_urls:
+            spotify: https://open.spotify.com/track/3x7RkoHdjfW4lhva96zs5R
+          href: https://api.spotify.com/v1/tracks/3x7RkoHdjfW4lhva96zs5R
+          id: 3x7RkoHdjfW4lhva96zs5R
+          is_local: false
+          is_playable: true
+          name: Savior
+          track_number: 31
+          type: track
+          uri: spotify:track:3x7RkoHdjfW4lhva96zs5R
+    isrc: USVI20500137

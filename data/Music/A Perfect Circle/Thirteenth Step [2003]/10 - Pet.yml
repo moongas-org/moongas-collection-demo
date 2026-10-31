@@ -46,3 +46,304 @@ mediaFileData:
         firstReleaseDate: '2013-11-26'
       score: 0.9791667
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5iRa8L8orvfbWCQFpXt932
+    trackId: 5iRa8L8orvfbWCQFpXt932
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20301035&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2ifRaaKvZypaWQi2fFvy2P
+            href: https://api.spotify.com/v1/albums/2ifRaaKvZypaWQi2fFvy2P
+            id: 2ifRaaKvZypaWQi2fFvy2P
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273360ebf8e541cb1ec6a2cd704
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02360ebf8e541cb1ec6a2cd704
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851360ebf8e541cb1ec6a2cd704
+            is_playable: true
+            name: Romance Metal
+            release_date: '2024-02-12'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:2ifRaaKvZypaWQi2fFvy2P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 274333
+          explicit: true
+          external_ids:
+            isrc: USVI20301035
+          external_urls:
+            spotify: https://open.spotify.com/track/5iRa8L8orvfbWCQFpXt932
+          href: https://api.spotify.com/v1/tracks/5iRa8L8orvfbWCQFpXt932
+          id: 5iRa8L8orvfbWCQFpXt932
+          is_local: false
+          is_playable: true
+          name: Pet
+          track_number: 12
+          type: track
+          uri: spotify:track:5iRa8L8orvfbWCQFpXt932
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9
+            href: https://api.spotify.com/v1/albums/49K6hYDEr5M3GxIBBxlPf9
+            id: 49K6hYDEr5M3GxIBBxlPf9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739fce7baa218063d99799ce52
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029fce7baa218063d99799ce52
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519fce7baa218063d99799ce52
+            is_playable: true
+            name: Thirteenth Step
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:49K6hYDEr5M3GxIBBxlPf9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 274333
+          explicit: true
+          external_ids:
+            isrc: USVI20301035
+          external_urls:
+            spotify: https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH
+          href: https://api.spotify.com/v1/tracks/27msmgcdSRniJHfocEf6EH
+          id: 27msmgcdSRniJHfocEf6EH
+          is_local: false
+          is_playable: true
+          name: Pet
+          track_number: 10
+          type: track
+          uri: spotify:track:27msmgcdSRniJHfocEf6EH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/68Cbfwe31Sb4uKnr47tMxs
+            href: https://api.spotify.com/v1/albums/68Cbfwe31Sb4uKnr47tMxs
+            id: 68Cbfwe31Sb4uKnr47tMxs
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734ad849d8c470a0ce5276cea8
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024ad849d8c470a0ce5276cea8
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514ad849d8c470a0ce5276cea8
+            is_playable: true
+            name: Alt Metal
+            release_date: '2026-05-22'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:68Cbfwe31Sb4uKnr47tMxs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 274333
+          explicit: true
+          external_ids:
+            isrc: USVI20301035
+          external_urls:
+            spotify: https://open.spotify.com/track/7Fx12D38Vhcg0hA97nbUT5
+          href: https://api.spotify.com/v1/tracks/7Fx12D38Vhcg0hA97nbUT5
+          id: 7Fx12D38Vhcg0hA97nbUT5
+          is_local: false
+          is_playable: true
+          name: Pet
+          track_number: 23
+          type: track
+          uri: spotify:track:7Fx12D38Vhcg0hA97nbUT5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/50sMu7Nt4sZTX3kvY25xjV
+            href: https://api.spotify.com/v1/albums/50sMu7Nt4sZTX3kvY25xjV
+            id: 50sMu7Nt4sZTX3kvY25xjV
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27329c7fb4c145b5b0f9c681236
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0229c7fb4c145b5b0f9c681236
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485129c7fb4c145b5b0f9c681236
+            is_playable: true
+            name: possessive obsession vibes
+            release_date: '2026-03-27'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:50sMu7Nt4sZTX3kvY25xjV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 274333
+          explicit: true
+          external_ids:
+            isrc: USVI20301035
+          external_urls:
+            spotify: https://open.spotify.com/track/6Trwmnr7QVNce6opCVkCK1
+          href: https://api.spotify.com/v1/tracks/6Trwmnr7QVNce6opCVkCK1
+          id: 6Trwmnr7QVNce6opCVkCK1
+          is_local: false
+          is_playable: true
+          name: Pet
+          track_number: 19
+          type: track
+          uri: spotify:track:6Trwmnr7QVNce6opCVkCK1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0P49RnOoSjFc13EVEbUSBs
+            href: https://api.spotify.com/v1/albums/0P49RnOoSjFc13EVEbUSBs
+            id: 0P49RnOoSjFc13EVEbUSBs
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27368f4a2873e577aa5a1d72b12
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0268f4a2873e577aa5a1d72b12
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485168f4a2873e577aa5a1d72b12
+            is_playable: true
+            name: vampire vibes
+            release_date: '2026-08-08'
+            release_date_precision: day
+            total_tracks: 66
+            type: album
+            uri: spotify:album:0P49RnOoSjFc13EVEbUSBs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 274333
+          explicit: true
+          external_ids:
+            isrc: USVI20301035
+          external_urls:
+            spotify: https://open.spotify.com/track/2fE5ET9WoMqqD1qULxBg7y
+          href: https://api.spotify.com/v1/tracks/2fE5ET9WoMqqD1qULxBg7y
+          id: 2fE5ET9WoMqqD1qULxBg7y
+          is_local: false
+          is_playable: true
+          name: Pet
+          track_number: 30
+          type: track
+          uri: spotify:track:2fE5ET9WoMqqD1qULxBg7y
+    isrc: USVI20301035

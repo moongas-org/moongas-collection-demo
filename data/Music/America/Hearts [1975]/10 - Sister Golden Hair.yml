@@ -92,3 +92,76 @@ mediaFileData:
         firstReleaseDate: '1975'
       score: 0.97985893
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5u4nfO7Mhsf9oay4bFzfIc
+    trackId: 5u4nfO7Mhsf9oay4bFzfIc
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB11900582&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+              href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+              id: 35U9lQaRWSQISxQAB94Meo
+              name: America
+              type: artist
+              uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+            external_urls:
+              spotify: https://open.spotify.com/album/1dFdKXFhg5NzP8seepz1CL
+            href: https://api.spotify.com/v1/albums/1dFdKXFhg5NzP8seepz1CL
+            id: 1dFdKXFhg5NzP8seepz1CL
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27332b8420ea37103524b352735
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0232b8420ea37103524b352735
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485132b8420ea37103524b352735
+            is_playable: true
+            name: '50th Anniversary: The Collection'
+            release_date: '2019-07-12'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:1dFdKXFhg5NzP8seepz1CL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 202146
+          explicit: false
+          external_ids:
+            isrc: USWB11900582
+          external_urls:
+            spotify: https://open.spotify.com/track/5u4nfO7Mhsf9oay4bFzfIc
+          href: https://api.spotify.com/v1/tracks/5u4nfO7Mhsf9oay4bFzfIc
+          id: 5u4nfO7Mhsf9oay4bFzfIc
+          is_local: false
+          is_playable: true
+          name: Sister Golden Hair - Demo Version
+          track_number: 49
+          type: track
+          uri: spotify:track:5u4nfO7Mhsf9oay4bFzfIc
+    isrc: USWB11900582

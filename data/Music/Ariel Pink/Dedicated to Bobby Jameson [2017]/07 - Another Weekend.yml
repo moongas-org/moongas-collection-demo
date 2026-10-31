@@ -38,3 +38,76 @@ mediaFileData:
         firstReleaseDate: '2018-01-05'
       score: 0.99848366
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2UAbgLLiWFxknvbw3WsEjV
+    trackId: 2UAbgLLiWFxknvbw3WsEjV
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMV8L1724007&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN
+              href: https://api.spotify.com/v1/artists/5H0YoDsPDi9fObFmJtTjfN
+              id: 5H0YoDsPDi9fObFmJtTjfN
+              name: Ariel Pink
+              type: artist
+              uri: spotify:artist:5H0YoDsPDi9fObFmJtTjfN
+            external_urls:
+              spotify: https://open.spotify.com/album/1q77OFn8cTNdI5MOQiQyFo
+            href: https://api.spotify.com/v1/albums/1q77OFn8cTNdI5MOQiQyFo
+            id: 1q77OFn8cTNdI5MOQiQyFo
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730b3ea744ddbecff6b767155e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020b3ea744ddbecff6b767155e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510b3ea744ddbecff6b767155e
+            is_playable: true
+            name: Dedicated to Bobby Jameson
+            release_date: '2017-09-15'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1q77OFn8cTNdI5MOQiQyFo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN
+            href: https://api.spotify.com/v1/artists/5H0YoDsPDi9fObFmJtTjfN
+            id: 5H0YoDsPDi9fObFmJtTjfN
+            name: Ariel Pink
+            type: artist
+            uri: spotify:artist:5H0YoDsPDi9fObFmJtTjfN
+          disc_number: 1
+          duration_ms: 254520
+          explicit: false
+          external_ids:
+            isrc: QMV8L1724007
+          external_urls:
+            spotify: https://open.spotify.com/track/2UAbgLLiWFxknvbw3WsEjV
+          href: https://api.spotify.com/v1/tracks/2UAbgLLiWFxknvbw3WsEjV
+          id: 2UAbgLLiWFxknvbw3WsEjV
+          is_local: false
+          is_playable: true
+          name: Another Weekend
+          track_number: 7
+          type: track
+          uri: spotify:track:2UAbgLLiWFxknvbw3WsEjV
+    isrc: QMV8L1724007

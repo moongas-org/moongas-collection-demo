@@ -185,3 +185,304 @@ mediaFileData:
         firstReleaseDate: '2002-07-15'
       score: 0.9664425
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/50oQWchXLAcLi59w9WSlAJ
+    trackId: 50oQWchXLAcLi59w9WSlAJ
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ASEAYD7601020&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+              href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+              id: 0LcJLqbBmaGUft1e9Mm8HV
+              name: ABBA
+              type: artist
+              uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+            external_urls:
+              spotify: https://open.spotify.com/album/0NPGImtaAQofReuz7OVkLf
+            href: https://api.spotify.com/v1/albums/0NPGImtaAQofReuz7OVkLf
+            id: 0NPGImtaAQofReuz7OVkLf
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e23e4b01c85697fe3cf7df18
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e23e4b01c85697fe3cf7df18
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e23e4b01c85697fe3cf7df18
+            is_playable: true
+            name: Dancing Queen
+            release_date: '1976-08-14'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:0NPGImtaAQofReuz7OVkLf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 231843
+          explicit: false
+          external_ids:
+            isrc: SEAYD7601020
+          external_urls:
+            spotify: https://open.spotify.com/track/50oQWchXLAcLi59w9WSlAJ
+          href: https://api.spotify.com/v1/tracks/50oQWchXLAcLi59w9WSlAJ
+          id: 50oQWchXLAcLi59w9WSlAJ
+          is_local: false
+          is_playable: true
+          name: Dancing Queen
+          track_number: 1
+          type: track
+          uri: spotify:track:50oQWchXLAcLi59w9WSlAJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+              href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+              id: 0LcJLqbBmaGUft1e9Mm8HV
+              name: ABBA
+              type: artist
+              uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+            external_urls:
+              spotify: https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR
+            href: https://api.spotify.com/v1/albums/2cKZfaz7GiGtZEeQNj1RyR
+            id: 2cKZfaz7GiGtZEeQNj1RyR
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f7ecaf9daf2c1d5ca89f7312
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f7ecaf9daf2c1d5ca89f7312
+            is_playable: true
+            name: ABBA Gold
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:2cKZfaz7GiGtZEeQNj1RyR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 231093
+          explicit: false
+          external_ids:
+            isrc: SEAYD7601020
+          external_urls:
+            spotify: https://open.spotify.com/track/2ATDkfqprlNNe9mYWodgdc
+          href: https://api.spotify.com/v1/tracks/2ATDkfqprlNNe9mYWodgdc
+          id: 2ATDkfqprlNNe9mYWodgdc
+          is_local: false
+          is_playable: true
+          name: Dancing Queen
+          track_number: 1
+          type: track
+          uri: spotify:track:2ATDkfqprlNNe9mYWodgdc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+              href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+              id: 0LcJLqbBmaGUft1e9Mm8HV
+              name: ABBA
+              type: artist
+              uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+            external_urls:
+              spotify: https://open.spotify.com/album/34lTW6LuORpuIiYfqsetuq
+            href: https://api.spotify.com/v1/albums/34lTW6LuORpuIiYfqsetuq
+            id: 34lTW6LuORpuIiYfqsetuq
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ec5de82891e542d4877c6d98
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ec5de82891e542d4877c6d98
+            is_playable: true
+            name: The Essential Collection
+            release_date: '2012-01-01'
+            release_date_precision: day
+            total_tracks: 39
+            type: album
+            uri: spotify:album:34lTW6LuORpuIiYfqsetuq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 233440
+          explicit: false
+          external_ids:
+            isrc: SEAYD7601020
+          external_urls:
+            spotify: https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM
+          href: https://api.spotify.com/v1/tracks/1rMfDvE2C8ne8UZj847rKM
+          id: 1rMfDvE2C8ne8UZj847rKM
+          is_local: false
+          is_playable: true
+          name: Dancing Queen
+          track_number: 13
+          type: track
+          uri: spotify:track:1rMfDvE2C8ne8UZj847rKM
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+              href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+              id: 0LcJLqbBmaGUft1e9Mm8HV
+              name: ABBA
+              type: artist
+              uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+            external_urls:
+              spotify: https://open.spotify.com/album/00GMnZ71KyvmEnZfqcsFP4
+            href: https://api.spotify.com/v1/albums/00GMnZ71KyvmEnZfqcsFP4
+            id: 00GMnZ71KyvmEnZfqcsFP4
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735893ae3de02b83786469af35
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025893ae3de02b83786469af35
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515893ae3de02b83786469af35
+            is_playable: true
+            name: Abba Gold Anniversary Edition
+            release_date: '2014-01-01'
+            release_date_precision: day
+            total_tracks: 59
+            type: album
+            uri: spotify:album:00GMnZ71KyvmEnZfqcsFP4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 231093
+          explicit: false
+          external_ids:
+            isrc: SEAYD7601020
+          external_urls:
+            spotify: https://open.spotify.com/track/2BsqXN1LH76kAqjegAAsTZ
+          href: https://api.spotify.com/v1/tracks/2BsqXN1LH76kAqjegAAsTZ
+          id: 2BsqXN1LH76kAqjegAAsTZ
+          is_local: false
+          is_playable: true
+          name: Dancing Queen
+          track_number: 1
+          type: track
+          uri: spotify:track:2BsqXN1LH76kAqjegAAsTZ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+              href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+              id: 0LcJLqbBmaGUft1e9Mm8HV
+              name: ABBA
+              type: artist
+              uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+            external_urls:
+              spotify: https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9
+            href: https://api.spotify.com/v1/albums/1V6a99EbTTIegOhWoPxYI9
+            id: 1V6a99EbTTIegOhWoPxYI9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0
+            is_playable: true
+            name: Arrival
+            release_date: '1976'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1V6a99EbTTIegOhWoPxYI9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV
+            href: https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV
+            id: 0LcJLqbBmaGUft1e9Mm8HV
+            name: ABBA
+            type: artist
+            uri: spotify:artist:0LcJLqbBmaGUft1e9Mm8HV
+          disc_number: 1
+          duration_ms: 230400
+          explicit: false
+          external_ids:
+            isrc: SEAYD7601020
+          external_urls:
+            spotify: https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr
+          href: https://api.spotify.com/v1/tracks/0GjEhVFGZW8afUYGChu3Rr
+          id: 0GjEhVFGZW8afUYGChu3Rr
+          is_local: false
+          is_playable: true
+          name: Dancing Queen
+          track_number: 2
+          type: track
+          uri: spotify:track:0GjEhVFGZW8afUYGChu3Rr
+    isrc: SEAYD7601020

@@ -87,3 +87,76 @@ mediaFileData:
         firstReleaseDate: '2000-05-23'
       score: 0.6846651
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/02JQZ7EsaQWL3fn7W4bYYZ
+    trackId: 02JQZ7EsaQWL3fn7W4bYYZ
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMEJX1300008&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/0AddFW17f8gMJw7odPN3xI
+            href: https://api.spotify.com/v1/albums/0AddFW17f8gMJw7odPN3xI
+            id: 0AddFW17f8gMJw7odPN3xI
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735cfe14b798da8451ca54b29d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025cfe14b798da8451ca54b29d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515cfe14b798da8451ca54b29d
+            is_playable: true
+            name: Mer De Noms - Live
+            release_date: '2013-11-26'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0AddFW17f8gMJw7odPN3xI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 371760
+          explicit: false
+          external_ids:
+            isrc: QMEJX1300008
+          external_urls:
+            spotify: https://open.spotify.com/track/02JQZ7EsaQWL3fn7W4bYYZ
+          href: https://api.spotify.com/v1/tracks/02JQZ7EsaQWL3fn7W4bYYZ
+          id: 02JQZ7EsaQWL3fn7W4bYYZ
+          is_local: false
+          is_playable: true
+          name: Sleeping Beauty (Live)
+          track_number: 7
+          type: track
+          uri: spotify:track:02JQZ7EsaQWL3fn7W4bYYZ
+    isrc: QMEJX1300008

@@ -5,7 +5,7 @@ trackData:
   album: Killing All That Holds You
   genre: Alternative Metal
   year: 2004
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 283.3
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2003'
       score: 0.97343093
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3QFt61IkMjBd1kcftlMDVG
+    trackId: 3QFt61IkMjBd1kcftlMDVG
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71018326&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph
+              href: https://api.spotify.com/v1/artists/0REMf7H0VP6DwfZ9MbuWph
+              id: 0REMf7H0VP6DwfZ9MbuWph
+              name: 10 Years
+              type: artist
+              uri: spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+            external_urls:
+              spotify: https://open.spotify.com/album/3kGQHYw5GYet4hUZH4Zx8W
+            href: https://api.spotify.com/v1/albums/3kGQHYw5GYet4hUZH4Zx8W
+            id: 3kGQHYw5GYet4hUZH4Zx8W
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731ff855f3f2d8250af39392c3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021ff855f3f2d8250af39392c3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511ff855f3f2d8250af39392c3
+            is_playable: true
+            name: Feeding The Wolves (Deluxe Version)
+            release_date: '2010-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:3kGQHYw5GYet4hUZH4Zx8W
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph
+            href: https://api.spotify.com/v1/artists/0REMf7H0VP6DwfZ9MbuWph
+            id: 0REMf7H0VP6DwfZ9MbuWph
+            name: 10 Years
+            type: artist
+            uri: spotify:artist:0REMf7H0VP6DwfZ9MbuWph
+          disc_number: 1
+          duration_ms: 285600
+          explicit: false
+          external_ids:
+            isrc: USUM71018326
+          external_urls:
+            spotify: https://open.spotify.com/track/3QFt61IkMjBd1kcftlMDVG
+          href: https://api.spotify.com/v1/tracks/3QFt61IkMjBd1kcftlMDVG
+          id: 3QFt61IkMjBd1kcftlMDVG
+          is_local: false
+          is_playable: true
+          name: Silhouette Of A Life
+          track_number: 14
+          type: track
+          uri: spotify:track:3QFt61IkMjBd1kcftlMDVG
+    isrc: USUM71018326

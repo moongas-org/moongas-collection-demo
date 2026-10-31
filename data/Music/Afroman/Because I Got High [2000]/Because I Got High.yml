@@ -104,3 +104,304 @@ mediaFileData:
         firstReleaseDate: '2001-11-19'
       score: 0.96960706
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4
+    trackId: 0rRboI6IRuGx56Dq3UdYY4
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUR10110857&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+              href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+              id: 4Icvbp9RDt5aY2TWDOVDsr
+              name: Afroman
+              type: artist
+              uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+            external_urls:
+              spotify: https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0
+            href: https://api.spotify.com/v1/albums/5WW91LUt9Oqkhzrg0Ao4K0
+            id: 5WW91LUt9Oqkhzrg0Ao4K0
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273734b1164a9e0faa980ce1b92
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02734b1164a9e0faa980ce1b92
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851734b1164a9e0faa980ce1b92
+            is_playable: true
+            name: The Good Times
+            release_date: '2001-08-28'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5WW91LUt9Oqkhzrg0Ao4K0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 197760
+          explicit: true
+          external_ids:
+            isrc: USUR10110857
+          external_urls:
+            spotify: https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4
+          href: https://api.spotify.com/v1/tracks/0rRboI6IRuGx56Dq3UdYY4
+          id: 0rRboI6IRuGx56Dq3UdYY4
+          is_local: false
+          is_playable: true
+          name: Because I Got High
+          track_number: 1
+          type: track
+          uri: spotify:track:0rRboI6IRuGx56Dq3UdYY4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/481bJKUAaLEvsPb7KqpZQP
+            href: https://api.spotify.com/v1/albums/481bJKUAaLEvsPb7KqpZQP
+            id: 481bJKUAaLEvsPb7KqpZQP
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737447aed49e197c7244beb3e5
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027447aed49e197c7244beb3e5
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517447aed49e197c7244beb3e5
+            is_playable: true
+            name: Jay And Silent Bob Strike Back (Music From The Motion Picture)
+            release_date: '2001-08-14'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:481bJKUAaLEvsPb7KqpZQP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 198855
+          explicit: true
+          external_ids:
+            isrc: USUR10110857
+          external_urls:
+            spotify: https://open.spotify.com/track/44JRyg9r6YWHdUCd1Eb3Vj
+          href: https://api.spotify.com/v1/tracks/44JRyg9r6YWHdUCd1Eb3Vj
+          id: 44JRyg9r6YWHdUCd1Eb3Vj
+          is_local: false
+          is_playable: true
+          name: Because I Got High
+          track_number: 27
+          type: track
+          uri: spotify:track:44JRyg9r6YWHdUCd1Eb3Vj
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/07jKZULDuG6iDEVYASl8Pi
+            href: https://api.spotify.com/v1/albums/07jKZULDuG6iDEVYASl8Pi
+            id: 07jKZULDuG6iDEVYASl8Pi
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273178a55dd8d11716b914caa30
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02178a55dd8d11716b914caa30
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851178a55dd8d11716b914caa30
+            is_playable: true
+            name: Bong Hits
+            release_date: '2008-08-19'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:07jKZULDuG6iDEVYASl8Pi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 197760
+          explicit: true
+          external_ids:
+            isrc: USUR10110857
+          external_urls:
+            spotify: https://open.spotify.com/track/6FezBbCNKI6qLMf6Ax9YD4
+          href: https://api.spotify.com/v1/tracks/6FezBbCNKI6qLMf6Ax9YD4
+          id: 6FezBbCNKI6qLMf6Ax9YD4
+          is_local: false
+          is_playable: true
+          name: Because I Got High
+          track_number: 12
+          type: track
+          uri: spotify:track:6FezBbCNKI6qLMf6Ax9YD4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2R7nSAPTn5Xpb9UAEC3oI9
+            href: https://api.spotify.com/v1/albums/2R7nSAPTn5Xpb9UAEC3oI9
+            id: 2R7nSAPTn5Xpb9UAEC3oI9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ac5c75c069a576a54c6eda33
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ac5c75c069a576a54c6eda33
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ac5c75c069a576a54c6eda33
+            is_playable: true
+            name: 00s Mixtape
+            release_date: '2017-07-21'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2R7nSAPTn5Xpb9UAEC3oI9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 197760
+          explicit: true
+          external_ids:
+            isrc: USUR10110857
+          external_urls:
+            spotify: https://open.spotify.com/track/0TUykfnXNLWQBQQOGDSRpp
+          href: https://api.spotify.com/v1/tracks/0TUykfnXNLWQBQQOGDSRpp
+          id: 0TUykfnXNLWQBQQOGDSRpp
+          is_local: false
+          is_playable: true
+          name: Because I Got High
+          track_number: 12
+          type: track
+          uri: spotify:track:0TUykfnXNLWQBQQOGDSRpp
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3WxQYhopFEcoCTgRV39wCE
+            href: https://api.spotify.com/v1/albums/3WxQYhopFEcoCTgRV39wCE
+            id: 3WxQYhopFEcoCTgRV39wCE
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27355d191f7491560b87707bbb3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0255d191f7491560b87707bbb3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485155d191f7491560b87707bbb3
+            is_playable: true
+            name: Stoner Anthems
+            release_date: '2018-05-25'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:3WxQYhopFEcoCTgRV39wCE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 197760
+          explicit: true
+          external_ids:
+            isrc: USUR10110857
+          external_urls:
+            spotify: https://open.spotify.com/track/3nljtZbAQRlhxrj1tIfB6N
+          href: https://api.spotify.com/v1/tracks/3nljtZbAQRlhxrj1tIfB6N
+          id: 3nljtZbAQRlhxrj1tIfB6N
+          is_local: false
+          is_playable: true
+          name: Because I Got High
+          track_number: 7
+          type: track
+          uri: spotify:track:3nljtZbAQRlhxrj1tIfB6N
+    isrc: USUR10110857

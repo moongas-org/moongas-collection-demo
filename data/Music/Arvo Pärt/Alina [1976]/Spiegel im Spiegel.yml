@@ -5,7 +5,7 @@ trackData:
   album: Alina
   genre: Classical
   year: 1976
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 643.74
     fingerprint: 
@@ -35,3 +35,198 @@ trackIdData:
         firstReleaseDate: '1999-10-18'
       score: 0.98711103
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4wudbbceOZKjRlhTtbHvAs
+    trackId: 4wudbbceOZKjRlhTtbHvAs
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEB339559101&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+              href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+              id: 2P6ygesd9xg5DPOBnda2jg
+              name: Arvo Pärt
+              type: artist
+              uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+            - external_urls:
+                spotify: https://open.spotify.com/artist/24o3OUQvNiz3IY9DQhFhnF
+              href: https://api.spotify.com/v1/artists/24o3OUQvNiz3IY9DQhFhnF
+              id: 24o3OUQvNiz3IY9DQhFhnF
+              name: Vladimir Spivakov
+              type: artist
+              uri: spotify:artist:24o3OUQvNiz3IY9DQhFhnF
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5SB7fgTMdoI0NbO5uEfp9D
+              href: https://api.spotify.com/v1/artists/5SB7fgTMdoI0NbO5uEfp9D
+              id: 5SB7fgTMdoI0NbO5uEfp9D
+              name: Sergej Bezrodny
+              type: artist
+              uri: spotify:artist:5SB7fgTMdoI0NbO5uEfp9D
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7w60M7Mg34gEJvgkCJINtm
+              href: https://api.spotify.com/v1/artists/7w60M7Mg34gEJvgkCJINtm
+              id: 7w60M7Mg34gEJvgkCJINtm
+              name: Dietmar Schwalke
+              type: artist
+              uri: spotify:artist:7w60M7Mg34gEJvgkCJINtm
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH
+              href: https://api.spotify.com/v1/artists/7ku4vnPiSrXkUarPFjlzwH
+              id: 7ku4vnPiSrXkUarPFjlzwH
+              name: Alexander Malter
+              type: artist
+              uri: spotify:artist:7ku4vnPiSrXkUarPFjlzwH
+            external_urls:
+              spotify: https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE
+            href: https://api.spotify.com/v1/albums/69iw6Zy6fh2dSnEgBTZKJE
+            id: 69iw6Zy6fh2dSnEgBTZKJE
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273528dc2d3e31f07374a703bed
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02528dc2d3e31f07374a703bed
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851528dc2d3e31f07374a703bed
+            is_playable: true
+            name: 'Arvo Pärt: Alina'
+            release_date: '1999-10-15'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:69iw6Zy6fh2dSnEgBTZKJE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+            href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+            id: 2P6ygesd9xg5DPOBnda2jg
+            name: Arvo Pärt
+            type: artist
+            uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+          - external_urls:
+              spotify: https://open.spotify.com/artist/24o3OUQvNiz3IY9DQhFhnF
+            href: https://api.spotify.com/v1/artists/24o3OUQvNiz3IY9DQhFhnF
+            id: 24o3OUQvNiz3IY9DQhFhnF
+            name: Vladimir Spivakov
+            type: artist
+            uri: spotify:artist:24o3OUQvNiz3IY9DQhFhnF
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SB7fgTMdoI0NbO5uEfp9D
+            href: https://api.spotify.com/v1/artists/5SB7fgTMdoI0NbO5uEfp9D
+            id: 5SB7fgTMdoI0NbO5uEfp9D
+            name: Sergej Bezrodny
+            type: artist
+            uri: spotify:artist:5SB7fgTMdoI0NbO5uEfp9D
+          disc_number: 1
+          duration_ms: 636000
+          explicit: false
+          external_ids:
+            isrc: DEB339559101
+          external_urls:
+            spotify: https://open.spotify.com/track/4wudbbceOZKjRlhTtbHvAs
+          href: https://api.spotify.com/v1/tracks/4wudbbceOZKjRlhTtbHvAs
+          id: 4wudbbceOZKjRlhTtbHvAs
+          is_local: false
+          is_playable: true
+          name: Spiegel im Spiegel (Version for Violin & Piano) - Version for 
+            Violin and Piano
+          track_number: 1
+          type: track
+          uri: spotify:track:4wudbbceOZKjRlhTtbHvAs
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+              href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+              id: 2P6ygesd9xg5DPOBnda2jg
+              name: Arvo Pärt
+              type: artist
+              uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/67cBP9dgU80ifLHQlJlDD3
+            href: https://api.spotify.com/v1/albums/67cBP9dgU80ifLHQlJlDD3
+            id: 67cBP9dgU80ifLHQlJlDD3
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730ba3c3d31e6d5151e8a4f6ba
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020ba3c3d31e6d5151e8a4f6ba
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510ba3c3d31e6d5151e8a4f6ba
+            is_playable: true
+            name: 'The Soundtracks: Arvo Pärt in Cinema'
+            release_date: '2025-10-04'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:67cBP9dgU80ifLHQlJlDD3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+            href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+            id: 2P6ygesd9xg5DPOBnda2jg
+            name: Arvo Pärt
+            type: artist
+            uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+          - external_urls:
+              spotify: https://open.spotify.com/artist/24o3OUQvNiz3IY9DQhFhnF
+            href: https://api.spotify.com/v1/artists/24o3OUQvNiz3IY9DQhFhnF
+            id: 24o3OUQvNiz3IY9DQhFhnF
+            name: Vladimir Spivakov
+            type: artist
+            uri: spotify:artist:24o3OUQvNiz3IY9DQhFhnF
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SB7fgTMdoI0NbO5uEfp9D
+            href: https://api.spotify.com/v1/artists/5SB7fgTMdoI0NbO5uEfp9D
+            id: 5SB7fgTMdoI0NbO5uEfp9D
+            name: Sergej Bezrodny
+            type: artist
+            uri: spotify:artist:5SB7fgTMdoI0NbO5uEfp9D
+          disc_number: 1
+          duration_ms: 636000
+          explicit: false
+          external_ids:
+            isrc: DEB339559101
+          external_urls:
+            spotify: https://open.spotify.com/track/4NwOCYWjJlfM6vITHWYTSI
+          href: https://api.spotify.com/v1/tracks/4NwOCYWjJlfM6vITHWYTSI
+          id: 4NwOCYWjJlfM6vITHWYTSI
+          is_local: false
+          is_playable: true
+          name: Spiegel im Spiegel (Version for Violin & Piano) - Version for 
+            Violin and Piano
+          track_number: 2
+          type: track
+          uri: spotify:track:4NwOCYWjJlfM6vITHWYTSI
+    isrc: DEB339559101

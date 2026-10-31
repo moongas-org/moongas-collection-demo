@@ -324,3 +324,133 @@ mediaFileData:
         firstReleaseDate: 1971-11
       score: 0.9446862
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1xT1D2IXxgDVc8TQCp8PhS
+    trackId: 1xT1D2IXxgDVc8TQCp8PhS
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEE0100117&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+              href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+              id: 1dfeR4HaWDbWqFHLkxsg1d
+              name: Queen
+              type: artist
+              uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+            external_urls:
+              spotify: https://open.spotify.com/album/4Qcy60knPmSHjWmOsVVwhL
+            href: https://api.spotify.com/v1/albums/4Qcy60knPmSHjWmOsVVwhL
+            id: 4Qcy60knPmSHjWmOsVVwhL
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ba84c3e2d930822ae1c3ce22
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ba84c3e2d930822ae1c3ce22
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ba84c3e2d930822ae1c3ce22
+            is_playable: true
+            name: Greatest Hits - We Will Rock You Edition
+            release_date: '2010-06-15'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:4Qcy60knPmSHjWmOsVVwhL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+            href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+            id: 1dfeR4HaWDbWqFHLkxsg1d
+            name: Queen
+            type: artist
+            uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+          disc_number: 1
+          duration_ms: 170906
+          explicit: false
+          external_ids:
+            isrc: GBCEE0100117
+          external_urls:
+            spotify: https://open.spotify.com/track/1xT1D2IXxgDVc8TQCp8PhS
+          href: https://api.spotify.com/v1/tracks/1xT1D2IXxgDVc8TQCp8PhS
+          id: 1xT1D2IXxgDVc8TQCp8PhS
+          is_local: false
+          is_playable: true
+          name: You're My Best Friend - Remastered
+          track_number: 6
+          type: track
+          uri: spotify:track:1xT1D2IXxgDVc8TQCp8PhS
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+              href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+              id: 1dfeR4HaWDbWqFHLkxsg1d
+              name: Queen
+              type: artist
+              uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+            external_urls:
+              spotify: https://open.spotify.com/album/0jqqoXPGZ4Fw70mTUHU0NP
+            href: https://api.spotify.com/v1/albums/0jqqoXPGZ4Fw70mTUHU0NP
+            id: 0jqqoXPGZ4Fw70mTUHU0NP
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737ca47b3927c3db5a238e5e3a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027ca47b3927c3db5a238e5e3a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517ca47b3927c3db5a238e5e3a
+            is_playable: true
+            name: Greatest Hits - We Will Rock You Edition
+            release_date: '2010-06-15'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:0jqqoXPGZ4Fw70mTUHU0NP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+            href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+            id: 1dfeR4HaWDbWqFHLkxsg1d
+            name: Queen
+            type: artist
+            uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+          disc_number: 1
+          duration_ms: 170906
+          explicit: false
+          external_ids:
+            isrc: GBCEE0100117
+          external_urls:
+            spotify: https://open.spotify.com/track/7gLzfTvKdOFwvSoxT8Eh1v
+          href: https://api.spotify.com/v1/tracks/7gLzfTvKdOFwvSoxT8Eh1v
+          id: 7gLzfTvKdOFwvSoxT8Eh1v
+          is_local: false
+          is_playable: true
+          name: You're My Best Friend
+          track_number: 6
+          type: track
+          uri: spotify:track:7gLzfTvKdOFwvSoxT8Eh1v
+    isrc: GBCEE0100117

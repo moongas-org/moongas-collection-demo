@@ -89,3 +89,190 @@ mediaFileData:
         firstReleaseDate: '2021-06-18'
       score: 0.9909678
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ZrwJeM1SPoMmYGsh958l6
+    trackId: 1ZrwJeM1SPoMmYGsh958l6
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJAY0000022&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/13VY4UMIBiyl1IHbodEDYE
+            href: https://api.spotify.com/v1/albums/13VY4UMIBiyl1IHbodEDYE
+            id: 13VY4UMIBiyl1IHbodEDYE
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f471844d1d26bb320de863bb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f471844d1d26bb320de863bb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f471844d1d26bb320de863bb
+            is_playable: true
+            name: 'Clive Davis: The Soundtrack of Our Lives'
+            release_date: '2017-09-29'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:13VY4UMIBiyl1IHbodEDYE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa
+            href: https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa
+            id: 3DiDSECUqqY1AuBP8qtaIa
+            name: Alicia Keys
+            type: artist
+            uri: spotify:artist:3DiDSECUqqY1AuBP8qtaIa
+          disc_number: 1
+          duration_ms: 195160
+          explicit: false
+          external_ids:
+            isrc: USJAY0000022
+          external_urls:
+            spotify: https://open.spotify.com/track/1ZrwJeM1SPoMmYGsh958l6
+          href: https://api.spotify.com/v1/tracks/1ZrwJeM1SPoMmYGsh958l6
+          id: 1ZrwJeM1SPoMmYGsh958l6
+          is_local: false
+          is_playable: true
+          name: Fallin' - Radio Edit
+          track_number: 20
+          type: track
+          uri: spotify:track:1ZrwJeM1SPoMmYGsh958l6
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3t8PrLEuo4ADvEKlpRGXpc
+            href: https://api.spotify.com/v1/albums/3t8PrLEuo4ADvEKlpRGXpc
+            id: 3t8PrLEuo4ADvEKlpRGXpc
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273863a9d402c7f8782c235c2a2
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02863a9d402c7f8782c235c2a2
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851863a9d402c7f8782c235c2a2
+            is_playable: true
+            name: Die Jury - Die besten Rock-Popballaden
+            release_date: '2004-03-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3t8PrLEuo4ADvEKlpRGXpc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa
+            href: https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa
+            id: 3DiDSECUqqY1AuBP8qtaIa
+            name: Alicia Keys
+            type: artist
+            uri: spotify:artist:3DiDSECUqqY1AuBP8qtaIa
+          disc_number: 1
+          duration_ms: 196480
+          explicit: false
+          external_ids:
+            isrc: USJAY0000022
+          external_urls:
+            spotify: https://open.spotify.com/track/79suqsJDmKmfJydKgCdwVW
+          href: https://api.spotify.com/v1/tracks/79suqsJDmKmfJydKgCdwVW
+          id: 79suqsJDmKmfJydKgCdwVW
+          is_local: false
+          is_playable: true
+          name: Fallin' - Radio Edit
+          track_number: 4
+          type: track
+          uri: spotify:track:79suqsJDmKmfJydKgCdwVW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5waApKyiZOAZNGef9rUVZB
+            href: https://api.spotify.com/v1/albums/5waApKyiZOAZNGef9rUVZB
+            id: 5waApKyiZOAZNGef9rUVZB
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27366472db37973bf78cd7999d6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0266472db37973bf78cd7999d6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485166472db37973bf78cd7999d6
+            is_playable: true
+            name: Nu Divas
+            release_date: '2002-03-25'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:5waApKyiZOAZNGef9rUVZB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa
+            href: https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa
+            id: 3DiDSECUqqY1AuBP8qtaIa
+            name: Alicia Keys
+            type: artist
+            uri: spotify:artist:3DiDSECUqqY1AuBP8qtaIa
+          disc_number: 1
+          duration_ms: 196133
+          explicit: false
+          external_ids:
+            isrc: USJAY0000022
+          external_urls:
+            spotify: https://open.spotify.com/track/1f2tO9dr43gE7GH2ispSam
+          href: https://api.spotify.com/v1/tracks/1f2tO9dr43gE7GH2ispSam
+          id: 1f2tO9dr43gE7GH2ispSam
+          is_local: false
+          is_playable: true
+          name: Fallin' - Radio Edit
+          track_number: 3
+          type: track
+          uri: spotify:track:1f2tO9dr43gE7GH2ispSam
+    isrc: USJAY0000022

@@ -5,7 +5,7 @@ trackData:
   album: Leave Before The Lights Come On
   genre: Indie Rock
   year: 2006
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 233.98
     fingerprint: 
@@ -54,3 +54,76 @@ trackIdData:
         firstReleaseDate: '2006-08-12'
       score: 0.95131195
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF
+    trackId: 4Du0BRUJvKybzxcRplp7HF
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0600284&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+              href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+              id: 7Ln80lUS6He07XvHI8qqHH
+              name: Arctic Monkeys
+              type: artist
+              uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+            external_urls:
+              spotify: https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw
+            href: https://api.spotify.com/v1/albums/219r3vm32Uzj5Ef7lu9aKw
+            id: 219r3vm32Uzj5Ef7lu9aKw
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273fc5f23d71de7ad824565f94c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02fc5f23d71de7ad824565f94c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851fc5f23d71de7ad824565f94c
+            is_playable: true
+            name: Leave Before The Lights Come On
+            release_date: '2006-08-14'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:219r3vm32Uzj5Ef7lu9aKw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+            href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+            id: 7Ln80lUS6He07XvHI8qqHH
+            name: Arctic Monkeys
+            type: artist
+            uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+          disc_number: 1
+          duration_ms: 233946
+          explicit: false
+          external_ids:
+            isrc: GBCEL0600284
+          external_urls:
+            spotify: https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF
+          href: https://api.spotify.com/v1/tracks/4Du0BRUJvKybzxcRplp7HF
+          id: 4Du0BRUJvKybzxcRplp7HF
+          is_local: false
+          is_playable: true
+          name: Leave Before The Lights Come On
+          track_number: 1
+          type: track
+          uri: spotify:track:4Du0BRUJvKybzxcRplp7HF
+    isrc: GBCEL0600284

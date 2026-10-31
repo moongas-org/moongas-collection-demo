@@ -248,3 +248,190 @@ mediaFileData:
         firstReleaseDate: '1996'
       score: 0.9716179
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2gTZAWawyyxqBivkQdKIKB
+    trackId: 2gTZAWawyyxqBivkQdKIKB
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ASEVJH0803303&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+              href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+              id: 5ksRONqssB7BR161NTtJAm
+              name: Ace of Base
+              type: artist
+              uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+            external_urls:
+              spotify: https://open.spotify.com/album/2YEaQbimT7NBGynsgF1GMv
+            href: https://api.spotify.com/v1/albums/2YEaQbimT7NBGynsgF1GMv
+            id: 2YEaQbimT7NBGynsgF1GMv
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ec1b3ef0636765e8fcde9091
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ec1b3ef0636765e8fcde9091
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ec1b3ef0636765e8fcde9091
+            is_playable: true
+            name: Cruel Summer (The Remixes)
+            release_date: '1998-04-23'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:2YEaQbimT7NBGynsgF1GMv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+            href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+            id: 5ksRONqssB7BR161NTtJAm
+            name: Ace of Base
+            type: artist
+            uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+          disc_number: 1
+          duration_ms: 215360
+          explicit: false
+          external_ids:
+            isrc: SEVJH0803303
+          external_urls:
+            spotify: https://open.spotify.com/track/2gTZAWawyyxqBivkQdKIKB
+          href: https://api.spotify.com/v1/tracks/2gTZAWawyyxqBivkQdKIKB
+          id: 2gTZAWawyyxqBivkQdKIKB
+          is_local: false
+          is_playable: true
+          name: Cruel Summer
+          track_number: 1
+          type: track
+          uri: spotify:track:2gTZAWawyyxqBivkQdKIKB
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+              href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+              id: 5ksRONqssB7BR161NTtJAm
+              name: Ace of Base
+              type: artist
+              uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+            external_urls:
+              spotify: https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q
+            href: https://api.spotify.com/v1/albums/4oXtR5JbdA9PLwbR49zx9Q
+            id: 4oXtR5JbdA9PLwbR49zx9Q
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f82c35d0067cd13f928330d1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f82c35d0067cd13f928330d1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f82c35d0067cd13f928330d1
+            is_playable: true
+            name: Flowers
+            release_date: '1998-01-21'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4oXtR5JbdA9PLwbR49zx9Q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+            href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+            id: 5ksRONqssB7BR161NTtJAm
+            name: Ace of Base
+            type: artist
+            uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+          disc_number: 1
+          duration_ms: 215360
+          explicit: false
+          external_ids:
+            isrc: SEVJH0803303
+          external_urls:
+            spotify: https://open.spotify.com/track/1ntjFaRNVpC1V2cKekUnU5
+          href: https://api.spotify.com/v1/tracks/1ntjFaRNVpC1V2cKekUnU5
+          id: 1ntjFaRNVpC1V2cKekUnU5
+          is_local: false
+          is_playable: true
+          name: Cruel Summer
+          track_number: 3
+          type: track
+          uri: spotify:track:1ntjFaRNVpC1V2cKekUnU5
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+              href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+              id: 5ksRONqssB7BR161NTtJAm
+              name: Ace of Base
+              type: artist
+              uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+            external_urls:
+              spotify: https://open.spotify.com/album/7Mh7Q5DQIE9evMeGrKHjg8
+            href: https://api.spotify.com/v1/albums/7Mh7Q5DQIE9evMeGrKHjg8
+            id: 7Mh7Q5DQIE9evMeGrKHjg8
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273911b5d912163f675160853b1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02911b5d912163f675160853b1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851911b5d912163f675160853b1
+            is_playable: true
+            name: Cruel Summer
+            release_date: '1998-07-14'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7Mh7Q5DQIE9evMeGrKHjg8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+            href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+            id: 5ksRONqssB7BR161NTtJAm
+            name: Ace of Base
+            type: artist
+            uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+          disc_number: 1
+          duration_ms: 215360
+          explicit: false
+          external_ids:
+            isrc: SEVJH0803303
+          external_urls:
+            spotify: https://open.spotify.com/track/4AxVXHgv0clBuS4dl4S7Gw
+          href: https://api.spotify.com/v1/tracks/4AxVXHgv0clBuS4dl4S7Gw
+          id: 4AxVXHgv0clBuS4dl4S7Gw
+          is_local: false
+          is_playable: true
+          name: Cruel Summer
+          track_number: 1
+          type: track
+          uri: spotify:track:4AxVXHgv0clBuS4dl4S7Gw
+    isrc: SEVJH0803303

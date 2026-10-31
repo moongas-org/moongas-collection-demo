@@ -5,7 +5,7 @@ trackData:
   album: In Case We Die
   genre: Indie Pop
   year: 2005
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 213.72
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2005-04-04'
       score: 0.9916271
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5e7LUJhklJG60FrY3rjB84
+    trackId: 5e7LUJhklJG60FrY3rjB84
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBGEY0500028&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun
+              href: https://api.spotify.com/v1/artists/5ffMSKGQRhetAjBjEgkRun
+              id: 5ffMSKGQRhetAjBjEgkRun
+              name: DJ Mehdi
+              type: artist
+              uri: spotify:artist:5ffMSKGQRhetAjBjEgkRun
+            external_urls:
+              spotify: https://open.spotify.com/album/1JIZMhK9WYn5t2CGKCenaJ
+            href: https://api.spotify.com/v1/albums/1JIZMhK9WYn5t2CGKCenaJ
+            id: 1JIZMhK9WYn5t2CGKCenaJ
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273129362b39a547fdb6f1105ea
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02129362b39a547fdb6f1105ea
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851129362b39a547fdb6f1105ea
+            is_playable: true
+            name: Red Black & Blue
+            release_date: '2009-11-09'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:1JIZMhK9WYn5t2CGKCenaJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr
+            href: https://api.spotify.com/v1/artists/60eT7q88iLWKnuSXed1AGr
+            id: 60eT7q88iLWKnuSXed1AGr
+            name: Architecture In Helsinki
+            type: artist
+            uri: spotify:artist:60eT7q88iLWKnuSXed1AGr
+          disc_number: 1
+          duration_ms: 211720
+          explicit: false
+          external_ids:
+            isrc: GBGEY0500028
+          external_urls:
+            spotify: https://open.spotify.com/track/5e7LUJhklJG60FrY3rjB84
+          href: https://api.spotify.com/v1/tracks/5e7LUJhklJG60FrY3rjB84
+          id: 5e7LUJhklJG60FrY3rjB84
+          is_local: false
+          is_playable: true
+          name: Architecture In Helsinki - In Case We Die - DJ Mehdi Remix
+          track_number: 11
+          type: track
+          uri: spotify:track:5e7LUJhklJG60FrY3rjB84
+    isrc: GBGEY0500028

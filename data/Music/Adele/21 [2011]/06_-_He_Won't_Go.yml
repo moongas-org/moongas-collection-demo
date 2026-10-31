@@ -75,3 +75,304 @@ mediaFileData:
         firstReleaseDate: '2011-01-19'
       score: 0.56905985
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0hElnhIhg4Vb8cIxw2CIwX
+    trackId: 0hElnhIhg4Vb8cIxw2CIwX
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBBN8300002&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0Kqw8feGAz7zQ7cELaIeBs
+            href: https://api.spotify.com/v1/albums/0Kqw8feGAz7zQ7cELaIeBs
+            id: 0Kqw8feGAz7zQ7cELaIeBs
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273c0b1a01c2560c4216d486af1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02c0b1a01c2560c4216d486af1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851c0b1a01c2560c4216d486af1
+            is_playable: true
+            name: Love Songs
+            release_date: '2014-02-10'
+            release_date_precision: day
+            total_tracks: 75
+            type: album
+            uri: spotify:album:0Kqw8feGAz7zQ7cELaIeBs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2
+            href: https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2
+            id: 0SD4eZCN4Kr0wQk56hCdh2
+            name: Bonnie Tyler
+            type: artist
+            uri: spotify:artist:0SD4eZCN4Kr0wQk56hCdh2
+          disc_number: 1
+          duration_ms: 267360
+          explicit: false
+          external_ids:
+            isrc: GBBBN8300002
+          external_urls:
+            spotify: https://open.spotify.com/track/0hElnhIhg4Vb8cIxw2CIwX
+          href: https://api.spotify.com/v1/tracks/0hElnhIhg4Vb8cIxw2CIwX
+          id: 0hElnhIhg4Vb8cIxw2CIwX
+          is_local: false
+          is_playable: true
+          name: Total Eclipse of the Heart
+          track_number: 21
+          type: track
+          uri: spotify:track:0hElnhIhg4Vb8cIxw2CIwX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG
+            href: https://api.spotify.com/v1/albums/3C20zCOVCXIb9xr0Z6wcCG
+            id: 3C20zCOVCXIb9xr0Z6wcCG
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273c722845f4d534fee30ab6d0f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02c722845f4d534fee30ab6d0f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851c722845f4d534fee30ab6d0f
+            is_playable: true
+            name: 80 Totally 80s Hits
+            release_date: '2014-03-03'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:3C20zCOVCXIb9xr0Z6wcCG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2
+            href: https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2
+            id: 0SD4eZCN4Kr0wQk56hCdh2
+            name: Bonnie Tyler
+            type: artist
+            uri: spotify:artist:0SD4eZCN4Kr0wQk56hCdh2
+          disc_number: 1
+          duration_ms: 267360
+          explicit: false
+          external_ids:
+            isrc: GBBBN8300002
+          external_urls:
+            spotify: https://open.spotify.com/track/5KNiDBxixK061X4rtVpdtQ
+          href: https://api.spotify.com/v1/tracks/5KNiDBxixK061X4rtVpdtQ
+          id: 5KNiDBxixK061X4rtVpdtQ
+          is_local: false
+          is_playable: true
+          name: Total Eclipse of the Heart
+          track_number: 17
+          type: track
+          uri: spotify:track:5KNiDBxixK061X4rtVpdtQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2vns8ZrjmRdlKudDIrw95v
+            href: https://api.spotify.com/v1/albums/2vns8ZrjmRdlKudDIrw95v
+            id: 2vns8ZrjmRdlKudDIrw95v
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e56dbb364a97564ae1f3557d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e56dbb364a97564ae1f3557d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e56dbb364a97564ae1f3557d
+            is_playable: true
+            name: Verano Éxitos de los 80
+            release_date: '2024-07-18'
+            release_date_precision: day
+            total_tracks: 51
+            type: album
+            uri: spotify:album:2vns8ZrjmRdlKudDIrw95v
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2
+            href: https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2
+            id: 0SD4eZCN4Kr0wQk56hCdh2
+            name: Bonnie Tyler
+            type: artist
+            uri: spotify:artist:0SD4eZCN4Kr0wQk56hCdh2
+          disc_number: 1
+          duration_ms: 266200
+          explicit: false
+          external_ids:
+            isrc: GBBBN8300002
+          external_urls:
+            spotify: https://open.spotify.com/track/0Yncd3KXrAOufrtaB69e7F
+          href: https://api.spotify.com/v1/tracks/0Yncd3KXrAOufrtaB69e7F
+          id: 0Yncd3KXrAOufrtaB69e7F
+          is_local: false
+          is_playable: true
+          name: Total Eclipse of the Heart
+          track_number: 47
+          type: track
+          uri: spotify:track:0Yncd3KXrAOufrtaB69e7F
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2
+              href: https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2
+              id: 0SD4eZCN4Kr0wQk56hCdh2
+              name: Bonnie Tyler
+              type: artist
+              uri: spotify:artist:0SD4eZCN4Kr0wQk56hCdh2
+            external_urls:
+              spotify: https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb
+            href: https://api.spotify.com/v1/albums/0VJI3wpebzRyVHq0eZQidb
+            id: 0VJI3wpebzRyVHq0eZQidb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028cefe8e2f2cfd63ce073fa96
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518cefe8e2f2cfd63ce073fa96
+            is_playable: true
+            name: The Very Best of Bonnie Tyler
+            release_date: '2009-03-26'
+            release_date_precision: day
+            total_tracks: 48
+            type: album
+            uri: spotify:album:0VJI3wpebzRyVHq0eZQidb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2
+            href: https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2
+            id: 0SD4eZCN4Kr0wQk56hCdh2
+            name: Bonnie Tyler
+            type: artist
+            uri: spotify:artist:0SD4eZCN4Kr0wQk56hCdh2
+          disc_number: 1
+          duration_ms: 267360
+          explicit: false
+          external_ids:
+            isrc: GBBBN8300002
+          external_urls:
+            spotify: https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj
+          href: https://api.spotify.com/v1/tracks/7wuJGgpTNzbUyn26IOY6rj
+          id: 7wuJGgpTNzbUyn26IOY6rj
+          is_local: false
+          is_playable: true
+          name: Total Eclipse of the Heart
+          track_number: 48
+          type: track
+          uri: spotify:track:7wuJGgpTNzbUyn26IOY6rj
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF
+            href: https://api.spotify.com/v1/albums/0pvhletDH7CphbKErUtPCF
+            id: 0pvhletDH7CphbKErUtPCF
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273db56ceff816b668b7b6f04ff
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02db56ceff816b668b7b6f04ff
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851db56ceff816b668b7b6f04ff
+            is_playable: true
+            name: 80s 100 Hits
+            release_date: '2010-03-01'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:0pvhletDH7CphbKErUtPCF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2
+            href: https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2
+            id: 0SD4eZCN4Kr0wQk56hCdh2
+            name: Bonnie Tyler
+            type: artist
+            uri: spotify:artist:0SD4eZCN4Kr0wQk56hCdh2
+          disc_number: 1
+          duration_ms: 267266
+          explicit: false
+          external_ids:
+            isrc: GBBBN8300002
+          external_urls:
+            spotify: https://open.spotify.com/track/7q3MflmodGZlOgZ799EpAb
+          href: https://api.spotify.com/v1/tracks/7q3MflmodGZlOgZ799EpAb
+          id: 7q3MflmodGZlOgZ799EpAb
+          is_local: false
+          is_playable: true
+          name: Total Eclipse of the Heart
+          track_number: 22
+          type: track
+          uri: spotify:track:7q3MflmodGZlOgZ799EpAb
+    isrc: GBBBN8300002

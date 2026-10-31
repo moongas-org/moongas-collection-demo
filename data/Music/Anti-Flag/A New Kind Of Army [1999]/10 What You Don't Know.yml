@@ -5,7 +5,7 @@ trackData:
   album: A New Kind Of Army
   genre: Punk
   year: 1999
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 163.24
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '1999-03-23'
       score: 0.9776173
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5u8NIpZe6nuoZbcvjizDnf
+    trackId: 5u8NIpZe6nuoZbcvjizDnf
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ATCACK1524096&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT
+              href: https://api.spotify.com/v1/artists/30sqtiTKIb1oDve0SdYayT
+              id: 30sqtiTKIb1oDve0SdYayT
+              name: Anti-Flag
+              type: artist
+              uri: spotify:artist:30sqtiTKIb1oDve0SdYayT
+            external_urls:
+              spotify: https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv
+            href: https://api.spotify.com/v1/albums/1Y0Z1edYpuumeeELWdseMv
+            id: 1Y0Z1edYpuumeeELWdseMv
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273354ef7b5fd38fe00394806d3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02354ef7b5fd38fe00394806d3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851354ef7b5fd38fe00394806d3
+            is_playable: true
+            name: A New Kind of Army
+            release_date: '1999-03-23'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1Y0Z1edYpuumeeELWdseMv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT
+            href: https://api.spotify.com/v1/artists/30sqtiTKIb1oDve0SdYayT
+            id: 30sqtiTKIb1oDve0SdYayT
+            name: Anti-Flag
+            type: artist
+            uri: spotify:artist:30sqtiTKIb1oDve0SdYayT
+          disc_number: 1
+          duration_ms: 163186
+          explicit: false
+          external_ids:
+            isrc: TCACK1524096
+          external_urls:
+            spotify: https://open.spotify.com/track/5u8NIpZe6nuoZbcvjizDnf
+          href: https://api.spotify.com/v1/tracks/5u8NIpZe6nuoZbcvjizDnf
+          id: 5u8NIpZe6nuoZbcvjizDnf
+          is_local: false
+          is_playable: true
+          name: What You Don't Know
+          track_number: 10
+          type: track
+          uri: spotify:track:5u8NIpZe6nuoZbcvjizDnf
+    isrc: TCACK1524096

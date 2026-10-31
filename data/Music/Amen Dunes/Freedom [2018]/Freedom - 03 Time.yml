@@ -5,7 +5,7 @@ trackData:
   album: Freedom
   genre: Dream Pop
   year: 2018
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 290.82
     fingerprint: 
@@ -24,3 +24,133 @@ trackIdData:
         firstReleaseDate: '2018-03-30'
       score: 0.9993407
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1zNaGvYRFdsDJsO5SnNgzl
+    trackId: 1zNaGvYRFdsDJsO5SnNgzl
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS5NR1819503&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+              href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+              id: 1jwOuEBcOKq0BeudSarbEM
+              name: Amen Dunes
+              type: artist
+              uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+            external_urls:
+              spotify: https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW
+            href: https://api.spotify.com/v1/albums/1U3eCqaFcgjZwdSgOg8jDW
+            id: 1U3eCqaFcgjZwdSgOg8jDW
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d33caf0bbb67374d119c2142
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d33caf0bbb67374d119c2142
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d33caf0bbb67374d119c2142
+            is_playable: true
+            name: Freedom
+            release_date: '2018-03-30'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1U3eCqaFcgjZwdSgOg8jDW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+            href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+            id: 1jwOuEBcOKq0BeudSarbEM
+            name: Amen Dunes
+            type: artist
+            uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+          disc_number: 1
+          duration_ms: 290786
+          explicit: false
+          external_ids:
+            isrc: US5NR1819503
+          external_urls:
+            spotify: https://open.spotify.com/track/1zNaGvYRFdsDJsO5SnNgzl
+          href: https://api.spotify.com/v1/tracks/1zNaGvYRFdsDJsO5SnNgzl
+          id: 1zNaGvYRFdsDJsO5SnNgzl
+          is_local: false
+          is_playable: true
+          name: Time
+          track_number: 3
+          type: track
+          uri: spotify:track:1zNaGvYRFdsDJsO5SnNgzl
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+              href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+              id: 1jwOuEBcOKq0BeudSarbEM
+              name: Amen Dunes
+              type: artist
+              uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+            external_urls:
+              spotify: https://open.spotify.com/album/2gHrT3eVXmn5HQZS7yTzla
+            href: https://api.spotify.com/v1/albums/2gHrT3eVXmn5HQZS7yTzla
+            id: 2gHrT3eVXmn5HQZS7yTzla
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733aa883017fcc691a1500d37e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023aa883017fcc691a1500d37e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513aa883017fcc691a1500d37e
+            is_playable: true
+            name: Freedom (Deluxe Edition)
+            release_date: '2018-11-30'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:2gHrT3eVXmn5HQZS7yTzla
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+            href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+            id: 1jwOuEBcOKq0BeudSarbEM
+            name: Amen Dunes
+            type: artist
+            uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+          disc_number: 1
+          duration_ms: 290786
+          explicit: false
+          external_ids:
+            isrc: US5NR1819503
+          external_urls:
+            spotify: https://open.spotify.com/track/2fbD9VebvKnfYNv4hHHCgt
+          href: https://api.spotify.com/v1/tracks/2fbD9VebvKnfYNv4hHHCgt
+          id: 2fbD9VebvKnfYNv4hHHCgt
+          is_local: false
+          is_playable: true
+          name: Time
+          track_number: 3
+          type: track
+          uri: spotify:track:2fbD9VebvKnfYNv4hHHCgt
+    isrc: US5NR1819503

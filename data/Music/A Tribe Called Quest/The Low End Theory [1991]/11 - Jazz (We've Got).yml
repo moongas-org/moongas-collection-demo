@@ -99,3 +99,76 @@ mediaFileData:
         firstReleaseDate: '1991-09-24'
       score: 0.90361285
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5LiNONFMvJDy7ZrEnxqVVq
+    trackId: 5LiNONFMvJDy7ZrEnxqVVq
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJI10400709&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/7F8CvZVnhEwJ9rMjG5as52
+            href: https://api.spotify.com/v1/albums/7F8CvZVnhEwJ9rMjG5as52
+            id: 7F8CvZVnhEwJ9rMjG5as52
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27337bab64ad65140cbeddab2f9
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0237bab64ad65140cbeddab2f9
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485137bab64ad65140cbeddab2f9
+            is_playable: true
+            name: Jazz (We've Got)
+            release_date: '1991-09-23'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:7F8CvZVnhEwJ9rMjG5as52
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 251966
+          explicit: false
+          external_ids:
+            isrc: USJI10400709
+          external_urls:
+            spotify: https://open.spotify.com/track/5LiNONFMvJDy7ZrEnxqVVq
+          href: https://api.spotify.com/v1/tracks/5LiNONFMvJDy7ZrEnxqVVq
+          id: 5LiNONFMvJDy7ZrEnxqVVq
+          is_local: false
+          is_playable: true
+          name: Jazz (We've Got) - Radio Version
+          track_number: 1
+          type: track
+          uri: spotify:track:5LiNONFMvJDy7ZrEnxqVVq
+    isrc: USJI10400709

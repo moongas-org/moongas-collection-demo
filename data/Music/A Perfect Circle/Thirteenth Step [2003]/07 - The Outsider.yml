@@ -144,3 +144,304 @@ mediaFileData:
         firstReleaseDate: '2003-09-15'
       score: 0.79529274
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv
+    trackId: 6CqYhhUPJORx1vvdTNc8jv
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20301032&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9
+            href: https://api.spotify.com/v1/albums/49K6hYDEr5M3GxIBBxlPf9
+            id: 49K6hYDEr5M3GxIBBxlPf9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739fce7baa218063d99799ce52
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029fce7baa218063d99799ce52
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519fce7baa218063d99799ce52
+            is_playable: true
+            name: Thirteenth Step
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:49K6hYDEr5M3GxIBBxlPf9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 246000
+          explicit: false
+          external_ids:
+            isrc: USVI20301032
+          external_urls:
+            spotify: https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv
+          href: https://api.spotify.com/v1/tracks/6CqYhhUPJORx1vvdTNc8jv
+          id: 6CqYhhUPJORx1vvdTNc8jv
+          is_local: false
+          is_playable: true
+          name: The Outsider
+          track_number: 7
+          type: track
+          uri: spotify:track:6CqYhhUPJORx1vvdTNc8jv
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/0IOTRhN3vY3JwU1g8qSTMO
+            href: https://api.spotify.com/v1/albums/0IOTRhN3vY3JwU1g8qSTMO
+            id: 0IOTRhN3vY3JwU1g8qSTMO
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27368b46756c0b80c077b7db9fb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0268b46756c0b80c077b7db9fb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485168b46756c0b80c077b7db9fb
+            is_playable: true
+            name: Three Sixty (Deluxe Edition)
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:0IOTRhN3vY3JwU1g8qSTMO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 246013
+          explicit: false
+          external_ids:
+            isrc: USVI20301032
+          external_urls:
+            spotify: https://open.spotify.com/track/3mk6cGPU0aB3ZZP5OP0bMW
+          href: https://api.spotify.com/v1/tracks/3mk6cGPU0aB3ZZP5OP0bMW
+          id: 3mk6cGPU0aB3ZZP5OP0bMW
+          is_local: false
+          is_playable: true
+          name: The Outsider
+          track_number: 9
+          type: track
+          uri: spotify:track:3mk6cGPU0aB3ZZP5OP0bMW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/4jVvXUTK5UWEJRZg6GMaiK
+            href: https://api.spotify.com/v1/albums/4jVvXUTK5UWEJRZg6GMaiK
+            id: 4jVvXUTK5UWEJRZg6GMaiK
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738d58ab09660a379be9516262
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028d58ab09660a379be9516262
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518d58ab09660a379be9516262
+            is_playable: true
+            name: Three Sixty
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4jVvXUTK5UWEJRZg6GMaiK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 246013
+          explicit: false
+          external_ids:
+            isrc: USVI20301032
+          external_urls:
+            spotify: https://open.spotify.com/track/3acVC88APdsYlcxOZWRwpW
+          href: https://api.spotify.com/v1/tracks/3acVC88APdsYlcxOZWRwpW
+          id: 3acVC88APdsYlcxOZWRwpW
+          is_local: false
+          is_playable: true
+          name: The Outsider
+          track_number: 7
+          type: track
+          uri: spotify:track:3acVC88APdsYlcxOZWRwpW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/1OXL7TivPXoa2zF8aCnsUj
+            href: https://api.spotify.com/v1/albums/1OXL7TivPXoa2zF8aCnsUj
+            id: 1OXL7TivPXoa2zF8aCnsUj
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ba6a7650ce5d7e66991b5e4e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ba6a7650ce5d7e66991b5e4e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ba6a7650ce5d7e66991b5e4e
+            is_playable: true
+            name: Three Sixty (Deluxe Edition)
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:1OXL7TivPXoa2zF8aCnsUj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 246013
+          explicit: false
+          external_ids:
+            isrc: USVI20301032
+          external_urls:
+            spotify: https://open.spotify.com/track/3UieftxdMGz30Zkqj4GZcu
+          href: https://api.spotify.com/v1/tracks/3UieftxdMGz30Zkqj4GZcu
+          id: 3UieftxdMGz30Zkqj4GZcu
+          is_local: false
+          is_playable: true
+          name: The Outsider
+          track_number: 9
+          type: track
+          uri: spotify:track:3UieftxdMGz30Zkqj4GZcu
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/5LbxRSSCdiyFmu8YvC0423
+            href: https://api.spotify.com/v1/albums/5LbxRSSCdiyFmu8YvC0423
+            id: 5LbxRSSCdiyFmu8YvC0423
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ecc0c45b60fb769260c16b2e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ecc0c45b60fb769260c16b2e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ecc0c45b60fb769260c16b2e
+            is_playable: true
+            name: Three Sixty
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5LbxRSSCdiyFmu8YvC0423
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 246013
+          explicit: false
+          external_ids:
+            isrc: USVI20301032
+          external_urls:
+            spotify: https://open.spotify.com/track/5PHhgI4os88qWTPG0E5WSk
+          href: https://api.spotify.com/v1/tracks/5PHhgI4os88qWTPG0E5WSk
+          id: 5PHhgI4os88qWTPG0E5WSk
+          is_local: false
+          is_playable: true
+          name: The Outsider
+          track_number: 7
+          type: track
+          uri: spotify:track:5PHhgI4os88qWTPG0E5WSk
+    isrc: USVI20301032

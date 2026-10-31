@@ -5,7 +5,7 @@ trackData:
   album: 3 Years, 5 Months and 2 Days in the Life Of?
   genre: Hip-Hop
   year: 1992
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 263.24
     fingerprint: 
@@ -45,6 +45,7 @@ trackIdData:
         firstReleaseDate: '1992-03-24'
       score: 0.9783096
     - id: 04a1bb9e-8d47-4c72-a97a-91570a1c643e
+      recordings: []
       score: 0.748154
     - id: 96bfc7d4-d35b-473b-bf2b-a81bb99d3a9c
       recordings:
@@ -71,3 +72,76 @@ trackIdData:
         firstReleaseDate: '1992-03-24'
       score: 0.7114979
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4KmierA2BY5rRUnLO6feN5
+    trackId: 4KmierA2BY5rRUnLO6feN5
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCH30100135&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+              href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+              id: 5Va9LuEmaZxnbk1gMnjMD7
+              name: Arrested Development
+              type: artist
+              uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+            external_urls:
+              spotify: https://open.spotify.com/album/4Q0QBX3Td4FfHeG7fiJcVW
+            href: https://api.spotify.com/v1/albums/4Q0QBX3Td4FfHeG7fiJcVW
+            id: 4Q0QBX3Td4FfHeG7fiJcVW
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273406ca7a421c0f83b14aba4e1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02406ca7a421c0f83b14aba4e1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851406ca7a421c0f83b14aba4e1
+            is_playable: true
+            name: Classic Masters
+            release_date: '2002-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4Q0QBX3Td4FfHeG7fiJcVW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+            href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+            id: 5Va9LuEmaZxnbk1gMnjMD7
+            name: Arrested Development
+            type: artist
+            uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+          disc_number: 1
+          duration_ms: 265125
+          explicit: false
+          external_ids:
+            isrc: USCH30100135
+          external_urls:
+            spotify: https://open.spotify.com/track/4KmierA2BY5rRUnLO6feN5
+          href: https://api.spotify.com/v1/tracks/4KmierA2BY5rRUnLO6feN5
+          id: 4KmierA2BY5rRUnLO6feN5
+          is_local: false
+          is_playable: true
+          name: Give A Man A Fish
+          track_number: 10
+          type: track
+          uri: spotify:track:4KmierA2BY5rRUnLO6feN5
+    isrc: USCH30100135

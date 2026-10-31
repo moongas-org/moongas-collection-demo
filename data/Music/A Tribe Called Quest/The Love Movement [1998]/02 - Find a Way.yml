@@ -66,3 +66,83 @@ mediaFileData:
         firstReleaseDate: '1998-08-24'
       score: 0.98635286
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6
+    trackId: 3CtfBYewF9YoIj4tN1Xuh6
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC12101808&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os
+              href: https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os
+              id: 3Y7RZ31TRPVadSFVy1o8os
+              name: H.E.R.
+              type: artist
+              uri: spotify:artist:3Y7RZ31TRPVadSFVy1o8os
+            external_urls:
+              spotify: https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP
+            href: https://api.spotify.com/v1/albums/4IwODpNZKFYkHWXSeWMGmP
+            id: 4IwODpNZKFYkHWXSeWMGmP
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731cc62ec1e5bf7a6715ad5762
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021cc62ec1e5bf7a6715ad5762
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511cc62ec1e5bf7a6715ad5762
+            is_playable: true
+            name: Back of My Mind
+            release_date: '2021-06-18'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:4IwODpNZKFYkHWXSeWMGmP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os
+            href: https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os
+            id: 3Y7RZ31TRPVadSFVy1o8os
+            name: H.E.R.
+            type: artist
+            uri: spotify:artist:3Y7RZ31TRPVadSFVy1o8os
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK
+            href: https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK
+            id: 5f7VJjfbwm532GiveGC0ZK
+            name: Lil Baby
+            type: artist
+            uri: spotify:artist:5f7VJjfbwm532GiveGC0ZK
+          disc_number: 1
+          duration_ms: 197416
+          explicit: true
+          external_ids:
+            isrc: USRC12101808
+          external_urls:
+            spotify: https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6
+          href: https://api.spotify.com/v1/tracks/3CtfBYewF9YoIj4tN1Xuh6
+          id: 3CtfBYewF9YoIj4tN1Xuh6
+          is_local: false
+          is_playable: true
+          name: Find A Way (feat. Lil Baby)
+          track_number: 5
+          type: track
+          uri: spotify:track:3CtfBYewF9YoIj4tN1Xuh6
+    isrc: USRC12101808

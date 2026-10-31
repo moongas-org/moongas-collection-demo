@@ -5,7 +5,7 @@ trackData:
   album: Alina
   genre: Classical
   year: 1976
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 650.03
     fingerprint: 
@@ -24,3 +24,367 @@ trackIdData:
         firstReleaseDate: '1999-10-18'
       score: 0.9640361
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ
+    trackId: 2Lio4KTzsA8BPLhXmyo4CQ
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEB339559102&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+              href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+              id: 2P6ygesd9xg5DPOBnda2jg
+              name: Arvo Pärt
+              type: artist
+              uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+            - external_urls:
+                spotify: https://open.spotify.com/artist/24o3OUQvNiz3IY9DQhFhnF
+              href: https://api.spotify.com/v1/artists/24o3OUQvNiz3IY9DQhFhnF
+              id: 24o3OUQvNiz3IY9DQhFhnF
+              name: Vladimir Spivakov
+              type: artist
+              uri: spotify:artist:24o3OUQvNiz3IY9DQhFhnF
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5SB7fgTMdoI0NbO5uEfp9D
+              href: https://api.spotify.com/v1/artists/5SB7fgTMdoI0NbO5uEfp9D
+              id: 5SB7fgTMdoI0NbO5uEfp9D
+              name: Sergej Bezrodny
+              type: artist
+              uri: spotify:artist:5SB7fgTMdoI0NbO5uEfp9D
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7w60M7Mg34gEJvgkCJINtm
+              href: https://api.spotify.com/v1/artists/7w60M7Mg34gEJvgkCJINtm
+              id: 7w60M7Mg34gEJvgkCJINtm
+              name: Dietmar Schwalke
+              type: artist
+              uri: spotify:artist:7w60M7Mg34gEJvgkCJINtm
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH
+              href: https://api.spotify.com/v1/artists/7ku4vnPiSrXkUarPFjlzwH
+              id: 7ku4vnPiSrXkUarPFjlzwH
+              name: Alexander Malter
+              type: artist
+              uri: spotify:artist:7ku4vnPiSrXkUarPFjlzwH
+            external_urls:
+              spotify: https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE
+            href: https://api.spotify.com/v1/albums/69iw6Zy6fh2dSnEgBTZKJE
+            id: 69iw6Zy6fh2dSnEgBTZKJE
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273528dc2d3e31f07374a703bed
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02528dc2d3e31f07374a703bed
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851528dc2d3e31f07374a703bed
+            is_playable: true
+            name: 'Arvo Pärt: Alina'
+            release_date: '1999-10-15'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:69iw6Zy6fh2dSnEgBTZKJE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+            href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+            id: 2P6ygesd9xg5DPOBnda2jg
+            name: Arvo Pärt
+            type: artist
+            uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH
+            href: https://api.spotify.com/v1/artists/7ku4vnPiSrXkUarPFjlzwH
+            id: 7ku4vnPiSrXkUarPFjlzwH
+            name: Alexander Malter
+            type: artist
+            uri: spotify:artist:7ku4vnPiSrXkUarPFjlzwH
+          disc_number: 1
+          duration_ms: 647973
+          explicit: false
+          external_ids:
+            isrc: DEB339559102
+          external_urls:
+            spotify: https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ
+          href: https://api.spotify.com/v1/tracks/2Lio4KTzsA8BPLhXmyo4CQ
+          id: 2Lio4KTzsA8BPLhXmyo4CQ
+          is_local: false
+          is_playable: true
+          name: Für Alina
+          track_number: 2
+          type: track
+          uri: spotify:track:2Lio4KTzsA8BPLhXmyo4CQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4veFbuQxe9A2ZEbCK58Tar
+            href: https://api.spotify.com/v1/albums/4veFbuQxe9A2ZEbCK58Tar
+            id: 4veFbuQxe9A2ZEbCK58Tar
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27314adb2fc64831774c939813c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0214adb2fc64831774c939813c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485114adb2fc64831774c939813c
+            is_playable: true
+            name: Foxcatcher (Soundtrack from the Motion Picture)
+            release_date: '2018-04-20'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4veFbuQxe9A2ZEbCK58Tar
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+            href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+            id: 2P6ygesd9xg5DPOBnda2jg
+            name: Arvo Pärt
+            type: artist
+            uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH
+            href: https://api.spotify.com/v1/artists/7ku4vnPiSrXkUarPFjlzwH
+            id: 7ku4vnPiSrXkUarPFjlzwH
+            name: Alexander Malter
+            type: artist
+            uri: spotify:artist:7ku4vnPiSrXkUarPFjlzwH
+          disc_number: 1
+          duration_ms: 640333
+          explicit: false
+          external_ids:
+            isrc: DEB339559102
+          external_urls:
+            spotify: https://open.spotify.com/track/0ZVGvPxCypDIiKIh1VCmwu
+          href: https://api.spotify.com/v1/tracks/0ZVGvPxCypDIiKIh1VCmwu
+          id: 0ZVGvPxCypDIiKIh1VCmwu
+          is_local: false
+          is_playable: true
+          name: Für Alina
+          track_number: 16
+          type: track
+          uri: spotify:track:0ZVGvPxCypDIiKIh1VCmwu
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+              href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+              id: 2P6ygesd9xg5DPOBnda2jg
+              name: Arvo Pärt
+              type: artist
+              uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+            external_urls:
+              spotify: https://open.spotify.com/album/2eAjfLUQsDGvnnufHWNn8t
+            href: https://api.spotify.com/v1/albums/2eAjfLUQsDGvnnufHWNn8t
+            id: 2eAjfLUQsDGvnnufHWNn8t
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273cb590f9dd010e975a9e8e426
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02cb590f9dd010e975a9e8e426
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851cb590f9dd010e975a9e8e426
+            is_playable: true
+            name: 'Arvo Pärt: The Originals'
+            release_date: '2024-04-05'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:2eAjfLUQsDGvnnufHWNn8t
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+            href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+            id: 2P6ygesd9xg5DPOBnda2jg
+            name: Arvo Pärt
+            type: artist
+            uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH
+            href: https://api.spotify.com/v1/artists/7ku4vnPiSrXkUarPFjlzwH
+            id: 7ku4vnPiSrXkUarPFjlzwH
+            name: Alexander Malter
+            type: artist
+            uri: spotify:artist:7ku4vnPiSrXkUarPFjlzwH
+          disc_number: 1
+          duration_ms: 647973
+          explicit: false
+          external_ids:
+            isrc: DEB339559102
+          external_urls:
+            spotify: https://open.spotify.com/track/76I12KD8J2ilxHCWZopB0k
+          href: https://api.spotify.com/v1/tracks/76I12KD8J2ilxHCWZopB0k
+          id: 76I12KD8J2ilxHCWZopB0k
+          is_local: false
+          is_playable: true
+          name: Für Alina
+          track_number: 2
+          type: track
+          uri: spotify:track:76I12KD8J2ilxHCWZopB0k
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/28eOcJTKnJ403NlBxq9Ubb
+            href: https://api.spotify.com/v1/albums/28eOcJTKnJ403NlBxq9Ubb
+            id: 28eOcJTKnJ403NlBxq9Ubb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273bbeecf61fe4b670fd87cb31b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02bbeecf61fe4b670fd87cb31b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851bbeecf61fe4b670fd87cb31b
+            is_playable: true
+            name: Piano para respirar profundo
+            release_date: '2025-07-11'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:28eOcJTKnJ403NlBxq9Ubb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+            href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+            id: 2P6ygesd9xg5DPOBnda2jg
+            name: Arvo Pärt
+            type: artist
+            uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH
+            href: https://api.spotify.com/v1/artists/7ku4vnPiSrXkUarPFjlzwH
+            id: 7ku4vnPiSrXkUarPFjlzwH
+            name: Alexander Malter
+            type: artist
+            uri: spotify:artist:7ku4vnPiSrXkUarPFjlzwH
+          disc_number: 1
+          duration_ms: 647973
+          explicit: false
+          external_ids:
+            isrc: DEB339559102
+          external_urls:
+            spotify: https://open.spotify.com/track/2UHtTCZUs10dzTYFVlm8K0
+          href: https://api.spotify.com/v1/tracks/2UHtTCZUs10dzTYFVlm8K0
+          id: 2UHtTCZUs10dzTYFVlm8K0
+          is_local: false
+          is_playable: true
+          name: Für Alina
+          track_number: 8
+          type: track
+          uri: spotify:track:2UHtTCZUs10dzTYFVlm8K0
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3SofEfCxJNEYFORxPvJmTg
+            href: https://api.spotify.com/v1/albums/3SofEfCxJNEYFORxPvJmTg
+            id: 3SofEfCxJNEYFORxPvJmTg
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273cd4bc22368d84bf51748666a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02cd4bc22368d84bf51748666a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851cd4bc22368d84bf51748666a
+            is_playable: true
+            name: Música Clásica y Lluvia
+            release_date: '2025-10-25'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:3SofEfCxJNEYFORxPvJmTg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg
+            href: https://api.spotify.com/v1/artists/2P6ygesd9xg5DPOBnda2jg
+            id: 2P6ygesd9xg5DPOBnda2jg
+            name: Arvo Pärt
+            type: artist
+            uri: spotify:artist:2P6ygesd9xg5DPOBnda2jg
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH
+            href: https://api.spotify.com/v1/artists/7ku4vnPiSrXkUarPFjlzwH
+            id: 7ku4vnPiSrXkUarPFjlzwH
+            name: Alexander Malter
+            type: artist
+            uri: spotify:artist:7ku4vnPiSrXkUarPFjlzwH
+          disc_number: 1
+          duration_ms: 647973
+          explicit: false
+          external_ids:
+            isrc: DEB339559102
+          external_urls:
+            spotify: https://open.spotify.com/track/40expRnLB5jayvUhSOl2Jt
+          href: https://api.spotify.com/v1/tracks/40expRnLB5jayvUhSOl2Jt
+          id: 40expRnLB5jayvUhSOl2Jt
+          is_local: false
+          is_playable: true
+          name: Für Alina
+          track_number: 25
+          type: track
+          uri: spotify:track:40expRnLB5jayvUhSOl2Jt
+    isrc: DEB339559102

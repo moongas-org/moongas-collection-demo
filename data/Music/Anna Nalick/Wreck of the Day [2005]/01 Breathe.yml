@@ -49,3 +49,76 @@ mediaFileData:
         firstReleaseDate: '2004'
       score: 0.97010154
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/59oaowtnqLKFs3vikS0Cn9
+    trackId: 59oaowtnqLKFs3vikS0Cn9
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10800517&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR
+              href: https://api.spotify.com/v1/artists/4LoM3lMauQ540MW9QiyIcR
+              id: 4LoM3lMauQ540MW9QiyIcR
+              name: Anna Nalick
+              type: artist
+              uri: spotify:artist:4LoM3lMauQ540MW9QiyIcR
+            external_urls:
+              spotify: https://open.spotify.com/album/0tRbgqbeYeq0tvh0gBPRMT
+            href: https://api.spotify.com/v1/albums/0tRbgqbeYeq0tvh0gBPRMT
+            id: 0tRbgqbeYeq0tvh0gBPRMT
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273deb73e57a012135b6aefb77f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02deb73e57a012135b6aefb77f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851deb73e57a012135b6aefb77f
+            is_playable: true
+            name: Shine EP
+            release_date: '2008-03-25'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:0tRbgqbeYeq0tvh0gBPRMT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR
+            href: https://api.spotify.com/v1/artists/4LoM3lMauQ540MW9QiyIcR
+            id: 4LoM3lMauQ540MW9QiyIcR
+            name: Anna Nalick
+            type: artist
+            uri: spotify:artist:4LoM3lMauQ540MW9QiyIcR
+          disc_number: 1
+          duration_ms: 256786
+          explicit: false
+          external_ids:
+            isrc: USSM10800517
+          external_urls:
+            spotify: https://open.spotify.com/track/59oaowtnqLKFs3vikS0Cn9
+          href: https://api.spotify.com/v1/tracks/59oaowtnqLKFs3vikS0Cn9
+          id: 59oaowtnqLKFs3vikS0Cn9
+          is_local: false
+          is_playable: true
+          name: Breathe (2 AM) - Acoustic Version
+          track_number: 2
+          type: track
+          uri: spotify:track:59oaowtnqLKFs3vikS0Cn9
+    isrc: USSM10800517

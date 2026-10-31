@@ -5,7 +5,7 @@ trackData:
   album: Moon Safari
   genre: Electropop
   year: 1998
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 190.87
     fingerprint: 
@@ -35,3 +35,76 @@ trackIdData:
         firstReleaseDate: '1998-01-16'
       score: 0.9509164
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6NBa6VmFsqWQjJ9cM5H6q2
+    trackId: 6NBa6VmFsqWQjJ9cM5H6q2
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRS639700640&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ
+              href: https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ
+              id: 1P6U1dCeHxPui5pIrGmndZ
+              name: Air
+              type: artist
+              uri: spotify:artist:1P6U1dCeHxPui5pIrGmndZ
+            external_urls:
+              spotify: https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a
+            href: https://api.spotify.com/v1/albums/206GTDefY2qRMQxYXmfb0a
+            id: 206GTDefY2qRMQxYXmfb0a
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737f4dc15877a3c43f611a2709
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027f4dc15877a3c43f611a2709
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517f4dc15877a3c43f611a2709
+            is_playable: true
+            name: Moon Safari
+            release_date: '1998-01-16'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:206GTDefY2qRMQxYXmfb0a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ
+            href: https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ
+            id: 1P6U1dCeHxPui5pIrGmndZ
+            name: Air
+            type: artist
+            uri: spotify:artist:1P6U1dCeHxPui5pIrGmndZ
+          disc_number: 1
+          duration_ms: 190866
+          explicit: false
+          external_ids:
+            isrc: FRS639700640
+          external_urls:
+            spotify: https://open.spotify.com/track/6NBa6VmFsqWQjJ9cM5H6q2
+          href: https://api.spotify.com/v1/tracks/6NBa6VmFsqWQjJ9cM5H6q2
+          id: 6NBa6VmFsqWQjJ9cM5H6q2
+          is_local: false
+          is_playable: true
+          name: Le voyage de Pénélope
+          track_number: 10
+          type: track
+          uri: spotify:track:6NBa6VmFsqWQjJ9cM5H6q2
+    isrc: FRS639700640

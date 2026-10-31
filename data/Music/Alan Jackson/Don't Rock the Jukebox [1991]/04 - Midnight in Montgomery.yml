@@ -79,3 +79,190 @@ mediaFileData:
         firstReleaseDate: '1994'
       score: 0.9523668
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3TkENcA7TF7QysCvt0oQ5e
+    trackId: 3TkENcA7TF7QysCvt0oQ5e
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAN29100001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+              href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+              id: 4mxWe1mtYIYfP040G38yvS
+              name: Alan Jackson
+              type: artist
+              uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+            external_urls:
+              spotify: https://open.spotify.com/album/6767Q48U82ay3Vbr27YNbA
+            href: https://api.spotify.com/v1/albums/6767Q48U82ay3Vbr27YNbA
+            id: 6767Q48U82ay3Vbr27YNbA
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b6268335510514000eabf9d6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b6268335510514000eabf9d6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b6268335510514000eabf9d6
+            is_playable: true
+            name: Don`t Rock The Jukebox
+            release_date: '1991-04-03'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6767Q48U82ay3Vbr27YNbA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+            href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+            id: 4mxWe1mtYIYfP040G38yvS
+            name: Alan Jackson
+            type: artist
+            uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+          disc_number: 1
+          duration_ms: 225133
+          explicit: false
+          external_ids:
+            isrc: USAN29100001
+          external_urls:
+            spotify: https://open.spotify.com/track/3TkENcA7TF7QysCvt0oQ5e
+          href: https://api.spotify.com/v1/tracks/3TkENcA7TF7QysCvt0oQ5e
+          id: 3TkENcA7TF7QysCvt0oQ5e
+          is_local: false
+          is_playable: true
+          name: Midnight In Montgomery
+          track_number: 4
+          type: track
+          uri: spotify:track:3TkENcA7TF7QysCvt0oQ5e
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+              href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+              id: 4mxWe1mtYIYfP040G38yvS
+              name: Alan Jackson
+              type: artist
+              uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+            external_urls:
+              spotify: https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W
+            href: https://api.spotify.com/v1/albums/07KOJyGSNCoYVoWZafFt5W
+            id: 07KOJyGSNCoYVoWZafFt5W
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734bd275d306b0b324f98ddf39
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024bd275d306b0b324f98ddf39
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514bd275d306b0b324f98ddf39
+            is_playable: true
+            name: 16 Biggest Hits
+            release_date: '2007-08-07'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:07KOJyGSNCoYVoWZafFt5W
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+            href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+            id: 4mxWe1mtYIYfP040G38yvS
+            name: Alan Jackson
+            type: artist
+            uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+          disc_number: 1
+          duration_ms: 226213
+          explicit: false
+          external_ids:
+            isrc: USAN29100001
+          external_urls:
+            spotify: https://open.spotify.com/track/3mW3hxYwVltRd3wVIxe2En
+          href: https://api.spotify.com/v1/tracks/3mW3hxYwVltRd3wVIxe2En
+          id: 3mW3hxYwVltRd3wVIxe2En
+          is_local: false
+          is_playable: true
+          name: Midnight In Montgomery
+          track_number: 4
+          type: track
+          uri: spotify:track:3mW3hxYwVltRd3wVIxe2En
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+              href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+              id: 4mxWe1mtYIYfP040G38yvS
+              name: Alan Jackson
+              type: artist
+              uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+            external_urls:
+              spotify: https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid
+            href: https://api.spotify.com/v1/albums/0D20LzP7TOZhA18ANU1bid
+            id: 0D20LzP7TOZhA18ANU1bid
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737f19dce9c904bde7891edc8c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027f19dce9c904bde7891edc8c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517f19dce9c904bde7891edc8c
+            is_playable: true
+            name: The Greatest Hits Collection
+            release_date: '1995-10-16'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0D20LzP7TOZhA18ANU1bid
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+            href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+            id: 4mxWe1mtYIYfP040G38yvS
+            name: Alan Jackson
+            type: artist
+            uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+          disc_number: 1
+          duration_ms: 223973
+          explicit: false
+          external_ids:
+            isrc: USAN29100001
+          external_urls:
+            spotify: https://open.spotify.com/track/1buMYNW7we92RNVaZOXPCi
+          href: https://api.spotify.com/v1/tracks/1buMYNW7we92RNVaZOXPCi
+          id: 1buMYNW7we92RNVaZOXPCi
+          is_local: false
+          is_playable: true
+          name: Midnight In Montgomery
+          track_number: 4
+          type: track
+          uri: spotify:track:1buMYNW7we92RNVaZOXPCi
+    isrc: USAN29100001

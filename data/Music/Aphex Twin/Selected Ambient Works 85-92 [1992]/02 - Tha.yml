@@ -49,3 +49,76 @@ mediaFileData:
         firstReleaseDate: '1992-11-01'
       score: 0.9818669
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S
+    trackId: 4Sxv0whUHWzHK5T8uuP66S
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ABEZ350800023&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
+              href: https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG
+              id: 6kBDZFXuLrZgHnvmPu9NsG
+              name: Aphex Twin
+              type: artist
+              uri: spotify:artist:6kBDZFXuLrZgHnvmPu9NsG
+            external_urls:
+              spotify: https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k
+            href: https://api.spotify.com/v1/albums/7aNclGRxTysfh6z0d8671k
+            id: 7aNclGRxTysfh6z0d8671k
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0238906032688bb13b135ce19a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485138906032688bb13b135ce19a
+            is_playable: true
+            name: Selected Ambient Works 85-92
+            release_date: '1992-02-10'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7aNclGRxTysfh6z0d8671k
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
+            href: https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG
+            id: 6kBDZFXuLrZgHnvmPu9NsG
+            name: Aphex Twin
+            type: artist
+            uri: spotify:artist:6kBDZFXuLrZgHnvmPu9NsG
+          disc_number: 1
+          duration_ms: 547133
+          explicit: false
+          external_ids:
+            isrc: BEZ350800023
+          external_urls:
+            spotify: https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S
+          href: https://api.spotify.com/v1/tracks/4Sxv0whUHWzHK5T8uuP66S
+          id: 4Sxv0whUHWzHK5T8uuP66S
+          is_local: false
+          is_playable: true
+          name: Tha
+          track_number: 2
+          type: track
+          uri: spotify:track:4Sxv0whUHWzHK5T8uuP66S
+    isrc: BEZ350800023

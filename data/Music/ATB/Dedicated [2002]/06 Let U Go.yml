@@ -185,3 +185,76 @@ mediaFileData:
         firstReleaseDate: '2001-05-14'
       score: 0.9817049
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7ID8I3d2gfJYsPgR81B21I
+    trackId: 7ID8I3d2gfJYsPgR81B21I
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEN060500191&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/4FlawxFd7DeyoeKKPWNxfM
+            href: https://api.spotify.com/v1/albums/4FlawxFd7DeyoeKKPWNxfM
+            id: 4FlawxFd7DeyoeKKPWNxfM
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a378e119f05b3b24785053bc
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a378e119f05b3b24785053bc
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a378e119f05b3b24785053bc
+            is_playable: true
+            name: Seven Years
+            release_date: '2005-06-13'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4FlawxFd7DeyoeKKPWNxfM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 207733
+          explicit: false
+          external_ids:
+            isrc: DEN060500191
+          external_urls:
+            spotify: https://open.spotify.com/track/7ID8I3d2gfJYsPgR81B21I
+          href: https://api.spotify.com/v1/tracks/7ID8I3d2gfJYsPgR81B21I
+          id: 7ID8I3d2gfJYsPgR81B21I
+          is_local: false
+          is_playable: true
+          name: Let U Go
+          track_number: 15
+          type: track
+          uri: spotify:track:7ID8I3d2gfJYsPgR81B21I
+    isrc: DEN060500191

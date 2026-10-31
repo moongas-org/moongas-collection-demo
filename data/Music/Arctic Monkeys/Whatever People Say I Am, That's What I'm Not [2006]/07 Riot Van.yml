@@ -5,7 +5,7 @@ trackData:
   album: Whatever People Say I Am, That's What I'm Not
   genre: Indie Rock
   year: 2006
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 135.1
     fingerprint: 
@@ -35,3 +35,76 @@ trackIdData:
         firstReleaseDate: 2005-12
       score: 0.7873623
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4wMR4fRKMTyUJG6VAsmccv
+    trackId: 4wMR4fRKMTyUJG6VAsmccv
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0501186&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+              href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+              id: 7Ln80lUS6He07XvHI8qqHH
+              name: Arctic Monkeys
+              type: artist
+              uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+            external_urls:
+              spotify: https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1
+            href: https://api.spotify.com/v1/albums/50Zz8CkIhATKUlQMbHO3k1
+            id: 50Zz8CkIhATKUlQMbHO3k1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
+            is_playable: true
+            name: Whatever People Say I Am, That's What I'm Not
+            release_date: '2006-01-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:50Zz8CkIhATKUlQMbHO3k1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+            href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+            id: 7Ln80lUS6He07XvHI8qqHH
+            name: Arctic Monkeys
+            type: artist
+            uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+          disc_number: 1
+          duration_ms: 134933
+          explicit: false
+          external_ids:
+            isrc: GBCEL0501186
+          external_urls:
+            spotify: https://open.spotify.com/track/4wMR4fRKMTyUJG6VAsmccv
+          href: https://api.spotify.com/v1/tracks/4wMR4fRKMTyUJG6VAsmccv
+          id: 4wMR4fRKMTyUJG6VAsmccv
+          is_local: false
+          is_playable: true
+          name: Riot Van
+          track_number: 7
+          type: track
+          uri: spotify:track:4wMR4fRKMTyUJG6VAsmccv
+    isrc: GBCEL0501186

@@ -48,3 +48,304 @@ mediaFileData:
       recordings: []
       score: 0.6272086
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4odMw0bAPDR7kSwb15r7S7
+    trackId: 4odMw0bAPDR7kSwb15r7S7
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19200881&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+              href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+              id: 64tNsm6TnZe2zpcMVMOoHL
+              name: Alice In Chains
+              type: artist
+              uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+            external_urls:
+              spotify: https://open.spotify.com/album/3DxiNlzLanhdhT2vHwmRWV
+            href: https://api.spotify.com/v1/albums/3DxiNlzLanhdhT2vHwmRWV
+            id: 3DxiNlzLanhdhT2vHwmRWV
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273647a4d34d01e14d967106fbb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02647a4d34d01e14d967106fbb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851647a4d34d01e14d967106fbb
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2001'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3DxiNlzLanhdhT2vHwmRWV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+            href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+            id: 64tNsm6TnZe2zpcMVMOoHL
+            name: Alice In Chains
+            type: artist
+            uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+          disc_number: 1
+          duration_ms: 375706
+          explicit: false
+          external_ids:
+            isrc: USSM19200881
+          external_urls:
+            spotify: https://open.spotify.com/track/4odMw0bAPDR7kSwb15r7S7
+          href: https://api.spotify.com/v1/tracks/4odMw0bAPDR7kSwb15r7S7
+          id: 4odMw0bAPDR7kSwb15r7S7
+          is_local: false
+          is_playable: true
+          name: Rooster
+          track_number: 3
+          type: track
+          uri: spotify:track:4odMw0bAPDR7kSwb15r7S7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4TolSIc0n1yb3G9hfxsrZe
+            href: https://api.spotify.com/v1/albums/4TolSIc0n1yb3G9hfxsrZe
+            id: 4TolSIc0n1yb3G9hfxsrZe
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27361a9ac8dc4b06655f37b6bd7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0261a9ac8dc4b06655f37b6bd7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485161a9ac8dc4b06655f37b6bd7
+            is_playable: true
+            name: 90s Hits / Top 100 Songs
+            release_date: '2023-06-13'
+            release_date_precision: day
+            total_tracks: 84
+            type: album
+            uri: spotify:album:4TolSIc0n1yb3G9hfxsrZe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+            href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+            id: 64tNsm6TnZe2zpcMVMOoHL
+            name: Alice In Chains
+            type: artist
+            uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+          disc_number: 1
+          duration_ms: 374333
+          explicit: false
+          external_ids:
+            isrc: USSM19200881
+          external_urls:
+            spotify: https://open.spotify.com/track/6yHqFouJM5UYEzJ2jEh7q0
+          href: https://api.spotify.com/v1/tracks/6yHqFouJM5UYEzJ2jEh7q0
+          id: 6yHqFouJM5UYEzJ2jEh7q0
+          is_local: false
+          is_playable: true
+          name: Rooster
+          track_number: 13
+          type: track
+          uri: spotify:track:6yHqFouJM5UYEzJ2jEh7q0
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+              href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+              id: 64tNsm6TnZe2zpcMVMOoHL
+              name: Alice In Chains
+              type: artist
+              uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+            external_urls:
+              spotify: https://open.spotify.com/album/55t6oH9P2Rf92NQtAm1euu
+            href: https://api.spotify.com/v1/albums/55t6oH9P2Rf92NQtAm1euu
+            id: 55t6oH9P2Rf92NQtAm1euu
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273170102a3f453e107df4d86df
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02170102a3f453e107df4d86df
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851170102a3f453e107df4d86df
+            is_playable: true
+            name: The Essential Alice In Chains
+            release_date: '2006-07-24'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:55t6oH9P2Rf92NQtAm1euu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+            href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+            id: 64tNsm6TnZe2zpcMVMOoHL
+            name: Alice In Chains
+            type: artist
+            uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+          disc_number: 1
+          duration_ms: 376226
+          explicit: false
+          external_ids:
+            isrc: USSM19200881
+          external_urls:
+            spotify: https://open.spotify.com/track/0HY4qXIQLJ4E95I1LuPnU8
+          href: https://api.spotify.com/v1/tracks/0HY4qXIQLJ4E95I1LuPnU8
+          id: 0HY4qXIQLJ4E95I1LuPnU8
+          is_local: false
+          is_playable: true
+          name: Rooster
+          track_number: 16
+          type: track
+          uri: spotify:track:0HY4qXIQLJ4E95I1LuPnU8
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+              href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+              id: 64tNsm6TnZe2zpcMVMOoHL
+              name: Alice In Chains
+              type: artist
+              uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+            external_urls:
+              spotify: https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM
+            href: https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM
+            id: 58NXIEYqmq5dQHg9nV9duM
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb
+            is_playable: true
+            name: Dirt (2022 Remaster)
+            release_date: '1992-09-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:58NXIEYqmq5dQHg9nV9duM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+            href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+            id: 64tNsm6TnZe2zpcMVMOoHL
+            name: Alice In Chains
+            type: artist
+            uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+          disc_number: 1
+          duration_ms: 374333
+          explicit: false
+          external_ids:
+            isrc: USSM19200881
+          external_urls:
+            spotify: https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2
+          href: https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2
+          id: 0wvIGFIgbyz4JNwQhZgTv2
+          is_local: false
+          is_playable: true
+          name: Rooster (2022 Remaster)
+          track_number: 6
+          type: track
+          uri: spotify:track:0wvIGFIgbyz4JNwQhZgTv2
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+              href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+              id: 64tNsm6TnZe2zpcMVMOoHL
+              name: Alice In Chains
+              type: artist
+              uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+            external_urls:
+              spotify: https://open.spotify.com/album/1xbCFz18Eq2MJ6PrwKfvNl
+            href: https://api.spotify.com/v1/albums/1xbCFz18Eq2MJ6PrwKfvNl
+            id: 1xbCFz18Eq2MJ6PrwKfvNl
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739d0d468a06610793d3fc5578
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029d0d468a06610793d3fc5578
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519d0d468a06610793d3fc5578
+            is_playable: true
+            name: Music Bank
+            release_date: '1999'
+            release_date_precision: year
+            total_tracks: 48
+            type: album
+            uri: spotify:album:1xbCFz18Eq2MJ6PrwKfvNl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+            href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+            id: 64tNsm6TnZe2zpcMVMOoHL
+            name: Alice In Chains
+            type: artist
+            uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+          disc_number: 2
+          duration_ms: 374266
+          explicit: false
+          external_ids:
+            isrc: USSM19200881
+          external_urls:
+            spotify: https://open.spotify.com/track/1ANfj62LaQ5JLKCWvQ1Ny3
+          href: https://api.spotify.com/v1/tracks/1ANfj62LaQ5JLKCWvQ1Ny3
+          id: 1ANfj62LaQ5JLKCWvQ1Ny3
+          is_local: false
+          is_playable: true
+          name: Rooster
+          track_number: 6
+          type: track
+          uri: spotify:track:1ANfj62LaQ5JLKCWvQ1Ny3
+    isrc: USSM19200881

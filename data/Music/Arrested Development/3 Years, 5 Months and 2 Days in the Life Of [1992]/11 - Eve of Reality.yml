@@ -42,3 +42,76 @@ mediaFileData:
         firstReleaseDate: '1992-03-24'
       score: 0.97390026
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1vKT24AhKBgVxP295NTqh4
+    trackId: 1vKT24AhKBgVxP295NTqh4
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA29201549&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+              href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+              id: 5Va9LuEmaZxnbk1gMnjMD7
+              name: Arrested Development
+              type: artist
+              uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+            external_urls:
+              spotify: https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh
+            href: https://api.spotify.com/v1/albums/4QrhfVaznhrAPlM5xCKBPh
+            id: 4QrhfVaznhrAPlM5xCKBPh
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734be225a31e2e5bb6cfa921f6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024be225a31e2e5bb6cfa921f6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514be225a31e2e5bb6cfa921f6
+            is_playable: true
+            name: 3 Years, 5 Months And 2 Days In The Life Of...
+            release_date: '1992-03-24'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4QrhfVaznhrAPlM5xCKBPh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7
+            href: https://api.spotify.com/v1/artists/5Va9LuEmaZxnbk1gMnjMD7
+            id: 5Va9LuEmaZxnbk1gMnjMD7
+            name: Arrested Development
+            type: artist
+            uri: spotify:artist:5Va9LuEmaZxnbk1gMnjMD7
+          disc_number: 1
+          duration_ms: 102640
+          explicit: false
+          external_ids:
+            isrc: USCA29201549
+          external_urls:
+            spotify: https://open.spotify.com/track/1vKT24AhKBgVxP295NTqh4
+          href: https://api.spotify.com/v1/tracks/1vKT24AhKBgVxP295NTqh4
+          id: 1vKT24AhKBgVxP295NTqh4
+          is_local: false
+          is_playable: true
+          name: Eve Of Reality
+          track_number: 11
+          type: track
+          uri: spotify:track:1vKT24AhKBgVxP295NTqh4
+    isrc: USCA29201549

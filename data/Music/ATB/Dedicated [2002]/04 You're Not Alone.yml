@@ -38,3 +38,76 @@ mediaFileData:
         firstReleaseDate: '2011'
       score: 0.9890889
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1JlWUbNpQAueiszhtQhvyV
+    trackId: 1JlWUbNpQAueiszhtQhvyV
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEN060200497&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/3UlXwXbGhXgiODByzMd1XX
+            href: https://api.spotify.com/v1/albums/3UlXwXbGhXgiODByzMd1XX
+            id: 3UlXwXbGhXgiODByzMd1XX
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a968feb0cd7b6a55b434530a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a968feb0cd7b6a55b434530a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a968feb0cd7b6a55b434530a
+            is_playable: true
+            name: Dedicated
+            release_date: '2002-01-28'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3UlXwXbGhXgiODByzMd1XX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 357360
+          explicit: false
+          external_ids:
+            isrc: DEN060200497
+          external_urls:
+            spotify: https://open.spotify.com/track/1JlWUbNpQAueiszhtQhvyV
+          href: https://api.spotify.com/v1/tracks/1JlWUbNpQAueiszhtQhvyV
+          id: 1JlWUbNpQAueiszhtQhvyV
+          is_local: false
+          is_playable: true
+          name: You're Not Alone
+          track_number: 4
+          type: track
+          uri: spotify:track:1JlWUbNpQAueiszhtQhvyV
+    isrc: DEN060200497

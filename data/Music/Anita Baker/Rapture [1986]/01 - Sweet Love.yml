@@ -60,3 +60,76 @@ mediaFileData:
         firstReleaseDate: '1986-08-01'
       score: 0.93730223
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL
+    trackId: 4xVXe1VS5zlQyECVk6GRrL
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20104367&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG
+              href: https://api.spotify.com/v1/artists/46CH1Gp8l8QVly8bpG9JFG
+              id: 46CH1Gp8l8QVly8bpG9JFG
+              name: Anita Baker
+              type: artist
+              uri: spotify:artist:46CH1Gp8l8QVly8bpG9JFG
+            external_urls:
+              spotify: https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD
+            href: https://api.spotify.com/v1/albums/5ua8gCeWXrvivM9hfVCXhD
+            id: 5ua8gCeWXrvivM9hfVCXhD
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27357901fb66499da37fb3fb1e9
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0257901fb66499da37fb3fb1e9
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485157901fb66499da37fb3fb1e9
+            is_playable: true
+            name: Sweet Love
+            release_date: '2022-02-14'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:5ua8gCeWXrvivM9hfVCXhD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG
+            href: https://api.spotify.com/v1/artists/46CH1Gp8l8QVly8bpG9JFG
+            id: 46CH1Gp8l8QVly8bpG9JFG
+            name: Anita Baker
+            type: artist
+            uri: spotify:artist:46CH1Gp8l8QVly8bpG9JFG
+          disc_number: 1
+          duration_ms: 262266
+          explicit: false
+          external_ids:
+            isrc: USAT20104367
+          external_urls:
+            spotify: https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL
+          href: https://api.spotify.com/v1/tracks/4xVXe1VS5zlQyECVk6GRrL
+          id: 4xVXe1VS5zlQyECVk6GRrL
+          is_local: false
+          is_playable: true
+          name: Sweet Love
+          track_number: 1
+          type: track
+          uri: spotify:track:4xVXe1VS5zlQyECVk6GRrL
+    isrc: USAT20104367

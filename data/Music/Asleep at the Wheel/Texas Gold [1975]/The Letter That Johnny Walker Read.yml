@@ -89,3 +89,76 @@ mediaFileData:
         firstReleaseDate: '1991'
       score: 0.965091
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2mcRo3ZsDAxqFtN7JLe5bf
+    trackId: 2mcRo3ZsDAxqFtN7JLe5bf
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCN19100097&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm
+              href: https://api.spotify.com/v1/artists/54tWKkrjv4bQgKrQrNlecm
+              id: 54tWKkrjv4bQgKrQrNlecm
+              name: Asleep At The Wheel
+              type: artist
+              uri: spotify:artist:54tWKkrjv4bQgKrQrNlecm
+            external_urls:
+              spotify: https://open.spotify.com/album/27V8GNMvdHdeZPReaOWKjC
+            href: https://api.spotify.com/v1/albums/27V8GNMvdHdeZPReaOWKjC
+            id: 27V8GNMvdHdeZPReaOWKjC
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f8d46e789c3e2fbfa48f2921
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f8d46e789c3e2fbfa48f2921
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f8d46e789c3e2fbfa48f2921
+            is_playable: true
+            name: Texas Gold
+            release_date: '1975-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:27V8GNMvdHdeZPReaOWKjC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm
+            href: https://api.spotify.com/v1/artists/54tWKkrjv4bQgKrQrNlecm
+            id: 54tWKkrjv4bQgKrQrNlecm
+            name: Asleep At The Wheel
+            type: artist
+            uri: spotify:artist:54tWKkrjv4bQgKrQrNlecm
+          disc_number: 1
+          duration_ms: 195626
+          explicit: false
+          external_ids:
+            isrc: USCN19100097
+          external_urls:
+            spotify: https://open.spotify.com/track/2mcRo3ZsDAxqFtN7JLe5bf
+          href: https://api.spotify.com/v1/tracks/2mcRo3ZsDAxqFtN7JLe5bf
+          id: 2mcRo3ZsDAxqFtN7JLe5bf
+          is_local: false
+          is_playable: true
+          name: The Letter That Johnny Walker Read
+          track_number: 1
+          type: track
+          uri: spotify:track:2mcRo3ZsDAxqFtN7JLe5bf
+    isrc: USCN19100097

@@ -88,3 +88,76 @@ mediaFileData:
         firstReleaseDate: '2017-10-06'
       score: 0.8212355
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3JAt2mZO2MMTtSCRkhNpMs
+    trackId: 3JAt2mZO2MMTtSCRkhNpMs
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH12103120&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS
+              href: https://api.spotify.com/v1/artists/3EhbVgyfGd7HkpsagwL9GS
+              id: 3EhbVgyfGd7HkpsagwL9GS
+              name: Alice Cooper
+              type: artist
+              uri: spotify:artist:3EhbVgyfGd7HkpsagwL9GS
+            external_urls:
+              spotify: https://open.spotify.com/album/0qrbTsBMPbtI8M3270yfWx
+            href: https://api.spotify.com/v1/albums/0qrbTsBMPbtI8M3270yfWx
+            id: 0qrbTsBMPbtI8M3270yfWx
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739bb8c1d75936da8591dcd28e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029bb8c1d75936da8591dcd28e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519bb8c1d75936da8591dcd28e
+            is_playable: true
+            name: School's Out (Expanded & Remastered)
+            release_date: '1972-06-30'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:0qrbTsBMPbtI8M3270yfWx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS
+            href: https://api.spotify.com/v1/artists/3EhbVgyfGd7HkpsagwL9GS
+            id: 3EhbVgyfGd7HkpsagwL9GS
+            name: Alice Cooper
+            type: artist
+            uri: spotify:artist:3EhbVgyfGd7HkpsagwL9GS
+          disc_number: 1
+          duration_ms: 209831
+          explicit: false
+          external_ids:
+            isrc: USRH12103120
+          external_urls:
+            spotify: https://open.spotify.com/track/3JAt2mZO2MMTtSCRkhNpMs
+          href: https://api.spotify.com/v1/tracks/3JAt2mZO2MMTtSCRkhNpMs
+          id: 3JAt2mZO2MMTtSCRkhNpMs
+          is_local: false
+          is_playable: true
+          name: School's Out - 2023 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:3JAt2mZO2MMTtSCRkhNpMs
+    isrc: USRH12103120

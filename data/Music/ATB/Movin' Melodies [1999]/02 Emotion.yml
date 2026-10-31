@@ -5,7 +5,7 @@ trackData:
   album: Movin' Melodies
   genre: Electronic (Instrumental)
   year: 1999
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 264.01
     fingerprint: 
@@ -37,5 +37,79 @@ trackIdData:
         firstReleaseDate: '1999-04-26'
       score: 0.93231225
     - id: b89d6bb0-e392-4663-9808-9a5c860a2545
+      recordings: []
       score: 0.64522535
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5a0y2SFfKkGBf2yaHPOTLa
+    trackId: 5a0y2SFfKkGBf2yaHPOTLa
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEN060301017&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk
+            href: https://api.spotify.com/v1/albums/4DfD9bqzlfSbEf5kWgufPk
+            id: 4DfD9bqzlfSbEf5kWgufPk
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27326971635f39cfc30b37ecf05
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0226971635f39cfc30b37ecf05
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485126971635f39cfc30b37ecf05
+            is_playable: true
+            name: Movin' Melodies
+            release_date: '1999-04-26'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4DfD9bqzlfSbEf5kWgufPk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 263960
+          explicit: false
+          external_ids:
+            isrc: DEN060301017
+          external_urls:
+            spotify: https://open.spotify.com/track/5a0y2SFfKkGBf2yaHPOTLa
+          href: https://api.spotify.com/v1/tracks/5a0y2SFfKkGBf2yaHPOTLa
+          id: 5a0y2SFfKkGBf2yaHPOTLa
+          is_local: false
+          is_playable: true
+          name: Emotion
+          track_number: 2
+          type: track
+          uri: spotify:track:5a0y2SFfKkGBf2yaHPOTLa
+    isrc: DEN060301017

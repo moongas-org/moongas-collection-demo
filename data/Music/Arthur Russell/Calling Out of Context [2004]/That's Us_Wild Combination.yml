@@ -5,7 +5,7 @@ trackData:
   album: Calling Out of Context
   genre: Indie Rock
   year: 2004
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 419.04
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2004-02-16'
       score: 0.975178
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Kh2MJAy65AfHFdGqBg1Jw
+    trackId: 4Kh2MJAy65AfHFdGqBg1Jw
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAK20300006&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj
+              href: https://api.spotify.com/v1/artists/3iJJD5v7oIFUevW4N5w5cj
+              id: 3iJJD5v7oIFUevW4N5w5cj
+              name: Arthur Russell
+              type: artist
+              uri: spotify:artist:3iJJD5v7oIFUevW4N5w5cj
+            external_urls:
+              spotify: https://open.spotify.com/album/0cJ39KJ52lQ2tnZUyy299i
+            href: https://api.spotify.com/v1/albums/0cJ39KJ52lQ2tnZUyy299i
+            id: 0cJ39KJ52lQ2tnZUyy299i
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273de8d964b97a77d617ff64381
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02de8d964b97a77d617ff64381
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851de8d964b97a77d617ff64381
+            is_playable: true
+            name: Calling Out Of Context
+            release_date: '2004-02-17'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0cJ39KJ52lQ2tnZUyy299i
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj
+            href: https://api.spotify.com/v1/artists/3iJJD5v7oIFUevW4N5w5cj
+            id: 3iJJD5v7oIFUevW4N5w5cj
+            name: Arthur Russell
+            type: artist
+            uri: spotify:artist:3iJJD5v7oIFUevW4N5w5cj
+          disc_number: 1
+          duration_ms: 418493
+          explicit: false
+          external_ids:
+            isrc: USAK20300006
+          external_urls:
+            spotify: https://open.spotify.com/track/4Kh2MJAy65AfHFdGqBg1Jw
+          href: https://api.spotify.com/v1/tracks/4Kh2MJAy65AfHFdGqBg1Jw
+          id: 4Kh2MJAy65AfHFdGqBg1Jw
+          is_local: false
+          is_playable: true
+          name: That's Us/Wild Combination
+          track_number: 6
+          type: track
+          uri: spotify:track:4Kh2MJAy65AfHFdGqBg1Jw
+    isrc: USAK20300006

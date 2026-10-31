@@ -5,7 +5,7 @@ trackData:
   album: ٣ (Trois)
   genre: Electronic (Instrumental)
   year: 2023
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 361.35
     fingerprint: 
@@ -24,3 +24,133 @@ trackIdData:
         firstReleaseDate: '2016-10-07'
       score: 0.9709268
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2CqPy8tyU4fNSi7aOPRGJv
+    trackId: 2CqPy8tyU4fNSi7aOPRGJv
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ABE6F51601190&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7
+              href: https://api.spotify.com/v1/artists/3ShO8tPKqXUUpOA0urOWW7
+              id: 3ShO8tPKqXUUpOA0urOWW7
+              name: Acid Arab
+              type: artist
+              uri: spotify:artist:3ShO8tPKqXUUpOA0urOWW7
+            external_urls:
+              spotify: https://open.spotify.com/album/3w4Sz24GpcEaQdt0pilOGW
+            href: https://api.spotify.com/v1/albums/3w4Sz24GpcEaQdt0pilOGW
+            id: 3w4Sz24GpcEaQdt0pilOGW
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27334af0545bcb4019143de4f40
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0234af0545bcb4019143de4f40
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485134af0545bcb4019143de4f40
+            is_playable: true
+            name: Musique De France
+            release_date: '2016-10-07'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3w4Sz24GpcEaQdt0pilOGW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7
+            href: https://api.spotify.com/v1/artists/3ShO8tPKqXUUpOA0urOWW7
+            id: 3ShO8tPKqXUUpOA0urOWW7
+            name: Acid Arab
+            type: artist
+            uri: spotify:artist:3ShO8tPKqXUUpOA0urOWW7
+          disc_number: 1
+          duration_ms: 316493
+          explicit: false
+          external_ids:
+            isrc: BE6F51601190
+          external_urls:
+            spotify: https://open.spotify.com/track/2CqPy8tyU4fNSi7aOPRGJv
+          href: https://api.spotify.com/v1/tracks/2CqPy8tyU4fNSi7aOPRGJv
+          id: 2CqPy8tyU4fNSi7aOPRGJv
+          is_local: false
+          is_playable: true
+          name: Sayarat 303
+          track_number: 9
+          type: track
+          uri: spotify:track:2CqPy8tyU4fNSi7aOPRGJv
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7
+              href: https://api.spotify.com/v1/artists/3ShO8tPKqXUUpOA0urOWW7
+              id: 3ShO8tPKqXUUpOA0urOWW7
+              name: Acid Arab
+              type: artist
+              uri: spotify:artist:3ShO8tPKqXUUpOA0urOWW7
+            external_urls:
+              spotify: https://open.spotify.com/album/6UBM307KOZ0dBOuZbjJj9n
+            href: https://api.spotify.com/v1/albums/6UBM307KOZ0dBOuZbjJj9n
+            id: 6UBM307KOZ0dBOuZbjJj9n
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27396ce4513edb4d9cf6fe86f10
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0296ce4513edb4d9cf6fe86f10
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485196ce4513edb4d9cf6fe86f10
+            is_playable: true
+            name: Sayarat 303
+            release_date: '2016-09-16'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:6UBM307KOZ0dBOuZbjJj9n
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7
+            href: https://api.spotify.com/v1/artists/3ShO8tPKqXUUpOA0urOWW7
+            id: 3ShO8tPKqXUUpOA0urOWW7
+            name: Acid Arab
+            type: artist
+            uri: spotify:artist:3ShO8tPKqXUUpOA0urOWW7
+          disc_number: 1
+          duration_ms: 316493
+          explicit: false
+          external_ids:
+            isrc: BE6F51601190
+          external_urls:
+            spotify: https://open.spotify.com/track/4mMHrUmdZ6lapvuzGkZ4Du
+          href: https://api.spotify.com/v1/tracks/4mMHrUmdZ6lapvuzGkZ4Du
+          id: 4mMHrUmdZ6lapvuzGkZ4Du
+          is_local: false
+          is_playable: true
+          name: Sayarat 303
+          track_number: 1
+          type: track
+          uri: spotify:track:4mMHrUmdZ6lapvuzGkZ4Du
+    isrc: BE6F51601190

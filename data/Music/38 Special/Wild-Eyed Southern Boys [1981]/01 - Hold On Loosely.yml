@@ -49,3 +49,304 @@ mediaFileData:
         firstReleaseDate: '1980'
       score: 0.97643065
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF
+    trackId: 6i9dZZQWNB06HKsQYKTiPF
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUMG0000591&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+              href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+              id: 3zXw2Eh96iTT51pytzHdZi
+              name: 38 Special
+              type: artist
+              uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+            external_urls:
+              spotify: https://open.spotify.com/album/0McWOHhD5uSpbT4wRuTgpj
+            href: https://api.spotify.com/v1/albums/0McWOHhD5uSpbT4wRuTgpj
+            id: 0McWOHhD5uSpbT4wRuTgpj
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27393f49d911139c75ad653a203
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0293f49d911139c75ad653a203
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485193f49d911139c75ad653a203
+            is_playable: true
+            name: Wild-Eyed Southern Boys
+            release_date: '1980-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:0McWOHhD5uSpbT4wRuTgpj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+            href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+            id: 3zXw2Eh96iTT51pytzHdZi
+            name: 38 Special
+            type: artist
+            uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+          disc_number: 1
+          duration_ms: 280636
+          explicit: false
+          external_ids:
+            isrc: USUMG0000591
+          external_urls:
+            spotify: https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF
+          href: https://api.spotify.com/v1/tracks/6i9dZZQWNB06HKsQYKTiPF
+          id: 6i9dZZQWNB06HKsQYKTiPF
+          is_local: false
+          is_playable: true
+          name: Hold On Loosely
+          track_number: 1
+          type: track
+          uri: spotify:track:6i9dZZQWNB06HKsQYKTiPF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+              href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+              id: 3zXw2Eh96iTT51pytzHdZi
+              name: 38 Special
+              type: artist
+              uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+            external_urls:
+              spotify: https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH
+            href: https://api.spotify.com/v1/albums/5gditTVu3JNE5P8T6tafiH
+            id: 5gditTVu3JNE5P8T6tafiH
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ac0f8c59370228d0a5edff7f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ac0f8c59370228d0a5edff7f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ac0f8c59370228d0a5edff7f
+            is_playable: true
+            name: '20th Century Masters The Millennium Collection: Best of 38 Special'
+            release_date: '2000-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5gditTVu3JNE5P8T6tafiH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+            href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+            id: 3zXw2Eh96iTT51pytzHdZi
+            name: 38 Special
+            type: artist
+            uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+          disc_number: 1
+          duration_ms: 279893
+          explicit: false
+          external_ids:
+            isrc: USUMG0000591
+          external_urls:
+            spotify: https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU
+          href: https://api.spotify.com/v1/tracks/6hQszXJIYhtjmSTmDqZpeU
+          id: 6hQszXJIYhtjmSTmDqZpeU
+          is_local: false
+          is_playable: true
+          name: Hold On Loosely
+          track_number: 3
+          type: track
+          uri: spotify:track:6hQszXJIYhtjmSTmDqZpeU
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+              href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+              id: 3zXw2Eh96iTT51pytzHdZi
+              name: 38 Special
+              type: artist
+              uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+            external_urls:
+              spotify: https://open.spotify.com/album/5XPk6u1ZYTs1R2gl4Ndlm6
+            href: https://api.spotify.com/v1/albums/5XPk6u1ZYTs1R2gl4Ndlm6
+            id: 5XPk6u1ZYTs1R2gl4Ndlm6
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733608abb316d2fd3298d8a544
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023608abb316d2fd3298d8a544
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513608abb316d2fd3298d8a544
+            is_playable: true
+            name: Flashback
+            release_date: '1987-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5XPk6u1ZYTs1R2gl4Ndlm6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+            href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+            id: 3zXw2Eh96iTT51pytzHdZi
+            name: 38 Special
+            type: artist
+            uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+          disc_number: 1
+          duration_ms: 279240
+          explicit: false
+          external_ids:
+            isrc: USUMG0000591
+          external_urls:
+            spotify: https://open.spotify.com/track/2eEmzSR9tmd52w7cqT9yK6
+          href: https://api.spotify.com/v1/tracks/2eEmzSR9tmd52w7cqT9yK6
+          id: 2eEmzSR9tmd52w7cqT9yK6
+          is_local: false
+          is_playable: true
+          name: Hold On Loosely
+          track_number: 2
+          type: track
+          uri: spotify:track:2eEmzSR9tmd52w7cqT9yK6
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+              href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+              id: 3zXw2Eh96iTT51pytzHdZi
+              name: 38 Special
+              type: artist
+              uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+            external_urls:
+              spotify: https://open.spotify.com/album/70LmUc4bIUyDhvrx2hfJJA
+            href: https://api.spotify.com/v1/albums/70LmUc4bIUyDhvrx2hfJJA
+            id: 70LmUc4bIUyDhvrx2hfJJA
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734ab8afe09938db970db1893c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024ab8afe09938db970db1893c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514ab8afe09938db970db1893c
+            is_playable: true
+            name: The Very Best Of The A&M Years (1977-1988)
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:70LmUc4bIUyDhvrx2hfJJA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+            href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+            id: 3zXw2Eh96iTT51pytzHdZi
+            name: 38 Special
+            type: artist
+            uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+          disc_number: 1
+          duration_ms: 279754
+          explicit: false
+          external_ids:
+            isrc: USUMG0000591
+          external_urls:
+            spotify: https://open.spotify.com/track/32hbRIFYlvhXWM3Js65RQ5
+          href: https://api.spotify.com/v1/tracks/32hbRIFYlvhXWM3Js65RQ5
+          id: 32hbRIFYlvhXWM3Js65RQ5
+          is_local: false
+          is_playable: true
+          name: Hold On Loosely
+          track_number: 2
+          type: track
+          uri: spotify:track:32hbRIFYlvhXWM3Js65RQ5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0TkacRYyIcN9jZZPA5fCd2
+            href: https://api.spotify.com/v1/albums/0TkacRYyIcN9jZZPA5fCd2
+            id: 0TkacRYyIcN9jZZPA5fCd2
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a4050af421306f787bdfbc66
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a4050af421306f787bdfbc66
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a4050af421306f787bdfbc66
+            is_playable: true
+            name: Best Of Classic Rock
+            release_date: '2014-06-12'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:0TkacRYyIcN9jZZPA5fCd2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi
+            href: https://api.spotify.com/v1/artists/3zXw2Eh96iTT51pytzHdZi
+            id: 3zXw2Eh96iTT51pytzHdZi
+            name: 38 Special
+            type: artist
+            uri: spotify:artist:3zXw2Eh96iTT51pytzHdZi
+          disc_number: 2
+          duration_ms: 277293
+          explicit: false
+          external_ids:
+            isrc: USUMG0000591
+          external_urls:
+            spotify: https://open.spotify.com/track/23UFWuxbb5uDmFjK0zqqMt
+          href: https://api.spotify.com/v1/tracks/23UFWuxbb5uDmFjK0zqqMt
+          id: 23UFWuxbb5uDmFjK0zqqMt
+          is_local: false
+          is_playable: true
+          name: Hold On Loosely
+          track_number: 9
+          type: track
+          uri: spotify:track:23UFWuxbb5uDmFjK0zqqMt
+    isrc: USUMG0000591

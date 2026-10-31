@@ -5,7 +5,7 @@ trackData:
   album: Merriweather Post Pavilion
   genre: Psychedelic Rock
   year: 2009
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 252.29
     fingerprint: 
@@ -35,3 +35,76 @@ trackIdData:
         firstReleaseDate: '2009-01-06'
       score: 0.8246308
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5BGaHnUz12UJ0AeFCQxCdG
+    trackId: 5BGaHnUz12UJ0AeFCQxCdG
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0800817&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj
+              href: https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj
+              id: 4kwxTgCKMipBKhSnEstNKj
+              name: Animal Collective
+              type: artist
+              uri: spotify:artist:4kwxTgCKMipBKhSnEstNKj
+            external_urls:
+              spotify: https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq
+            href: https://api.spotify.com/v1/albums/6BRq5g6CWiFgN3NrjLGAYq
+            id: 6BRq5g6CWiFgN3NrjLGAYq
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a7f85f2df08fbeb6dac5677c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a7f85f2df08fbeb6dac5677c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a7f85f2df08fbeb6dac5677c
+            is_playable: true
+            name: Merriweather Post Pavilion
+            release_date: '2009-01-10'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6BRq5g6CWiFgN3NrjLGAYq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj
+            href: https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj
+            id: 4kwxTgCKMipBKhSnEstNKj
+            name: Animal Collective
+            type: artist
+            uri: spotify:artist:4kwxTgCKMipBKhSnEstNKj
+          disc_number: 1
+          duration_ms: 252226
+          explicit: false
+          external_ids:
+            isrc: GBCEL0800817
+          external_urls:
+            spotify: https://open.spotify.com/track/5BGaHnUz12UJ0AeFCQxCdG
+          href: https://api.spotify.com/v1/tracks/5BGaHnUz12UJ0AeFCQxCdG
+          id: 5BGaHnUz12UJ0AeFCQxCdG
+          is_local: false
+          is_playable: true
+          name: Lion In A Coma
+          track_number: 9
+          type: track
+          uri: spotify:track:5BGaHnUz12UJ0AeFCQxCdG
+    isrc: GBCEL0800817

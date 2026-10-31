@@ -53,3 +53,305 @@ mediaFileData:
         firstReleaseDate: '2000'
       score: 0.72171676
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3TTOIyuNu8s4luIZyXcOYs
+    trackId: 3TTOIyuNu8s4luIZyXcOYs
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW10022217&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/32NCJL0H6esnZ1JwnLrxCw
+            href: https://api.spotify.com/v1/albums/32NCJL0H6esnZ1JwnLrxCw
+            id: 32NCJL0H6esnZ1JwnLrxCw
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730efb6ed4ed07fbf18cb37854
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020efb6ed4ed07fbf18cb37854
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510efb6ed4ed07fbf18cb37854
+            is_playable: true
+            name: ANThology (2026 Remastered)
+            release_date: '2001'
+            release_date_precision: year
+            total_tracks: 14
+            type: album
+            uri: spotify:album:32NCJL0H6esnZ1JwnLrxCw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 195600
+          explicit: false
+          external_ids:
+            isrc: USDW10022217
+          external_urls:
+            spotify: https://open.spotify.com/track/3TTOIyuNu8s4luIZyXcOYs
+          href: https://api.spotify.com/v1/tracks/3TTOIyuNu8s4luIZyXcOYs
+          id: 3TTOIyuNu8s4luIZyXcOYs
+          is_local: false
+          is_playable: true
+          name: Movies - 2026 Remastered
+          track_number: 2
+          type: track
+          uri: spotify:track:3TTOIyuNu8s4luIZyXcOYs
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/0UkYlaMWOML5u4UcFlrGft
+            href: https://api.spotify.com/v1/albums/0UkYlaMWOML5u4UcFlrGft
+            id: 0UkYlaMWOML5u4UcFlrGft
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738df8dead3be6fdd8ad87050f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028df8dead3be6fdd8ad87050f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518df8dead3be6fdd8ad87050f
+            is_playable: true
+            name: ANThology (Deluxe Edition)
+            release_date: '2026-07-31'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0UkYlaMWOML5u4UcFlrGft
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 195600
+          explicit: false
+          external_ids:
+            isrc: USDW10022217
+          external_urls:
+            spotify: https://open.spotify.com/track/670IuJYu8B4FFMU2efscTf
+          href: https://api.spotify.com/v1/tracks/670IuJYu8B4FFMU2efscTf
+          id: 670IuJYu8B4FFMU2efscTf
+          is_local: false
+          is_playable: true
+          name: Movies - 2026 Remastered
+          track_number: 2
+          type: track
+          uri: spotify:track:670IuJYu8B4FFMU2efscTf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/0Kucza2kOX3aKefmhuwEGp
+            href: https://api.spotify.com/v1/albums/0Kucza2kOX3aKefmhuwEGp
+            id: 0Kucza2kOX3aKefmhuwEGp
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a51937bee293ae6eb62edc98
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a51937bee293ae6eb62edc98
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a51937bee293ae6eb62edc98
+            is_playable: true
+            name: The Best Of Alien Ant Farm 20th Century Masters The Millennium
+              Collection
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0Kucza2kOX3aKefmhuwEGp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 195706
+          explicit: false
+          external_ids:
+            isrc: USDW10022217
+          external_urls:
+            spotify: https://open.spotify.com/track/3LoSvhUPPPKKVGMVaX1M1W
+          href: https://api.spotify.com/v1/tracks/3LoSvhUPPPKKVGMVaX1M1W
+          id: 3LoSvhUPPPKKVGMVaX1M1W
+          is_local: false
+          is_playable: true
+          name: Movies
+          track_number: 1
+          type: track
+          uri: spotify:track:3LoSvhUPPPKKVGMVaX1M1W
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6YLLFMlYzwDiKTKeqIHMvQ
+            href: https://api.spotify.com/v1/albums/6YLLFMlYzwDiKTKeqIHMvQ
+            id: 6YLLFMlYzwDiKTKeqIHMvQ
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733ec6803971dc4a1d347c93d5
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023ec6803971dc4a1d347c93d5
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513ec6803971dc4a1d347c93d5
+            is_playable: true
+            name: Emo 2000s
+            release_date: '2020-06-12'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:6YLLFMlYzwDiKTKeqIHMvQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 195706
+          explicit: false
+          external_ids:
+            isrc: USDW10022217
+          external_urls:
+            spotify: https://open.spotify.com/track/1b8guyMWSCSHMnVrRr0pDc
+          href: https://api.spotify.com/v1/tracks/1b8guyMWSCSHMnVrRr0pDc
+          id: 1b8guyMWSCSHMnVrRr0pDc
+          is_local: false
+          is_playable: true
+          name: Movies
+          track_number: 9
+          type: track
+          uri: spotify:track:1b8guyMWSCSHMnVrRr0pDc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0MY18wjSV25Ynz1wVEy6m1
+            href: https://api.spotify.com/v1/albums/0MY18wjSV25Ynz1wVEy6m1
+            id: 0MY18wjSV25Ynz1wVEy6m1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273c822c1af47c95c50dcd93828
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02c822c1af47c95c50dcd93828
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851c822c1af47c95c50dcd93828
+            is_playable: true
+            name: The Ultimate Skate Punk Album Vol.3
+            release_date: '2019-08-09'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:0MY18wjSV25Ynz1wVEy6m1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 195706
+          explicit: false
+          external_ids:
+            isrc: USDW10022217
+          external_urls:
+            spotify: https://open.spotify.com/track/04MJsSWI7eX7PAsKTQI3dY
+          href: https://api.spotify.com/v1/tracks/04MJsSWI7eX7PAsKTQI3dY
+          id: 04MJsSWI7eX7PAsKTQI3dY
+          is_local: false
+          is_playable: true
+          name: Movies
+          track_number: 14
+          type: track
+          uri: spotify:track:04MJsSWI7eX7PAsKTQI3dY
+    isrc: USDW10022217

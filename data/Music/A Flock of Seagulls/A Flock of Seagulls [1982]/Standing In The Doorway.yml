@@ -5,7 +5,7 @@ trackData:
   album: A Flock of Seagulls
   genre: New Wave
   year: 1982
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 278.96
     fingerprint: 
@@ -35,3 +35,76 @@ trackIdData:
         firstReleaseDate: 1982-06
       score: 0.89662445
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5d6jxZk9ghMBGpTOgfiWAD
+    trackId: 5d6jxZk9ghMBGpTOgfiWAD
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGB5KW2203255&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt
+              href: https://api.spotify.com/v1/artists/0uAjBatvB4ubpd4kCfjmNt
+              id: 0uAjBatvB4ubpd4kCfjmNt
+              name: A Flock Of Seagulls
+              type: artist
+              uri: spotify:artist:0uAjBatvB4ubpd4kCfjmNt
+            external_urls:
+              spotify: https://open.spotify.com/album/5xwe3HpR7I8s0kB7Gg4LRd
+            href: https://api.spotify.com/v1/albums/5xwe3HpR7I8s0kB7Gg4LRd
+            id: 5xwe3HpR7I8s0kB7Gg4LRd
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e2f236d0ad512e0bb63108e1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e2f236d0ad512e0bb63108e1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e2f236d0ad512e0bb63108e1
+            is_playable: true
+            name: A Flock of Seagulls (Deluxe)
+            release_date: '2023-02-17'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:5xwe3HpR7I8s0kB7Gg4LRd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt
+            href: https://api.spotify.com/v1/artists/0uAjBatvB4ubpd4kCfjmNt
+            id: 0uAjBatvB4ubpd4kCfjmNt
+            name: A Flock Of Seagulls
+            type: artist
+            uri: spotify:artist:0uAjBatvB4ubpd4kCfjmNt
+          disc_number: 1
+          duration_ms: 282066
+          explicit: false
+          external_ids:
+            isrc: GB5KW2203255
+          external_urls:
+            spotify: https://open.spotify.com/track/5d6jxZk9ghMBGpTOgfiWAD
+          href: https://api.spotify.com/v1/tracks/5d6jxZk9ghMBGpTOgfiWAD
+          id: 5d6jxZk9ghMBGpTOgfiWAD
+          is_local: false
+          is_playable: true
+          name: Standing in the Doorway - 2023 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:5d6jxZk9ghMBGpTOgfiWAD
+    isrc: GB5KW2203255

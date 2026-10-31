@@ -5,7 +5,7 @@ trackData:
   album: Sunset Park (Original Motion Picture Soundtrack)
   genre: Hip-Hop
   year: 1996
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 247.54
     fingerprint: 
@@ -32,3 +32,190 @@ trackIdData:
         firstReleaseDate: '1996-04-23'
       score: 0.9723101
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1MRYInPIjvsRdxvPF3M0wb
+    trackId: 1MRYInPIjvsRdxvPF3M0wb
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ATWB519805201&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp
+              href: https://api.spotify.com/v1/artists/6noxsCszBEEK04kCehugOp
+              id: 6noxsCszBEEK04kCehugOp
+              name: A-Mei Chang
+              type: artist
+              uri: spotify:artist:6noxsCszBEEK04kCehugOp
+            external_urls:
+              spotify: https://open.spotify.com/album/4tVooG0SFq94W3Qn5woHgC
+            href: https://api.spotify.com/v1/albums/4tVooG0SFq94W3Qn5woHgC
+            id: 4tVooG0SFq94W3Qn5woHgC
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273eb5f0ccf1b31e385c2383f44
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02eb5f0ccf1b31e385c2383f44
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851eb5f0ccf1b31e385c2383f44
+            is_playable: true
+            name: 牽手
+            release_date: '1998-10-12'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4tVooG0SFq94W3Qn5woHgC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp
+            href: https://api.spotify.com/v1/artists/6noxsCszBEEK04kCehugOp
+            id: 6noxsCszBEEK04kCehugOp
+            name: A-Mei Chang
+            type: artist
+            uri: spotify:artist:6noxsCszBEEK04kCehugOp
+          disc_number: 1
+          duration_ms: 242786
+          explicit: false
+          external_ids:
+            isrc: TWB519805201
+          external_urls:
+            spotify: https://open.spotify.com/track/1MRYInPIjvsRdxvPF3M0wb
+          href: https://api.spotify.com/v1/tracks/1MRYInPIjvsRdxvPF3M0wb
+          id: 1MRYInPIjvsRdxvPF3M0wb
+          is_local: false
+          is_playable: true
+          name: ARE YOU READY
+          track_number: 1
+          type: track
+          uri: spotify:track:1MRYInPIjvsRdxvPF3M0wb
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp
+              href: https://api.spotify.com/v1/artists/6noxsCszBEEK04kCehugOp
+              id: 6noxsCszBEEK04kCehugOp
+              name: A-Mei Chang
+              type: artist
+              uri: spotify:artist:6noxsCszBEEK04kCehugOp
+            external_urls:
+              spotify: https://open.spotify.com/album/2DoTgBLryZcfAlREuEXg8b
+            href: https://api.spotify.com/v1/albums/2DoTgBLryZcfAlREuEXg8b
+            id: 2DoTgBLryZcfAlREuEXg8b
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273904376076765467afbee2a87
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02904376076765467afbee2a87
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851904376076765467afbee2a87
+            is_playable: true
+            name: 妹力最精選1996-2002BEST
+            release_date: '2002-10-11'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:2DoTgBLryZcfAlREuEXg8b
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp
+            href: https://api.spotify.com/v1/artists/6noxsCszBEEK04kCehugOp
+            id: 6noxsCszBEEK04kCehugOp
+            name: A-Mei Chang
+            type: artist
+            uri: spotify:artist:6noxsCszBEEK04kCehugOp
+          disc_number: 2
+          duration_ms: 241666
+          explicit: false
+          external_ids:
+            isrc: TWB519805201
+          external_urls:
+            spotify: https://open.spotify.com/track/4Hu0hwcX4x37x6Er5v5rYE
+          href: https://api.spotify.com/v1/tracks/4Hu0hwcX4x37x6Er5v5rYE
+          id: 4Hu0hwcX4x37x6Er5v5rYE
+          is_local: false
+          is_playable: true
+          name: ARE YOU READY
+          track_number: 1
+          type: track
+          uri: spotify:track:4Hu0hwcX4x37x6Er5v5rYE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3LefT7hR0PJgShJNQoPns5
+              href: https://api.spotify.com/v1/artists/3LefT7hR0PJgShJNQoPns5
+              id: 3LefT7hR0PJgShJNQoPns5
+              name: Zhang Yu Sheng
+              type: artist
+              uri: spotify:artist:3LefT7hR0PJgShJNQoPns5
+            external_urls:
+              spotify: https://open.spotify.com/album/5JYRVpwwtbuk06p4kxaYcI
+            href: https://api.spotify.com/v1/albums/5JYRVpwwtbuk06p4kxaYcI
+            id: 5JYRVpwwtbuk06p4kxaYcI
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273155d2f0ca8a0fcbf5b375a06
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02155d2f0ca8a0fcbf5b375a06
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851155d2f0ca8a0fcbf5b375a06
+            is_playable: true
+            name: 如燕盤旋而來的思念 張雨生全創作精選典藏 1966-1997
+            release_date: '2008-02-27'
+            release_date_precision: day
+            total_tracks: 106
+            type: album
+            uri: spotify:album:5JYRVpwwtbuk06p4kxaYcI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp
+            href: https://api.spotify.com/v1/artists/6noxsCszBEEK04kCehugOp
+            id: 6noxsCszBEEK04kCehugOp
+            name: A-Mei Chang
+            type: artist
+            uri: spotify:artist:6noxsCszBEEK04kCehugOp
+          disc_number: 7
+          duration_ms: 243040
+          explicit: false
+          external_ids:
+            isrc: TWB519805201
+          external_urls:
+            spotify: https://open.spotify.com/track/5KaFVnaN5FNq6vkEYYJwnt
+          href: https://api.spotify.com/v1/tracks/5KaFVnaN5FNq6vkEYYJwnt
+          id: 5KaFVnaN5FNq6vkEYYJwnt
+          is_local: false
+          is_playable: true
+          name: ARE YOU READY
+          track_number: 3
+          type: track
+          uri: spotify:track:5KaFVnaN5FNq6vkEYYJwnt
+    isrc: TWB519805201

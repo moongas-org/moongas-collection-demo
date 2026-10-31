@@ -119,3 +119,304 @@ mediaFileData:
         firstReleaseDate: '1984'
       score: 0.94867486
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g
+    trackId: 5VBcEJ4mtXTmVEJtc7hx2g
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE10100264&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT
+              href: https://api.spotify.com/v1/artists/2VUiF0VFkXzB0DLg9AzrqT
+              id: 2VUiF0VFkXzB0DLg9AzrqT
+              name: Maria Muldaur
+              type: artist
+              uri: spotify:artist:2VUiF0VFkXzB0DLg9AzrqT
+            external_urls:
+              spotify: https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC
+            href: https://api.spotify.com/v1/albums/63Yg3UQS5VcHutEskCmFPC
+            id: 63Yg3UQS5VcHutEskCmFPC
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273cafa40bd320598b29ff4f87c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02cafa40bd320598b29ff4f87c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851cafa40bd320598b29ff4f87c
+            is_playable: true
+            name: Maria Muldaur
+            release_date: '1973'
+            release_date_precision: year
+            total_tracks: 11
+            type: album
+            uri: spotify:album:63Yg3UQS5VcHutEskCmFPC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT
+            href: https://api.spotify.com/v1/artists/2VUiF0VFkXzB0DLg9AzrqT
+            id: 2VUiF0VFkXzB0DLg9AzrqT
+            name: Maria Muldaur
+            type: artist
+            uri: spotify:artist:2VUiF0VFkXzB0DLg9AzrqT
+          disc_number: 1
+          duration_ms: 229506
+          explicit: false
+          external_ids:
+            isrc: USRE10100264
+          external_urls:
+            spotify: https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g
+          href: https://api.spotify.com/v1/tracks/5VBcEJ4mtXTmVEJtc7hx2g
+          id: 5VBcEJ4mtXTmVEJtc7hx2g
+          is_local: false
+          is_playable: true
+          name: Midnight at the Oasis
+          track_number: 2
+          type: track
+          uri: spotify:track:5VBcEJ4mtXTmVEJtc7hx2g
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0ZIgJnxnTovScw5XYjA7xn
+            href: https://api.spotify.com/v1/albums/0ZIgJnxnTovScw5XYjA7xn
+            id: 0ZIgJnxnTovScw5XYjA7xn
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a1cd2c63db375d4c5ccd3b1d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a1cd2c63db375d4c5ccd3b1d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a1cd2c63db375d4c5ccd3b1d
+            is_playable: true
+            name: Yacht Rock Hits
+            release_date: '2023-01-12'
+            release_date_precision: day
+            total_tracks: 75
+            type: album
+            uri: spotify:album:0ZIgJnxnTovScw5XYjA7xn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT
+            href: https://api.spotify.com/v1/artists/2VUiF0VFkXzB0DLg9AzrqT
+            id: 2VUiF0VFkXzB0DLg9AzrqT
+            name: Maria Muldaur
+            type: artist
+            uri: spotify:artist:2VUiF0VFkXzB0DLg9AzrqT
+          disc_number: 1
+          duration_ms: 229506
+          explicit: false
+          external_ids:
+            isrc: USRE10100264
+          external_urls:
+            spotify: https://open.spotify.com/track/2zCZGbIcvfyGZMcuZCLmOa
+          href: https://api.spotify.com/v1/tracks/2zCZGbIcvfyGZMcuZCLmOa
+          id: 2zCZGbIcvfyGZMcuZCLmOa
+          is_local: false
+          is_playable: true
+          name: Midnight at the Oasis
+          track_number: 70
+          type: track
+          uri: spotify:track:2zCZGbIcvfyGZMcuZCLmOa
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1MucC2dCf7UDi8zXETsCwV
+            href: https://api.spotify.com/v1/albums/1MucC2dCf7UDi8zXETsCwV
+            id: 1MucC2dCf7UDi8zXETsCwV
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733d55861025c0ff3c98fe6ccc
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023d55861025c0ff3c98fe6ccc
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513d55861025c0ff3c98fe6ccc
+            is_playable: true
+            name: 70s Hits - Best 70s Music
+            release_date: '2024-11-09'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:1MucC2dCf7UDi8zXETsCwV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT
+            href: https://api.spotify.com/v1/artists/2VUiF0VFkXzB0DLg9AzrqT
+            id: 2VUiF0VFkXzB0DLg9AzrqT
+            name: Maria Muldaur
+            type: artist
+            uri: spotify:artist:2VUiF0VFkXzB0DLg9AzrqT
+          disc_number: 1
+          duration_ms: 229506
+          explicit: false
+          external_ids:
+            isrc: USRE10100264
+          external_urls:
+            spotify: https://open.spotify.com/track/0PwtyIjBiF5LeG986XRoHB
+          href: https://api.spotify.com/v1/tracks/0PwtyIjBiF5LeG986XRoHB
+          id: 0PwtyIjBiF5LeG986XRoHB
+          is_local: false
+          is_playable: true
+          name: Midnight at the Oasis
+          track_number: 60
+          type: track
+          uri: spotify:track:0PwtyIjBiF5LeG986XRoHB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1B6ULd8dLy04YJrymFxyL8
+            href: https://api.spotify.com/v1/albums/1B6ULd8dLy04YJrymFxyL8
+            id: 1B6ULd8dLy04YJrymFxyL8
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730daf173afe758bbb85e31ae4
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020daf173afe758bbb85e31ae4
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510daf173afe758bbb85e31ae4
+            is_playable: true
+            name: 70s Soft Rock
+            release_date: '2017-02-14'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:1B6ULd8dLy04YJrymFxyL8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT
+            href: https://api.spotify.com/v1/artists/2VUiF0VFkXzB0DLg9AzrqT
+            id: 2VUiF0VFkXzB0DLg9AzrqT
+            name: Maria Muldaur
+            type: artist
+            uri: spotify:artist:2VUiF0VFkXzB0DLg9AzrqT
+          disc_number: 1
+          duration_ms: 229506
+          explicit: false
+          external_ids:
+            isrc: USRE10100264
+          external_urls:
+            spotify: https://open.spotify.com/track/76iLSh1jfbRHMNRzNPtlmw
+          href: https://api.spotify.com/v1/tracks/76iLSh1jfbRHMNRzNPtlmw
+          id: 76iLSh1jfbRHMNRzNPtlmw
+          is_local: false
+          is_playable: true
+          name: Midnight at the Oasis
+          track_number: 4
+          type: track
+          uri: spotify:track:76iLSh1jfbRHMNRzNPtlmw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3N8mBG9DvFq93X6efNxH0i
+            href: https://api.spotify.com/v1/albums/3N8mBG9DvFq93X6efNxH0i
+            id: 3N8mBG9DvFq93X6efNxH0i
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730b79e7da3d434a44145ae179
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020b79e7da3d434a44145ae179
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510b79e7da3d434a44145ae179
+            is_playable: true
+            name: 70s HITS - 100 Greatest Songs of the 1970s
+            release_date: '2023-11-04'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:3N8mBG9DvFq93X6efNxH0i
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT
+            href: https://api.spotify.com/v1/artists/2VUiF0VFkXzB0DLg9AzrqT
+            id: 2VUiF0VFkXzB0DLg9AzrqT
+            name: Maria Muldaur
+            type: artist
+            uri: spotify:artist:2VUiF0VFkXzB0DLg9AzrqT
+          disc_number: 1
+          duration_ms: 229506
+          explicit: false
+          external_ids:
+            isrc: USRE10100264
+          external_urls:
+            spotify: https://open.spotify.com/track/2OjY1f7qSibXLsnjgpWrGW
+          href: https://api.spotify.com/v1/tracks/2OjY1f7qSibXLsnjgpWrGW
+          id: 2OjY1f7qSibXLsnjgpWrGW
+          is_local: false
+          is_playable: true
+          name: Midnight at the Oasis
+          track_number: 72
+          type: track
+          uri: spotify:track:2OjY1f7qSibXLsnjgpWrGW
+    isrc: USRE10100264

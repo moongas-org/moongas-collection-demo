@@ -54,3 +54,76 @@ mediaFileData:
         firstReleaseDate: '1992-09-29'
       score: 0.9087553
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/65HKXd61Lp2HffCrPzz7cs
+    trackId: 65HKXd61Lp2HffCrPzz7cs
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA28700795&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk
+              href: https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk
+              id: 6QtGlUje9TIkLrgPZrESuk
+              name: Steve Miller Band
+              type: artist
+              uri: spotify:artist:6QtGlUje9TIkLrgPZrESuk
+            external_urls:
+              spotify: https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd
+            href: https://api.spotify.com/v1/albums/36G9sqbDXXbE7Mv9GTDMXd
+            id: 36G9sqbDXXbE7Mv9GTDMXd
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730d9826176c32372e81a8a6cf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020d9826176c32372e81a8a6cf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510d9826176c32372e81a8a6cf
+            is_playable: true
+            name: Book Of Dreams
+            release_date: '1977-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:36G9sqbDXXbE7Mv9GTDMXd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk
+            href: https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk
+            id: 6QtGlUje9TIkLrgPZrESuk
+            name: Steve Miller Band
+            type: artist
+            uri: spotify:artist:6QtGlUje9TIkLrgPZrESuk
+          disc_number: 1
+          duration_ms: 152426
+          explicit: false
+          external_ids:
+            isrc: USCA28700795
+          external_urls:
+            spotify: https://open.spotify.com/track/65HKXd61Lp2HffCrPzz7cs
+          href: https://api.spotify.com/v1/tracks/65HKXd61Lp2HffCrPzz7cs
+          id: 65HKXd61Lp2HffCrPzz7cs
+          is_local: false
+          is_playable: true
+          name: Babes In The Wood
+          track_number: 12
+          type: track
+          uri: spotify:track:65HKXd61Lp2HffCrPzz7cs
+    isrc: USCA28700795

@@ -5,7 +5,7 @@ trackData:
   album: Whatever People Say I Am, That's What I'm Not
   genre: Indie Rock
   year: 2006
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 218.31
     fingerprint: 
@@ -46,3 +46,133 @@ trackIdData:
         firstReleaseDate: '2005'
       score: 0.90859044
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5eyTC5GZzpzlN7YRO9AoPf
+    trackId: 5eyTC5GZzpzlN7YRO9AoPf
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0501180&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+              href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+              id: 7Ln80lUS6He07XvHI8qqHH
+              name: Arctic Monkeys
+              type: artist
+              uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+            external_urls:
+              spotify: https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1
+            href: https://api.spotify.com/v1/albums/50Zz8CkIhATKUlQMbHO3k1
+            id: 50Zz8CkIhATKUlQMbHO3k1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
+            is_playable: true
+            name: Whatever People Say I Am, That's What I'm Not
+            release_date: '2006-01-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:50Zz8CkIhATKUlQMbHO3k1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+            href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+            id: 7Ln80lUS6He07XvHI8qqHH
+            name: Arctic Monkeys
+            type: artist
+            uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+          disc_number: 1
+          duration_ms: 222946
+          explicit: false
+          external_ids:
+            isrc: GBCEL0501180
+          external_urls:
+            spotify: https://open.spotify.com/track/5eyTC5GZzpzlN7YRO9AoPf
+          href: https://api.spotify.com/v1/tracks/5eyTC5GZzpzlN7YRO9AoPf
+          id: 5eyTC5GZzpzlN7YRO9AoPf
+          is_local: false
+          is_playable: true
+          name: The View From The Afternoon
+          track_number: 1
+          type: track
+          uri: spotify:track:5eyTC5GZzpzlN7YRO9AoPf
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+              href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+              id: 7Ln80lUS6He07XvHI8qqHH
+              name: Arctic Monkeys
+              type: artist
+              uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+            external_urls:
+              spotify: https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb
+            href: https://api.spotify.com/v1/albums/3tEGBDGnejHf4mx1YSqKnb
+            id: 3tEGBDGnejHf4mx1YSqKnb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734fe0b5be5a42d53d5bc645f7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024fe0b5be5a42d53d5bc645f7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514fe0b5be5a42d53d5bc645f7
+            is_playable: true
+            name: Who The F*** Are Arctic Monkeys?
+            release_date: '2006-04-22'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:3tEGBDGnejHf4mx1YSqKnb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+            href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+            id: 7Ln80lUS6He07XvHI8qqHH
+            name: Arctic Monkeys
+            type: artist
+            uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+          disc_number: 1
+          duration_ms: 222946
+          explicit: false
+          external_ids:
+            isrc: GBCEL0501180
+          external_urls:
+            spotify: https://open.spotify.com/track/7tQS3ubhSV2EenrYAAHTlq
+          href: https://api.spotify.com/v1/tracks/7tQS3ubhSV2EenrYAAHTlq
+          id: 7tQS3ubhSV2EenrYAAHTlq
+          is_local: false
+          is_playable: true
+          name: The View From The Afternoon
+          track_number: 1
+          type: track
+          uri: spotify:track:7tQS3ubhSV2EenrYAAHTlq
+    isrc: GBCEL0501180

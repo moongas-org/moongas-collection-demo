@@ -5,7 +5,7 @@ trackData:
   album: In My Tribe
   genre: Alternative Rock
   year: 1987
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 206.5
     fingerprint: 
@@ -33,3 +33,134 @@ trackIdData:
         firstReleaseDate: '1986'
       score: 0.9764636
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3jJDFiNmHsU18FxvklXwIK
+    trackId: 3jJDFiNmHsU18FxvklXwIK
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE19901214&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj
+              href: https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj
+              id: 0MBIKH9DjtBkv8O3nS6szj
+              name: 10,000 Maniacs
+              type: artist
+              uri: spotify:artist:0MBIKH9DjtBkv8O3nS6szj
+            external_urls:
+              spotify: https://open.spotify.com/album/1CLpXneJv4okGKLwp7LKh8
+            href: https://api.spotify.com/v1/albums/1CLpXneJv4okGKLwp7LKh8
+            id: 1CLpXneJv4okGKLwp7LKh8
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273398c24b4d606cafe4c2235e4
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02398c24b4d606cafe4c2235e4
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851398c24b4d606cafe4c2235e4
+            is_playable: true
+            name: In My Tribe
+            release_date: '1987-07-27'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1CLpXneJv4okGKLwp7LKh8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj
+            href: https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj
+            id: 0MBIKH9DjtBkv8O3nS6szj
+            name: 10,000 Maniacs
+            type: artist
+            uri: spotify:artist:0MBIKH9DjtBkv8O3nS6szj
+          disc_number: 1
+          duration_ms: 206413
+          explicit: false
+          external_ids:
+            isrc: USEE19901214
+          external_urls:
+            spotify: https://open.spotify.com/track/3jJDFiNmHsU18FxvklXwIK
+          href: https://api.spotify.com/v1/tracks/3jJDFiNmHsU18FxvklXwIK
+          id: 3jJDFiNmHsU18FxvklXwIK
+          is_local: false
+          is_playable: true
+          name: Hey Jack Kerouac
+          track_number: 2
+          type: track
+          uri: spotify:track:3jJDFiNmHsU18FxvklXwIK
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj
+              href: https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj
+              id: 0MBIKH9DjtBkv8O3nS6szj
+              name: 10,000 Maniacs
+              type: artist
+              uri: spotify:artist:0MBIKH9DjtBkv8O3nS6szj
+            external_urls:
+              spotify: https://open.spotify.com/album/2hU57PGB4z8FY2L8N6aRfm
+            href: https://api.spotify.com/v1/albums/2hU57PGB4z8FY2L8N6aRfm
+            id: 2hU57PGB4z8FY2L8N6aRfm
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273fbcf6b488a0e2dffea4264bf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02fbcf6b488a0e2dffea4264bf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851fbcf6b488a0e2dffea4264bf
+            is_playable: true
+            name: 'Campfire Songs: The Popular, Obscure and Unknown Recordings of
+              10,000 Maniacs'
+            release_date: '2004-02-17'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:2hU57PGB4z8FY2L8N6aRfm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj
+            href: https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj
+            id: 0MBIKH9DjtBkv8O3nS6szj
+            name: 10,000 Maniacs
+            type: artist
+            uri: spotify:artist:0MBIKH9DjtBkv8O3nS6szj
+          disc_number: 1
+          duration_ms: 206240
+          explicit: false
+          external_ids:
+            isrc: USEE19901214
+          external_urls:
+            spotify: https://open.spotify.com/track/64Nw1SYE9PgTg7EiRYYKJn
+          href: https://api.spotify.com/v1/tracks/64Nw1SYE9PgTg7EiRYYKJn
+          id: 64Nw1SYE9PgTg7EiRYYKJn
+          is_local: false
+          is_playable: true
+          name: Hey Jack Kerouac
+          track_number: 8
+          type: track
+          uri: spotify:track:64Nw1SYE9PgTg7EiRYYKJn
+    isrc: USEE19901214

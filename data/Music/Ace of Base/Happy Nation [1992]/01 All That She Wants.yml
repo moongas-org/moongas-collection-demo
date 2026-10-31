@@ -168,3 +168,190 @@ mediaFileData:
         firstReleaseDate: 1992-10
       score: 0.95342165
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2pMrptw5lkxCWKAIuUgGZt
+    trackId: 2pMrptw5lkxCWKAIuUgGZt
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ASEVJH0803401&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+              href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+              id: 5ksRONqssB7BR161NTtJAm
+              name: Ace of Base
+              type: artist
+              uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+            external_urls:
+              spotify: https://open.spotify.com/album/1Gb5Yu7Ra8Q5g4Ka8yL6sq
+            href: https://api.spotify.com/v1/albums/1Gb5Yu7Ra8Q5g4Ka8yL6sq
+            id: 1Gb5Yu7Ra8Q5g4Ka8yL6sq
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731947ea675100ded194b52d88
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021947ea675100ded194b52d88
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511947ea675100ded194b52d88
+            is_playable: true
+            name: All That She Wants (The Remixes)
+            release_date: '1992-01-01'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:1Gb5Yu7Ra8Q5g4Ka8yL6sq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+            href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+            id: 5ksRONqssB7BR161NTtJAm
+            name: Ace of Base
+            type: artist
+            uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+          disc_number: 1
+          duration_ms: 211213
+          explicit: false
+          external_ids:
+            isrc: SEVJH0803401
+          external_urls:
+            spotify: https://open.spotify.com/track/2pMrptw5lkxCWKAIuUgGZt
+          href: https://api.spotify.com/v1/tracks/2pMrptw5lkxCWKAIuUgGZt
+          id: 2pMrptw5lkxCWKAIuUgGZt
+          is_local: false
+          is_playable: true
+          name: All That She Wants
+          track_number: 1
+          type: track
+          uri: spotify:track:2pMrptw5lkxCWKAIuUgGZt
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+              href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+              id: 5ksRONqssB7BR161NTtJAm
+              name: Ace of Base
+              type: artist
+              uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+            external_urls:
+              spotify: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+            href: https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB
+            id: 5UwIyIyFzkM7wKeGtRJPgB
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02fda5556cb6981c3113df6175
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851fda5556cb6981c3113df6175
+            is_playable: true
+            name: The Sign
+            release_date: '1993-12-24'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5UwIyIyFzkM7wKeGtRJPgB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+            href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+            id: 5ksRONqssB7BR161NTtJAm
+            name: Ace of Base
+            type: artist
+            uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+          disc_number: 1
+          duration_ms: 211213
+          explicit: false
+          external_ids:
+            isrc: SEVJH0803401
+          external_urls:
+            spotify: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+          href: https://api.spotify.com/v1/tracks/6kWJvPfC4DgUpRsXKNa9z9
+          id: 6kWJvPfC4DgUpRsXKNa9z9
+          is_local: false
+          is_playable: true
+          name: All That She Wants
+          track_number: 1
+          type: track
+          uri: spotify:track:6kWJvPfC4DgUpRsXKNa9z9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+              href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+              id: 5ksRONqssB7BR161NTtJAm
+              name: Ace of Base
+              type: artist
+              uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+            external_urls:
+              spotify: https://open.spotify.com/album/3vVufGZuCaeIUW866CxXOI
+            href: https://api.spotify.com/v1/albums/3vVufGZuCaeIUW866CxXOI
+            id: 3vVufGZuCaeIUW866CxXOI
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273912b87d020b025cd190aa39d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02912b87d020b025cd190aa39d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851912b87d020b025cd190aa39d
+            is_playable: true
+            name: Beautiful Life - The Singles Box
+            release_date: '2023-04-28'
+            release_date_precision: day
+            total_tracks: 314
+            type: album
+            uri: spotify:album:3vVufGZuCaeIUW866CxXOI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+            href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+            id: 5ksRONqssB7BR161NTtJAm
+            name: Ace of Base
+            type: artist
+            uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+          disc_number: 2
+          duration_ms: 211213
+          explicit: false
+          external_ids:
+            isrc: SEVJH0803401
+          external_urls:
+            spotify: https://open.spotify.com/track/4gJzk92qsTYmfdUJ5CgiPd
+          href: https://api.spotify.com/v1/tracks/4gJzk92qsTYmfdUJ5CgiPd
+          id: 4gJzk92qsTYmfdUJ5CgiPd
+          is_local: false
+          is_playable: true
+          name: All That She Wants
+          track_number: 1
+          type: track
+          uri: spotify:track:4gJzk92qsTYmfdUJ5CgiPd
+    isrc: SEVJH0803401

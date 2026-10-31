@@ -95,3 +95,133 @@ mediaFileData:
         firstReleaseDate: '1997-02-11'
       score: 0.9637724
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2KkRz2yerykxaxF5tQaKq8
+    trackId: 2KkRz2yerykxaxF5tQaKq8
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10000215&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+              href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+              id: 7Ey4PD4MYsKc5I2dolUwbH
+              name: Aerosmith
+              type: artist
+              uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+            external_urls:
+              spotify: https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC
+            href: https://api.spotify.com/v1/albums/5Z3bU10WcD9JOt98mui7DC
+            id: 5Z3bU10WcD9JOt98mui7DC
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732252eb939eee53f33fab866b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022252eb939eee53f33fab866b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512252eb939eee53f33fab866b
+            is_playable: true
+            name: Greatest Hits (Deluxe)
+            release_date: '2023-08-18'
+            release_date_precision: day
+            total_tracks: 44
+            type: album
+            uri: spotify:album:5Z3bU10WcD9JOt98mui7DC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 2
+          duration_ms: 203123
+          explicit: false
+          external_ids:
+            isrc: USSM10000215
+          external_urls:
+            spotify: https://open.spotify.com/track/2KkRz2yerykxaxF5tQaKq8
+          href: https://api.spotify.com/v1/tracks/2KkRz2yerykxaxF5tQaKq8
+          id: 2KkRz2yerykxaxF5tQaKq8
+          is_local: false
+          is_playable: true
+          name: Draw The Line
+          track_number: 4
+          type: track
+          uri: spotify:track:2KkRz2yerykxaxF5tQaKq8
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+              href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+              id: 7Ey4PD4MYsKc5I2dolUwbH
+              name: Aerosmith
+              type: artist
+              uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+            external_urls:
+              spotify: https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd
+            href: https://api.spotify.com/v1/albums/3Qb7LY8ePk29MqQmnFhzUd
+            id: 3Qb7LY8ePk29MqQmnFhzUd
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736a025154c73c41e501813d59
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026a025154c73c41e501813d59
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516a025154c73c41e501813d59
+            is_playable: true
+            name: Draw The Line
+            release_date: '1977-12-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:3Qb7LY8ePk29MqQmnFhzUd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 204059
+          explicit: false
+          external_ids:
+            isrc: USSM10000215
+          external_urls:
+            spotify: https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC
+          href: https://api.spotify.com/v1/tracks/27vuAmVFj4OJMDxFYaluTC
+          id: 27vuAmVFj4OJMDxFYaluTC
+          is_local: false
+          is_playable: true
+          name: Draw The Line
+          track_number: 1
+          type: track
+          uri: spotify:track:27vuAmVFj4OJMDxFYaluTC
+    isrc: USSM10000215

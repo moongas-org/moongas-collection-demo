@@ -31,3 +31,76 @@ mediaFileData:
         firstReleaseDate: '2004'
       score: 0.9758043
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ
+    trackId: 0hAMkY2kwdXPPDfQ1e3BmJ
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0501183&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+              href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+              id: 7Ln80lUS6He07XvHI8qqHH
+              name: Arctic Monkeys
+              type: artist
+              uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+            external_urls:
+              spotify: https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1
+            href: https://api.spotify.com/v1/albums/50Zz8CkIhATKUlQMbHO3k1
+            id: 50Zz8CkIhATKUlQMbHO3k1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
+            is_playable: true
+            name: Whatever People Say I Am, That's What I'm Not
+            release_date: '2006-01-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:50Zz8CkIhATKUlQMbHO3k1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+            href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+            id: 7Ln80lUS6He07XvHI8qqHH
+            name: Arctic Monkeys
+            type: artist
+            uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+          disc_number: 1
+          duration_ms: 141133
+          explicit: false
+          external_ids:
+            isrc: GBCEL0501183
+          external_urls:
+            spotify: https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ
+          href: https://api.spotify.com/v1/tracks/0hAMkY2kwdXPPDfQ1e3BmJ
+          id: 0hAMkY2kwdXPPDfQ1e3BmJ
+          is_local: false
+          is_playable: true
+          name: Dancing Shoes
+          track_number: 4
+          type: track
+          uri: spotify:track:0hAMkY2kwdXPPDfQ1e3BmJ
+    isrc: GBCEL0501183

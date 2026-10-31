@@ -252,3 +252,304 @@ mediaFileData:
         firstReleaseDate: '2017-09-29'
       score: 0.9794304
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2s62RFLcR243oTMpIqKteQ
+    trackId: 2s62RFLcR243oTMpIqKteQ
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11600696&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5JcfELhvmNFCWKiI9BbhUm
+            href: https://api.spotify.com/v1/albums/5JcfELhvmNFCWKiI9BbhUm
+            id: 5JcfELhvmNFCWKiI9BbhUm
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739c6a80ff47f14288c98f5fc7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029c6a80ff47f14288c98f5fc7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519c6a80ff47f14288c98f5fc7
+            is_playable: true
+            name: 80s Music
+            release_date: '2023-05-25'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:5JcfELhvmNFCWKiI9BbhUm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 227600
+          explicit: false
+          external_ids:
+            isrc: USRH11600696
+          external_urls:
+            spotify: https://open.spotify.com/track/2s62RFLcR243oTMpIqKteQ
+          href: https://api.spotify.com/v1/tracks/2s62RFLcR243oTMpIqKteQ
+          id: 2s62RFLcR243oTMpIqKteQ
+          is_local: false
+          is_playable: true
+          name: Take On Me
+          track_number: 4
+          type: track
+          uri: spotify:track:2s62RFLcR243oTMpIqKteQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+              href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+              id: 2jzc5TC5TVFLXQlBNiIUzE
+              name: a-ha
+              type: artist
+              uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+            external_urls:
+              spotify: https://open.spotify.com/album/7ubkBvBT9AJifbLIIWUWnx
+            href: https://api.spotify.com/v1/albums/7ubkBvBT9AJifbLIIWUWnx
+            id: 7ubkBvBT9AJifbLIIWUWnx
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734f1272117af674b7d35f4a42
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024f1272117af674b7d35f4a42
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514f1272117af674b7d35f4a42
+            is_playable: true
+            name: 'Time and Again: The Ultimate a-ha'
+            release_date: '2016-03-18'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:7ubkBvBT9AJifbLIIWUWnx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 227600
+          explicit: false
+          external_ids:
+            isrc: USRH11600696
+          external_urls:
+            spotify: https://open.spotify.com/track/7CO5PoqewhenbV3RpifBAC
+          href: https://api.spotify.com/v1/tracks/7CO5PoqewhenbV3RpifBAC
+          id: 7CO5PoqewhenbV3RpifBAC
+          is_local: false
+          is_playable: true
+          name: Take on Me - 2016 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:7CO5PoqewhenbV3RpifBAC
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+              href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+              id: 2jzc5TC5TVFLXQlBNiIUzE
+              name: a-ha
+              type: artist
+              uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+            external_urls:
+              spotify: https://open.spotify.com/album/0Fb7Kw0fzkbWdxVLZH6Zx4
+            href: https://api.spotify.com/v1/albums/0Fb7Kw0fzkbWdxVLZH6Zx4
+            id: 0Fb7Kw0fzkbWdxVLZH6Zx4
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e5a4a2be587ca7507c90bf9a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e5a4a2be587ca7507c90bf9a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e5a4a2be587ca7507c90bf9a
+            is_playable: true
+            name: Greatest Hits - Japanese Singles Collection
+            release_date: '2020-02-26'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:0Fb7Kw0fzkbWdxVLZH6Zx4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 228295
+          explicit: false
+          external_ids:
+            isrc: USRH11600696
+          external_urls:
+            spotify: https://open.spotify.com/track/4ZjuaIZ3BFXXaeatZcHiY8
+          href: https://api.spotify.com/v1/tracks/4ZjuaIZ3BFXXaeatZcHiY8
+          id: 4ZjuaIZ3BFXXaeatZcHiY8
+          is_local: false
+          is_playable: true
+          name: Take on Me - 2016 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:4ZjuaIZ3BFXXaeatZcHiY8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6jKH6DZ6tCuCvpjepbnTqB
+            href: https://api.spotify.com/v1/albums/6jKH6DZ6tCuCvpjepbnTqB
+            id: 6jKH6DZ6tCuCvpjepbnTqB
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f1cf53a733c2e638dd3d8f0f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f1cf53a733c2e638dd3d8f0f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f1cf53a733c2e638dd3d8f0f
+            is_playable: true
+            name: 80's Bangers
+            release_date: '2020-02-14'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:6jKH6DZ6tCuCvpjepbnTqB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 227600
+          explicit: false
+          external_ids:
+            isrc: USRH11600696
+          external_urls:
+            spotify: https://open.spotify.com/track/3Vd0BCnP1VZwuGG3rLSmB8
+          href: https://api.spotify.com/v1/tracks/3Vd0BCnP1VZwuGG3rLSmB8
+          id: 3Vd0BCnP1VZwuGG3rLSmB8
+          is_local: false
+          is_playable: true
+          name: Take On Me
+          track_number: 1
+          type: track
+          uri: spotify:track:3Vd0BCnP1VZwuGG3rLSmB8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1uvb40m2VgJvmJz8QN1yIj
+            href: https://api.spotify.com/v1/albums/1uvb40m2VgJvmJz8QN1yIj
+            id: 1uvb40m2VgJvmJz8QN1yIj
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ca52336c07fe44d04336ba67
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ca52336c07fe44d04336ba67
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ca52336c07fe44d04336ba67
+            is_playable: true
+            name: 80's Pop
+            release_date: '2023-11-23'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:1uvb40m2VgJvmJz8QN1yIj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 227600
+          explicit: false
+          external_ids:
+            isrc: USRH11600696
+          external_urls:
+            spotify: https://open.spotify.com/track/5CtpcLtBHA6XKIv34HU9By
+          href: https://api.spotify.com/v1/tracks/5CtpcLtBHA6XKIv34HU9By
+          id: 5CtpcLtBHA6XKIv34HU9By
+          is_local: false
+          is_playable: true
+          name: Take On Me
+          track_number: 29
+          type: track
+          uri: spotify:track:5CtpcLtBHA6XKIv34HU9By
+    isrc: USRH11600696

@@ -56,3 +56,133 @@ mediaFileData:
       recordings: []
       score: 0.5864292
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1
+    trackId: 09opLVMX7cfKVKlP3iKZR1
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ABEZ350800028&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
+              href: https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG
+              id: 6kBDZFXuLrZgHnvmPu9NsG
+              name: Aphex Twin
+              type: artist
+              uri: spotify:artist:6kBDZFXuLrZgHnvmPu9NsG
+            external_urls:
+              spotify: https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k
+            href: https://api.spotify.com/v1/albums/7aNclGRxTysfh6z0d8671k
+            id: 7aNclGRxTysfh6z0d8671k
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0238906032688bb13b135ce19a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485138906032688bb13b135ce19a
+            is_playable: true
+            name: Selected Ambient Works 85-92
+            release_date: '1992-02-10'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7aNclGRxTysfh6z0d8671k
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
+            href: https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG
+            id: 6kBDZFXuLrZgHnvmPu9NsG
+            name: Aphex Twin
+            type: artist
+            uri: spotify:artist:6kBDZFXuLrZgHnvmPu9NsG
+          disc_number: 1
+          duration_ms: 293800
+          explicit: false
+          external_ids:
+            isrc: BEZ350800028
+          external_urls:
+            spotify: https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1
+          href: https://api.spotify.com/v1/tracks/09opLVMX7cfKVKlP3iKZR1
+          id: 09opLVMX7cfKVKlP3iKZR1
+          is_local: false
+          is_playable: true
+          name: Heliosphan
+          track_number: 7
+          type: track
+          uri: spotify:track:09opLVMX7cfKVKlP3iKZR1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3yAxlfUixL1GxQ27PWmfFX
+            href: https://api.spotify.com/v1/albums/3yAxlfUixL1GxQ27PWmfFX
+            id: 3yAxlfUixL1GxQ27PWmfFX
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273efbdf70f81d635cb95b62bac
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02efbdf70f81d635cb95b62bac
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851efbdf70f81d635cb95b62bac
+            is_playable: true
+            name: 'Apollo: Past, Present, Future'
+            release_date: '2009-09-28'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3yAxlfUixL1GxQ27PWmfFX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
+            href: https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG
+            id: 6kBDZFXuLrZgHnvmPu9NsG
+            name: Aphex Twin
+            type: artist
+            uri: spotify:artist:6kBDZFXuLrZgHnvmPu9NsG
+          disc_number: 1
+          duration_ms: 293800
+          explicit: false
+          external_ids:
+            isrc: BEZ350800028
+          external_urls:
+            spotify: https://open.spotify.com/track/7ExWVYsv3F9TUa8QXQA4Re
+          href: https://api.spotify.com/v1/tracks/7ExWVYsv3F9TUa8QXQA4Re
+          id: 7ExWVYsv3F9TUa8QXQA4Re
+          is_local: false
+          is_playable: true
+          name: Heliosphan
+          track_number: 5
+          type: track
+          uri: spotify:track:7ExWVYsv3F9TUa8QXQA4Re
+    isrc: BEZ350800028

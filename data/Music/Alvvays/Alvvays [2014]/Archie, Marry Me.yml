@@ -44,3 +44,76 @@ mediaFileData:
         firstReleaseDate: '2013'
       score: 0.92296284
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU
+    trackId: 0KVWVuutF9Dn8li4HdyAeU
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS3R41428202&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt
+              href: https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt
+              id: 3kzwYV3OCB010YfXMF0Avt
+              name: Alvvays
+              type: artist
+              uri: spotify:artist:3kzwYV3OCB010YfXMF0Avt
+            external_urls:
+              spotify: https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7
+            href: https://api.spotify.com/v1/albums/1K6TvnkvmnLKPhifmPb6N7
+            id: 1K6TvnkvmnLKPhifmPb6N7
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273c026df4196939fd87a2dc6d8
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02c026df4196939fd87a2dc6d8
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851c026df4196939fd87a2dc6d8
+            is_playable: true
+            name: Alvvays
+            release_date: '2014-07-22'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:1K6TvnkvmnLKPhifmPb6N7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt
+            href: https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt
+            id: 3kzwYV3OCB010YfXMF0Avt
+            name: Alvvays
+            type: artist
+            uri: spotify:artist:3kzwYV3OCB010YfXMF0Avt
+          disc_number: 1
+          duration_ms: 196560
+          explicit: false
+          external_ids:
+            isrc: US3R41428202
+          external_urls:
+            spotify: https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU
+          href: https://api.spotify.com/v1/tracks/0KVWVuutF9Dn8li4HdyAeU
+          id: 0KVWVuutF9Dn8li4HdyAeU
+          is_local: false
+          is_playable: true
+          name: Archie, Marry Me
+          track_number: 2
+          type: track
+          uri: spotify:track:0KVWVuutF9Dn8li4HdyAeU
+    isrc: US3R41428202

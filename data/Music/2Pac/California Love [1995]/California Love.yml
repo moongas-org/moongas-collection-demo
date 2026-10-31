@@ -99,3 +99,83 @@ mediaFileData:
       recordings: []
       score: 0.85542935
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2tF2gNW1JDXYW8IYUkpaYX
+    trackId: 2tF2gNW1JDXYW8IYUkpaYX
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSKO10403841&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0iXJO2ZAfKzNDYa6E4EFfl
+            href: https://api.spotify.com/v1/albums/0iXJO2ZAfKzNDYa6E4EFfl
+            id: 0iXJO2ZAfKzNDYa6E4EFfl
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739322ff440b23b5717ddd8c9b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029322ff440b23b5717ddd8c9b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519322ff440b23b5717ddd8c9b
+            is_playable: true
+            name: Death Row Greatest Hits
+            release_date: '1996-11-26'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:0iXJO2ZAfKzNDYa6E4EFfl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+            href: https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh
+            id: 1ZwdS5xdxEREPySFridCfh
+            name: 2Pac
+            type: artist
+            uri: spotify:artist:1ZwdS5xdxEREPySFridCfh
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC
+            href: https://api.spotify.com/v1/artists/2jp3Fk52x0HbymU0lNYbSC
+            id: 2jp3Fk52x0HbymU0lNYbSC
+            name: Outlawz
+            type: artist
+            uri: spotify:artist:2jp3Fk52x0HbymU0lNYbSC
+          disc_number: 2
+          duration_ms: 315506
+          explicit: true
+          external_ids:
+            isrc: USKO10403841
+          external_urls:
+            spotify: https://open.spotify.com/track/2tF2gNW1JDXYW8IYUkpaYX
+          href: https://api.spotify.com/v1/tracks/2tF2gNW1JDXYW8IYUkpaYX
+          id: 2tF2gNW1JDXYW8IYUkpaYX
+          is_local: false
+          is_playable: true
+          name: Hit Em Up
+          track_number: 8
+          type: track
+          uri: spotify:track:2tF2gNW1JDXYW8IYUkpaYX
+    isrc: USKO10403841

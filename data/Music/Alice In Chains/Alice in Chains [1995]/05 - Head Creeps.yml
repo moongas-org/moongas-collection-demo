@@ -64,3 +64,133 @@ mediaFileData:
         firstReleaseDate: '1995-10-31'
       score: 0.6733584
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2DqW8yTTdOV80e6orwEuJz
+    trackId: 2DqW8yTTdOV80e6orwEuJz
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19501776&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+              href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+              id: 64tNsm6TnZe2zpcMVMOoHL
+              name: Alice In Chains
+              type: artist
+              uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+            external_urls:
+              spotify: https://open.spotify.com/album/1xbCFz18Eq2MJ6PrwKfvNl
+            href: https://api.spotify.com/v1/albums/1xbCFz18Eq2MJ6PrwKfvNl
+            id: 1xbCFz18Eq2MJ6PrwKfvNl
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739d0d468a06610793d3fc5578
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029d0d468a06610793d3fc5578
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519d0d468a06610793d3fc5578
+            is_playable: true
+            name: Music Bank
+            release_date: '1999'
+            release_date_precision: year
+            total_tracks: 48
+            type: album
+            uri: spotify:album:1xbCFz18Eq2MJ6PrwKfvNl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+            href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+            id: 64tNsm6TnZe2zpcMVMOoHL
+            name: Alice In Chains
+            type: artist
+            uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+          disc_number: 3
+          duration_ms: 388573
+          explicit: false
+          external_ids:
+            isrc: USSM19501776
+          external_urls:
+            spotify: https://open.spotify.com/track/2DqW8yTTdOV80e6orwEuJz
+          href: https://api.spotify.com/v1/tracks/2DqW8yTTdOV80e6orwEuJz
+          id: 2DqW8yTTdOV80e6orwEuJz
+          is_local: false
+          is_playable: true
+          name: Head Creeps
+          track_number: 7
+          type: track
+          uri: spotify:track:2DqW8yTTdOV80e6orwEuJz
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+              href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+              id: 64tNsm6TnZe2zpcMVMOoHL
+              name: Alice In Chains
+              type: artist
+              uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+            external_urls:
+              spotify: https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe
+            href: https://api.spotify.com/v1/albums/49R4Qye4UUwzjPPQhtCkRe
+            id: 49R4Qye4UUwzjPPQhtCkRe
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273bdcb34c7c881080832a051e2
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02bdcb34c7c881080832a051e2
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851bdcb34c7c881080832a051e2
+            is_playable: true
+            name: Alice In Chains
+            release_date: '1995-10-30'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:49R4Qye4UUwzjPPQhtCkRe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+            href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+            id: 64tNsm6TnZe2zpcMVMOoHL
+            name: Alice In Chains
+            type: artist
+            uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+          disc_number: 1
+          duration_ms: 388040
+          explicit: false
+          external_ids:
+            isrc: USSM19501776
+          external_urls:
+            spotify: https://open.spotify.com/track/50hFlYpAKyiEDUJnwiZsaT
+          href: https://api.spotify.com/v1/tracks/50hFlYpAKyiEDUJnwiZsaT
+          id: 50hFlYpAKyiEDUJnwiZsaT
+          is_local: false
+          is_playable: true
+          name: Head Creeps
+          track_number: 5
+          type: track
+          uri: spotify:track:50hFlYpAKyiEDUJnwiZsaT
+    isrc: USSM19501776

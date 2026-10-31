@@ -41,3 +41,77 @@ mediaFileData:
       recordings: []
       score: 0.6114188
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6t6L6kLosuIY7Wl9cHnYpS
+    trackId: 6t6L6kLosuIY7Wl9cHnYpS
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19601547&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+              href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+              id: 64tNsm6TnZe2zpcMVMOoHL
+              name: Alice In Chains
+              type: artist
+              uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+            external_urls:
+              spotify: https://open.spotify.com/album/5PdgIAHzwDvTZRjIGSQGtN
+            href: https://api.spotify.com/v1/albums/5PdgIAHzwDvTZRjIGSQGtN
+            id: 5PdgIAHzwDvTZRjIGSQGtN
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f2b6bebda774909d71e0f796
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f2b6bebda774909d71e0f796
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f2b6bebda774909d71e0f796
+            is_playable: true
+            name: Unplugged
+            release_date: '1996-07-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5PdgIAHzwDvTZRjIGSQGtN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL
+            href: https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL
+            id: 64tNsm6TnZe2zpcMVMOoHL
+            name: Alice In Chains
+            type: artist
+            uri: spotify:artist:64tNsm6TnZe2zpcMVMOoHL
+          disc_number: 1
+          duration_ms: 337866
+          explicit: false
+          external_ids:
+            isrc: USSM19601547
+          external_urls:
+            spotify: https://open.spotify.com/track/6t6L6kLosuIY7Wl9cHnYpS
+          href: https://api.spotify.com/v1/tracks/6t6L6kLosuIY7Wl9cHnYpS
+          id: 6t6L6kLosuIY7Wl9cHnYpS
+          is_local: false
+          is_playable: true
+          name: Heaven Beside You - Live at the Majestic Theatre, Brooklyn, NY -
+            April 1996
+          track_number: 9
+          type: track
+          uri: spotify:track:6t6L6kLosuIY7Wl9cHnYpS
+    isrc: USSM19601547

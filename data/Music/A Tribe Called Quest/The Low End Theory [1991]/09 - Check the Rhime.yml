@@ -84,3 +84,133 @@ mediaFileData:
         firstReleaseDate: '1991-09-24'
       score: 0.88643855
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9
+    trackId: 5N5fp1lYSORdZbWanACki9
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJI19000003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU
+            href: https://api.spotify.com/v1/albums/3FAK4h4t9uV4JxzESXllAU
+            id: 3FAK4h4t9uV4JxzESXllAU
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b1ddb9f5f519e0d37bc94a53
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b1ddb9f5f519e0d37bc94a53
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b1ddb9f5f519e0d37bc94a53
+            is_playable: true
+            name: The Anthology
+            release_date: '1999-10-26'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3FAK4h4t9uV4JxzESXllAU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 217240
+          explicit: false
+          external_ids:
+            isrc: USJI19000003
+          external_urls:
+            spotify: https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9
+          href: https://api.spotify.com/v1/tracks/5N5fp1lYSORdZbWanACki9
+          id: 5N5fp1lYSORdZbWanACki9
+          is_local: false
+          is_playable: true
+          name: Bonita Applebum
+          track_number: 2
+          type: track
+          uri: spotify:track:5N5fp1lYSORdZbWanACki9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/5ixIb78OVWTRefUrjV7WYK
+            href: https://api.spotify.com/v1/albums/5ixIb78OVWTRefUrjV7WYK
+            id: 5ixIb78OVWTRefUrjV7WYK
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f14f390e39630e93fca4ec00
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f14f390e39630e93fca4ec00
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f14f390e39630e93fca4ec00
+            is_playable: true
+            name: Hits, Rarities & Remixes
+            release_date: '2003-06-17'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:5ixIb78OVWTRefUrjV7WYK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 215826
+          explicit: false
+          external_ids:
+            isrc: USJI19000003
+          external_urls:
+            spotify: https://open.spotify.com/track/5313VQMjcM2w5gTRZtyd6J
+          href: https://api.spotify.com/v1/tracks/5313VQMjcM2w5gTRZtyd6J
+          id: 5313VQMjcM2w5gTRZtyd6J
+          is_local: false
+          is_playable: true
+          name: Bonita Applebum
+          track_number: 13
+          type: track
+          uri: spotify:track:5313VQMjcM2w5gTRZtyd6J
+    isrc: USJI19000003

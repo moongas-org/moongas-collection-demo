@@ -5,7 +5,7 @@ trackData:
   album: Moon Safari
   genre: Electropop
   year: 1998
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 225.41
     fingerprint: 
@@ -37,3 +37,190 @@ trackIdData:
         firstReleaseDate: '1998-01-16'
       score: 0.97715586
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0l7Ytiml6SKflccoKlw96N
+    trackId: 0l7Ytiml6SKflccoKlw96N
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRS639700580&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5AgLnccLcpqgDWFO5stqx1
+            href: https://api.spotify.com/v1/albums/5AgLnccLcpqgDWFO5stqx1
+            id: 5AgLnccLcpqgDWFO5stqx1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27334a5b97b2cf4a688a96bb030
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0234a5b97b2cf4a688a96bb030
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485134a5b97b2cf4a688a96bb030
+            is_playable: true
+            name: 'Electrospective: Electronic Music Since 1958'
+            release_date: '2012-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:5AgLnccLcpqgDWFO5stqx1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ
+            href: https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ
+            id: 1P6U1dCeHxPui5pIrGmndZ
+            name: Air
+            type: artist
+            uri: spotify:artist:1P6U1dCeHxPui5pIrGmndZ
+          disc_number: 1
+          duration_ms: 226693
+          explicit: false
+          external_ids:
+            isrc: FRS639700580
+          external_urls:
+            spotify: https://open.spotify.com/track/0l7Ytiml6SKflccoKlw96N
+          href: https://api.spotify.com/v1/tracks/0l7Ytiml6SKflccoKlw96N
+          id: 0l7Ytiml6SKflccoKlw96N
+          is_local: false
+          is_playable: true
+          name: Kelly Watch The Stars
+          track_number: 9
+          type: track
+          uri: spotify:track:0l7Ytiml6SKflccoKlw96N
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ
+              href: https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ
+              id: 1P6U1dCeHxPui5pIrGmndZ
+              name: Air
+              type: artist
+              uri: spotify:artist:1P6U1dCeHxPui5pIrGmndZ
+            external_urls:
+              spotify: https://open.spotify.com/album/0VWNCCZu9fv2at2jrguhqf
+            href: https://api.spotify.com/v1/albums/0VWNCCZu9fv2at2jrguhqf
+            id: 0VWNCCZu9fv2at2jrguhqf
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27352992793136c88e3426a8e80
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0252992793136c88e3426a8e80
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485152992793136c88e3426a8e80
+            is_playable: true
+            name: Kelly Watch the Stars
+            release_date: '2004-06-11'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:0VWNCCZu9fv2at2jrguhqf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ
+            href: https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ
+            id: 1P6U1dCeHxPui5pIrGmndZ
+            name: Air
+            type: artist
+            uri: spotify:artist:1P6U1dCeHxPui5pIrGmndZ
+          disc_number: 1
+          duration_ms: 226293
+          explicit: false
+          external_ids:
+            isrc: FRS639700580
+          external_urls:
+            spotify: https://open.spotify.com/track/2gc2oNTz5CnEwIlMB5hjSU
+          href: https://api.spotify.com/v1/tracks/2gc2oNTz5CnEwIlMB5hjSU
+          id: 2gc2oNTz5CnEwIlMB5hjSU
+          is_local: false
+          is_playable: true
+          name: Kelly Watch the Stars
+          track_number: 3
+          type: track
+          uri: spotify:track:2gc2oNTz5CnEwIlMB5hjSU
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ
+              href: https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ
+              id: 1P6U1dCeHxPui5pIrGmndZ
+              name: Air
+              type: artist
+              uri: spotify:artist:1P6U1dCeHxPui5pIrGmndZ
+            external_urls:
+              spotify: https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a
+            href: https://api.spotify.com/v1/albums/206GTDefY2qRMQxYXmfb0a
+            id: 206GTDefY2qRMQxYXmfb0a
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737f4dc15877a3c43f611a2709
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027f4dc15877a3c43f611a2709
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517f4dc15877a3c43f611a2709
+            is_playable: true
+            name: Moon Safari
+            release_date: '1998-01-16'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:206GTDefY2qRMQxYXmfb0a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ
+            href: https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ
+            id: 1P6U1dCeHxPui5pIrGmndZ
+            name: Air
+            type: artist
+            uri: spotify:artist:1P6U1dCeHxPui5pIrGmndZ
+          disc_number: 1
+          duration_ms: 226293
+          explicit: false
+          external_ids:
+            isrc: FRS639700580
+          external_urls:
+            spotify: https://open.spotify.com/track/1KNCpsUEi6VdDIBzZ1cMVd
+          href: https://api.spotify.com/v1/tracks/1KNCpsUEi6VdDIBzZ1cMVd
+          id: 1KNCpsUEi6VdDIBzZ1cMVd
+          is_local: false
+          is_playable: true
+          name: Kelly Watch the Stars
+          track_number: 4
+          type: track
+          uri: spotify:track:1KNCpsUEi6VdDIBzZ1cMVd
+    isrc: FRS639700580

@@ -5,7 +5,7 @@ trackData:
   album: Never Take Friendship Personal
   genre: Emo / Pop-Rock
   year: 2005
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 203.13
     fingerprint: 
@@ -32,3 +32,190 @@ trackIdData:
         firstReleaseDate: '2005-02-01'
       score: 0.9856936
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/37oN3JitYjpvTfWSIJJ9ia
+    trackId: 37oN3JitYjpvTfWSIJJ9ia
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSTN10700018&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+              href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+              id: 5v61OSg53KaQxGMpErkBNp
+              name: Anberlin
+              type: artist
+              uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+            external_urls:
+              spotify: https://open.spotify.com/album/3b2DWyOPsqm4fah5U4WelV
+            href: https://api.spotify.com/v1/albums/3b2DWyOPsqm4fah5U4WelV
+            id: 3b2DWyOPsqm4fah5U4WelV
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736856f3eba42298567fb92aaf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026856f3eba42298567fb92aaf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516856f3eba42298567fb92aaf
+            is_playable: true
+            name: The Ultimate Playlist
+            release_date: '2016-01-08'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:3b2DWyOPsqm4fah5U4WelV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+            href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+            id: 5v61OSg53KaQxGMpErkBNp
+            name: Anberlin
+            type: artist
+            uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+          disc_number: 1
+          duration_ms: 202280
+          explicit: false
+          external_ids:
+            isrc: USTN10700018
+          external_urls:
+            spotify: https://open.spotify.com/track/37oN3JitYjpvTfWSIJJ9ia
+          href: https://api.spotify.com/v1/tracks/37oN3JitYjpvTfWSIJJ9ia
+          id: 37oN3JitYjpvTfWSIJJ9ia
+          is_local: false
+          is_playable: true
+          name: Alexithymia
+          track_number: 19
+          type: track
+          uri: spotify:track:37oN3JitYjpvTfWSIJJ9ia
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+              href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+              id: 5v61OSg53KaQxGMpErkBNp
+              name: Anberlin
+              type: artist
+              uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+            external_urls:
+              spotify: https://open.spotify.com/album/4E7OiIG2Pd5l52NrICTPxL
+            href: https://api.spotify.com/v1/albums/4E7OiIG2Pd5l52NrICTPxL
+            id: 4E7OiIG2Pd5l52NrICTPxL
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738804e89d9baea21db4922f83
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028804e89d9baea21db4922f83
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518804e89d9baea21db4922f83
+            is_playable: true
+            name: 'Blueprints For City Friendships: The Anberlin Anthology'
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:4E7OiIG2Pd5l52NrICTPxL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+            href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+            id: 5v61OSg53KaQxGMpErkBNp
+            name: Anberlin
+            type: artist
+            uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+          disc_number: 3
+          duration_ms: 203333
+          explicit: false
+          external_ids:
+            isrc: USTN10700018
+          external_urls:
+            spotify: https://open.spotify.com/track/6mBnBaUMzdO3EoWrtEKmmr
+          href: https://api.spotify.com/v1/tracks/6mBnBaUMzdO3EoWrtEKmmr
+          id: 6mBnBaUMzdO3EoWrtEKmmr
+          is_local: false
+          is_playable: true
+          name: Alexithymia
+          track_number: 8
+          type: track
+          uri: spotify:track:6mBnBaUMzdO3EoWrtEKmmr
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+              href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+              id: 5v61OSg53KaQxGMpErkBNp
+              name: Anberlin
+              type: artist
+              uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+            external_urls:
+              spotify: https://open.spotify.com/album/28nL2dA7iE9IWEcUzzPido
+            href: https://api.spotify.com/v1/albums/28nL2dA7iE9IWEcUzzPido
+            id: 28nL2dA7iE9IWEcUzzPido
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730926fee406f32fc260b831c6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020926fee406f32fc260b831c6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510926fee406f32fc260b831c6
+            is_playable: true
+            name: Cities
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:28nL2dA7iE9IWEcUzzPido
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp
+            href: https://api.spotify.com/v1/artists/5v61OSg53KaQxGMpErkBNp
+            id: 5v61OSg53KaQxGMpErkBNp
+            name: Anberlin
+            type: artist
+            uri: spotify:artist:5v61OSg53KaQxGMpErkBNp
+          disc_number: 1
+          duration_ms: 203333
+          explicit: false
+          external_ids:
+            isrc: USTN10700018
+          external_urls:
+            spotify: https://open.spotify.com/track/7KuiTj4K7vNtkv2Smqi1mO
+          href: https://api.spotify.com/v1/tracks/7KuiTj4K7vNtkv2Smqi1mO
+          id: 7KuiTj4K7vNtkv2Smqi1mO
+          is_local: false
+          is_playable: true
+          name: Alexithymia
+          track_number: 8
+          type: track
+          uri: spotify:track:7KuiTj4K7vNtkv2Smqi1mO
+    isrc: USTN10700018

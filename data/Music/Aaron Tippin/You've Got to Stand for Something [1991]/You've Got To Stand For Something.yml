@@ -5,7 +5,7 @@ trackData:
   album: You've Got To Stand For Something
   genre: Classic Country
   year: 1991
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 180.77
     fingerprint: 
@@ -32,3 +32,190 @@ trackIdData:
         firstReleaseDate: '2015'
       score: 0.94551027
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0ceqDcpfjwH5fhpNwIAwgV
+    trackId: 0ceqDcpfjwH5fhpNwIAwgV
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN19000003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/55g1Wy3CadZCzQ0FgE3q25
+            href: https://api.spotify.com/v1/albums/55g1Wy3CadZCzQ0FgE3q25
+            id: 55g1Wy3CadZCzQ0FgE3q25
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f3aff5e8fe88269d5ba5d3a7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f3aff5e8fe88269d5ba5d3a7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f3aff5e8fe88269d5ba5d3a7
+            is_playable: true
+            name: Patriotic Country 2
+            release_date: '2005-06-14'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:55g1Wy3CadZCzQ0FgE3q25
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M
+            href: https://api.spotify.com/v1/artists/4XwKU420OWVk38vz1KvH3M
+            id: 4XwKU420OWVk38vz1KvH3M
+            name: Aaron Tippin
+            type: artist
+            uri: spotify:artist:4XwKU420OWVk38vz1KvH3M
+          disc_number: 1
+          duration_ms: 182093
+          explicit: false
+          external_ids:
+            isrc: USRN19000003
+          external_urls:
+            spotify: https://open.spotify.com/track/0ceqDcpfjwH5fhpNwIAwgV
+          href: https://api.spotify.com/v1/tracks/0ceqDcpfjwH5fhpNwIAwgV
+          id: 0ceqDcpfjwH5fhpNwIAwgV
+          is_local: false
+          is_playable: true
+          name: You've Got to Stand for Something
+          track_number: 10
+          type: track
+          uri: spotify:track:0ceqDcpfjwH5fhpNwIAwgV
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M
+              href: https://api.spotify.com/v1/artists/4XwKU420OWVk38vz1KvH3M
+              id: 4XwKU420OWVk38vz1KvH3M
+              name: Aaron Tippin
+              type: artist
+              uri: spotify:artist:4XwKU420OWVk38vz1KvH3M
+            external_urls:
+              spotify: https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt
+            href: https://api.spotify.com/v1/albums/0NTPV5YssGexGoz1OzaVRt
+            id: 0NTPV5YssGexGoz1OzaVRt
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a2416e037f237fa26f5a335a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a2416e037f237fa26f5a335a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a2416e037f237fa26f5a335a
+            is_playable: true
+            name: You've Got to Stand for Something
+            release_date: '1991-01-29'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0NTPV5YssGexGoz1OzaVRt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M
+            href: https://api.spotify.com/v1/artists/4XwKU420OWVk38vz1KvH3M
+            id: 4XwKU420OWVk38vz1KvH3M
+            name: Aaron Tippin
+            type: artist
+            uri: spotify:artist:4XwKU420OWVk38vz1KvH3M
+          disc_number: 1
+          duration_ms: 182280
+          explicit: false
+          external_ids:
+            isrc: USRN19000003
+          external_urls:
+            spotify: https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD
+          href: https://api.spotify.com/v1/tracks/7s2NbKcFIJuEQumhvtHTAD
+          id: 7s2NbKcFIJuEQumhvtHTAD
+          is_local: false
+          is_playable: true
+          name: You've Got to Stand for Something
+          track_number: 3
+          type: track
+          uri: spotify:track:7s2NbKcFIJuEQumhvtHTAD
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M
+              href: https://api.spotify.com/v1/artists/4XwKU420OWVk38vz1KvH3M
+              id: 4XwKU420OWVk38vz1KvH3M
+              name: Aaron Tippin
+              type: artist
+              uri: spotify:artist:4XwKU420OWVk38vz1KvH3M
+            external_urls:
+              spotify: https://open.spotify.com/album/7CYs1pMtR8Boh8L0a71T0V
+            href: https://api.spotify.com/v1/albums/7CYs1pMtR8Boh8L0a71T0V
+            id: 7CYs1pMtR8Boh8L0a71T0V
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739d80fce1fb485443d851e0b9
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029d80fce1fb485443d851e0b9
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519d80fce1fb485443d851e0b9
+            is_playable: true
+            name: The Essential Aaron Tippin - The RCA Years
+            release_date: '2019-03-15'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:7CYs1pMtR8Boh8L0a71T0V
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M
+            href: https://api.spotify.com/v1/artists/4XwKU420OWVk38vz1KvH3M
+            id: 4XwKU420OWVk38vz1KvH3M
+            name: Aaron Tippin
+            type: artist
+            uri: spotify:artist:4XwKU420OWVk38vz1KvH3M
+          disc_number: 1
+          duration_ms: 182160
+          explicit: false
+          external_ids:
+            isrc: USRN19000003
+          external_urls:
+            spotify: https://open.spotify.com/track/6EJvSCTAgtRbqgBS1gAHGO
+          href: https://api.spotify.com/v1/tracks/6EJvSCTAgtRbqgBS1gAHGO
+          id: 6EJvSCTAgtRbqgBS1gAHGO
+          is_local: false
+          is_playable: true
+          name: You've Got to Stand for Something
+          track_number: 1
+          type: track
+          uri: spotify:track:6EJvSCTAgtRbqgBS1gAHGO
+    isrc: USRN19000003

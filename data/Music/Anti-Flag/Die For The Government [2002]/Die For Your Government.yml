@@ -5,7 +5,7 @@ trackData:
   album: Die For The Government
   genre: Punk
   year: 1997
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 210.89
     fingerprint: 
@@ -32,3 +32,76 @@ trackIdData:
         firstReleaseDate: '1996'
       score: 0.99986815
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9
+    trackId: 32DlWww7sxo7y6yJEgSeP9
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSA561295736&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT
+              href: https://api.spotify.com/v1/artists/30sqtiTKIb1oDve0SdYayT
+              id: 30sqtiTKIb1oDve0SdYayT
+              name: Anti-Flag
+              type: artist
+              uri: spotify:artist:30sqtiTKIb1oDve0SdYayT
+            external_urls:
+              spotify: https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP
+            href: https://api.spotify.com/v1/albums/5q8xABjtqtUm4ItxT51NQP
+            id: 5q8xABjtqtUm4ItxT51NQP
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730a5839779c6f60776b2ad789
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020a5839779c6f60776b2ad789
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510a5839779c6f60776b2ad789
+            is_playable: true
+            name: Die for the Government
+            release_date: '1996'
+            release_date_precision: year
+            total_tracks: 17
+            type: album
+            uri: spotify:album:5q8xABjtqtUm4ItxT51NQP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT
+            href: https://api.spotify.com/v1/artists/30sqtiTKIb1oDve0SdYayT
+            id: 30sqtiTKIb1oDve0SdYayT
+            name: Anti-Flag
+            type: artist
+            uri: spotify:artist:30sqtiTKIb1oDve0SdYayT
+          disc_number: 1
+          duration_ms: 219773
+          explicit: false
+          external_ids:
+            isrc: USA561295736
+          external_urls:
+            spotify: https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9
+          href: https://api.spotify.com/v1/tracks/32DlWww7sxo7y6yJEgSeP9
+          id: 32DlWww7sxo7y6yJEgSeP9
+          is_local: false
+          is_playable: true
+          name: Die for the Government
+          track_number: 2
+          type: track
+          uri: spotify:track:32DlWww7sxo7y6yJEgSeP9
+    isrc: USA561295736

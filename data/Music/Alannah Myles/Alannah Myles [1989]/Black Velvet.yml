@@ -76,3 +76,133 @@ mediaFileData:
         firstReleaseDate: '1992'
       score: 0.9714531
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7t4l8r30wew5D9G2ZFrPIj
+    trackId: 7t4l8r30wew5D9G2ZFrPIj
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMFME2521079&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj
+              href: https://api.spotify.com/v1/artists/6IYnSXO40Bh7Zdqhf6rQoj
+              id: 6IYnSXO40Bh7Zdqhf6rQoj
+              name: Alannah Myles
+              type: artist
+              uri: spotify:artist:6IYnSXO40Bh7Zdqhf6rQoj
+            external_urls:
+              spotify: https://open.spotify.com/album/7dxywCH7dAVruhrKyKCFEr
+            href: https://api.spotify.com/v1/albums/7dxywCH7dAVruhrKyKCFEr
+            id: 7dxywCH7dAVruhrKyKCFEr
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e650bb4b06929cf23a933e9b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e650bb4b06929cf23a933e9b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e650bb4b06929cf23a933e9b
+            is_playable: true
+            name: Black Velvet
+            release_date: '2022-08-05'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:7dxywCH7dAVruhrKyKCFEr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj
+            href: https://api.spotify.com/v1/artists/6IYnSXO40Bh7Zdqhf6rQoj
+            id: 6IYnSXO40Bh7Zdqhf6rQoj
+            name: Alannah Myles
+            type: artist
+            uri: spotify:artist:6IYnSXO40Bh7Zdqhf6rQoj
+          disc_number: 1
+          duration_ms: 288133
+          explicit: false
+          external_ids:
+            isrc: QMFME2521079
+          external_urls:
+            spotify: https://open.spotify.com/track/7t4l8r30wew5D9G2ZFrPIj
+          href: https://api.spotify.com/v1/tracks/7t4l8r30wew5D9G2ZFrPIj
+          id: 7t4l8r30wew5D9G2ZFrPIj
+          is_local: false
+          is_playable: true
+          name: Black Velvet
+          track_number: 1
+          type: track
+          uri: spotify:track:7t4l8r30wew5D9G2ZFrPIj
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj
+              href: https://api.spotify.com/v1/artists/6IYnSXO40Bh7Zdqhf6rQoj
+              id: 6IYnSXO40Bh7Zdqhf6rQoj
+              name: Alannah Myles
+              type: artist
+              uri: spotify:artist:6IYnSXO40Bh7Zdqhf6rQoj
+            external_urls:
+              spotify: https://open.spotify.com/album/552joC0kVpcbJm7LFLqGDm
+            href: https://api.spotify.com/v1/albums/552joC0kVpcbJm7LFLqGDm
+            id: 552joC0kVpcbJm7LFLqGDm
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273c45bb46127a23d1beeead273
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02c45bb46127a23d1beeead273
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851c45bb46127a23d1beeead273
+            is_playable: true
+            name: Alannah Myles
+            release_date: '1989-03-14'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:552joC0kVpcbJm7LFLqGDm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj
+            href: https://api.spotify.com/v1/artists/6IYnSXO40Bh7Zdqhf6rQoj
+            id: 6IYnSXO40Bh7Zdqhf6rQoj
+            name: Alannah Myles
+            type: artist
+            uri: spotify:artist:6IYnSXO40Bh7Zdqhf6rQoj
+          disc_number: 1
+          duration_ms: 288133
+          explicit: false
+          external_ids:
+            isrc: QMFME2521079
+          external_urls:
+            spotify: https://open.spotify.com/track/3469whchIAwhnlg2Sfuf8Z
+          href: https://api.spotify.com/v1/tracks/3469whchIAwhnlg2Sfuf8Z
+          id: 3469whchIAwhnlg2Sfuf8Z
+          is_local: false
+          is_playable: true
+          name: Black Velvet
+          track_number: 3
+          type: track
+          uri: spotify:track:3469whchIAwhnlg2Sfuf8Z
+    isrc: QMFME2521079

@@ -5,7 +5,7 @@ trackData:
   album: Don't Rock the Jukebox
   genre: Classic Country
   year: 1991
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 227.63
     fingerprint: 
@@ -24,5 +24,136 @@ trackIdData:
         firstReleaseDate: '1991-05-14'
       score: 0.9915632
     - id: 8fe84621-c711-46d5-81b9-0722ae8f5864
+      recordings: []
       score: 0.8301688
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/71O38KwEfoqYR1A8WOf2q0
+    trackId: 71O38KwEfoqYR1A8WOf2q0
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAN29900032&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+              href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+              id: 4mxWe1mtYIYfP040G38yvS
+              name: Alan Jackson
+              type: artist
+              uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+            external_urls:
+              spotify: https://open.spotify.com/album/6LkvxyItxNAkAoDvBDNY7z
+            href: https://api.spotify.com/v1/albums/6LkvxyItxNAkAoDvBDNY7z
+            id: 6LkvxyItxNAkAoDvBDNY7z
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27357f0e8957f7533f10e2f8209
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0257f0e8957f7533f10e2f8209
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485157f0e8957f7533f10e2f8209
+            is_playable: true
+            name: Super Hits
+            release_date: '1999-03-22'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6LkvxyItxNAkAoDvBDNY7z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+            href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+            id: 4mxWe1mtYIYfP040G38yvS
+            name: Alan Jackson
+            type: artist
+            uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+          disc_number: 1
+          duration_ms: 226040
+          explicit: false
+          external_ids:
+            isrc: USAN29900032
+          external_urls:
+            spotify: https://open.spotify.com/track/71O38KwEfoqYR1A8WOf2q0
+          href: https://api.spotify.com/v1/tracks/71O38KwEfoqYR1A8WOf2q0
+          id: 71O38KwEfoqYR1A8WOf2q0
+          is_local: false
+          is_playable: true
+          name: That's All I Need to Know
+          track_number: 7
+          type: track
+          uri: spotify:track:71O38KwEfoqYR1A8WOf2q0
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+              href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+              id: 4mxWe1mtYIYfP040G38yvS
+              name: Alan Jackson
+              type: artist
+              uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+            external_urls:
+              spotify: https://open.spotify.com/album/6767Q48U82ay3Vbr27YNbA
+            href: https://api.spotify.com/v1/albums/6767Q48U82ay3Vbr27YNbA
+            id: 6767Q48U82ay3Vbr27YNbA
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b6268335510514000eabf9d6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b6268335510514000eabf9d6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b6268335510514000eabf9d6
+            is_playable: true
+            name: Don`t Rock The Jukebox
+            release_date: '1991-04-03'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6767Q48U82ay3Vbr27YNbA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+            href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+            id: 4mxWe1mtYIYfP040G38yvS
+            name: Alan Jackson
+            type: artist
+            uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+          disc_number: 1
+          duration_ms: 225786
+          explicit: false
+          external_ids:
+            isrc: USAN29900032
+          external_urls:
+            spotify: https://open.spotify.com/track/0aKc1G6Sb1uRzz4Srzq6b7
+          href: https://api.spotify.com/v1/tracks/0aKc1G6Sb1uRzz4Srzq6b7
+          id: 0aKc1G6Sb1uRzz4Srzq6b7
+          is_local: false
+          is_playable: true
+          name: That's All I Need to Know
+          track_number: 2
+          type: track
+          uri: spotify:track:0aKc1G6Sb1uRzz4Srzq6b7
+    isrc: USAN29900032

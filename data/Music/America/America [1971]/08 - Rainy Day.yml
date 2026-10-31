@@ -5,7 +5,7 @@ trackData:
   album: America
   genre: Classic Rock
   year: 1971
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 175.57
     fingerprint: 
@@ -46,3 +46,247 @@ trackIdData:
         firstReleaseDate: '1971-12-01'
       score: 0.7208597
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5SW4x9XOD1bLL5FkgIYCCd
+    trackId: 5SW4x9XOD1bLL5FkgIYCCd
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10001096&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+              href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+              id: 35U9lQaRWSQISxQAB94Meo
+              name: America
+              type: artist
+              uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+            external_urls:
+              spotify: https://open.spotify.com/album/1dFdKXFhg5NzP8seepz1CL
+            href: https://api.spotify.com/v1/albums/1dFdKXFhg5NzP8seepz1CL
+            id: 1dFdKXFhg5NzP8seepz1CL
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27332b8420ea37103524b352735
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0232b8420ea37103524b352735
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485132b8420ea37103524b352735
+            is_playable: true
+            name: '50th Anniversary: The Collection'
+            release_date: '2019-07-12'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:1dFdKXFhg5NzP8seepz1CL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 174440
+          explicit: false
+          external_ids:
+            isrc: USWB10001096
+          external_urls:
+            spotify: https://open.spotify.com/track/5SW4x9XOD1bLL5FkgIYCCd
+          href: https://api.spotify.com/v1/tracks/5SW4x9XOD1bLL5FkgIYCCd
+          id: 5SW4x9XOD1bLL5FkgIYCCd
+          is_local: false
+          is_playable: true
+          name: Rainy Day
+          track_number: 5
+          type: track
+          uri: spotify:track:5SW4x9XOD1bLL5FkgIYCCd
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+              href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+              id: 35U9lQaRWSQISxQAB94Meo
+              name: America
+              type: artist
+              uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+            external_urls:
+              spotify: https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ
+            href: https://api.spotify.com/v1/albums/0E5IKYhiKgbYQkmfsFonbZ
+            id: 0E5IKYhiKgbYQkmfsFonbZ
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02cc2ef2810c85fde8ec60cbc4
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851cc2ef2810c85fde8ec60cbc4
+            is_playable: true
+            name: America
+            release_date: '1972'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0E5IKYhiKgbYQkmfsFonbZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 174440
+          explicit: false
+          external_ids:
+            isrc: USWB10001096
+          external_urls:
+            spotify: https://open.spotify.com/track/0cKZ9eiqnYE6G8Wp2dX6lO
+          href: https://api.spotify.com/v1/tracks/0cKZ9eiqnYE6G8Wp2dX6lO
+          id: 0cKZ9eiqnYE6G8Wp2dX6lO
+          is_local: false
+          is_playable: true
+          name: Rainy Day
+          track_number: 8
+          type: track
+          uri: spotify:track:0cKZ9eiqnYE6G8Wp2dX6lO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+              href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+              id: 35U9lQaRWSQISxQAB94Meo
+              name: America
+              type: artist
+              uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+            external_urls:
+              spotify: https://open.spotify.com/album/2CLVWUEBK6nawhlEkYJqc8
+            href: https://api.spotify.com/v1/albums/2CLVWUEBK6nawhlEkYJqc8
+            id: 2CLVWUEBK6nawhlEkYJqc8
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273fff5c1d88f52bd43fa11ff21
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02fff5c1d88f52bd43fa11ff21
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851fff5c1d88f52bd43fa11ff21
+            is_playable: true
+            name: The Complete WB Collection 1971 - 1977
+            release_date: '2013-11-08'
+            release_date_precision: day
+            total_tracks: 82
+            type: album
+            uri: spotify:album:2CLVWUEBK6nawhlEkYJqc8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 174440
+          explicit: false
+          external_ids:
+            isrc: USWB10001096
+          external_urls:
+            spotify: https://open.spotify.com/track/3kxVbknzlwpyHG5jLCux9W
+          href: https://api.spotify.com/v1/tracks/3kxVbknzlwpyHG5jLCux9W
+          id: 3kxVbknzlwpyHG5jLCux9W
+          is_local: false
+          is_playable: true
+          name: Rainy Day
+          track_number: 8
+          type: track
+          uri: spotify:track:3kxVbknzlwpyHG5jLCux9W
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+              href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+              id: 35U9lQaRWSQISxQAB94Meo
+              name: America
+              type: artist
+              uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+            external_urls:
+              spotify: https://open.spotify.com/album/0u4zF4Pgm3OSiFuyZZ6dX7
+            href: https://api.spotify.com/v1/albums/0u4zF4Pgm3OSiFuyZZ6dX7
+            id: 0u4zF4Pgm3OSiFuyZZ6dX7
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730540b9767819a0138d21dea9
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020540b9767819a0138d21dea9
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510540b9767819a0138d21dea9
+            is_playable: true
+            name: The Warner Bros. Years 1971-1977
+            release_date: '2015-07-17'
+            release_date_precision: day
+            total_tracks: 96
+            type: album
+            uri: spotify:album:0u4zF4Pgm3OSiFuyZZ6dX7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo
+            href: https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo
+            id: 35U9lQaRWSQISxQAB94Meo
+            name: America
+            type: artist
+            uri: spotify:artist:35U9lQaRWSQISxQAB94Meo
+          disc_number: 1
+          duration_ms: 174440
+          explicit: false
+          external_ids:
+            isrc: USWB10001096
+          external_urls:
+            spotify: https://open.spotify.com/track/3d2GRq1nH964l2muoiiBCx
+          href: https://api.spotify.com/v1/tracks/3d2GRq1nH964l2muoiiBCx
+          id: 3d2GRq1nH964l2muoiiBCx
+          is_local: false
+          is_playable: true
+          name: Rainy Day
+          track_number: 8
+          type: track
+          uri: spotify:track:3d2GRq1nH964l2muoiiBCx
+    isrc: USWB10001096

@@ -276,3 +276,190 @@ mediaFileData:
         firstReleaseDate: '2010-10-21'
       score: 0.43395367
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3GkqnS8Lt8LDZV565ITUwh
+    trackId: 3GkqnS8Lt8LDZV565ITUwh
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS1000335&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+              href: https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY
+              id: 4dpARuHxo51G3z768sgnrY
+              name: Adele
+              type: artist
+              uri: spotify:artist:4dpARuHxo51G3z768sgnrY
+            external_urls:
+              spotify: https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv
+            href: https://api.spotify.com/v1/albums/636ekSSKYrhxvQEHCY07jv
+            id: 636ekSSKYrhxvQEHCY07jv
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738ba3be7e80d9584467113f4a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028ba3be7e80d9584467113f4a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518ba3be7e80d9584467113f4a
+            is_playable: true
+            name: Rolling in the Deep
+            release_date: '2011-01-17'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:636ekSSKYrhxvQEHCY07jv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+            href: https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY
+            id: 4dpARuHxo51G3z768sgnrY
+            name: Adele
+            type: artist
+            uri: spotify:artist:4dpARuHxo51G3z768sgnrY
+          disc_number: 1
+          duration_ms: 228093
+          explicit: false
+          external_ids:
+            isrc: GBBKS1000335
+          external_urls:
+            spotify: https://open.spotify.com/track/3GkqnS8Lt8LDZV565ITUwh
+          href: https://api.spotify.com/v1/tracks/3GkqnS8Lt8LDZV565ITUwh
+          id: 3GkqnS8Lt8LDZV565ITUwh
+          is_local: false
+          is_playable: true
+          name: Rolling in the Deep
+          track_number: 1
+          type: track
+          uri: spotify:track:3GkqnS8Lt8LDZV565ITUwh
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+              href: https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY
+              id: 4dpARuHxo51G3z768sgnrY
+              name: Adele
+              type: artist
+              uri: spotify:artist:4dpARuHxo51G3z768sgnrY
+            external_urls:
+              spotify: https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL
+            href: https://api.spotify.com/v1/albums/0Lg1uZvI312TPqxNWShFXL
+            id: 0Lg1uZvI312TPqxNWShFXL
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027e7e5dd9d1ab19fcded8a17f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517e7e5dd9d1ab19fcded8a17f
+            is_playable: true
+            name: '21'
+            release_date: '2011-01-24'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0Lg1uZvI312TPqxNWShFXL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+            href: https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY
+            id: 4dpARuHxo51G3z768sgnrY
+            name: Adele
+            type: artist
+            uri: spotify:artist:4dpARuHxo51G3z768sgnrY
+          disc_number: 1
+          duration_ms: 228093
+          explicit: false
+          external_ids:
+            isrc: GBBKS1000335
+          external_urls:
+            spotify: https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk
+          href: https://api.spotify.com/v1/tracks/1c8gk2PeTE04A1pIDH9YMk
+          id: 1c8gk2PeTE04A1pIDH9YMk
+          is_local: false
+          is_playable: true
+          name: Rolling in the Deep
+          track_number: 1
+          type: track
+          uri: spotify:track:1c8gk2PeTE04A1pIDH9YMk
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6zkzlkAh8GbyxXf8hLntYU
+            href: https://api.spotify.com/v1/albums/6zkzlkAh8GbyxXf8hLntYU
+            id: 6zkzlkAh8GbyxXf8hLntYU
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273fb152257b34a231aa9ee771f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02fb152257b34a231aa9ee771f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851fb152257b34a231aa9ee771f
+            is_playable: true
+            name: 'PAY CLOSE ATTENTION: XL Recordings'
+            release_date: '2014-08-25'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:6zkzlkAh8GbyxXf8hLntYU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+            href: https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY
+            id: 4dpARuHxo51G3z768sgnrY
+            name: Adele
+            type: artist
+            uri: spotify:artist:4dpARuHxo51G3z768sgnrY
+          disc_number: 2
+          duration_ms: 228093
+          explicit: false
+          external_ids:
+            isrc: GBBKS1000335
+          external_urls:
+            spotify: https://open.spotify.com/track/5ygjqTUfF4ISz8WSSODZn5
+          href: https://api.spotify.com/v1/tracks/5ygjqTUfF4ISz8WSSODZn5
+          id: 5ygjqTUfF4ISz8WSSODZn5
+          is_local: false
+          is_playable: true
+          name: Rolling in the Deep
+          track_number: 18
+          type: track
+          uri: spotify:track:5ygjqTUfF4ISz8WSSODZn5
+    isrc: GBBKS1000335

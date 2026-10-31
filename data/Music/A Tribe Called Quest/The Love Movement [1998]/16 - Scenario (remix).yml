@@ -57,3 +57,76 @@ mediaFileData:
       recordings: []
       score: 0.7598563
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7oKu94f3Q41EXQkrnYk1WW
+    trackId: 7oKu94f3Q41EXQkrnYk1WW
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJI12100077&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/1h8IWrGNp0dntBvnG6rV9Z
+            href: https://api.spotify.com/v1/albums/1h8IWrGNp0dntBvnG6rV9Z
+            id: 1h8IWrGNp0dntBvnG6rV9Z
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f8b4374b182a522bc2097454
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f8b4374b182a522bc2097454
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f8b4374b182a522bc2097454
+            is_playable: true
+            name: Scenario (Remixes)
+            release_date: '1991-09-22'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:1h8IWrGNp0dntBvnG6rV9Z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 316987
+          explicit: false
+          external_ids:
+            isrc: USJI12100077
+          external_urls:
+            spotify: https://open.spotify.com/track/7oKu94f3Q41EXQkrnYk1WW
+          href: https://api.spotify.com/v1/tracks/7oKu94f3Q41EXQkrnYk1WW
+          id: 7oKu94f3Q41EXQkrnYk1WW
+          is_local: false
+          is_playable: true
+          name: Scenario - Edited Remix
+          track_number: 3
+          type: track
+          uri: spotify:track:7oKu94f3Q41EXQkrnYk1WW
+    isrc: USJI12100077

@@ -32,3 +32,90 @@ mediaFileData:
         firstReleaseDate:
       score: 0.9720794
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/56ASvRbypCMmyZCUMnQY57
+    trackId: 56ASvRbypCMmyZCUMnQY57
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20301254&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/1Qvmb0rITJaMa9jjW4C6cc
+            href: https://api.spotify.com/v1/albums/1Qvmb0rITJaMa9jjW4C6cc
+            id: 1Qvmb0rITJaMa9jjW4C6cc
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d0837328f2722eb32f4fda37
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d0837328f2722eb32f4fda37
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d0837328f2722eb32f4fda37
+            is_playable: true
+            name: Blue (Remix)
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:1Qvmb0rITJaMa9jjW4C6cc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2rmvGSbuMaxn7ZXe3ANXMC
+            href: https://api.spotify.com/v1/artists/2rmvGSbuMaxn7ZXe3ANXMC
+            id: 2rmvGSbuMaxn7ZXe3ANXMC
+            name: James Iha
+            type: artist
+            uri: spotify:artist:2rmvGSbuMaxn7ZXe3ANXMC
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sqPt4vbN4maagJSeJjKV7
+            href: https://api.spotify.com/v1/artists/5sqPt4vbN4maagJSeJjKV7
+            id: 5sqPt4vbN4maagJSeJjKV7
+            name: Geoff Sanoff
+            type: artist
+            uri: spotify:artist:5sqPt4vbN4maagJSeJjKV7
+          disc_number: 1
+          duration_ms: 235293
+          explicit: false
+          external_ids:
+            isrc: USVI20301254
+          external_urls:
+            spotify: https://open.spotify.com/track/56ASvRbypCMmyZCUMnQY57
+          href: https://api.spotify.com/v1/tracks/56ASvRbypCMmyZCUMnQY57
+          id: 56ASvRbypCMmyZCUMnQY57
+          is_local: false
+          is_playable: true
+          name: Blue - Remix
+          track_number: 1
+          type: track
+          uri: spotify:track:56ASvRbypCMmyZCUMnQY57
+    isrc: USVI20301254

@@ -5,7 +5,7 @@ trackData:
   album: Worship the Sun
   genre: Surf Rock
   year: 2014
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 149.81
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2014-09-15'
       score: 0.9856936
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5wpxEEtz1BuF0a36Rf1k5T
+    trackId: 5wpxEEtz1BuF0a36Rf1k5T
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSD8D1418013&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp
+              href: https://api.spotify.com/v1/artists/2yDodJUwXfdHzg4crwslUp
+              id: 2yDodJUwXfdHzg4crwslUp
+              name: Allah-Las
+              type: artist
+              uri: spotify:artist:2yDodJUwXfdHzg4crwslUp
+            external_urls:
+              spotify: https://open.spotify.com/album/4fE2s88EMMyrZDHu5HFluy
+            href: https://api.spotify.com/v1/albums/4fE2s88EMMyrZDHu5HFluy
+            id: 4fE2s88EMMyrZDHu5HFluy
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27317fbd53c45afa1a90846aa28
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0217fbd53c45afa1a90846aa28
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485117fbd53c45afa1a90846aa28
+            is_playable: true
+            name: Worship the Sun
+            release_date: '2014-09-15'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:4fE2s88EMMyrZDHu5HFluy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp
+            href: https://api.spotify.com/v1/artists/2yDodJUwXfdHzg4crwslUp
+            id: 2yDodJUwXfdHzg4crwslUp
+            name: Allah-Las
+            type: artist
+            uri: spotify:artist:2yDodJUwXfdHzg4crwslUp
+          disc_number: 1
+          duration_ms: 148026
+          explicit: false
+          external_ids:
+            isrc: USD8D1418013
+          external_urls:
+            spotify: https://open.spotify.com/track/5wpxEEtz1BuF0a36Rf1k5T
+          href: https://api.spotify.com/v1/tracks/5wpxEEtz1BuF0a36Rf1k5T
+          id: 5wpxEEtz1BuF0a36Rf1k5T
+          is_local: false
+          is_playable: true
+          name: No Werewolf
+          track_number: 13
+          type: track
+          uri: spotify:track:5wpxEEtz1BuF0a36Rf1k5T
+    isrc: USD8D1418013

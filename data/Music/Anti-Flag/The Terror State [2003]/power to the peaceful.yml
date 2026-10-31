@@ -5,7 +5,7 @@ trackData:
   album: The Terror State
   genre: Punk
   year: 2003
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 177.08
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2003-10-21'
       score: 0.98717695
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1qKlczOjY6EkDNEBUTK2dC
+    trackId: 1qKlczOjY6EkDNEBUTK2dC
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFW40464305&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT
+              href: https://api.spotify.com/v1/artists/30sqtiTKIb1oDve0SdYayT
+              id: 30sqtiTKIb1oDve0SdYayT
+              name: Anti-Flag
+              type: artist
+              uri: spotify:artist:30sqtiTKIb1oDve0SdYayT
+            external_urls:
+              spotify: https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA
+            href: https://api.spotify.com/v1/albums/0TLPBodu3hDPeudOo37sZA
+            id: 0TLPBodu3hDPeudOo37sZA
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f7e5f316330c89daab8784e9
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f7e5f316330c89daab8784e9
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f7e5f316330c89daab8784e9
+            is_playable: true
+            name: The Terror State
+            release_date: '2003-10-21'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0TLPBodu3hDPeudOo37sZA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT
+            href: https://api.spotify.com/v1/artists/30sqtiTKIb1oDve0SdYayT
+            id: 30sqtiTKIb1oDve0SdYayT
+            name: Anti-Flag
+            type: artist
+            uri: spotify:artist:30sqtiTKIb1oDve0SdYayT
+          disc_number: 1
+          duration_ms: 177026
+          explicit: false
+          external_ids:
+            isrc: USFW40464305
+          external_urls:
+            spotify: https://open.spotify.com/track/1qKlczOjY6EkDNEBUTK2dC
+          href: https://api.spotify.com/v1/tracks/1qKlczOjY6EkDNEBUTK2dC
+          id: 1qKlczOjY6EkDNEBUTK2dC
+          is_local: false
+          is_playable: true
+          name: Power To The Peaceful
+          track_number: 5
+          type: track
+          uri: spotify:track:1qKlczOjY6EkDNEBUTK2dC
+    isrc: USFW40464305

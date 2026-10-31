@@ -56,3 +56,76 @@ mediaFileData:
         firstReleaseDate: '1991-09-24'
       score: 0.61599517
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B
+    trackId: 6CCIqr8xROr3jTnXf4GI3B
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJI10300152&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+              href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+              id: 09hVIj6vWgoCDtT03h8ZCa
+              name: A Tribe Called Quest
+              type: artist
+              uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+            external_urls:
+              spotify: https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a
+            href: https://api.spotify.com/v1/albums/1p12OAWwudgMqfMzjMvl2a
+            id: 1p12OAWwudgMqfMzjMvl2a
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f38c6b37a21334e22005b1f7
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f38c6b37a21334e22005b1f7
+            is_playable: true
+            name: The Low End Theory
+            release_date: '1991-09-24'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1p12OAWwudgMqfMzjMvl2a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+            href: https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa
+            id: 09hVIj6vWgoCDtT03h8ZCa
+            name: A Tribe Called Quest
+            type: artist
+            uri: spotify:artist:09hVIj6vWgoCDtT03h8ZCa
+          disc_number: 1
+          duration_ms: 133000
+          explicit: false
+          external_ids:
+            isrc: USJI10300152
+          external_urls:
+            spotify: https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B
+          href: https://api.spotify.com/v1/tracks/6CCIqr8xROr3jTnXf4GI3B
+          id: 6CCIqr8xROr3jTnXf4GI3B
+          is_local: false
+          is_playable: true
+          name: Rap Promoter
+          track_number: 3
+          type: track
+          uri: spotify:track:6CCIqr8xROr3jTnXf4GI3B
+    isrc: USJI10300152

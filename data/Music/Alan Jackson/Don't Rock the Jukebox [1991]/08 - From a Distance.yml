@@ -5,7 +5,7 @@ trackData:
   album: Don't Rock the Jukebox
   genre: Classic Country
   year: 1991
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 218.54
     fingerprint: 
@@ -24,5 +24,79 @@ trackIdData:
         firstReleaseDate: '1991-05-14'
       score: 0.9895383
     - id: 1d3605e4-acf5-4097-8086-67451392f324
+      recordings: []
       score: 0.8267405
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0ODYbwWTtv2kR5YES3dCe2
+    trackId: 0ODYbwWTtv2kR5YES3dCe2
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAN20000090&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+              href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+              id: 4mxWe1mtYIYfP040G38yvS
+              name: Alan Jackson
+              type: artist
+              uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+            external_urls:
+              spotify: https://open.spotify.com/album/6767Q48U82ay3Vbr27YNbA
+            href: https://api.spotify.com/v1/albums/6767Q48U82ay3Vbr27YNbA
+            id: 6767Q48U82ay3Vbr27YNbA
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b6268335510514000eabf9d6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b6268335510514000eabf9d6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b6268335510514000eabf9d6
+            is_playable: true
+            name: Don`t Rock The Jukebox
+            release_date: '1991-04-03'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6767Q48U82ay3Vbr27YNbA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+            href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+            id: 4mxWe1mtYIYfP040G38yvS
+            name: Alan Jackson
+            type: artist
+            uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+          disc_number: 1
+          duration_ms: 217400
+          explicit: false
+          external_ids:
+            isrc: USAN20000090
+          external_urls:
+            spotify: https://open.spotify.com/track/0ODYbwWTtv2kR5YES3dCe2
+          href: https://api.spotify.com/v1/tracks/0ODYbwWTtv2kR5YES3dCe2
+          id: 0ODYbwWTtv2kR5YES3dCe2
+          is_local: false
+          is_playable: true
+          name: From A Distance
+          track_number: 8
+          type: track
+          uri: spotify:track:0ODYbwWTtv2kR5YES3dCe2
+    isrc: USAN20000090

@@ -135,3 +135,76 @@ mediaFileData:
         firstReleaseDate:
       score: 0.9258307
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6lSkoSYe1RFcGjwxEXULNT
+    trackId: 6lSkoSYe1RFcGjwxEXULNT
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20000060&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/39xNQ5XkyFb6XUyoDnj0ZE
+            href: https://api.spotify.com/v1/albums/39xNQ5XkyFb6XUyoDnj0ZE
+            id: 39xNQ5XkyFb6XUyoDnj0ZE
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273127fdd6ec266e53a5b6883d0
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02127fdd6ec266e53a5b6883d0
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851127fdd6ec266e53a5b6883d0
+            is_playable: true
+            name: Mer De Noms
+            release_date: '2000-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:39xNQ5XkyFb6XUyoDnj0ZE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 247240
+          explicit: false
+          external_ids:
+            isrc: USVI20000060
+          external_urls:
+            spotify: https://open.spotify.com/track/6lSkoSYe1RFcGjwxEXULNT
+          href: https://api.spotify.com/v1/tracks/6lSkoSYe1RFcGjwxEXULNT
+          id: 6lSkoSYe1RFcGjwxEXULNT
+          is_local: false
+          is_playable: true
+          name: Judith
+          track_number: 4
+          type: track
+          uri: spotify:track:6lSkoSYe1RFcGjwxEXULNT
+    isrc: USVI20000060

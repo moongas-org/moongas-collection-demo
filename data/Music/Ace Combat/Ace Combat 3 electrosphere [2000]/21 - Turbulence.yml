@@ -5,7 +5,7 @@ trackData:
   album: 'Ace Combat 3: Electrosphere'
   genre: Electronic (Instrumental)
   year: 2000
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 130.69
     fingerprint: 
@@ -24,6 +24,7 @@ trackIdData:
         firstReleaseDate: '1999-08-26'
       score: 0.9674448
     - id: eee8f4ee-82d1-48e8-a428-8532bbd4ad0b
+      recordings: []
       score: 0.8273238
     - id: 6b0c98cd-bee6-4201-b0c0-bb0fe3e5097c
       recordings:
@@ -37,3 +38,91 @@ trackIdData:
         firstReleaseDate: '1999-08-26'
       score: 0.82585484
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2j6af1KBxbBoSIhvNGe1bx
+    trackId: 2j6af1KBxbBoSIhvNGe1bx
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AJPX832004826&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dhKyn9jcCoyrxGq4tI7Vc
+              href: https://api.spotify.com/v1/artists/1dhKyn9jcCoyrxGq4tI7Vc
+              id: 1dhKyn9jcCoyrxGq4tI7Vc
+              name: PROJECT ACES
+              type: artist
+              uri: spotify:artist:1dhKyn9jcCoyrxGq4tI7Vc
+            - external_urls:
+                spotify: https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98
+              href: https://api.spotify.com/v1/artists/79TdUM8JBfntiLVLJVTS98
+              id: 79TdUM8JBfntiLVLJVTS98
+              name: Bandai Namco Game Music
+              type: artist
+              uri: spotify:artist:79TdUM8JBfntiLVLJVTS98
+            external_urls:
+              spotify: https://open.spotify.com/album/4KxI39hOBn218DTNLXEqr1
+            href: https://api.spotify.com/v1/albums/4KxI39hOBn218DTNLXEqr1
+            id: 4KxI39hOBn218DTNLXEqr1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736f39b5ce59fdfd0a487bbfb3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026f39b5ce59fdfd0a487bbfb3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516f39b5ce59fdfd0a487bbfb3
+            is_playable: true
+            name: ACE COMBAT 3 electrosphere Original Soundtrack (2024 
+              Remastered)
+            release_date: '2024-05-27'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:4KxI39hOBn218DTNLXEqr1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dhKyn9jcCoyrxGq4tI7Vc
+            href: https://api.spotify.com/v1/artists/1dhKyn9jcCoyrxGq4tI7Vc
+            id: 1dhKyn9jcCoyrxGq4tI7Vc
+            name: PROJECT ACES
+            type: artist
+            uri: spotify:artist:1dhKyn9jcCoyrxGq4tI7Vc
+          - external_urls:
+              spotify: https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98
+            href: https://api.spotify.com/v1/artists/79TdUM8JBfntiLVLJVTS98
+            id: 79TdUM8JBfntiLVLJVTS98
+            name: Bandai Namco Game Music
+            type: artist
+            uri: spotify:artist:79TdUM8JBfntiLVLJVTS98
+          disc_number: 1
+          duration_ms: 131933
+          explicit: false
+          external_ids:
+            isrc: JPX832004826
+          external_urls:
+            spotify: https://open.spotify.com/track/2j6af1KBxbBoSIhvNGe1bx
+          href: https://api.spotify.com/v1/tracks/2j6af1KBxbBoSIhvNGe1bx
+          id: 2j6af1KBxbBoSIhvNGe1bx
+          is_local: false
+          is_playable: true
+          name: Turbulence - 2024 Remastered
+          track_number: 23
+          type: track
+          uri: spotify:track:2j6af1KBxbBoSIhvNGe1bx
+    isrc: JPX832004826

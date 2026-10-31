@@ -5,7 +5,7 @@ trackData:
   album: Courage
   genre: Dream Pop
   year: 2022
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 167.35
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2022-11-16'
       score: 0.96383834
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3FI0ECFWEuGnv2OrhJNKAQ
+    trackId: 3FI0ECFWEuGnv2OrhJNKAQ
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBKPL2209906&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS
+              href: https://api.spotify.com/v1/artists/65FPMBREZBLfEDpkHlm8sS
+              id: 65FPMBREZBLfEDpkHlm8sS
+              name: Alex Siegel
+              type: artist
+              uri: spotify:artist:65FPMBREZBLfEDpkHlm8sS
+            external_urls:
+              spotify: https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD
+            href: https://api.spotify.com/v1/albums/2mf3MxRCIe2AbEDCjXpQLD
+            id: 2mf3MxRCIe2AbEDCjXpQLD
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e04506e2dc5db48033e9dc73
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e04506e2dc5db48033e9dc73
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e04506e2dc5db48033e9dc73
+            is_playable: true
+            name: Courage
+            release_date: '2022-11-16'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2mf3MxRCIe2AbEDCjXpQLD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS
+            href: https://api.spotify.com/v1/artists/65FPMBREZBLfEDpkHlm8sS
+            id: 65FPMBREZBLfEDpkHlm8sS
+            name: Alex Siegel
+            type: artist
+            uri: spotify:artist:65FPMBREZBLfEDpkHlm8sS
+          disc_number: 1
+          duration_ms: 167003
+          explicit: false
+          external_ids:
+            isrc: GBKPL2209906
+          external_urls:
+            spotify: https://open.spotify.com/track/3FI0ECFWEuGnv2OrhJNKAQ
+          href: https://api.spotify.com/v1/tracks/3FI0ECFWEuGnv2OrhJNKAQ
+          id: 3FI0ECFWEuGnv2OrhJNKAQ
+          is_local: false
+          is_playable: true
+          name: Bicycle
+          track_number: 3
+          type: track
+          uri: spotify:track:3FI0ECFWEuGnv2OrhJNKAQ
+    isrc: GBKPL2209906

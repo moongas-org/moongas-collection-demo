@@ -104,3 +104,190 @@ mediaFileData:
         firstReleaseDate: '2005-06-13'
       score: 0.46986225
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1aU3JhXsN6bKOXNYjF9NZ4
+    trackId: 1aU3JhXsN6bKOXNYjF9NZ4
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEN060300758&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/3pIm0L2BspmikZ6i8bLtNK
+            href: https://api.spotify.com/v1/albums/3pIm0L2BspmikZ6i8bLtNK
+            id: 3pIm0L2BspmikZ6i8bLtNK
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273272f8a9a8e5d6e2ceb02282f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02272f8a9a8e5d6e2ceb02282f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851272f8a9a8e5d6e2ceb02282f
+            is_playable: true
+            name: All The Best
+            release_date: '2012-09-21'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:3pIm0L2BspmikZ6i8bLtNK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 214493
+          explicit: false
+          external_ids:
+            isrc: DEN060300758
+          external_urls:
+            spotify: https://open.spotify.com/track/1aU3JhXsN6bKOXNYjF9NZ4
+          href: https://api.spotify.com/v1/tracks/1aU3JhXsN6bKOXNYjF9NZ4
+          id: 1aU3JhXsN6bKOXNYjF9NZ4
+          is_local: false
+          is_playable: true
+          name: I Don't Wanna Stop - Radio Edit
+          track_number: 22
+          type: track
+          uri: spotify:track:1aU3JhXsN6bKOXNYjF9NZ4
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/2JnOdcjGpm236GX668Tt0X
+            href: https://api.spotify.com/v1/albums/2JnOdcjGpm236GX668Tt0X
+            id: 2JnOdcjGpm236GX668Tt0X
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273dbbf73f71c91bc6f6d51db61
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02dbbf73f71c91bc6f6d51db61
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851dbbf73f71c91bc6f6d51db61
+            is_playable: true
+            name: Addicted to Music
+            release_date: '2003-04-28'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2JnOdcjGpm236GX668Tt0X
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 214493
+          explicit: false
+          external_ids:
+            isrc: DEN060300758
+          external_urls:
+            spotify: https://open.spotify.com/track/3RQZm1LuR2aq7QbeCegvBr
+          href: https://api.spotify.com/v1/tracks/3RQZm1LuR2aq7QbeCegvBr
+          id: 3RQZm1LuR2aq7QbeCegvBr
+          is_local: false
+          is_playable: true
+          name: I Don't Wanna Stop - Radio Edit
+          track_number: 2
+          type: track
+          uri: spotify:track:3RQZm1LuR2aq7QbeCegvBr
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/5mtqyltAAgMp6OWdVYSl72
+            href: https://api.spotify.com/v1/albums/5mtqyltAAgMp6OWdVYSl72
+            id: 5mtqyltAAgMp6OWdVYSl72
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27397be6329bb7662a0b829f0b9
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0297be6329bb7662a0b829f0b9
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485197be6329bb7662a0b829f0b9
+            is_playable: true
+            name: I Don't Wanna Stop - Single
+            release_date: '2003-04-07'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:5mtqyltAAgMp6OWdVYSl72
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 214493
+          explicit: false
+          external_ids:
+            isrc: DEN060300758
+          external_urls:
+            spotify: https://open.spotify.com/track/2vFgEnYZw78n2gc4p7RKlU
+          href: https://api.spotify.com/v1/tracks/2vFgEnYZw78n2gc4p7RKlU
+          id: 2vFgEnYZw78n2gc4p7RKlU
+          is_local: false
+          is_playable: true
+          name: I Don't Wanna Stop - Radio Edit
+          track_number: 1
+          type: track
+          uri: spotify:track:2vFgEnYZw78n2gc4p7RKlU
+    isrc: DEN060300758

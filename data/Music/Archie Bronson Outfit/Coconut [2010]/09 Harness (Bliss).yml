@@ -5,7 +5,7 @@ trackData:
   album: Coconut
   genre: Indie Rock
   year: 2010
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 336.4
     fingerprint: 
@@ -24,3 +24,133 @@ trackIdData:
         firstReleaseDate: '2010-03-01'
       score: 0.99320936
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Y0D7EhNTSDh6drWDdjCGi
+    trackId: 3Y0D7EhNTSDh6drWDdjCGi
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0900858&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4bR4Ul1AtneW7Bae9jzNzh
+              href: https://api.spotify.com/v1/artists/4bR4Ul1AtneW7Bae9jzNzh
+              id: 4bR4Ul1AtneW7Bae9jzNzh
+              name: Archie Bronson Outfit
+              type: artist
+              uri: spotify:artist:4bR4Ul1AtneW7Bae9jzNzh
+            external_urls:
+              spotify: https://open.spotify.com/album/5CkeNnz5Fwdgb4wqdH2ar2
+            href: https://api.spotify.com/v1/albums/5CkeNnz5Fwdgb4wqdH2ar2
+            id: 5CkeNnz5Fwdgb4wqdH2ar2
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27384492414376f5287dfa22621
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0284492414376f5287dfa22621
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485184492414376f5287dfa22621
+            is_playable: true
+            name: Coconut
+            release_date: '2010-03-23'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5CkeNnz5Fwdgb4wqdH2ar2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4bR4Ul1AtneW7Bae9jzNzh
+            href: https://api.spotify.com/v1/artists/4bR4Ul1AtneW7Bae9jzNzh
+            id: 4bR4Ul1AtneW7Bae9jzNzh
+            name: Archie Bronson Outfit
+            type: artist
+            uri: spotify:artist:4bR4Ul1AtneW7Bae9jzNzh
+          disc_number: 1
+          duration_ms: 336360
+          explicit: false
+          external_ids:
+            isrc: GBCEL0900858
+          external_urls:
+            spotify: https://open.spotify.com/track/3Y0D7EhNTSDh6drWDdjCGi
+          href: https://api.spotify.com/v1/tracks/3Y0D7EhNTSDh6drWDdjCGi
+          id: 3Y0D7EhNTSDh6drWDdjCGi
+          is_local: false
+          is_playable: true
+          name: Harness (Bliss)
+          track_number: 9
+          type: track
+          uri: spotify:track:3Y0D7EhNTSDh6drWDdjCGi
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4bR4Ul1AtneW7Bae9jzNzh
+              href: https://api.spotify.com/v1/artists/4bR4Ul1AtneW7Bae9jzNzh
+              id: 4bR4Ul1AtneW7Bae9jzNzh
+              name: Archie Bronson Outfit
+              type: artist
+              uri: spotify:artist:4bR4Ul1AtneW7Bae9jzNzh
+            external_urls:
+              spotify: https://open.spotify.com/album/1C35ZfrBJSu3jYBvVyj6lb
+            href: https://api.spotify.com/v1/albums/1C35ZfrBJSu3jYBvVyj6lb
+            id: 1C35ZfrBJSu3jYBvVyj6lb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732e1b70ec6907d715c9b2b8af
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022e1b70ec6907d715c9b2b8af
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512e1b70ec6907d715c9b2b8af
+            is_playable: true
+            name: Coconut
+            release_date: '2010-03-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1C35ZfrBJSu3jYBvVyj6lb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4bR4Ul1AtneW7Bae9jzNzh
+            href: https://api.spotify.com/v1/artists/4bR4Ul1AtneW7Bae9jzNzh
+            id: 4bR4Ul1AtneW7Bae9jzNzh
+            name: Archie Bronson Outfit
+            type: artist
+            uri: spotify:artist:4bR4Ul1AtneW7Bae9jzNzh
+          disc_number: 1
+          duration_ms: 336360
+          explicit: false
+          external_ids:
+            isrc: GBCEL0900858
+          external_urls:
+            spotify: https://open.spotify.com/track/59kTGlCixrKSGiScSmZD9L
+          href: https://api.spotify.com/v1/tracks/59kTGlCixrKSGiScSmZD9L
+          id: 59kTGlCixrKSGiScSmZD9L
+          is_local: false
+          is_playable: true
+          name: Harness (Bliss)
+          track_number: 9
+          type: track
+          uri: spotify:track:59kTGlCixrKSGiScSmZD9L
+    isrc: GBCEL0900858

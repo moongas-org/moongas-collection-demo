@@ -217,3 +217,190 @@ mediaFileData:
         firstReleaseDate: '2000-05-26'
       score: 0.96970594
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3pxLd5PljHR7rMBZjnS6Pq
+    trackId: 3pxLd5PljHR7rMBZjnS6Pq
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ANLC529811127&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED
+              href: https://api.spotify.com/v1/artists/2tbvDi9eXf9XXp06LupkED
+              id: 2tbvDi9eXf9XXp06LupkED
+              name: Alice Deejay
+              type: artist
+              uri: spotify:artist:2tbvDi9eXf9XXp06LupkED
+            external_urls:
+              spotify: https://open.spotify.com/album/6TQUSCFEAaprlLgqBgMSXb
+            href: https://api.spotify.com/v1/albums/6TQUSCFEAaprlLgqBgMSXb
+            id: 6TQUSCFEAaprlLgqBgMSXb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273937cbb86a96ec9232d73e3a6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02937cbb86a96ec9232d73e3a6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851937cbb86a96ec9232d73e3a6
+            is_playable: true
+            name: Better Off Alone
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6TQUSCFEAaprlLgqBgMSXb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED
+            href: https://api.spotify.com/v1/artists/2tbvDi9eXf9XXp06LupkED
+            id: 2tbvDi9eXf9XXp06LupkED
+            name: Alice Deejay
+            type: artist
+            uri: spotify:artist:2tbvDi9eXf9XXp06LupkED
+          disc_number: 1
+          duration_ms: 173000
+          explicit: false
+          external_ids:
+            isrc: NLC529811127
+          external_urls:
+            spotify: https://open.spotify.com/track/3pxLd5PljHR7rMBZjnS6Pq
+          href: https://api.spotify.com/v1/tracks/3pxLd5PljHR7rMBZjnS6Pq
+          id: 3pxLd5PljHR7rMBZjnS6Pq
+          is_local: false
+          is_playable: true
+          name: Better Off Alone - UK Short Cut
+          track_number: 2
+          type: track
+          uri: spotify:track:3pxLd5PljHR7rMBZjnS6Pq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3yItm2PaAGkJCGysmQ4HRk
+            href: https://api.spotify.com/v1/albums/3yItm2PaAGkJCGysmQ4HRk
+            id: 3yItm2PaAGkJCGysmQ4HRk
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273baf4dc8b931b25c626a93e07
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02baf4dc8b931b25c626a93e07
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851baf4dc8b931b25c626a93e07
+            is_playable: true
+            name: Techno Running
+            release_date: '2026-10-24'
+            release_date_precision: day
+            total_tracks: 57
+            type: album
+            uri: spotify:album:3yItm2PaAGkJCGysmQ4HRk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED
+            href: https://api.spotify.com/v1/artists/2tbvDi9eXf9XXp06LupkED
+            id: 2tbvDi9eXf9XXp06LupkED
+            name: Alice Deejay
+            type: artist
+            uri: spotify:artist:2tbvDi9eXf9XXp06LupkED
+          disc_number: 1
+          duration_ms: 173000
+          explicit: false
+          external_ids:
+            isrc: NLC529811127
+          external_urls:
+            spotify: https://open.spotify.com/track/7COb0u4BU7uc4fBWRKWTkc
+          href: https://api.spotify.com/v1/tracks/7COb0u4BU7uc4fBWRKWTkc
+          id: 7COb0u4BU7uc4fBWRKWTkc
+          is_local: false
+          is_playable: true
+          name: Better Off Alone - UK Short Cut
+          track_number: 28
+          type: track
+          uri: spotify:track:7COb0u4BU7uc4fBWRKWTkc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/37pJIv8pr85tHt5Code52l
+            href: https://api.spotify.com/v1/albums/37pJIv8pr85tHt5Code52l
+            id: 37pJIv8pr85tHt5Code52l
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27350e483f6532c17f8191ec068
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0250e483f6532c17f8191ec068
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485150e483f6532c17f8191ec068
+            is_playable: true
+            name: Vacation 2026
+            release_date: '2026-05-09'
+            release_date_precision: day
+            total_tracks: 67
+            type: album
+            uri: spotify:album:37pJIv8pr85tHt5Code52l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED
+            href: https://api.spotify.com/v1/artists/2tbvDi9eXf9XXp06LupkED
+            id: 2tbvDi9eXf9XXp06LupkED
+            name: Alice Deejay
+            type: artist
+            uri: spotify:artist:2tbvDi9eXf9XXp06LupkED
+          disc_number: 1
+          duration_ms: 173000
+          explicit: false
+          external_ids:
+            isrc: NLC529811127
+          external_urls:
+            spotify: https://open.spotify.com/track/39oYRc020uDEHtwoHQtx2U
+          href: https://api.spotify.com/v1/tracks/39oYRc020uDEHtwoHQtx2U
+          id: 39oYRc020uDEHtwoHQtx2U
+          is_local: false
+          is_playable: true
+          name: Better Off Alone - UK Short Cut
+          track_number: 33
+          type: track
+          uri: spotify:track:39oYRc020uDEHtwoHQtx2U
+    isrc: NLC529811127

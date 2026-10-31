@@ -79,3 +79,76 @@ mediaFileData:
         firstReleaseDate: '2004-11-01'
       score: 0.7975013
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0vw3rG6BNIMuiiCZ0VH6hp
+    trackId: 0vw3rG6BNIMuiiCZ0VH6hp
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMEJX0900050&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/05ghFLMEOZqBJdS76hws7F
+            href: https://api.spotify.com/v1/albums/05ghFLMEOZqBJdS76hws7F
+            id: 05ghFLMEOZqBJdS76hws7F
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733d6808868a01627bd840cc07
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023d6808868a01627bd840cc07
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513d6808868a01627bd840cc07
+            is_playable: true
+            name: 'Stone and Echo: Live at Red Rocks'
+            release_date: '2013-11-26'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:05ghFLMEOZqBJdS76hws7F
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 393838
+          explicit: false
+          external_ids:
+            isrc: QMEJX0900050
+          external_urls:
+            spotify: https://open.spotify.com/track/0vw3rG6BNIMuiiCZ0VH6hp
+          href: https://api.spotify.com/v1/tracks/0vw3rG6BNIMuiiCZ0VH6hp
+          id: 0vw3rG6BNIMuiiCZ0VH6hp
+          is_local: false
+          is_playable: true
+          name: When the Levee Breaks (Live)
+          track_number: 11
+          type: track
+          uri: spotify:track:0vw3rG6BNIMuiiCZ0VH6hp
+    isrc: QMEJX0900050

@@ -5,7 +5,7 @@ trackData:
   album: Addicted To Music
   genre: Electronic
   year: 2003
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 266.32
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2003-04-28'
       score: 0.9576081
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2jgw918aveqerL26KmU8ld
+    trackId: 2jgw918aveqerL26KmU8ld
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEN060300776&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/2JnOdcjGpm236GX668Tt0X
+            href: https://api.spotify.com/v1/albums/2JnOdcjGpm236GX668Tt0X
+            id: 2JnOdcjGpm236GX668Tt0X
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273dbbf73f71c91bc6f6d51db61
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02dbbf73f71c91bc6f6d51db61
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851dbbf73f71c91bc6f6d51db61
+            is_playable: true
+            name: Addicted to Music
+            release_date: '2003-04-28'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2JnOdcjGpm236GX668Tt0X
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 266266
+          explicit: false
+          external_ids:
+            isrc: DEN060300776
+          external_urls:
+            spotify: https://open.spotify.com/track/2jgw918aveqerL26KmU8ld
+          href: https://api.spotify.com/v1/tracks/2jgw918aveqerL26KmU8ld
+          id: 2jgw918aveqerL26KmU8ld
+          is_local: false
+          is_playable: true
+          name: We Belong
+          track_number: 5
+          type: track
+          uri: spotify:track:2jgw918aveqerL26KmU8ld
+    isrc: DEN060300776

@@ -46,3 +46,190 @@ mediaFileData:
         firstReleaseDate: '2009-02-12'
       score: 0.98058414
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE
+    trackId: 2I9foKseoFQh07p6sD2voE
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR10300018&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh
+              href: https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh
+              id: 3q7HBObVc0L8jNeTe5Gofh
+              name: 50 Cent
+              type: artist
+              uri: spotify:artist:3q7HBObVc0L8jNeTe5Gofh
+            external_urls:
+              spotify: https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P
+            href: https://api.spotify.com/v1/albums/4ycNE7y1rp5215g1kkqk1P
+            id: 4ycNE7y1rp5215g1kkqk1P
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f7f74100d5cc850e01172cbf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f7f74100d5cc850e01172cbf
+            is_playable: true
+            name: Get Rich Or Die Tryin'
+            release_date: '2003-02-06'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:4ycNE7y1rp5215g1kkqk1P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh
+            href: https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh
+            id: 3q7HBObVc0L8jNeTe5Gofh
+            name: 50 Cent
+            type: artist
+            uri: spotify:artist:3q7HBObVc0L8jNeTe5Gofh
+          disc_number: 1
+          duration_ms: 256226
+          explicit: true
+          external_ids:
+            isrc: USIR10300018
+          external_urls:
+            spotify: https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE
+          href: https://api.spotify.com/v1/tracks/2I9foKseoFQh07p6sD2voE
+          id: 2I9foKseoFQh07p6sD2voE
+          is_local: false
+          is_playable: true
+          name: Many Men (Wish Death)
+          track_number: 4
+          type: track
+          uri: spotify:track:2I9foKseoFQh07p6sD2voE
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh
+              href: https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh
+              id: 3q7HBObVc0L8jNeTe5Gofh
+              name: 50 Cent
+              type: artist
+              uri: spotify:artist:3q7HBObVc0L8jNeTe5Gofh
+            external_urls:
+              spotify: https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj
+            href: https://api.spotify.com/v1/albums/0OfzVAXf5aVP4W4NIOLTKj
+            id: 0OfzVAXf5aVP4W4NIOLTKj
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734c88e268c9dc19f79ccdbb97
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024c88e268c9dc19f79ccdbb97
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514c88e268c9dc19f79ccdbb97
+            is_playable: true
+            name: Get Rich Or Die Tryin'
+            release_date: '2003-02-06'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:0OfzVAXf5aVP4W4NIOLTKj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh
+            href: https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh
+            id: 3q7HBObVc0L8jNeTe5Gofh
+            name: 50 Cent
+            type: artist
+            uri: spotify:artist:3q7HBObVc0L8jNeTe5Gofh
+          disc_number: 1
+          duration_ms: 256226
+          explicit: true
+          external_ids:
+            isrc: USIR10300018
+          external_urls:
+            spotify: https://open.spotify.com/track/1m14pmtptcjM7mdWyJyAoc
+          href: https://api.spotify.com/v1/tracks/1m14pmtptcjM7mdWyJyAoc
+          id: 1m14pmtptcjM7mdWyJyAoc
+          is_local: false
+          is_playable: true
+          name: Many Men (Wish Death)
+          track_number: 4
+          type: track
+          uri: spotify:track:1m14pmtptcjM7mdWyJyAoc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4D3hcq9KUtwoDVUvB5ALge
+            href: https://api.spotify.com/v1/albums/4D3hcq9KUtwoDVUvB5ALge
+            id: 4D3hcq9KUtwoDVUvB5ALge
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273aa8836ffaae5654eb52dbbb1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02aa8836ffaae5654eb52dbbb1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851aa8836ffaae5654eb52dbbb1
+            is_playable: true
+            name: Easy Hip Hop
+            release_date: '2019-10-25'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:4D3hcq9KUtwoDVUvB5ALge
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh
+            href: https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh
+            id: 3q7HBObVc0L8jNeTe5Gofh
+            name: 50 Cent
+            type: artist
+            uri: spotify:artist:3q7HBObVc0L8jNeTe5Gofh
+          disc_number: 1
+          duration_ms: 256226
+          explicit: true
+          external_ids:
+            isrc: USIR10300018
+          external_urls:
+            spotify: https://open.spotify.com/track/6yyI8oCzUymuMYIhw5ZLp4
+          href: https://api.spotify.com/v1/tracks/6yyI8oCzUymuMYIhw5ZLp4
+          id: 6yyI8oCzUymuMYIhw5ZLp4
+          is_local: false
+          is_playable: true
+          name: Many Men (Wish Death)
+          track_number: 4
+          type: track
+          uri: spotify:track:6yyI8oCzUymuMYIhw5ZLp4
+    isrc: USIR10300018

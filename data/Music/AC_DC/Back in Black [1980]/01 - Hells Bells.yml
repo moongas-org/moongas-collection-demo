@@ -127,3 +127,190 @@ mediaFileData:
         firstReleaseDate: '2020-08-11'
       score: 0.9734639
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2P884dqfjksDMSzUZksfrS
+    trackId: 2P884dqfjksDMSzUZksfrS
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUAP08000041&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un
+              href: https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un
+              id: 711MCceyCBcFnzjGY4Q7Un
+              name: AC/DC
+              type: artist
+              uri: spotify:artist:711MCceyCBcFnzjGY4Q7Un
+            external_urls:
+              spotify: https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A
+            href: https://api.spotify.com/v1/albums/07EFoHHspqSwsmkbnWaB4A
+            id: 07EFoHHspqSwsmkbnWaB4A
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734338785835437128f20a57fb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024338785835437128f20a57fb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514338785835437128f20a57fb
+            is_playable: true
+            name: Who Made Who
+            release_date: '1986-05-24'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:07EFoHHspqSwsmkbnWaB4A
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un
+            href: https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un
+            id: 711MCceyCBcFnzjGY4Q7Un
+            name: AC/DC
+            type: artist
+            uri: spotify:artist:711MCceyCBcFnzjGY4Q7Un
+          disc_number: 1
+          duration_ms: 313429
+          explicit: false
+          external_ids:
+            isrc: AUAP08000041
+          external_urls:
+            spotify: https://open.spotify.com/track/2P884dqfjksDMSzUZksfrS
+          href: https://api.spotify.com/v1/tracks/2P884dqfjksDMSzUZksfrS
+          id: 2P884dqfjksDMSzUZksfrS
+          is_local: false
+          is_playable: true
+          name: Hells Bells
+          track_number: 6
+          type: track
+          uri: spotify:track:2P884dqfjksDMSzUZksfrS
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un
+              href: https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un
+              id: 711MCceyCBcFnzjGY4Q7Un
+              name: AC/DC
+              type: artist
+              uri: spotify:artist:711MCceyCBcFnzjGY4Q7Un
+            external_urls:
+              spotify: https://open.spotify.com/album/4zc05VOEyUmG4YTze8tMnZ
+            href: https://api.spotify.com/v1/albums/4zc05VOEyUmG4YTze8tMnZ
+            id: 4zc05VOEyUmG4YTze8tMnZ
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732b8dee7d5385ff40cbac1229
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022b8dee7d5385ff40cbac1229
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512b8dee7d5385ff40cbac1229
+            is_playable: true
+            name: Bonfire
+            release_date: '1997'
+            release_date_precision: year
+            total_tracks: 42
+            type: album
+            uri: spotify:album:4zc05VOEyUmG4YTze8tMnZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un
+            href: https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un
+            id: 711MCceyCBcFnzjGY4Q7Un
+            name: AC/DC
+            type: artist
+            uri: spotify:artist:711MCceyCBcFnzjGY4Q7Un
+          disc_number: 5
+          duration_ms: 312815
+          explicit: false
+          external_ids:
+            isrc: AUAP08000041
+          external_urls:
+            spotify: https://open.spotify.com/track/1vXLRQneLqNrkuRTGp6AvN
+          href: https://api.spotify.com/v1/tracks/1vXLRQneLqNrkuRTGp6AvN
+          id: 1vXLRQneLqNrkuRTGp6AvN
+          is_local: false
+          is_playable: true
+          name: Hells Bells
+          track_number: 1
+          type: track
+          uri: spotify:track:1vXLRQneLqNrkuRTGp6AvN
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un
+              href: https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un
+              id: 711MCceyCBcFnzjGY4Q7Un
+              name: AC/DC
+              type: artist
+              uri: spotify:artist:711MCceyCBcFnzjGY4Q7Un
+            external_urls:
+              spotify: https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh
+            href: https://api.spotify.com/v1/albums/6mUdeDZCsExyJLMdAfDuwh
+            id: 6mUdeDZCsExyJLMdAfDuwh
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ff191d7fbdb5a13eaf84132b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ff191d7fbdb5a13eaf84132b
+            is_playable: true
+            name: Back In Black
+            release_date: '1980-07-25'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6mUdeDZCsExyJLMdAfDuwh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un
+            href: https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un
+            id: 711MCceyCBcFnzjGY4Q7Un
+            name: AC/DC
+            type: artist
+            uri: spotify:artist:711MCceyCBcFnzjGY4Q7Un
+          disc_number: 1
+          duration_ms: 312815
+          explicit: false
+          external_ids:
+            isrc: AUAP08000041
+          external_urls:
+            spotify: https://open.spotify.com/track/69QHm3pustz01CJRwdo20z
+          href: https://api.spotify.com/v1/tracks/69QHm3pustz01CJRwdo20z
+          id: 69QHm3pustz01CJRwdo20z
+          is_local: false
+          is_playable: true
+          name: Hells Bells
+          track_number: 1
+          type: track
+          uri: spotify:track:69QHm3pustz01CJRwdo20z
+    isrc: AUAP08000041

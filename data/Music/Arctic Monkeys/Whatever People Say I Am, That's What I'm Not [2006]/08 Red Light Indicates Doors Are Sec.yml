@@ -5,7 +5,7 @@ trackData:
   album: Whatever People Say I Am, That's What I'm Not
   genre: Indie Rock
   year: 2006
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 143.8
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2005'
       score: 0.9750791
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/56GFlp1dkt7dw56pQdTwqW
+    trackId: 56GFlp1dkt7dw56pQdTwqW
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0501187&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+              href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+              id: 7Ln80lUS6He07XvHI8qqHH
+              name: Arctic Monkeys
+              type: artist
+              uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+            external_urls:
+              spotify: https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1
+            href: https://api.spotify.com/v1/albums/50Zz8CkIhATKUlQMbHO3k1
+            id: 50Zz8CkIhATKUlQMbHO3k1
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516b3fa88bdd4af566fbbf2bbf
+            is_playable: true
+            name: Whatever People Say I Am, That's What I'm Not
+            release_date: '2006-01-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:50Zz8CkIhATKUlQMbHO3k1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+            href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+            id: 7Ln80lUS6He07XvHI8qqHH
+            name: Arctic Monkeys
+            type: artist
+            uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+          disc_number: 1
+          duration_ms: 143626
+          explicit: false
+          external_ids:
+            isrc: GBCEL0501187
+          external_urls:
+            spotify: https://open.spotify.com/track/56GFlp1dkt7dw56pQdTwqW
+          href: https://api.spotify.com/v1/tracks/56GFlp1dkt7dw56pQdTwqW
+          id: 56GFlp1dkt7dw56pQdTwqW
+          is_local: false
+          is_playable: true
+          name: Red Light Indicates Doors Are Secured
+          track_number: 8
+          type: track
+          uri: spotify:track:56GFlp1dkt7dw56pQdTwqW
+    isrc: GBCEL0501187

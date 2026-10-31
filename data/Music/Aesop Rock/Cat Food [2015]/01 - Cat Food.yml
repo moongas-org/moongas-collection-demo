@@ -5,7 +5,7 @@ trackData:
   album: Cat Food
   genre: Hip-Hop
   year: 2015
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 204.54
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2015-01-05'
       score: 0.9983518
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4tNH93O0ZUESWNQXiiLZCB
+    trackId: 4tNH93O0ZUESWNQXiiLZCB
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBWK1400215&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ
+              href: https://api.spotify.com/v1/artists/2fSaE6BXtQy0x7R7v9IOmZ
+              id: 2fSaE6BXtQy0x7R7v9IOmZ
+              name: Aesop Rock
+              type: artist
+              uri: spotify:artist:2fSaE6BXtQy0x7R7v9IOmZ
+            external_urls:
+              spotify: https://open.spotify.com/album/7BE5ka6VXenSZHD7ZFUZxb
+            href: https://api.spotify.com/v1/albums/7BE5ka6VXenSZHD7ZFUZxb
+            id: 7BE5ka6VXenSZHD7ZFUZxb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27307951dbdbfa9fd14e67ec2fd
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0207951dbdbfa9fd14e67ec2fd
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485107951dbdbfa9fd14e67ec2fd
+            is_playable: true
+            name: Cat Food
+            release_date: '2015-01-05'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:7BE5ka6VXenSZHD7ZFUZxb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ
+            href: https://api.spotify.com/v1/artists/2fSaE6BXtQy0x7R7v9IOmZ
+            id: 2fSaE6BXtQy0x7R7v9IOmZ
+            name: Aesop Rock
+            type: artist
+            uri: spotify:artist:2fSaE6BXtQy0x7R7v9IOmZ
+          disc_number: 1
+          duration_ms: 204493
+          explicit: true
+          external_ids:
+            isrc: USBWK1400215
+          external_urls:
+            spotify: https://open.spotify.com/track/4tNH93O0ZUESWNQXiiLZCB
+          href: https://api.spotify.com/v1/tracks/4tNH93O0ZUESWNQXiiLZCB
+          id: 4tNH93O0ZUESWNQXiiLZCB
+          is_local: false
+          is_playable: true
+          name: Cat Food
+          track_number: 1
+          type: track
+          uri: spotify:track:4tNH93O0ZUESWNQXiiLZCB
+    isrc: USBWK1400215

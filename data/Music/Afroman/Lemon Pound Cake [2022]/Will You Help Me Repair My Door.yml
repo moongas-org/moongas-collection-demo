@@ -5,7 +5,7 @@ trackData:
   album: Lemon Pound Cake
   genre: Hip-Hop
   year: 2022
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 361.1
     fingerprint: 
@@ -24,3 +24,133 @@ trackIdData:
         firstReleaseDate: '2022-09-30'
       score: 0.96716774
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1YtrRegzqiHAJJ9nbMsaKw
+    trackId: 1YtrRegzqiHAJJ9nbMsaKw
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS6YC2204747&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+              href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+              id: 4Icvbp9RDt5aY2TWDOVDsr
+              name: Afroman
+              type: artist
+              uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+            external_urls:
+              spotify: https://open.spotify.com/album/5MpeALTI19YHuaDZ8r0TVs
+            href: https://api.spotify.com/v1/albums/5MpeALTI19YHuaDZ8r0TVs
+            id: 5MpeALTI19YHuaDZ8r0TVs
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273fc48414405645cc4bfe30109
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02fc48414405645cc4bfe30109
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851fc48414405645cc4bfe30109
+            is_playable: true
+            name: Will You Help Me Repair My Door
+            release_date: '2023-01-13'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:5MpeALTI19YHuaDZ8r0TVs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 359880
+          explicit: true
+          external_ids:
+            isrc: US6YC2204747
+          external_urls:
+            spotify: https://open.spotify.com/track/1YtrRegzqiHAJJ9nbMsaKw
+          href: https://api.spotify.com/v1/tracks/1YtrRegzqiHAJJ9nbMsaKw
+          id: 1YtrRegzqiHAJJ9nbMsaKw
+          is_local: false
+          is_playable: true
+          name: Will You Help Me Repair My Door
+          track_number: 1
+          type: track
+          uri: spotify:track:1YtrRegzqiHAJJ9nbMsaKw
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+              href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+              id: 4Icvbp9RDt5aY2TWDOVDsr
+              name: Afroman
+              type: artist
+              uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+            external_urls:
+              spotify: https://open.spotify.com/album/65guRv8rg6TwPqnDYKtXwj
+            href: https://api.spotify.com/v1/albums/65guRv8rg6TwPqnDYKtXwj
+            id: 65guRv8rg6TwPqnDYKtXwj
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735585df43bb1c027ab0d046eb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025585df43bb1c027ab0d046eb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515585df43bb1c027ab0d046eb
+            is_playable: true
+            name: Lemon Pound Cake
+            release_date: '2023-01-09'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:65guRv8rg6TwPqnDYKtXwj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr
+            href: https://api.spotify.com/v1/artists/4Icvbp9RDt5aY2TWDOVDsr
+            id: 4Icvbp9RDt5aY2TWDOVDsr
+            name: Afroman
+            type: artist
+            uri: spotify:artist:4Icvbp9RDt5aY2TWDOVDsr
+          disc_number: 1
+          duration_ms: 359880
+          explicit: true
+          external_ids:
+            isrc: US6YC2204747
+          external_urls:
+            spotify: https://open.spotify.com/track/0qMkclbAhnpIojnfbgm29i
+          href: https://api.spotify.com/v1/tracks/0qMkclbAhnpIojnfbgm29i
+          id: 0qMkclbAhnpIojnfbgm29i
+          is_local: false
+          is_playable: true
+          name: Will You Help Me Repair My Door
+          track_number: 9
+          type: track
+          uri: spotify:track:0qMkclbAhnpIojnfbgm29i
+    isrc: US6YC2204747

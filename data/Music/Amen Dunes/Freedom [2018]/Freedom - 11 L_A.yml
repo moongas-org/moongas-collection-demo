@@ -5,7 +5,7 @@ trackData:
   album: Freedom
   genre: Dream Pop
   year: 2018
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 363.81
     fingerprint: 
@@ -24,3 +24,197 @@ trackIdData:
         firstReleaseDate: '2018-03-30'
       score: 0.99940664
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3uxZtt5aLlVVZWYSEiKjPM
+    trackId: 3uxZtt5aLlVVZWYSEiKjPM
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS5NR1819511&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+              href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+              id: 1jwOuEBcOKq0BeudSarbEM
+              name: Amen Dunes
+              type: artist
+              uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+            external_urls:
+              spotify: https://open.spotify.com/album/2gHrT3eVXmn5HQZS7yTzla
+            href: https://api.spotify.com/v1/albums/2gHrT3eVXmn5HQZS7yTzla
+            id: 2gHrT3eVXmn5HQZS7yTzla
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733aa883017fcc691a1500d37e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023aa883017fcc691a1500d37e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513aa883017fcc691a1500d37e
+            is_playable: true
+            name: Freedom (Deluxe Edition)
+            release_date: '2018-11-30'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:2gHrT3eVXmn5HQZS7yTzla
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+            href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+            id: 1jwOuEBcOKq0BeudSarbEM
+            name: Amen Dunes
+            type: artist
+            uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+          disc_number: 1
+          duration_ms: 363760
+          explicit: false
+          external_ids:
+            isrc: US5NR1819511
+          external_urls:
+            spotify: https://open.spotify.com/track/3uxZtt5aLlVVZWYSEiKjPM
+          href: https://api.spotify.com/v1/tracks/3uxZtt5aLlVVZWYSEiKjPM
+          id: 3uxZtt5aLlVVZWYSEiKjPM
+          is_local: false
+          is_playable: true
+          name: L.A.
+          track_number: 11
+          type: track
+          uri: spotify:track:3uxZtt5aLlVVZWYSEiKjPM
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+              href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+              id: 1jwOuEBcOKq0BeudSarbEM
+              name: Amen Dunes
+              type: artist
+              uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+            external_urls:
+              spotify: https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW
+            href: https://api.spotify.com/v1/albums/1U3eCqaFcgjZwdSgOg8jDW
+            id: 1U3eCqaFcgjZwdSgOg8jDW
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d33caf0bbb67374d119c2142
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d33caf0bbb67374d119c2142
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d33caf0bbb67374d119c2142
+            is_playable: true
+            name: Freedom
+            release_date: '2018-03-30'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1U3eCqaFcgjZwdSgOg8jDW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+            href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+            id: 1jwOuEBcOKq0BeudSarbEM
+            name: Amen Dunes
+            type: artist
+            uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+          disc_number: 1
+          duration_ms: 363760
+          explicit: false
+          external_ids:
+            isrc: US5NR1819511
+          external_urls:
+            spotify: https://open.spotify.com/track/2ZRbDz4VR59Xbulv42mIEO
+          href: https://api.spotify.com/v1/tracks/2ZRbDz4VR59Xbulv42mIEO
+          id: 2ZRbDz4VR59Xbulv42mIEO
+          is_local: false
+          is_playable: true
+          name: L.A.
+          track_number: 11
+          type: track
+          uri: spotify:track:2ZRbDz4VR59Xbulv42mIEO
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+              href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+              id: 1jwOuEBcOKq0BeudSarbEM
+              name: Amen Dunes
+              type: artist
+              uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA
+              href: https://api.spotify.com/v1/artists/09s6bLEw45wioK9ytf3nsA
+              id: 09s6bLEw45wioK9ytf3nsA
+              name: Westerman
+              type: artist
+              uri: spotify:artist:09s6bLEw45wioK9ytf3nsA
+            external_urls:
+              spotify: https://open.spotify.com/album/6avsUHvIpnhw72Qn6DIMdx
+            href: https://api.spotify.com/v1/albums/6avsUHvIpnhw72Qn6DIMdx
+            id: 6avsUHvIpnhw72Qn6DIMdx
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738fc3c56b9c1c706eaa2b2d8f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028fc3c56b9c1c706eaa2b2d8f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518fc3c56b9c1c706eaa2b2d8f
+            is_playable: true
+            name: L.A. (Remix feat. Westerman)
+            release_date: '2019-08-20'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:6avsUHvIpnhw72Qn6DIMdx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+            href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+            id: 1jwOuEBcOKq0BeudSarbEM
+            name: Amen Dunes
+            type: artist
+            uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+          disc_number: 1
+          duration_ms: 363760
+          explicit: false
+          external_ids:
+            isrc: US5NR1819511
+          external_urls:
+            spotify: https://open.spotify.com/track/4fCWOkoDKHNkhXurueqgkq
+          href: https://api.spotify.com/v1/tracks/4fCWOkoDKHNkhXurueqgkq
+          id: 4fCWOkoDKHNkhXurueqgkq
+          is_local: false
+          is_playable: true
+          name: L.A.
+          track_number: 2
+          type: track
+          uri: spotify:track:4fCWOkoDKHNkhXurueqgkq
+    isrc: US5NR1819511

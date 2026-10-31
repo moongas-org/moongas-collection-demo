@@ -5,7 +5,7 @@ trackData:
   album: Reinventing Axl Rose
   genre: Punk Rock
   year: 2002
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 151.73
     fingerprint: 
@@ -32,3 +32,76 @@ trackIdData:
         firstReleaseDate: '2002-02-02'
       score: 0.96594805
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0w68mFXKGcb0pXCbKb9ugx
+    trackId: 0w68mFXKGcb0pXCbKb9ugx
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS68Z0500008&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl
+              href: https://api.spotify.com/v1/artists/29lz7gs8edwnnfuXW4FhMl
+              id: 29lz7gs8edwnnfuXW4FhMl
+              name: Against Me!
+              type: artist
+              uri: spotify:artist:29lz7gs8edwnnfuXW4FhMl
+            external_urls:
+              spotify: https://open.spotify.com/album/1xfqfonJ00jubGyCirC4lw
+            href: https://api.spotify.com/v1/albums/1xfqfonJ00jubGyCirC4lw
+            id: 1xfqfonJ00jubGyCirC4lw
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f9f58d16e1b81b20c4f5ab59
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f9f58d16e1b81b20c4f5ab59
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f9f58d16e1b81b20c4f5ab59
+            is_playable: true
+            name: The Acoustic EP
+            release_date: '2001-12-01'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:1xfqfonJ00jubGyCirC4lw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl
+            href: https://api.spotify.com/v1/artists/29lz7gs8edwnnfuXW4FhMl
+            id: 29lz7gs8edwnnfuXW4FhMl
+            name: Against Me!
+            type: artist
+            uri: spotify:artist:29lz7gs8edwnnfuXW4FhMl
+          disc_number: 1
+          duration_ms: 159960
+          explicit: true
+          external_ids:
+            isrc: US68Z0500008
+          external_urls:
+            spotify: https://open.spotify.com/track/0w68mFXKGcb0pXCbKb9ugx
+          href: https://api.spotify.com/v1/tracks/0w68mFXKGcb0pXCbKb9ugx
+          id: 0w68mFXKGcb0pXCbKb9ugx
+          is_local: false
+          is_playable: true
+          name: Those Anarcho Punks Are Mysterious
+          track_number: 2
+          type: track
+          uri: spotify:track:0w68mFXKGcb0pXCbKb9ugx
+    isrc: US68Z0500008

@@ -5,7 +5,7 @@ trackData:
   album: The Eternal Cowboy
   genre: Punk Rock
   year: 2003
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 160.81
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2003-11-04'
       score: 0.9877703
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5dfNXbBmDENwqBQ0h4kkYS
+    trackId: 5dfNXbBmDENwqBQ0h4kkYS
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFW40466704&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl
+              href: https://api.spotify.com/v1/artists/29lz7gs8edwnnfuXW4FhMl
+              id: 29lz7gs8edwnnfuXW4FhMl
+              name: Against Me!
+              type: artist
+              uri: spotify:artist:29lz7gs8edwnnfuXW4FhMl
+            external_urls:
+              spotify: https://open.spotify.com/album/4xpYQJRJL7vwo6RO7dU4Ih
+            href: https://api.spotify.com/v1/albums/4xpYQJRJL7vwo6RO7dU4Ih
+            id: 4xpYQJRJL7vwo6RO7dU4Ih
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273de55ceab13d84b1452d2eb02
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02de55ceab13d84b1452d2eb02
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851de55ceab13d84b1452d2eb02
+            is_playable: true
+            name: As the Eternal Cowboy
+            release_date: '2003-11-04'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4xpYQJRJL7vwo6RO7dU4Ih
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl
+            href: https://api.spotify.com/v1/artists/29lz7gs8edwnnfuXW4FhMl
+            id: 29lz7gs8edwnnfuXW4FhMl
+            name: Against Me!
+            type: artist
+            uri: spotify:artist:29lz7gs8edwnnfuXW4FhMl
+          disc_number: 1
+          duration_ms: 160666
+          explicit: false
+          external_ids:
+            isrc: USFW40466704
+          external_urls:
+            spotify: https://open.spotify.com/track/5dfNXbBmDENwqBQ0h4kkYS
+          href: https://api.spotify.com/v1/tracks/5dfNXbBmDENwqBQ0h4kkYS
+          id: 5dfNXbBmDENwqBQ0h4kkYS
+          is_local: false
+          is_playable: true
+          name: Sink, Florida, Sink
+          track_number: 4
+          type: track
+          uri: spotify:track:5dfNXbBmDENwqBQ0h4kkYS
+    isrc: USFW40466704

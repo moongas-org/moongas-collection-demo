@@ -154,3 +154,133 @@ mediaFileData:
         firstReleaseDate: '2011-01-19'
       score: 0.6328125
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Q6HxkeespP86vFDm6An2a
+    trackId: 3Q6HxkeespP86vFDm6An2a
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS1000351&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6pUuJr9eCGnpx6aDtd1cGR
+              href: https://api.spotify.com/v1/artists/6pUuJr9eCGnpx6aDtd1cGR
+              id: 6pUuJr9eCGnpx6aDtd1cGR
+              name: AnnieSings
+              type: artist
+              uri: spotify:artist:6pUuJr9eCGnpx6aDtd1cGR
+            external_urls:
+              spotify: https://open.spotify.com/album/2DruhadgpsL4l4c5vhct8l
+            href: https://api.spotify.com/v1/albums/2DruhadgpsL4l4c5vhct8l
+            id: 2DruhadgpsL4l4c5vhct8l
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27320c43a8a3fb72f42dbbccc7e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0220c43a8a3fb72f42dbbccc7e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485120c43a8a3fb72f42dbbccc7e
+            is_playable: true
+            name: Someone Like You
+            release_date: '2011'
+            release_date_precision: year
+            total_tracks: 1
+            type: album
+            uri: spotify:album:2DruhadgpsL4l4c5vhct8l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6pUuJr9eCGnpx6aDtd1cGR
+            href: https://api.spotify.com/v1/artists/6pUuJr9eCGnpx6aDtd1cGR
+            id: 6pUuJr9eCGnpx6aDtd1cGR
+            name: AnnieSings
+            type: artist
+            uri: spotify:artist:6pUuJr9eCGnpx6aDtd1cGR
+          disc_number: 1
+          duration_ms: 282000
+          explicit: false
+          external_ids:
+            isrc: GBBKS1000351
+          external_urls:
+            spotify: https://open.spotify.com/track/3Q6HxkeespP86vFDm6An2a
+          href: https://api.spotify.com/v1/tracks/3Q6HxkeespP86vFDm6An2a
+          id: 3Q6HxkeespP86vFDm6An2a
+          is_local: false
+          is_playable: true
+          name: Someone Like You
+          track_number: 1
+          type: track
+          uri: spotify:track:3Q6HxkeespP86vFDm6An2a
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+              href: https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY
+              id: 4dpARuHxo51G3z768sgnrY
+              name: Adele
+              type: artist
+              uri: spotify:artist:4dpARuHxo51G3z768sgnrY
+            external_urls:
+              spotify: https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL
+            href: https://api.spotify.com/v1/albums/0Lg1uZvI312TPqxNWShFXL
+            id: 0Lg1uZvI312TPqxNWShFXL
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027e7e5dd9d1ab19fcded8a17f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517e7e5dd9d1ab19fcded8a17f
+            is_playable: true
+            name: '21'
+            release_date: '2011-01-24'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0Lg1uZvI312TPqxNWShFXL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY
+            href: https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY
+            id: 4dpARuHxo51G3z768sgnrY
+            name: Adele
+            type: artist
+            uri: spotify:artist:4dpARuHxo51G3z768sgnrY
+          disc_number: 1
+          duration_ms: 285240
+          explicit: false
+          external_ids:
+            isrc: GBBKS1000351
+          external_urls:
+            spotify: https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV
+          href: https://api.spotify.com/v1/tracks/1zwMYTA5nlNjZxYrvBB2pV
+          id: 1zwMYTA5nlNjZxYrvBB2pV
+          is_local: false
+          is_playable: true
+          name: Someone Like You
+          track_number: 11
+          type: track
+          uri: spotify:track:1zwMYTA5nlNjZxYrvBB2pV
+    isrc: GBBKS1000351

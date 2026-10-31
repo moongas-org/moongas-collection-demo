@@ -5,7 +5,7 @@ trackData:
   album: eMOTIVe
   genre: Alternative Metal
   year: 2004
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 289.89
     fingerprint: 
@@ -74,3 +74,304 @@ trackIdData:
         firstReleaseDate: '2013-11-26'
       score: 0.93746704
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5zsFpdxEx1JxvMNN9afHor
+    trackId: 5zsFpdxEx1JxvMNN9afHor
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20400534&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/4jVvXUTK5UWEJRZg6GMaiK
+            href: https://api.spotify.com/v1/albums/4jVvXUTK5UWEJRZg6GMaiK
+            id: 4jVvXUTK5UWEJRZg6GMaiK
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738d58ab09660a379be9516262
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028d58ab09660a379be9516262
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518d58ab09660a379be9516262
+            is_playable: true
+            name: Three Sixty
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4jVvXUTK5UWEJRZg6GMaiK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 286626
+          explicit: false
+          external_ids:
+            isrc: USVI20400534
+          external_urls:
+            spotify: https://open.spotify.com/track/5zsFpdxEx1JxvMNN9afHor
+          href: https://api.spotify.com/v1/tracks/5zsFpdxEx1JxvMNN9afHor
+          id: 5zsFpdxEx1JxvMNN9afHor
+          is_local: false
+          is_playable: true
+          name: Imagine
+          track_number: 10
+          type: track
+          uri: spotify:track:5zsFpdxEx1JxvMNN9afHor
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/0IOTRhN3vY3JwU1g8qSTMO
+            href: https://api.spotify.com/v1/albums/0IOTRhN3vY3JwU1g8qSTMO
+            id: 0IOTRhN3vY3JwU1g8qSTMO
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27368b46756c0b80c077b7db9fb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0268b46756c0b80c077b7db9fb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485168b46756c0b80c077b7db9fb
+            is_playable: true
+            name: Three Sixty (Deluxe Edition)
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:0IOTRhN3vY3JwU1g8qSTMO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 2
+          duration_ms: 287466
+          explicit: false
+          external_ids:
+            isrc: USVI20400534
+          external_urls:
+            spotify: https://open.spotify.com/track/2r6v6ngrnaTVF24JqrRf8o
+          href: https://api.spotify.com/v1/tracks/2r6v6ngrnaTVF24JqrRf8o
+          id: 2r6v6ngrnaTVF24JqrRf8o
+          is_local: false
+          is_playable: true
+          name: Imagine
+          track_number: 1
+          type: track
+          uri: spotify:track:2r6v6ngrnaTVF24JqrRf8o
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4
+            href: https://api.spotify.com/v1/albums/2UAin9VEGxiZRfe9Q7SKg4
+            id: 2UAin9VEGxiZRfe9Q7SKg4
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b899c5d781cdb8bd0788b27f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b899c5d781cdb8bd0788b27f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b899c5d781cdb8bd0788b27f
+            is_playable: true
+            name: eMOTIVe
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2UAin9VEGxiZRfe9Q7SKg4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 288000
+          explicit: false
+          external_ids:
+            isrc: USVI20400534
+          external_urls:
+            spotify: https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe
+          href: https://api.spotify.com/v1/tracks/34tYgJ1vX0sRpjm4teNWVe
+          id: 34tYgJ1vX0sRpjm4teNWVe
+          is_local: false
+          is_playable: true
+          name: Imagine
+          track_number: 2
+          type: track
+          uri: spotify:track:34tYgJ1vX0sRpjm4teNWVe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/1OXL7TivPXoa2zF8aCnsUj
+            href: https://api.spotify.com/v1/albums/1OXL7TivPXoa2zF8aCnsUj
+            id: 1OXL7TivPXoa2zF8aCnsUj
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ba6a7650ce5d7e66991b5e4e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ba6a7650ce5d7e66991b5e4e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ba6a7650ce5d7e66991b5e4e
+            is_playable: true
+            name: Three Sixty (Deluxe Edition)
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:1OXL7TivPXoa2zF8aCnsUj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 2
+          duration_ms: 287466
+          explicit: false
+          external_ids:
+            isrc: USVI20400534
+          external_urls:
+            spotify: https://open.spotify.com/track/066N0phJeNFLEiREiP65VG
+          href: https://api.spotify.com/v1/tracks/066N0phJeNFLEiREiP65VG
+          id: 066N0phJeNFLEiREiP65VG
+          is_local: false
+          is_playable: true
+          name: Imagine
+          track_number: 1
+          type: track
+          uri: spotify:track:066N0phJeNFLEiREiP65VG
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/5LbxRSSCdiyFmu8YvC0423
+            href: https://api.spotify.com/v1/albums/5LbxRSSCdiyFmu8YvC0423
+            id: 5LbxRSSCdiyFmu8YvC0423
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ecc0c45b60fb769260c16b2e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ecc0c45b60fb769260c16b2e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ecc0c45b60fb769260c16b2e
+            is_playable: true
+            name: Three Sixty
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5LbxRSSCdiyFmu8YvC0423
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 286626
+          explicit: false
+          external_ids:
+            isrc: USVI20400534
+          external_urls:
+            spotify: https://open.spotify.com/track/18a3uzWNupz9hDpuWTwIuk
+          href: https://api.spotify.com/v1/tracks/18a3uzWNupz9hDpuWTwIuk
+          id: 18a3uzWNupz9hDpuWTwIuk
+          is_local: false
+          is_playable: true
+          name: Imagine
+          track_number: 10
+          type: track
+          uri: spotify:track:18a3uzWNupz9hDpuWTwIuk
+    isrc: USVI20400534

@@ -141,3 +141,76 @@ mediaFileData:
         firstReleaseDate: '2001-04-10'
       score: 0.86623156
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4OLco5v6f41seXqQgJ17Kx
+    trackId: 4OLco5v6f41seXqQgJ17Kx
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEH841700848&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS
+              href: https://api.spotify.com/v1/artists/3EhbVgyfGd7HkpsagwL9GS
+              id: 3EhbVgyfGd7HkpsagwL9GS
+              name: Alice Cooper
+              type: artist
+              uri: spotify:artist:3EhbVgyfGd7HkpsagwL9GS
+            external_urls:
+              spotify: https://open.spotify.com/album/6c1W0ZB01sJoqKcE03l2xz
+            href: https://api.spotify.com/v1/albums/6c1W0ZB01sJoqKcE03l2xz
+            id: 6c1W0ZB01sJoqKcE03l2xz
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735c67d99bc8cf5889ba4e6fac
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025c67d99bc8cf5889ba4e6fac
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515c67d99bc8cf5889ba4e6fac
+            is_playable: true
+            name: Paranormal
+            release_date: '2017-07-28'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:6c1W0ZB01sJoqKcE03l2xz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS
+            href: https://api.spotify.com/v1/artists/3EhbVgyfGd7HkpsagwL9GS
+            id: 3EhbVgyfGd7HkpsagwL9GS
+            name: Alice Cooper
+            type: artist
+            uri: spotify:artist:3EhbVgyfGd7HkpsagwL9GS
+          disc_number: 2
+          duration_ms: 218767
+          explicit: false
+          external_ids:
+            isrc: DEH841700848
+          external_urls:
+            spotify: https://open.spotify.com/track/4OLco5v6f41seXqQgJ17Kx
+          href: https://api.spotify.com/v1/tracks/4OLco5v6f41seXqQgJ17Kx
+          id: 4OLco5v6f41seXqQgJ17Kx
+          is_local: false
+          is_playable: true
+          name: Billion Dollar Babies - Live in Columbus
+          track_number: 3
+          type: track
+          uri: spotify:track:4OLco5v6f41seXqQgJ17Kx
+    isrc: DEH841700848

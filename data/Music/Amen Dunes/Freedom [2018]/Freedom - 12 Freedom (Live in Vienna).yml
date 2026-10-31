@@ -5,7 +5,7 @@ trackData:
   album: Freedom
   genre: Dream Pop
   year: 2018
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: !!float '416'
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '2018-03-30'
       score: 0.9982529
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1f5EpfHQhcgfGRTx5g56xS
+    trackId: 1f5EpfHQhcgfGRTx5g56xS
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS5NR1861318&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+              href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+              id: 1jwOuEBcOKq0BeudSarbEM
+              name: Amen Dunes
+              type: artist
+              uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+            external_urls:
+              spotify: https://open.spotify.com/album/2gHrT3eVXmn5HQZS7yTzla
+            href: https://api.spotify.com/v1/albums/2gHrT3eVXmn5HQZS7yTzla
+            id: 2gHrT3eVXmn5HQZS7yTzla
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733aa883017fcc691a1500d37e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023aa883017fcc691a1500d37e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513aa883017fcc691a1500d37e
+            is_playable: true
+            name: Freedom (Deluxe Edition)
+            release_date: '2018-11-30'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:2gHrT3eVXmn5HQZS7yTzla
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM
+            href: https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM
+            id: 1jwOuEBcOKq0BeudSarbEM
+            name: Amen Dunes
+            type: artist
+            uri: spotify:artist:1jwOuEBcOKq0BeudSarbEM
+          disc_number: 1
+          duration_ms: 415960
+          explicit: false
+          external_ids:
+            isrc: US5NR1861318
+          external_urls:
+            spotify: https://open.spotify.com/track/1f5EpfHQhcgfGRTx5g56xS
+          href: https://api.spotify.com/v1/tracks/1f5EpfHQhcgfGRTx5g56xS
+          id: 1f5EpfHQhcgfGRTx5g56xS
+          is_local: false
+          is_playable: true
+          name: Freedom - Live in Vienna
+          track_number: 12
+          type: track
+          uri: spotify:track:1f5EpfHQhcgfGRTx5g56xS
+    isrc: US5NR1861318

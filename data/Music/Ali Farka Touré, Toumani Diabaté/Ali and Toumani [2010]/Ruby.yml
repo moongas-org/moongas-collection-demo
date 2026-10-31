@@ -31,3 +31,90 @@ mediaFileData:
         firstReleaseDate: '2010-02-22'
       score: 0.97026634
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd
+    trackId: 37IbDeC2CfODD3OGcAO8Vd
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBGU0983001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL
+              href: https://api.spotify.com/v1/artists/3mNygoyrEKLgo6sx0MzwOL
+              id: 3mNygoyrEKLgo6sx0MzwOL
+              name: Ali Farka Touré
+              type: artist
+              uri: spotify:artist:3mNygoyrEKLgo6sx0MzwOL
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW
+              href: https://api.spotify.com/v1/artists/2nCACYdIndYchzX4bxLcTW
+              id: 2nCACYdIndYchzX4bxLcTW
+              name: Toumani Diabaté
+              type: artist
+              uri: spotify:artist:2nCACYdIndYchzX4bxLcTW
+            external_urls:
+              spotify: https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH
+            href: https://api.spotify.com/v1/albums/4JiLV9qrmMyP1xmgl3B4HH
+            id: 4JiLV9qrmMyP1xmgl3B4HH
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b9611049f9655e14005f3a44
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b9611049f9655e14005f3a44
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b9611049f9655e14005f3a44
+            is_playable: true
+            name: Ali & Toumani
+            release_date: '2010-02-22'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4JiLV9qrmMyP1xmgl3B4HH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL
+            href: https://api.spotify.com/v1/artists/3mNygoyrEKLgo6sx0MzwOL
+            id: 3mNygoyrEKLgo6sx0MzwOL
+            name: Ali Farka Touré
+            type: artist
+            uri: spotify:artist:3mNygoyrEKLgo6sx0MzwOL
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW
+            href: https://api.spotify.com/v1/artists/2nCACYdIndYchzX4bxLcTW
+            id: 2nCACYdIndYchzX4bxLcTW
+            name: Toumani Diabaté
+            type: artist
+            uri: spotify:artist:2nCACYdIndYchzX4bxLcTW
+          disc_number: 1
+          duration_ms: 355840
+          explicit: false
+          external_ids:
+            isrc: GBBGU0983001
+          external_urls:
+            spotify: https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd
+          href: https://api.spotify.com/v1/tracks/37IbDeC2CfODD3OGcAO8Vd
+          id: 37IbDeC2CfODD3OGcAO8Vd
+          is_local: false
+          is_playable: true
+          name: Ruby
+          track_number: 1
+          type: track
+          uri: spotify:track:37IbDeC2CfODD3OGcAO8Vd
+    isrc: GBBGU0983001

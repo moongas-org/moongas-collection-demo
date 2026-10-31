@@ -222,3 +222,76 @@ mediaFileData:
         firstReleaseDate:
       score: 0.957674
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3fV5gOsPFcz6s7AoRbwpxk
+    trackId: 3fV5gOsPFcz6s7AoRbwpxk
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ASEVJH0803412&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+              href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+              id: 5ksRONqssB7BR161NTtJAm
+              name: Ace of Base
+              type: artist
+              uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+            external_urls:
+              spotify: https://open.spotify.com/album/3vVufGZuCaeIUW866CxXOI
+            href: https://api.spotify.com/v1/albums/3vVufGZuCaeIUW866CxXOI
+            id: 3vVufGZuCaeIUW866CxXOI
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273912b87d020b025cd190aa39d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02912b87d020b025cd190aa39d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851912b87d020b025cd190aa39d
+            is_playable: true
+            name: Beautiful Life - The Singles Box
+            release_date: '2023-04-28'
+            release_date_precision: day
+            total_tracks: 314
+            type: album
+            uri: spotify:album:3vVufGZuCaeIUW866CxXOI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+            href: https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm
+            id: 5ksRONqssB7BR161NTtJAm
+            name: Ace of Base
+            type: artist
+            uri: spotify:artist:5ksRONqssB7BR161NTtJAm
+          disc_number: 6
+          duration_ms: 221093
+          explicit: false
+          external_ids:
+            isrc: SEVJH0803412
+          external_urls:
+            spotify: https://open.spotify.com/track/3fV5gOsPFcz6s7AoRbwpxk
+          href: https://api.spotify.com/v1/tracks/3fV5gOsPFcz6s7AoRbwpxk
+          id: 3fV5gOsPFcz6s7AoRbwpxk
+          is_local: false
+          is_playable: true
+          name: Dancer in a Daydream
+          track_number: 2
+          type: track
+          uri: spotify:track:3fV5gOsPFcz6s7AoRbwpxk
+    isrc: SEVJH0803412

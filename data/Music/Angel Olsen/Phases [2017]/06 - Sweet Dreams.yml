@@ -5,7 +5,7 @@ trackData:
   album: Phases
   genre: Psychedelic Rock
   year: 2017
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 191.9
     fingerprint: 
@@ -32,5 +32,79 @@ trackIdData:
         firstReleaseDate: '2017-11-10'
       score: 0.9717827
     - id: c83f17bc-03c3-4b3a-9777-f05f756eaa7f
+      recordings: []
       score: 0.72458464
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7I4OpnKiVtIctTREZ3zCh8
+    trackId: 7I4OpnKiVtIctTREZ3zCh8
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSQY51316920&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt
+              href: https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt
+              id: 6mKqFxGMS5TGDZI3XkT5Rt
+              name: Angel Olsen
+              type: artist
+              uri: spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt
+            external_urls:
+              spotify: https://open.spotify.com/album/5hThrzlFEqxwnr4U6JxcMd
+            href: https://api.spotify.com/v1/albums/5hThrzlFEqxwnr4U6JxcMd
+            id: 5hThrzlFEqxwnr4U6JxcMd
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ca7172a7722659f79f61b5af
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ca7172a7722659f79f61b5af
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ca7172a7722659f79f61b5af
+            is_playable: true
+            name: Sleepwalker
+            release_date: '2013-01-20'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:5hThrzlFEqxwnr4U6JxcMd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt
+            href: https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt
+            id: 6mKqFxGMS5TGDZI3XkT5Rt
+            name: Angel Olsen
+            type: artist
+            uri: spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt
+          disc_number: 1
+          duration_ms: 191874
+          explicit: false
+          external_ids:
+            isrc: USQY51316920
+          external_urls:
+            spotify: https://open.spotify.com/track/7I4OpnKiVtIctTREZ3zCh8
+          href: https://api.spotify.com/v1/tracks/7I4OpnKiVtIctTREZ3zCh8
+          id: 7I4OpnKiVtIctTREZ3zCh8
+          is_local: false
+          is_playable: true
+          name: Sweet Dreams
+          track_number: 1
+          type: track
+          uri: spotify:track:7I4OpnKiVtIctTREZ3zCh8
+    isrc: USQY51316920

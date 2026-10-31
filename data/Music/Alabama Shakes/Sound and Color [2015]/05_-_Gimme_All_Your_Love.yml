@@ -31,3 +31,133 @@ mediaFileData:
         firstReleaseDate: '2015-04-22'
       score: 0.99792325
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4kdqfbnSxyQdQwoyi3VwwD
+    trackId: 4kdqfbnSxyQdQwoyi3VwwD
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSATO1400854&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh
+              href: https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh
+              id: 16GcWuvvybAoaHr0NqT8Eh
+              name: Alabama Shakes
+              type: artist
+              uri: spotify:artist:16GcWuvvybAoaHr0NqT8Eh
+            external_urls:
+              spotify: https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE
+            href: https://api.spotify.com/v1/albums/5CNzzqPfB7fho8J4vG37jE
+            id: 5CNzzqPfB7fho8J4vG37jE
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273df1884a7ebca0168bdcaf69e
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02df1884a7ebca0168bdcaf69e
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851df1884a7ebca0168bdcaf69e
+            is_playable: true
+            name: Sound & Color (Deluxe Edition)
+            release_date: '2015'
+            release_date_precision: year
+            total_tracks: 19
+            type: album
+            uri: spotify:album:5CNzzqPfB7fho8J4vG37jE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh
+            href: https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh
+            id: 16GcWuvvybAoaHr0NqT8Eh
+            name: Alabama Shakes
+            type: artist
+            uri: spotify:artist:16GcWuvvybAoaHr0NqT8Eh
+          disc_number: 1
+          duration_ms: 243466
+          explicit: false
+          external_ids:
+            isrc: USATO1400854
+          external_urls:
+            spotify: https://open.spotify.com/track/4kdqfbnSxyQdQwoyi3VwwD
+          href: https://api.spotify.com/v1/tracks/4kdqfbnSxyQdQwoyi3VwwD
+          id: 4kdqfbnSxyQdQwoyi3VwwD
+          is_local: false
+          is_playable: true
+          name: Gimme All Your Love
+          track_number: 5
+          type: track
+          uri: spotify:track:4kdqfbnSxyQdQwoyi3VwwD
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh
+              href: https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh
+              id: 16GcWuvvybAoaHr0NqT8Eh
+              name: Alabama Shakes
+              type: artist
+              uri: spotify:artist:16GcWuvvybAoaHr0NqT8Eh
+            external_urls:
+              spotify: https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY
+            href: https://api.spotify.com/v1/albums/0GaYG9L1sXHQZZ7BTk0hGY
+            id: 0GaYG9L1sXHQZZ7BTk0hGY
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273732af53fdad3318e347bc942
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02732af53fdad3318e347bc942
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851732af53fdad3318e347bc942
+            is_playable: true
+            name: Sound & Color
+            release_date: '2015-04-21'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0GaYG9L1sXHQZZ7BTk0hGY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh
+            href: https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh
+            id: 16GcWuvvybAoaHr0NqT8Eh
+            name: Alabama Shakes
+            type: artist
+            uri: spotify:artist:16GcWuvvybAoaHr0NqT8Eh
+          disc_number: 1
+          duration_ms: 243466
+          explicit: false
+          external_ids:
+            isrc: USATO1400854
+          external_urls:
+            spotify: https://open.spotify.com/track/5qGavrnGfH766WNp5pZXS2
+          href: https://api.spotify.com/v1/tracks/5qGavrnGfH766WNp5pZXS2
+          id: 5qGavrnGfH766WNp5pZXS2
+          is_local: false
+          is_playable: true
+          name: Gimme All Your Love
+          track_number: 5
+          type: track
+          uri: spotify:track:5qGavrnGfH766WNp5pZXS2
+    isrc: USATO1400854

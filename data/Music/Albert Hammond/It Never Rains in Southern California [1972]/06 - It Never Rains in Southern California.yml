@@ -231,3 +231,133 @@ mediaFileData:
         firstReleaseDate: '1997'
       score: 0.9276767
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1K24PVzIzAKBzRhmVKRleL
+    trackId: 1K24PVzIzAKBzRhmVKRleL
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10015584&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG
+            href: https://api.spotify.com/v1/albums/2JcwQwy2KY3CEIzHUC30wG
+            id: 2JcwQwy2KY3CEIzHUC30wG
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736eb82115589a346dcfea9956
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026eb82115589a346dcfea9956
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516eb82115589a346dcfea9956
+            is_playable: true
+            name: Radio Hits Of the '70s
+            release_date: '2006-07-18'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2JcwQwy2KY3CEIzHUC30wG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g
+            href: https://api.spotify.com/v1/artists/34E3csCxpXunPGEkOVVX2g
+            id: 34E3csCxpXunPGEkOVVX2g
+            name: Albert Hammond
+            type: artist
+            uri: spotify:artist:34E3csCxpXunPGEkOVVX2g
+          disc_number: 1
+          duration_ms: 229000
+          explicit: false
+          external_ids:
+            isrc: USSM10015584
+          external_urls:
+            spotify: https://open.spotify.com/track/1K24PVzIzAKBzRhmVKRleL
+          href: https://api.spotify.com/v1/tracks/1K24PVzIzAKBzRhmVKRleL
+          id: 1K24PVzIzAKBzRhmVKRleL
+          is_local: false
+          is_playable: true
+          name: It Never Rains in Southern California
+          track_number: 3
+          type: track
+          uri: spotify:track:1K24PVzIzAKBzRhmVKRleL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg
+            href: https://api.spotify.com/v1/albums/1k7WkNHGPNPnri2tsowvtg
+            id: 1k7WkNHGPNPnri2tsowvtg
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273871ab8561721e8967eda8269
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02871ab8561721e8967eda8269
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851871ab8561721e8967eda8269
+            is_playable: true
+            name: 70s 100 Hits
+            release_date: '2010-03-01'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:1k7WkNHGPNPnri2tsowvtg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g
+            href: https://api.spotify.com/v1/artists/34E3csCxpXunPGEkOVVX2g
+            id: 34E3csCxpXunPGEkOVVX2g
+            name: Albert Hammond
+            type: artist
+            uri: spotify:artist:34E3csCxpXunPGEkOVVX2g
+          disc_number: 1
+          duration_ms: 231573
+          explicit: false
+          external_ids:
+            isrc: USSM10015584
+          external_urls:
+            spotify: https://open.spotify.com/track/7vuYJnbxnS6tYCvgysnN6i
+          href: https://api.spotify.com/v1/tracks/7vuYJnbxnS6tYCvgysnN6i
+          id: 7vuYJnbxnS6tYCvgysnN6i
+          is_local: false
+          is_playable: true
+          name: It Never Rains in Southern California
+          track_number: 44
+          type: track
+          uri: spotify:track:7vuYJnbxnS6tYCvgysnN6i
+    isrc: USSM10015584

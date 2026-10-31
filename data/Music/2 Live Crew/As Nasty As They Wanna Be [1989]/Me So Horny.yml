@@ -146,3 +146,76 @@ mediaFileData:
         firstReleaseDate: '1989'
       score: 0.9911986
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg
+    trackId: 3EgvmOhP3NQUHY7d6PDOUg
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS4SC0400001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes
+              href: https://api.spotify.com/v1/artists/58Dx4HPzeOO3dbpD9YYEes
+              id: 58Dx4HPzeOO3dbpD9YYEes
+              name: 2 LIVE CREW
+              type: artist
+              uri: spotify:artist:58Dx4HPzeOO3dbpD9YYEes
+            external_urls:
+              spotify: https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb
+            href: https://api.spotify.com/v1/albums/5E27A8RO0L5fEkJut86TXb
+            id: 5E27A8RO0L5fEkJut86TXb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e4b4d03ba9c08a76991de7b1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e4b4d03ba9c08a76991de7b1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e4b4d03ba9c08a76991de7b1
+            is_playable: true
+            name: As Nasty As They Wanna Be
+            release_date: '1989-03-20'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:5E27A8RO0L5fEkJut86TXb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes
+            href: https://api.spotify.com/v1/artists/58Dx4HPzeOO3dbpD9YYEes
+            id: 58Dx4HPzeOO3dbpD9YYEes
+            name: 2 LIVE CREW
+            type: artist
+            uri: spotify:artist:58Dx4HPzeOO3dbpD9YYEes
+          disc_number: 1
+          duration_ms: 276466
+          explicit: false
+          external_ids:
+            isrc: US4SC0400001
+          external_urls:
+            spotify: https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg
+          href: https://api.spotify.com/v1/tracks/3EgvmOhP3NQUHY7d6PDOUg
+          id: 3EgvmOhP3NQUHY7d6PDOUg
+          is_local: false
+          is_playable: true
+          name: Me So Horny
+          track_number: 1
+          type: track
+          uri: spotify:track:3EgvmOhP3NQUHY7d6PDOUg
+    isrc: US4SC0400001

@@ -5,7 +5,7 @@ trackData:
   album: Merriweather Post Pavilion
   genre: Psychedelic Rock
   year: 2009
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 270.18
     fingerprint: 
@@ -43,3 +43,133 @@ trackIdData:
         firstReleaseDate: '2009-01-06'
       score: 0.8627044
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/26JkaeeVVIPLquHEsf7YJd
+    trackId: 26JkaeeVVIPLquHEsf7YJd
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0800812&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj
+              href: https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj
+              id: 4kwxTgCKMipBKhSnEstNKj
+              name: Animal Collective
+              type: artist
+              uri: spotify:artist:4kwxTgCKMipBKhSnEstNKj
+            external_urls:
+              spotify: https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq
+            href: https://api.spotify.com/v1/albums/6BRq5g6CWiFgN3NrjLGAYq
+            id: 6BRq5g6CWiFgN3NrjLGAYq
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a7f85f2df08fbeb6dac5677c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a7f85f2df08fbeb6dac5677c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a7f85f2df08fbeb6dac5677c
+            is_playable: true
+            name: Merriweather Post Pavilion
+            release_date: '2009-01-10'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6BRq5g6CWiFgN3NrjLGAYq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj
+            href: https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj
+            id: 4kwxTgCKMipBKhSnEstNKj
+            name: Animal Collective
+            type: artist
+            uri: spotify:artist:4kwxTgCKMipBKhSnEstNKj
+          disc_number: 1
+          duration_ms: 274213
+          explicit: false
+          external_ids:
+            isrc: GBCEL0800812
+          external_urls:
+            spotify: https://open.spotify.com/track/26JkaeeVVIPLquHEsf7YJd
+          href: https://api.spotify.com/v1/tracks/26JkaeeVVIPLquHEsf7YJd
+          id: 26JkaeeVVIPLquHEsf7YJd
+          is_local: false
+          is_playable: true
+          name: Summertime Clothes
+          track_number: 4
+          type: track
+          uri: spotify:track:26JkaeeVVIPLquHEsf7YJd
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj
+              href: https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj
+              id: 4kwxTgCKMipBKhSnEstNKj
+              name: Animal Collective
+              type: artist
+              uri: spotify:artist:4kwxTgCKMipBKhSnEstNKj
+            external_urls:
+              spotify: https://open.spotify.com/album/6lxmBzbiY2bfXLS93XhknA
+            href: https://api.spotify.com/v1/albums/6lxmBzbiY2bfXLS93XhknA
+            id: 6lxmBzbiY2bfXLS93XhknA
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273696250ddfa9a3d22afea8da5
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02696250ddfa9a3d22afea8da5
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851696250ddfa9a3d22afea8da5
+            is_playable: true
+            name: Summertime Clothes
+            release_date: '2009-06-29'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:6lxmBzbiY2bfXLS93XhknA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj
+            href: https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj
+            id: 4kwxTgCKMipBKhSnEstNKj
+            name: Animal Collective
+            type: artist
+            uri: spotify:artist:4kwxTgCKMipBKhSnEstNKj
+          disc_number: 1
+          duration_ms: 274213
+          explicit: false
+          external_ids:
+            isrc: GBCEL0800812
+          external_urls:
+            spotify: https://open.spotify.com/track/4cKd2ieGbSUISDe5sO9lT4
+          href: https://api.spotify.com/v1/tracks/4cKd2ieGbSUISDe5sO9lT4
+          id: 4cKd2ieGbSUISDe5sO9lT4
+          is_local: false
+          is_playable: true
+          name: Summertime Clothes
+          track_number: 1
+          type: track
+          uri: spotify:track:4cKd2ieGbSUISDe5sO9lT4
+    isrc: GBCEL0800812

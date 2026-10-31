@@ -38,3 +38,133 @@ mediaFileData:
         firstReleaseDate: '1999-06-28'
       score: 0.995451
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3iMKXtjDGUm0L3Eso2ICrN
+    trackId: 3iMKXtjDGUm0L3Eso2ICrN
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAHW9900019&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU
+              href: https://api.spotify.com/v1/artists/77zrvBORXcnTyysjjKRfBU
+              id: 77zrvBORXcnTyysjjKRfBU
+              name: The Art Of Noise
+              type: artist
+              uri: spotify:artist:77zrvBORXcnTyysjjKRfBU
+            external_urls:
+              spotify: https://open.spotify.com/album/7y6gHimv6xD5z3loOgPgQH
+            href: https://api.spotify.com/v1/albums/7y6gHimv6xD5z3loOgPgQH
+            id: 7y6gHimv6xD5z3loOgPgQH
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27325dcae29fb6b9b45e2a8c5aa
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0225dcae29fb6b9b45e2a8c5aa
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485125dcae29fb6b9b45e2a8c5aa
+            is_playable: true
+            name: The Seduction Of Claude Debussy
+            release_date: '1999-06-28'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7y6gHimv6xD5z3loOgPgQH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU
+            href: https://api.spotify.com/v1/artists/77zrvBORXcnTyysjjKRfBU
+            id: 77zrvBORXcnTyysjjKRfBU
+            name: The Art Of Noise
+            type: artist
+            uri: spotify:artist:77zrvBORXcnTyysjjKRfBU
+          disc_number: 1
+          duration_ms: 165266
+          explicit: false
+          external_ids:
+            isrc: GBAHW9900019
+          external_urls:
+            spotify: https://open.spotify.com/track/3iMKXtjDGUm0L3Eso2ICrN
+          href: https://api.spotify.com/v1/tracks/3iMKXtjDGUm0L3Eso2ICrN
+          id: 3iMKXtjDGUm0L3Eso2ICrN
+          is_local: false
+          is_playable: true
+          name: La Flûte De Pan
+          track_number: 9
+          type: track
+          uri: spotify:track:3iMKXtjDGUm0L3Eso2ICrN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU
+              href: https://api.spotify.com/v1/artists/77zrvBORXcnTyysjjKRfBU
+              id: 77zrvBORXcnTyysjjKRfBU
+              name: The Art Of Noise
+              type: artist
+              uri: spotify:artist:77zrvBORXcnTyysjjKRfBU
+            external_urls:
+              spotify: https://open.spotify.com/album/1a8JGqiBJitKSHUcRQedbq
+            href: https://api.spotify.com/v1/albums/1a8JGqiBJitKSHUcRQedbq
+            id: 1a8JGqiBJitKSHUcRQedbq
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273dec52f1de4d79ace0aea03fd
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02dec52f1de4d79ace0aea03fd
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851dec52f1de4d79ace0aea03fd
+            is_playable: true
+            name: The Production Of Claude Debussy
+            release_date: '1999-05-24'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1a8JGqiBJitKSHUcRQedbq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU
+            href: https://api.spotify.com/v1/artists/77zrvBORXcnTyysjjKRfBU
+            id: 77zrvBORXcnTyysjjKRfBU
+            name: The Art Of Noise
+            type: artist
+            uri: spotify:artist:77zrvBORXcnTyysjjKRfBU
+          disc_number: 1
+          duration_ms: 151000
+          explicit: false
+          external_ids:
+            isrc: GBAHW9900019
+          external_urls:
+            spotify: https://open.spotify.com/track/6Oc9lR2vGLh3J3kReLUOOd
+          href: https://api.spotify.com/v1/tracks/6Oc9lR2vGLh3J3kReLUOOd
+          id: 6Oc9lR2vGLh3J3kReLUOOd
+          is_local: false
+          is_playable: true
+          name: La Flûte De Pan
+          track_number: 8
+          type: track
+          uri: spotify:track:6Oc9lR2vGLh3J3kReLUOOd
+    isrc: GBAHW9900019

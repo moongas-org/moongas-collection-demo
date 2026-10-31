@@ -83,3 +83,76 @@ mediaFileData:
         firstReleaseDate: '2006'
       score: 0.98434204
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1Als3aFWydsFhpzy1jYEY6
+    trackId: 1Als3aFWydsFhpzy1jYEY6
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGF19822111&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+              href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+              id: 7Ey4PD4MYsKc5I2dolUwbH
+              name: Aerosmith
+              type: artist
+              uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+            external_urls:
+              spotify: https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P
+            href: https://api.spotify.com/v1/albums/3vXuOrqNDMKynoFfJROB9P
+            id: 3vXuOrqNDMKynoFfJROB9P
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d565a478463610e6fd0f9ff8
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d565a478463610e6fd0f9ff8
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d565a478463610e6fd0f9ff8
+            is_playable: true
+            name: A Little South Of Sanity
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:3vXuOrqNDMKynoFfJROB9P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 307200
+          explicit: true
+          external_ids:
+            isrc: USGF19822111
+          external_urls:
+            spotify: https://open.spotify.com/track/1Als3aFWydsFhpzy1jYEY6
+          href: https://api.spotify.com/v1/tracks/1Als3aFWydsFhpzy1jYEY6
+          id: 1Als3aFWydsFhpzy1jYEY6
+          is_local: false
+          is_playable: true
+          name: Janie's Got A Gun - Live
+          track_number: 11
+          type: track
+          uri: spotify:track:1Als3aFWydsFhpzy1jYEY6
+    isrc: USGF19822111

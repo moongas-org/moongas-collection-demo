@@ -5,7 +5,7 @@ trackData:
   album: ANThology
   genre: Pop-Punk
   year: 2001
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 255.29
     fingerprint: 
@@ -24,3 +24,190 @@ trackIdData:
         firstReleaseDate: '2001-03-06'
       score: 0.9904734
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6HNp1M065Xkwieac5rTMuP
+    trackId: 6HNp1M065Xkwieac5rTMuP
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW10022227&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/0UkYlaMWOML5u4UcFlrGft
+            href: https://api.spotify.com/v1/albums/0UkYlaMWOML5u4UcFlrGft
+            id: 0UkYlaMWOML5u4UcFlrGft
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2738df8dead3be6fdd8ad87050f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e028df8dead3be6fdd8ad87050f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048518df8dead3be6fdd8ad87050f
+            is_playable: true
+            name: ANThology (Deluxe Edition)
+            release_date: '2026-07-31'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0UkYlaMWOML5u4UcFlrGft
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 255093
+          explicit: false
+          external_ids:
+            isrc: USDW10022227
+          external_urls:
+            spotify: https://open.spotify.com/track/6HNp1M065Xkwieac5rTMuP
+          href: https://api.spotify.com/v1/tracks/6HNp1M065Xkwieac5rTMuP
+          id: 6HNp1M065Xkwieac5rTMuP
+          is_local: false
+          is_playable: true
+          name: Summer - 2026 Remastered
+          track_number: 5
+          type: track
+          uri: spotify:track:6HNp1M065Xkwieac5rTMuP
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/32NCJL0H6esnZ1JwnLrxCw
+            href: https://api.spotify.com/v1/albums/32NCJL0H6esnZ1JwnLrxCw
+            id: 32NCJL0H6esnZ1JwnLrxCw
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730efb6ed4ed07fbf18cb37854
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020efb6ed4ed07fbf18cb37854
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510efb6ed4ed07fbf18cb37854
+            is_playable: true
+            name: ANThology (2026 Remastered)
+            release_date: '2001'
+            release_date_precision: year
+            total_tracks: 14
+            type: album
+            uri: spotify:album:32NCJL0H6esnZ1JwnLrxCw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 255093
+          explicit: false
+          external_ids:
+            isrc: USDW10022227
+          external_urls:
+            spotify: https://open.spotify.com/track/1AjXPnwkLjfP2D0vA75H9R
+          href: https://api.spotify.com/v1/tracks/1AjXPnwkLjfP2D0vA75H9R
+          id: 1AjXPnwkLjfP2D0vA75H9R
+          is_local: false
+          is_playable: true
+          name: Summer - 2026 Remastered
+          track_number: 5
+          type: track
+          uri: spotify:track:1AjXPnwkLjfP2D0vA75H9R
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5GJZz52uHrONLoxEWlm1z3
+            href: https://api.spotify.com/v1/albums/5GJZz52uHrONLoxEWlm1z3
+            id: 5GJZz52uHrONLoxEWlm1z3
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733b47ae3b33551760bffb7bae
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023b47ae3b33551760bffb7bae
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513b47ae3b33551760bffb7bae
+            is_playable: true
+            name: Songs About Summer
+            release_date: '2019-08-02'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:5GJZz52uHrONLoxEWlm1z3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 255093
+          explicit: false
+          external_ids:
+            isrc: USDW10022227
+          external_urls:
+            spotify: https://open.spotify.com/track/0DKwKy8WyGDGQSl9sfLkNs
+          href: https://api.spotify.com/v1/tracks/0DKwKy8WyGDGQSl9sfLkNs
+          id: 0DKwKy8WyGDGQSl9sfLkNs
+          is_local: false
+          is_playable: true
+          name: Summer
+          track_number: 13
+          type: track
+          uri: spotify:track:0DKwKy8WyGDGQSl9sfLkNs
+    isrc: USDW10022227

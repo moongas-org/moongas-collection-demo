@@ -5,7 +5,7 @@ trackData:
   album: Mobilize
   genre: Punk
   year: 2002
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 220.66
     fingerprint: 
@@ -25,3 +25,76 @@ trackIdData:
         firstReleaseDate: '2002-02-19'
       score: 0.9851332
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6o1lCsPOuTiHl7cAHCXrII
+    trackId: 6o1lCsPOuTiHl7cAHCXrII
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM4TX1767579&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4mJVo8ZG6Nr93hnB9FATui
+            href: https://api.spotify.com/v1/albums/4mJVo8ZG6Nr93hnB9FATui
+            id: 4mJVo8ZG6Nr93hnB9FATui
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a272ef3136084640f977b01a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a272ef3136084640f977b01a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a272ef3136084640f977b01a
+            is_playable: true
+            name: Dropping Food on Their Heads is Not Enough
+            release_date: '2017-05-07'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:4mJVo8ZG6Nr93hnB9FATui
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT
+            href: https://api.spotify.com/v1/artists/30sqtiTKIb1oDve0SdYayT
+            id: 30sqtiTKIb1oDve0SdYayT
+            name: Anti-Flag
+            type: artist
+            uri: spotify:artist:30sqtiTKIb1oDve0SdYayT
+          disc_number: 1
+          duration_ms: 214266
+          explicit: false
+          external_ids:
+            isrc: QM4TX1767579
+          external_urls:
+            spotify: https://open.spotify.com/track/6o1lCsPOuTiHl7cAHCXrII
+          href: https://api.spotify.com/v1/tracks/6o1lCsPOuTiHl7cAHCXrII
+          id: 6o1lCsPOuTiHl7cAHCXrII
+          is_local: false
+          is_playable: true
+          name: 911 for Peace
+          track_number: 6
+          type: track
+          uri: spotify:track:6o1lCsPOuTiHl7cAHCXrII
+    isrc: QM4TX1767579

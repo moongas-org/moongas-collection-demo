@@ -133,3 +133,304 @@ mediaFileData:
         firstReleaseDate: '2013-01-11'
       score: 0.9389834
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA
+    trackId: 6Vas6h9lB5mmeVDXdFqlQA
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEW19500001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ
+              href: https://api.spotify.com/v1/artists/266SmBZTt4zRzaKEANWbfQ
+              id: 266SmBZTt4zRzaKEANWbfQ
+              name: Adina Howard
+              type: artist
+              uri: spotify:artist:266SmBZTt4zRzaKEANWbfQ
+            external_urls:
+              spotify: https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk
+            href: https://api.spotify.com/v1/albums/0Tcn0XVUiS6eXoD8vZdQSk
+            id: 0Tcn0XVUiS6eXoD8vZdQSk
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27390dd696c2447379104f80c7a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0290dd696c2447379104f80c7a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485190dd696c2447379104f80c7a
+            is_playable: true
+            name: Do You Wanna Ride?
+            release_date: '1995'
+            release_date_precision: year
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0Tcn0XVUiS6eXoD8vZdQSk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ
+            href: https://api.spotify.com/v1/artists/266SmBZTt4zRzaKEANWbfQ
+            id: 266SmBZTt4zRzaKEANWbfQ
+            name: Adina Howard
+            type: artist
+            uri: spotify:artist:266SmBZTt4zRzaKEANWbfQ
+          disc_number: 1
+          duration_ms: 253613
+          explicit: false
+          external_ids:
+            isrc: USEW19500001
+          external_urls:
+            spotify: https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA
+          href: https://api.spotify.com/v1/tracks/6Vas6h9lB5mmeVDXdFqlQA
+          id: 6Vas6h9lB5mmeVDXdFqlQA
+          is_local: false
+          is_playable: true
+          name: Freak Like Me
+          track_number: 2
+          type: track
+          uri: spotify:track:6Vas6h9lB5mmeVDXdFqlQA
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6mm7bNaWMgjXhF85yZqNCG
+            href: https://api.spotify.com/v1/albums/6mm7bNaWMgjXhF85yZqNCG
+            id: 6mm7bNaWMgjXhF85yZqNCG
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737cbf199d4eddd05b520fb862
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027cbf199d4eddd05b520fb862
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517cbf199d4eddd05b520fb862
+            is_playable: true
+            name: 90s R&B Party
+            release_date: '2019-01-18'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:6mm7bNaWMgjXhF85yZqNCG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ
+            href: https://api.spotify.com/v1/artists/266SmBZTt4zRzaKEANWbfQ
+            id: 266SmBZTt4zRzaKEANWbfQ
+            name: Adina Howard
+            type: artist
+            uri: spotify:artist:266SmBZTt4zRzaKEANWbfQ
+          disc_number: 1
+          duration_ms: 253613
+          explicit: false
+          external_ids:
+            isrc: USEW19500001
+          external_urls:
+            spotify: https://open.spotify.com/track/0vKJrpHgKCOHkumRGpxZqi
+          href: https://api.spotify.com/v1/tracks/0vKJrpHgKCOHkumRGpxZqi
+          id: 0vKJrpHgKCOHkumRGpxZqi
+          is_local: false
+          is_playable: true
+          name: Freak Like Me
+          track_number: 3
+          type: track
+          uri: spotify:track:0vKJrpHgKCOHkumRGpxZqi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5nljKvkMmaWY54VCPVi2uy
+            href: https://api.spotify.com/v1/albums/5nljKvkMmaWY54VCPVi2uy
+            id: 5nljKvkMmaWY54VCPVi2uy
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a88433b365563bc02539a059
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a88433b365563bc02539a059
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a88433b365563bc02539a059
+            is_playable: true
+            name: 90s
+            release_date: '2022-04-29'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:5nljKvkMmaWY54VCPVi2uy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ
+            href: https://api.spotify.com/v1/artists/266SmBZTt4zRzaKEANWbfQ
+            id: 266SmBZTt4zRzaKEANWbfQ
+            name: Adina Howard
+            type: artist
+            uri: spotify:artist:266SmBZTt4zRzaKEANWbfQ
+          disc_number: 1
+          duration_ms: 253613
+          explicit: false
+          external_ids:
+            isrc: USEW19500001
+          external_urls:
+            spotify: https://open.spotify.com/track/2BKKCcgbojUT9zLfIEHmpW
+          href: https://api.spotify.com/v1/tracks/2BKKCcgbojUT9zLfIEHmpW
+          id: 2BKKCcgbojUT9zLfIEHmpW
+          is_local: false
+          is_playable: true
+          name: Freak Like Me
+          track_number: 15
+          type: track
+          uri: spotify:track:2BKKCcgbojUT9zLfIEHmpW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5h4CcxigVav5jAbylNxRaG
+            href: https://api.spotify.com/v1/albums/5h4CcxigVav5jAbylNxRaG
+            id: 5h4CcxigVav5jAbylNxRaG
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27387ffbd7a3a30f29360faf40f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0287ffbd7a3a30f29360faf40f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485187ffbd7a3a30f29360faf40f
+            is_playable: true
+            name: Rap R&B Trap
+            release_date: '2023-11-02'
+            release_date_precision: day
+            total_tracks: 41
+            type: album
+            uri: spotify:album:5h4CcxigVav5jAbylNxRaG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ
+            href: https://api.spotify.com/v1/artists/266SmBZTt4zRzaKEANWbfQ
+            id: 266SmBZTt4zRzaKEANWbfQ
+            name: Adina Howard
+            type: artist
+            uri: spotify:artist:266SmBZTt4zRzaKEANWbfQ
+          disc_number: 1
+          duration_ms: 253613
+          explicit: false
+          external_ids:
+            isrc: USEW19500001
+          external_urls:
+            spotify: https://open.spotify.com/track/2CwWp5lTt8fsd6tfu8NItf
+          href: https://api.spotify.com/v1/tracks/2CwWp5lTt8fsd6tfu8NItf
+          id: 2CwWp5lTt8fsd6tfu8NItf
+          is_local: false
+          is_playable: true
+          name: Freak Like Me
+          track_number: 7
+          type: track
+          uri: spotify:track:2CwWp5lTt8fsd6tfu8NItf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4K0bIWMIj568ZNaSpc0kM3
+            href: https://api.spotify.com/v1/albums/4K0bIWMIj568ZNaSpc0kM3
+            id: 4K0bIWMIj568ZNaSpc0kM3
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273eac0cfccbc71cac5cd1116ad
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02eac0cfccbc71cac5cd1116ad
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851eac0cfccbc71cac5cd1116ad
+            is_playable: true
+            name: Clean R&B For Work
+            release_date: '2024-08-11'
+            release_date_precision: day
+            total_tracks: 39
+            type: album
+            uri: spotify:album:4K0bIWMIj568ZNaSpc0kM3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ
+            href: https://api.spotify.com/v1/artists/266SmBZTt4zRzaKEANWbfQ
+            id: 266SmBZTt4zRzaKEANWbfQ
+            name: Adina Howard
+            type: artist
+            uri: spotify:artist:266SmBZTt4zRzaKEANWbfQ
+          disc_number: 1
+          duration_ms: 253613
+          explicit: false
+          external_ids:
+            isrc: USEW19500001
+          external_urls:
+            spotify: https://open.spotify.com/track/1WS4uV0RtWtTRDLkZX2fnx
+          href: https://api.spotify.com/v1/tracks/1WS4uV0RtWtTRDLkZX2fnx
+          id: 1WS4uV0RtWtTRDLkZX2fnx
+          is_local: false
+          is_playable: true
+          name: Freak Like Me
+          track_number: 39
+          type: track
+          uri: spotify:track:1WS4uV0RtWtTRDLkZX2fnx
+    isrc: USEW19500001

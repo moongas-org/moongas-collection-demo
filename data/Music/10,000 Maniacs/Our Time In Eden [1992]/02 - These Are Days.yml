@@ -31,3 +31,134 @@ mediaFileData:
         firstReleaseDate: '1989-05-16'
       score: 0.9877044
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4pG60hiM1nLvNlgkFfUb5r
+    trackId: 4pG60hiM1nLvNlgkFfUb5r
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10181048&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj
+              href: https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj
+              id: 0MBIKH9DjtBkv8O3nS6szj
+              name: 10,000 Maniacs
+              type: artist
+              uri: spotify:artist:0MBIKH9DjtBkv8O3nS6szj
+            external_urls:
+              spotify: https://open.spotify.com/album/3I2KtcUf1p4G8iAd43iEl9
+            href: https://api.spotify.com/v1/albums/3I2KtcUf1p4G8iAd43iEl9
+            id: 3I2KtcUf1p4G8iAd43iEl9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27312d55a626b4d554f1b47e546
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0212d55a626b4d554f1b47e546
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485112d55a626b4d554f1b47e546
+            is_playable: true
+            name: Blind Man's Zoo
+            release_date: '1989-05-02'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:3I2KtcUf1p4G8iAd43iEl9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj
+            href: https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj
+            id: 0MBIKH9DjtBkv8O3nS6szj
+            name: 10,000 Maniacs
+            type: artist
+            uri: spotify:artist:0MBIKH9DjtBkv8O3nS6szj
+          disc_number: 1
+          duration_ms: 217840
+          explicit: false
+          external_ids:
+            isrc: USEE10181048
+          external_urls:
+            spotify: https://open.spotify.com/track/4pG60hiM1nLvNlgkFfUb5r
+          href: https://api.spotify.com/v1/tracks/4pG60hiM1nLvNlgkFfUb5r
+          id: 4pG60hiM1nLvNlgkFfUb5r
+          is_local: false
+          is_playable: true
+          name: You Happy Puppet
+          track_number: 5
+          type: track
+          uri: spotify:track:4pG60hiM1nLvNlgkFfUb5r
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj
+              href: https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj
+              id: 0MBIKH9DjtBkv8O3nS6szj
+              name: 10,000 Maniacs
+              type: artist
+              uri: spotify:artist:0MBIKH9DjtBkv8O3nS6szj
+            external_urls:
+              spotify: https://open.spotify.com/album/2hU57PGB4z8FY2L8N6aRfm
+            href: https://api.spotify.com/v1/albums/2hU57PGB4z8FY2L8N6aRfm
+            id: 2hU57PGB4z8FY2L8N6aRfm
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273fbcf6b488a0e2dffea4264bf
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02fbcf6b488a0e2dffea4264bf
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851fbcf6b488a0e2dffea4264bf
+            is_playable: true
+            name: 'Campfire Songs: The Popular, Obscure and Unknown Recordings of
+              10,000 Maniacs'
+            release_date: '2004-02-17'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:2hU57PGB4z8FY2L8N6aRfm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj
+            href: https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj
+            id: 0MBIKH9DjtBkv8O3nS6szj
+            name: 10,000 Maniacs
+            type: artist
+            uri: spotify:artist:0MBIKH9DjtBkv8O3nS6szj
+          disc_number: 1
+          duration_ms: 217840
+          explicit: false
+          external_ids:
+            isrc: USEE10181048
+          external_urls:
+            spotify: https://open.spotify.com/track/3o1MAtaLtcFoSzBmJ6TvKp
+          href: https://api.spotify.com/v1/tracks/3o1MAtaLtcFoSzBmJ6TvKp
+          id: 3o1MAtaLtcFoSzBmJ6TvKp
+          is_local: false
+          is_playable: true
+          name: You Happy Puppet
+          track_number: 12
+          type: track
+          uri: spotify:track:3o1MAtaLtcFoSzBmJ6TvKp
+    isrc: USEE10181048

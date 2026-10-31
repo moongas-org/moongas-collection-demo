@@ -5,7 +5,7 @@ trackData:
   album: Favourite Worst Nightmare
   genre: Indie Rock
   year: 2007
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 253.62
     fingerprint: 
@@ -43,3 +43,76 @@ trackIdData:
         firstReleaseDate: '2007-04-18'
       score: 0.7097508
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0R194013qdfjeFiap76Nzs
+    trackId: 0R194013qdfjeFiap76Nzs
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0900452&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+              href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+              id: 7Ln80lUS6He07XvHI8qqHH
+              name: Arctic Monkeys
+              type: artist
+              uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+            external_urls:
+              spotify: https://open.spotify.com/album/2lkbr7OXJm6aZAkaeLEM44
+            href: https://api.spotify.com/v1/albums/2lkbr7OXJm6aZAkaeLEM44
+            id: 2lkbr7OXJm6aZAkaeLEM44
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ee29ec561e25b5835b2139f6
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ee29ec561e25b5835b2139f6
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ee29ec561e25b5835b2139f6
+            is_playable: true
+            name: Crying Lightning
+            release_date: '2009-08-16'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:2lkbr7OXJm6aZAkaeLEM44
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH
+            href: https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH
+            id: 7Ln80lUS6He07XvHI8qqHH
+            name: Arctic Monkeys
+            type: artist
+            uri: spotify:artist:7Ln80lUS6He07XvHI8qqHH
+          disc_number: 1
+          duration_ms: 259813
+          explicit: false
+          external_ids:
+            isrc: GBCEL0900452
+          external_urls:
+            spotify: https://open.spotify.com/track/0R194013qdfjeFiap76Nzs
+          href: https://api.spotify.com/v1/tracks/0R194013qdfjeFiap76Nzs
+          id: 0R194013qdfjeFiap76Nzs
+          is_local: false
+          is_playable: true
+          name: Red Right Hand
+          track_number: 2
+          type: track
+          uri: spotify:track:0R194013qdfjeFiap76Nzs
+    isrc: GBCEL0900452

@@ -126,3 +126,304 @@ mediaFileData:
       recordings: []
       score: 0.8618473
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/47zQKEM5rQGGIOBeYsby0W
+    trackId: 47zQKEM5rQGGIOBeYsby0W
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10504015&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1enLi8njBlk1YlDg44MtJm
+              href: https://api.spotify.com/v1/artists/1enLi8njBlk1YlDg44MtJm
+              id: 1enLi8njBlk1YlDg44MtJm
+              name: Allan Sherman
+              type: artist
+              uri: spotify:artist:1enLi8njBlk1YlDg44MtJm
+            external_urls:
+              spotify: https://open.spotify.com/album/0aprMQc37iHrK17x7H0e9w
+            href: https://api.spotify.com/v1/albums/0aprMQc37iHrK17x7H0e9w
+            id: 0aprMQc37iHrK17x7H0e9w
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273cdecab3c07f70ed2ff48e795
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02cdecab3c07f70ed2ff48e795
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851cdecab3c07f70ed2ff48e795
+            is_playable: true
+            name: Best Of
+            release_date: '2017-06-01'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:0aprMQc37iHrK17x7H0e9w
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1enLi8njBlk1YlDg44MtJm
+            href: https://api.spotify.com/v1/artists/1enLi8njBlk1YlDg44MtJm
+            id: 1enLi8njBlk1YlDg44MtJm
+            name: Allan Sherman
+            type: artist
+            uri: spotify:artist:1enLi8njBlk1YlDg44MtJm
+          disc_number: 1
+          duration_ms: 174653
+          explicit: false
+          external_ids:
+            isrc: USWB10504015
+          external_urls:
+            spotify: https://open.spotify.com/track/47zQKEM5rQGGIOBeYsby0W
+          href: https://api.spotify.com/v1/tracks/47zQKEM5rQGGIOBeYsby0W
+          id: 47zQKEM5rQGGIOBeYsby0W
+          is_local: false
+          is_playable: true
+          name: Hello Muddah, Hello Faddah (A Letter from Camp) - Remastered
+          track_number: 1
+          type: track
+          uri: spotify:track:47zQKEM5rQGGIOBeYsby0W
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3PMfbu0rVaIvVjmuyR8TJb
+            href: https://api.spotify.com/v1/albums/3PMfbu0rVaIvVjmuyR8TJb
+            id: 3PMfbu0rVaIvVjmuyR8TJb
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273831cee0bed83ef643688c12a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02831cee0bed83ef643688c12a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851831cee0bed83ef643688c12a
+            is_playable: true
+            name: 60's Hits
+            release_date: '2017-03-10'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:3PMfbu0rVaIvVjmuyR8TJb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1enLi8njBlk1YlDg44MtJm
+            href: https://api.spotify.com/v1/artists/1enLi8njBlk1YlDg44MtJm
+            id: 1enLi8njBlk1YlDg44MtJm
+            name: Allan Sherman
+            type: artist
+            uri: spotify:artist:1enLi8njBlk1YlDg44MtJm
+          disc_number: 1
+          duration_ms: 174653
+          explicit: false
+          external_ids:
+            isrc: USWB10504015
+          external_urls:
+            spotify: https://open.spotify.com/track/657rTWN1FkcZfs25VJQboP
+          href: https://api.spotify.com/v1/tracks/657rTWN1FkcZfs25VJQboP
+          id: 657rTWN1FkcZfs25VJQboP
+          is_local: false
+          is_playable: true
+          name: Hello Muddah, Hello Faddah (A Letter from Camp)
+          track_number: 6
+          type: track
+          uri: spotify:track:657rTWN1FkcZfs25VJQboP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/72WtCh9Ixy29DiTxlH7Mm4
+            href: https://api.spotify.com/v1/albums/72WtCh9Ixy29DiTxlH7Mm4
+            id: 72WtCh9Ixy29DiTxlH7Mm4
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ebaf4c9ced9fe0811e626368
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ebaf4c9ced9fe0811e626368
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ebaf4c9ced9fe0811e626368
+            is_playable: true
+            name: Novelty Songs
+            release_date: '2020-06-08'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:72WtCh9Ixy29DiTxlH7Mm4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1enLi8njBlk1YlDg44MtJm
+            href: https://api.spotify.com/v1/artists/1enLi8njBlk1YlDg44MtJm
+            id: 1enLi8njBlk1YlDg44MtJm
+            name: Allan Sherman
+            type: artist
+            uri: spotify:artist:1enLi8njBlk1YlDg44MtJm
+          disc_number: 1
+          duration_ms: 174653
+          explicit: false
+          external_ids:
+            isrc: USWB10504015
+          external_urls:
+            spotify: https://open.spotify.com/track/0NOnO2J3k1YDLnyxHjNLol
+          href: https://api.spotify.com/v1/tracks/0NOnO2J3k1YDLnyxHjNLol
+          id: 0NOnO2J3k1YDLnyxHjNLol
+          is_local: false
+          is_playable: true
+          name: Hello Muddah, Hello Faddah (A Letter from Camp)
+          track_number: 17
+          type: track
+          uri: spotify:track:0NOnO2J3k1YDLnyxHjNLol
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7n2vb9ubYnvzJwRhFLiOU9
+            href: https://api.spotify.com/v1/albums/7n2vb9ubYnvzJwRhFLiOU9
+            id: 7n2vb9ubYnvzJwRhFLiOU9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b0ae4205b2f88cffed51f436
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b0ae4205b2f88cffed51f436
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b0ae4205b2f88cffed51f436
+            is_playable: true
+            name: US Hot 100 Hits of 1963
+            release_date: '2019-02-22'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:7n2vb9ubYnvzJwRhFLiOU9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1enLi8njBlk1YlDg44MtJm
+            href: https://api.spotify.com/v1/artists/1enLi8njBlk1YlDg44MtJm
+            id: 1enLi8njBlk1YlDg44MtJm
+            name: Allan Sherman
+            type: artist
+            uri: spotify:artist:1enLi8njBlk1YlDg44MtJm
+          disc_number: 1
+          duration_ms: 174653
+          explicit: false
+          external_ids:
+            isrc: USWB10504015
+          external_urls:
+            spotify: https://open.spotify.com/track/0Mx5OdecrvIpnb4u9DuXOA
+          href: https://api.spotify.com/v1/tracks/0Mx5OdecrvIpnb4u9DuXOA
+          id: 0Mx5OdecrvIpnb4u9DuXOA
+          is_local: false
+          is_playable: true
+          name: Hello Muddah, Hello Faddah (A Letter from Camp)
+          track_number: 20
+          type: track
+          uri: spotify:track:0Mx5OdecrvIpnb4u9DuXOA
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7BqG8yjct7BdXT9HPyTWup
+            href: https://api.spotify.com/v1/albums/7BqG8yjct7BdXT9HPyTWup
+            id: 7BqG8yjct7BdXT9HPyTWup
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2733044a519103510b6d68d29be
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e023044a519103510b6d68d29be
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048513044a519103510b6d68d29be
+            is_playable: true
+            name: Éxitos de los 60 en Inglés
+            release_date: '2024-03-07'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:7BqG8yjct7BdXT9HPyTWup
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1enLi8njBlk1YlDg44MtJm
+            href: https://api.spotify.com/v1/artists/1enLi8njBlk1YlDg44MtJm
+            id: 1enLi8njBlk1YlDg44MtJm
+            name: Allan Sherman
+            type: artist
+            uri: spotify:artist:1enLi8njBlk1YlDg44MtJm
+          disc_number: 1
+          duration_ms: 174653
+          explicit: false
+          external_ids:
+            isrc: USWB10504015
+          external_urls:
+            spotify: https://open.spotify.com/track/5hj8BbcguNDDPZ75DTZtNc
+          href: https://api.spotify.com/v1/tracks/5hj8BbcguNDDPZ75DTZtNc
+          id: 5hj8BbcguNDDPZ75DTZtNc
+          is_local: false
+          is_playable: true
+          name: Hello Muddah, Hello Faddah (A Letter from Camp)
+          track_number: 11
+          type: track
+          uri: spotify:track:5hj8BbcguNDDPZ75DTZtNc
+    isrc: USWB10504015

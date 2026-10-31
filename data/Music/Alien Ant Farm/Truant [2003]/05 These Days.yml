@@ -5,7 +5,7 @@ trackData:
   album: Truant
   genre: Pop-Punk
   year: 2003
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: !!float '185'
     fingerprint: 
@@ -35,5 +35,194 @@ trackIdData:
         firstReleaseDate: '2003-08-01'
       score: 0.67322654
     - id: 11f3c73b-db98-41fc-81ce-31e555403fc1
+      recordings: []
       score: 0.6200587
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/76nFmeNs5rENg0lPTQYziK
+    trackId: 76nFmeNs5rENg0lPTQYziK
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW10300452&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/1SuYxXIQvF5ien3UJdQ2Sd
+            href: https://api.spotify.com/v1/albums/1SuYxXIQvF5ien3UJdQ2Sd
+            id: 1SuYxXIQvF5ien3UJdQ2Sd
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27363635c989dd9446f12bbb63d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0263635c989dd9446f12bbb63d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485163635c989dd9446f12bbb63d
+            is_playable: true
+            name: truANT
+            release_date: '2003-08-19'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1SuYxXIQvF5ien3UJdQ2Sd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 185066
+          explicit: false
+          external_ids:
+            isrc: USDW10300452
+          external_urls:
+            spotify: https://open.spotify.com/track/76nFmeNs5rENg0lPTQYziK
+          href: https://api.spotify.com/v1/tracks/76nFmeNs5rENg0lPTQYziK
+          id: 76nFmeNs5rENg0lPTQYziK
+          is_local: false
+          is_playable: true
+          name: These Days
+          track_number: 5
+          type: track
+          uri: spotify:track:76nFmeNs5rENg0lPTQYziK
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+              href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+              id: 6TZdvF1kFzwnQLgHQynzsO
+              name: Alien Ant Farm
+              type: artist
+              uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+            external_urls:
+              spotify: https://open.spotify.com/album/0Kucza2kOX3aKefmhuwEGp
+            href: https://api.spotify.com/v1/albums/0Kucza2kOX3aKefmhuwEGp
+            id: 0Kucza2kOX3aKefmhuwEGp
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a51937bee293ae6eb62edc98
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a51937bee293ae6eb62edc98
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a51937bee293ae6eb62edc98
+            is_playable: true
+            name: The Best Of Alien Ant Farm 20th Century Masters The Millennium
+              Collection
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0Kucza2kOX3aKefmhuwEGp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 185560
+          explicit: false
+          external_ids:
+            isrc: USDW10300452
+          external_urls:
+            spotify: https://open.spotify.com/track/1Tk9BcDstzPCe04Q6gZtcc
+          href: https://api.spotify.com/v1/tracks/1Tk9BcDstzPCe04Q6gZtcc
+          id: 1Tk9BcDstzPCe04Q6gZtcc
+          is_local: false
+          is_playable: true
+          name: These Days
+          track_number: 2
+          type: track
+          uri: spotify:track:1Tk9BcDstzPCe04Q6gZtcc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7v41U86uUppDoi2rgQ1Szm
+            href: https://api.spotify.com/v1/albums/7v41U86uUppDoi2rgQ1Szm
+            id: 7v41U86uUppDoi2rgQ1Szm
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739a56c7d6a593427d547aa44a
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029a56c7d6a593427d547aa44a
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519a56c7d6a593427d547aa44a
+            is_playable: true
+            name: Día festivo
+            release_date: '2024-03-15'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:7v41U86uUppDoi2rgQ1Szm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO
+            href: https://api.spotify.com/v1/artists/6TZdvF1kFzwnQLgHQynzsO
+            id: 6TZdvF1kFzwnQLgHQynzsO
+            name: Alien Ant Farm
+            type: artist
+            uri: spotify:artist:6TZdvF1kFzwnQLgHQynzsO
+          disc_number: 1
+          duration_ms: 185560
+          explicit: false
+          external_ids:
+            isrc: USDW10300452
+          external_urls:
+            spotify: https://open.spotify.com/track/2emCd0dUC9UhyzLRfD2CNd
+          href: https://api.spotify.com/v1/tracks/2emCd0dUC9UhyzLRfD2CNd
+          id: 2emCd0dUC9UhyzLRfD2CNd
+          is_local: false
+          is_playable: true
+          name: These Days
+          track_number: 5
+          type: track
+          uri: spotify:track:2emCd0dUC9UhyzLRfD2CNd
+    isrc: USDW10300452

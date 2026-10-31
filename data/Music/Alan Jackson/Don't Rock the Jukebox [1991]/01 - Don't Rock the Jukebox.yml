@@ -95,3 +95,133 @@ mediaFileData:
       recordings: []
       score: 0.7291337
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5Zz4q702xnKO4k4iXN9UB4
+    trackId: 5Zz4q702xnKO4k4iXN9UB4
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAN29700117&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz
+              href: https://api.spotify.com/v1/artists/0XKOBt59crntr7HQXXO8Yz
+              id: 0XKOBt59crntr7HQXXO8Yz
+              name: Brooks & Dunn
+              type: artist
+              uri: spotify:artist:0XKOBt59crntr7HQXXO8Yz
+            external_urls:
+              spotify: https://open.spotify.com/album/7oekWZ6RtGbFs25d917aNu
+            href: https://api.spotify.com/v1/albums/7oekWZ6RtGbFs25d917aNu
+            id: 7oekWZ6RtGbFs25d917aNu
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27323f40477fb2ee5fcaf73ead4
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0223f40477fb2ee5fcaf73ead4
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485123f40477fb2ee5fcaf73ead4
+            is_playable: true
+            name: Waitin' On Sundown
+            release_date: '1994-09-27'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7oekWZ6RtGbFs25d917aNu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz
+            href: https://api.spotify.com/v1/artists/0XKOBt59crntr7HQXXO8Yz
+            id: 0XKOBt59crntr7HQXXO8Yz
+            name: Brooks & Dunn
+            type: artist
+            uri: spotify:artist:0XKOBt59crntr7HQXXO8Yz
+          disc_number: 1
+          duration_ms: 173200
+          explicit: false
+          external_ids:
+            isrc: USAN29700117
+          external_urls:
+            spotify: https://open.spotify.com/track/5Zz4q702xnKO4k4iXN9UB4
+          href: https://api.spotify.com/v1/tracks/5Zz4q702xnKO4k4iXN9UB4
+          id: 5Zz4q702xnKO4k4iXN9UB4
+          is_local: false
+          is_playable: true
+          name: Whiskey Under the Bridge
+          track_number: 7
+          type: track
+          uri: spotify:track:5Zz4q702xnKO4k4iXN9UB4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz
+              href: https://api.spotify.com/v1/artists/0XKOBt59crntr7HQXXO8Yz
+              id: 0XKOBt59crntr7HQXXO8Yz
+              name: Brooks & Dunn
+              type: artist
+              uri: spotify:artist:0XKOBt59crntr7HQXXO8Yz
+            external_urls:
+              spotify: https://open.spotify.com/album/3PODtz6tcloX3sVpRpLA66
+            href: https://api.spotify.com/v1/albums/3PODtz6tcloX3sVpRpLA66
+            id: 3PODtz6tcloX3sVpRpLA66
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732ef0ffe592de46dde4b25d61
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022ef0ffe592de46dde4b25d61
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512ef0ffe592de46dde4b25d61
+            is_playable: true
+            name: The Greatest Hits Collection
+            release_date: '1997-09-16'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3PODtz6tcloX3sVpRpLA66
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz
+            href: https://api.spotify.com/v1/artists/0XKOBt59crntr7HQXXO8Yz
+            id: 0XKOBt59crntr7HQXXO8Yz
+            name: Brooks & Dunn
+            type: artist
+            uri: spotify:artist:0XKOBt59crntr7HQXXO8Yz
+          disc_number: 1
+          duration_ms: 173026
+          explicit: false
+          external_ids:
+            isrc: USAN29700117
+          external_urls:
+            spotify: https://open.spotify.com/track/5HqIkFvKfRdkvKneuodaDL
+          href: https://api.spotify.com/v1/tracks/5HqIkFvKfRdkvKneuodaDL
+          id: 5HqIkFvKfRdkvKneuodaDL
+          is_local: false
+          is_playable: true
+          name: Whiskey Under the Bridge
+          track_number: 18
+          type: track
+          uri: spotify:track:5HqIkFvKfRdkvKneuodaDL
+    isrc: USAN29700117

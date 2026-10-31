@@ -114,3 +114,304 @@ mediaFileData:
         firstReleaseDate: '2021-06-10'
       score: 0.9752295
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/392AHFoWVZUxhH8lrd3Izh
+    trackId: 392AHFoWVZUxhH8lrd3Izh
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUG12103089&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+              href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+              id: 7Ey4PD4MYsKc5I2dolUwbH
+              name: Aerosmith
+              type: artist
+              uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+            external_urls:
+              spotify: https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO
+            href: https://api.spotify.com/v1/albums/1TEsUEdGcXTXyRmqv3u2iO
+            id: 1TEsUEdGcXTXyRmqv3u2iO
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739f4133be652ae6126145a10c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029f4133be652ae6126145a10c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519f4133be652ae6126145a10c
+            is_playable: true
+            name: '1971: The Road Starts Hear'
+            release_date: '2022-04-08'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:1TEsUEdGcXTXyRmqv3u2iO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 274333
+          explicit: false
+          external_ids:
+            isrc: USUG12103089
+          external_urls:
+            spotify: https://open.spotify.com/track/392AHFoWVZUxhH8lrd3Izh
+          href: https://api.spotify.com/v1/tracks/392AHFoWVZUxhH8lrd3Izh
+          id: 392AHFoWVZUxhH8lrd3Izh
+          is_local: false
+          is_playable: true
+          name: Dream On
+          track_number: 7
+          type: track
+          uri: spotify:track:392AHFoWVZUxhH8lrd3Izh
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/62qMFdgdBsAdBAWuOUPhxH
+            href: https://api.spotify.com/v1/albums/62qMFdgdBsAdBAWuOUPhxH
+            id: 62qMFdgdBsAdBAWuOUPhxH
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735a5218ff70544f393b1ff370
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025a5218ff70544f393b1ff370
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515a5218ff70544f393b1ff370
+            is_playable: true
+            name: Rock, Rock y más Rock
+            release_date: '2023-09-22'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:62qMFdgdBsAdBAWuOUPhxH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 274333
+          explicit: false
+          external_ids:
+            isrc: USUG12103089
+          external_urls:
+            spotify: https://open.spotify.com/track/5QdfKDUtOO0UYMaeMgPsfN
+          href: https://api.spotify.com/v1/tracks/5QdfKDUtOO0UYMaeMgPsfN
+          id: 5QdfKDUtOO0UYMaeMgPsfN
+          is_local: false
+          is_playable: true
+          name: Dream On
+          track_number: 7
+          type: track
+          uri: spotify:track:5QdfKDUtOO0UYMaeMgPsfN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/42KOAYrnriWnSl4JO9sBrQ
+            href: https://api.spotify.com/v1/albums/42KOAYrnriWnSl4JO9sBrQ
+            id: 42KOAYrnriWnSl4JO9sBrQ
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2739540dbe0e931b95161982992
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e029540dbe0e931b95161982992
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048519540dbe0e931b95161982992
+            is_playable: true
+            name: Rock de Antología
+            release_date: '2026-10-17'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:42KOAYrnriWnSl4JO9sBrQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 274333
+          explicit: false
+          external_ids:
+            isrc: USUG12103089
+          external_urls:
+            spotify: https://open.spotify.com/track/4SoRoJ9kjnt1wslSoIAKLg
+          href: https://api.spotify.com/v1/tracks/4SoRoJ9kjnt1wslSoIAKLg
+          id: 4SoRoJ9kjnt1wslSoIAKLg
+          is_local: false
+          is_playable: true
+          name: Dream On
+          track_number: 3
+          type: track
+          uri: spotify:track:4SoRoJ9kjnt1wslSoIAKLg
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1jy39WFR27bsdHaSVZE4RY
+            href: https://api.spotify.com/v1/albums/1jy39WFR27bsdHaSVZE4RY
+            id: 1jy39WFR27bsdHaSVZE4RY
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2736986635a82683544b07f5d7b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e026986635a82683544b07f5d7b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048516986635a82683544b07f5d7b
+            is_playable: true
+            name: Rock y Rolas
+            release_date: '2023-09-22'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:1jy39WFR27bsdHaSVZE4RY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 274333
+          explicit: false
+          external_ids:
+            isrc: USUG12103089
+          external_urls:
+            spotify: https://open.spotify.com/track/4UyR3yQ9J8TTBSqXzOgDKY
+          href: https://api.spotify.com/v1/tracks/4UyR3yQ9J8TTBSqXzOgDKY
+          id: 4UyR3yQ9J8TTBSqXzOgDKY
+          is_local: false
+          is_playable: true
+          name: Dream On
+          track_number: 3
+          type: track
+          uri: spotify:track:4UyR3yQ9J8TTBSqXzOgDKY
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7626eWciT9efovNiVRfE2K
+            href: https://api.spotify.com/v1/albums/7626eWciT9efovNiVRfE2K
+            id: 7626eWciT9efovNiVRfE2K
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273dc6a53b057c6440281224317
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02dc6a53b057c6440281224317
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851dc6a53b057c6440281224317
+            is_playable: true
+            name: Verano del Rock
+            release_date: '2026-04-17'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:7626eWciT9efovNiVRfE2K
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH
+            href: https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH
+            id: 7Ey4PD4MYsKc5I2dolUwbH
+            name: Aerosmith
+            type: artist
+            uri: spotify:artist:7Ey4PD4MYsKc5I2dolUwbH
+          disc_number: 1
+          duration_ms: 274333
+          explicit: false
+          external_ids:
+            isrc: USUG12103089
+          external_urls:
+            spotify: https://open.spotify.com/track/1avso23sTsY9hzGQMh1QVa
+          href: https://api.spotify.com/v1/tracks/1avso23sTsY9hzGQMh1QVa
+          id: 1avso23sTsY9hzGQMh1QVa
+          is_local: false
+          is_playable: true
+          name: Dream On
+          track_number: 3
+          type: track
+          uri: spotify:track:1avso23sTsY9hzGQMh1QVa
+    isrc: USUG12103089

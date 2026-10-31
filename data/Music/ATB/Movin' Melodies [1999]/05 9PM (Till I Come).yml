@@ -293,3 +293,76 @@ mediaFileData:
         firstReleaseDate: '2019-02-22'
       score: 0.97914416
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/659wddNDkBkMbtt8KR8DOn
+    trackId: 659wddNDkBkMbtt8KR8DOn
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEN9900014&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+              href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+              id: 7jZM5w05mGhw6wTB1okhD9
+              name: ATB
+              type: artist
+              uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+            external_urls:
+              spotify: https://open.spotify.com/album/5ov5ci5LMlUj9kDh95PCGd
+            href: https://api.spotify.com/v1/albums/5ov5ci5LMlUj9kDh95PCGd
+            id: 5ov5ci5LMlUj9kDh95PCGd
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2735033f5c0a9b5bcd44a1bd1eb
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e025033f5c0a9b5bcd44a1bd1eb
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048515033f5c0a9b5bcd44a1bd1eb
+            is_playable: true
+            name: 9 PM (Till I Come) - The U.K. Mixes [Remixes] - Single
+            release_date: '1999-08-09'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:5ov5ci5LMlUj9kDh95PCGd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9
+            href: https://api.spotify.com/v1/artists/7jZM5w05mGhw6wTB1okhD9
+            id: 7jZM5w05mGhw6wTB1okhD9
+            name: ATB
+            type: artist
+            uri: spotify:artist:7jZM5w05mGhw6wTB1okhD9
+          disc_number: 1
+          duration_ms: 164333
+          explicit: false
+          external_ids:
+            isrc: GBCEN9900014
+          external_urls:
+            spotify: https://open.spotify.com/track/659wddNDkBkMbtt8KR8DOn
+          href: https://api.spotify.com/v1/tracks/659wddNDkBkMbtt8KR8DOn
+          id: 659wddNDkBkMbtt8KR8DOn
+          is_local: false
+          is_playable: true
+          name: 9 PM - Till I come >The U.K. Mixes< - Radio Mix UK
+          track_number: 1
+          type: track
+          uri: spotify:track:659wddNDkBkMbtt8KR8DOn
+    isrc: GBCEN9900014

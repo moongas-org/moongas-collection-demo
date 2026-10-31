@@ -5,7 +5,7 @@ trackData:
   album: eMOTIVe
   genre: Alternative Metal
   year: 2004
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 293.78
     fingerprint: 
@@ -62,3 +62,76 @@ trackIdData:
         firstReleaseDate: '2004-11-01'
       score: 0.59464
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1au1pPMHY9avx43cDT4XXa
+    trackId: 1au1pPMHY9avx43cDT4XXa
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20400536&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4
+            href: https://api.spotify.com/v1/albums/2UAin9VEGxiZRfe9Q7SKg4
+            id: 2UAin9VEGxiZRfe9Q7SKg4
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273b899c5d781cdb8bd0788b27f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02b899c5d781cdb8bd0788b27f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851b899c5d781cdb8bd0788b27f
+            is_playable: true
+            name: eMOTIVe
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2UAin9VEGxiZRfe9Q7SKg4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          disc_number: 1
+          duration_ms: 293720
+          explicit: false
+          external_ids:
+            isrc: USVI20400536
+          external_urls:
+            spotify: https://open.spotify.com/track/1au1pPMHY9avx43cDT4XXa
+          href: https://api.spotify.com/v1/tracks/1au1pPMHY9avx43cDT4XXa
+          id: 1au1pPMHY9avx43cDT4XXa
+          is_local: false
+          is_playable: true
+          name: What's Going On
+          track_number: 4
+          type: track
+          uri: spotify:track:1au1pPMHY9avx43cDT4XXa
+    isrc: USVI20400536

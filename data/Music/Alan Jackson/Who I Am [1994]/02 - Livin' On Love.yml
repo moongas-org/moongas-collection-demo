@@ -5,7 +5,7 @@ trackData:
   album: Who I Am
   genre: Classic Country
   year: 1994
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 225.89
     fingerprint: 
@@ -33,3 +33,76 @@ trackIdData:
         firstReleaseDate: '1994-06-28'
       score: 0.97691685
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/18mlfWTIfIRP51HolxjoFk
+    trackId: 18mlfWTIfIRP51HolxjoFk
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAN20600047&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+              href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+              id: 4mxWe1mtYIYfP040G38yvS
+              name: Alan Jackson
+              type: artist
+              uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+            external_urls:
+              spotify: https://open.spotify.com/album/0qOXuiQlA4VnZCYcfBkhw7
+            href: https://api.spotify.com/v1/albums/0qOXuiQlA4VnZCYcfBkhw7
+            id: 0qOXuiQlA4VnZCYcfBkhw7
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273eed89f668cb2785f7b46f6ab
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02eed89f668cb2785f7b46f6ab
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851eed89f668cb2785f7b46f6ab
+            is_playable: true
+            name: Like Red On A Rose
+            release_date: '2006-09-25'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0qOXuiQlA4VnZCYcfBkhw7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS
+            href: https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS
+            id: 4mxWe1mtYIYfP040G38yvS
+            name: Alan Jackson
+            type: artist
+            uri: spotify:artist:4mxWe1mtYIYfP040G38yvS
+          disc_number: 1
+          duration_ms: 246586
+          explicit: false
+          external_ids:
+            isrc: USAN20600047
+          external_urls:
+            spotify: https://open.spotify.com/track/18mlfWTIfIRP51HolxjoFk
+          href: https://api.spotify.com/v1/tracks/18mlfWTIfIRP51HolxjoFk
+          id: 18mlfWTIfIRP51HolxjoFk
+          is_local: false
+          is_playable: true
+          name: As Lovely As You
+          track_number: 11
+          type: track
+          uri: spotify:track:18mlfWTIfIRP51HolxjoFk
+    isrc: USAN20600047

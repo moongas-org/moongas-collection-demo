@@ -39,3 +39,83 @@ mediaFileData:
         firstReleaseDate: '2001-05-16'
       score: 0.9666403
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0bEcyzNCzM3tg7YR25K8La
+    trackId: 0bEcyzNCzM3tg7YR25K8La
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI20400576&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+              href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+              id: 4DFhHyjvGYa9wxdHUjtDkc
+              name: A Perfect Circle
+              type: artist
+              uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+            external_urls:
+              spotify: https://open.spotify.com/album/4GmQxktbk1GJxpRqSUe26q
+            href: https://api.spotify.com/v1/albums/4GmQxktbk1GJxpRqSUe26q
+            id: 4GmQxktbk1GJxpRqSUe26q
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e9ce14632c393a8ddffd82f2
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e9ce14632c393a8ddffd82f2
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e9ce14632c393a8ddffd82f2
+            is_playable: true
+            name: aMOTION
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:4GmQxktbk1GJxpRqSUe26q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc
+            href: https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc
+            id: 4DFhHyjvGYa9wxdHUjtDkc
+            name: A Perfect Circle
+            type: artist
+            uri: spotify:artist:4DFhHyjvGYa9wxdHUjtDkc
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1rXhjibRAqFFGSUCYeQCSW
+            href: https://api.spotify.com/v1/artists/1rXhjibRAqFFGSUCYeQCSW
+            id: 1rXhjibRAqFFGSUCYeQCSW
+            name: Danny Lohner
+            type: artist
+            uri: spotify:artist:1rXhjibRAqFFGSUCYeQCSW
+          disc_number: 1
+          duration_ms: 328333
+          explicit: false
+          external_ids:
+            isrc: USVI20400576
+          external_urls:
+            spotify: https://open.spotify.com/track/0bEcyzNCzM3tg7YR25K8La
+          href: https://api.spotify.com/v1/tracks/0bEcyzNCzM3tg7YR25K8La
+          id: 0bEcyzNCzM3tg7YR25K8La
+          is_local: false
+          is_playable: true
+          name: Outsider - Apocalypse Remix
+          track_number: 3
+          type: track
+          uri: spotify:track:0bEcyzNCzM3tg7YR25K8La
+    isrc: USVI20400576

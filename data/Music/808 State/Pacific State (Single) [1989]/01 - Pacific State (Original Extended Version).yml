@@ -5,7 +5,7 @@ trackData:
   album: Pacific State (Single)
   genre: Electronic (Instrumental)
   year: 1989
-trackIdData:
+mediaFileData:
 - fpcalcData:
     duration: 393.38
     fingerprint: 
@@ -24,3 +24,76 @@ trackIdData:
         firstReleaseDate: '1989-07-31'
       score: 0.98846257
     status: ok
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5viwTjaaO8fmVWzTLjuXaM
+    trackId: 5viwTjaaO8fmVWzTLjuXaM
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM72104710&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN
+              href: https://api.spotify.com/v1/artists/7hFdUW64G4iU1tz46ITRfN
+              id: 7hFdUW64G4iU1tz46ITRfN
+              name: 808 State
+              type: artist
+              uri: spotify:artist:7hFdUW64G4iU1tz46ITRfN
+            external_urls:
+              spotify: https://open.spotify.com/album/3D8GZqHMBUMjrk87iux7CX
+            href: https://api.spotify.com/v1/albums/3D8GZqHMBUMjrk87iux7CX
+            id: 3D8GZqHMBUMjrk87iux7CX
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2731f18257561d4fdc173adb18d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e021f18257561d4fdc173adb18d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048511f18257561d4fdc173adb18d
+            is_playable: true
+            name: Pacific
+            release_date: '1989-11-06'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:3D8GZqHMBUMjrk87iux7CX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN
+            href: https://api.spotify.com/v1/artists/7hFdUW64G4iU1tz46ITRfN
+            id: 7hFdUW64G4iU1tz46ITRfN
+            name: 808 State
+            type: artist
+            uri: spotify:artist:7hFdUW64G4iU1tz46ITRfN
+          disc_number: 1
+          duration_ms: 389200
+          explicit: false
+          external_ids:
+            isrc: GBUM72104710
+          external_urls:
+            spotify: https://open.spotify.com/track/5viwTjaaO8fmVWzTLjuXaM
+          href: https://api.spotify.com/v1/tracks/5viwTjaaO8fmVWzTLjuXaM
+          id: 5viwTjaaO8fmVWzTLjuXaM
+          is_local: false
+          is_playable: true
+          name: Pacific State - 12" Version
+          track_number: 4
+          type: track
+          uri: spotify:track:5viwTjaaO8fmVWzTLjuXaM
+    isrc: GBUM72104710
