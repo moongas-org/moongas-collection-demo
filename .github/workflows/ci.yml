@@ -53,15 +53,15 @@ jobs:
           cd moongas-mediascan-go
           go install ./...
 
-      - name: Run Go scan-to-artists-yaml
+      - name: Run Go scan-to-db
         run: |
-          go -C "$GITHUB_WORKSPACE/moongas-mediascan-go" run ./cmd/scan-to-artists-yaml "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan-artists.yml" "$GITHUB_WORKSPACE"
+          go -C "$GITHUB_WORKSPACE/moongas-mediascan-go" run ./cmd/scan-to-db "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan.db" "$GITHUB_WORKSPACE"
 
-      - name: Upload mediascan-artists.yml artifact
+      - name: Upload mediascan.db artifact
         uses: actions/upload-artifact@v4
         with:
-          name: mediascan-artists
-          path: ${{ github.workspace }}/mediascan-artists.yml
+          name: mediascan-db
+          path: ${{ github.workspace }}/mediascan.db
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -83,4 +83,4 @@ jobs:
 
       - name: Run mediatest on moongas-collection
         run: |
-          python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_media_files" "$GITHUB_WORKSPACE/mediatest-config.yml"
+          python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_media_files" "$GITHUB_WORKSPACE"

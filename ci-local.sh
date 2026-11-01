@@ -13,8 +13,8 @@ cd "$REPO_ROOT"
 echo "==> Build and Install Go Module"
 (cd moongas-mediascan-go && go install ./...)
 
-echo "==> Run Go scan-to-artists-yaml"
-go -C "$REPO_ROOT/moongas-mediascan-go" run ./cmd/scan-to-artists-yaml "$REPO_ROOT/mediascan-config.yml" "$REPO_ROOT/mediascan-artists.yml" "$REPO_ROOT"
+echo "==> Run Go scan-to-db"
+go -C "$REPO_ROOT/moongas-mediascan-go" run ./cmd/scan-to-db "$REPO_ROOT/mediascan-config.yml" "$REPO_ROOT/mediascan.db" "$REPO_ROOT"
 
 echo "==> Activating Python Virtual Environment"
 source "$REPO_ROOT/.venv/bin/activate"
@@ -30,4 +30,4 @@ python -m pip install -e ./moongas-mediascripts-python
 python -m pip install -e ./moongas-mediatunes-svc-python-blacksheep
 
 echo "==> Run mediatest on moongas-collection"
-python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_media_files" "$REPO_ROOT/mediatest-config.yml"
+python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_media_files" "$REPO_ROOT"
