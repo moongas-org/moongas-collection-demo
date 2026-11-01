@@ -55,6 +55,7 @@ jobs:
 
       - name: Run Go scan-to-db
         run: |
+          rm -f "$GITHUB_WORKSPACE/mediascan.db"
           go -C "$GITHUB_WORKSPACE/moongas-mediascan-go" run ./cmd/scan-to-db "$GITHUB_WORKSPACE/mediascan-config.yml" "$GITHUB_WORKSPACE/mediascan.db" "$GITHUB_WORKSPACE"
 
       - name: Upload mediascan.db artifact

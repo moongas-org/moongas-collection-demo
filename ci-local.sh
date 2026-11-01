@@ -14,6 +14,7 @@ echo "==> Build and Install Go Module"
 (cd moongas-mediascan-go && go install ./...)
 
 echo "==> Run Go scan-to-db"
+rm -f "$REPO_ROOT/mediascan.db"
 go -C "$REPO_ROOT/moongas-mediascan-go" run ./cmd/scan-to-db "$REPO_ROOT/mediascan-config.yml" "$REPO_ROOT/mediascan.db" "$REPO_ROOT"
 
 echo "==> Activating Python Virtual Environment"
