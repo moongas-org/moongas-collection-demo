@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 30.35
-    fingerprint: AQAA30mSKFOWKAoFvcKPHxd-iDmK8_jR88EP6zh53Pjx44eD98APv_hxHseJx9inwzjgH994wJqIExu-4YGYGx-QEz6DHuhz5McP9UilB3dw-MSJ40j-IHUKbJOKk8Lx5TisqQUqFR_C6nCN_DDgRhKO_EgOjyFOXMmDSgyLEg2OB22O64JxBn-A7Qxu5HgO5_hROXzwQ-gR5kzx4MeZ4MuO6ciF5FrgpHB4HOZy9Phw9IgPH1fh44IP4RLiYocLHD_SXDjUB-mPHj9O9GgePMcdoX2QM_BbHPdx6BAsHD8d-A-OHj2F5gx0IMSP40c-HPoQfETu4IVfQ-lG5DiOIz9O-NCP48B1OHgbxBR-4MeW41Me-GgRPhArIvxxTCd8Bv-DHx8cEz9e4gmMG08NV3hg5zguwT-KHCV8AEEkoEwYQ5Q0AgAkDADSMOQUA0ICKgCkziBghQLCCbKcAkQBApwxAIjgKAIAGIIgQswgATkQyCHlBEMMICYBEhRQoABDShmBpZHUKEa5xkgo5RymAAiLhDCOWQQggEpYoKRnACAhigCKCkIIYwgYASQABhCglUHkCcGQAVYgoAgyAQAjGEIICIWYMAIIAi4
+    fingerprint: 
+      AQAA30mSKFOWKAoFvcKPHxd-iDmK8_jR88EP6zh53Pjx44eD98APv_hxHseJx9inwzjgH994wJqIExu-4YGYGx-QEz6DHuhz5McP9UilB3dw-MSJ40j-IHUKbJOKk8Lx5TisqQUqFR_C6nCN_DDgRhKO_EgOjyFOXMmDSgyLEg2OB22O64JxBn-A7Qxu5HgO5_hROXzwQ-gR5kzx4MeZ4MuO6ciF5FrgpHB4HOZy9Phw9IgPH1fh44IP4RLiYocLHD_SXDjUB-mPHj9O9GgePMcdoX2QM_BbHPdx6BAsHD8d-A-OHj2F5gx0IMSP40c-HPoQfETu4IVfQ-lG5DiOIz9O-NCP48B1OHgbxBR-4MeW41Me-GgRPhArIvxxTCd8Bv-DHx8cEz9e4gmMG08NV3hg5zguwT-KHCV8AEEkoEwYQ5Q0AgAkDADSMOQUA0ICKgCkziBghQLCCbKcAkQBApwxAIjgKAIAGIIgQswgATkQyCHlBEMMICYBEhRQoABDShmBpZHUKEa5xkgo5RymAAiLhDCOWQQggEpYoKRnACAhigCKCkIIYwgYASQABhCglUHkCcGQAVYgoAgyAQAjGEIICIWYMAIIAi4
   acoustidData:
     results:
     - id: cdeed18f-991f-4df5-84b4-3653f310b03b
@@ -48,7 +49,8 @@ mediaFileData:
       recordings: []
       score: 0.96418715
     status: ok
-  path: /data/Music/The Brian Jonestown Massacre/Their Satanic Majesties' Second Request [1996]/11 - Baby (Prepraise).mp3
+  path: /data/Music/The Brian Jonestown Massacre/Their Satanic Majesties' Second
+    Request [1996]/11 - Baby (Prepraise).mp3
   size: 1327104
   format: mp3
   title: Baby (Prepraise)
@@ -59,3 +61,76 @@ mediaFileData:
   year: 1996
   duration: 30.32
   modTime: 2024-10-03 02:03:51.180019+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5KZKCI1rPEPGMPNwaZgfAi
+    trackId: 5KZKCI1rPEPGMPNwaZgfAi
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBSLX0810072&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy
+              href: https://api.spotify.com/v1/artists/30uiS1n3uIGXJEYFR1GVDy
+              id: 30uiS1n3uIGXJEYFR1GVDy
+              name: The Brian Jonestown Massacre
+              type: artist
+              uri: spotify:artist:30uiS1n3uIGXJEYFR1GVDy
+            external_urls:
+              spotify: https://open.spotify.com/album/4GnH6ISwnbLNxqNKGOb4W6
+            href: https://api.spotify.com/v1/albums/4GnH6ISwnbLNxqNKGOb4W6
+            id: 4GnH6ISwnbLNxqNKGOb4W6
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27337ae45cb1c8b379d500a1118
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0237ae45cb1c8b379d500a1118
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485137ae45cb1c8b379d500a1118
+            is_playable: true
+            name: Their Satanic Majesties' Second Request
+            release_date: '2008-06-09'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:4GnH6ISwnbLNxqNKGOb4W6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy
+            href: https://api.spotify.com/v1/artists/30uiS1n3uIGXJEYFR1GVDy
+            id: 30uiS1n3uIGXJEYFR1GVDy
+            name: The Brian Jonestown Massacre
+            type: artist
+            uri: spotify:artist:30uiS1n3uIGXJEYFR1GVDy
+          disc_number: 1
+          duration_ms: 30320
+          explicit: false
+          external_ids:
+            isrc: GBSLX0810072
+          external_urls:
+            spotify: https://open.spotify.com/track/5KZKCI1rPEPGMPNwaZgfAi
+          href: https://api.spotify.com/v1/tracks/5KZKCI1rPEPGMPNwaZgfAi
+          id: 5KZKCI1rPEPGMPNwaZgfAi
+          is_local: false
+          is_playable: true
+          name: Baby (Prepraise)
+          track_number: 11
+          type: track
+          uri: spotify:track:5KZKCI1rPEPGMPNwaZgfAi
+    isrc: GBSLX0810072

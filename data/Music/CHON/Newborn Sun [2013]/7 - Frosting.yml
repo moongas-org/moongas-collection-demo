@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 24.72
-    fingerprint: AQAAsmSkLEsSLbjIoSea5Md9_MJz6MbxYndxC34WYifxI04MLV-O41IG90KPQ8g93C3KH_6G_3A9HEYyJj_yB_camMmPkw5uFk3Q75B_XH7wKBceHM1j9Ed-Qz8upspQRSe0PBr2F3wuPB8eVnjiDcrq4Hmh-hjzEEyWs9hNpG-D73gmNF2S48F7NGobIRlyXNKDRwwTfEfDHlVefMMf5CKSHz-eEBfRo3miEEesD1p0HR_Ow1bw5ahw6MirGLXIUPCOL_gPHP2RXHqGPBcaV0cb_fgd9FfRvLhyJP2Rx08wKsuKJxd-o0fzHzle3PnwRDr0ufCLHy8eHnmeBleSHB-aONmKKn2xE_3hkUfaHckF_0OP5jn64CFRPYWLL_Bx_MB9HAeQBgf8wzhw4AAOHMBxHAdwAGQNA8YZRogiBCHDAADIMIwQUgABBJQSyiAGCDNOIGCIYRQRghhiACDBhDHEQeQEAQ44gQQhxBKEjJEGGGeMI04hhTgCgAEAIDJKgASAUg4YooACRAiBoCMEGCQQUIII0YEAAjBmnBICEMGItQIQo4ASCEjDgaFIGCedAhaQASx0yAA
+    fingerprint: 
+      AQAAsmSkLEsSLbjIoSea5Md9_MJz6MbxYndxC34WYifxI04MLV-O41IG90KPQ8g93C3KH_6G_3A9HEYyJj_yB_camMmPkw5uFk3Q75B_XH7wKBceHM1j9Ed-Qz8upspQRSe0PBr2F3wuPB8eVnjiDcrq4Hmh-hjzEEyWs9hNpG-D73gmNF2S48F7NGobIRlyXNKDRwwTfEfDHlVefMMf5CKSHz-eEBfRo3miEEesD1p0HR_Ow1bw5ahw6MirGLXIUPCOL_gPHP2RXHqGPBcaV0cb_fgd9FfRvLhyJP2Rx08wKsuKJxd-o0fzHzle3PnwRDr0ufCLHy8eHnmeBleSHB-aONmKKn2xE_3hkUfaHckF_0OP5jn64CFRPYWLL_Bx_MB9HAeQBgf8wzhw4AAOHMBxHAdwAGQNA8YZRogiBCHDAADIMIwQUgABBJQSyiAGCDNOIGCIYRQRghhiACDBhDHEQeQEAQ44gQQhxBKEjJEGGGeMI04hhTgCgAEAIDJKgASAUg4YooACRAiBoCMEGCQQUIII0YEAAjBmnBICEMGItQIQo4ASCEjDgaFIGCedAhaQASx0yAA
   acoustidData:
     results:
     - id: 4c213fe2-559d-4607-aaa4-920b503bdd7a
@@ -34,3 +35,76 @@ mediaFileData:
   year: 2013
   duration: 24.72
   modTime: 2025-09-20 19:15:15.675581+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2tFMFzj90EdbNXKTk5qk82
+    trackId: 2tFMFzj90EdbNXKTk5qk82
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSHM81377507&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0
+              href: https://api.spotify.com/v1/artists/2JFljHPanIjYy2QqfNYvC0
+              id: 2JFljHPanIjYy2QqfNYvC0
+              name: Chon
+              type: artist
+              uri: spotify:artist:2JFljHPanIjYy2QqfNYvC0
+            external_urls:
+              spotify: https://open.spotify.com/album/6gDHF6BrncxR8UlIuvfUpT
+            href: https://api.spotify.com/v1/albums/6gDHF6BrncxR8UlIuvfUpT
+            id: 6gDHF6BrncxR8UlIuvfUpT
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d5b74faea9b674237c1eff96
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d5b74faea9b674237c1eff96
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d5b74faea9b674237c1eff96
+            is_playable: true
+            name: Newborn Sun
+            release_date: '2013-06-11'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:6gDHF6BrncxR8UlIuvfUpT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0
+            href: https://api.spotify.com/v1/artists/2JFljHPanIjYy2QqfNYvC0
+            id: 2JFljHPanIjYy2QqfNYvC0
+            name: Chon
+            type: artist
+            uri: spotify:artist:2JFljHPanIjYy2QqfNYvC0
+          disc_number: 1
+          duration_ms: 24677
+          explicit: false
+          external_ids:
+            isrc: ushm81377507
+          external_urls:
+            spotify: https://open.spotify.com/track/2tFMFzj90EdbNXKTk5qk82
+          href: https://api.spotify.com/v1/tracks/2tFMFzj90EdbNXKTk5qk82
+          id: 2tFMFzj90EdbNXKTk5qk82
+          is_local: false
+          is_playable: true
+          name: Frosting
+          track_number: 7
+          type: track
+          uri: spotify:track:2tFMFzj90EdbNXKTk5qk82
+    isrc: USHM81377507

@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 14.45
-    fingerprint: AQAAX0yWUVGSJggO_Phx3HBfDp9RfMKJC5_Qw4fmIzz84Tt8Cb2OH9_RLSXSf0i2dvjxN8Xfo2lyJPOOvMUfPPiOh9pxHVMuJUfxHNePnfjRF2F0vMIDPcgVPFGIP8M5oUdTE08u_DiaOR_6HcgH_SkRpsevarCDC0f6oT-0o9mFXzg0Gz_yH79RXDm-4fzRRTz-AP_xFz52H8ZLNLWBOwBHFRFIAWeCAp9qIqAwCkCCiBBEGkEIYUhBQZkjihBgiCCAOKcEExAKIqCjCiJMjnFMAEoEuAJA8owjRwgBHIEAKUAQMIYJQpAAFgA
+    fingerprint: 
+      AQAAX0yWUVGSJggO_Phx3HBfDp9RfMKJC5_Qw4fmIzz84Tt8Cb2OH9_RLSXSf0i2dvjxN8Xfo2lyJPOOvMUfPPiOh9pxHVMuJUfxHNePnfjRF2F0vMIDPcgVPFGIP8M5oUdTE08u_DiaOR_6HcgH_SkRpsevarCDC0f6oT-0o9mFXzg0Gz_yH79RXDm-4fzRRTz-AP_xFz52H8ZLNLWBOwBHFRFIAWeCAp9qIqAwCkCCiBBEGkEIYUhBQZkjihBgiCCAOKcEExAKIqCjCiJMjnFMAEoEuAJA8owjRwgBHIEAKUAQMIYJQpAAFgA
   acoustidData:
     results:
     - id: 80cc7d38-22aa-4a79-909f-98f79e51d015
@@ -52,3 +53,133 @@ mediaFileData:
   year: 1997
   duration: 14.4
   modTime: 2024-02-15 20:13:46.255826+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5mjpjO6IGXQuRcrsTjFldM
+    trackId: 5mjpjO6IGXQuRcrsTjFldM
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBGHQ1000043&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI
+              href: https://api.spotify.com/v1/artists/4ZYjW9vY2BTk1er3xomkwI
+              id: 4ZYjW9vY2BTk1er3xomkwI
+              name: M / Robin Scott
+              type: artist
+              uri: spotify:artist:4ZYjW9vY2BTk1er3xomkwI
+            external_urls:
+              spotify: https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV
+            href: https://api.spotify.com/v1/albums/1NYT6pqKJdfCPOKtbgqbLV
+            id: 1NYT6pqKJdfCPOKtbgqbLV
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273a2f0db0d0824bb5b0ff4c2ef
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02a2f0db0d0824bb5b0ff4c2ef
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851a2f0db0d0824bb5b0ff4c2ef
+            is_playable: true
+            name: New York, London, Paris, Munich
+            release_date: '1979-01-01'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:1NYT6pqKJdfCPOKtbgqbLV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI
+            href: https://api.spotify.com/v1/artists/4ZYjW9vY2BTk1er3xomkwI
+            id: 4ZYjW9vY2BTk1er3xomkwI
+            name: M / Robin Scott
+            type: artist
+            uri: spotify:artist:4ZYjW9vY2BTk1er3xomkwI
+          disc_number: 1
+          duration_ms: 14400
+          explicit: false
+          external_ids:
+            isrc: GBGHQ1000043
+          external_urls:
+            spotify: https://open.spotify.com/track/5mjpjO6IGXQuRcrsTjFldM
+          href: https://api.spotify.com/v1/tracks/5mjpjO6IGXQuRcrsTjFldM
+          id: 5mjpjO6IGXQuRcrsTjFldM
+          is_local: false
+          is_playable: true
+          name: Finale
+          track_number: 21
+          type: track
+          uri: spotify:track:5mjpjO6IGXQuRcrsTjFldM
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI
+              href: https://api.spotify.com/v1/artists/4ZYjW9vY2BTk1er3xomkwI
+              id: 4ZYjW9vY2BTk1er3xomkwI
+              name: M / Robin Scott
+              type: artist
+              uri: spotify:artist:4ZYjW9vY2BTk1er3xomkwI
+            external_urls:
+              spotify: https://open.spotify.com/album/3wiDFORdTfsNYPVClOXZ9e
+            href: https://api.spotify.com/v1/albums/3wiDFORdTfsNYPVClOXZ9e
+            id: 3wiDFORdTfsNYPVClOXZ9e
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732a26e512c41d653324dad0e8
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022a26e512c41d653324dad0e8
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512a26e512c41d653324dad0e8
+            is_playable: true
+            name: New York, London, Paris, Munich (Expanded Edition)
+            release_date: '2025-02-21'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:3wiDFORdTfsNYPVClOXZ9e
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI
+            href: https://api.spotify.com/v1/artists/4ZYjW9vY2BTk1er3xomkwI
+            id: 4ZYjW9vY2BTk1er3xomkwI
+            name: M / Robin Scott
+            type: artist
+            uri: spotify:artist:4ZYjW9vY2BTk1er3xomkwI
+          disc_number: 1
+          duration_ms: 14242
+          explicit: false
+          external_ids:
+            isrc: GBGHQ1000043
+          external_urls:
+            spotify: https://open.spotify.com/track/0VW1GVtIujsOvV8iasgXRK
+          href: https://api.spotify.com/v1/tracks/0VW1GVtIujsOvV8iasgXRK
+          id: 0VW1GVtIujsOvV8iasgXRK
+          is_local: false
+          is_playable: true
+          name: Finale
+          track_number: 29
+          type: track
+          uri: spotify:track:0VW1GVtIujsOvV8iasgXRK
+    isrc: GBGHQ1000043
