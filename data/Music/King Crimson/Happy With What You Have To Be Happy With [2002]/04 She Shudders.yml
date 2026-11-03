@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: !!float '35'
-    fingerprint: AQABBdIkSQoz4hPRo3mEBx8-42qE8EfT44e-I_wZHD1x7vAXx3h2vBeOsHGgpSmCx3AcHv1ZuA8ehsdR5RruJ3g8IX-PPUWPnB_CrLgJ-fguhA8r_C_6LA-e42h-XDnCn4GuxEFYFX9wHR9M6glC50iMB33BPEGN5rhzUF-O_Hkg5Rm1ADiO8_iRAXuO43iO58YZoWHS4A9OHq6y4Mpx8uh5-A-OBwlS9MePXscRJDD64g36wzhsICHCB9fxo4ePV8fxBIiG_widB9V_HH7Y4EfMFMlMTHmOHlcWPEnT4D1-JDyDfCdO5MyRPFmeoJly9ImOB2-LK3VQJg989AmSj0ifhcYsySIeHe3hI4ke5Hh03A9-NAjLBTqu4wn6QMuXIn9wxUCtw27QZgOSIx-O437wRJhO43CHWkXRfDn-IVEejVNw_AryHfhx7PixZwzyHTryhOizg-EjNOqVpMgDVeIROoyD7ejx4z3OHGNKo1-E5pLw6EJ-qM6Rdx2cKzh77PjRP2h-4R9yQ-URHo7OYl8yND2eXTKeSkL5wUQlCafY4xSPH02zo02Pv0L4Q8uHnDne48cTPGDQHNjxIKSUQDxyfUUvCxeuraimZIQnGf3xHYH-IrcAoQGlDgEFgCAIECQMEAghAIEzQiFgCVDMCCCYEAACIBAQABjlEIRACAIMsgIgySxCCAgGgIBIQGSFRRACADEyzBgDiCAGOCQMQ4AgZolFABlnrBAUKQAgAgQQICAxAhFCgAFGCcOAQAJCQZzQCiDDkDJIGeAIREYEYZxDiDGZgBFwIGqEigpYxRAgRgFthEJMSAG0U4gAwRAiBiIgGOGOKAEUAogaZxwCTAgBAHFCGCGYUMAIxBBTCGEGDCaWOAGUAw
+    fingerprint: 
+      AQABBdIkSQoz4hPRo3mEBx8-42qE8EfT44e-I_wZHD1x7vAXx3h2vBeOsHGgpSmCx3AcHv1ZuA8ehsdR5RruJ3g8IX-PPUWPnB_CrLgJ-fguhA8r_C_6LA-e42h-XDnCn4GuxEFYFX9wHR9M6glC50iMB33BPEGN5rhzUF-O_Hkg5Rm1ADiO8_iRAXuO43iO58YZoWHS4A9OHq6y4Mpx8uh5-A-OBwlS9MePXscRJDD64g36wzhsICHCB9fxo4ePV8fxBIiG_widB9V_HH7Y4EfMFMlMTHmOHlcWPEnT4D1-JDyDfCdO5MyRPFmeoJly9ImOB2-LK3VQJg989AmSj0ifhcYsySIeHe3hI4ke5Hh03A9-NAjLBTqu4wn6QMuXIn9wxUCtw27QZgOSIx-O437wRJhO43CHWkXRfDn-IVEejVNw_AryHfhx7PixZwzyHTryhOizg-EjNOqVpMgDVeIROoyD7ejx4z3OHGNKo1-E5pLw6EJ-qM6Rdx2cKzh77PjRP2h-4R9yQ-URHo7OYl8yND2eXTKeSkL5wUQlCafY4xSPH02zo02Pv0L4Q8uHnDne48cTPGDQHNjxIKSUQDxyfUUvCxeuraimZIQnGf3xHYH-IrcAoQGlDgEFgCAIECQMEAghAIEzQiFgCVDMCCCYEAACIBAQABjlEIRACAIMsgIgySxCCAgGgIBIQGSFRRACADEyzBgDiCAGOCQMQ4AgZolFABlnrBAUKQAgAgQQICAxAhFCgAFGCcOAQAJCQZzQCiDDkDJIGeAIREYEYZxDiDGZgBFwIGqEigpYxRAgRgFthEJMSAG0U4gAwRAiBiIgGOGOKAEUAogaZxwCTAgBAHFCGCGYUMAIxBBTCGEGDCaWOAGUAw
   acoustidData:
     results:
     - id: a429c306-3b51-4d91-bf19-d7e7eb670799
@@ -56,7 +57,8 @@ mediaFileData:
         firstReleaseDate: '2002-10-16'
       score: 0.8175287
     status: ok
-  path: /data/Music/King Crimson/Happy With What You Have To Be Happy With [2002]/04 She Shudders.mp3
+  path: /data/Music/King Crimson/Happy With What You Have To Be Happy With 
+    [2002]/04 She Shudders.mp3
   size: 841269
   format: mp3
   title: She Shudders
@@ -67,3 +69,77 @@ mediaFileData:
   year: 2002
   duration: 35.004083333333334
   modTime: 2025-01-11 00:54:01.578596+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6NZ8IVjmcX1hWxUoX8AZba
+    trackId: 6NZ8IVjmcX1hWxUoX8AZba
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCTX2100266&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+              href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+              id: 7M1FPw29m5FbicYzS2xdpi
+              name: King Crimson
+              type: artist
+              uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+            external_urls:
+              spotify: https://open.spotify.com/album/25BDt81fxFdJh8jVmA9Top
+            href: https://api.spotify.com/v1/albums/25BDt81fxFdJh8jVmA9Top
+            id: 25BDt81fxFdJh8jVmA9Top
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730895fab8d67fb54171a7bd9f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020895fab8d67fb54171a7bd9f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510895fab8d67fb54171a7bd9f
+            is_playable: true
+            name: Happy With What You Have To Be Happy With / Level Five / 
+              Elektrik
+            release_date: '2021-12-17'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:25BDt81fxFdJh8jVmA9Top
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+            href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+            id: 7M1FPw29m5FbicYzS2xdpi
+            name: King Crimson
+            type: artist
+            uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+          disc_number: 1
+          duration_ms: 35720
+          explicit: false
+          external_ids:
+            isrc: GBCTX2100266
+          external_urls:
+            spotify: https://open.spotify.com/track/6NZ8IVjmcX1hWxUoX8AZba
+          href: https://api.spotify.com/v1/tracks/6NZ8IVjmcX1hWxUoX8AZba
+          id: 6NZ8IVjmcX1hWxUoX8AZba
+          is_local: false
+          is_playable: true
+          name: She Shudders
+          track_number: 5
+          type: track
+          uri: spotify:track:6NZ8IVjmcX1hWxUoX8AZba
+    isrc: GBCTX2100266
