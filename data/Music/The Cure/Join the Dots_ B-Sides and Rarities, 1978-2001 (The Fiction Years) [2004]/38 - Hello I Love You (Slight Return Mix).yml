@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 13.56
-    fingerprint: AQAAWAkVRomUTLi2BIqu_fhxoz9-sNahTmmF90KOIrV2oZvwHw2P99C3C-KPGyd04sQPaOEt3CTQvcOuED-u58iPp3gtnMedoUf-UNDlC2ceIVLqo19w4VeQK8GpHtq7HGHGc7gS4g2R5TqaSDzk8-DUpTjxJMcj_EefoakoHBcx8Yg9wbBOHD9-HEeeI-mH4zhu-EOxX3gTZMkSJQkAAAIAAEEpyIQiAgLCCGCMAKAkU0wEIAwAFAjAnELECEYEAIIgwokCABABIAKEIMKQ0ggRASnFUCnDkQOUcaSQEwwA
+    fingerprint: 
+      AQAAWAkVRomUTLi2BIqu_fhxoz9-sNahTmmF90KOIrV2oZvwHw2P99C3C-KPGyd04sQPaOEt3CTQvcOuED-u58iPp3gtnMedoUf-UNDlC2ceIVLqo19w4VeQK8GpHtq7HGHGc7gS4g2R5TqaSDzk8-DUpTjxJMcj_EefoakoHBcx8Yg9wbBOHD9-HEeeI-mH4zhu-EOxX3gTZMkSJQkAAAIAAEEpyIQiAgLCCGCMAKAkU0wEIAwAFAjAnELECEYEAIIgwokCABABIAKEIMKQ0ggRASnFUCnDkQOUcaSQEwwA
   acoustidData:
     results:
     - id: c36b0991-9514-4dc9-90b2-d4f1718fcb38
@@ -67,7 +68,8 @@ mediaFileData:
         firstReleaseDate: '1980'
       score: 0.71697444
     status: ok
-  path: /data/Music/The Cure/Join the Dots_ B-Sides and Rarities, 1978-2001 (The Fiction Years) [2004]/38 - Hello I Love You (Slight Return Mix).mp3
+  path: /data/Music/The Cure/Join the Dots_ B-Sides and Rarities, 1978-2001 (The
+    Fiction Years) [2004]/38 - Hello I Love You (Slight Return Mix).mp3
   size: 563200
   format: mp3
   title: Hello I Love You (Slight Return Mix)
@@ -78,3 +80,76 @@ mediaFileData:
   year: 2004
   duration: 13.56
   modTime: 2024-11-02 21:50:54.160755+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0suo5yI8UxP8ALAg9BBlUm
+    trackId: 0suo5yI8UxP8ALAg9BBlUm
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBALB0300006&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 0
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/0Be9aR7uSUhQII8AC404TP
+            href: https://api.spotify.com/v1/albums/0Be9aR7uSUhQII8AC404TP
+            id: 0Be9aR7uSUhQII8AC404TP
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273ceabdc183cc52bc24ae82cb3
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02ceabdc183cc52bc24ae82cb3
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851ceabdc183cc52bc24ae82cb3
+            is_playable: true
+            name: 'Join the Dots: B-Sides and Rarities, 1978-2001 (The Fiction Years)'
+            release_date: '2005-02-08'
+            release_date_precision: day
+            total_tracks: 70
+            type: album
+            uri: spotify:album:0Be9aR7uSUhQII8AC404TP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 13520
+          explicit: false
+          external_ids:
+            isrc: GBALB0300006
+          external_urls:
+            spotify: https://open.spotify.com/track/0suo5yI8UxP8ALAg9BBlUm
+          href: https://api.spotify.com/v1/tracks/0suo5yI8UxP8ALAg9BBlUm
+          id: 0suo5yI8UxP8ALAg9BBlUm
+          is_local: false
+          is_playable: true
+          name: Hello I Love You - Slight Return Mix
+          track_number: 38
+          type: track
+          uri: spotify:track:0suo5yI8UxP8ALAg9BBlUm
+    isrc: GBALB0300006
