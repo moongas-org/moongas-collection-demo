@@ -3,8 +3,8 @@ mediascanDatabaseFilePath: sqlite:///mediascan.db
 albumCoversPath: /var/www/html/Covers/
 ageVerification: true
 limitBandwidth: true
-maxResults: 50000
-maxResultsAlbumCovers: 500
+maxResults: 10000
+maxResultsAlbumCovers: 100
 serverConfig:
   host: 0.0.0.0
   port: 5000
@@ -66,3 +66,6 @@ playbackMethods:
   - name: Wikipedia
     enabled: true
     searchQueryURLFormat: "https://en.wikipedia.org/w/index.php?search={artist}%20{album}%20{title}"
+  - name: Internet Archive
+    enabled: true
+    searchQueryURLFormat: "https://archive.org/search.php?query={artist}%20{album}%20{title}"
