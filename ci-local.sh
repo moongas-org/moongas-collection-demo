@@ -17,6 +17,11 @@ echo "==> Run Go scan-to-db"
 rm -f "$REPO_ROOT/mediascan.db"
 go -C "$REPO_ROOT/moongas-mediascan-go" run ./cmd/scan-to-db "$REPO_ROOT/mediascan-config.yml" "$REPO_ROOT/mediascan.db" "$REPO_ROOT"
 
+if [[ ! -d "$REPO_ROOT/.venv" ]]; then
+    echo "==> Creating Python Virtual Environment"
+    uv venv "$REPO_ROOT/.venv"
+fi
+
 echo "==> Activating Python Virtual Environment"
 source "$REPO_ROOT/.venv/bin/activate"
 
