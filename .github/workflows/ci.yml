@@ -69,17 +69,16 @@ jobs:
         with:
           python-version: '3.13'
 
-      - name: Upgrade Pip
-        run: |
-          python -m pip install --upgrade pip
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
 
       - name: Install Local Python Packages
         run: |
-          python -m pip install pandas-stubs
-          python -m pip install -e ./moongas-mediascan-python
-          python -m pip install -e ./moongas-mediatest-python-pytest
-          python -m pip install -e ./moongas-mediascripts-python
-          python -m pip install -e ./moongas-mediatunes-svc-python-blacksheep
+          uv pip install pandas-stubs
+          uv pip install -e ./moongas-mediascan-python
+          uv pip install -e ./moongas-mediatest-python-pytest
+          uv pip install -e ./moongas-mediascripts-python
+          uv pip install -e ./moongas-mediatunes-svc-python-blacksheep
 
 
       - name: Run mediatest on moongas-collection
