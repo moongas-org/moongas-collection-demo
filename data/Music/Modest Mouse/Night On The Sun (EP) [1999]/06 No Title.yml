@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 18.34
-    fingerprint: AQAAfwmzKGKSKFlwIy92lA-JNFegTFeCWOuGHs-Rk4LWI8zxhfFwbj4eRxmmbzsyXcuRRBauqD6uoE-DHY6CKvuFTwE_pUiWy0b4HHM-nMaTE73QPIh4fFeEuGXBWEVzvAdDUTAl44OHXurQnAn6HD8axkEfMGcG7z2mZ8gNLZMSIU-GM_gfND_uDD_-ofkahKJSCknaw-zBHf6Gn0rxKC-eFAwtw9mJKvmxTxmDhx_CH815qIpy5FGvofrR7MezPDjRhEeVKOGRZzp0PkifJcFlPDnuIBkfhInC4zd-3NHRXIqGHj2aiLhYXEo-HL3QnMeNM0gcJog_-PJwMcaT4PCe41Tm4YmSE8kRhmOCkolwvNiPJ8wRkpm0QH8XI9MeAACWAEAxIJgmgAABiCAALGeIAoABQxhBwgkkHGMGCEmEEMIIZQwwABiAuDLKCACJYQI5J4gShAiEAADKEUIYIIIhABAyVFiBIAIEKCcAQhZABAhBiAsHgCATCoWMAAI
+    fingerprint: 
+      AQAAfwmzKGKSKFlwIy92lA-JNFegTFeCWOuGHs-Rk4LWI8zxhfFwbj4eRxmmbzsyXcuRRBauqD6uoE-DHY6CKvuFTwE_pUiWy0b4HHM-nMaTE73QPIh4fFeEuGXBWEVzvAdDUTAl44OHXurQnAn6HD8axkEfMGcG7z2mZ8gNLZMSIU-GM_gfND_uDD_-ofkahKJSCknaw-zBHf6Gn0rxKC-eFAwtw9mJKvmxTxmDhx_CH815qIpy5FGvofrR7MezPDjRhEeVKOGRZzp0PkifJcFlPDnuIBkfhInC4zd-3NHRXIqGHj2aiLhYXEo-HL3QnMeNM0gcJog_-PJwMcaT4PCe41Tm4YmSE8kRhmOCkolwvNiPJ8wRkpm0QH8XI9MeAACWAEAxIJgmgAABiCAALGeIAoABQxhBwgkkHGMGCEmEEMIIZQwwABiAuDLKCACJYQI5J4gShAiEAADKEUIYIIIhABAyVFiBIAIEKCcAQhZABAhBiAsHgCATCoWMAAI
   acoustidData:
     results:
     - id: 80734fa9-d6fc-46b6-9ecb-19fd561f6802
@@ -45,3 +46,133 @@ mediaFileData:
   year: 1999
   duration: 18.337958333333333
   modTime: 2023-02-23 00:36:51.350000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4eAqwM2dCsR2nTQZj3Nz2n
+    trackId: 4eAqwM2dCsR2nTQZj3Nz2n
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFP71652806&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/3IZFEX574UDojq8Z0cTf6q
+            href: https://api.spotify.com/v1/albums/3IZFEX574UDojq8Z0cTf6q
+            id: 3IZFEX574UDojq8Z0cTf6q
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27320e556fb20c8c4fe4c9a5e96
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0220e556fb20c8c4fe4c9a5e96
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485120e556fb20c8c4fe4c9a5e96
+            is_playable: true
+            name: Night on the Sun
+            release_date: '1999-06-06'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:3IZFEX574UDojq8Z0cTf6q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 18200
+          explicit: false
+          external_ids:
+            isrc: USFP71652806
+          external_urls:
+            spotify: https://open.spotify.com/track/4eAqwM2dCsR2nTQZj3Nz2n
+          href: https://api.spotify.com/v1/tracks/4eAqwM2dCsR2nTQZj3Nz2n
+          id: 4eAqwM2dCsR2nTQZj3Nz2n
+          is_local: false
+          is_playable: true
+          name: No Title (Jeremiah Green Speaking Japanese)
+          track_number: 6
+          type: track
+          uri: spotify:track:4eAqwM2dCsR2nTQZj3Nz2n
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/4f1p7gGuBikkiQT1zIe0R3
+            href: https://api.spotify.com/v1/albums/4f1p7gGuBikkiQT1zIe0R3
+            id: 4f1p7gGuBikkiQT1zIe0R3
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27364d2270a4e0ca36548b79540
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0264d2270a4e0ca36548b79540
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485164d2270a4e0ca36548b79540
+            is_playable: true
+            name: Night on the Sun
+            release_date: '1999-06-06'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:4f1p7gGuBikkiQT1zIe0R3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 18200
+          explicit: false
+          external_ids:
+            isrc: USFP71652806
+          external_urls:
+            spotify: https://open.spotify.com/track/3WMWf818VAUcVq2poc3Whl
+          href: https://api.spotify.com/v1/tracks/3WMWf818VAUcVq2poc3Whl
+          id: 3WMWf818VAUcVq2poc3Whl
+          is_local: false
+          is_playable: true
+          name: No Title (Jeremiah Green Speaking Japanese)
+          track_number: 6
+          type: track
+          uri: spotify:track:3WMWf818VAUcVq2poc3Whl
+    isrc: USFP71652806
