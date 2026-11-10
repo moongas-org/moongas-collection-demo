@@ -26,7 +26,8 @@ mediaFileData:
         firstReleaseDate: '2017-08-18'
       score: 0.9999011
     status: ok
-  path: /data/Music/Men I Trust/Oncle Jazz [2019]/Oncle Jazz - 09 I Hope To Be Around (album v).mp3
+  path: /data/Music/Men I Trust/Oncle Jazz [2019]/Oncle Jazz - 09 I Hope To Be 
+    Around (album v).mp3
   size: 8306688
   format: mp3
   title: I Hope To Be Around (album v)
@@ -37,3 +38,76 @@ mediaFileData:
   year: 2019
   duration: 206.17439909297053
   modTime: 2025-06-10 20:50:29.315367+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3xnM0WCRJKk4Iz49rkG5OC
+    trackId: 3xnM0WCRJKk4Iz49rkG5OC
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ATCADI1781637&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT
+              href: https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT
+              id: 3zmfs9cQwzJl575W1ZYXeT
+              name: Men I Trust
+              type: artist
+              uri: spotify:artist:3zmfs9cQwzJl575W1ZYXeT
+            external_urls:
+              spotify: https://open.spotify.com/album/4E6XYXyzk6bHcRmmP87ruD
+            href: https://api.spotify.com/v1/albums/4E6XYXyzk6bHcRmmP87ruD
+            id: 4E6XYXyzk6bHcRmmP87ruD
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e39911ac44a41ac82d44fa89
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e39911ac44a41ac82d44fa89
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e39911ac44a41ac82d44fa89
+            is_playable: true
+            name: I Hope to Be Around
+            release_date: '2017-11-10'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:4E6XYXyzk6bHcRmmP87ruD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT
+            href: https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT
+            id: 3zmfs9cQwzJl575W1ZYXeT
+            name: Men I Trust
+            type: artist
+            uri: spotify:artist:3zmfs9cQwzJl575W1ZYXeT
+          disc_number: 1
+          duration_ms: 205554
+          explicit: false
+          external_ids:
+            isrc: TCADI1781637
+          external_urls:
+            spotify: https://open.spotify.com/track/3xnM0WCRJKk4Iz49rkG5OC
+          href: https://api.spotify.com/v1/tracks/3xnM0WCRJKk4Iz49rkG5OC
+          id: 3xnM0WCRJKk4Iz49rkG5OC
+          is_local: false
+          is_playable: true
+          name: I Hope to Be Around
+          track_number: 1
+          type: track
+          uri: spotify:track:3xnM0WCRJKk4Iz49rkG5OC
+    isrc: TCADI1781637

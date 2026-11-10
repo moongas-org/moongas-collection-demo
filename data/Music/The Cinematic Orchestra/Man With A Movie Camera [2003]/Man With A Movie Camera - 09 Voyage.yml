@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 22.86
-    fingerprint: AQAAo0mkRsmSKBJ-WCZQHkLx4jB4AA8O_DhwC3AO8cJB_MYB98iI4zoOAsePHz2C0ocW8oGO79DRE18PEYd4XBAvHCJO-DjgC4dPCOJx-AxgnIdvHB_8GodPE4d1D1cOkbcQ6qh1mFENW6hH9E3hDyZJgTmR5zh5yEx41CLxaQTwD4eHA6Bg6DiA68JhHPjBH_DxAxSOAz9gHMfh43hwX8hwGJ9x2MePH-Gh80TwnMJ1oflRq-h3NFUWTL-C5tlxHld1xJJO-IOsH9-RH9cRHn5w7_g_HGSAsUCIgBExBhkBoSKAheSUVcIYhiA2wilnnFPOOKGccEw5A5yQRiEBrFNKQWCEccAMRoQT1ggltHGWTGKGtNYJg4hwSCEIiCEAMEiAFAYI5BQySABHpECIKKEMEBY
+    fingerprint: 
+      AQAAo0mkRsmSKBJ-WCZQHkLx4jB4AA8O_DhwC3AO8cJB_MYB98iI4zoOAsePHz2C0ocW8oGO79DRE18PEYd4XBAvHCJO-DjgC4dPCOJx-AxgnIdvHB_8GodPE4d1D1cOkbcQ6qh1mFENW6hH9E3hDyZJgTmR5zh5yEx41CLxaQTwD4eHA6Bg6DiA68JhHPjBH_DxAxSOAz9gHMfh43hwX8hwGJ9x2MePH-Gh80TwnMJ1oflRq-h3NFUWTL-C5tlxHld1xJJO-IOsH9-RH9cRHn5w7_g_HGSAsUCIgBExBhkBoSKAheSUVcIYhiA2wilnnFPOOKGccEw5A5yQRiEBrFNKQWCEccAMRoQT1ggltHGWTGKGtNYJg4hwSCEIiCEAMEiAFAYI5BQySABHpECIKKEMEBY
   acoustidData:
     results:
     - id: 0d0f9af0-e3fa-4520-9853-3b500638167e
@@ -45,7 +46,8 @@ mediaFileData:
         firstReleaseDate: '2003-05-31'
       score: 0.9014423
     status: ok
-  path: /data/Music/The Cinematic Orchestra/Man With A Movie Camera [2003]/Man With A Movie Camera - 09 Voyage.mp3
+  path: /data/Music/The Cinematic Orchestra/Man With A Movie Camera [2003]/Man 
+    With A Movie Camera - 09 Voyage.mp3
   size: 952070
   format: mp3
   title: Voyage
@@ -56,3 +58,76 @@ mediaFileData:
   year: 2003
   duration: 22.813333333333333
   modTime: 2024-05-23 18:29:06.889001+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/18gBsxvoVQAaEsqMfkd8V4
+    trackId: 18gBsxvoVQAaEsqMfkd8V4
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCFB0300088&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB
+              href: https://api.spotify.com/v1/artists/32ogthv0BdaSMPml02X9YB
+              id: 32ogthv0BdaSMPml02X9YB
+              name: The Cinematic Orchestra
+              type: artist
+              uri: spotify:artist:32ogthv0BdaSMPml02X9YB
+            external_urls:
+              spotify: https://open.spotify.com/album/0IIQQ4DsuNJWZmtK3FaYdp
+            href: https://api.spotify.com/v1/albums/0IIQQ4DsuNJWZmtK3FaYdp
+            id: 0IIQQ4DsuNJWZmtK3FaYdp
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2737bcbf5e6002f369a7661f088
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e027bcbf5e6002f369a7661f088
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048517bcbf5e6002f369a7661f088
+            is_playable: true
+            name: Man With A Movie Camera
+            release_date: '2003-05-27'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:0IIQQ4DsuNJWZmtK3FaYdp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB
+            href: https://api.spotify.com/v1/artists/32ogthv0BdaSMPml02X9YB
+            id: 32ogthv0BdaSMPml02X9YB
+            name: The Cinematic Orchestra
+            type: artist
+            uri: spotify:artist:32ogthv0BdaSMPml02X9YB
+          disc_number: 1
+          duration_ms: 22813
+          explicit: false
+          external_ids:
+            isrc: GBCFB0300088
+          external_urls:
+            spotify: https://open.spotify.com/track/18gBsxvoVQAaEsqMfkd8V4
+          href: https://api.spotify.com/v1/tracks/18gBsxvoVQAaEsqMfkd8V4
+          id: 18gBsxvoVQAaEsqMfkd8V4
+          is_local: false
+          is_playable: true
+          name: Voyage
+          track_number: 9
+          type: track
+          uri: spotify:track:18gBsxvoVQAaEsqMfkd8V4
+    isrc: GBCFB0300088
