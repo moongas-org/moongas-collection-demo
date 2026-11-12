@@ -89,4 +89,4 @@ jobs:
 
       - name: Run mediatest on moongas-collection
         run: |
-          python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_media_files" "$GITHUB_WORKSPACE"
+          python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_mediafiles" "$GITHUB_WORKSPACE"

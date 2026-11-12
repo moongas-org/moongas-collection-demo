@@ -33,4 +33,4 @@ uv pip install -e ./moongas-mediascripts-python
 uv pip install -e ./moongas-mediatunes-svc-python-blacksheep
 
 echo "==> Run mediatest on moongas-collection"
-python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_media_files" "$REPO_ROOT"
+python -m mediatest --log-level=DEBUG -v -k "not test_album_cover_exists and not test_album_dir_contains_mediafiles" "$REPO_ROOT"

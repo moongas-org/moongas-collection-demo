@@ -13,6 +13,8 @@
 
 **This repository is meant to be the canonical example of a moongas hybrid media collection, with media metadata only (moongas `artist.yml` files) and no audio media files.**
 
+CI and `ci-local.sh` exclude tests requiring album media files or cover images, while retaining the metadata and naming checks.
+
 ### A component of the `moongas` ecosystem of media library tools
 
 - [moongas-collection-demo](https://github.com/moongas-org/moongas-collection-demo) [![CI](https://github.com/moongas-org/moongas-collection-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/moongas-org/moongas-collection-demo/actions/workflows/ci.yml) - Example Moongas media collection (metadata only)
@@ -43,4 +45,3 @@ graph TD;
     J ---|validates| L[mediatest-python-pytest];
     J ---|reads readonly| M[mediascripts-python];
 ```
-
