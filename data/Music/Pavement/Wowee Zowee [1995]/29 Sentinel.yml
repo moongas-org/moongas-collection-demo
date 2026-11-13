@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 14.31
-    fingerprint: AQAAXkuWhY4Y5Lig3fhG3HJG5H9wiULjIGzG4sePnMF1BX2Ww-WOc4avDH3xI69yKPpGIUyY49tCXOiPNE4ELf0rRI-U40Gzzqh84tORjJTiwNpxFY4kaYSUP6iRbvXwjDjhC-FDQ2vOoZnSDPED5M0JR5JWQlcOxsoRhGc24Ye6aCLCh4eTKSfMaMFhU0efI-eQLNcmoTrITcdDC9VDoamCS0SWD2KTwBH14oSfo_aPK1lwHT0coSV3XAkNlT9-IVSm7LCT5SgJOsd1hDl6oOGPNgdPAAJAEOAsBQQZwICBhAoihBJQGAAEocQxbIgxEgoBgBAUCGcAAU4JY4AxyhBjLFACECYIIQwwQ4BCiCrAFA
+    fingerprint: 
+      AQAAXkuWhY4Y5Lig3fhG3HJG5H9wiULjIGzG4sePnMF1BX2Ww-WOc4avDH3xI69yKPpGIUyY49tCXOiPNE4ELf0rRI-U40Gzzqh84tORjJTiwNpxFY4kaYSUP6iRbvXwjDjhC-FDQ2vOoZnSDPED5M0JR5JWQlcOxsoRhGc24Ye6aCLCh4eTKSfMaMFhU0efI-eQLNcmoTrITcdDC9VDoamCS0SWD2KTwBH14oSfo_aPK1lwHT0coSV3XAkNlT9-IVSm7LCT5SgJOsd1hDl6oOGPNgdPAAJAEOAsBQQZwICBhAoihBJQGAAEocQxbIgxEgoBgBAUCGcAAU4JY4AxyhBjLFACECYIIQwwQ4BCiCrAFA
   acoustidData:
     results:
     - id: eec094df-150a-40eb-ae3f-fb87f4df5f8a
@@ -45,3 +46,76 @@ mediaFileData:
   year: 1995
   duration: 14.3151
   modTime: 2023-05-14 17:08:24.050000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/41hwa6JmGxfX6L28eP2OT5
+    trackId: 41hwa6JmGxfX6L28eP2OT5
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD0672229&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/61v8cmSY8KdNa2aOB9e4v6
+            href: https://api.spotify.com/v1/albums/61v8cmSY8KdNa2aOB9e4v6
+            id: 61v8cmSY8KdNa2aOB9e4v6
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273374fdaf3dfc7d73f60e34a66
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02374fdaf3dfc7d73f60e34a66
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851374fdaf3dfc7d73f60e34a66
+            is_playable: true
+            name: Wowee Zowee (Sordid Sentinels Edition)
+            release_date: '2006-11-07'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:61v8cmSY8KdNa2aOB9e4v6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 14226
+          explicit: false
+          external_ids:
+            isrc: USMTD0672229
+          external_urls:
+            spotify: https://open.spotify.com/track/41hwa6JmGxfX6L28eP2OT5
+          href: https://api.spotify.com/v1/tracks/41hwa6JmGxfX6L28eP2OT5
+          id: 41hwa6JmGxfX6L28eP2OT5
+          is_local: false
+          is_playable: true
+          name: Sentinel - Wowee Zowee Session Outtake
+          track_number: 29
+          type: track
+          uri: spotify:track:41hwa6JmGxfX6L28eP2OT5
+    isrc: USMTD0672229

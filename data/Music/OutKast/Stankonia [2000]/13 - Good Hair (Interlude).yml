@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 16.59
-    fingerprint: AQAAcNvYpUoCTBlJ4WJ89Md1hD90lMyRSxm-JMkxJl8UNO_QZ-BxJTl2Pdh5IV8u9D_SKcM_ZGLYCJV-nBOsBnPWDJr0I8w1EnuUC0_B4pjsHGFGNnieoI1y4RKh6cnw49JxHX-C8DuaPczxSMeTY08PX0bQVNCT5KD24i0chyPePBDzI88SHZ6SBfWooT-aD-fBNDmSS8uDR0k5RHzQJP1wKWPxpIk5NDv6I9RnqLmC0H7wZBXKHM0YKfhH7BXSpBnuqEsi4RfsJBKeHdKlHj8RRtuGPgzqDlZfIf6O5i90JTki5Ue5XIiV49QMhWY2wuWDXFOJTzfyJaWx1ZlE6F0R85gmPYQjjROOH44T4zoAJABCgimkDBACCEukMEYwIpAgTggnATCCOKIQYUQAIBRBiAhBDFIMECIIZAIhJQwzgigHAGOEGCcQgAApBhxAyhAEgAQGCEEIQMB4AYRBAnCktkEY
+    fingerprint: 
+      AQAAcNvYpUoCTBlJ4WJ89Md1hD90lMyRSxm-JMkxJl8UNO_QZ-BxJTl2Pdh5IV8u9D_SKcM_ZGLYCJV-nBOsBnPWDJr0I8w1EnuUC0_B4pjsHGFGNnieoI1y4RKh6cnw49JxHX-C8DuaPczxSMeTY08PX0bQVNCT5KD24i0chyPePBDzI88SHZ6SBfWooT-aD-fBNDmSS8uDR0k5RHzQJP1wKWPxpIk5NDv6I9RnqLmC0H7wZBXKHM0YKfhH7BXSpBnuqEsi4RfsJBKeHdKlHj8RRtuGPgzqDlZfIf6O5i90JTki5Ue5XIiV49QMhWY2wuWDXFOJTzfyJaWx1ZlE6F0R85gmPYQjjROOH44T4zoAJABCgimkDBACCEukMEYwIpAgTggnATCCOKIQYUQAIBRBiAhBDFIMECIIZAIhJQwzgigHAGOEGCcQgAApBhxAyhAEgAQGCEEIQMB4AYRBAnCktkEY
   acoustidData:
     results:
     - id: 8494ee0c-de20-4e65-bcea-273a2788bcb6
@@ -54,3 +55,247 @@ mediaFileData:
   year: 2000
   duration: 16.587755102040816
   modTime: 2024-03-05 01:32:28.106362+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0a7EuQ73Wc6bPQApzjWPwz
+    trackId: 0a7EuQ73Wc6bPQApzjWPwz
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSLF20000493&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+              href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+              id: 1G9G7WwrXka3Z1r7aIDjI7
+              name: Outkast
+              type: artist
+              uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+            external_urls:
+              spotify: https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj
+            href: https://api.spotify.com/v1/albums/2tm3Ht61kqqRZtIYsBjxEj
+            id: 2tm3Ht61kqqRZtIYsBjxEj
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02153b3d6495031cb813a7451c
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851153b3d6495031cb813a7451c
+            is_playable: true
+            name: Stankonia
+            release_date: '2000-10-31'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:2tm3Ht61kqqRZtIYsBjxEj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 14960
+          explicit: false
+          external_ids:
+            isrc: USLF20000493
+          external_urls:
+            spotify: https://open.spotify.com/track/0a7EuQ73Wc6bPQApzjWPwz
+          href: https://api.spotify.com/v1/tracks/0a7EuQ73Wc6bPQApzjWPwz
+          id: 0a7EuQ73Wc6bPQApzjWPwz
+          is_local: false
+          is_playable: true
+          name: Good Hair (Interlude)
+          track_number: 13
+          type: track
+          uri: spotify:track:0a7EuQ73Wc6bPQApzjWPwz
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+              href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+              id: 1G9G7WwrXka3Z1r7aIDjI7
+              name: Outkast
+              type: artist
+              uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+            external_urls:
+              spotify: https://open.spotify.com/album/1biygtq2P5qJnRIrZtxvyf
+            href: https://api.spotify.com/v1/albums/1biygtq2P5qJnRIrZtxvyf
+            id: 1biygtq2P5qJnRIrZtxvyf
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273f4192c90558b79e10438b30d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02f4192c90558b79e10438b30d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851f4192c90558b79e10438b30d
+            is_playable: true
+            name: Stankonia
+            release_date: '2000-10-31'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:1biygtq2P5qJnRIrZtxvyf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 14973
+          explicit: false
+          external_ids:
+            isrc: USLF20000493
+          external_urls:
+            spotify: https://open.spotify.com/track/3szqgX616xhDP86kDP01db
+          href: https://api.spotify.com/v1/tracks/3szqgX616xhDP86kDP01db
+          id: 3szqgX616xhDP86kDP01db
+          is_local: false
+          is_playable: true
+          name: Good Hair (Interlude)
+          track_number: 13
+          type: track
+          uri: spotify:track:3szqgX616xhDP86kDP01db
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+              href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+              id: 1G9G7WwrXka3Z1r7aIDjI7
+              name: Outkast
+              type: artist
+              uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+            external_urls:
+              spotify: https://open.spotify.com/album/5KOQHt4JKmtDbC4k1YLuBl
+            href: https://api.spotify.com/v1/albums/5KOQHt4JKmtDbC4k1YLuBl
+            id: 5KOQHt4JKmtDbC4k1YLuBl
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2732fb1d5ecf92758467683dabe
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e022fb1d5ecf92758467683dabe
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048512fb1d5ecf92758467683dabe
+            is_playable: true
+            name: Stankonia (Deluxe Version)
+            release_date: '2020-10-30'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:5KOQHt4JKmtDbC4k1YLuBl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 14960
+          explicit: false
+          external_ids:
+            isrc: USLF20000493
+          external_urls:
+            spotify: https://open.spotify.com/track/7aTX6IKT9mFWj4lUAATVaj
+          href: https://api.spotify.com/v1/tracks/7aTX6IKT9mFWj4lUAATVaj
+          id: 7aTX6IKT9mFWj4lUAATVaj
+          is_local: false
+          is_playable: true
+          name: Good Hair (Interlude)
+          track_number: 13
+          type: track
+          uri: spotify:track:7aTX6IKT9mFWj4lUAATVaj
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+              href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+              id: 1G9G7WwrXka3Z1r7aIDjI7
+              name: Outkast
+              type: artist
+              uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+            external_urls:
+              spotify: https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA
+            href: https://api.spotify.com/v1/albums/6k5p5oU3jFqUc3p8U7qYwA
+            id: 6k5p5oU3jFqUc3p8U7qYwA
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273d6f93656303074dad49f6515
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02d6f93656303074dad49f6515
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851d6f93656303074dad49f6515
+            is_playable: true
+            name: Stankonia (25th Anniversary)
+            release_date: '2025-10-31'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:6k5p5oU3jFqUc3p8U7qYwA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 14960
+          explicit: false
+          external_ids:
+            isrc: USLF20000493
+          external_urls:
+            spotify: https://open.spotify.com/track/5tZuseSiGZ9ydA7p7qU6zV
+          href: https://api.spotify.com/v1/tracks/5tZuseSiGZ9ydA7p7qU6zV
+          id: 5tZuseSiGZ9ydA7p7qU6zV
+          is_local: false
+          is_playable: true
+          name: Good Hair (Interlude)
+          track_number: 13
+          type: track
+          uri: spotify:track:5tZuseSiGZ9ydA7p7qU6zV
+    isrc: USLF20000493
