@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 9.95
-    fingerprint: AQAAO0lUKYoUR_hTmEV_4piOMzp-HD4O_BtS_Ed39CZ-HN9xTZsUXA9-_ELaFzrC78cv_MNbnP6RKmSKCz8qfGHw5fhRUTh6-IMVHg-6LtDJo4eP44SnHoePE92PHq7QZ7gAQowgQgLCoTXEAKCgQUASKgBUhgnACABEMSKBAIopYhiRjgllhBCKGWEWEcIRAA
+    fingerprint: 
+      AQAAO0lUKYoUR_hTmEV_4piOMzp-HD4O_BtS_Ed39CZ-HN9xTZsUXA9-_ELaFzrC78cv_MNbnP6RKmSKCz8qfGHw5fhRUTh6-IMVHg-6LtDJo4eP44SnHoePE92PHq7QZ7gAQowgQgLCoTXEAKCgQUASKgBUhgnACABEMSKBAIopYhiRjgllhBCKGWEWEcIRAA
   acoustidData:
     results:
     - id: 5e034992-956b-4930-97b4-52f2f49531ac
@@ -48,7 +49,8 @@ mediaFileData:
         firstReleaseDate: '2004-04-05'
       score: 0.97934324
     status: ok
-  path: /data/Music/Modest Mouse/Good News for People Who Love Bad News [2004]/01 - Horn Intro.mp3
+  path: /data/Music/Modest Mouse/Good News for People Who Love Bad News 
+    [2004]/01 - Horn Intro.mp3
   size: 372736
   format: mp3
   title: Horn Intro
@@ -59,3 +61,134 @@ mediaFileData:
   year: 2004
   duration: 9.952625
   modTime: 2023-09-27 21:51:42+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5nKe9PgCtEhqdnvXAQIBhF
+    trackId: 5nKe9PgCtEhqdnvXAQIBhF
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10315492&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0
+            href: https://api.spotify.com/v1/albums/0TGTGuc2vXv6ZECoAf52N0
+            id: 0TGTGuc2vXv6ZECoAf52N0
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1
+            is_playable: true
+            name: Good News For People Who Love Bad News
+            release_date: '2004-04-05'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:0TGTGuc2vXv6ZECoAf52N0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 9866
+          explicit: false
+          external_ids:
+            isrc: USSM10315492
+          external_urls:
+            spotify: https://open.spotify.com/track/5nKe9PgCtEhqdnvXAQIBhF
+          href: https://api.spotify.com/v1/tracks/5nKe9PgCtEhqdnvXAQIBhF
+          id: 5nKe9PgCtEhqdnvXAQIBhF
+          is_local: false
+          is_playable: true
+          name: Horn Intro
+          track_number: 1
+          type: track
+          uri: spotify:track:5nKe9PgCtEhqdnvXAQIBhF
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/4shtY07GMKUL0FJhctApwo
+            href: https://api.spotify.com/v1/albums/4shtY07GMKUL0FJhctApwo
+            id: 4shtY07GMKUL0FJhctApwo
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b27304abc01355169db85d2cdf9b
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e0204abc01355169db85d2cdf9b
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d0000485104abc01355169db85d2cdf9b
+            is_playable: true
+            name: 'Good News For People Who Love Bad News: 20th Anniversary Expanded
+              Edition'
+            release_date: '2024-04-05'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:4shtY07GMKUL0FJhctApwo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 9866
+          explicit: false
+          external_ids:
+            isrc: USSM10315492
+          external_urls:
+            spotify: https://open.spotify.com/track/1i3I0ie8KaFcw053dX5CJm
+          href: https://api.spotify.com/v1/tracks/1i3I0ie8KaFcw053dX5CJm
+          id: 1i3I0ie8KaFcw053dX5CJm
+          is_local: false
+          is_playable: true
+          name: Horn Intro
+          track_number: 1
+          type: track
+          uri: spotify:track:1i3I0ie8KaFcw053dX5CJm
+    isrc: USSM10315492

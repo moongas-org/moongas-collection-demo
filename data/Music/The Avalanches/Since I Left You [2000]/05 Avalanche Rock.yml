@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 23.98
-    fingerprint: AQAArKqUREsSSQnyPEOnr9glHf0CzVqJhh_2xsFDDmKuEM9xHfWDvni2CM0FzT6-ZNkCHc1Z9Ed9FX2EaSFzmDwUWeZwUxHWo-GIPod-IeeLdgysMBdqHmewZprR8EHPHBdP5DL0lUK4dPBflHKOJ8N3bH_wLLWQ__jxHP2JpnrwMBWF79Cko3FvnCeu4A_RQ5SWo7ZXvKGCyxzEZxbxIJeENtxxZrB6oaaOM0WXCQ13vBai-4Q-agryBV1-NNWJs7iSo8cUhVI4fLaQ88OLc2h6ot2xJ6yg-Cuao2-H35rw4RfRiYeW6ityJsfLCmF3NM8s6MElhA2HM4M16Qr6HHsyo8vRUIyFn8h16FaK3CuaHaXMEpcSPDoxRX9QiT1-x8jxFPWO5sdpPFGO8xO09cJvHP_hJ_CPnriS4Ed42D1aLifO4zyLdQ8qZ4HPHuWOsD1EfqjMmMjTHd-BjuHRrAvyHUf3wecL7Tn-4jk0XmjUCneO40dPEnLWHESUYIQRAZQClAlGCaEAMEYBVUIgowwwhikgEJECKKGMQkAIApCijACmHFACIE-IQkoAhQlBghEliGCAMGIQJgZYYxhRHCDgiUAGAWGA8YQoQBhjRgkglREECAQQBUAyBoAhDjBCBABWOAAMAQQBRYAQQgHCCCCIRCCUc0QpCAwJUgg
+    fingerprint: 
+      AQAArKqUREsSSQnyPEOnr9glHf0CzVqJhh_2xsFDDmKuEM9xHfWDvni2CM0FzT6-ZNkCHc1Z9Ed9FX2EaSFzmDwUWeZwUxHWo-GIPod-IeeLdgysMBdqHmewZprR8EHPHBdP5DL0lUK4dPBflHKOJ8N3bH_wLLWQ__jxHP2JpnrwMBWF79Cko3FvnCeu4A_RQ5SWo7ZXvKGCyxzEZxbxIJeENtxxZrB6oaaOM0WXCQ13vBai-4Q-agryBV1-NNWJs7iSo8cUhVI4fLaQ88OLc2h6ot2xJ6yg-Cuao2-H35rw4RfRiYeW6ityJsfLCmF3NM8s6MElhA2HM4M16Qr6HHsyo8vRUIyFn8h16FaK3CuaHaXMEpcSPDoxRX9QiT1-x8jxFPWO5sdpPFGO8xO09cJvHP_hJ_CPnriS4Ed42D1aLifO4zyLdQ8qZ4HPHuWOsD1EfqjMmMjTHd-BjuHRrAvyHUf3wecL7Tn-4jk0XmjUCneO40dPEnLWHESUYIQRAZQClAlGCaEAMEYBVUIgowwwhikgEJECKKGMQkAIApCijACmHFACIE-IQkoAhQlBghEliGCAMGIQJgZYYxhRHCDgiUAGAWGA8YQoQBhjRgkglREECAQQBUAyBoAhDjBCBABWOAAMAQQBRYAQQgHCCCCIRCCUc0QpCAwJUgg
   acoustidData:
     results:
     - id: 344d67c7-945b-46f3-aadc-13a3bbefba67
@@ -78,3 +79,76 @@ mediaFileData:
   year: 2000
   duration: 23.933333333333334
   modTime: 2022-06-04 23:21:17.940000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4BXLzlLdJHNKGHmYmvSn5l
+    trackId: 4BXLzlLdJHNKGHmYmvSn5l
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUMP00100100&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED
+              href: https://api.spotify.com/v1/artists/3C8RpaI3Go0yFF9whvKoED
+              id: 3C8RpaI3Go0yFF9whvKoED
+              name: The Avalanches
+              type: artist
+              uri: spotify:artist:3C8RpaI3Go0yFF9whvKoED
+            external_urls:
+              spotify: https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO
+            href: https://api.spotify.com/v1/albums/0YtYaaO0aipyeQl0xhAWTO
+            id: 0YtYaaO0aipyeQl0xhAWTO
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2734cc65c5ce55234c548a79d9d
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e024cc65c5ce55234c548a79d9d
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048514cc65c5ce55234c548a79d9d
+            is_playable: true
+            name: Since I Left You (20th Anniversary Deluxe Edition)
+            release_date: '2000-11-27'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:0YtYaaO0aipyeQl0xhAWTO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED
+            href: https://api.spotify.com/v1/artists/3C8RpaI3Go0yFF9whvKoED
+            id: 3C8RpaI3Go0yFF9whvKoED
+            name: The Avalanches
+            type: artist
+            uri: spotify:artist:3C8RpaI3Go0yFF9whvKoED
+          disc_number: 1
+          duration_ms: 22880
+          explicit: false
+          external_ids:
+            isrc: AUMP00100100
+          external_urls:
+            spotify: https://open.spotify.com/track/4BXLzlLdJHNKGHmYmvSn5l
+          href: https://api.spotify.com/v1/tracks/4BXLzlLdJHNKGHmYmvSn5l
+          id: 4BXLzlLdJHNKGHmYmvSn5l
+          is_local: false
+          is_playable: true
+          name: Avalanche Rock
+          track_number: 5
+          type: track
+          uri: spotify:track:4BXLzlLdJHNKGHmYmvSn5l
+    isrc: AUMP00100100
