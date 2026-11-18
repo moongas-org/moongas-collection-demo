@@ -1,7 +1,31 @@
 artistData:
   artistNames:
   - The Ronettes
-  city: ''
-  countryCode: ''
-  regionCode: ''
-  languageCodes: []
+  city: New York City
+  countryCode: US
+  regionCode: US-NY
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Ronnie Spector
+      dob:
+        y: 1943
+        m: 8
+        d: 10
+    - artistNames:
+      - Estelle Bennett
+      dob:
+        y: 1941
+        m: 7
+        d: 22
+      dod:
+        y: 2009
+        m: 2
+        d: 11
+    - artistNames:
+      - Nedra Talley
+      dob:
+        y: 1943
+        m: 1
+        d: 27
