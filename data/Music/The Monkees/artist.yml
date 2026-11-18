@@ -1,7 +1,41 @@
 artistData:
   artistNames:
   - The Monkees
-  city: ''
-  countryCode: ''
-  regionCode: ''
-  languageCodes: []
+  city: Los Angeles
+  countryCode: US
+  regionCode: US-CA
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Micky Dolenz
+      dob:
+        y: 1945
+        m: 3
+        d: 8
+    - artistNames:
+      - Davy Jones
+      dob:
+        y: 1945
+        m: 12
+        d: 30
+      dod:
+        y: 2012
+        m: 2
+        d: 29
+    - artistNames:
+      - Michael Nesmith
+      dob:
+        y: 1942
+        m: 12
+        d: 30
+    - artistNames:
+      - Peter Tork
+      dob:
+        y: 1942
+        m: 2
+        d: 13
+      dod:
+        y: 2019
+        m: 2
+        d: 21

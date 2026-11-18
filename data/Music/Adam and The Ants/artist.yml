@@ -1,7 +1,39 @@
 artistData:
   artistNames:
   - Adam and The Ants
-  city: ''
-  countryCode: ''
-  regionCode: ''
-  languageCodes: []
+  city: London
+  countryCode: GB
+  regionCode: GB-LND
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Adam Ant
+      dob:
+        y: 1954
+        m: 11
+        d: 3
+    - artistNames:
+      - Marco Pirroni
+      dob:
+        y: 1961
+      artistRoles:
+      - guitar
+    - artistNames:
+      - Gary Tibbs
+      dob:
+        y: 1960
+      artistRoles:
+      - bass
+    - artistNames:
+      - Chris Hughes
+      dob:
+        y: 1961
+      artistRoles:
+      - drums
+    - artistNames:
+      - Merrick
+      dob:
+        y: 1960
+      artistRoles:
+      - drums

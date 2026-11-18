@@ -1,7 +1,25 @@
 artistData:
   artistNames:
   - Stevie Ray Vaughan and Double Trouble
-  city: ''
-  countryCode: ''
-  regionCode: ''
-  languageCodes: []
+  city: Austin
+  countryCode: US
+  regionCode: US-TX
+  languageCodes:
+  - en
+  members: 
+    - artistNames:
+      - Stevie Ray Vaughan
+      dob:
+        y: 1954
+        m: 10
+        d: 3
+      dod:
+        y: 1990
+        m: 8
+        d: 27
+    - artistNames:
+      - Tommy Shannon
+    - artistNames:
+      - Chris Layton
+    - artistNames:
+      - Reese Wynans

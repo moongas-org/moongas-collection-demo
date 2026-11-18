@@ -1,7 +1,27 @@
 artistData:
   artistNames:
   - James Gang
-  city: ''
-  countryCode: ''
-  regionCode: ''
-  languageCodes: []
+  city: Cleveland
+  countryCode: US
+  regionCode: US-OH
+  languageCodes:
+  - en
+  members:
+    - artistNames:
+      - Joe Walsh
+      dob:
+        y: 1947
+        m: 11
+        d: 20
+    - artistNames:
+      - Dale Peters
+      dob:
+        y: 1948
+        m: 5
+        d: 24
+    - artistNames:
+      - Jim Fox
+      dob:
+        y: 1946
+        m: 7
+        d: 24
