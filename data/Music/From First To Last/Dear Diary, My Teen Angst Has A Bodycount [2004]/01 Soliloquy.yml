@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 25.76
-    fingerprint: AQAAu1W0LFGSZcFdOC_ewXiSC-6yB39xFefxBeEPfUd-4zu6rEmFJid-VNyI5sqR-A7C5ApKoo0ObzX8C_nhONKhrTqRo1nUOKhEHj-aOggfGf8MTU5U5IlT_PAv4Q6F1BOq69CFcLmCZjl-HM3RKwfyTR-0RyEcJfaQk8eRH06zFNoRjtHhPUc74sxRUwjzJdD3oruQrkvxDK_gFz9yGfIPz6oQPsePEw3jIGR3Qf7xlugzeMuH9kN5iGISGT1D4kc37fDxEUV_-Dm-wOo0fETz5XjOoVdyeN0R1kEoPWmQ_jhyhvjhGPqjBi_uCOfxQ2dhnDjkJ0V_VNIR9sblIvwhpluHB_kaPB4eBf5xwB_yD_qR7sS1oyRRfcc_ErYUG_khH-lKPMd3-Fgd-NFR_aiDJ8KP-7CaHD2DmIlkQb-CB3cP_xyujPgD6TlqUcaU98iDS8Kb4EdJocnxVZilHs3R49bRI-VZVFQ-6GGO-2h6VM0HnUc3wT0AgYgxgAjJHBIKOCYAM4wRIIQCyAkBPAKACCGIAEgBgJhgzCFjACACQCoIEYIoQAggFDjihFHAGQ6AQIQwKIgjFgmFhDECCEEAEUJQYRAAXBBiHHBQGIAAUUAyQQByBAKGiDAAAOEEIQ4RRQRAhBBgCCKKECQMIAIQICQBRmAHFBVCA2AAEswooAA
+    fingerprint: 
+      AQAAu1W0LFGSZcFdOC_ewXiSC-6yB39xFefxBeEPfUd-4zu6rEmFJid-VNyI5sqR-A7C5ApKoo0ObzX8C_nhONKhrTqRo1nUOKhEHj-aOggfGf8MTU5U5IlT_PAv4Q6F1BOq69CFcLmCZjl-HM3RKwfyTR-0RyEcJfaQk8eRH06zFNoRjtHhPUc74sxRUwjzJdD3oruQrkvxDK_gFz9yGfIPz6oQPsePEw3jIGR3Qf7xlugzeMuH9kN5iGISGT1D4kc37fDxEUV_-Dm-wOo0fETz5XjOoVdyeN0R1kEoPWmQ_jhyhvjhGPqjBi_uCOfxQ2dhnDjkJ0V_VNIR9sblIvwhpluHB_kaPB4eBf5xwB_yD_qR7sS1oyRRfcc_ErYUG_khH-lKPMd3-Fgd-NFR_aiDJ8KP-7CaHD2DmIlkQb-CB3cP_xyujPgD6TlqUcaU98iDS8Kb4EdJocnxVZilHs3R49bRI-VZVFQ-6GGO-2h6VM0HnUc3wT0AgYgxgAjJHBIKOCYAM4wRIIQCyAkBPAKACCGIAEgBgJhgzCFjACACQCoIEYIoQAggFDjihFHAGQ6AQIQwKIgjFgmFhDECCEEAEUJQYRAAXBBiHHBQGIAAUUAyQQByBAKGiDAAAOEEIQ4RRQRAhBBgCCKKECQMIAIQICQBRmAHFBVCA2AAEswooAA
   acoustidData:
     results:
     - id: cc2d0653-c16d-4b7a-9d5f-ef8a0184332b
@@ -48,7 +49,8 @@ mediaFileData:
         firstReleaseDate: '2004'
       score: 0.9645722
     status: ok
-  path: /data/Music/From First To Last/Dear Diary, My Teen Angst Has A Bodycount [2004]/01 Soliloquy.mp3
+  path: /data/Music/From First To Last/Dear Diary, My Teen Angst Has A Bodycount
+    [2004]/01 Soliloquy.mp3
   size: 530432
   format: mp3
   title: Soliloquy
@@ -59,3 +61,76 @@ mediaFileData:
   year: 2004
   duration: 25.7566875
   modTime: 2023-05-14 01:07:57.620000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7Lvb2w61lfgn26qUTxTgE2
+    trackId: 7Lvb2w61lfgn26qUTxTgE2
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEP40406101&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN
+              href: https://api.spotify.com/v1/artists/5n71fmAB8Un2IfAPn64erN
+              id: 5n71fmAB8Un2IfAPn64erN
+              name: From First To Last
+              type: artist
+              uri: spotify:artist:5n71fmAB8Un2IfAPn64erN
+            external_urls:
+              spotify: https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS
+            href: https://api.spotify.com/v1/albums/0Q6C8p6g47jEOU6G7SoRrS
+            id: 0Q6C8p6g47jEOU6G7SoRrS
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273e4144506ed8ed561e3d518d4
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02e4144506ed8ed561e3d518d4
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851e4144506ed8ed561e3d518d4
+            is_playable: true
+            name: Dear Diary, My Teen Angst Has A Body Count
+            release_date: '2004-06-29'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0Q6C8p6g47jEOU6G7SoRrS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN
+            href: https://api.spotify.com/v1/artists/5n71fmAB8Un2IfAPn64erN
+            id: 5n71fmAB8Un2IfAPn64erN
+            name: From First To Last
+            type: artist
+            uri: spotify:artist:5n71fmAB8Un2IfAPn64erN
+          disc_number: 1
+          duration_ms: 26293
+          explicit: false
+          external_ids:
+            isrc: USEP40406101
+          external_urls:
+            spotify: https://open.spotify.com/track/7Lvb2w61lfgn26qUTxTgE2
+          href: https://api.spotify.com/v1/tracks/7Lvb2w61lfgn26qUTxTgE2
+          id: 7Lvb2w61lfgn26qUTxTgE2
+          is_local: false
+          is_playable: true
+          name: Soliloquy
+          track_number: 1
+          type: track
+          uri: spotify:track:7Lvb2w61lfgn26qUTxTgE2
+    isrc: USEP40406101
