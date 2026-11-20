@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 39.19
-    fingerprint: AQABJ0lUJYqiqAnCHHjxHD8-4GTQLMcf3HjR7ziRh8CPvvCMrsRxHEf7oDmeH_9xhIeP4zl64sjx40d_-IABAAAAAAAA4Djw48BxPDj-B0Z_wMdzVE6SRwAAAACAA4dKHMeTA4eO42if48fh48JzlEySNIDj4sUB4QAeHAeEHP2O53iIH83yIvYHC_8t-EFxPMNxlF7hHyhu4jkeHOjhowce4z7Qw8dx9DiO4z1O9AAAAAAAAAAAADgOAMfhAweaFz3uKAcAAAAOPAAAAMBzOPCLBwfw4MCDB3gOB37x4ADw4HjwAMCDHy8eHMDxAA8e4HhuOPCLBwdwPDieQ88hgMotPPCL4woJHQeap8EDx8Uh5UliA2UdkgQSLyBlxJFRFTNHNIAAIAAophRzRAA1PJNKGMgCJgdCcgRQQDEIoDClSPDICQAxphBDAgICQzwCEkYcRQAQ5EqpRgBASVNKAcCUYk4xwAYlC5hpNQUEGBSAAcwBwBgwgDkAGAMAMeYAYEwEA5gDQDODIALAMWUScAI
+    fingerprint: 
+      AQABJ0lUJYqiqAnCHHjxHD8-4GTQLMcf3HjR7ziRh8CPvvCMrsRxHEf7oDmeH_9xhIeP4zl64sjx40d_-IABAAAAAAAA4Djw48BxPDj-B0Z_wMdzVE6SRwAAAACAA4dKHMeTA4eO42if48fh48JzlEySNIDj4sUB4QAeHAeEHP2O53iIH83yIvYHC_8t-EFxPMNxlF7hHyhu4jkeHOjhowce4z7Qw8dx9DiO4z1O9AAAAAAAAAAAADgOAMfhAweaFz3uKAcAAAAOPAAAAMBzOPCLBwfw4MCDB3gOB37x4ADw4HjwAMCDHy8eHMDxAA8e4HhuOPCLBwdwPDieQ88hgMotPPCL4woJHQeap8EDx8Uh5UliA2UdkgQSLyBlxJFRFTNHNIAAIAAophRzRAA1PJNKGMgCJgdCcgRQQDEIoDClSPDICQAxphBDAgICQzwCEkYcRQAQ5EqpRgBASVNKAcCUYk4xwAYlC5hpNQUEGBSAAcwBwBgwgDkAGAMAMeYAYEwEA5gDQDODIALAMWUScAI
   acoustidData:
     results:
     - id: 82e9ac80-2fc4-4034-ae74-74cff98647d2
@@ -48,3 +49,76 @@ mediaFileData:
   year: 1975
   duration: 39.192
   modTime: 2024-03-02 02:35:34.830189+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3CoeneMLe2hwbFM1q8Ezm4
+    trackId: 3CoeneMLe2hwbFM1q8Ezm4
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA20903012&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU
+              href: https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU
+              id: 0dmPX6ovclgOy8WWJaFEUU
+              name: Kraftwerk
+              type: artist
+              uri: spotify:artist:0dmPX6ovclgOy8WWJaFEUU
+            external_urls:
+              spotify: https://open.spotify.com/album/4nEgdO6tkE2v5LO3mpUEe9
+            href: https://api.spotify.com/v1/albums/4nEgdO6tkE2v5LO3mpUEe9
+            id: 4nEgdO6tkE2v5LO3mpUEe9
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b273672ed7795c0a38627330b445
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e02672ed7795c0a38627330b445
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d00004851672ed7795c0a38627330b445
+            is_playable: true
+            name: Radio-Activity (2009 Remaster)
+            release_date: '1975'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4nEgdO6tkE2v5LO3mpUEe9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU
+            href: https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU
+            id: 0dmPX6ovclgOy8WWJaFEUU
+            name: Kraftwerk
+            type: artist
+            uri: spotify:artist:0dmPX6ovclgOy8WWJaFEUU
+          disc_number: 1
+          duration_ms: 39146
+          explicit: false
+          external_ids:
+            isrc: USCA20903012
+          external_urls:
+            spotify: https://open.spotify.com/track/3CoeneMLe2hwbFM1q8Ezm4
+          href: https://api.spotify.com/v1/tracks/3CoeneMLe2hwbFM1q8Ezm4
+          id: 3CoeneMLe2hwbFM1q8Ezm4
+          is_local: false
+          is_playable: true
+          name: Intermission - 2009 Remaster
+          track_number: 5
+          type: track
+          uri: spotify:track:3CoeneMLe2hwbFM1q8Ezm4
+    isrc: USCA20903012

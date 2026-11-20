@@ -8,7 +8,8 @@ trackData:
 mediaFileData:
 - fpcalcData:
     duration: 24.71
-    fingerprint: AQAAsspSRlGihOjho89xC0_wo7nRI2eQ7Id39CuY54bPBmeGkOgPPyhxHhrxo7w26BwJ6UTZo9kHHbJ-5DPMy_jz4LjQcg68HYli5Phz4eEjhFTyIYkk3qii9YN39ExxZSYeLTh6Ilnmx8h9lFMe_HgGH72C50i-I0d_Ba7y4FGE48ePKxvcBj56JD_y48Z7lDp-eDqO5kKO5DijC9-DxkzQlTiPH6E3aHmQX_jR8EEvJ0aP5jmuHMETvQjt4-yMw8-OliWu499RK2j2hHjmID_C5DmqRA92XPnw8EduSD_CH8bR4twTPJqRJR-kmMdFHDp848MRBiF-6A8edI5SiEOIGzc-_AjzQ6dhcviBHroUhE9iFHd2PMlxckN_ND9eHJccJO-JPFIOLvlR7_CxG42RHH-QNyd-tLuDdLKhZ8HroJ-NQ6bwKAJhGaHkEaAUQYYRA5hSyBCHoHCIgicYIAIAgigBwgijjHIIMWkIEMAxYBAmVCBgkDXMOkIIMkoixZhhlgGKCDDGEEgQM0AEI4yBwBDgUCAIKSEEk8Ig7A0zBkgkGKMIMEcA9cqBIhUClQAKFFEECkSAAYYIhJAlkQAhBSBKEKYAIg4hRRgB
+    fingerprint: 
+      AQAAsspSRlGihOjho89xC0_wo7nRI2eQ7Id39CuY54bPBmeGkOgPPyhxHhrxo7w26BwJ6UTZo9kHHbJ-5DPMy_jz4LjQcg68HYli5Phz4eEjhFTyIYkk3qii9YN39ExxZSYeLTh6Ilnmx8h9lFMe_HgGH72C50i-I0d_Ba7y4FGE48ePKxvcBj56JD_y48Z7lDp-eDqO5kKO5DijC9-DxkzQlTiPH6E3aHmQX_jR8EEvJ0aP5jmuHMETvQjt4-yMw8-OliWu499RK2j2hHjmID_C5DmqRA92XPnw8EduSD_CH8bR4twTPJqRJR-kmMdFHDp848MRBiF-6A8edI5SiEOIGzc-_AjzQ6dhcviBHroUhE9iFHd2PMlxckN_ND9eHJccJO-JPFIOLvlR7_CxG42RHH-QNyd-tLuDdLKhZ8HroJ-NQ6bwKAJhGaHkEaAUQYYRA5hSyBCHoHCIgicYIAIAgigBwgijjHIIMWkIEMAxYBAmVCBgkDXMOkIIMkoixZhhlgGKCDDGEEgQM0AEI4yBwBDgUCAIKSEEk8Ig7A0zBkgkGKMIMEcA9cqBIhUClQAKFFEECkSAAYYIhJAlkQAhBSBKEKYAIg4hRRgB
   acoustidData:
     results:
     - id: 9358503c-7c6a-47df-85b7-84906095c2ea
@@ -45,7 +46,8 @@ mediaFileData:
         firstReleaseDate: '2002-10-16'
       score: 0.8864319
     status: ok
-  path: /data/Music/King Crimson/Happy With What You Have To Be Happy With [2002]/01 Bude.mp3
+  path: /data/Music/King Crimson/Happy With What You Have To Be Happy With 
+    [2002]/01 Bude.mp3
   size: 594247
   format: mp3
   title: Bude
@@ -56,3 +58,77 @@ mediaFileData:
   year: 2002
   duration: 24.711833333333335
   modTime: 2025-01-11 00:54:01.598763+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4uymJ2KAoE56geMQJuC1kv
+    trackId: 4uymJ2KAoE56geMQJuC1kv
+    apiData:
+      tracks:
+        href: 
+          https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCTX2100263&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+              href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+              id: 7M1FPw29m5FbicYzS2xdpi
+              name: King Crimson
+              type: artist
+              uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+            external_urls:
+              spotify: https://open.spotify.com/album/25BDt81fxFdJh8jVmA9Top
+            href: https://api.spotify.com/v1/albums/25BDt81fxFdJh8jVmA9Top
+            id: 25BDt81fxFdJh8jVmA9Top
+            images:
+            - height: 640
+              width: 640
+              url: 
+                https://i.scdn.co/image/ab67616d0000b2730895fab8d67fb54171a7bd9f
+            - height: 300
+              width: 300
+              url: 
+                https://i.scdn.co/image/ab67616d00001e020895fab8d67fb54171a7bd9f
+            - height: 64
+              width: 64
+              url: 
+                https://i.scdn.co/image/ab67616d000048510895fab8d67fb54171a7bd9f
+            is_playable: true
+            name: Happy With What You Have To Be Happy With / Level Five / 
+              Elektrik
+            release_date: '2021-12-17'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:25BDt81fxFdJh8jVmA9Top
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+            href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+            id: 7M1FPw29m5FbicYzS2xdpi
+            name: King Crimson
+            type: artist
+            uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+          disc_number: 1
+          duration_ms: 26173
+          explicit: false
+          external_ids:
+            isrc: GBCTX2100263
+          external_urls:
+            spotify: https://open.spotify.com/track/4uymJ2KAoE56geMQJuC1kv
+          href: https://api.spotify.com/v1/tracks/4uymJ2KAoE56geMQJuC1kv
+          id: 4uymJ2KAoE56geMQJuC1kv
+          is_local: false
+          is_playable: true
+          name: Bude
+          track_number: 1
+          type: track
+          uri: spotify:track:4uymJ2KAoE56geMQJuC1kv
+    isrc: GBCTX2100263
