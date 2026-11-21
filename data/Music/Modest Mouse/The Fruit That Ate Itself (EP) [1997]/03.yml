@@ -45,3 +45,126 @@ mediaFileData:
   year: 1997
   duration: 54.700375
   modTime: 2023-02-23 00:36:51.280000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2mGsQTGm3MM4WRyqAUJ0Gf
+    trackId: 2mGsQTGm3MM4WRyqAUJ0Gf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS6Z50980503&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/35I2ZY5YhTndntm2fAhwpm
+            href: https://api.spotify.com/v1/albums/35I2ZY5YhTndntm2fAhwpm
+            id: 35I2ZY5YhTndntm2fAhwpm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d2c4379e11f05074d77fa75f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d2c4379e11f05074d77fa75f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d2c4379e11f05074d77fa75f
+            is_playable: true
+            name: The Fruit That Ate Itself
+            release_date: '1997-05-13'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:35I2ZY5YhTndntm2fAhwpm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 52506
+          explicit: false
+          external_ids:
+            isrc: US6Z50980503
+          external_urls:
+            spotify: https://open.spotify.com/track/2mGsQTGm3MM4WRyqAUJ0Gf
+          href: https://api.spotify.com/v1/tracks/2mGsQTGm3MM4WRyqAUJ0Gf
+          id: 2mGsQTGm3MM4WRyqAUJ0Gf
+          is_local: false
+          is_playable: true
+          name: Fruit
+          track_number: 3
+          type: track
+          uri: spotify:track:2mGsQTGm3MM4WRyqAUJ0Gf
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/5k26bQX9V0K8Vhwemfkaup
+            href: https://api.spotify.com/v1/albums/5k26bQX9V0K8Vhwemfkaup
+            id: 5k26bQX9V0K8Vhwemfkaup
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a9a6bff2a8d97cc619327667
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a9a6bff2a8d97cc619327667
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a9a6bff2a8d97cc619327667
+            is_playable: true
+            name: The Fruit That Ate Itself
+            release_date: '1997-05-13'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:5k26bQX9V0K8Vhwemfkaup
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 52506
+          explicit: false
+          external_ids:
+            isrc: US6Z50980503
+          external_urls:
+            spotify: https://open.spotify.com/track/3OIGjbLi54ZnBnCW3HOdTV
+          href: https://api.spotify.com/v1/tracks/3OIGjbLi54ZnBnCW3HOdTV
+          id: 3OIGjbLi54ZnBnCW3HOdTV
+          is_local: false
+          is_playable: true
+          name: Fruit
+          track_number: 3
+          type: track
+          uri: spotify:track:3OIGjbLi54ZnBnCW3HOdTV
+    isrc: US6Z50980503

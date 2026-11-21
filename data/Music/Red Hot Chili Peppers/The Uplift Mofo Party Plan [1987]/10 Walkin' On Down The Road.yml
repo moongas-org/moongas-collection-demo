@@ -38,3 +38,72 @@ mediaFileData:
   year: 1987
   duration: 229.16
   modTime: 2023-09-24 10:52:16+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0q6DYxAoLxEwtbdY9586Wm
+    trackId: 0q6DYxAoLxEwtbdY9586Wm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEM38700226&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/47lb4ueXtjA6nWViCebcdR
+            href: https://api.spotify.com/v1/albums/47lb4ueXtjA6nWViCebcdR
+            id: 47lb4ueXtjA6nWViCebcdR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bedf3e60225fd10bf148b4ef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bedf3e60225fd10bf148b4ef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bedf3e60225fd10bf148b4ef
+            is_playable: true
+            name: The Uplift Mofo Party Plan
+            release_date: '1987-09-29'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:47lb4ueXtjA6nWViCebcdR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 229706
+          explicit: false
+          external_ids:
+            isrc: USEM38700226
+          external_urls:
+            spotify: https://open.spotify.com/track/0q6DYxAoLxEwtbdY9586Wm
+          href: https://api.spotify.com/v1/tracks/0q6DYxAoLxEwtbdY9586Wm
+          id: 0q6DYxAoLxEwtbdY9586Wm
+          is_local: false
+          is_playable: true
+          name: Walkin' On Down the Road
+          track_number: 10
+          type: track
+          uri: spotify:track:0q6DYxAoLxEwtbdY9586Wm
+    isrc: USEM38700226

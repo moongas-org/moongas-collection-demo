@@ -34,3 +34,126 @@ mediaFileData:
   year: 2002
   duration: 294.4261224489796
   modTime: 2024-07-24 20:34:36.808225+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1hj5R9Uo5FUZq1UjvYqRz3
+    trackId: 1hj5R9Uo5FUZq1UjvYqRz3
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCN30100201&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5UGwjDj6AWE252L6JDgE8y
+              href: https://api.spotify.com/v1/artists/5UGwjDj6AWE252L6JDgE8y
+              id: 5UGwjDj6AWE252L6JDgE8y
+              name: Blue Six
+              type: artist
+              uri: spotify:artist:5UGwjDj6AWE252L6JDgE8y
+            external_urls:
+              spotify: https://open.spotify.com/album/6CDbgx1uHjnbWvOLMxMzNS
+            href: https://api.spotify.com/v1/albums/6CDbgx1uHjnbWvOLMxMzNS
+            id: 6CDbgx1uHjnbWvOLMxMzNS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27336a415bcb3b1935750f61e67
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0236a415bcb3b1935750f61e67
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485136a415bcb3b1935750f61e67
+            is_playable: true
+            name: Beautiful Tomorrow
+            release_date: '2002-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:6CDbgx1uHjnbWvOLMxMzNS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5UGwjDj6AWE252L6JDgE8y
+            href: https://api.spotify.com/v1/artists/5UGwjDj6AWE252L6JDgE8y
+            id: 5UGwjDj6AWE252L6JDgE8y
+            name: Blue Six
+            type: artist
+            uri: spotify:artist:5UGwjDj6AWE252L6JDgE8y
+          disc_number: 1
+          duration_ms: 293253
+          explicit: false
+          external_ids:
+            isrc: USCN30100201
+          external_urls:
+            spotify: https://open.spotify.com/track/1hj5R9Uo5FUZq1UjvYqRz3
+          href: https://api.spotify.com/v1/tracks/1hj5R9Uo5FUZq1UjvYqRz3
+          id: 1hj5R9Uo5FUZq1UjvYqRz3
+          is_local: false
+          is_playable: true
+          name: Yeah
+          track_number: 8
+          type: track
+          uri: spotify:track:1hj5R9Uo5FUZq1UjvYqRz3
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5UGwjDj6AWE252L6JDgE8y
+              href: https://api.spotify.com/v1/artists/5UGwjDj6AWE252L6JDgE8y
+              id: 5UGwjDj6AWE252L6JDgE8y
+              name: Blue Six
+              type: artist
+              uri: spotify:artist:5UGwjDj6AWE252L6JDgE8y
+            external_urls:
+              spotify: https://open.spotify.com/album/1aztOI5ms8mXlA8Cm2bFbI
+            href: https://api.spotify.com/v1/albums/1aztOI5ms8mXlA8Cm2bFbI
+            id: 1aztOI5ms8mXlA8Cm2bFbI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27390166967a16f40d1be20075a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0290166967a16f40d1be20075a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485190166967a16f40d1be20075a
+            is_playable: true
+            name: Beautiful Tomorrow
+            release_date: '2002-02-06'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1aztOI5ms8mXlA8Cm2bFbI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5UGwjDj6AWE252L6JDgE8y
+            href: https://api.spotify.com/v1/artists/5UGwjDj6AWE252L6JDgE8y
+            id: 5UGwjDj6AWE252L6JDgE8y
+            name: Blue Six
+            type: artist
+            uri: spotify:artist:5UGwjDj6AWE252L6JDgE8y
+          disc_number: 1
+          duration_ms: 293266
+          explicit: false
+          external_ids:
+            isrc: USCN30100201
+          external_urls:
+            spotify: https://open.spotify.com/track/4ienCd3ScnMsK40QHjpDom
+          href: https://api.spotify.com/v1/tracks/4ienCd3ScnMsK40QHjpDom
+          id: 4ienCd3ScnMsK40QHjpDom
+          is_local: false
+          is_playable: true
+          name: Yeah
+          track_number: 8
+          type: track
+          uri: spotify:track:4ienCd3ScnMsK40QHjpDom
+    isrc: USCN30100201

@@ -86,3 +86,72 @@ mediaFileData:
   year: 1976
   duration: 179.304475
   modTime: 2023-08-26 13:39:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3tcaltthSz9s6awB6koVRo
+    trackId: 3tcaltthSz9s6awB6koVRo
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11505132&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh
+            href: https://api.spotify.com/v1/albums/4wExFfncaUIqSgoxnqa3Eh
+            id: 4wExFfncaUIqSgoxnqa3Eh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27322f1b6c28ce5735646b2e569
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0222f1b6c28ce5735646b2e569
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485122f1b6c28ce5735646b2e569
+            is_playable: true
+            name: Mothership (Remastered)
+            release_date: '2007'
+            release_date_precision: year
+            total_tracks: 24
+            type: album
+            uri: spotify:album:4wExFfncaUIqSgoxnqa3Eh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 167733
+          explicit: false
+          external_ids:
+            isrc: USRH11505132
+          external_urls:
+            spotify: https://open.spotify.com/track/3tcaltthSz9s6awB6koVRo
+          href: https://api.spotify.com/v1/tracks/3tcaltthSz9s6awB6koVRo
+          id: 3tcaltthSz9s6awB6koVRo
+          is_local: false
+          is_playable: true
+          name: Good Times Bad Times - Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:3tcaltthSz9s6awB6koVRo
+    isrc: USRH11505132

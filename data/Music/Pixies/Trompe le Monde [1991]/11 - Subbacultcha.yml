@@ -64,3 +64,72 @@ mediaFileData:
   year: 1991
   duration: 129.984
   modTime: 2025-01-08 21:31:12.933345+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0WhJRG7UM5QePH2weSZshF
+    trackId: 0WhJRG7UM5QePH2weSZshF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCAD2300795&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT
+              href: https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT
+              id: 6zvul52xwTWzilBZl6BUbT
+              name: Pixies
+              type: artist
+              uri: spotify:artist:6zvul52xwTWzilBZl6BUbT
+            external_urls:
+              spotify: https://open.spotify.com/album/0URGQVevUR1nvVXKdXzzzi
+            href: https://api.spotify.com/v1/albums/0URGQVevUR1nvVXKdXzzzi
+            id: 0URGQVevUR1nvVXKdXzzzi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739f0c46e5b1fa07a8cf68c2de
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029f0c46e5b1fa07a8cf68c2de
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519f0c46e5b1fa07a8cf68c2de
+            is_playable: true
+            name: Pixies at the BBC, 1988-91
+            release_date: '2024-03-08'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:0URGQVevUR1nvVXKdXzzzi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT
+            href: https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT
+            id: 6zvul52xwTWzilBZl6BUbT
+            name: Pixies
+            type: artist
+            uri: spotify:artist:6zvul52xwTWzilBZl6BUbT
+          disc_number: 1
+          duration_ms: 127884
+          explicit: false
+          external_ids:
+            isrc: GBCAD2300795
+          external_urls:
+            spotify: https://open.spotify.com/track/0WhJRG7UM5QePH2weSZshF
+          href: https://api.spotify.com/v1/tracks/0WhJRG7UM5QePH2weSZshF
+          id: 0WhJRG7UM5QePH2weSZshF
+          is_local: false
+          is_playable: true
+          name: Subbacultcha - John Peel Session (23rd June 1991)
+          track_number: 24
+          type: track
+          uri: spotify:track:0WhJRG7UM5QePH2weSZshF
+    isrc: GBCAD2300795

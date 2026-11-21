@@ -42,3 +42,126 @@ mediaFileData:
   year: 1989
   duration: 228.38857142857142
   modTime: 2026-02-01 21:26:53.693303+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/16dQKMarlGpM1YAZBPJsBD
+    trackId: 16dQKMarlGpM1YAZBPJsBD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAZP8600056&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+              href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+              id: 6WoTvA9qinpHtSRJuldYh6
+              name: The Fall
+              type: artist
+              uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+            external_urls:
+              spotify: https://open.spotify.com/album/4wJjQoNCyaJjTNn6F6hK40
+            href: https://api.spotify.com/v1/albums/4wJjQoNCyaJjTNn6F6hK40
+            id: 4wJjQoNCyaJjTNn6F6hK40
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734a1f93d0423da48882d8f141
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024a1f93d0423da48882d8f141
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514a1f93d0423da48882d8f141
+            is_playable: true
+            name: Living Too Late
+            release_date: '1986-07-07'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:4wJjQoNCyaJjTNn6F6hK40
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+            href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+            id: 6WoTvA9qinpHtSRJuldYh6
+            name: The Fall
+            type: artist
+            uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+          disc_number: 1
+          duration_ms: 228293
+          explicit: false
+          external_ids:
+            isrc: GBAZP8600056
+          external_urls:
+            spotify: https://open.spotify.com/track/16dQKMarlGpM1YAZBPJsBD
+          href: https://api.spotify.com/v1/tracks/16dQKMarlGpM1YAZBPJsBD
+          id: 16dQKMarlGpM1YAZBPJsBD
+          is_local: false
+          is_playable: true
+          name: Hot Aftershave Bop
+          track_number: 2
+          type: track
+          uri: spotify:track:16dQKMarlGpM1YAZBPJsBD
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+              href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+              id: 6WoTvA9qinpHtSRJuldYh6
+              name: The Fall
+              type: artist
+              uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+            external_urls:
+              spotify: https://open.spotify.com/album/26ScLv7U0l4iOTmVPnRPSG
+            href: https://api.spotify.com/v1/albums/26ScLv7U0l4iOTmVPnRPSG
+            id: 26ScLv7U0l4iOTmVPnRPSG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273547e1428b0ecbaa9486644ef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02547e1428b0ecbaa9486644ef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851547e1428b0ecbaa9486644ef
+            is_playable: true
+            name: '45 84 89 : B Sides'
+            release_date: '1990-12-10'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:26ScLv7U0l4iOTmVPnRPSG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+            href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+            id: 6WoTvA9qinpHtSRJuldYh6
+            name: The Fall
+            type: artist
+            uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+          disc_number: 1
+          duration_ms: 228293
+          explicit: false
+          external_ids:
+            isrc: GBAZP8600056
+          external_urls:
+            spotify: https://open.spotify.com/track/6V3GFfF2RL2HkRq4Vbn7Du
+          href: https://api.spotify.com/v1/tracks/6V3GFfF2RL2HkRq4Vbn7Du
+          id: 6V3GFfF2RL2HkRq4Vbn7Du
+          is_local: false
+          is_playable: true
+          name: Hot Aftershave Bop
+          track_number: 11
+          type: track
+          uri: spotify:track:6V3GFfF2RL2HkRq4Vbn7Du
+    isrc: GBAZP8600056

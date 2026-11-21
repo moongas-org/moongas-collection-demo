@@ -63,3 +63,126 @@ mediaFileData:
   year: 2008
   duration: 147.02666666666667
   modTime: 2022-06-05 15:32:20.960000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx
+    trackId: 0GegHVxeozw3rdjte45Bfx
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSUB0877702&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb
+              href: https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb
+              id: 4EVpmkEwrLYEg6jIsiPMIb
+              name: Fleet Foxes
+              type: artist
+              uri: spotify:artist:4EVpmkEwrLYEg6jIsiPMIb
+            external_urls:
+              spotify: https://open.spotify.com/album/5GRnydamKvIeG46dycID6v
+            href: https://api.spotify.com/v1/albums/5GRnydamKvIeG46dycID6v
+            id: 5GRnydamKvIeG46dycID6v
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023818b4c636e2a7fdea3bf965
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513818b4c636e2a7fdea3bf965
+            is_playable: true
+            name: Fleet Foxes
+            release_date: '2008-06-03'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5GRnydamKvIeG46dycID6v
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb
+            href: https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb
+            id: 4EVpmkEwrLYEg6jIsiPMIb
+            name: Fleet Foxes
+            type: artist
+            uri: spotify:artist:4EVpmkEwrLYEg6jIsiPMIb
+          disc_number: 1
+          duration_ms: 147026
+          explicit: false
+          external_ids:
+            isrc: USSUB0877702
+          external_urls:
+            spotify: https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx
+          href: https://api.spotify.com/v1/tracks/0GegHVxeozw3rdjte45Bfx
+          id: 0GegHVxeozw3rdjte45Bfx
+          is_local: false
+          is_playable: true
+          name: White Winter Hymnal
+          track_number: 2
+          type: track
+          uri: spotify:track:0GegHVxeozw3rdjte45Bfx
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb
+              href: https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb
+              id: 4EVpmkEwrLYEg6jIsiPMIb
+              name: Fleet Foxes
+              type: artist
+              uri: spotify:artist:4EVpmkEwrLYEg6jIsiPMIb
+            external_urls:
+              spotify: https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud
+            href: https://api.spotify.com/v1/albums/6ou9sQOsIY5xIIX417L3ud
+            id: 6ou9sQOsIY5xIIX417L3ud
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a36bd4a8c9d1b1b5c8c0136d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a36bd4a8c9d1b1b5c8c0136d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a36bd4a8c9d1b1b5c8c0136d
+            is_playable: true
+            name: First Collection 2006-2009
+            release_date: '2018-11-09'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:6ou9sQOsIY5xIIX417L3ud
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb
+            href: https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb
+            id: 4EVpmkEwrLYEg6jIsiPMIb
+            name: Fleet Foxes
+            type: artist
+            uri: spotify:artist:4EVpmkEwrLYEg6jIsiPMIb
+          disc_number: 1
+          duration_ms: 147026
+          explicit: false
+          external_ids:
+            isrc: USSUB0877702
+          external_urls:
+            spotify: https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1
+          href: https://api.spotify.com/v1/tracks/7II56zDppy5Zyj1oJhkkZ1
+          id: 7II56zDppy5Zyj1oJhkkZ1
+          is_local: false
+          is_playable: true
+          name: White Winter Hymnal
+          track_number: 2
+          type: track
+          uri: spotify:track:7II56zDppy5Zyj1oJhkkZ1
+    isrc: USSUB0877702

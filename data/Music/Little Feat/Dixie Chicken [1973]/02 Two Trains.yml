@@ -42,3 +42,288 @@ mediaFileData:
   year: 1973
   duration: 187.40245833333333
   modTime: 2023-07-17 00:10:14+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0jnMt8yqU8sFETMLcLOHh1
+    trackId: 0jnMt8yqU8sFETMLcLOHh1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901411&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB19901411&type=track
+        offset: 0
+        previous:
+        total: 7
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7fIBgW3C91N92rnzwuw3ND
+            href: https://api.spotify.com/v1/albums/7fIBgW3C91N92rnzwuw3ND
+            id: 7fIBgW3C91N92rnzwuw3ND
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732e2937269a29267bd2448484
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022e2937269a29267bd2448484
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512e2937269a29267bd2448484
+            is_playable: true
+            name: The 70's
+            release_date: '2017-05-08'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:7fIBgW3C91N92rnzwuw3ND
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 1
+          duration_ms: 187266
+          explicit: false
+          external_ids:
+            isrc: USWB19901411
+          external_urls:
+            spotify: https://open.spotify.com/track/0jnMt8yqU8sFETMLcLOHh1
+          href: https://api.spotify.com/v1/tracks/0jnMt8yqU8sFETMLcLOHh1
+          id: 0jnMt8yqU8sFETMLcLOHh1
+          is_local: false
+          is_playable: true
+          name: Two Trains
+          track_number: 18
+          type: track
+          uri: spotify:track:0jnMt8yqU8sFETMLcLOHh1
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+              href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+              id: 0ZIwOAzDuGPspzK7yiTc4S
+              name: Little Feat
+              type: artist
+              uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+            external_urls:
+              spotify: https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF
+            href: https://api.spotify.com/v1/albums/4xtCtXkGuTbHQwTaVd5FCF
+            id: 4xtCtXkGuTbHQwTaVd5FCF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f8db0e1d67ad1d89e6057e38
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f8db0e1d67ad1d89e6057e38
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f8db0e1d67ad1d89e6057e38
+            is_playable: true
+            name: Dixie Chicken
+            release_date: '1973-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4xtCtXkGuTbHQwTaVd5FCF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 1
+          duration_ms: 187266
+          explicit: false
+          external_ids:
+            isrc: USWB19901411
+          external_urls:
+            spotify: https://open.spotify.com/track/4CwpuCZcK6Vym6BZd8Pgfe
+          href: https://api.spotify.com/v1/tracks/4CwpuCZcK6Vym6BZd8Pgfe
+          id: 4CwpuCZcK6Vym6BZd8Pgfe
+          is_local: false
+          is_playable: true
+          name: Two Trains
+          track_number: 2
+          type: track
+          uri: spotify:track:4CwpuCZcK6Vym6BZd8Pgfe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+              href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+              id: 0ZIwOAzDuGPspzK7yiTc4S
+              name: Little Feat
+              type: artist
+              uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+            external_urls:
+              spotify: https://open.spotify.com/album/4H87tuNGBfs7opAEpYokit
+            href: https://api.spotify.com/v1/albums/4H87tuNGBfs7opAEpYokit
+            id: 4H87tuNGBfs7opAEpYokit
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739e2b97781670471a3642d982
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029e2b97781670471a3642d982
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519e2b97781670471a3642d982
+            is_playable: true
+            name: 'Rad Gumbo: The Complete Warner Bros. Years 1971-1990'
+            release_date: '2014-02-25'
+            release_date_precision: day
+            total_tracks: 157
+            type: album
+            uri: spotify:album:4H87tuNGBfs7opAEpYokit
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 3
+          duration_ms: 187266
+          explicit: false
+          external_ids:
+            isrc: USWB19901411
+          external_urls:
+            spotify: https://open.spotify.com/track/4GAHDm2n6Qjy2HPxwTqUPq
+          href: https://api.spotify.com/v1/tracks/4GAHDm2n6Qjy2HPxwTqUPq
+          id: 4GAHDm2n6Qjy2HPxwTqUPq
+          is_local: false
+          is_playable: true
+          name: Two Trains
+          track_number: 2
+          type: track
+          uri: spotify:track:4GAHDm2n6Qjy2HPxwTqUPq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4dwocjk10Ha1Zpn44DBvhj
+            href: https://api.spotify.com/v1/albums/4dwocjk10Ha1Zpn44DBvhj
+            id: 4dwocjk10Ha1Zpn44DBvhj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27339e253405bcb2e711b8b8417
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0239e253405bcb2e711b8b8417
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485139e253405bcb2e711b8b8417
+            is_playable: true
+            name: Funky 70s Rock
+            release_date: '2020-03-27'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:4dwocjk10Ha1Zpn44DBvhj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 1
+          duration_ms: 187266
+          explicit: false
+          external_ids:
+            isrc: USWB19901411
+          external_urls:
+            spotify: https://open.spotify.com/track/15Nev1uWegX0pUCzCtVQg1
+          href: https://api.spotify.com/v1/tracks/15Nev1uWegX0pUCzCtVQg1
+          id: 15Nev1uWegX0pUCzCtVQg1
+          is_local: false
+          is_playable: true
+          name: Two Trains
+          track_number: 4
+          type: track
+          uri: spotify:track:15Nev1uWegX0pUCzCtVQg1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/35WTpJBuAhyH6uQNfYaTn4
+            href: https://api.spotify.com/v1/albums/35WTpJBuAhyH6uQNfYaTn4
+            id: 35WTpJBuAhyH6uQNfYaTn4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c3260c4033de6c2706fe676a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c3260c4033de6c2706fe676a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c3260c4033de6c2706fe676a
+            is_playable: true
+            name: Sunshine Grooves
+            release_date: '2025-12-06'
+            release_date_precision: day
+            total_tracks: 36
+            type: album
+            uri: spotify:album:35WTpJBuAhyH6uQNfYaTn4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2xQEzjGdoQ5ay5KeZ5jcVL
+            href: https://api.spotify.com/v1/artists/2xQEzjGdoQ5ay5KeZ5jcVL
+            id: 2xQEzjGdoQ5ay5KeZ5jcVL
+            name: Little
+            type: artist
+            uri: spotify:artist:2xQEzjGdoQ5ay5KeZ5jcVL
+          disc_number: 1
+          duration_ms: 187266
+          explicit: false
+          external_ids:
+            isrc: USWB19901411
+          external_urls:
+            spotify: https://open.spotify.com/track/2e9ewTt0ESo0RqAN96WBCf
+          href: https://api.spotify.com/v1/tracks/2e9ewTt0ESo0RqAN96WBCf
+          id: 2e9ewTt0ESo0RqAN96WBCf
+          is_local: false
+          is_playable: true
+          name: Two Trains
+          track_number: 25
+          type: track
+          uri: spotify:track:2e9ewTt0ESo0RqAN96WBCf
+    isrc: USWB19901411

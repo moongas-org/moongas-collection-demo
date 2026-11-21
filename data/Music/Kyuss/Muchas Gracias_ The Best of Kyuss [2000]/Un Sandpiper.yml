@@ -34,3 +34,72 @@ mediaFileData:
   year: 2000
   duration: 493.3284375
   modTime: 2023-09-24 09:41:32+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2Xnh3i6g8B93OVQFNInRFm
+    trackId: 2Xnh3i6g8B93OVQFNInRFm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10001193&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/4DCUTChxmh7AHPWXAKTZUZ
+            href: https://api.spotify.com/v1/albums/4DCUTChxmh7AHPWXAKTZUZ
+            id: 4DCUTChxmh7AHPWXAKTZUZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27325c4b638d6355efa5752c736
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0225c4b638d6355efa5752c736
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485125c4b638d6355efa5752c736
+            is_playable: true
+            name: 'Muchas Gracias: The Best of Kyuss'
+            release_date: '2000-09-28'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4DCUTChxmh7AHPWXAKTZUZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 494026
+          explicit: true
+          external_ids:
+            isrc: USEE10001193
+          external_urls:
+            spotify: https://open.spotify.com/track/2Xnh3i6g8B93OVQFNInRFm
+          href: https://api.spotify.com/v1/tracks/2Xnh3i6g8B93OVQFNInRFm
+          id: 2Xnh3i6g8B93OVQFNInRFm
+          is_local: false
+          is_playable: true
+          name: Un Sandpiper
+          track_number: 1
+          type: track
+          uri: spotify:track:2Xnh3i6g8B93OVQFNInRFm
+    isrc: USEE10001193

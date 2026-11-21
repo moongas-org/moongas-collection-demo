@@ -34,3 +34,72 @@ mediaFileData:
   year: 2008
   duration: 235.1804081632653
   modTime: 2023-10-01 18:07:10+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4ytXDsdrxn1DD9VCoH2xda
+    trackId: 4ytXDsdrxn1DD9VCoH2xda
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM70808787&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7
+              href: https://api.spotify.com/v1/artists/1oJolWh3meHLWUcyIijst7
+              id: 1oJolWh3meHLWUcyIijst7
+              name: Black Kids
+              type: artist
+              uri: spotify:artist:1oJolWh3meHLWUcyIijst7
+            external_urls:
+              spotify: https://open.spotify.com/album/0SXhAb21IINUzUbL1iyLn8
+            href: https://api.spotify.com/v1/albums/0SXhAb21IINUzUbL1iyLn8
+            id: 0SXhAb21IINUzUbL1iyLn8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735b7400e9051f4038c30f43c3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025b7400e9051f4038c30f43c3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515b7400e9051f4038c30f43c3
+            is_playable: true
+            name: Partie Traumatic
+            release_date: '2008-07-07'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0SXhAb21IINUzUbL1iyLn8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7
+            href: https://api.spotify.com/v1/artists/1oJolWh3meHLWUcyIijst7
+            id: 1oJolWh3meHLWUcyIijst7
+            name: Black Kids
+            type: artist
+            uri: spotify:artist:1oJolWh3meHLWUcyIijst7
+          disc_number: 1
+          duration_ms: 235106
+          explicit: false
+          external_ids:
+            isrc: GBUM70808787
+          external_urls:
+            spotify: https://open.spotify.com/track/4ytXDsdrxn1DD9VCoH2xda
+          href: https://api.spotify.com/v1/tracks/4ytXDsdrxn1DD9VCoH2xda
+          id: 4ytXDsdrxn1DD9VCoH2xda
+          is_local: false
+          is_playable: true
+          name: I've Underestimated My Charm (Again)
+          track_number: 6
+          type: track
+          uri: spotify:track:4ytXDsdrxn1DD9VCoH2xda
+    isrc: GBUM70808787

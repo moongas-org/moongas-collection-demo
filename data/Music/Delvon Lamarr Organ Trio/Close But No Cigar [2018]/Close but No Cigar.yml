@@ -34,3 +34,72 @@ mediaFileData:
   year: 2018
   duration: 210.264
   modTime: 2023-07-22 22:12:40+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/69FlFNE6ZYIJBRCmehJ6zy
+    trackId: 69FlFNE6ZYIJBRCmehJ6zy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMDA61809550&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8
+              href: https://api.spotify.com/v1/artists/7owr01EP6gwCYjnfQtPKy8
+              id: 7owr01EP6gwCYjnfQtPKy8
+              name: Delvon Lamarr Organ Trio
+              type: artist
+              uri: spotify:artist:7owr01EP6gwCYjnfQtPKy8
+            external_urls:
+              spotify: https://open.spotify.com/album/37YHeQAjaDkmvAGS3UfCiE
+            href: https://api.spotify.com/v1/albums/37YHeQAjaDkmvAGS3UfCiE
+            id: 37YHeQAjaDkmvAGS3UfCiE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273247e863a164c9769a86b506b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02247e863a164c9769a86b506b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851247e863a164c9769a86b506b
+            is_playable: true
+            name: Close but No Cigar
+            release_date: '2018-03-02'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:37YHeQAjaDkmvAGS3UfCiE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8
+            href: https://api.spotify.com/v1/artists/7owr01EP6gwCYjnfQtPKy8
+            id: 7owr01EP6gwCYjnfQtPKy8
+            name: Delvon Lamarr Organ Trio
+            type: artist
+            uri: spotify:artist:7owr01EP6gwCYjnfQtPKy8
+          disc_number: 1
+          duration_ms: 210240
+          explicit: false
+          external_ids:
+            isrc: QMDA61809550
+          external_urls:
+            spotify: https://open.spotify.com/track/69FlFNE6ZYIJBRCmehJ6zy
+          href: https://api.spotify.com/v1/tracks/69FlFNE6ZYIJBRCmehJ6zy
+          id: 69FlFNE6ZYIJBRCmehJ6zy
+          is_local: false
+          is_playable: true
+          name: Close but No Cigar
+          track_number: 4
+          type: track
+          uri: spotify:track:69FlFNE6ZYIJBRCmehJ6zy
+    isrc: QMDA61809550

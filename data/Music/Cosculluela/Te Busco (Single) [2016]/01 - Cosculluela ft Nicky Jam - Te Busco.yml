@@ -34,3 +34,79 @@ mediaFileData:
   year: 2016
   duration: 233.64
   modTime: 2025-03-24 21:00:25.709809+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9
+    trackId: 2hi1aFllOFRNH8gIHxQvD9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBKPL1560884&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU
+              href: https://api.spotify.com/v1/artists/00me4Ke1LsvMxt5kydlMyU
+              id: 00me4Ke1LsvMxt5kydlMyU
+              name: Cosculluela
+              type: artist
+              uri: spotify:artist:00me4Ke1LsvMxt5kydlMyU
+            external_urls:
+              spotify: https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh
+            href: https://api.spotify.com/v1/albums/5mTPkLSMfQdLrb4DOXDQDh
+            id: 5mTPkLSMfQdLrb4DOXDQDh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273931c21f8e13b50d5073f359e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02931c21f8e13b50d5073f359e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851931c21f8e13b50d5073f359e
+            is_playable: true
+            name: Te Busco
+            release_date: '2015-07-04'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:5mTPkLSMfQdLrb4DOXDQDh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU
+            href: https://api.spotify.com/v1/artists/00me4Ke1LsvMxt5kydlMyU
+            id: 00me4Ke1LsvMxt5kydlMyU
+            name: Cosculluela
+            type: artist
+            uri: spotify:artist:00me4Ke1LsvMxt5kydlMyU
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT
+            href: https://api.spotify.com/v1/artists/1SupJlEpv7RS2tPNRaHViT
+            id: 1SupJlEpv7RS2tPNRaHViT
+            name: Nicky Jam
+            type: artist
+            uri: spotify:artist:1SupJlEpv7RS2tPNRaHViT
+          disc_number: 1
+          duration_ms: 233639
+          explicit: false
+          external_ids:
+            isrc: GBKPL1560884
+          external_urls:
+            spotify: https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9
+          href: https://api.spotify.com/v1/tracks/2hi1aFllOFRNH8gIHxQvD9
+          id: 2hi1aFllOFRNH8gIHxQvD9
+          is_local: false
+          is_playable: true
+          name: Te Busco
+          track_number: 1
+          type: track
+          uri: spotify:track:2hi1aFllOFRNH8gIHxQvD9
+    isrc: GBKPL1560884

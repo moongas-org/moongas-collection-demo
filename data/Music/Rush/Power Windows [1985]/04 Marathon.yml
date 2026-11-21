@@ -52,3 +52,180 @@ mediaFileData:
   year: 1985
   duration: 369.6849
   modTime: 2022-01-29 18:47:34.520000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6fYVYVaJNUcIod6kcNU1wi
+    trackId: 6fYVYVaJNUcIod6kcNU1wi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMR18530339&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/6CBBXvZQl7CggK7FpLhC9w
+            href: https://api.spotify.com/v1/albums/6CBBXvZQl7CggK7FpLhC9w
+            id: 6CBBXvZQl7CggK7FpLhC9w
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27355f0806e886bb0186f6e89a6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0255f0806e886bb0186f6e89a6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485155f0806e886bb0186f6e89a6
+            is_playable: true
+            name: Gold
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:6CBBXvZQl7CggK7FpLhC9w
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 2
+          duration_ms: 369600
+          explicit: false
+          external_ids:
+            isrc: USMR18530339
+          external_urls:
+            spotify: https://open.spotify.com/track/6fYVYVaJNUcIod6kcNU1wi
+          href: https://api.spotify.com/v1/tracks/6fYVYVaJNUcIod6kcNU1wi
+          id: 6fYVYVaJNUcIod6kcNU1wi
+          is_local: false
+          is_playable: true
+          name: Marathon
+          track_number: 8
+          type: track
+          uri: spotify:track:6fYVYVaJNUcIod6kcNU1wi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/4NR0m0PxB9b3YEIKmnh2y9
+            href: https://api.spotify.com/v1/albums/4NR0m0PxB9b3YEIKmnh2y9
+            id: 4NR0m0PxB9b3YEIKmnh2y9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b61bef24bc2ad1ffa035f2d8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b61bef24bc2ad1ffa035f2d8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b61bef24bc2ad1ffa035f2d8
+            is_playable: true
+            name: Retrospective II (1981-1987)
+            release_date: '1997-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4NR0m0PxB9b3YEIKmnh2y9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 369333
+          explicit: false
+          external_ids:
+            isrc: USMR18530339
+          external_urls:
+            spotify: https://open.spotify.com/track/6v7aQ1IMAEZXC6OZgn3s3p
+          href: https://api.spotify.com/v1/tracks/6v7aQ1IMAEZXC6OZgn3s3p
+          id: 6v7aQ1IMAEZXC6OZgn3s3p
+          is_local: false
+          is_playable: true
+          name: Marathon
+          track_number: 8
+          type: track
+          uri: spotify:track:6v7aQ1IMAEZXC6OZgn3s3p
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/4g5nPCL3oFaJB0402Kedm8
+            href: https://api.spotify.com/v1/albums/4g5nPCL3oFaJB0402Kedm8
+            id: 4g5nPCL3oFaJB0402Kedm8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fb29230c395e21655ff79885
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fb29230c395e21655ff79885
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fb29230c395e21655ff79885
+            is_playable: true
+            name: Power Windows
+            release_date: '1985-01-01'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:4g5nPCL3oFaJB0402Kedm8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 369533
+          explicit: false
+          external_ids:
+            isrc: USMR18530339
+          external_urls:
+            spotify: https://open.spotify.com/track/2P0x26YpGzXDddtQEc171e
+          href: https://api.spotify.com/v1/tracks/2P0x26YpGzXDddtQEc171e
+          id: 2P0x26YpGzXDddtQEc171e
+          is_local: false
+          is_playable: true
+          name: Marathon
+          track_number: 4
+          type: track
+          uri: spotify:track:2P0x26YpGzXDddtQEc171e
+    isrc: USMR18530339

@@ -45,3 +45,86 @@ mediaFileData:
   year: 1720
   duration: 73.1167
   modTime: 2023-07-16 22:51:40+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5J3dRxGMlkKT1vxINobdQY
+    trackId: 5J3dRxGMlkKT1vxINobdQY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM17100541&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408
+              href: https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408
+              id: 5aIqB5nVVvmFsvSdExz408
+              name: Johann Sebastian Bach
+              type: artist
+              uri: spotify:artist:5aIqB5nVVvmFsvSdExz408
+            - external_urls:
+                spotify: https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP
+              href: https://api.spotify.com/v1/artists/13dkPjqmbcchm8cXjEJQeP
+              id: 13dkPjqmbcchm8cXjEJQeP
+              name: Glenn Gould
+              type: artist
+              uri: spotify:artist:13dkPjqmbcchm8cXjEJQeP
+            external_urls:
+              spotify: https://open.spotify.com/album/6U1lDsvECgWC8ol1Mlg7u4
+            href: https://api.spotify.com/v1/albums/6U1lDsvECgWC8ol1Mlg7u4
+            id: 6U1lDsvECgWC8ol1Mlg7u4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a86abbdb5c5236b3a57a30a1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a86abbdb5c5236b3a57a30a1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a86abbdb5c5236b3a57a30a1
+            is_playable: true
+            name: Glenn Gould Plays Bach, Vol. 3 - English and French Suites
+            release_date: '1973'
+            release_date_precision: year
+            total_tracks: 97
+            type: album
+            uri: spotify:album:6U1lDsvECgWC8ol1Mlg7u4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408
+            href: https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408
+            id: 5aIqB5nVVvmFsvSdExz408
+            name: Johann Sebastian Bach
+            type: artist
+            uri: spotify:artist:5aIqB5nVVvmFsvSdExz408
+          - external_urls:
+              spotify: https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP
+            href: https://api.spotify.com/v1/artists/13dkPjqmbcchm8cXjEJQeP
+            id: 13dkPjqmbcchm8cXjEJQeP
+            name: Glenn Gould
+            type: artist
+            uri: spotify:artist:13dkPjqmbcchm8cXjEJQeP
+          disc_number: 1
+          duration_ms: 71200
+          explicit: false
+          external_ids:
+            isrc: USSM17100541
+          external_urls:
+            spotify: https://open.spotify.com/track/5J3dRxGMlkKT1vxINobdQY
+          href: https://api.spotify.com/v1/tracks/5J3dRxGMlkKT1vxINobdQY
+          id: 5J3dRxGMlkKT1vxINobdQY
+          is_local: false
+          is_playable: true
+          name: 'English Suite No. 2 in A Minor, BWV 807: III. Courante'
+          track_number: 13
+          type: track
+          uri: spotify:track:5J3dRxGMlkKT1vxINobdQY
+    isrc: USSM17100541

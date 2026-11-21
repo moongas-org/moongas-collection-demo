@@ -41,3 +41,288 @@ mediaFileData:
   year: 2002
   duration: 232.6554
   modTime: 2023-07-16 02:42:24+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2UaJHs6wlASNl7q34j7hK1
+    trackId: 2UaJHs6wlASNl7q34j7hK1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10201693&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB10201693&type=track
+        offset: 0
+        previous:
+        total: 20
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/1jWKVgnHX8nwR551hQNx5K
+            href: https://api.spotify.com/v1/albums/1jWKVgnHX8nwR551hQNx5K
+            id: 1jWKVgnHX8nwR551hQNx5K
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fdbcee40748537ff80a7af70
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fdbcee40748537ff80a7af70
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fdbcee40748537ff80a7af70
+            is_playable: true
+            name: By the Way
+            release_date: '2002-07-09'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:1jWKVgnHX8nwR551hQNx5K
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 231933
+          explicit: false
+          external_ids:
+            isrc: USWB10201693
+          external_urls:
+            spotify: https://open.spotify.com/track/2UaJHs6wlASNl7q34j7hK1
+          href: https://api.spotify.com/v1/tracks/2UaJHs6wlASNl7q34j7hK1
+          id: 2UaJHs6wlASNl7q34j7hK1
+          is_local: false
+          is_playable: true
+          name: The Zephyr Song
+          track_number: 6
+          type: track
+          uri: spotify:track:2UaJHs6wlASNl7q34j7hK1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7aOFj1yM42sm2gzmlPidPP
+            href: https://api.spotify.com/v1/albums/7aOFj1yM42sm2gzmlPidPP
+            id: 7aOFj1yM42sm2gzmlPidPP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3686323bf737cb7ba3de792
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3686323bf737cb7ba3de792
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792
+            is_playable: true
+            name: The Studio Album Collection 1991 - 2011
+            release_date: '2014-12-12'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:7aOFj1yM42sm2gzmlPidPP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 4
+          duration_ms: 231933
+          explicit: false
+          external_ids:
+            isrc: USWB10201693
+          external_urls:
+            spotify: https://open.spotify.com/track/6nDNCpymGwvh0w8gErsDQy
+          href: https://api.spotify.com/v1/tracks/6nDNCpymGwvh0w8gErsDQy
+          id: 6nDNCpymGwvh0w8gErsDQy
+          is_local: false
+          is_playable: true
+          name: The Zephyr Song
+          track_number: 6
+          type: track
+          uri: spotify:track:6nDNCpymGwvh0w8gErsDQy
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1
+            href: https://api.spotify.com/v1/albums/6deiaArbeoqp1xPEGdEKp1
+            id: 6deiaArbeoqp1xPEGdEKp1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02de1af2785a83cc660155a0c4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4
+            is_playable: true
+            name: By the Way (Deluxe Edition)
+            release_date: '2002-07-09'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:6deiaArbeoqp1xPEGdEKp1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 231933
+          explicit: false
+          external_ids:
+            isrc: USWB10201693
+          external_urls:
+            spotify: https://open.spotify.com/track/1ndGB6rvxKYN9seCYO1dTF
+          href: https://api.spotify.com/v1/tracks/1ndGB6rvxKYN9seCYO1dTF
+          id: 1ndGB6rvxKYN9seCYO1dTF
+          is_local: false
+          is_playable: true
+          name: The Zephyr Song
+          track_number: 6
+          type: track
+          uri: spotify:track:1ndGB6rvxKYN9seCYO1dTF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1HCn6IJrIC5lHOcPeV8T1z
+            href: https://api.spotify.com/v1/albums/1HCn6IJrIC5lHOcPeV8T1z
+            id: 1HCn6IJrIC5lHOcPeV8T1z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f05ee52e2d09b0f2a3071635
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f05ee52e2d09b0f2a3071635
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f05ee52e2d09b0f2a3071635
+            is_playable: true
+            name: SE JOGA!
+            release_date: '2024-05-04'
+            release_date_precision: day
+            total_tracks: 41
+            type: album
+            uri: spotify:album:1HCn6IJrIC5lHOcPeV8T1z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 231933
+          explicit: false
+          external_ids:
+            isrc: USWB10201693
+          external_urls:
+            spotify: https://open.spotify.com/track/1vw2mYTfUcCLbt8mYILGGj
+          href: https://api.spotify.com/v1/tracks/1vw2mYTfUcCLbt8mYILGGj
+          id: 1vw2mYTfUcCLbt8mYILGGj
+          is_local: false
+          is_playable: true
+          name: The Zephyr Song
+          track_number: 28
+          type: track
+          uri: spotify:track:1vw2mYTfUcCLbt8mYILGGj
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0sEOZVhPIu23O1lCdEA6eX
+            href: https://api.spotify.com/v1/albums/0sEOZVhPIu23O1lCdEA6eX
+            id: 0sEOZVhPIu23O1lCdEA6eX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27349becb23c03246277302e7ee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0249becb23c03246277302e7ee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485149becb23c03246277302e7ee
+            is_playable: true
+            name: loud music
+            release_date: '2024-04-16'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0sEOZVhPIu23O1lCdEA6eX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 231933
+          explicit: false
+          external_ids:
+            isrc: USWB10201693
+          external_urls:
+            spotify: https://open.spotify.com/track/7AiBKquUCIarC4cLYkEtIS
+          href: https://api.spotify.com/v1/tracks/7AiBKquUCIarC4cLYkEtIS
+          id: 7AiBKquUCIarC4cLYkEtIS
+          is_local: false
+          is_playable: true
+          name: The Zephyr Song
+          track_number: 3
+          type: track
+          uri: spotify:track:7AiBKquUCIarC4cLYkEtIS
+    isrc: USWB10201693

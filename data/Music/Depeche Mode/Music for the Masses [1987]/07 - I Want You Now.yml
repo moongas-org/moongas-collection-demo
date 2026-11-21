@@ -75,3 +75,126 @@ mediaFileData:
   year: 1987
   duration: 224.4
   modTime: 2025-03-24 21:12:42.942634+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5TdLF8MKu8gvpgAqqVigql
+    trackId: 5TdLF8MKu8gvpgAqqVigql
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAJH0600234&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX
+              href: https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX
+              id: 762310PdDnwsDxAQxzQkfX
+              name: Depeche Mode
+              type: artist
+              uri: spotify:artist:762310PdDnwsDxAQxzQkfX
+            external_urls:
+              spotify: https://open.spotify.com/album/31W3fUhdXU57lRWDDyczUE
+            href: https://api.spotify.com/v1/albums/31W3fUhdXU57lRWDDyczUE
+            id: 31W3fUhdXU57lRWDDyczUE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735c2d57aa294b71136bcc510d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025c2d57aa294b71136bcc510d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515c2d57aa294b71136bcc510d
+            is_playable: true
+            name: Music for the Masses
+            release_date: '1987-09-28'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:31W3fUhdXU57lRWDDyczUE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX
+            href: https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX
+            id: 762310PdDnwsDxAQxzQkfX
+            name: Depeche Mode
+            type: artist
+            uri: spotify:artist:762310PdDnwsDxAQxzQkfX
+          disc_number: 1
+          duration_ms: 224373
+          explicit: false
+          external_ids:
+            isrc: GBAJH0600234
+          external_urls:
+            spotify: https://open.spotify.com/track/5TdLF8MKu8gvpgAqqVigql
+          href: https://api.spotify.com/v1/tracks/5TdLF8MKu8gvpgAqqVigql
+          id: 5TdLF8MKu8gvpgAqqVigql
+          is_local: false
+          is_playable: true
+          name: I Want You Now
+          track_number: 7
+          type: track
+          uri: spotify:track:5TdLF8MKu8gvpgAqqVigql
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX
+              href: https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX
+              id: 762310PdDnwsDxAQxzQkfX
+              name: Depeche Mode
+              type: artist
+              uri: spotify:artist:762310PdDnwsDxAQxzQkfX
+            external_urls:
+              spotify: https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2
+            href: https://api.spotify.com/v1/albums/06we4RiGhODMsbAPWmogy2
+            id: 06we4RiGhODMsbAPWmogy2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27313ccc3e363f27a4a3d06d1b1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0213ccc3e363f27a4a3d06d1b1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485113ccc3e363f27a4a3d06d1b1
+            is_playable: true
+            name: Music for the Masses (Deluxe)
+            release_date: '1987-09-28'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:06we4RiGhODMsbAPWmogy2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX
+            href: https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX
+            id: 762310PdDnwsDxAQxzQkfX
+            name: Depeche Mode
+            type: artist
+            uri: spotify:artist:762310PdDnwsDxAQxzQkfX
+          disc_number: 1
+          duration_ms: 224373
+          explicit: false
+          external_ids:
+            isrc: GBAJH0600234
+          external_urls:
+            spotify: https://open.spotify.com/track/17ZEaWR8S3eY9bgRiehWCr
+          href: https://api.spotify.com/v1/tracks/17ZEaWR8S3eY9bgRiehWCr
+          id: 17ZEaWR8S3eY9bgRiehWCr
+          is_local: false
+          is_playable: true
+          name: I Want You Now
+          track_number: 7
+          type: track
+          uri: spotify:track:17ZEaWR8S3eY9bgRiehWCr
+    isrc: GBAJH0600234

@@ -147,3 +147,126 @@ mediaFileData:
   year: 1965
   duration: 135.768
   modTime: 2025-03-31 19:17:42.702682+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0LQuXd8h0Ee8b6jGLdqxw2
+    trackId: 0LQuXd8h0Ee8b6jGLdqxw2
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSA176510240&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+              href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+              id: 22bE4uQ6baNwSHPVcDxLCe
+              name: The Rolling Stones
+              type: artist
+              uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+            external_urls:
+              spotify: https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP
+            href: https://api.spotify.com/v1/albums/2p2xSwHP4rTPzNCaOveDIP
+            id: 2p2xSwHP4rTPzNCaOveDIP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737caed93c71f969a3aa69f041
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027caed93c71f969a3aa69f041
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517caed93c71f969a3aa69f041
+            is_playable: true
+            name: December’s Children (And Everybody’s)
+            release_date: '1965-12-04'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2p2xSwHP4rTPzNCaOveDIP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+            href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+            id: 22bE4uQ6baNwSHPVcDxLCe
+            name: The Rolling Stones
+            type: artist
+            uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+          disc_number: 1
+          duration_ms: 135733
+          explicit: false
+          external_ids:
+            isrc: USA176510240
+          external_urls:
+            spotify: https://open.spotify.com/track/0LQuXd8h0Ee8b6jGLdqxw2
+          href: https://api.spotify.com/v1/tracks/0LQuXd8h0Ee8b6jGLdqxw2
+          id: 0LQuXd8h0Ee8b6jGLdqxw2
+          is_local: false
+          is_playable: true
+          name: Look What You've Done - Mono Version
+          track_number: 4
+          type: track
+          uri: spotify:track:0LQuXd8h0Ee8b6jGLdqxw2
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+              href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+              id: 22bE4uQ6baNwSHPVcDxLCe
+              name: The Rolling Stones
+              type: artist
+              uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+            external_urls:
+              spotify: https://open.spotify.com/album/06d6lwIaJvpbSBxVuIlUDQ
+            href: https://api.spotify.com/v1/albums/06d6lwIaJvpbSBxVuIlUDQ
+            id: 06d6lwIaJvpbSBxVuIlUDQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27391259051f616d5908f120be5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0291259051f616d5908f120be5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485191259051f616d5908f120be5
+            is_playable: true
+            name: I'm A King Bee (Influences - Vol. 2)
+            release_date: '2023-01-20'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:06d6lwIaJvpbSBxVuIlUDQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+            href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+            id: 22bE4uQ6baNwSHPVcDxLCe
+            name: The Rolling Stones
+            type: artist
+            uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+          disc_number: 1
+          duration_ms: 135733
+          explicit: false
+          external_ids:
+            isrc: USA176510240
+          external_urls:
+            spotify: https://open.spotify.com/track/6mcwGHwScLa5X9i7ptuxtJ
+          href: https://api.spotify.com/v1/tracks/6mcwGHwScLa5X9i7ptuxtJ
+          id: 6mcwGHwScLa5X9i7ptuxtJ
+          is_local: false
+          is_playable: true
+          name: Look What You've Done - Mono Version
+          track_number: 5
+          type: track
+          uri: spotify:track:6mcwGHwScLa5X9i7ptuxtJ
+    isrc: USA176510240

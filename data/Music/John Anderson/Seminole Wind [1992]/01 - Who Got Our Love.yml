@@ -34,3 +34,126 @@ mediaFileData:
   year: 1992
   duration: 197.56408163265306
   modTime: 2026-04-14 16:13:47.963510+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4cxSx6mLXjsSuBQQuZkuCw
+    trackId: 4cxSx6mLXjsSuBQQuZkuCw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBN19500075&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a
+            href: https://api.spotify.com/v1/albums/23LbFVb9MdJCILkhR5yQ6a
+            id: 23LbFVb9MdJCILkhR5yQ6a
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734b36ff2c98c467f3ec041fbd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024b36ff2c98c467f3ec041fbd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514b36ff2c98c467f3ec041fbd
+            is_playable: true
+            name: Seminole Wind
+            release_date: '1992-02-07'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:23LbFVb9MdJCILkhR5yQ6a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 197493
+          explicit: false
+          external_ids:
+            isrc: USBN19500075
+          external_urls:
+            spotify: https://open.spotify.com/track/4cxSx6mLXjsSuBQQuZkuCw
+          href: https://api.spotify.com/v1/tracks/4cxSx6mLXjsSuBQQuZkuCw
+          id: 4cxSx6mLXjsSuBQQuZkuCw
+          is_local: false
+          is_playable: true
+          name: Who Got Our Love
+          track_number: 1
+          type: track
+          uri: spotify:track:4cxSx6mLXjsSuBQQuZkuCw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/6RvGd33at1cq2s9w8fKDFp
+            href: https://api.spotify.com/v1/albums/6RvGd33at1cq2s9w8fKDFp
+            id: 6RvGd33at1cq2s9w8fKDFp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ad67b95f7375eb87f4037ef8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ad67b95f7375eb87f4037ef8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ad67b95f7375eb87f4037ef8
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1996-10-15'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:6RvGd33at1cq2s9w8fKDFp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 197093
+          explicit: false
+          external_ids:
+            isrc: USBN19500075
+          external_urls:
+            spotify: https://open.spotify.com/track/7E9jr4QcnNFq7pVJQdMW50
+          href: https://api.spotify.com/v1/tracks/7E9jr4QcnNFq7pVJQdMW50
+          id: 7E9jr4QcnNFq7pVJQdMW50
+          is_local: false
+          is_playable: true
+          name: Who Got Our Love
+          track_number: 14
+          type: track
+          uri: spotify:track:7E9jr4QcnNFq7pVJQdMW50
+    isrc: USBN19500075

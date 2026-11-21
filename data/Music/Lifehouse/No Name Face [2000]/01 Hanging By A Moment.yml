@@ -96,3 +96,288 @@ mediaFileData:
   year: 2000
   duration: 214.1779375
   modTime: 2023-05-14 14:44:12.930000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4AR91bqXWGVKUOZGCewoS7
+    trackId: 4AR91bqXWGVKUOZGCewoS7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW10022031&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSDW10022031&type=track
+        offset: 0
+        previous:
+        total: 23
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2Ev0rXjsYBwY1cRztGn4MZ
+            href: https://api.spotify.com/v1/albums/2Ev0rXjsYBwY1cRztGn4MZ
+            id: 2Ev0rXjsYBwY1cRztGn4MZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737a8fd9e20f741debf9eb3f48
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027a8fd9e20f741debf9eb3f48
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517a8fd9e20f741debf9eb3f48
+            is_playable: true
+            name: 90s Summer Nostalgia
+            release_date: '2025-08-22'
+            release_date_precision: day
+            total_tracks: 49
+            type: album
+            uri: spotify:album:2Ev0rXjsYBwY1cRztGn4MZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3
+            href: https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3
+            id: 5PokPZn11xzZXyXSfnvIM3
+            name: Lifehouse
+            type: artist
+            uri: spotify:artist:5PokPZn11xzZXyXSfnvIM3
+          disc_number: 1
+          duration_ms: 216066
+          explicit: false
+          external_ids:
+            isrc: USDW10022031
+          external_urls:
+            spotify: https://open.spotify.com/track/4AR91bqXWGVKUOZGCewoS7
+          href: https://api.spotify.com/v1/tracks/4AR91bqXWGVKUOZGCewoS7
+          id: 4AR91bqXWGVKUOZGCewoS7
+          is_local: false
+          is_playable: true
+          name: Hanging By A Moment
+          track_number: 5
+          type: track
+          uri: spotify:track:4AR91bqXWGVKUOZGCewoS7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1ue7nr3fvZFQpjmbZcVdsf
+            href: https://api.spotify.com/v1/albums/1ue7nr3fvZFQpjmbZcVdsf
+            id: 1ue7nr3fvZFQpjmbZcVdsf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c7c41cb5a9e4b6a24e473ea2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c7c41cb5a9e4b6a24e473ea2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c7c41cb5a9e4b6a24e473ea2
+            is_playable: true
+            name: '20 #1’s: Alternative Rock'
+            release_date: '2015-12-18'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:1ue7nr3fvZFQpjmbZcVdsf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3
+            href: https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3
+            id: 5PokPZn11xzZXyXSfnvIM3
+            name: Lifehouse
+            type: artist
+            uri: spotify:artist:5PokPZn11xzZXyXSfnvIM3
+          disc_number: 1
+          duration_ms: 214906
+          explicit: false
+          external_ids:
+            isrc: USDW10022031
+          external_urls:
+            spotify: https://open.spotify.com/track/12Q80UCdsZsLqF0msONQ9P
+          href: https://api.spotify.com/v1/tracks/12Q80UCdsZsLqF0msONQ9P
+          id: 12Q80UCdsZsLqF0msONQ9P
+          is_local: false
+          is_playable: true
+          name: Hanging By A Moment
+          track_number: 10
+          type: track
+          uri: spotify:track:12Q80UCdsZsLqF0msONQ9P
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3W1TisZap6zxwYqXQSWh4a
+            href: https://api.spotify.com/v1/albums/3W1TisZap6zxwYqXQSWh4a
+            id: 3W1TisZap6zxwYqXQSWh4a
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730e56bab48a36e0e4ddf56b2f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020e56bab48a36e0e4ddf56b2f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510e56bab48a36e0e4ddf56b2f
+            is_playable: true
+            name: Early 2000s Coffee Shop
+            release_date: '2026-03-27'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:3W1TisZap6zxwYqXQSWh4a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3
+            href: https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3
+            id: 5PokPZn11xzZXyXSfnvIM3
+            name: Lifehouse
+            type: artist
+            uri: spotify:artist:5PokPZn11xzZXyXSfnvIM3
+          disc_number: 1
+          duration_ms: 216066
+          explicit: false
+          external_ids:
+            isrc: USDW10022031
+          external_urls:
+            spotify: https://open.spotify.com/track/4OMQCok1cJ1q91TMnKLEeO
+          href: https://api.spotify.com/v1/tracks/4OMQCok1cJ1q91TMnKLEeO
+          id: 4OMQCok1cJ1q91TMnKLEeO
+          is_local: false
+          is_playable: true
+          name: Hanging By A Moment
+          track_number: 32
+          type: track
+          uri: spotify:track:4OMQCok1cJ1q91TMnKLEeO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3
+              href: https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3
+              id: 5PokPZn11xzZXyXSfnvIM3
+              name: Lifehouse
+              type: artist
+              uri: spotify:artist:5PokPZn11xzZXyXSfnvIM3
+            external_urls:
+              spotify: https://open.spotify.com/album/4yILFkJhf0cdqu3RB460EP
+            href: https://api.spotify.com/v1/albums/4yILFkJhf0cdqu3RB460EP
+            id: 4yILFkJhf0cdqu3RB460EP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f0d02520f090f73a9f40f3b2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f0d02520f090f73a9f40f3b2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f0d02520f090f73a9f40f3b2
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2017-07-14'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:4yILFkJhf0cdqu3RB460EP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3
+            href: https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3
+            id: 5PokPZn11xzZXyXSfnvIM3
+            name: Lifehouse
+            type: artist
+            uri: spotify:artist:5PokPZn11xzZXyXSfnvIM3
+          disc_number: 1
+          duration_ms: 218178
+          explicit: false
+          external_ids:
+            isrc: USDW10022031
+          external_urls:
+            spotify: https://open.spotify.com/track/4kFWpw6BCY6Fazaxd74G7j
+          href: https://api.spotify.com/v1/tracks/4kFWpw6BCY6Fazaxd74G7j
+          id: 4kFWpw6BCY6Fazaxd74G7j
+          is_local: false
+          is_playable: true
+          name: Hanging By A Moment
+          track_number: 1
+          type: track
+          uri: spotify:track:4kFWpw6BCY6Fazaxd74G7j
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3
+              href: https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3
+              id: 5PokPZn11xzZXyXSfnvIM3
+              name: Lifehouse
+              type: artist
+              uri: spotify:artist:5PokPZn11xzZXyXSfnvIM3
+            external_urls:
+              spotify: https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k
+            href: https://api.spotify.com/v1/albums/1VKNHcrUppE8i5oAhg4o6k
+            id: 1VKNHcrUppE8i5oAhg4o6k
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d0494f682c986764e0bc629c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d0494f682c986764e0bc629c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d0494f682c986764e0bc629c
+            is_playable: true
+            name: No Name Face
+            release_date: '2000'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1VKNHcrUppE8i5oAhg4o6k
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3
+            href: https://api.spotify.com/v1/artists/5PokPZn11xzZXyXSfnvIM3
+            id: 5PokPZn11xzZXyXSfnvIM3
+            name: Lifehouse
+            type: artist
+            uri: spotify:artist:5PokPZn11xzZXyXSfnvIM3
+          disc_number: 1
+          duration_ms: 216066
+          explicit: false
+          external_ids:
+            isrc: USDW10022031
+          external_urls:
+            spotify: https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4
+          href: https://api.spotify.com/v1/tracks/0wqOReZDnrefefEsrIGeR4
+          id: 0wqOReZDnrefefEsrIGeR4
+          is_local: false
+          is_playable: true
+          name: Hanging By A Moment
+          track_number: 1
+          type: track
+          uri: spotify:track:0wqOReZDnrefefEsrIGeR4
+    isrc: USDW10022031

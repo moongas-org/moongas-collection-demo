@@ -53,3 +53,79 @@ mediaFileData:
   year: 2009
   duration: 280.3461
   modTime: 2026-09-01 01:03:53.914676+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1UDDeiefJTAYMMWFab9Rsh
+    trackId: 1UDDeiefJTAYMMWFab9Rsh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSUB0672302&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA
+              href: https://api.spotify.com/v1/artists/2K13AVg3bFpHSxDM1vJ0qA
+              id: 2K13AVg3bFpHSxDM1vJ0qA
+              name: CSS
+              type: artist
+              uri: spotify:artist:2K13AVg3bFpHSxDM1vJ0qA
+            external_urls:
+              spotify: https://open.spotify.com/album/5iaa3h5dYAAZ4lmghf3syq
+            href: https://api.spotify.com/v1/albums/5iaa3h5dYAAZ4lmghf3syq
+            id: 5iaa3h5dYAAZ4lmghf3syq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bc638dfa34181a4d4cf0514e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bc638dfa34181a4d4cf0514e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bc638dfa34181a4d4cf0514e
+            is_playable: true
+            name: Let's Make Love And Listen To Death From Above
+            release_date: '2006-08-08'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:5iaa3h5dYAAZ4lmghf3syq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA
+            href: https://api.spotify.com/v1/artists/2K13AVg3bFpHSxDM1vJ0qA
+            id: 2K13AVg3bFpHSxDM1vJ0qA
+            name: CSS
+            type: artist
+            uri: spotify:artist:2K13AVg3bFpHSxDM1vJ0qA
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2
+            href: https://api.spotify.com/v1/artists/1LcLsIWOl1Z8vo1wl6bxg2
+            id: 1LcLsIWOl1Z8vo1wl6bxg2
+            name: Spank Rock
+            type: artist
+            uri: spotify:artist:1LcLsIWOl1Z8vo1wl6bxg2
+          disc_number: 1
+          duration_ms: 270120
+          explicit: false
+          external_ids:
+            isrc: USSUB0672302
+          external_urls:
+            spotify: https://open.spotify.com/track/1UDDeiefJTAYMMWFab9Rsh
+          href: https://api.spotify.com/v1/tracks/1UDDeiefJTAYMMWFab9Rsh
+          id: 1UDDeiefJTAYMMWFab9Rsh
+          is_local: false
+          is_playable: true
+          name: Let's Make Love And Listen To Death From Above - Spank Rock Remix
+          track_number: 3
+          type: track
+          uri: spotify:track:1UDDeiefJTAYMMWFab9Rsh
+    isrc: USSUB0672302

@@ -239,3 +239,126 @@ mediaFileData:
   year: 1970
   duration: 293.208
   modTime: 2024-02-20 17:32:29.178657+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Bi9EKQ7Fv8lX9SKpKUw7G
+    trackId: 0Bi9EKQ7Fv8lX9SKpKUw7G
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM16901098&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg
+            href: https://api.spotify.com/v1/albums/1k7WkNHGPNPnri2tsowvtg
+            id: 1k7WkNHGPNPnri2tsowvtg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273871ab8561721e8967eda8269
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02871ab8561721e8967eda8269
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851871ab8561721e8967eda8269
+            is_playable: true
+            name: 70s 100 Hits
+            release_date: '2010-03-01'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:1k7WkNHGPNPnri2tsowvtg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE
+            href: https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE
+            id: 70cRZdQywnSFp9pnc2WTCE
+            name: Simon & Garfunkel
+            type: artist
+            uri: spotify:artist:70cRZdQywnSFp9pnc2WTCE
+          disc_number: 1
+          duration_ms: 295106
+          explicit: false
+          external_ids:
+            isrc: USSM16901098
+          external_urls:
+            spotify: https://open.spotify.com/track/0Bi9EKQ7Fv8lX9SKpKUw7G
+          href: https://api.spotify.com/v1/tracks/0Bi9EKQ7Fv8lX9SKpKUw7G
+          id: 0Bi9EKQ7Fv8lX9SKpKUw7G
+          is_local: false
+          is_playable: true
+          name: Bridge over Troubled Water
+          track_number: 20
+          type: track
+          uri: spotify:track:0Bi9EKQ7Fv8lX9SKpKUw7G
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2qlmtkBLyoBDkGRVcKh00D
+            href: https://api.spotify.com/v1/albums/2qlmtkBLyoBDkGRVcKh00D
+            id: 2qlmtkBLyoBDkGRVcKh00D
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739d6a490cb45234b1ed2463fc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029d6a490cb45234b1ed2463fc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519d6a490cb45234b1ed2463fc
+            is_playable: true
+            name: 70s Gems
+            release_date: '2010-03-29'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:2qlmtkBLyoBDkGRVcKh00D
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE
+            href: https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE
+            id: 70cRZdQywnSFp9pnc2WTCE
+            name: Simon & Garfunkel
+            type: artist
+            uri: spotify:artist:70cRZdQywnSFp9pnc2WTCE
+          disc_number: 1
+          duration_ms: 292933
+          explicit: false
+          external_ids:
+            isrc: USSM16901098
+          external_urls:
+            spotify: https://open.spotify.com/track/29F45YozpWALLpPsQ0TDr0
+          href: https://api.spotify.com/v1/tracks/29F45YozpWALLpPsQ0TDr0
+          id: 29F45YozpWALLpPsQ0TDr0
+          is_local: false
+          is_playable: true
+          name: Bridge over Troubled Water
+          track_number: 14
+          type: track
+          uri: spotify:track:29F45YozpWALLpPsQ0TDr0
+    isrc: USSM16901098

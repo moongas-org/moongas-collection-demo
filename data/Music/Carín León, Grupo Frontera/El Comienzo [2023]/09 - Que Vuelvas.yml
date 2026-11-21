@@ -34,3 +34,147 @@ mediaFileData:
   year: 2023
   duration: 169.464
   modTime: 2024-03-21 23:57:22.273779+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L
+    trackId: 6Um358vY92UBv5DloTRX9L
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQZWT32210000&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ
+              href: https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ
+              id: 66ihevNkSYNzRAl44dx6jJ
+              name: Carín León
+              type: artist
+              uri: spotify:artist:66ihevNkSYNzRAl44dx6jJ
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW
+              href: https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW
+              id: 6XkjpgcEsYab502Vr1bBeW
+              name: Grupo Frontera
+              type: artist
+              uri: spotify:artist:6XkjpgcEsYab502Vr1bBeW
+            external_urls:
+              spotify: https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j
+            href: https://api.spotify.com/v1/albums/3dLJKctfTGFr731SvtnS3j
+            id: 3dLJKctfTGFr731SvtnS3j
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dc0a8fe3f01dc516c2aa1d77
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dc0a8fe3f01dc516c2aa1d77
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dc0a8fe3f01dc516c2aa1d77
+            is_playable: true
+            name: Que Vuelvas
+            release_date: '2022-12-09'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:3dLJKctfTGFr731SvtnS3j
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ
+            href: https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ
+            id: 66ihevNkSYNzRAl44dx6jJ
+            name: Carín León
+            type: artist
+            uri: spotify:artist:66ihevNkSYNzRAl44dx6jJ
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW
+            href: https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW
+            id: 6XkjpgcEsYab502Vr1bBeW
+            name: Grupo Frontera
+            type: artist
+            uri: spotify:artist:6XkjpgcEsYab502Vr1bBeW
+          disc_number: 1
+          duration_ms: 169418
+          explicit: false
+          external_ids:
+            isrc: QZWT32210000
+          external_urls:
+            spotify: https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L
+          href: https://api.spotify.com/v1/tracks/6Um358vY92UBv5DloTRX9L
+          id: 6Um358vY92UBv5DloTRX9L
+          is_local: false
+          is_playable: true
+          name: Que Vuelvas
+          track_number: 1
+          type: track
+          uri: spotify:track:6Um358vY92UBv5DloTRX9L
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW
+              href: https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW
+              id: 6XkjpgcEsYab502Vr1bBeW
+              name: Grupo Frontera
+              type: artist
+              uri: spotify:artist:6XkjpgcEsYab502Vr1bBeW
+            external_urls:
+              spotify: https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY
+            href: https://api.spotify.com/v1/albums/6Zk9W9Ab3CnhttW5nBOUnY
+            id: 6Zk9W9Ab3CnhttW5nBOUnY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27385970fcddb682441dfa7bcf7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0285970fcddb682441dfa7bcf7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485185970fcddb682441dfa7bcf7
+            is_playable: true
+            name: El Comienzo
+            release_date: '2023-08-25'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:6Zk9W9Ab3CnhttW5nBOUnY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW
+            href: https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW
+            id: 6XkjpgcEsYab502Vr1bBeW
+            name: Grupo Frontera
+            type: artist
+            uri: spotify:artist:6XkjpgcEsYab502Vr1bBeW
+          - external_urls:
+              spotify: https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ
+            href: https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ
+            id: 66ihevNkSYNzRAl44dx6jJ
+            name: Carín León
+            type: artist
+            uri: spotify:artist:66ihevNkSYNzRAl44dx6jJ
+          disc_number: 1
+          duration_ms: 169418
+          explicit: false
+          external_ids:
+            isrc: QZWT32210000
+          external_urls:
+            spotify: https://open.spotify.com/track/44vHtuBiZz2phwEwv1Rabu
+          href: https://api.spotify.com/v1/tracks/44vHtuBiZz2phwEwv1Rabu
+          id: 44vHtuBiZz2phwEwv1Rabu
+          is_local: false
+          is_playable: true
+          name: QUE VUELVAS
+          track_number: 10
+          type: track
+          uri: spotify:track:44vHtuBiZz2phwEwv1Rabu
+    isrc: QZWT32210000

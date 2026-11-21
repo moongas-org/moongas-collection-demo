@@ -61,3 +61,180 @@ mediaFileData:
   year: 1982
   duration: 170.29220833333332
   modTime: 2023-05-13 21:07:43.400000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2aFVxImiOQXiSUsWs4Rm8w
+    trackId: 2aFVxImiOQXiSUsWs4Rm8w
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11602233&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+              href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+              id: 08GQAI4eElDnROBrJRGE0X
+              name: Fleetwood Mac
+              type: artist
+              uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+            external_urls:
+              spotify: https://open.spotify.com/album/2hYZRlvqKGm0w43Ek4MLLQ
+            href: https://api.spotify.com/v1/albums/2hYZRlvqKGm0w43Ek4MLLQ
+            id: 2hYZRlvqKGm0w43Ek4MLLQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735e5351bd5da04ddcf02914d8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025e5351bd5da04ddcf02914d8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515e5351bd5da04ddcf02914d8
+            is_playable: true
+            name: Fleetwood Mac 1975 to 1987
+            release_date: '2019-11-29'
+            release_date_precision: day
+            total_tracks: 69
+            type: album
+            uri: spotify:album:2hYZRlvqKGm0w43Ek4MLLQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 5
+          duration_ms: 172320
+          explicit: false
+          external_ids:
+            isrc: USRH11602233
+          external_urls:
+            spotify: https://open.spotify.com/track/2aFVxImiOQXiSUsWs4Rm8w
+          href: https://api.spotify.com/v1/tracks/2aFVxImiOQXiSUsWs4Rm8w
+          id: 2aFVxImiOQXiSUsWs4Rm8w
+          is_local: false
+          is_playable: true
+          name: Empire State - 2016 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:2aFVxImiOQXiSUsWs4Rm8w
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+              href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+              id: 08GQAI4eElDnROBrJRGE0X
+              name: Fleetwood Mac
+              type: artist
+              uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+            external_urls:
+              spotify: https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG
+            href: https://api.spotify.com/v1/albums/1dZNgJ3Gh3wp6ohzk29JUG
+            id: 1dZNgJ3Gh3wp6ohzk29JUG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27306a0a0ab1f8d31eafa7704e4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0206a0a0ab1f8d31eafa7704e4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485106a0a0ab1f8d31eafa7704e4
+            is_playable: true
+            name: Mirage (Deluxe Edition)
+            release_date: '1982-06-18'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:1dZNgJ3Gh3wp6ohzk29JUG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 172320
+          explicit: false
+          external_ids:
+            isrc: USRH11602233
+          external_urls:
+            spotify: https://open.spotify.com/track/1jYMhxQ2OY1HavN7n5AyIq
+          href: https://api.spotify.com/v1/tracks/1jYMhxQ2OY1HavN7n5AyIq
+          id: 1jYMhxQ2OY1HavN7n5AyIq
+          is_local: false
+          is_playable: true
+          name: Empire State - 2016 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:1jYMhxQ2OY1HavN7n5AyIq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1zn9bIbxlLB0SrNgia1cFW
+            href: https://api.spotify.com/v1/albums/1zn9bIbxlLB0SrNgia1cFW
+            id: 1zn9bIbxlLB0SrNgia1cFW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ea8836990331b81a64977298
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ea8836990331b81a64977298
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ea8836990331b81a64977298
+            is_playable: true
+            name: Songs About New York
+            release_date: '2025-08-09'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:1zn9bIbxlLB0SrNgia1cFW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 172320
+          explicit: false
+          external_ids:
+            isrc: USRH11602233
+          external_urls:
+            spotify: https://open.spotify.com/track/7b5azgLVOtlLo6TF9HzaAN
+          href: https://api.spotify.com/v1/tracks/7b5azgLVOtlLo6TF9HzaAN
+          id: 7b5azgLVOtlLo6TF9HzaAN
+          is_local: false
+          is_playable: true
+          name: Empire State - 2016 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:7b5azgLVOtlLo6TF9HzaAN
+    isrc: USRH11602233

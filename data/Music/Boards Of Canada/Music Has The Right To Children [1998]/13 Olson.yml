@@ -48,3 +48,126 @@ mediaFileData:
   year: 1998
   duration: 93.805675
   modTime: 2025-12-09 02:56:26.143670+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0pn0lL6I9rMHjUP3GSsTHt
+    trackId: 0pn0lL6I9rMHjUP3GSsTHt
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPW9800022&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ
+              href: https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ
+              id: 65dGLGjkw3UbddUg2GKQoZ
+              name: BADBADNOTGOOD
+              type: artist
+              uri: spotify:artist:65dGLGjkw3UbddUg2GKQoZ
+            external_urls:
+              spotify: https://open.spotify.com/album/1J3enVyckc2vOR0xOK1jZX
+            href: https://api.spotify.com/v1/albums/1J3enVyckc2vOR0xOK1jZX
+            id: 1J3enVyckc2vOR0xOK1jZX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27349a68a1743c7dbfd2669a06f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0249a68a1743c7dbfd2669a06f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485149a68a1743c7dbfd2669a06f
+            is_playable: true
+            name: 'Late Night Tales: Badbadnotgood'
+            release_date: '2017-07-28'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1J3enVyckc2vOR0xOK1jZX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1
+            href: https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1
+            id: 2VAvhf61GgLYmC6C8anyX1
+            name: Boards of Canada
+            type: artist
+            uri: spotify:artist:2VAvhf61GgLYmC6C8anyX1
+          disc_number: 1
+          duration_ms: 91706
+          explicit: false
+          external_ids:
+            isrc: GBBPW9800022
+          external_urls:
+            spotify: https://open.spotify.com/track/0pn0lL6I9rMHjUP3GSsTHt
+          href: https://api.spotify.com/v1/tracks/0pn0lL6I9rMHjUP3GSsTHt
+          id: 0pn0lL6I9rMHjUP3GSsTHt
+          is_local: false
+          is_playable: true
+          name: Olson
+          track_number: 1
+          type: track
+          uri: spotify:track:0pn0lL6I9rMHjUP3GSsTHt
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1
+              href: https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1
+              id: 2VAvhf61GgLYmC6C8anyX1
+              name: Boards of Canada
+              type: artist
+              uri: spotify:artist:2VAvhf61GgLYmC6C8anyX1
+            external_urls:
+              spotify: https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU
+            href: https://api.spotify.com/v1/albums/6LZiNXaDvhzvnXUubVOmNU
+            id: 6LZiNXaDvhzvnXUubVOmNU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739effb26eea559ce6f3fed751
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029effb26eea559ce6f3fed751
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519effb26eea559ce6f3fed751
+            is_playable: true
+            name: Music Has The Right To Children
+            release_date: '1998-04-20'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:6LZiNXaDvhzvnXUubVOmNU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1
+            href: https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1
+            id: 2VAvhf61GgLYmC6C8anyX1
+            name: Boards of Canada
+            type: artist
+            uri: spotify:artist:2VAvhf61GgLYmC6C8anyX1
+          disc_number: 1
+          duration_ms: 91706
+          explicit: false
+          external_ids:
+            isrc: GBBPW9800022
+          external_urls:
+            spotify: https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9
+          href: https://api.spotify.com/v1/tracks/5DZ4M3yMat79ok25rZHuA9
+          id: 5DZ4M3yMat79ok25rZHuA9
+          is_local: false
+          is_playable: true
+          name: Olson
+          track_number: 13
+          type: track
+          uri: spotify:track:5DZ4M3yMat79ok25rZHuA9
+    isrc: GBBPW9800022

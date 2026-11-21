@@ -100,3 +100,72 @@ mediaFileData:
   year: 1998
   duration: 289.410625
   modTime: 2026-10-23 21:09:51.811681+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4IGUhtEPrvDVQfpHp9QFPj
+    trackId: 4IGUhtEPrvDVQfpHp9QFPj
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE0500660&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+              href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+              id: 4gzpq5DPGxSnKTe4SA8HAU
+              name: Coldplay
+              type: artist
+              uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+            external_urls:
+              spotify: https://open.spotify.com/album/0tT0oYLzbDAyFfb0ilJCv4
+            href: https://api.spotify.com/v1/albums/0tT0oYLzbDAyFfb0ilJCv4
+            id: 0tT0oYLzbDAyFfb0ilJCv4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734b7a9537a095a374f96f4b9f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024b7a9537a095a374f96f4b9f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514b7a9537a095a374f96f4b9f
+            is_playable: true
+            name: Speed of Sound
+            release_date: '2005-05-20'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:0tT0oYLzbDAyFfb0ilJCv4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 284998
+          explicit: false
+          external_ids:
+            isrc: GBAYE0500660
+          external_urls:
+            spotify: https://open.spotify.com/track/4IGUhtEPrvDVQfpHp9QFPj
+          href: https://api.spotify.com/v1/tracks/4IGUhtEPrvDVQfpHp9QFPj
+          id: 4IGUhtEPrvDVQfpHp9QFPj
+          is_local: false
+          is_playable: true
+          name: Speed of Sound - Live
+          track_number: 1
+          type: track
+          uri: spotify:track:4IGUhtEPrvDVQfpHp9QFPj
+    isrc: GBAYE0500660

@@ -89,3 +89,288 @@ mediaFileData:
   year: 1990
   duration: 250.38367346938776
   modTime: 2026-03-23 17:16:55.965818+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/02EQ9okxs4KmJMQORGhMC6
+    trackId: 02EQ9okxs4KmJMQORGhMC6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AMXF159100047&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AMXF159100047&type=track
+        offset: 0
+        previous:
+        total: 91
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+              href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+              id: 7okwEbXzyT2VffBmyQBWLz
+              name: Maná
+              type: artist
+              uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+            external_urls:
+              spotify: https://open.spotify.com/album/1IHAIEqK9h7deFQmHEbYCv
+            href: https://api.spotify.com/v1/albums/1IHAIEqK9h7deFQmHEbYCv
+            id: 1IHAIEqK9h7deFQmHEbYCv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372d1c1c6985b9e36592f7fed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272d1c1c6985b9e36592f7fed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172d1c1c6985b9e36592f7fed
+            is_playable: true
+            name: Rayando el Sol
+            release_date: '1990-07-01'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:1IHAIEqK9h7deFQmHEbYCv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+            href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+            id: 7okwEbXzyT2VffBmyQBWLz
+            name: Maná
+            type: artist
+            uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+          disc_number: 1
+          duration_ms: 250120
+          explicit: false
+          external_ids:
+            isrc: MXF159100047
+          external_urls:
+            spotify: https://open.spotify.com/track/02EQ9okxs4KmJMQORGhMC6
+          href: https://api.spotify.com/v1/tracks/02EQ9okxs4KmJMQORGhMC6
+          id: 02EQ9okxs4KmJMQORGhMC6
+          is_local: false
+          is_playable: true
+          name: Rayando el Sol
+          track_number: 1
+          type: track
+          uri: spotify:track:02EQ9okxs4KmJMQORGhMC6
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+              href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+              id: 7okwEbXzyT2VffBmyQBWLz
+              name: Maná
+              type: artist
+              uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+            external_urls:
+              spotify: https://open.spotify.com/album/2GxfOiZVUUKshhA0t08WxV
+            href: https://api.spotify.com/v1/albums/2GxfOiZVUUKshhA0t08WxV
+            id: 2GxfOiZVUUKshhA0t08WxV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b7140c6bb06fef5a1a7c26ff
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b7140c6bb06fef5a1a7c26ff
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b7140c6bb06fef5a1a7c26ff
+            is_playable: true
+            name: Vivir Sin Aire Tour
+            release_date: '2026-05-29'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2GxfOiZVUUKshhA0t08WxV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+            href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+            id: 7okwEbXzyT2VffBmyQBWLz
+            name: Maná
+            type: artist
+            uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+          disc_number: 1
+          duration_ms: 250120
+          explicit: false
+          external_ids:
+            isrc: MXF159100047
+          external_urls:
+            spotify: https://open.spotify.com/track/2Zv0ZP3WNiuDw0n46hb7mq
+          href: https://api.spotify.com/v1/tracks/2Zv0ZP3WNiuDw0n46hb7mq
+          id: 2Zv0ZP3WNiuDw0n46hb7mq
+          is_local: false
+          is_playable: true
+          name: Rayando el sol
+          track_number: 17
+          type: track
+          uri: spotify:track:2Zv0ZP3WNiuDw0n46hb7mq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2ONiEIRZ6FC7xuRstJWxKP
+            href: https://api.spotify.com/v1/albums/2ONiEIRZ6FC7xuRstJWxKP
+            id: 2ONiEIRZ6FC7xuRstJWxKP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739d3ab4a85cc8540b273d5988
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029d3ab4a85cc8540b273d5988
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519d3ab4a85cc8540b273d5988
+            is_playable: true
+            name: Campechanos
+            release_date: '2023-08-18'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:2ONiEIRZ6FC7xuRstJWxKP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+            href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+            id: 7okwEbXzyT2VffBmyQBWLz
+            name: Maná
+            type: artist
+            uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+          disc_number: 1
+          duration_ms: 250120
+          explicit: false
+          external_ids:
+            isrc: MXF159100047
+          external_urls:
+            spotify: https://open.spotify.com/track/3Bvvn0sfRyqJEVa2FiT2ID
+          href: https://api.spotify.com/v1/tracks/3Bvvn0sfRyqJEVa2FiT2ID
+          id: 3Bvvn0sfRyqJEVa2FiT2ID
+          is_local: false
+          is_playable: true
+          name: Rayando el sol
+          track_number: 15
+          type: track
+          uri: spotify:track:3Bvvn0sfRyqJEVa2FiT2ID
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+              href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+              id: 7okwEbXzyT2VffBmyQBWLz
+              name: Maná
+              type: artist
+              uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+            external_urls:
+              spotify: https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY
+            href: https://api.spotify.com/v1/albums/0umE2yr7H5jo91x7xhjoXY
+            id: 0umE2yr7H5jo91x7xhjoXY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738f301c227a7a88dd9e9f0dc0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028f301c227a7a88dd9e9f0dc0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518f301c227a7a88dd9e9f0dc0
+            is_playable: true
+            name: Falta Amor
+            release_date: '1990-07-02'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0umE2yr7H5jo91x7xhjoXY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+            href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+            id: 7okwEbXzyT2VffBmyQBWLz
+            name: Maná
+            type: artist
+            uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+          disc_number: 1
+          duration_ms: 250106
+          explicit: false
+          external_ids:
+            isrc: MXF159100047
+          external_urls:
+            spotify: https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV
+          href: https://api.spotify.com/v1/tracks/4Ofg5uuH7qqDIXpAJMpXZV
+          id: 4Ofg5uuH7qqDIXpAJMpXZV
+          is_local: false
+          is_playable: true
+          name: Rayando el Sol
+          track_number: 3
+          type: track
+          uri: spotify:track:4Ofg5uuH7qqDIXpAJMpXZV
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+              href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+              id: 7okwEbXzyT2VffBmyQBWLz
+              name: Maná
+              type: artist
+              uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+            external_urls:
+              spotify: https://open.spotify.com/album/0T6xjJtpq2ZFsGb8WVBPfO
+            href: https://api.spotify.com/v1/albums/0T6xjJtpq2ZFsGb8WVBPfO
+            id: 0T6xjJtpq2ZFsGb8WVBPfO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f7ade153bfa6a53213874da2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f7ade153bfa6a53213874da2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f7ade153bfa6a53213874da2
+            is_playable: true
+            name: 'Você É Minha Religião: O Melhor Do Maná (Deluxe Version)'
+            release_date: '2012-10-26'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0T6xjJtpq2ZFsGb8WVBPfO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz
+            href: https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz
+            id: 7okwEbXzyT2VffBmyQBWLz
+            name: Maná
+            type: artist
+            uri: spotify:artist:7okwEbXzyT2VffBmyQBWLz
+          disc_number: 1
+          duration_ms: 250120
+          explicit: false
+          external_ids:
+            isrc: MXF159100047
+          external_urls:
+            spotify: https://open.spotify.com/track/7svv80OeI8fsH30dx5UFCu
+          href: https://api.spotify.com/v1/tracks/7svv80OeI8fsH30dx5UFCu
+          id: 7svv80OeI8fsH30dx5UFCu
+          is_local: false
+          is_playable: true
+          name: Rayando el Sol
+          track_number: 18
+          type: track
+          uri: spotify:track:7svv80OeI8fsH30dx5UFCu
+    isrc: MXF159100047

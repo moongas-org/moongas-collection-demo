@@ -49,3 +49,126 @@ mediaFileData:
   year: 2004
   duration: 247.968
   modTime: 2024-11-02 21:50:53.808013+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2AL7ojNA1DEhHzscyhHd3u
+    trackId: 2AL7ojNA1DEhHzscyhHd3u
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBALB0100007&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/6RxR1Z0j7VQbW4skPiwJ5W
+            href: https://api.spotify.com/v1/albums/6RxR1Z0j7VQbW4skPiwJ5W
+            id: 6RxR1Z0j7VQbW4skPiwJ5W
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e283588c5e8cfcfa2d072a9d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e283588c5e8cfcfa2d072a9d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e283588c5e8cfcfa2d072a9d
+            is_playable: true
+            name: Close to Me (Acoustic Version)
+            release_date: '2024-07-19'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:6RxR1Z0j7VQbW4skPiwJ5W
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 224106
+          explicit: false
+          external_ids:
+            isrc: GBALB0100007
+          external_urls:
+            spotify: https://open.spotify.com/track/2AL7ojNA1DEhHzscyhHd3u
+          href: https://api.spotify.com/v1/tracks/2AL7ojNA1DEhHzscyhHd3u
+          id: 2AL7ojNA1DEhHzscyhHd3u
+          is_local: false
+          is_playable: true
+          name: Close to Me - Acoustic Version
+          track_number: 1
+          type: track
+          uri: spotify:track:2AL7ojNA1DEhHzscyhHd3u
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/6RUmZAp1uxx3Mh29DYa0jG
+            href: https://api.spotify.com/v1/albums/6RUmZAp1uxx3Mh29DYa0jG
+            id: 6RUmZAp1uxx3Mh29DYa0jG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732d7329367b9f1c7c3c09945c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022d7329367b9f1c7c3c09945c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512d7329367b9f1c7c3c09945c
+            is_playable: true
+            name: Acoustic Hits
+            release_date: '2017-04-22'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:6RUmZAp1uxx3Mh29DYa0jG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 224106
+          explicit: false
+          external_ids:
+            isrc: GBALB0100007
+          external_urls:
+            spotify: https://open.spotify.com/track/6km6Vhkdy0Xjq32GWBqTFr
+          href: https://api.spotify.com/v1/tracks/6km6Vhkdy0Xjq32GWBqTFr
+          id: 6km6Vhkdy0Xjq32GWBqTFr
+          is_local: false
+          is_playable: true
+          name: Close to Me - Acoustic Version
+          track_number: 7
+          type: track
+          uri: spotify:track:6km6Vhkdy0Xjq32GWBqTFr
+    isrc: GBALB0100007

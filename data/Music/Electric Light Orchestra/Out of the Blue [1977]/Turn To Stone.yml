@@ -137,3 +137,72 @@ mediaFileData:
   year: 1977
   duration: 230.21714285714285
   modTime: 2023-02-05 10:05:43.510000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5gQ1GySAnA3YcaRpzu2EqK
+    trackId: 5gQ1GySAnA3YcaRpzu2EqK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVR10400058&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1l76Dze67c0pEL9yv8iNYP
+              href: https://api.spotify.com/v1/artists/1l76Dze67c0pEL9yv8iNYP
+              id: 1l76Dze67c0pEL9yv8iNYP
+              name: ELO Part II
+              type: artist
+              uri: spotify:artist:1l76Dze67c0pEL9yv8iNYP
+            external_urls:
+              spotify: https://open.spotify.com/album/26UAsAfmK5NPnkbl6OVLNM
+            href: https://api.spotify.com/v1/albums/26UAsAfmK5NPnkbl6OVLNM
+            id: 26UAsAfmK5NPnkbl6OVLNM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bb1a358dde2d80230782dff2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bb1a358dde2d80230782dff2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bb1a358dde2d80230782dff2
+            is_playable: true
+            name: E.L.O.'s Greatest Hits Live
+            release_date: '1992-07-14'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:26UAsAfmK5NPnkbl6OVLNM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1l76Dze67c0pEL9yv8iNYP
+            href: https://api.spotify.com/v1/artists/1l76Dze67c0pEL9yv8iNYP
+            id: 1l76Dze67c0pEL9yv8iNYP
+            name: ELO Part II
+            type: artist
+            uri: spotify:artist:1l76Dze67c0pEL9yv8iNYP
+          disc_number: 1
+          duration_ms: 230773
+          explicit: false
+          external_ids:
+            isrc: USVR10400058
+          external_urls:
+            spotify: https://open.spotify.com/track/5gQ1GySAnA3YcaRpzu2EqK
+          href: https://api.spotify.com/v1/tracks/5gQ1GySAnA3YcaRpzu2EqK
+          id: 5gQ1GySAnA3YcaRpzu2EqK
+          is_local: false
+          is_playable: true
+          name: Turn To Stone
+          track_number: 2
+          type: track
+          uri: spotify:track:5gQ1GySAnA3YcaRpzu2EqK
+    isrc: USVR10400058

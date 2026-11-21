@@ -65,3 +65,126 @@ mediaFileData:
   year: 2022
   duration: 165.864
   modTime: 2024-11-12 22:41:52.527925+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e
+    trackId: 4Dvkj6JhhA12EX05fT7y2e
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM12200612&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3
+              href: https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3
+              id: 6KImCVD70vtIoJWnq6nGn3
+              name: Harry Styles
+              type: artist
+              uri: spotify:artist:6KImCVD70vtIoJWnq6nGn3
+            external_urls:
+              spotify: https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h
+            href: https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h
+            id: 5r36AJ6VOJtp00oxSkBZ5h
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27382ce362511fb3d9dda6578ee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0282ce362511fb3d9dda6578ee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485182ce362511fb3d9dda6578ee
+            is_playable: true
+            name: Harry's House
+            release_date: '2022-05-20'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5r36AJ6VOJtp00oxSkBZ5h
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3
+            href: https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3
+            id: 6KImCVD70vtIoJWnq6nGn3
+            name: Harry Styles
+            type: artist
+            uri: spotify:artist:6KImCVD70vtIoJWnq6nGn3
+          disc_number: 1
+          duration_ms: 167303
+          explicit: false
+          external_ids:
+            isrc: USSM12200612
+          external_urls:
+            spotify: https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e
+          href: https://api.spotify.com/v1/tracks/4Dvkj6JhhA12EX05fT7y2e
+          id: 4Dvkj6JhhA12EX05fT7y2e
+          is_local: false
+          is_playable: true
+          name: As It Was
+          track_number: 4
+          type: track
+          uri: spotify:track:4Dvkj6JhhA12EX05fT7y2e
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2UaOLi9cF5BGNx3wxHSJ9q
+            href: https://api.spotify.com/v1/albums/2UaOLi9cF5BGNx3wxHSJ9q
+            id: 2UaOLi9cF5BGNx3wxHSJ9q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cbf220dc07db0596932e285a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cbf220dc07db0596932e285a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cbf220dc07db0596932e285a
+            is_playable: true
+            name: 'Mundial 2026: Copa de Fútbol del Mundo 2026'
+            release_date: '2026-07-15'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:2UaOLi9cF5BGNx3wxHSJ9q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3
+            href: https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3
+            id: 6KImCVD70vtIoJWnq6nGn3
+            name: Harry Styles
+            type: artist
+            uri: spotify:artist:6KImCVD70vtIoJWnq6nGn3
+          disc_number: 1
+          duration_ms: 167303
+          explicit: false
+          external_ids:
+            isrc: USSM12200612
+          external_urls:
+            spotify: https://open.spotify.com/track/3CfIbBHeuXyciP7lduuTyy
+          href: https://api.spotify.com/v1/tracks/3CfIbBHeuXyciP7lduuTyy
+          id: 3CfIbBHeuXyciP7lduuTyy
+          is_local: false
+          is_playable: true
+          name: As It Was
+          track_number: 33
+          type: track
+          uri: spotify:track:3CfIbBHeuXyciP7lduuTyy
+    isrc: USSM12200612

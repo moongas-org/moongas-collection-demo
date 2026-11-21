@@ -183,3 +183,126 @@ mediaFileData:
   year: 1979
   duration: 229.056
   modTime: 2025-04-11 17:15:26.978760+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/554WXNAJ1npssPdxxahRrT
+    trackId: 554WXNAJ1npssPdxxahRrT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19919192&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0
+              href: https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0
+              id: 1Mxqyy3pSjf8kZZL4QVxS0
+              name: Frank Sinatra
+              type: artist
+              uri: spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0
+            external_urls:
+              spotify: https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv
+            href: https://api.spotify.com/v1/albums/4mql5hi9two0Dm5QriSqQv
+            id: 4mql5hi9two0Dm5QriSqQv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dfe1a7906462bc581efbf7ea
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dfe1a7906462bc581efbf7ea
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dfe1a7906462bc581efbf7ea
+            is_playable: true
+            name: The Columbia Years (1943-1952) The Complete Recordings
+            release_date: '1993-10-17'
+            release_date_precision: day
+            total_tracks: 285
+            type: album
+            uri: spotify:album:4mql5hi9two0Dm5QriSqQv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0
+            href: https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0
+            id: 1Mxqyy3pSjf8kZZL4QVxS0
+            name: Frank Sinatra
+            type: artist
+            uri: spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0
+          disc_number: 7
+          duration_ms: 218200
+          explicit: false
+          external_ids:
+            isrc: USSM19919192
+          external_urls:
+            spotify: https://open.spotify.com/track/554WXNAJ1npssPdxxahRrT
+          href: https://api.spotify.com/v1/tracks/554WXNAJ1npssPdxxahRrT
+          id: 554WXNAJ1npssPdxxahRrT
+          is_local: false
+          is_playable: true
+          name: Night And Day (Show Opening)
+          track_number: 11
+          type: track
+          uri: spotify:track:554WXNAJ1npssPdxxahRrT
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0
+              href: https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0
+              id: 1Mxqyy3pSjf8kZZL4QVxS0
+              name: Frank Sinatra
+              type: artist
+              uri: spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0
+            external_urls:
+              spotify: https://open.spotify.com/album/4Yuqqoh0zmU36WiZo2C5Bf
+            href: https://api.spotify.com/v1/albums/4Yuqqoh0zmU36WiZo2C5Bf
+            id: 4Yuqqoh0zmU36WiZo2C5Bf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ac3c408fbd47b9f9b6effe91
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ac3c408fbd47b9f9b6effe91
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ac3c408fbd47b9f9b6effe91
+            is_playable: true
+            name: 'The Columbia Years (1943-1952): The Complete Recordings: Volume 7'
+            release_date: '2013-04-09'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:4Yuqqoh0zmU36WiZo2C5Bf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0
+            href: https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0
+            id: 1Mxqyy3pSjf8kZZL4QVxS0
+            name: Frank Sinatra
+            type: artist
+            uri: spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0
+          disc_number: 1
+          duration_ms: 218200
+          explicit: false
+          external_ids:
+            isrc: USSM19919192
+          external_urls:
+            spotify: https://open.spotify.com/track/374oxM7qecHcbznrEzJKwq
+          href: https://api.spotify.com/v1/tracks/374oxM7qecHcbznrEzJKwq
+          id: 374oxM7qecHcbznrEzJKwq
+          is_local: false
+          is_playable: true
+          name: Night And Day (Show Opening)
+          track_number: 11
+          type: track
+          uri: spotify:track:374oxM7qecHcbznrEzJKwq
+    isrc: USSM19919192

@@ -41,3 +41,126 @@ mediaFileData:
   year: 2008
   duration: 127.86938775510204
   modTime: 2024-02-07 20:24:35.130348+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1RpH5WXeWMBQkyO4NFZOs2
+    trackId: 1RpH5WXeWMBQkyO4NFZOs2
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS0700525&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx
+              href: https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx
+              id: 5BvJzeQpmsdsFp4HGUYUEx
+              name: Vampire Weekend
+              type: artist
+              uri: spotify:artist:5BvJzeQpmsdsFp4HGUYUEx
+            external_urls:
+              spotify: https://open.spotify.com/album/19aVS0GYRKKGUPBIE7GajJ
+            href: https://api.spotify.com/v1/albums/19aVS0GYRKKGUPBIE7GajJ
+            id: 19aVS0GYRKKGUPBIE7GajJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cce6c8a502268f1e1438d3db
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cce6c8a502268f1e1438d3db
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cce6c8a502268f1e1438d3db
+            is_playable: true
+            name: Mansard Roof
+            release_date: '2007-10-22'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:19aVS0GYRKKGUPBIE7GajJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx
+            href: https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx
+            id: 5BvJzeQpmsdsFp4HGUYUEx
+            name: Vampire Weekend
+            type: artist
+            uri: spotify:artist:5BvJzeQpmsdsFp4HGUYUEx
+          disc_number: 1
+          duration_ms: 127666
+          explicit: false
+          external_ids:
+            isrc: GBBKS0700525
+          external_urls:
+            spotify: https://open.spotify.com/track/1RpH5WXeWMBQkyO4NFZOs2
+          href: https://api.spotify.com/v1/tracks/1RpH5WXeWMBQkyO4NFZOs2
+          id: 1RpH5WXeWMBQkyO4NFZOs2
+          is_local: false
+          is_playable: true
+          name: Mansard Roof
+          track_number: 1
+          type: track
+          uri: spotify:track:1RpH5WXeWMBQkyO4NFZOs2
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx
+              href: https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx
+              id: 5BvJzeQpmsdsFp4HGUYUEx
+              name: Vampire Weekend
+              type: artist
+              uri: spotify:artist:5BvJzeQpmsdsFp4HGUYUEx
+            external_urls:
+              spotify: https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY
+            href: https://api.spotify.com/v1/albums/7n8NJkGKAl2np1bXiRn0CY
+            id: 7n8NJkGKAl2np1bXiRn0CY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eabfe5d94aad05cb6485444b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eabfe5d94aad05cb6485444b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eabfe5d94aad05cb6485444b
+            is_playable: true
+            name: Vampire Weekend
+            release_date: '2008-01-29'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7n8NJkGKAl2np1bXiRn0CY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx
+            href: https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx
+            id: 5BvJzeQpmsdsFp4HGUYUEx
+            name: Vampire Weekend
+            type: artist
+            uri: spotify:artist:5BvJzeQpmsdsFp4HGUYUEx
+          disc_number: 1
+          duration_ms: 127666
+          explicit: false
+          external_ids:
+            isrc: GBBKS0700525
+          external_urls:
+            spotify: https://open.spotify.com/track/30CU4qvNUUtd8GN4zDV5Oz
+          href: https://api.spotify.com/v1/tracks/30CU4qvNUUtd8GN4zDV5Oz
+          id: 30CU4qvNUUtd8GN4zDV5Oz
+          is_local: false
+          is_playable: true
+          name: Mansard Roof
+          track_number: 1
+          type: track
+          uri: spotify:track:30CU4qvNUUtd8GN4zDV5Oz
+    isrc: GBBKS0700525

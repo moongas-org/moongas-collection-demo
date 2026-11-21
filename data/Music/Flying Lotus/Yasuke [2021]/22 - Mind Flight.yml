@@ -34,3 +34,72 @@ mediaFileData:
   year: 2024
   duration: 173.76
   modTime: 2025-03-23 19:57:40.276107+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0n1yf8ylWFwbkxDtsWWdOK
+    trackId: 0n1yf8ylWFwbkxDtsWWdOK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPW2100124&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+              href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+              id: 29XOeO6KIWxGthejQqn793
+              name: Flying Lotus
+              type: artist
+              uri: spotify:artist:29XOeO6KIWxGthejQqn793
+            external_urls:
+              spotify: https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX
+            href: https://api.spotify.com/v1/albums/0tOVrY13drf4AGBWtSIkgX
+            id: 0tOVrY13drf4AGBWtSIkgX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f0ada3febcf50c3fb4e759b5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f0ada3febcf50c3fb4e759b5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f0ada3febcf50c3fb4e759b5
+            is_playable: true
+            name: Yasuke
+            release_date: '2021-04-30'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:0tOVrY13drf4AGBWtSIkgX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+            href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+            id: 29XOeO6KIWxGthejQqn793
+            name: Flying Lotus
+            type: artist
+            uri: spotify:artist:29XOeO6KIWxGthejQqn793
+          disc_number: 1
+          duration_ms: 173720
+          explicit: false
+          external_ids:
+            isrc: GBBPW2100124
+          external_urls:
+            spotify: https://open.spotify.com/track/0n1yf8ylWFwbkxDtsWWdOK
+          href: https://api.spotify.com/v1/tracks/0n1yf8ylWFwbkxDtsWWdOK
+          id: 0n1yf8ylWFwbkxDtsWWdOK
+          is_local: false
+          is_playable: true
+          name: Mind Flight
+          track_number: 22
+          type: track
+          uri: spotify:track:0n1yf8ylWFwbkxDtsWWdOK
+    isrc: GBBPW2100124

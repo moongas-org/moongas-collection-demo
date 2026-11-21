@@ -57,3 +57,126 @@ mediaFileData:
   year: 1999
   duration: 232.698775
   modTime: 2023-04-23 23:43:42.840000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0VpJ50Iuj2ebZSuBjQPn89
+    trackId: 0VpJ50Iuj2ebZSuBjQPn89
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD9926011&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/6LvzAzZDazPb9hKNjj1JRN
+            href: https://api.spotify.com/v1/albums/6LvzAzZDazPb9hKNjj1JRN
+            id: 6LvzAzZDazPb9hKNjj1JRN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738dd01f5c9071f55fd7c7471b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028dd01f5c9071f55fd7c7471b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518dd01f5c9071f55fd7c7471b
+            is_playable: true
+            name: Terror Twilight
+            release_date: '1999-06-08'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6LvzAzZDazPb9hKNjj1JRN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 232533
+          explicit: false
+          external_ids:
+            isrc: USMTD9926011
+          external_urls:
+            spotify: https://open.spotify.com/track/0VpJ50Iuj2ebZSuBjQPn89
+          href: https://api.spotify.com/v1/tracks/0VpJ50Iuj2ebZSuBjQPn89
+          id: 0VpJ50Iuj2ebZSuBjQPn89
+          is_local: false
+          is_playable: true
+          name: Carrot Rope
+          track_number: 11
+          type: track
+          uri: spotify:track:0VpJ50Iuj2ebZSuBjQPn89
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/5ky4KFfJNcGDwFtwHi4ZGk
+            href: https://api.spotify.com/v1/albums/5ky4KFfJNcGDwFtwHi4ZGk
+            id: 5ky4KFfJNcGDwFtwHi4ZGk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273edbbb5f88e7dd70a33b5a27d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02edbbb5f88e7dd70a33b5a27d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851edbbb5f88e7dd70a33b5a27d
+            is_playable: true
+            name: 'Cautionary Tales: Jukebox Classiques'
+            release_date: '2024-03-13'
+            release_date_precision: day
+            total_tracks: 56
+            type: album
+            uri: spotify:album:5ky4KFfJNcGDwFtwHi4ZGk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 8
+          duration_ms: 232533
+          explicit: false
+          external_ids:
+            isrc: USMTD9926011
+          external_urls:
+            spotify: https://open.spotify.com/track/6Jkibfsm9GgjkREmlWE2az
+          href: https://api.spotify.com/v1/tracks/6Jkibfsm9GgjkREmlWE2az
+          id: 6Jkibfsm9GgjkREmlWE2az
+          is_local: false
+          is_playable: true
+          name: Carrot Rope
+          track_number: 3
+          type: track
+          uri: spotify:track:6Jkibfsm9GgjkREmlWE2az
+    isrc: USMTD9926011

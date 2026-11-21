@@ -45,3 +45,126 @@ mediaFileData:
   year: 2000
   duration: 193.35256235827666
   modTime: 2022-06-04 18:44:58.760000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5oFxieCNZ2SZVNIzM9j4aN
+    trackId: 5oFxieCNZ2SZVNIzM9j4aN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR10001283&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+              href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+              id: 2VYQTNDsvvKN9wmU5W7xpj
+              name: Marilyn Manson
+              type: artist
+              uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+            external_urls:
+              spotify: https://open.spotify.com/album/2Khzdnk8lWz360nq4jdO1H
+            href: https://api.spotify.com/v1/albums/2Khzdnk8lWz360nq4jdO1H
+            id: 2Khzdnk8lWz360nq4jdO1H
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735ccbdfb7de111ef9df160100
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025ccbdfb7de111ef9df160100
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515ccbdfb7de111ef9df160100
+            is_playable: true
+            name: The Marilyn Manson Collection
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 135
+            type: album
+            uri: spotify:album:2Khzdnk8lWz360nq4jdO1H
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+            href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+            id: 2VYQTNDsvvKN9wmU5W7xpj
+            name: Marilyn Manson
+            type: artist
+            uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+          disc_number: 3
+          duration_ms: 193293
+          explicit: false
+          external_ids:
+            isrc: USIR10001283
+          external_urls:
+            spotify: https://open.spotify.com/track/5oFxieCNZ2SZVNIzM9j4aN
+          href: https://api.spotify.com/v1/tracks/5oFxieCNZ2SZVNIzM9j4aN
+          id: 5oFxieCNZ2SZVNIzM9j4aN
+          is_local: false
+          is_playable: true
+          name: '"President Dead"'
+          track_number: 6
+          type: track
+          uri: spotify:track:5oFxieCNZ2SZVNIzM9j4aN
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+              href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+              id: 2VYQTNDsvvKN9wmU5W7xpj
+              name: Marilyn Manson
+              type: artist
+              uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+            external_urls:
+              spotify: https://open.spotify.com/album/3stFLIWyYH4a8u0bdxDopt
+            href: https://api.spotify.com/v1/albums/3stFLIWyYH4a8u0bdxDopt
+            id: 3stFLIWyYH4a8u0bdxDopt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27397ce10b4cfeb26d2a93cc409
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0297ce10b4cfeb26d2a93cc409
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485197ce10b4cfeb26d2a93cc409
+            is_playable: true
+            name: Holy Wood
+            release_date: '2000-11-11'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3stFLIWyYH4a8u0bdxDopt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+            href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+            id: 2VYQTNDsvvKN9wmU5W7xpj
+            name: Marilyn Manson
+            type: artist
+            uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+          disc_number: 1
+          duration_ms: 193293
+          explicit: false
+          external_ids:
+            isrc: USIR10001283
+          external_urls:
+            spotify: https://open.spotify.com/track/4wOdBrX82HqN6lxc50BD9r
+          href: https://api.spotify.com/v1/tracks/4wOdBrX82HqN6lxc50BD9r
+          id: 4wOdBrX82HqN6lxc50BD9r
+          is_local: false
+          is_playable: true
+          name: '"President Dead"'
+          track_number: 6
+          type: track
+          uri: spotify:track:4wOdBrX82HqN6lxc50BD9r
+    isrc: USIR10001283

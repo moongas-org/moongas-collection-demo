@@ -49,3 +49,126 @@ mediaFileData:
   year: 1989
   duration: 164.38857142857142
   modTime: 2026-02-01 21:26:53.832953+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5VWgvhO6kpwp9l25MJCDLr
+    trackId: 5VWgvhO6kpwp9l25MJCDLr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAZP8800077&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+              href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+              id: 6WoTvA9qinpHtSRJuldYh6
+              name: The Fall
+              type: artist
+              uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+            external_urls:
+              spotify: https://open.spotify.com/album/5PF34pBI9KPjecDauKjyZG
+            href: https://api.spotify.com/v1/albums/5PF34pBI9KPjecDauKjyZG
+            id: 5PF34pBI9KPjecDauKjyZG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27388a0d0570d8f31cdc00f6c5b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0288a0d0570d8f31cdc00f6c5b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485188a0d0570d8f31cdc00f6c5b
+            is_playable: true
+            name: The Frenz Experiment (Expanded Edition)
+            release_date: '1988-02-29'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:5PF34pBI9KPjecDauKjyZG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+            href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+            id: 6WoTvA9qinpHtSRJuldYh6
+            name: The Fall
+            type: artist
+            uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+          disc_number: 2
+          duration_ms: 164293
+          explicit: false
+          external_ids:
+            isrc: GBAZP8800077
+          external_urls:
+            spotify: https://open.spotify.com/track/5VWgvhO6kpwp9l25MJCDLr
+          href: https://api.spotify.com/v1/tracks/5VWgvhO6kpwp9l25MJCDLr
+          id: 5VWgvhO6kpwp9l25MJCDLr
+          is_local: false
+          is_playable: true
+          name: Tuff Life Booogie
+          track_number: 9
+          type: track
+          uri: spotify:track:5VWgvhO6kpwp9l25MJCDLr
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+              href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+              id: 6WoTvA9qinpHtSRJuldYh6
+              name: The Fall
+              type: artist
+              uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+            external_urls:
+              spotify: https://open.spotify.com/album/26ScLv7U0l4iOTmVPnRPSG
+            href: https://api.spotify.com/v1/albums/26ScLv7U0l4iOTmVPnRPSG
+            id: 26ScLv7U0l4iOTmVPnRPSG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273547e1428b0ecbaa9486644ef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02547e1428b0ecbaa9486644ef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851547e1428b0ecbaa9486644ef
+            is_playable: true
+            name: '45 84 89 : B Sides'
+            release_date: '1990-12-10'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:26ScLv7U0l4iOTmVPnRPSG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+            href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+            id: 6WoTvA9qinpHtSRJuldYh6
+            name: The Fall
+            type: artist
+            uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+          disc_number: 2
+          duration_ms: 164293
+          explicit: false
+          external_ids:
+            isrc: GBAZP8800077
+          external_urls:
+            spotify: https://open.spotify.com/track/0IJhTeefEOpzD6DNgyRbXB
+          href: https://api.spotify.com/v1/tracks/0IJhTeefEOpzD6DNgyRbXB
+          id: 0IJhTeefEOpzD6DNgyRbXB
+          is_local: false
+          is_playable: true
+          name: Tuff Life Booogie
+          track_number: 10
+          type: track
+          uri: spotify:track:0IJhTeefEOpzD6DNgyRbXB
+    isrc: GBAZP8800077

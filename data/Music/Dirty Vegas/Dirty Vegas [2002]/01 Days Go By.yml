@@ -175,3 +175,147 @@ mediaFileData:
   year: 2002
   duration: 220.96975
   modTime: 2023-04-28 11:21:54.090000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2dx8XX5W4mEBA5dxpUpA43
+    trackId: 2dx8XX5W4mEBA5dxpUpA43
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBDLM1900279&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl
+              href: https://api.spotify.com/v1/artists/2IkHcHKErbWa0TA14yHkbl
+              id: 2IkHcHKErbWa0TA14yHkbl
+              name: Dirty Vegas
+              type: artist
+              uri: spotify:artist:2IkHcHKErbWa0TA14yHkbl
+            - external_urls:
+                spotify: https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W
+              href: https://api.spotify.com/v1/artists/240wlM8vDrf6S4zCyzGj2W
+              id: 240wlM8vDrf6S4zCyzGj2W
+              name: CAMELPHAT
+              type: artist
+              uri: spotify:artist:240wlM8vDrf6S4zCyzGj2W
+            external_urls:
+              spotify: https://open.spotify.com/album/2gWm7QJbSwXifX1vY7nREq
+            href: https://api.spotify.com/v1/albums/2gWm7QJbSwXifX1vY7nREq
+            id: 2gWm7QJbSwXifX1vY7nREq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736c880087a490c786128495ce
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026c880087a490c786128495ce
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516c880087a490c786128495ce
+            is_playable: true
+            name: Days Go By (CamelPhat Remix)
+            release_date: '2019-07-12'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:2gWm7QJbSwXifX1vY7nREq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl
+            href: https://api.spotify.com/v1/artists/2IkHcHKErbWa0TA14yHkbl
+            id: 2IkHcHKErbWa0TA14yHkbl
+            name: Dirty Vegas
+            type: artist
+            uri: spotify:artist:2IkHcHKErbWa0TA14yHkbl
+          - external_urls:
+              spotify: https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W
+            href: https://api.spotify.com/v1/artists/240wlM8vDrf6S4zCyzGj2W
+            id: 240wlM8vDrf6S4zCyzGj2W
+            name: CAMELPHAT
+            type: artist
+            uri: spotify:artist:240wlM8vDrf6S4zCyzGj2W
+          disc_number: 1
+          duration_ms: 413071
+          explicit: false
+          external_ids:
+            isrc: GBDLM1900279
+          external_urls:
+            spotify: https://open.spotify.com/track/2dx8XX5W4mEBA5dxpUpA43
+          href: https://api.spotify.com/v1/tracks/2dx8XX5W4mEBA5dxpUpA43
+          id: 2dx8XX5W4mEBA5dxpUpA43
+          is_local: false
+          is_playable: true
+          name: Days Go By - CamelPhat Extended Remix
+          track_number: 2
+          type: track
+          uri: spotify:track:2dx8XX5W4mEBA5dxpUpA43
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/07iV8sZDHbdEBYf8uERh5I
+            href: https://api.spotify.com/v1/albums/07iV8sZDHbdEBYf8uERh5I
+            id: 07iV8sZDHbdEBYf8uERh5I
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273427cf4b4281b168adcf7df4f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02427cf4b4281b168adcf7df4f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851427cf4b4281b168adcf7df4f
+            is_playable: true
+            name: Toolroom Amsterdam 2019
+            release_date: '2019-10-19'
+            release_date_precision: day
+            total_tracks: 70
+            type: album
+            uri: spotify:album:07iV8sZDHbdEBYf8uERh5I
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl
+            href: https://api.spotify.com/v1/artists/2IkHcHKErbWa0TA14yHkbl
+            id: 2IkHcHKErbWa0TA14yHkbl
+            name: Dirty Vegas
+            type: artist
+            uri: spotify:artist:2IkHcHKErbWa0TA14yHkbl
+          - external_urls:
+              spotify: https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W
+            href: https://api.spotify.com/v1/artists/240wlM8vDrf6S4zCyzGj2W
+            id: 240wlM8vDrf6S4zCyzGj2W
+            name: CAMELPHAT
+            type: artist
+            uri: spotify:artist:240wlM8vDrf6S4zCyzGj2W
+          disc_number: 1
+          duration_ms: 413071
+          explicit: false
+          external_ids:
+            isrc: GBDLM1900279
+          external_urls:
+            spotify: https://open.spotify.com/track/659Xx5v48KlhoOwIlGORO6
+          href: https://api.spotify.com/v1/tracks/659Xx5v48KlhoOwIlGORO6
+          id: 659Xx5v48KlhoOwIlGORO6
+          is_local: false
+          is_playable: true
+          name: Days Go By - CamelPhat Extended Remix
+          track_number: 3
+          type: track
+          uri: spotify:track:659Xx5v48KlhoOwIlGORO6
+    isrc: GBDLM1900279

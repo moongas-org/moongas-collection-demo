@@ -56,3 +56,126 @@ mediaFileData:
   year: 2008
   duration: 258.56
   modTime: 2024-07-19 22:47:28.260316+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6SHzxOgwKtxgjAqHJaoFrX
+    trackId: 6SHzxOgwKtxgjAqHJaoFrX
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBRQQ0700001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+              href: https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO
+              id: 7K3zpFXBvPcvzhj7zlGJdO
+              name: Crystal Castles
+              type: artist
+              uri: spotify:artist:7K3zpFXBvPcvzhj7zlGJdO
+            external_urls:
+              spotify: https://open.spotify.com/album/5JUnnHZuZ5OpJ5QSxzrvBB
+            href: https://api.spotify.com/v1/albums/5JUnnHZuZ5OpJ5QSxzrvBB
+            id: 5JUnnHZuZ5OpJ5QSxzrvBB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27366bdcd765a454fd185d94414
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0266bdcd765a454fd185d94414
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485166bdcd765a454fd185d94414
+            is_playable: true
+            name: Crimewave
+            release_date: '2008-03-18'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:5JUnnHZuZ5OpJ5QSxzrvBB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+            href: https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO
+            id: 7K3zpFXBvPcvzhj7zlGJdO
+            name: Crystal Castles
+            type: artist
+            uri: spotify:artist:7K3zpFXBvPcvzhj7zlGJdO
+          disc_number: 1
+          duration_ms: 258453
+          explicit: false
+          external_ids:
+            isrc: GBRQQ0700001
+          external_urls:
+            spotify: https://open.spotify.com/track/6SHzxOgwKtxgjAqHJaoFrX
+          href: https://api.spotify.com/v1/tracks/6SHzxOgwKtxgjAqHJaoFrX
+          id: 6SHzxOgwKtxgjAqHJaoFrX
+          is_local: false
+          is_playable: true
+          name: Crimewave
+          track_number: 1
+          type: track
+          uri: spotify:track:6SHzxOgwKtxgjAqHJaoFrX
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+              href: https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO
+              id: 7K3zpFXBvPcvzhj7zlGJdO
+              name: Crystal Castles
+              type: artist
+              uri: spotify:artist:7K3zpFXBvPcvzhj7zlGJdO
+            external_urls:
+              spotify: https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi
+            href: https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi
+            id: 6rTfUUv8Kefr6Uo3AaecXi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f
+            is_playable: true
+            name: Crystal Castles
+            release_date: '2008-03-18'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:6rTfUUv8Kefr6Uo3AaecXi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+            href: https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO
+            id: 7K3zpFXBvPcvzhj7zlGJdO
+            name: Crystal Castles
+            type: artist
+            uri: spotify:artist:7K3zpFXBvPcvzhj7zlGJdO
+          disc_number: 1
+          duration_ms: 258453
+          explicit: false
+          external_ids:
+            isrc: GBRQQ0700001
+          external_urls:
+            spotify: https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz
+          href: https://api.spotify.com/v1/tracks/1xzsEmaU4IXjvxxwQlA8Lz
+          id: 1xzsEmaU4IXjvxxwQlA8Lz
+          is_local: false
+          is_playable: true
+          name: Crimewave
+          track_number: 3
+          type: track
+          uri: spotify:track:1xzsEmaU4IXjvxxwQlA8Lz
+    isrc: GBRQQ0700001

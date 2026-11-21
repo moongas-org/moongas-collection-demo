@@ -44,3 +44,72 @@ mediaFileData:
   year: 2005
   duration: 245.89061224489797
   modTime: 2026-08-28 20:50:35.861645+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/78fN0bsdaccyeq9VNzrtKN
+    trackId: 78fN0bsdaccyeq9VNzrtKN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS6DR0500792&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7sBjVJ5NcSKtTsvPphq4Xp
+              href: https://api.spotify.com/v1/artists/7sBjVJ5NcSKtTsvPphq4Xp
+              id: 7sBjVJ5NcSKtTsvPphq4Xp
+              name: Niyaz
+              type: artist
+              uri: spotify:artist:7sBjVJ5NcSKtTsvPphq4Xp
+            external_urls:
+              spotify: https://open.spotify.com/album/002vgGTsWnVqwwBZGQga0z
+            href: https://api.spotify.com/v1/albums/002vgGTsWnVqwwBZGQga0z
+            id: 002vgGTsWnVqwwBZGQga0z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733f05bf69d2513031b83ce847
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023f05bf69d2513031b83ce847
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513f05bf69d2513031b83ce847
+            is_playable: true
+            name: Niyaz
+            release_date: '2005-04-19'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:002vgGTsWnVqwwBZGQga0z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7sBjVJ5NcSKtTsvPphq4Xp
+            href: https://api.spotify.com/v1/artists/7sBjVJ5NcSKtTsvPphq4Xp
+            id: 7sBjVJ5NcSKtTsvPphq4Xp
+            name: Niyaz
+            type: artist
+            uri: spotify:artist:7sBjVJ5NcSKtTsvPphq4Xp
+          disc_number: 1
+          duration_ms: 245853
+          explicit: false
+          external_ids:
+            isrc: US6DR0500792
+          external_urls:
+            spotify: https://open.spotify.com/track/78fN0bsdaccyeq9VNzrtKN
+          href: https://api.spotify.com/v1/tracks/78fN0bsdaccyeq9VNzrtKN
+          id: 78fN0bsdaccyeq9VNzrtKN
+          is_local: false
+          is_playable: true
+          name: In the Shadow of Life
+          track_number: 6
+          type: track
+          uri: spotify:track:78fN0bsdaccyeq9VNzrtKN
+    isrc: US6DR0500792

@@ -56,3 +56,126 @@ mediaFileData:
   year: 1971
   duration: 250.152
   modTime: 2024-01-02 11:47:24.504796+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2zis0rLk1Y6pBcErUHU5Qi
+    trackId: 2zis0rLk1Y6pBcErUHU5Qi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH12101737&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+              href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+              id: 5hW4L92KnC6dX9t7tYM4Ve
+              name: Joni Mitchell
+              type: artist
+              uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+            external_urls:
+              spotify: https://open.spotify.com/album/2RVdQl5hVdFbbyGX6lv2ug
+            href: https://api.spotify.com/v1/albums/2RVdQl5hVdFbbyGX6lv2ug
+            id: 2RVdQl5hVdFbbyGX6lv2ug
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a4c645a8a75fb8b15d2ce66d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a4c645a8a75fb8b15d2ce66d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a4c645a8a75fb8b15d2ce66d
+            is_playable: true
+            name: Blue 50 (Demos & Outtakes)
+            release_date: '2021-06-21'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:2RVdQl5hVdFbbyGX6lv2ug
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+            href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+            id: 5hW4L92KnC6dX9t7tYM4Ve
+            name: Joni Mitchell
+            type: artist
+            uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+          disc_number: 1
+          duration_ms: 245250
+          explicit: false
+          external_ids:
+            isrc: USRH12101737
+          external_urls:
+            spotify: https://open.spotify.com/track/2zis0rLk1Y6pBcErUHU5Qi
+          href: https://api.spotify.com/v1/tracks/2zis0rLk1Y6pBcErUHU5Qi
+          id: 2zis0rLk1Y6pBcErUHU5Qi
+          is_local: false
+          is_playable: true
+          name: River (With French Horns) - Blue Sessions
+          track_number: 4
+          type: track
+          uri: spotify:track:2zis0rLk1Y6pBcErUHU5Qi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+              href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+              id: 5hW4L92KnC6dX9t7tYM4Ve
+              name: Joni Mitchell
+              type: artist
+              uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+            external_urls:
+              spotify: https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d
+            href: https://api.spotify.com/v1/albums/0o9FY7BfZYuf1ujyBcd77d
+            id: 0o9FY7BfZYuf1ujyBcd77d
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27314eba7cf332328a741a0d90a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0214eba7cf332328a741a0d90a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485114eba7cf332328a741a0d90a
+            is_playable: true
+            name: 'Joni Mitchell Archives, Vol. 2: The Reprise Years (1968-1971)'
+            release_date: '2021-11-12'
+            release_date_precision: day
+            total_tracks: 119
+            type: album
+            uri: spotify:album:0o9FY7BfZYuf1ujyBcd77d
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+            href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+            id: 5hW4L92KnC6dX9t7tYM4Ve
+            name: Joni Mitchell
+            type: artist
+            uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+          disc_number: 5
+          duration_ms: 245250
+          explicit: false
+          external_ids:
+            isrc: USRH12101737
+          external_urls:
+            spotify: https://open.spotify.com/track/6MbncyztJQBGUp34d756HJ
+          href: https://api.spotify.com/v1/tracks/6MbncyztJQBGUp34d756HJ
+          id: 6MbncyztJQBGUp34d756HJ
+          is_local: false
+          is_playable: true
+          name: River (With French Horns) - Blue Sessions
+          track_number: 25
+          type: track
+          uri: spotify:track:6MbncyztJQBGUp34d756HJ
+    isrc: USRH12101737

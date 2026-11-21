@@ -63,3 +63,180 @@ mediaFileData:
   year: 1984
   duration: 199.56
   modTime: 2023-01-28 02:40:23.860000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6RnAYXGcPLLRnquqKTbWLV
+    trackId: 6RnAYXGcPLLRnquqKTbWLV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71106175&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+              href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+              id: 1dfeR4HaWDbWqFHLkxsg1d
+              name: Queen
+              type: artist
+              uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+            external_urls:
+              spotify: https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV
+            href: https://api.spotify.com/v1/albums/3AAxdMZmzwyUyzoTO1iKiV
+            id: 3AAxdMZmzwyUyzoTO1iKiV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273975560eaf8d7e9addc85f30d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02975560eaf8d7e9addc85f30d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851975560eaf8d7e9addc85f30d
+            is_playable: true
+            name: The Works (Deluxe Edition)
+            release_date: '1984-02-27'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:3AAxdMZmzwyUyzoTO1iKiV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+            href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+            id: 1dfeR4HaWDbWqFHLkxsg1d
+            name: Queen
+            type: artist
+            uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+          disc_number: 1
+          duration_ms: 201082
+          explicit: false
+          external_ids:
+            isrc: GBUM71106175
+          external_urls:
+            spotify: https://open.spotify.com/track/6RnAYXGcPLLRnquqKTbWLV
+          href: https://api.spotify.com/v1/tracks/6RnAYXGcPLLRnquqKTbWLV
+          id: 6RnAYXGcPLLRnquqKTbWLV
+          is_local: false
+          is_playable: true
+          name: I Want to Break Free
+          track_number: 6
+          type: track
+          uri: spotify:track:6RnAYXGcPLLRnquqKTbWLV
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+              href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+              id: 1dfeR4HaWDbWqFHLkxsg1d
+              name: Queen
+              type: artist
+              uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+            external_urls:
+              spotify: https://open.spotify.com/album/7vwI0rfb9RIZHNdkUJH1yw
+            href: https://api.spotify.com/v1/albums/7vwI0rfb9RIZHNdkUJH1yw
+            id: 7vwI0rfb9RIZHNdkUJH1yw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730dab8a2a4b3c01e4cddf0a66
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020dab8a2a4b3c01e4cddf0a66
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510dab8a2a4b3c01e4cddf0a66
+            is_playable: true
+            name: Pop
+            release_date: '2025-07-04'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7vwI0rfb9RIZHNdkUJH1yw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+            href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+            id: 1dfeR4HaWDbWqFHLkxsg1d
+            name: Queen
+            type: artist
+            uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+          disc_number: 1
+          duration_ms: 198773
+          explicit: false
+          external_ids:
+            isrc: GBUM71106175
+          external_urls:
+            spotify: https://open.spotify.com/track/5SgOkYMmZ7DpiI0RdczaAn
+          href: https://api.spotify.com/v1/tracks/5SgOkYMmZ7DpiI0RdczaAn
+          id: 5SgOkYMmZ7DpiI0RdczaAn
+          is_local: false
+          is_playable: true
+          name: I Want to Break Free
+          track_number: 2
+          type: track
+          uri: spotify:track:5SgOkYMmZ7DpiI0RdczaAn
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+              href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+              id: 1dfeR4HaWDbWqFHLkxsg1d
+              name: Queen
+              type: artist
+              uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+            external_urls:
+              spotify: https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC
+            href: https://api.spotify.com/v1/albums/6IXmSdbq5OmlR08vvcnHoC
+            id: 6IXmSdbq5OmlR08vvcnHoC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730b6e29757c37fb90e4587f65
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020b6e29757c37fb90e4587f65
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510b6e29757c37fb90e4587f65
+            is_playable: true
+            name: The Works
+            release_date: '1984-02-27'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6IXmSdbq5OmlR08vvcnHoC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+            href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+            id: 1dfeR4HaWDbWqFHLkxsg1d
+            name: Queen
+            type: artist
+            uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+          disc_number: 1
+          duration_ms: 201082
+          explicit: false
+          external_ids:
+            isrc: GBUM71106175
+          external_urls:
+            spotify: https://open.spotify.com/track/3SfwhRb2CzGGuyUYF64wYR
+          href: https://api.spotify.com/v1/tracks/3SfwhRb2CzGGuyUYF64wYR
+          id: 3SfwhRb2CzGGuyUYF64wYR
+          is_local: false
+          is_playable: true
+          name: I Want to Break Free
+          track_number: 6
+          type: track
+          uri: spotify:track:3SfwhRb2CzGGuyUYF64wYR
+    isrc: GBUM71106175

@@ -166,3 +166,79 @@ mediaFileData:
   year: 1973
   duration: 298.536
   modTime: 2024-02-20 17:34:59.771711+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0J7IAJtlEb4YImC3sqQP5r
+    trackId: 0J7IAJtlEb4YImC3sqQP5r
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71807112&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/03qooTimirvmMq8U1peQ5Y
+            href: https://api.spotify.com/v1/albums/03qooTimirvmMq8U1peQ5Y
+            id: 03qooTimirvmMq8U1peQ5Y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733f3c9cda26fc10eb0ee49603
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023f3c9cda26fc10eb0ee49603
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513f3c9cda26fc10eb0ee49603
+            is_playable: true
+            name: Kaya (40th Anniversary Edition)
+            release_date: '1978-03-23'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:03qooTimirvmMq8U1peQ5Y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1
+            href: https://api.spotify.com/v1/artists/0CIwCGmQMqHqiblnZlFia1
+            id: 0CIwCGmQMqHqiblnZlFia1
+            name: Stephen Marley
+            type: artist
+            uri: spotify:artist:0CIwCGmQMqHqiblnZlFia1
+          disc_number: 1
+          duration_ms: 308024
+          explicit: false
+          external_ids:
+            isrc: USUM71807112
+          external_urls:
+            spotify: https://open.spotify.com/track/0J7IAJtlEb4YImC3sqQP5r
+          href: https://api.spotify.com/v1/tracks/0J7IAJtlEb4YImC3sqQP5r
+          id: 0J7IAJtlEb4YImC3sqQP5r
+          is_local: false
+          is_playable: true
+          name: Sun Is Shining - Kaya 40 Mix
+          track_number: 4
+          type: track
+          uri: spotify:track:0J7IAJtlEb4YImC3sqQP5r
+    isrc: USUM71807112

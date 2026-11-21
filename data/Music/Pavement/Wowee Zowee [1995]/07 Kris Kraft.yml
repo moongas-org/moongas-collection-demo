@@ -42,3 +42,126 @@ mediaFileData:
   year: 1995
   duration: 158.693875
   modTime: 2023-05-14 17:08:21.400000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5oJ5JeIPhDx8uaNlhQdt5H
+    trackId: 5oJ5JeIPhDx8uaNlhQdt5H
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD0672223&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/61v8cmSY8KdNa2aOB9e4v6
+            href: https://api.spotify.com/v1/albums/61v8cmSY8KdNa2aOB9e4v6
+            id: 61v8cmSY8KdNa2aOB9e4v6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273374fdaf3dfc7d73f60e34a66
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02374fdaf3dfc7d73f60e34a66
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851374fdaf3dfc7d73f60e34a66
+            is_playable: true
+            name: Wowee Zowee (Sordid Sentinels Edition)
+            release_date: '2006-11-07'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:61v8cmSY8KdNa2aOB9e4v6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 166533
+          explicit: false
+          external_ids:
+            isrc: USMTD0672223
+          external_urls:
+            spotify: https://open.spotify.com/track/5oJ5JeIPhDx8uaNlhQdt5H
+          href: https://api.spotify.com/v1/tracks/5oJ5JeIPhDx8uaNlhQdt5H
+          id: 5oJ5JeIPhDx8uaNlhQdt5H
+          is_local: false
+          is_playable: true
+          name: Kris Kraft
+          track_number: 23
+          type: track
+          uri: spotify:track:5oJ5JeIPhDx8uaNlhQdt5H
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/5ky4KFfJNcGDwFtwHi4ZGk
+            href: https://api.spotify.com/v1/albums/5ky4KFfJNcGDwFtwHi4ZGk
+            id: 5ky4KFfJNcGDwFtwHi4ZGk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273edbbb5f88e7dd70a33b5a27d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02edbbb5f88e7dd70a33b5a27d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851edbbb5f88e7dd70a33b5a27d
+            is_playable: true
+            name: 'Cautionary Tales: Jukebox Classiques'
+            release_date: '2024-03-13'
+            release_date_precision: day
+            total_tracks: 56
+            type: album
+            uri: spotify:album:5ky4KFfJNcGDwFtwHi4ZGk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 5
+          duration_ms: 166533
+          explicit: false
+          external_ids:
+            isrc: USMTD0672223
+          external_urls:
+            spotify: https://open.spotify.com/track/1OtJC0U7rWZrws1w4mlnc0
+          href: https://api.spotify.com/v1/tracks/1OtJC0U7rWZrws1w4mlnc0
+          id: 1OtJC0U7rWZrws1w4mlnc0
+          is_local: false
+          is_playable: true
+          name: Kris Kraft
+          track_number: 5
+          type: track
+          uri: spotify:track:1OtJC0U7rWZrws1w4mlnc0
+    isrc: USMTD0672223

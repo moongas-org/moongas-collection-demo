@@ -36,3 +36,126 @@ mediaFileData:
   year: 1987
   duration: 272.424
   modTime: 2024-11-01 19:04:24.711637+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0xmUuuOUgAWamupKYU41Qv
+    trackId: 0xmUuuOUgAWamupKYU41Qv
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE19901206&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa
+            href: https://api.spotify.com/v1/albums/37Q22g0n9PzBLX6lNddrIa
+            id: 37Q22g0n9PzBLX6lNddrIa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737f22337546d61faca55e0f4f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027f22337546d61faca55e0f4f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517f22337546d61faca55e0f4f
+            is_playable: true
+            name: Kiss Me, Kiss Me, Kiss Me
+            release_date: '1987-05-25'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:37Q22g0n9PzBLX6lNddrIa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 272400
+          explicit: false
+          external_ids:
+            isrc: USEE19901206
+          external_urls:
+            spotify: https://open.spotify.com/track/0xmUuuOUgAWamupKYU41Qv
+          href: https://api.spotify.com/v1/tracks/0xmUuuOUgAWamupKYU41Qv
+          id: 0xmUuuOUgAWamupKYU41Qv
+          is_local: false
+          is_playable: true
+          name: One More Time
+          track_number: 11
+          type: track
+          uri: spotify:track:0xmUuuOUgAWamupKYU41Qv
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2tgRe2h8Q0pVQXQtWLu6hb
+            href: https://api.spotify.com/v1/albums/2tgRe2h8Q0pVQXQtWLu6hb
+            id: 2tgRe2h8Q0pVQXQtWLu6hb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273846bc65d06b0e8e653da6aca
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02846bc65d06b0e8e653da6aca
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851846bc65d06b0e8e653da6aca
+            is_playable: true
+            name: mellow eighties
+            release_date: '2023-11-23'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:2tgRe2h8Q0pVQXQtWLu6hb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 272400
+          explicit: false
+          external_ids:
+            isrc: USEE19901206
+          external_urls:
+            spotify: https://open.spotify.com/track/5mUu9Z225sz41SfpvTR0Ir
+          href: https://api.spotify.com/v1/tracks/5mUu9Z225sz41SfpvTR0Ir
+          id: 5mUu9Z225sz41SfpvTR0Ir
+          is_local: false
+          is_playable: true
+          name: One More Time
+          track_number: 11
+          type: track
+          uri: spotify:track:5mUu9Z225sz41SfpvTR0Ir
+    isrc: USEE19901206

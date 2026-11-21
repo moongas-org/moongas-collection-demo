@@ -34,3 +34,72 @@ mediaFileData:
   year: 2002
   duration: 263.3404081632653
   modTime: 2025-11-01 08:52:20.129862+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2LFZtYeQPZqBJf6enkiInt
+    trackId: 2LFZtYeQPZqBJf6enkiInt
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRZ020101040&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G
+              href: https://api.spotify.com/v1/artists/5xDjKV6UvzyrI3RnwHq02G
+              id: 5xDjKV6UvzyrI3RnwHq02G
+              name: Paris Combo
+              type: artist
+              uri: spotify:artist:5xDjKV6UvzyrI3RnwHq02G
+            external_urls:
+              spotify: https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS
+            href: https://api.spotify.com/v1/albums/4Th7DyvnAE6nMqjTrNnsqS
+            id: 4Th7DyvnAE6nMqjTrNnsqS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fafa4386845fd5bc5645dbc1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fafa4386845fd5bc5645dbc1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fafa4386845fd5bc5645dbc1
+            is_playable: true
+            name: Attraction
+            release_date: '2001-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4Th7DyvnAE6nMqjTrNnsqS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G
+            href: https://api.spotify.com/v1/artists/5xDjKV6UvzyrI3RnwHq02G
+            id: 5xDjKV6UvzyrI3RnwHq02G
+            name: Paris Combo
+            type: artist
+            uri: spotify:artist:5xDjKV6UvzyrI3RnwHq02G
+          disc_number: 1
+          duration_ms: 263320
+          explicit: false
+          external_ids:
+            isrc: FRZ020101040
+          external_urls:
+            spotify: https://open.spotify.com/track/2LFZtYeQPZqBJf6enkiInt
+          href: https://api.spotify.com/v1/tracks/2LFZtYeQPZqBJf6enkiInt
+          id: 2LFZtYeQPZqBJf6enkiInt
+          is_local: false
+          is_playable: true
+          name: Pourquoi Les Vaches ?
+          track_number: 9
+          type: track
+          uri: spotify:track:2LFZtYeQPZqBJf6enkiInt
+    isrc: FRZ020101040

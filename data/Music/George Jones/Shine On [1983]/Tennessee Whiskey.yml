@@ -71,3 +71,72 @@ mediaFileData:
   year: 1983
   duration: 172.896
   modTime: 2023-09-24 22:05:48+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/79K36XF7WlgTvP3JbW17UE
+    trackId: 79K36XF7WlgTvP3JbW17UE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19917366&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6
+              href: https://api.spotify.com/v1/artists/6nwh8AhPpbwOUnHZJWrHT6
+              id: 6nwh8AhPpbwOUnHZJWrHT6
+              name: David Allan Coe
+              type: artist
+              uri: spotify:artist:6nwh8AhPpbwOUnHZJWrHT6
+            external_urls:
+              spotify: https://open.spotify.com/album/6IfnaToHWFzLoU1DD1ZjmG
+            href: https://api.spotify.com/v1/albums/6IfnaToHWFzLoU1DD1ZjmG
+            id: 6IfnaToHWFzLoU1DD1ZjmG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27354fa9190e2c7f090a0a9f7f1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0254fa9190e2c7f090a0a9f7f1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485154fa9190e2c7f090a0a9f7f1
+            is_playable: true
+            name: Tennessee Whiskey
+            release_date: '1981-08-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6IfnaToHWFzLoU1DD1ZjmG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6
+            href: https://api.spotify.com/v1/artists/6nwh8AhPpbwOUnHZJWrHT6
+            id: 6nwh8AhPpbwOUnHZJWrHT6
+            name: David Allan Coe
+            type: artist
+            uri: spotify:artist:6nwh8AhPpbwOUnHZJWrHT6
+          disc_number: 1
+          duration_ms: 179560
+          explicit: false
+          external_ids:
+            isrc: USSM19917366
+          external_urls:
+            spotify: https://open.spotify.com/track/79K36XF7WlgTvP3JbW17UE
+          href: https://api.spotify.com/v1/tracks/79K36XF7WlgTvP3JbW17UE
+          id: 79K36XF7WlgTvP3JbW17UE
+          is_local: false
+          is_playable: true
+          name: Tennessee Whiskey
+          track_number: 1
+          type: track
+          uri: spotify:track:79K36XF7WlgTvP3JbW17UE
+    isrc: USSM19917366

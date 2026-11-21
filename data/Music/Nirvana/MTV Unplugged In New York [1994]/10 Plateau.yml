@@ -88,3 +88,126 @@ mediaFileData:
   year: 1994
   duration: 218.07020833333334
   modTime: 2023-04-26 20:55:08.660000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2smax1OWAxOo63p14G8KZx
+    trackId: 2smax1OWAxOo63p14G8KZx
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGF19972710&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh
+              href: https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh
+              id: 6olE6TJLqED3rqDCT0FyPh
+              name: Nirvana
+              type: artist
+              uri: spotify:artist:6olE6TJLqED3rqDCT0FyPh
+            external_urls:
+              spotify: https://open.spotify.com/album/1To7kv722A8SpZF789MZy7
+            href: https://api.spotify.com/v1/albums/1To7kv722A8SpZF789MZy7
+            id: 1To7kv722A8SpZF789MZy7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0236c5417732e53e23cb219246
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485136c5417732e53e23cb219246
+            is_playable: true
+            name: MTV Unplugged In New York
+            release_date: '1994-11-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1To7kv722A8SpZF789MZy7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh
+            href: https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh
+            id: 6olE6TJLqED3rqDCT0FyPh
+            name: Nirvana
+            type: artist
+            uri: spotify:artist:6olE6TJLqED3rqDCT0FyPh
+          disc_number: 1
+          duration_ms: 218133
+          explicit: false
+          external_ids:
+            isrc: USGF19972710
+          external_urls:
+            spotify: https://open.spotify.com/track/2smax1OWAxOo63p14G8KZx
+          href: https://api.spotify.com/v1/tracks/2smax1OWAxOo63p14G8KZx
+          id: 2smax1OWAxOo63p14G8KZx
+          is_local: false
+          is_playable: true
+          name: Plateau - Live
+          track_number: 10
+          type: track
+          uri: spotify:track:2smax1OWAxOo63p14G8KZx
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh
+              href: https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh
+              id: 6olE6TJLqED3rqDCT0FyPh
+              name: Nirvana
+              type: artist
+              uri: spotify:artist:6olE6TJLqED3rqDCT0FyPh
+            external_urls:
+              spotify: https://open.spotify.com/album/1tsNAUQqofHrnlezRK8D5R
+            href: https://api.spotify.com/v1/albums/1tsNAUQqofHrnlezRK8D5R
+            id: 1tsNAUQqofHrnlezRK8D5R
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ae2c8a304cfb62d0e029fb5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ae2c8a304cfb62d0e029fb5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ae2c8a304cfb62d0e029fb5
+            is_playable: true
+            name: MTV Unplugged In New York (25th Anniversary)
+            release_date: '1994-11-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:1tsNAUQqofHrnlezRK8D5R
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh
+            href: https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh
+            id: 6olE6TJLqED3rqDCT0FyPh
+            name: Nirvana
+            type: artist
+            uri: spotify:artist:6olE6TJLqED3rqDCT0FyPh
+          disc_number: 1
+          duration_ms: 218040
+          explicit: false
+          external_ids:
+            isrc: USGF19972710
+          external_urls:
+            spotify: https://open.spotify.com/track/5FpXa6zG1Hf76eFZnfF2oC
+          href: https://api.spotify.com/v1/tracks/5FpXa6zG1Hf76eFZnfF2oC
+          id: 5FpXa6zG1Hf76eFZnfF2oC
+          is_local: false
+          is_playable: true
+          name: Plateau - Live
+          track_number: 10
+          type: track
+          uri: spotify:track:5FpXa6zG1Hf76eFZnfF2oC
+    isrc: USGF19972710

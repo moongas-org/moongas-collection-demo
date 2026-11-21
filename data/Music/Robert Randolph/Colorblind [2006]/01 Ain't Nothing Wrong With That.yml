@@ -35,3 +35,288 @@ mediaFileData:
   year: 2006
   duration: 210.49471875
   modTime: 2023-07-17 00:42:58+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/74rxxOhiJ2lFZKUca17jKf
+    trackId: 74rxxOhiJ2lFZKUca17jKf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10604718&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+              href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+              id: 4xac3zhHlBm5QDxbZeqgeR
+              name: Robert Randolph & The Family Band
+              type: artist
+              uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+            external_urls:
+              spotify: https://open.spotify.com/album/4X1DfvXckQ2hl9QeMO4N2P
+            href: https://api.spotify.com/v1/albums/4X1DfvXckQ2hl9QeMO4N2P
+            id: 4X1DfvXckQ2hl9QeMO4N2P
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273349dd14aadac2ece063241b5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02349dd14aadac2ece063241b5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851349dd14aadac2ece063241b5
+            is_playable: true
+            name: Colorblind
+            release_date: '2006-09-25'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4X1DfvXckQ2hl9QeMO4N2P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+            href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+            id: 4xac3zhHlBm5QDxbZeqgeR
+            name: Robert Randolph & The Family Band
+            type: artist
+            uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+          disc_number: 1
+          duration_ms: 210440
+          explicit: false
+          external_ids:
+            isrc: USWB10604718
+          external_urls:
+            spotify: https://open.spotify.com/track/74rxxOhiJ2lFZKUca17jKf
+          href: https://api.spotify.com/v1/tracks/74rxxOhiJ2lFZKUca17jKf
+          id: 74rxxOhiJ2lFZKUca17jKf
+          is_local: false
+          is_playable: true
+          name: Ain't Nothing Wrong with That
+          track_number: 1
+          type: track
+          uri: spotify:track:74rxxOhiJ2lFZKUca17jKf
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+              href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+              id: 4xac3zhHlBm5QDxbZeqgeR
+              name: Robert Randolph & The Family Band
+              type: artist
+              uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+            external_urls:
+              spotify: https://open.spotify.com/album/7lsD2fAcYKfTe4FKbeZIbj
+            href: https://api.spotify.com/v1/albums/7lsD2fAcYKfTe4FKbeZIbj
+            id: 7lsD2fAcYKfTe4FKbeZIbj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27356cd61cf54e174c956a1a2a0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0256cd61cf54e174c956a1a2a0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485156cd61cf54e174c956a1a2a0
+            is_playable: true
+            name: Colorblind (U.S. Version)
+            release_date: '2006-09-25'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7lsD2fAcYKfTe4FKbeZIbj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+            href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+            id: 4xac3zhHlBm5QDxbZeqgeR
+            name: Robert Randolph & The Family Band
+            type: artist
+            uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+          disc_number: 1
+          duration_ms: 210440
+          explicit: false
+          external_ids:
+            isrc: USWB10604718
+          external_urls:
+            spotify: https://open.spotify.com/track/4a8mshDjwAIwNcgDvCtMMa
+          href: https://api.spotify.com/v1/tracks/4a8mshDjwAIwNcgDvCtMMa
+          id: 4a8mshDjwAIwNcgDvCtMMa
+          is_local: false
+          is_playable: true
+          name: Ain't Nothing Wrong with That
+          track_number: 1
+          type: track
+          uri: spotify:track:4a8mshDjwAIwNcgDvCtMMa
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6S0dOnUjr6oJkWW1b8siUA
+            href: https://api.spotify.com/v1/albums/6S0dOnUjr6oJkWW1b8siUA
+            id: 6S0dOnUjr6oJkWW1b8siUA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27326dffac86dcea70dd8f1c9f0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0226dffac86dcea70dd8f1c9f0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485126dffac86dcea70dd8f1c9f0
+            is_playable: true
+            name: Funky Soul Nuggets
+            release_date: '2019-03-29'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:6S0dOnUjr6oJkWW1b8siUA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+            href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+            id: 4xac3zhHlBm5QDxbZeqgeR
+            name: Robert Randolph & The Family Band
+            type: artist
+            uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+          disc_number: 1
+          duration_ms: 210440
+          explicit: false
+          external_ids:
+            isrc: USWB10604718
+          external_urls:
+            spotify: https://open.spotify.com/track/5d5lxGzFnncBNAgJpKPP9j
+          href: https://api.spotify.com/v1/tracks/5d5lxGzFnncBNAgJpKPP9j
+          id: 5d5lxGzFnncBNAgJpKPP9j
+          is_local: false
+          is_playable: true
+          name: Ain't Nothing Wrong with That
+          track_number: 21
+          type: track
+          uri: spotify:track:5d5lxGzFnncBNAgJpKPP9j
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3UOVyAc5WGBp3MGmTDUHlF
+            href: https://api.spotify.com/v1/albums/3UOVyAc5WGBp3MGmTDUHlF
+            id: 3UOVyAc5WGBp3MGmTDUHlF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273982a61a4e7dc2a2339f9409d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02982a61a4e7dc2a2339f9409d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851982a61a4e7dc2a2339f9409d
+            is_playable: true
+            name: Rock Blues Mania
+            release_date: '2024-10-26'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:3UOVyAc5WGBp3MGmTDUHlF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+            href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+            id: 4xac3zhHlBm5QDxbZeqgeR
+            name: Robert Randolph & The Family Band
+            type: artist
+            uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+          disc_number: 1
+          duration_ms: 210440
+          explicit: false
+          external_ids:
+            isrc: USWB10604718
+          external_urls:
+            spotify: https://open.spotify.com/track/66JURrhQMvCiRsW4L4PQM4
+          href: https://api.spotify.com/v1/tracks/66JURrhQMvCiRsW4L4PQM4
+          id: 66JURrhQMvCiRsW4L4PQM4
+          is_local: false
+          is_playable: true
+          name: Ain't Nothing Wrong with That
+          track_number: 16
+          type: track
+          uri: spotify:track:66JURrhQMvCiRsW4L4PQM4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6tTR2nruiGn3pSF4pLQj0y
+            href: https://api.spotify.com/v1/albums/6tTR2nruiGn3pSF4pLQj0y
+            id: 6tTR2nruiGn3pSF4pLQj0y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273027269614e21ebc7dc6d4e40
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02027269614e21ebc7dc6d4e40
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851027269614e21ebc7dc6d4e40
+            is_playable: true
+            name: Ain't Nothing but the Blues
+            release_date: '2020-04-17'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:6tTR2nruiGn3pSF4pLQj0y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+            href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+            id: 4xac3zhHlBm5QDxbZeqgeR
+            name: Robert Randolph & The Family Band
+            type: artist
+            uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+          disc_number: 1
+          duration_ms: 210440
+          explicit: false
+          external_ids:
+            isrc: USWB10604718
+          external_urls:
+            spotify: https://open.spotify.com/track/7urobxoWt3l8cmAweMbUhx
+          href: https://api.spotify.com/v1/tracks/7urobxoWt3l8cmAweMbUhx
+          id: 7urobxoWt3l8cmAweMbUhx
+          is_local: false
+          is_playable: true
+          name: Ain't Nothing Wrong with That
+          track_number: 3
+          type: track
+          uri: spotify:track:7urobxoWt3l8cmAweMbUhx
+    isrc: USWB10604718

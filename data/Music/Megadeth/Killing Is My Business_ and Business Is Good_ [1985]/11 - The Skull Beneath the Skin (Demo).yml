@@ -41,3 +41,126 @@ mediaFileData:
   year: 1985
   duration: 191.568
   modTime: 2025-01-12 23:06:01.229426+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0xf7UQqbvBkInaAIGDE1VN
+    trackId: 0xf7UQqbvBkInaAIGDE1VN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSLR50100423&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+              href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+              id: 1Yox196W7bzVNZI7RBaPnf
+              name: Megadeth
+              type: artist
+              uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+            external_urls:
+              spotify: https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq
+            href: https://api.spotify.com/v1/albums/0hjcoB3dyY4BNonhEqdoRq
+            id: 0hjcoB3dyY4BNonhEqdoRq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27383669d96510dc5158ba7220a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0283669d96510dc5158ba7220a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485183669d96510dc5158ba7220a
+            is_playable: true
+            name: Warchest
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 68
+            type: album
+            uri: spotify:album:0hjcoB3dyY4BNonhEqdoRq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+            href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+            id: 1Yox196W7bzVNZI7RBaPnf
+            name: Megadeth
+            type: artist
+            uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+          disc_number: 1
+          duration_ms: 225173
+          explicit: false
+          external_ids:
+            isrc: USLR50100423
+          external_urls:
+            spotify: https://open.spotify.com/track/0xf7UQqbvBkInaAIGDE1VN
+          href: https://api.spotify.com/v1/tracks/0xf7UQqbvBkInaAIGDE1VN
+          id: 0xf7UQqbvBkInaAIGDE1VN
+          is_local: false
+          is_playable: true
+          name: The Skull Beneath The Skin - Remix
+          track_number: 2
+          type: track
+          uri: spotify:track:0xf7UQqbvBkInaAIGDE1VN
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+              href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+              id: 1Yox196W7bzVNZI7RBaPnf
+              name: Megadeth
+              type: artist
+              uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+            external_urls:
+              spotify: https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk
+            href: https://api.spotify.com/v1/albums/0TFQuO4m3XR5pTJCFS88Qk
+            id: 0TFQuO4m3XR5pTJCFS88Qk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732df329bfcee1cbf47dfc7032
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022df329bfcee1cbf47dfc7032
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512df329bfcee1cbf47dfc7032
+            is_playable: true
+            name: Killing Is My Business...And Business Is Good!
+            release_date: '1985'
+            release_date_precision: year
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0TFQuO4m3XR5pTJCFS88Qk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+            href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+            id: 1Yox196W7bzVNZI7RBaPnf
+            name: Megadeth
+            type: artist
+            uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+          disc_number: 1
+          duration_ms: 191533
+          explicit: true
+          external_ids:
+            isrc: USLR50100423
+          external_urls:
+            spotify: https://open.spotify.com/track/2C07t70y2l3ixLCNI3NBxF
+          href: https://api.spotify.com/v1/tracks/2C07t70y2l3ixLCNI3NBxF
+          id: 2C07t70y2l3ixLCNI3NBxF
+          is_local: false
+          is_playable: true
+          name: The Skull Beneath the Skin - Demo
+          track_number: 11
+          type: track
+          uri: spotify:track:2C07t70y2l3ixLCNI3NBxF
+    isrc: USLR50100423

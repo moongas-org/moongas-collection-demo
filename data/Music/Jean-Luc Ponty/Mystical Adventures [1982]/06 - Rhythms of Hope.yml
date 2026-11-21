@@ -56,3 +56,234 @@ mediaFileData:
   year: 1982
   duration: 243.69632653061225
   modTime: 2025-12-28 18:08:02.465873+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2fvgMnp7Xtbthrv7OBIgf9
+    trackId: 2fvgMnp7Xtbthrv7OBIgf9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20180843&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+              href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+              id: 3SInttLnvf5G4Aa95aAYPr
+              name: Jean-Luc Ponty
+              type: artist
+              uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+            external_urls:
+              spotify: https://open.spotify.com/album/1CoLTcMT97IbSYysWBgPvS
+            href: https://api.spotify.com/v1/albums/1CoLTcMT97IbSYysWBgPvS
+            id: 1CoLTcMT97IbSYysWBgPvS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ac2e6c15f47e42483f9306d9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ac2e6c15f47e42483f9306d9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ac2e6c15f47e42483f9306d9
+            is_playable: true
+            name: The Very Best Of Jean-Luc Ponty
+            release_date: '2000-06-09'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:1CoLTcMT97IbSYysWBgPvS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+            href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+            id: 3SInttLnvf5G4Aa95aAYPr
+            name: Jean-Luc Ponty
+            type: artist
+            uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+          disc_number: 1
+          duration_ms: 243600
+          explicit: false
+          external_ids:
+            isrc: USAT20180843
+          external_urls:
+            spotify: https://open.spotify.com/track/2fvgMnp7Xtbthrv7OBIgf9
+          href: https://api.spotify.com/v1/tracks/2fvgMnp7Xtbthrv7OBIgf9
+          id: 2fvgMnp7Xtbthrv7OBIgf9
+          is_local: false
+          is_playable: true
+          name: Rhythms of Hope
+          track_number: 13
+          type: track
+          uri: spotify:track:2fvgMnp7Xtbthrv7OBIgf9
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+              href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+              id: 3SInttLnvf5G4Aa95aAYPr
+              name: Jean-Luc Ponty
+              type: artist
+              uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+            external_urls:
+              spotify: https://open.spotify.com/album/3sRDigE2YdvQxHHJBYzVOT
+            href: https://api.spotify.com/v1/albums/3sRDigE2YdvQxHHJBYzVOT
+            id: 3sRDigE2YdvQxHHJBYzVOT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736c6abbd10e8b1c7ae4ca05db
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026c6abbd10e8b1c7ae4ca05db
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516c6abbd10e8b1c7ae4ca05db
+            is_playable: true
+            name: Mystical Adventures
+            release_date: '1981'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3sRDigE2YdvQxHHJBYzVOT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+            href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+            id: 3SInttLnvf5G4Aa95aAYPr
+            name: Jean-Luc Ponty
+            type: artist
+            uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+          disc_number: 1
+          duration_ms: 243600
+          explicit: false
+          external_ids:
+            isrc: USAT20180843
+          external_urls:
+            spotify: https://open.spotify.com/track/6IEoVSVzsnGJQLWW8nHL2r
+          href: https://api.spotify.com/v1/tracks/6IEoVSVzsnGJQLWW8nHL2r
+          id: 6IEoVSVzsnGJQLWW8nHL2r
+          is_local: false
+          is_playable: true
+          name: Rhythms of Hope
+          track_number: 6
+          type: track
+          uri: spotify:track:6IEoVSVzsnGJQLWW8nHL2r
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+              href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+              id: 3SInttLnvf5G4Aa95aAYPr
+              name: Jean-Luc Ponty
+              type: artist
+              uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+            external_urls:
+              spotify: https://open.spotify.com/album/6Wd0vZgVDObJHsmNfeemgd
+            href: https://api.spotify.com/v1/albums/6Wd0vZgVDObJHsmNfeemgd
+            id: 6Wd0vZgVDObJHsmNfeemgd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d02fcc6a2e2bdb0c9b4560c0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d02fcc6a2e2bdb0c9b4560c0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d02fcc6a2e2bdb0c9b4560c0
+            is_playable: true
+            name: The Jean-Luc Ponty Anthology - Le Voyage
+            release_date: '1996-01-23'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:6Wd0vZgVDObJHsmNfeemgd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+            href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+            id: 3SInttLnvf5G4Aa95aAYPr
+            name: Jean-Luc Ponty
+            type: artist
+            uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+          disc_number: 2
+          duration_ms: 243600
+          explicit: false
+          external_ids:
+            isrc: USAT20180843
+          external_urls:
+            spotify: https://open.spotify.com/track/3zL0DuXSVYkzDP1xHn5pTv
+          href: https://api.spotify.com/v1/tracks/3zL0DuXSVYkzDP1xHn5pTv
+          id: 3zL0DuXSVYkzDP1xHn5pTv
+          is_local: false
+          is_playable: true
+          name: Rhythms of Hope
+          track_number: 5
+          type: track
+          uri: spotify:track:3zL0DuXSVYkzDP1xHn5pTv
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+              href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+              id: 3SInttLnvf5G4Aa95aAYPr
+              name: Jean-Luc Ponty
+              type: artist
+              uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+            external_urls:
+              spotify: https://open.spotify.com/album/2pP07Xj3MaQy8gvLIH3Q71
+            href: https://api.spotify.com/v1/albums/2pP07Xj3MaQy8gvLIH3Q71
+            id: 2pP07Xj3MaQy8gvLIH3Q71
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735b9e1188a5ab55135e657621
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025b9e1188a5ab55135e657621
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515b9e1188a5ab55135e657621
+            is_playable: true
+            name: Mirage
+            release_date: '2016-12-22'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:2pP07Xj3MaQy8gvLIH3Q71
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+            href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+            id: 3SInttLnvf5G4Aa95aAYPr
+            name: Jean-Luc Ponty
+            type: artist
+            uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+          disc_number: 1
+          duration_ms: 243600
+          explicit: false
+          external_ids:
+            isrc: USAT20180843
+          external_urls:
+            spotify: https://open.spotify.com/track/38So109WUHMLk5tvGzIdDx
+          href: https://api.spotify.com/v1/tracks/38So109WUHMLk5tvGzIdDx
+          id: 38So109WUHMLk5tvGzIdDx
+          is_local: false
+          is_playable: true
+          name: Rhythms of Hope
+          track_number: 26
+          type: track
+          uri: spotify:track:38So109WUHMLk5tvGzIdDx
+    isrc: USAT20180843

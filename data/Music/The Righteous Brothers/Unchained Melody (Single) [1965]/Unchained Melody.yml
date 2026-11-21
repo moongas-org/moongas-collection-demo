@@ -56,3 +56,72 @@ mediaFileData:
   year: 1965
   duration: 213.648
   modTime: 2024-03-27 12:49:43.856329+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6InxAKDdFg4na8xlYjKHV8
+    trackId: 6InxAKDdFg4na8xlYjKHV8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUR10200949&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/03l47fDy2CbljsYE8kSUfU
+            href: https://api.spotify.com/v1/albums/03l47fDy2CbljsYE8kSUfU
+            id: 03l47fDy2CbljsYE8kSUfU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ba94d3adb672fd60d984a093
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ba94d3adb672fd60d984a093
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ba94d3adb672fd60d984a093
+            is_playable: true
+            name: 50s Classics
+            release_date: '2019-10-11'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:03l47fDy2CbljsYE8kSUfU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX
+            href: https://api.spotify.com/v1/artists/4b0WsB47XCa9F83BmwQ7WX
+            id: 4b0WsB47XCa9F83BmwQ7WX
+            name: The Righteous Brothers
+            type: artist
+            uri: spotify:artist:4b0WsB47XCa9F83BmwQ7WX
+          disc_number: 1
+          duration_ms: 214813
+          explicit: false
+          external_ids:
+            isrc: USUR10200949
+          external_urls:
+            spotify: https://open.spotify.com/track/6InxAKDdFg4na8xlYjKHV8
+          href: https://api.spotify.com/v1/tracks/6InxAKDdFg4na8xlYjKHV8
+          id: 6InxAKDdFg4na8xlYjKHV8
+          is_local: false
+          is_playable: true
+          name: Unchained Melody - Single Version
+          track_number: 10
+          type: track
+          uri: spotify:track:6InxAKDdFg4na8xlYjKHV8
+    isrc: USUR10200949

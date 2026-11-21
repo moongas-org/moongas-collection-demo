@@ -68,3 +68,180 @@ mediaFileData:
   year: 1982
   duration: 261.696
   modTime: 2025-12-09 02:45:22.356777+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0PbFXpNL2f34qFtJrR3OSW
+    trackId: 0PbFXpNL2f34qFtJrR3OSW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAR19700016&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+              href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+              id: 2m62cc253Xvd9qYQ8d2X3d
+              name: The Alan Parsons Project
+              type: artist
+              uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+            external_urls:
+              spotify: https://open.spotify.com/album/1yPaTI4UxwbhZYbRkyZrFR
+            href: https://api.spotify.com/v1/albums/1yPaTI4UxwbhZYbRkyZrFR
+            id: 1yPaTI4UxwbhZYbRkyZrFR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27397640e686c66ea57428ead21
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0297640e686c66ea57428ead21
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485197640e686c66ea57428ead21
+            is_playable: true
+            name: The Turn Of A Friendly Card
+            release_date: '1980-11-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1yPaTI4UxwbhZYbRkyZrFR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+            href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+            id: 2m62cc253Xvd9qYQ8d2X3d
+            name: The Alan Parsons Project
+            type: artist
+            uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+          disc_number: 1
+          duration_ms: 264123
+          explicit: false
+          external_ids:
+            isrc: USAR19700016
+          external_urls:
+            spotify: https://open.spotify.com/track/0PbFXpNL2f34qFtJrR3OSW
+          href: https://api.spotify.com/v1/tracks/0PbFXpNL2f34qFtJrR3OSW
+          id: 0PbFXpNL2f34qFtJrR3OSW
+          is_local: false
+          is_playable: true
+          name: Games People Play
+          track_number: 2
+          type: track
+          uri: spotify:track:0PbFXpNL2f34qFtJrR3OSW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+              href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+              id: 2m62cc253Xvd9qYQ8d2X3d
+              name: The Alan Parsons Project
+              type: artist
+              uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+            external_urls:
+              spotify: https://open.spotify.com/album/3CM2TjRCh8jWgVJPvKxHR9
+            href: https://api.spotify.com/v1/albums/3CM2TjRCh8jWgVJPvKxHR9
+            id: 3CM2TjRCh8jWgVJPvKxHR9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27325aff903281a33023aa308d3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0225aff903281a33023aa308d3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485125aff903281a33023aa308d3
+            is_playable: true
+            name: The Essential Alan Parsons Project
+            release_date: '2007-01-22'
+            release_date_precision: day
+            total_tracks: 48
+            type: album
+            uri: spotify:album:3CM2TjRCh8jWgVJPvKxHR9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+            href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+            id: 2m62cc253Xvd9qYQ8d2X3d
+            name: The Alan Parsons Project
+            type: artist
+            uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+          disc_number: 2
+          duration_ms: 262586
+          explicit: false
+          external_ids:
+            isrc: USAR19700016
+          external_urls:
+            spotify: https://open.spotify.com/track/135hR7LEmGZBfik2RvPdA9
+          href: https://api.spotify.com/v1/tracks/135hR7LEmGZBfik2RvPdA9
+          id: 135hR7LEmGZBfik2RvPdA9
+          is_local: false
+          is_playable: true
+          name: Games People Play
+          track_number: 1
+          type: track
+          uri: spotify:track:135hR7LEmGZBfik2RvPdA9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+              href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+              id: 2m62cc253Xvd9qYQ8d2X3d
+              name: The Alan Parsons Project
+              type: artist
+              uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+            external_urls:
+              spotify: https://open.spotify.com/album/29202B7yl1kTbGirfOV6ls
+            href: https://api.spotify.com/v1/albums/29202B7yl1kTbGirfOV6ls
+            id: 29202B7yl1kTbGirfOV6ls
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cf0a68c798dddac24ea8f4fc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cf0a68c798dddac24ea8f4fc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cf0a68c798dddac24ea8f4fc
+            is_playable: true
+            name: The Best of The Alan Parsons Project
+            release_date: '1982-02-27'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:29202B7yl1kTbGirfOV6ls
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+            href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+            id: 2m62cc253Xvd9qYQ8d2X3d
+            name: The Alan Parsons Project
+            type: artist
+            uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+          disc_number: 1
+          duration_ms: 258866
+          explicit: false
+          external_ids:
+            isrc: USAR19700016
+          external_urls:
+            spotify: https://open.spotify.com/track/0T2ai0CF8kN5aQR2H0pz0u
+          href: https://api.spotify.com/v1/tracks/0T2ai0CF8kN5aQR2H0pz0u
+          id: 0T2ai0CF8kN5aQR2H0pz0u
+          is_local: false
+          is_playable: true
+          name: Games People Play
+          track_number: 3
+          type: track
+          uri: spotify:track:0T2ai0CF8kN5aQR2H0pz0u
+    isrc: USAR19700016

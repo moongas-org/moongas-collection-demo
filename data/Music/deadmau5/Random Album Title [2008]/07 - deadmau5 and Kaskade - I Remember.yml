@@ -45,3 +45,147 @@ mediaFileData:
   year: 2008
   duration: 593.712
   modTime: 2025-06-21 16:34:19.183061+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1uZskA3rnCQfTe6rz8UM2f
+    trackId: 1uZskA3rnCQfTe6rz8UM2f
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUS10900586&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx
+              href: https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx
+              id: 2CIMQHirSU0MQqyYHq0eOx
+              name: deadmau5
+              type: artist
+              uri: spotify:artist:2CIMQHirSU0MQqyYHq0eOx
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1
+              href: https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1
+              id: 6TQj5BFPooTa08A7pk8AQ1
+              name: Kaskade
+              type: artist
+              uri: spotify:artist:6TQj5BFPooTa08A7pk8AQ1
+            external_urls:
+              spotify: https://open.spotify.com/album/10VePcOVEROqtHiBGquI2A
+            href: https://api.spotify.com/v1/albums/10VePcOVEROqtHiBGquI2A
+            id: 10VePcOVEROqtHiBGquI2A
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a9209748e1f0016e65be37ef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a9209748e1f0016e65be37ef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a9209748e1f0016e65be37ef
+            is_playable: true
+            name: I Remember
+            release_date: '2009-06-09'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:10VePcOVEROqtHiBGquI2A
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx
+            href: https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx
+            id: 2CIMQHirSU0MQqyYHq0eOx
+            name: deadmau5
+            type: artist
+            uri: spotify:artist:2CIMQHirSU0MQqyYHq0eOx
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1
+            href: https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1
+            id: 6TQj5BFPooTa08A7pk8AQ1
+            name: Kaskade
+            type: artist
+            uri: spotify:artist:6TQj5BFPooTa08A7pk8AQ1
+          disc_number: 1
+          duration_ms: 593600
+          explicit: false
+          external_ids:
+            isrc: USUS10900586
+          external_urls:
+            spotify: https://open.spotify.com/track/1uZskA3rnCQfTe6rz8UM2f
+          href: https://api.spotify.com/v1/tracks/1uZskA3rnCQfTe6rz8UM2f
+          id: 1uZskA3rnCQfTe6rz8UM2f
+          is_local: false
+          is_playable: true
+          name: I Remember - Vocal Mix
+          track_number: 2
+          type: track
+          uri: spotify:track:1uZskA3rnCQfTe6rz8UM2f
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx
+              href: https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx
+              id: 2CIMQHirSU0MQqyYHq0eOx
+              name: deadmau5
+              type: artist
+              uri: spotify:artist:2CIMQHirSU0MQqyYHq0eOx
+            external_urls:
+              spotify: https://open.spotify.com/album/0zJAZVUcNPosuA8f8AweLl
+            href: https://api.spotify.com/v1/albums/0zJAZVUcNPosuA8f8AweLl
+            id: 0zJAZVUcNPosuA8f8AweLl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273970494f91c6626b5124e8d14
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02970494f91c6626b5124e8d14
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851970494f91c6626b5124e8d14
+            is_playable: true
+            name: 5 Years of mau5
+            release_date: '2014-11-24'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:0zJAZVUcNPosuA8f8AweLl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx
+            href: https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx
+            id: 2CIMQHirSU0MQqyYHq0eOx
+            name: deadmau5
+            type: artist
+            uri: spotify:artist:2CIMQHirSU0MQqyYHq0eOx
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1
+            href: https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1
+            id: 6TQj5BFPooTa08A7pk8AQ1
+            name: Kaskade
+            type: artist
+            uri: spotify:artist:6TQj5BFPooTa08A7pk8AQ1
+          disc_number: 1
+          duration_ms: 593604
+          explicit: false
+          external_ids:
+            isrc: USUS10900586
+          external_urls:
+            spotify: https://open.spotify.com/track/3kbb3fjMPweIP0eb5sw2Jc
+          href: https://api.spotify.com/v1/tracks/3kbb3fjMPweIP0eb5sw2Jc
+          id: 3kbb3fjMPweIP0eb5sw2Jc
+          is_local: false
+          is_playable: true
+          name: I Remember - Vocal Mix
+          track_number: 3
+          type: track
+          uri: spotify:track:3kbb3fjMPweIP0eb5sw2Jc
+    isrc: USUS10900586

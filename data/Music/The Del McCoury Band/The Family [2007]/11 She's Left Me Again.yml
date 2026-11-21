@@ -34,3 +34,72 @@ mediaFileData:
   year: 1999
   duration: 172.9045
   modTime: 2023-09-22 17:45:52+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2gCvV2vb1oc0WlK3TckHKh
+    trackId: 2gCvV2vb1oc0WlK3TckHKh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSYJA0700106&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt
+              href: https://api.spotify.com/v1/artists/2fj5pzLyOKDpUOPZs9q3wt
+              id: 2fj5pzLyOKDpUOPZs9q3wt
+              name: The Del McCoury Band
+              type: artist
+              uri: spotify:artist:2fj5pzLyOKDpUOPZs9q3wt
+            external_urls:
+              spotify: https://open.spotify.com/album/5SyJ0iSRTRvjiFXo7Cl39A
+            href: https://api.spotify.com/v1/albums/5SyJ0iSRTRvjiFXo7Cl39A
+            id: 5SyJ0iSRTRvjiFXo7Cl39A
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732f879b78ce0b7f16d1d87421
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022f879b78ce0b7f16d1d87421
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512f879b78ce0b7f16d1d87421
+            is_playable: true
+            name: The Family
+            release_date: '1999-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5SyJ0iSRTRvjiFXo7Cl39A
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt
+            href: https://api.spotify.com/v1/artists/2fj5pzLyOKDpUOPZs9q3wt
+            id: 2fj5pzLyOKDpUOPZs9q3wt
+            name: The Del McCoury Band
+            type: artist
+            uri: spotify:artist:2fj5pzLyOKDpUOPZs9q3wt
+          disc_number: 1
+          duration_ms: 172840
+          explicit: false
+          external_ids:
+            isrc: USYJA0700106
+          external_urls:
+            spotify: https://open.spotify.com/track/2gCvV2vb1oc0WlK3TckHKh
+          href: https://api.spotify.com/v1/tracks/2gCvV2vb1oc0WlK3TckHKh
+          id: 2gCvV2vb1oc0WlK3TckHKh
+          is_local: false
+          is_playable: true
+          name: She's Left Me Again
+          track_number: 11
+          type: track
+          uri: spotify:track:2gCvV2vb1oc0WlK3TckHKh
+    isrc: USYJA0700106

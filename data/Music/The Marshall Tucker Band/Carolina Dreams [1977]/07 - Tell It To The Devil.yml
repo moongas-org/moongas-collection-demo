@@ -59,3 +59,72 @@ mediaFileData:
   year: 1977
   duration: 410.952
   modTime: 2024-03-22 20:46:55.151570+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7szP6QDjXsXy4mhrnVSKcm
+    trackId: 7szP6QDjXsXy4mhrnVSKcm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSE90320735&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+              href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+              id: 59QxeZBL6k9L4oJBGSyukd
+              name: The Marshall Tucker Band
+              type: artist
+              uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+            external_urls:
+              spotify: https://open.spotify.com/album/4hOQlioNQZpq9CIUFXcDwE
+            href: https://api.spotify.com/v1/albums/4hOQlioNQZpq9CIUFXcDwE
+            id: 4hOQlioNQZpq9CIUFXcDwE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dffa097b2a06622b981cae9b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dffa097b2a06622b981cae9b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dffa097b2a06622b981cae9b
+            is_playable: true
+            name: Carolina Dreams
+            release_date: '1977-01-01'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:4hOQlioNQZpq9CIUFXcDwE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+            href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+            id: 59QxeZBL6k9L4oJBGSyukd
+            name: The Marshall Tucker Band
+            type: artist
+            uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+          disc_number: 1
+          duration_ms: 410866
+          explicit: false
+          external_ids:
+            isrc: USSE90320735
+          external_urls:
+            spotify: https://open.spotify.com/track/7szP6QDjXsXy4mhrnVSKcm
+          href: https://api.spotify.com/v1/tracks/7szP6QDjXsXy4mhrnVSKcm
+          id: 7szP6QDjXsXy4mhrnVSKcm
+          is_local: false
+          is_playable: true
+          name: Tell It to the Devil
+          track_number: 7
+          type: track
+          uri: spotify:track:7szP6QDjXsXy4mhrnVSKcm
+    isrc: USSE90320735

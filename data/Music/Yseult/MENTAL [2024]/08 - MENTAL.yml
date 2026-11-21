@@ -34,3 +34,72 @@ mediaFileData:
   year: 2024
   duration: 180.768
   modTime: 2025-03-20 23:31:45.052535+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Ae47q0eaoxM13FE6aTlCZ
+    trackId: 0Ae47q0eaoxM13FE6aTlCZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRX202468058&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX
+              href: https://api.spotify.com/v1/artists/1QsdzIKkTT5gDFj8GB1cIX
+              id: 1QsdzIKkTT5gDFj8GB1cIX
+              name: Yseult
+              type: artist
+              uri: spotify:artist:1QsdzIKkTT5gDFj8GB1cIX
+            external_urls:
+              spotify: https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg
+            href: https://api.spotify.com/v1/albums/2YYhXELGahnGRjZinTCHYg
+            id: 2YYhXELGahnGRjZinTCHYg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732d27a6727ea2c20fc56442ab
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022d27a6727ea2c20fc56442ab
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512d27a6727ea2c20fc56442ab
+            is_playable: true
+            name: MENTAL
+            release_date: '2024-09-20'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2YYhXELGahnGRjZinTCHYg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX
+            href: https://api.spotify.com/v1/artists/1QsdzIKkTT5gDFj8GB1cIX
+            id: 1QsdzIKkTT5gDFj8GB1cIX
+            name: Yseult
+            type: artist
+            uri: spotify:artist:1QsdzIKkTT5gDFj8GB1cIX
+          disc_number: 1
+          duration_ms: 180754
+          explicit: false
+          external_ids:
+            isrc: FRX202468058
+          external_urls:
+            spotify: https://open.spotify.com/track/0Ae47q0eaoxM13FE6aTlCZ
+          href: https://api.spotify.com/v1/tracks/0Ae47q0eaoxM13FE6aTlCZ
+          id: 0Ae47q0eaoxM13FE6aTlCZ
+          is_local: false
+          is_playable: true
+          name: MENTAL
+          track_number: 8
+          type: track
+          uri: spotify:track:0Ae47q0eaoxM13FE6aTlCZ
+    isrc: FRX202468058

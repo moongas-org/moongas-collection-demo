@@ -41,3 +41,72 @@ mediaFileData:
   year: 1999
   duration: 271.728
   modTime: 2023-09-24 09:25:58+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0yUyPe5c1o5cCyV7aJkz6F
+    trackId: 0yUyPe5c1o5cCyV7aJkz6F
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR19902581&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO
+              href: https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO
+              id: 0X380XXQSNBYuleKzav5UO
+              name: Nine Inch Nails
+              type: artist
+              uri: spotify:artist:0X380XXQSNBYuleKzav5UO
+            external_urls:
+              spotify: https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8
+            href: https://api.spotify.com/v1/albums/4uiVwLbTzE6VMkXpaDAwB8
+            id: 4uiVwLbTzE6VMkXpaDAwB8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273237a21c8ba1bfc2d85a83585
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02237a21c8ba1bfc2d85a83585
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851237a21c8ba1bfc2d85a83585
+            is_playable: true
+            name: The Fragile
+            release_date: '1999-09-21'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:4uiVwLbTzE6VMkXpaDAwB8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO
+            href: https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO
+            id: 0X380XXQSNBYuleKzav5UO
+            name: Nine Inch Nails
+            type: artist
+            uri: spotify:artist:0X380XXQSNBYuleKzav5UO
+          disc_number: 1
+          duration_ms: 271693
+          explicit: true
+          external_ids:
+            isrc: USIR19902581
+          external_urls:
+            spotify: https://open.spotify.com/track/0yUyPe5c1o5cCyV7aJkz6F
+          href: https://api.spotify.com/v1/tracks/0yUyPe5c1o5cCyV7aJkz6F
+          id: 0yUyPe5c1o5cCyV7aJkz6F
+          is_local: false
+          is_playable: true
+          name: Somewhat Damaged
+          track_number: 1
+          type: track
+          uri: spotify:track:0yUyPe5c1o5cCyV7aJkz6F
+    isrc: USIR19902581

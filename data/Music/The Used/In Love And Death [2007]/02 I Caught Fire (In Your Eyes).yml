@@ -66,3 +66,288 @@ mediaFileData:
   year: 2004
   duration: 210.97650793650794
   modTime: 2023-05-14 14:04:57.120000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2BSumrBILs9BWobnIp8xR5
+    trackId: 2BSumrBILs9BWobnIp8xR5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE10400949&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRE10400949&type=track
+        offset: 0
+        previous:
+        total: 7
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL
+              href: https://api.spotify.com/v1/artists/55VydwMyCuGcavwPuhutPL
+              id: 55VydwMyCuGcavwPuhutPL
+              name: The Used
+              type: artist
+              uri: spotify:artist:55VydwMyCuGcavwPuhutPL
+            external_urls:
+              spotify: https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB
+            href: https://api.spotify.com/v1/albums/7ti7GRohhMB297OWRN0aQB
+            id: 7ti7GRohhMB297OWRN0aQB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27376a69208856d670257a7a1ff
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0276a69208856d670257a7a1ff
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485176a69208856d670257a7a1ff
+            is_playable: true
+            name: I Caught Fire
+            release_date: '2005-11-07'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:7ti7GRohhMB297OWRN0aQB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL
+            href: https://api.spotify.com/v1/artists/55VydwMyCuGcavwPuhutPL
+            id: 55VydwMyCuGcavwPuhutPL
+            name: The Used
+            type: artist
+            uri: spotify:artist:55VydwMyCuGcavwPuhutPL
+          disc_number: 1
+          duration_ms: 205160
+          explicit: false
+          external_ids:
+            isrc: USRE10400949
+          external_urls:
+            spotify: https://open.spotify.com/track/2BSumrBILs9BWobnIp8xR5
+          href: https://api.spotify.com/v1/tracks/2BSumrBILs9BWobnIp8xR5
+          id: 2BSumrBILs9BWobnIp8xR5
+          is_local: false
+          is_playable: true
+          name: I Caught Fire
+          track_number: 1
+          type: track
+          uri: spotify:track:2BSumrBILs9BWobnIp8xR5
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL
+              href: https://api.spotify.com/v1/artists/55VydwMyCuGcavwPuhutPL
+              id: 55VydwMyCuGcavwPuhutPL
+              name: The Used
+              type: artist
+              uri: spotify:artist:55VydwMyCuGcavwPuhutPL
+            external_urls:
+              spotify: https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2
+            href: https://api.spotify.com/v1/albums/10Mw53MGdbK8KjIhBM0Wx2
+            id: 10Mw53MGdbK8KjIhBM0Wx2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b5bc4686d08a5812a63f180d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b5bc4686d08a5812a63f180d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b5bc4686d08a5812a63f180d
+            is_playable: true
+            name: In Love and Death
+            release_date: '2004-09-27'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:10Mw53MGdbK8KjIhBM0Wx2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL
+            href: https://api.spotify.com/v1/artists/55VydwMyCuGcavwPuhutPL
+            id: 55VydwMyCuGcavwPuhutPL
+            name: The Used
+            type: artist
+            uri: spotify:artist:55VydwMyCuGcavwPuhutPL
+          disc_number: 1
+          duration_ms: 205160
+          explicit: false
+          external_ids:
+            isrc: USRE10400949
+          external_urls:
+            spotify: https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM
+          href: https://api.spotify.com/v1/tracks/6z2Fx4b0hjqLdsJQOrNxbM
+          id: 6z2Fx4b0hjqLdsJQOrNxbM
+          is_local: false
+          is_playable: true
+          name: I Caught Fire
+          track_number: 2
+          type: track
+          uri: spotify:track:6z2Fx4b0hjqLdsJQOrNxbM
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1jNV367bAhq5M8szF4EG6f
+            href: https://api.spotify.com/v1/albums/1jNV367bAhq5M8szF4EG6f
+            id: 1jNV367bAhq5M8szF4EG6f
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273162dca2d86374e98757b0568
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02162dca2d86374e98757b0568
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851162dca2d86374e98757b0568
+            is_playable: true
+            name: Emo Confessions
+            release_date: '2019-05-31'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:1jNV367bAhq5M8szF4EG6f
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL
+            href: https://api.spotify.com/v1/artists/55VydwMyCuGcavwPuhutPL
+            id: 55VydwMyCuGcavwPuhutPL
+            name: The Used
+            type: artist
+            uri: spotify:artist:55VydwMyCuGcavwPuhutPL
+          disc_number: 1
+          duration_ms: 205160
+          explicit: false
+          external_ids:
+            isrc: USRE10400949
+          external_urls:
+            spotify: https://open.spotify.com/track/28eszBJbvC2GFAYjjxkzOM
+          href: https://api.spotify.com/v1/tracks/28eszBJbvC2GFAYjjxkzOM
+          id: 28eszBJbvC2GFAYjjxkzOM
+          is_local: false
+          is_playable: true
+          name: I Caught Fire
+          track_number: 25
+          type: track
+          uri: spotify:track:28eszBJbvC2GFAYjjxkzOM
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7nuOcagstlrnNEZ5IDaxI6
+            href: https://api.spotify.com/v1/albums/7nuOcagstlrnNEZ5IDaxI6
+            id: 7nuOcagstlrnNEZ5IDaxI6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cc7918b278e5257d3030fb81
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cc7918b278e5257d3030fb81
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cc7918b278e5257d3030fb81
+            is_playable: true
+            name: EMO
+            release_date: '2017-05-08'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:7nuOcagstlrnNEZ5IDaxI6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL
+            href: https://api.spotify.com/v1/artists/55VydwMyCuGcavwPuhutPL
+            id: 55VydwMyCuGcavwPuhutPL
+            name: The Used
+            type: artist
+            uri: spotify:artist:55VydwMyCuGcavwPuhutPL
+          disc_number: 1
+          duration_ms: 205160
+          explicit: false
+          external_ids:
+            isrc: USRE10400949
+          external_urls:
+            spotify: https://open.spotify.com/track/3xfCVe6Jy47i6aAfTUZ5pb
+          href: https://api.spotify.com/v1/tracks/3xfCVe6Jy47i6aAfTUZ5pb
+          id: 3xfCVe6Jy47i6aAfTUZ5pb
+          is_local: false
+          is_playable: true
+          name: I Caught Fire
+          track_number: 2
+          type: track
+          uri: spotify:track:3xfCVe6Jy47i6aAfTUZ5pb
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3jsDnLoN6CPN9gUYJnM4t7
+            href: https://api.spotify.com/v1/albums/3jsDnLoN6CPN9gUYJnM4t7
+            id: 3jsDnLoN6CPN9gUYJnM4t7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736ef4fa20a35067ab33d15bba
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026ef4fa20a35067ab33d15bba
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516ef4fa20a35067ab33d15bba
+            is_playable: true
+            name: Pai emo
+            release_date: '2023-07-21'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:3jsDnLoN6CPN9gUYJnM4t7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL
+            href: https://api.spotify.com/v1/artists/55VydwMyCuGcavwPuhutPL
+            id: 55VydwMyCuGcavwPuhutPL
+            name: The Used
+            type: artist
+            uri: spotify:artist:55VydwMyCuGcavwPuhutPL
+          disc_number: 1
+          duration_ms: 205160
+          explicit: false
+          external_ids:
+            isrc: USRE10400949
+          external_urls:
+            spotify: https://open.spotify.com/track/76I4iLtIgqyRc8IplIhRf2
+          href: https://api.spotify.com/v1/tracks/76I4iLtIgqyRc8IplIhRf2
+          id: 76I4iLtIgqyRc8IplIhRf2
+          is_local: false
+          is_playable: true
+          name: I Caught Fire
+          track_number: 12
+          type: track
+          uri: spotify:track:76I4iLtIgqyRc8IplIhRf2
+    isrc: USRE10400949

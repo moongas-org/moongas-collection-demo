@@ -47,3 +47,180 @@ mediaFileData:
   year: 2000
   duration: 208.49197278911564
   modTime: 2019-03-23 03:08:47+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1o0NszU2tK0Wjchq91N9x9
+    trackId: 1o0NszU2tK0Wjchq91N9x9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ANLA320988556&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0
+              href: https://api.spotify.com/v1/artists/7nt6S4klYHg4I7Q4lTSmc0
+              id: 7nt6S4klYHg4I7Q4lTSmc0
+              name: Glassjaw
+              type: artist
+              uri: spotify:artist:7nt6S4klYHg4I7Q4lTSmc0
+            external_urls:
+              spotify: https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8
+            href: https://api.spotify.com/v1/albums/1fUuTc7d6COMx8rR1qAmr8
+            id: 1fUuTc7d6COMx8rR1qAmr8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27316f35eda3787745f63e1223f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0216f35eda3787745f63e1223f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485116f35eda3787745f63e1223f
+            is_playable: true
+            name: Everything You Ever Wanted To Know About Silence Remaster
+            release_date: '2000-05-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1fUuTc7d6COMx8rR1qAmr8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0
+            href: https://api.spotify.com/v1/artists/7nt6S4klYHg4I7Q4lTSmc0
+            id: 7nt6S4klYHg4I7Q4lTSmc0
+            name: Glassjaw
+            type: artist
+            uri: spotify:artist:7nt6S4klYHg4I7Q4lTSmc0
+          disc_number: 1
+          duration_ms: 208440
+          explicit: true
+          external_ids:
+            isrc: NLA320988556
+          external_urls:
+            spotify: https://open.spotify.com/track/1o0NszU2tK0Wjchq91N9x9
+          href: https://api.spotify.com/v1/tracks/1o0NszU2tK0Wjchq91N9x9
+          id: 1o0NszU2tK0Wjchq91N9x9
+          is_local: false
+          is_playable: true
+          name: Hurting and Shoving (She Should Have Let Me Sleep) - 2009 Remaster
+          track_number: 6
+          type: track
+          uri: spotify:track:1o0NszU2tK0Wjchq91N9x9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7uReKLpiarCTIe8esbfMxH
+            href: https://api.spotify.com/v1/albums/7uReKLpiarCTIe8esbfMxH
+            id: 7uReKLpiarCTIe8esbfMxH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273530e1bf5c5972e1a06e10365
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02530e1bf5c5972e1a06e10365
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851530e1bf5c5972e1a06e10365
+            is_playable: true
+            name: This is Heavy
+            release_date: '2024-08-28'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:7uReKLpiarCTIe8esbfMxH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0
+            href: https://api.spotify.com/v1/artists/7nt6S4klYHg4I7Q4lTSmc0
+            id: 7nt6S4klYHg4I7Q4lTSmc0
+            name: Glassjaw
+            type: artist
+            uri: spotify:artist:7nt6S4klYHg4I7Q4lTSmc0
+          disc_number: 1
+          duration_ms: 208440
+          explicit: true
+          external_ids:
+            isrc: NLA320988556
+          external_urls:
+            spotify: https://open.spotify.com/track/3CkKWr3M8nOMIhCZEVuAlM
+          href: https://api.spotify.com/v1/tracks/3CkKWr3M8nOMIhCZEVuAlM
+          id: 3CkKWr3M8nOMIhCZEVuAlM
+          is_local: false
+          is_playable: true
+          name: Hurting and Shoving (She Should Have Let Me Sleep) - 2009 Remaster
+          track_number: 26
+          type: track
+          uri: spotify:track:3CkKWr3M8nOMIhCZEVuAlM
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6cwou9ll99DCFnUSiNW61l
+            href: https://api.spotify.com/v1/albums/6cwou9ll99DCFnUSiNW61l
+            id: 6cwou9ll99DCFnUSiNW61l
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dcfdaab47d78d9e187add869
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dcfdaab47d78d9e187add869
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dcfdaab47d78d9e187add869
+            is_playable: true
+            name: Misery and Crisis
+            release_date: '2025-05-16'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:6cwou9ll99DCFnUSiNW61l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0
+            href: https://api.spotify.com/v1/artists/7nt6S4klYHg4I7Q4lTSmc0
+            id: 7nt6S4klYHg4I7Q4lTSmc0
+            name: Glassjaw
+            type: artist
+            uri: spotify:artist:7nt6S4klYHg4I7Q4lTSmc0
+          disc_number: 1
+          duration_ms: 208440
+          explicit: true
+          external_ids:
+            isrc: NLA320988556
+          external_urls:
+            spotify: https://open.spotify.com/track/4mxGrxqNyq5n2x8Abaxmev
+          href: https://api.spotify.com/v1/tracks/4mxGrxqNyq5n2x8Abaxmev
+          id: 4mxGrxqNyq5n2x8Abaxmev
+          is_local: false
+          is_playable: true
+          name: Hurting and Shoving (She Should Have Let Me Sleep) - 2009 Remaster
+          track_number: 18
+          type: track
+          uri: spotify:track:4mxGrxqNyq5n2x8Abaxmev
+    isrc: NLA320988556

@@ -45,3 +45,126 @@ mediaFileData:
   year: 1995
   duration: 179.7485625
   modTime: 2023-09-24 09:41:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7vGiMj5OHWXDaeKxFfmAvQ
+    trackId: 7vGiMj5OHWXDaeKxFfmAvQ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10181201&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9
+            href: https://api.spotify.com/v1/albums/6O5lhr0v3ci9fMEIK5g5a9
+            id: 6O5lhr0v3ci9fMEIK5g5a9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735ae43c9ed3c8e26d670ad73b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025ae43c9ed3c8e26d670ad73b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515ae43c9ed3c8e26d670ad73b
+            is_playable: true
+            name: '...And the Circus Leaves Town'
+            release_date: '1995-05-30'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6O5lhr0v3ci9fMEIK5g5a9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 179826
+          explicit: false
+          external_ids:
+            isrc: USEE10181201
+          external_urls:
+            spotify: https://open.spotify.com/track/7vGiMj5OHWXDaeKxFfmAvQ
+          href: https://api.spotify.com/v1/tracks/7vGiMj5OHWXDaeKxFfmAvQ
+          id: 7vGiMj5OHWXDaeKxFfmAvQ
+          is_local: false
+          is_playable: true
+          name: Catamaran
+          track_number: 10
+          type: track
+          uri: spotify:track:7vGiMj5OHWXDaeKxFfmAvQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3aZkiHdot9L3kmgIxiGO1q
+            href: https://api.spotify.com/v1/albums/3aZkiHdot9L3kmgIxiGO1q
+            id: 3aZkiHdot9L3kmgIxiGO1q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cd88cb7bd679a9b90584f8ee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cd88cb7bd679a9b90584f8ee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cd88cb7bd679a9b90584f8ee
+            is_playable: true
+            name: American Rock Sound
+            release_date: '2019-05-31'
+            release_date_precision: day
+            total_tracks: 53
+            type: album
+            uri: spotify:album:3aZkiHdot9L3kmgIxiGO1q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 179826
+          explicit: false
+          external_ids:
+            isrc: USEE10181201
+          external_urls:
+            spotify: https://open.spotify.com/track/3luaRaXYCd5KK4ZwgBHx28
+          href: https://api.spotify.com/v1/tracks/3luaRaXYCd5KK4ZwgBHx28
+          id: 3luaRaXYCd5KK4ZwgBHx28
+          is_local: false
+          is_playable: true
+          name: Catamaran
+          track_number: 36
+          type: track
+          uri: spotify:track:3luaRaXYCd5KK4ZwgBHx28
+    isrc: USEE10181201

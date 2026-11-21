@@ -34,3 +34,180 @@ mediaFileData:
   year: 1983
   duration: 177.37142857142857
   modTime: 2026-04-14 16:18:02.834480+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3RpNWHT2fu4uIPsCUTmrUA
+    trackId: 3RpNWHT2fu4uIPsCUTmrUA
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10704447&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS
+            href: https://api.spotify.com/v1/albums/2cWX0i12WDcbP8Gp6cACvS
+            id: 2cWX0i12WDcbP8Gp6cACvS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734b01f494a5e1507e3360f4a8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024b01f494a5e1507e3360f4a8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514b01f494a5e1507e3360f4a8
+            is_playable: true
+            name: All The People Are Talkin'
+            release_date: '1983'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2cWX0i12WDcbP8Gp6cACvS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 177293
+          explicit: false
+          external_ids:
+            isrc: USWB10704447
+          external_urls:
+            spotify: https://open.spotify.com/track/3RpNWHT2fu4uIPsCUTmrUA
+          href: https://api.spotify.com/v1/tracks/3RpNWHT2fu4uIPsCUTmrUA
+          id: 3RpNWHT2fu4uIPsCUTmrUA
+          is_local: false
+          is_playable: true
+          name: Old Mexico
+          track_number: 10
+          type: track
+          uri: spotify:track:3RpNWHT2fu4uIPsCUTmrUA
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/0kqkhb1pTYJNpEAru1sYMU
+            href: https://api.spotify.com/v1/albums/0kqkhb1pTYJNpEAru1sYMU
+            id: 0kqkhb1pTYJNpEAru1sYMU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736325fec97d706a6c6fab7cbe
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026325fec97d706a6c6fab7cbe
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516325fec97d706a6c6fab7cbe
+            is_playable: true
+            name: 'Black Sheep: The Complete Warner Albums'
+            release_date: '2020-10-30'
+            release_date_precision: day
+            total_tracks: 83
+            type: album
+            uri: spotify:album:0kqkhb1pTYJNpEAru1sYMU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 177293
+          explicit: false
+          external_ids:
+            isrc: USWB10704447
+          external_urls:
+            spotify: https://open.spotify.com/track/5RSHxVQwsZFxbO2P1M7zQo
+          href: https://api.spotify.com/v1/tracks/5RSHxVQwsZFxbO2P1M7zQo
+          id: 5RSHxVQwsZFxbO2P1M7zQo
+          is_local: false
+          is_playable: true
+          name: Old Mexico
+          track_number: 53
+          type: track
+          uri: spotify:track:5RSHxVQwsZFxbO2P1M7zQo
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/7inE26fRWKoQjVQBaeRrIg
+            href: https://api.spotify.com/v1/albums/7inE26fRWKoQjVQBaeRrIg
+            id: 7inE26fRWKoQjVQBaeRrIg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273379797b5fe974d6144b5182a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02379797b5fe974d6144b5182a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851379797b5fe974d6144b5182a
+            is_playable: true
+            name: "Cheatin' Songs: The Warner Singles"
+            release_date: '2020-09-18'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:7inE26fRWKoQjVQBaeRrIg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 177293
+          explicit: false
+          external_ids:
+            isrc: USWB10704447
+          external_urls:
+            spotify: https://open.spotify.com/track/7kYKTl8DNYKyArbCy1GKC1
+          href: https://api.spotify.com/v1/tracks/7kYKTl8DNYKyArbCy1GKC1
+          id: 7kYKTl8DNYKyArbCy1GKC1
+          is_local: false
+          is_playable: true
+          name: Old Mexico
+          track_number: 15
+          type: track
+          uri: spotify:track:7kYKTl8DNYKyArbCy1GKC1
+    isrc: USWB10704447

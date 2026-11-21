@@ -96,3 +96,180 @@ mediaFileData:
   year: 1973
   duration: 271.046525
   modTime: 2023-08-26 13:35:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0AqjkVFqa1ujle4Lb1k9wR
+    trackId: 0AqjkVFqa1ujle4Lb1k9wR
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT21300897&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk
+            href: https://api.spotify.com/v1/albums/0GqpoHJREPp0iuXK3HzrHk
+            id: 0GqpoHJREPp0iuXK3HzrHk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731aa47e71c4edfeaddb65cd54
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021aa47e71c4edfeaddb65cd54
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511aa47e71c4edfeaddb65cd54
+            is_playable: true
+            name: Houses of the Holy (Remaster)
+            release_date: '1973-03-28'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:0GqpoHJREPp0iuXK3HzrHk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 271397
+          explicit: false
+          external_ids:
+            isrc: USAT21300897
+          external_urls:
+            spotify: https://open.spotify.com/track/0AqjkVFqa1ujle4Lb1k9wR
+          href: https://api.spotify.com/v1/tracks/0AqjkVFqa1ujle4Lb1k9wR
+          id: 0AqjkVFqa1ujle4Lb1k9wR
+          is_local: false
+          is_playable: true
+          name: The Ocean - Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:0AqjkVFqa1ujle4Lb1k9wR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/5jQEuOsezpHOAhfQXMGTLo
+            href: https://api.spotify.com/v1/albums/5jQEuOsezpHOAhfQXMGTLo
+            id: 5jQEuOsezpHOAhfQXMGTLo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27336adde683a3b172bf8eb6ab1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0236adde683a3b172bf8eb6ab1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485136adde683a3b172bf8eb6ab1
+            is_playable: true
+            name: Led Zeppelin x Led Zeppelin
+            release_date: '2018-09-27'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:5jQEuOsezpHOAhfQXMGTLo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 271397
+          explicit: false
+          external_ids:
+            isrc: USAT21300897
+          external_urls:
+            spotify: https://open.spotify.com/track/6nHf1bb2XMeXQOJKjKc4Mv
+          href: https://api.spotify.com/v1/tracks/6nHf1bb2XMeXQOJKjKc4Mv
+          id: 6nHf1bb2XMeXQOJKjKc4Mv
+          is_local: false
+          is_playable: true
+          name: The Ocean - Remaster
+          track_number: 20
+          type: track
+          uri: spotify:track:6nHf1bb2XMeXQOJKjKc4Mv
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S
+            href: https://api.spotify.com/v1/albums/7gS8ozSkvPW3VBPLnXOZ7S
+            id: 7gS8ozSkvPW3VBPLnXOZ7S
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731816adce1d49e35d3ce9a1d1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021816adce1d49e35d3ce9a1d1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511816adce1d49e35d3ce9a1d1
+            is_playable: true
+            name: Houses of the Holy (Deluxe Edition)
+            release_date: '1973-03-28'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:7gS8ozSkvPW3VBPLnXOZ7S
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 271397
+          explicit: false
+          external_ids:
+            isrc: USAT21300897
+          external_urls:
+            spotify: https://open.spotify.com/track/4KM9TyVRbsLENiuai9aqup
+          href: https://api.spotify.com/v1/tracks/4KM9TyVRbsLENiuai9aqup
+          id: 4KM9TyVRbsLENiuai9aqup
+          is_local: false
+          is_playable: true
+          name: The Ocean - Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:4KM9TyVRbsLENiuai9aqup
+    isrc: USAT21300897

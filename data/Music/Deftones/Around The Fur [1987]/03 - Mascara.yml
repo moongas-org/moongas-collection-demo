@@ -45,3 +45,126 @@ mediaFileData:
   year: 1997
   duration: 225.33333333333334
   modTime: 2025-01-20 21:21:16.574544+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/35LOWnUVpr5TmgqfwyiERf
+    trackId: 35LOWnUVpr5TmgqfwyiERf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMV29700144&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH
+              href: https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH
+              id: 6Ghvu1VvMGScGpOUJBAHNH
+              name: Deftones
+              type: artist
+              uri: spotify:artist:6Ghvu1VvMGScGpOUJBAHNH
+            external_urls:
+              spotify: https://open.spotify.com/album/75YWnu6p1XBiKVKBjfsUq8
+            href: https://api.spotify.com/v1/albums/75YWnu6p1XBiKVKBjfsUq8
+            id: 75YWnu6p1XBiKVKBjfsUq8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0273efcc27c1611c2ca389c8fd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485173efcc27c1611c2ca389c8fd
+            is_playable: true
+            name: The Studio Album Collection
+            release_date: '2016-04-07'
+            release_date_precision: day
+            total_tracks: 78
+            type: album
+            uri: spotify:album:75YWnu6p1XBiKVKBjfsUq8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH
+            href: https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH
+            id: 6Ghvu1VvMGScGpOUJBAHNH
+            name: Deftones
+            type: artist
+            uri: spotify:artist:6Ghvu1VvMGScGpOUJBAHNH
+          disc_number: 2
+          duration_ms: 225293
+          explicit: false
+          external_ids:
+            isrc: USMV29700144
+          external_urls:
+            spotify: https://open.spotify.com/track/35LOWnUVpr5TmgqfwyiERf
+          href: https://api.spotify.com/v1/tracks/35LOWnUVpr5TmgqfwyiERf
+          id: 35LOWnUVpr5TmgqfwyiERf
+          is_local: false
+          is_playable: true
+          name: Mascara
+          track_number: 3
+          type: track
+          uri: spotify:track:35LOWnUVpr5TmgqfwyiERf
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH
+              href: https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH
+              id: 6Ghvu1VvMGScGpOUJBAHNH
+              name: Deftones
+              type: artist
+              uri: spotify:artist:6Ghvu1VvMGScGpOUJBAHNH
+            external_urls:
+              spotify: https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu
+            href: https://api.spotify.com/v1/albums/7o4UsmV37Sg5It2Eb7vHzu
+            id: 7o4UsmV37Sg5It2Eb7vHzu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510b1129853982ea17845d4eb6
+            is_playable: true
+            name: Around the Fur
+            release_date: '1997-10-27'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7o4UsmV37Sg5It2Eb7vHzu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH
+            href: https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH
+            id: 6Ghvu1VvMGScGpOUJBAHNH
+            name: Deftones
+            type: artist
+            uri: spotify:artist:6Ghvu1VvMGScGpOUJBAHNH
+          disc_number: 1
+          duration_ms: 225293
+          explicit: false
+          external_ids:
+            isrc: USMV29700144
+          external_urls:
+            spotify: https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ
+          href: https://api.spotify.com/v1/tracks/4cLdpErILMO8Db8pQVAVcZ
+          id: 4cLdpErILMO8Db8pQVAVcZ
+          is_local: false
+          is_playable: true
+          name: Mascara
+          track_number: 3
+          type: track
+          uri: spotify:track:4cLdpErILMO8Db8pQVAVcZ
+    isrc: USMV29700144

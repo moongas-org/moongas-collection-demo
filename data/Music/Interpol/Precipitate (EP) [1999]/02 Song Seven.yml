@@ -50,3 +50,72 @@ mediaFileData:
   year: 2001
   duration: 280.77975
   modTime: 2023-05-14 14:36:42.750000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1Xlxh6iXTdRRTTb1DxlgNc
+    trackId: 1Xlxh6iXTdRRTTb1DxlgNc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD1203115&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B
+              href: https://api.spotify.com/v1/artists/3WaJSfKnzc65VDgmj2zU8B
+              id: 3WaJSfKnzc65VDgmj2zU8B
+              name: Interpol
+              type: artist
+              uri: spotify:artist:3WaJSfKnzc65VDgmj2zU8B
+            external_urls:
+              spotify: https://open.spotify.com/album/5oJ2OTdqCteMkGDjzcItNN
+            href: https://api.spotify.com/v1/albums/5oJ2OTdqCteMkGDjzcItNN
+            id: 5oJ2OTdqCteMkGDjzcItNN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736b09479946616a3d77fed533
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026b09479946616a3d77fed533
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516b09479946616a3d77fed533
+            is_playable: true
+            name: Turn On The Bright Lights (The Tenth Anniversary Edition - 2012 Remaster)
+            release_date: '2002-08-20'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:5oJ2OTdqCteMkGDjzcItNN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B
+            href: https://api.spotify.com/v1/artists/3WaJSfKnzc65VDgmj2zU8B
+            id: 3WaJSfKnzc65VDgmj2zU8B
+            name: Interpol
+            type: artist
+            uri: spotify:artist:3WaJSfKnzc65VDgmj2zU8B
+          disc_number: 2
+          duration_ms: 283120
+          explicit: false
+          external_ids:
+            isrc: USMTD1203115
+          external_urls:
+            spotify: https://open.spotify.com/track/1Xlxh6iXTdRRTTb1DxlgNc
+          href: https://api.spotify.com/v1/tracks/1Xlxh6iXTdRRTTb1DxlgNc
+          id: 1Xlxh6iXTdRRTTb1DxlgNc
+          is_local: false
+          is_playable: true
+          name: Song Seven - Second Demo - 2012 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:1Xlxh6iXTdRRTTb1DxlgNc
+    isrc: USMTD1203115

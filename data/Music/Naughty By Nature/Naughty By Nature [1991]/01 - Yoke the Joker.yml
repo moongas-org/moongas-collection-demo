@@ -55,3 +55,72 @@ mediaFileData:
   year: 1991
   duration: 313.704
   modTime: 2025-08-30 18:23:58.964573+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Aujn3OS6bSqprR2UVGlfy
+    trackId: 4Aujn3OS6bSqprR2UVGlfy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSTB10300151&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC
+              href: https://api.spotify.com/v1/artists/4Otx4bRLSfpah5kX8hdgDC
+              id: 4Otx4bRLSfpah5kX8hdgDC
+              name: Naughty By Nature
+              type: artist
+              uri: spotify:artist:4Otx4bRLSfpah5kX8hdgDC
+            external_urls:
+              spotify: https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO
+            href: https://api.spotify.com/v1/albums/6kl6a70fSIbl8amKSBzmhO
+            id: 6kl6a70fSIbl8amKSBzmhO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f631e275b1f65ce108977e4e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f631e275b1f65ce108977e4e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f631e275b1f65ce108977e4e
+            is_playable: true
+            name: Naughty By Nature
+            release_date: '1991-09-03'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:6kl6a70fSIbl8amKSBzmhO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC
+            href: https://api.spotify.com/v1/artists/4Otx4bRLSfpah5kX8hdgDC
+            id: 4Otx4bRLSfpah5kX8hdgDC
+            name: Naughty By Nature
+            type: artist
+            uri: spotify:artist:4Otx4bRLSfpah5kX8hdgDC
+          disc_number: 1
+          duration_ms: 313640
+          explicit: true
+          external_ids:
+            isrc: USTB10300151
+          external_urls:
+            spotify: https://open.spotify.com/track/4Aujn3OS6bSqprR2UVGlfy
+          href: https://api.spotify.com/v1/tracks/4Aujn3OS6bSqprR2UVGlfy
+          id: 4Aujn3OS6bSqprR2UVGlfy
+          is_local: false
+          is_playable: true
+          name: Yoke the Joker
+          track_number: 1
+          type: track
+          uri: spotify:track:4Aujn3OS6bSqprR2UVGlfy
+    isrc: USTB10300151

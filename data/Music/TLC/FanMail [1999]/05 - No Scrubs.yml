@@ -332,3 +332,126 @@ mediaFileData:
   year: 1999
   duration: 214.44
   modTime: 2025-03-18 01:18:30.760906+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/65YUjU1RCMobliXwXtfpzA
+    trackId: 65YUjU1RCMobliXwXtfpzA
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM11306174&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq
+              href: https://api.spotify.com/v1/artists/0TImkz4nPqjegtVSMZnMRq
+              id: 0TImkz4nPqjegtVSMZnMRq
+              name: TLC
+              type: artist
+              uri: spotify:artist:0TImkz4nPqjegtVSMZnMRq
+            external_urls:
+              spotify: https://open.spotify.com/album/3dq455biBObErkzqox5TpS
+            href: https://api.spotify.com/v1/albums/3dq455biBObErkzqox5TpS
+            id: 3dq455biBObErkzqox5TpS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273915ff4edf8a05d50b3a330fa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02915ff4edf8a05d50b3a330fa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851915ff4edf8a05d50b3a330fa
+            is_playable: true
+            name: '20'
+            release_date: '2013-10-15'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:3dq455biBObErkzqox5TpS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq
+            href: https://api.spotify.com/v1/artists/0TImkz4nPqjegtVSMZnMRq
+            id: 0TImkz4nPqjegtVSMZnMRq
+            name: TLC
+            type: artist
+            uri: spotify:artist:0TImkz4nPqjegtVSMZnMRq
+          disc_number: 1
+          duration_ms: 216906
+          explicit: false
+          external_ids:
+            isrc: USSM11306174
+          external_urls:
+            spotify: https://open.spotify.com/track/65YUjU1RCMobliXwXtfpzA
+          href: https://api.spotify.com/v1/tracks/65YUjU1RCMobliXwXtfpzA
+          id: 65YUjU1RCMobliXwXtfpzA
+          is_local: false
+          is_playable: true
+          name: No Scrubs - with Rap
+          track_number: 10
+          type: track
+          uri: spotify:track:65YUjU1RCMobliXwXtfpzA
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq
+              href: https://api.spotify.com/v1/artists/0TImkz4nPqjegtVSMZnMRq
+              id: 0TImkz4nPqjegtVSMZnMRq
+              name: TLC
+              type: artist
+              uri: spotify:artist:0TImkz4nPqjegtVSMZnMRq
+            external_urls:
+              spotify: https://open.spotify.com/album/2cCDO06zcF3NSStdUVWZnP
+            href: https://api.spotify.com/v1/albums/2cCDO06zcF3NSStdUVWZnP
+            id: 2cCDO06zcF3NSStdUVWZnP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273366dd99982b0610ae69b34c8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02366dd99982b0610ae69b34c8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851366dd99982b0610ae69b34c8
+            is_playable: true
+            name: No Scrubs
+            release_date: '1999-02-02'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:2cCDO06zcF3NSStdUVWZnP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq
+            href: https://api.spotify.com/v1/artists/0TImkz4nPqjegtVSMZnMRq
+            id: 0TImkz4nPqjegtVSMZnMRq
+            name: TLC
+            type: artist
+            uri: spotify:artist:0TImkz4nPqjegtVSMZnMRq
+          disc_number: 1
+          duration_ms: 219851
+          explicit: false
+          external_ids:
+            isrc: USSM11306174
+          external_urls:
+            spotify: https://open.spotify.com/track/6groSdASzSRzZA98tjTJoB
+          href: https://api.spotify.com/v1/tracks/6groSdASzSRzZA98tjTJoB
+          id: 6groSdASzSRzZA98tjTJoB
+          is_local: false
+          is_playable: true
+          name: No Scrubs - with Rap
+          track_number: 2
+          type: track
+          uri: spotify:track:6groSdASzSRzZA98tjTJoB
+    isrc: USSM11306174

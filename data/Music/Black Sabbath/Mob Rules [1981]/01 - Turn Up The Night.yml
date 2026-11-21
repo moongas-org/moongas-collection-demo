@@ -85,3 +85,72 @@ mediaFileData:
   year: 1981
   duration: 220.78691666666666
   modTime: 2023-10-01 18:01:32+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Vd7Kk7I5NPRUiJe25Jttq
+    trackId: 3Vd7Kk7I5NPRUiJe25Jttq
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10700223&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+              href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+              id: 5M52tdBnJaKSvOpJGz8mfZ
+              name: Black Sabbath
+              type: artist
+              uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+            external_urls:
+              spotify: https://open.spotify.com/album/7AccAU8WCAgJHkeE3snsMM
+            href: https://api.spotify.com/v1/albums/7AccAU8WCAgJHkeE3snsMM
+            id: 7AccAU8WCAgJHkeE3snsMM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27351025d9b9fface269875c33a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0251025d9b9fface269875c33a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485151025d9b9fface269875c33a
+            is_playable: true
+            name: The Dio Years (Bonus Track Version)
+            release_date: '2007-04-02'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:7AccAU8WCAgJHkeE3snsMM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+            href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+            id: 5M52tdBnJaKSvOpJGz8mfZ
+            name: Black Sabbath
+            type: artist
+            uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+          disc_number: 1
+          duration_ms: 222360
+          explicit: false
+          external_ids:
+            isrc: USWB10700223
+          external_urls:
+            spotify: https://open.spotify.com/track/3Vd7Kk7I5NPRUiJe25Jttq
+          href: https://api.spotify.com/v1/tracks/3Vd7Kk7I5NPRUiJe25Jttq
+          id: 3Vd7Kk7I5NPRUiJe25Jttq
+          is_local: false
+          is_playable: true
+          name: Turn Up the Night - 2007 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:3Vd7Kk7I5NPRUiJe25Jttq
+    isrc: USWB10700223

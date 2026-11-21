@@ -34,3 +34,72 @@ mediaFileData:
   year: 1984
   duration: 385.51166666666666
   modTime: 2025-01-11 00:54:03.709721+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7v4lzjkKAEtLfHBYk4Yt72
+    trackId: 7v4lzjkKAEtLfHBYk4Yt72
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCTX1800792&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+              href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+              id: 7M1FPw29m5FbicYzS2xdpi
+              name: King Crimson
+              type: artist
+              uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+            external_urls:
+              spotify: https://open.spotify.com/album/1wiFhFuTLXbmrRtTaL3fmK
+            href: https://api.spotify.com/v1/albums/1wiFhFuTLXbmrRtTaL3fmK
+            id: 1wiFhFuTLXbmrRtTaL3fmK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737575b2662fe560f4c05ce95d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027575b2662fe560f4c05ce95d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517575b2662fe560f4c05ce95d
+            is_playable: true
+            name: Absent Lovers (Live in Montreal, 1984)
+            release_date: '1998-06-23'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:1wiFhFuTLXbmrRtTaL3fmK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+            href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+            id: 7M1FPw29m5FbicYzS2xdpi
+            name: King Crimson
+            type: artist
+            uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+          disc_number: 2
+          duration_ms: 386800
+          explicit: false
+          external_ids:
+            isrc: GBCTX1800792
+          external_urls:
+            spotify: https://open.spotify.com/track/7v4lzjkKAEtLfHBYk4Yt72
+          href: https://api.spotify.com/v1/tracks/7v4lzjkKAEtLfHBYk4Yt72
+          id: 7v4lzjkKAEtLfHBYk4Yt72
+          is_local: false
+          is_playable: true
+          name: Waiting Man (Live at The Spectrum, Montreal, Jul. 84)
+          track_number: 4
+          type: track
+          uri: spotify:track:7v4lzjkKAEtLfHBYk4Yt72
+    isrc: GBCTX1800792

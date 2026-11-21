@@ -41,3 +41,126 @@ mediaFileData:
   year: 2019
   duration: 247.896
   modTime: 2025-03-10 01:20:08.482246+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2kP8RZo4vLlqMm9wvPp002
+    trackId: 2kP8RZo4vLlqMm9wvPp002
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUDCB1300088&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/0cY0tA0ermWHywPtSy01oe
+            href: https://api.spotify.com/v1/albums/0cY0tA0ermWHywPtSy01oe
+            id: 0cY0tA0ermWHywPtSy01oe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eed796f392ef33ee557bb6f0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eed796f392ef33ee557bb6f0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eed796f392ef33ee557bb6f0
+            is_playable: true
+            name: Atlas (10 Year Anniversary)
+            release_date: '2014-12-01'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:0cY0tA0ermWHywPtSy01oe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 1
+          duration_ms: 247859
+          explicit: false
+          external_ids:
+            isrc: AUDCB1300088
+          external_urls:
+            spotify: https://open.spotify.com/track/2kP8RZo4vLlqMm9wvPp002
+          href: https://api.spotify.com/v1/tracks/2kP8RZo4vLlqMm9wvPp002
+          id: 2kP8RZo4vLlqMm9wvPp002
+          is_local: false
+          is_playable: true
+          name: Sarah
+          track_number: 8
+          type: track
+          uri: spotify:track:2kP8RZo4vLlqMm9wvPp002
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l
+            href: https://api.spotify.com/v1/albums/1AD72FZKFKPeamhZzcuW9l
+            id: 1AD72FZKFKPeamhZzcuW9l
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c951a766fbb2032ef90533dd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c951a766fbb2032ef90533dd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c951a766fbb2032ef90533dd
+            is_playable: true
+            name: Atlas
+            release_date: '2014-05-07'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1AD72FZKFKPeamhZzcuW9l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 1
+          duration_ms: 247859
+          explicit: false
+          external_ids:
+            isrc: AUDCB1300088
+          external_urls:
+            spotify: https://open.spotify.com/track/4mmnPh0hGLrpwv7sRaVPrE
+          href: https://api.spotify.com/v1/tracks/4mmnPh0hGLrpwv7sRaVPrE
+          id: 4mmnPh0hGLrpwv7sRaVPrE
+          is_local: false
+          is_playable: true
+          name: Sarah
+          track_number: 8
+          type: track
+          uri: spotify:track:4mmnPh0hGLrpwv7sRaVPrE
+    isrc: AUDCB1300088

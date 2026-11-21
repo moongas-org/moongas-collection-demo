@@ -69,3 +69,126 @@ mediaFileData:
   year: 1990
   duration: 311.0922448979592
   modTime: 2024-06-05 14:15:56.807446+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe
+    trackId: 0KAaslGdPc5I6WxmKe3whe
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA29000005&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+              href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+              id: 1Yox196W7bzVNZI7RBaPnf
+              name: Megadeth
+              type: artist
+              uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+            external_urls:
+              spotify: https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv
+            href: https://api.spotify.com/v1/albums/4e6ML9RBhDyyKTaTwbiRZv
+            id: 4e6ML9RBhDyyKTaTwbiRZv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27342be808911785ceb13140edc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0242be808911785ceb13140edc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485142be808911785ceb13140edc
+            is_playable: true
+            name: Rust In Peace
+            release_date: '1990-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:4e6ML9RBhDyyKTaTwbiRZv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+            href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+            id: 1Yox196W7bzVNZI7RBaPnf
+            name: Megadeth
+            type: artist
+            uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+          disc_number: 1
+          duration_ms: 314560
+          explicit: false
+          external_ids:
+            isrc: USCA29000005
+          external_urls:
+            spotify: https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe
+          href: https://api.spotify.com/v1/tracks/0KAaslGdPc5I6WxmKe3whe
+          id: 0KAaslGdPc5I6WxmKe3whe
+          is_local: false
+          is_playable: true
+          name: Hangar 18
+          track_number: 2
+          type: track
+          uri: spotify:track:0KAaslGdPc5I6WxmKe3whe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7hlCXECBDiB6oKguDmz9Ga
+            href: https://api.spotify.com/v1/albums/7hlCXECBDiB6oKguDmz9Ga
+            id: 7hlCXECBDiB6oKguDmz9Ga
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372dd9e46255c4497eb148cf4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272dd9e46255c4497eb148cf4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172dd9e46255c4497eb148cf4
+            is_playable: true
+            name: All Metal For Everyone
+            release_date: '2026-04-17'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:7hlCXECBDiB6oKguDmz9Ga
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+            href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+            id: 1Yox196W7bzVNZI7RBaPnf
+            name: Megadeth
+            type: artist
+            uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+          disc_number: 1
+          duration_ms: 314560
+          explicit: false
+          external_ids:
+            isrc: USCA29000005
+          external_urls:
+            spotify: https://open.spotify.com/track/6NGDk1hcVG5H5a40HZiHXG
+          href: https://api.spotify.com/v1/tracks/6NGDk1hcVG5H5a40HZiHXG
+          id: 6NGDk1hcVG5H5a40HZiHXG
+          is_local: false
+          is_playable: true
+          name: Hangar 18
+          track_number: 1
+          type: track
+          uri: spotify:track:6NGDk1hcVG5H5a40HZiHXG
+    isrc: USCA29000005

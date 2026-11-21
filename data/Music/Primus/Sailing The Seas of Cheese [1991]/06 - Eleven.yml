@@ -42,3 +42,72 @@ mediaFileData:
   year: 1991
   duration: 259.36
   modTime: 2024-03-09 21:32:02.981232+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7dTyCTGfnUgH0pIjoQ3jS7
+    trackId: 7dTyCTGfnUgH0pIjoQ3jS7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71303862&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx
+              href: https://api.spotify.com/v1/artists/64mPnRMMeudAet0E62ypkx
+              id: 64mPnRMMeudAet0E62ypkx
+              name: Primus
+              type: artist
+              uri: spotify:artist:64mPnRMMeudAet0E62ypkx
+            external_urls:
+              spotify: https://open.spotify.com/album/5OIiIKyQ1TRHwly2HMTidX
+            href: https://api.spotify.com/v1/albums/5OIiIKyQ1TRHwly2HMTidX
+            id: 5OIiIKyQ1TRHwly2HMTidX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27335d3885017efd4c7d6c7c434
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0235d3885017efd4c7d6c7c434
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485135d3885017efd4c7d6c7c434
+            is_playable: true
+            name: Sailing The Seas Of Cheese (Deluxe Edition)
+            release_date: '1991'
+            release_date_precision: year
+            total_tracks: 16
+            type: album
+            uri: spotify:album:5OIiIKyQ1TRHwly2HMTidX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx
+            href: https://api.spotify.com/v1/artists/64mPnRMMeudAet0E62ypkx
+            id: 64mPnRMMeudAet0E62ypkx
+            name: Primus
+            type: artist
+            uri: spotify:artist:64mPnRMMeudAet0E62ypkx
+          disc_number: 1
+          duration_ms: 262666
+          explicit: false
+          external_ids:
+            isrc: USUM71303862
+          external_urls:
+            spotify: https://open.spotify.com/track/7dTyCTGfnUgH0pIjoQ3jS7
+          href: https://api.spotify.com/v1/tracks/7dTyCTGfnUgH0pIjoQ3jS7
+          id: 7dTyCTGfnUgH0pIjoQ3jS7
+          is_local: false
+          is_playable: true
+          name: Eleven - 2013 Mix
+          track_number: 6
+          type: track
+          uri: spotify:track:7dTyCTGfnUgH0pIjoQ3jS7
+    isrc: USUM71303862

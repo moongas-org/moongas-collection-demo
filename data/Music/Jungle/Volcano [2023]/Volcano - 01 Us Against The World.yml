@@ -34,3 +34,72 @@ mediaFileData:
   year: 2023
   duration: 207.77755102040817
   modTime: 2024-05-18 22:06:24.735999+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0sHSFzglnJ1b9mILzQ7ifJ
+    trackId: 0sHSFzglnJ1b9mILzQ7ifJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM4TX2336295&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071
+              href: https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071
+              id: 59oA5WbbQvomJz2BuRG071
+              name: Jungle
+              type: artist
+              uri: spotify:artist:59oA5WbbQvomJz2BuRG071
+            external_urls:
+              spotify: https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv
+            href: https://api.spotify.com/v1/albums/5xnXOCf5aZgZ43DgGN4EDv
+            id: 5xnXOCf5aZgZ43DgGN4EDv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0277619f14cb03e11baf5761d1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485177619f14cb03e11baf5761d1
+            is_playable: true
+            name: Volcano
+            release_date: '2023-08-11'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5xnXOCf5aZgZ43DgGN4EDv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071
+            href: https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071
+            id: 59oA5WbbQvomJz2BuRG071
+            name: Jungle
+            type: artist
+            uri: spotify:artist:59oA5WbbQvomJz2BuRG071
+          disc_number: 1
+          duration_ms: 207777
+          explicit: false
+          external_ids:
+            isrc: QM4TX2336295
+          external_urls:
+            spotify: https://open.spotify.com/track/0sHSFzglnJ1b9mILzQ7ifJ
+          href: https://api.spotify.com/v1/tracks/0sHSFzglnJ1b9mILzQ7ifJ
+          id: 0sHSFzglnJ1b9mILzQ7ifJ
+          is_local: false
+          is_playable: true
+          name: Us Against The World
+          track_number: 1
+          type: track
+          uri: spotify:track:0sHSFzglnJ1b9mILzQ7ifJ
+    isrc: QM4TX2336295

@@ -116,3 +116,126 @@ mediaFileData:
   year: 1976
   duration: 391.85475
   modTime: 2024-05-13 01:35:20.346282+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2VnDqEVpsuRNx239JZViRf
+    trackId: 2VnDqEVpsuRNx239JZViRf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11703166&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/7uBNOgkssyAzwCCl7r1dpH
+            href: https://api.spotify.com/v1/albums/7uBNOgkssyAzwCCl7r1dpH
+            id: 7uBNOgkssyAzwCCl7r1dpH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736262fac7d13454f26c6c72f8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026262fac7d13454f26c6c72f8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516262fac7d13454f26c6c72f8
+            is_playable: true
+            name: 'To the Limit: The Essential Collection'
+            release_date: '2024-04-12'
+            release_date_precision: day
+            total_tracks: 51
+            type: album
+            uri: spotify:album:7uBNOgkssyAzwCCl7r1dpH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 3
+          duration_ms: 409520
+          explicit: false
+          external_ids:
+            isrc: USRH11703166
+          external_urls:
+            spotify: https://open.spotify.com/track/2VnDqEVpsuRNx239JZViRf
+          href: https://api.spotify.com/v1/tracks/2VnDqEVpsuRNx239JZViRf
+          id: 2VnDqEVpsuRNx239JZViRf
+          is_local: false
+          is_playable: true
+          name: Hotel California - Live at The Forum, Los Angeles, CA, 10/20-22/1976
+          track_number: 5
+          type: track
+          uri: spotify:track:2VnDqEVpsuRNx239JZViRf
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn
+            href: https://api.spotify.com/v1/albums/5NMAdQPrKw5nutWnGEzfpn
+            id: 5NMAdQPrKw5nutWnGEzfpn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d666181ad183bf7efc7f4105
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d666181ad183bf7efc7f4105
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d666181ad183bf7efc7f4105
+            is_playable: true
+            name: Hotel California (40th Anniversary Expanded Edition)
+            release_date: '1976-12-08'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:5NMAdQPrKw5nutWnGEzfpn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 2
+          duration_ms: 409520
+          explicit: false
+          external_ids:
+            isrc: USRH11703166
+          external_urls:
+            spotify: https://open.spotify.com/track/0cNwyA4Qiyr29I90ezhr0X
+          href: https://api.spotify.com/v1/tracks/0cNwyA4Qiyr29I90ezhr0X
+          id: 0cNwyA4Qiyr29I90ezhr0X
+          is_local: false
+          is_playable: true
+          name: Hotel California - Live at The Forum, Los Angeles, CA, 10/20-22/1976
+          track_number: 9
+          type: track
+          uri: spotify:track:0cNwyA4Qiyr29I90ezhr0X
+    isrc: USRH11703166

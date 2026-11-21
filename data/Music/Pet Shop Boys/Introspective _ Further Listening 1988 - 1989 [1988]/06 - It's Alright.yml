@@ -63,3 +63,126 @@ mediaFileData:
   year: 1988
   duration: 567.672
   modTime: 2025-06-14 23:46:18.330905+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5FTidT6vMFoufrTyRhGc1S
+    trackId: 5FTidT6vMFoufrTyRhGc1S
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE1700809&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh
+              href: https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh
+              id: 2ycnb8Er79LoH2AsR5ldjh
+              name: Pet Shop Boys
+              type: artist
+              uri: spotify:artist:2ycnb8Er79LoH2AsR5ldjh
+            external_urls:
+              spotify: https://open.spotify.com/album/6mj2i3KuoT6flvb5KDYDrW
+            href: https://api.spotify.com/v1/albums/6mj2i3KuoT6flvb5KDYDrW
+            id: 6mj2i3KuoT6flvb5KDYDrW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738559961fcbafc61c2c27eea6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028559961fcbafc61c2c27eea6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518559961fcbafc61c2c27eea6
+            is_playable: true
+            name: 'Introspective: Further Listening 1988 - 1989 (2018 Remaster)'
+            release_date: '1988-10-11'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:6mj2i3KuoT6flvb5KDYDrW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh
+            href: https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh
+            id: 2ycnb8Er79LoH2AsR5ldjh
+            name: Pet Shop Boys
+            type: artist
+            uri: spotify:artist:2ycnb8Er79LoH2AsR5ldjh
+          disc_number: 1
+          duration_ms: 567626
+          explicit: false
+          external_ids:
+            isrc: GBAYE1700809
+          external_urls:
+            spotify: https://open.spotify.com/track/5FTidT6vMFoufrTyRhGc1S
+          href: https://api.spotify.com/v1/tracks/5FTidT6vMFoufrTyRhGc1S
+          id: 5FTidT6vMFoufrTyRhGc1S
+          is_local: false
+          is_playable: true
+          name: It's Alright - 2018 Remaster
+          track_number: 6
+          type: track
+          uri: spotify:track:5FTidT6vMFoufrTyRhGc1S
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh
+              href: https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh
+              id: 2ycnb8Er79LoH2AsR5ldjh
+              name: Pet Shop Boys
+              type: artist
+              uri: spotify:artist:2ycnb8Er79LoH2AsR5ldjh
+            external_urls:
+              spotify: https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH
+            href: https://api.spotify.com/v1/albums/4d0V4C5pHQA5G5PjP1FuNH
+            id: 4d0V4C5pHQA5G5PjP1FuNH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27307fa8907dc1b034370d5816f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0207fa8907dc1b034370d5816f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485107fa8907dc1b034370d5816f
+            is_playable: true
+            name: Introspective (2018 Remaster)
+            release_date: '1988-10-10'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:4d0V4C5pHQA5G5PjP1FuNH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh
+            href: https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh
+            id: 2ycnb8Er79LoH2AsR5ldjh
+            name: Pet Shop Boys
+            type: artist
+            uri: spotify:artist:2ycnb8Er79LoH2AsR5ldjh
+          disc_number: 1
+          duration_ms: 567626
+          explicit: false
+          external_ids:
+            isrc: GBAYE1700809
+          external_urls:
+            spotify: https://open.spotify.com/track/3durhUnVGZ0bAgyIRm5eFy
+          href: https://api.spotify.com/v1/tracks/3durhUnVGZ0bAgyIRm5eFy
+          id: 3durhUnVGZ0bAgyIRm5eFy
+          is_local: false
+          is_playable: true
+          name: It's Alright - 2018 Remaster
+          track_number: 6
+          type: track
+          uri: spotify:track:3durhUnVGZ0bAgyIRm5eFy
+    isrc: GBAYE1700809

@@ -43,3 +43,79 @@ mediaFileData:
   year: 2005
   duration: 262.5733333333333
   modTime: 2023-06-24 02:04:10+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH
+    trackId: 4DDKpCCJPC0A66aGTQv6gH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVT10500085&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70
+              href: https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70
+              id: 4F84IBURUo98rz4r61KF70
+              name: The White Stripes
+              type: artist
+              uri: spotify:artist:4F84IBURUo98rz4r61KF70
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf
+              href: https://api.spotify.com/v1/artists/4FZ3j1oH43e7cukCALsCwf
+              id: 4FZ3j1oH43e7cukCALsCwf
+              name: Jack White
+              type: artist
+              uri: spotify:artist:4FZ3j1oH43e7cukCALsCwf
+            external_urls:
+              spotify: https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh
+            href: https://api.spotify.com/v1/albums/3rHeq4F5wnaLBjNtuz7Yvh
+            id: 3rHeq4F5wnaLBjNtuz7Yvh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e8a1ae591befe4bb0a9261ab
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e8a1ae591befe4bb0a9261ab
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e8a1ae591befe4bb0a9261ab
+            is_playable: true
+            name: Get Behind Me Satan
+            release_date: '2005-06-07'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3rHeq4F5wnaLBjNtuz7Yvh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70
+            href: https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70
+            id: 4F84IBURUo98rz4r61KF70
+            name: The White Stripes
+            type: artist
+            uri: spotify:artist:4F84IBURUo98rz4r61KF70
+          disc_number: 1
+          duration_ms: 262573
+          explicit: false
+          external_ids:
+            isrc: USVT10500085
+          external_urls:
+            spotify: https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH
+          href: https://api.spotify.com/v1/tracks/4DDKpCCJPC0A66aGTQv6gH
+          id: 4DDKpCCJPC0A66aGTQv6gH
+          is_local: false
+          is_playable: true
+          name: Take, Take, Take
+          track_number: 10
+          type: track
+          uri: spotify:track:4DDKpCCJPC0A66aGTQv6gH
+    isrc: USVT10500085

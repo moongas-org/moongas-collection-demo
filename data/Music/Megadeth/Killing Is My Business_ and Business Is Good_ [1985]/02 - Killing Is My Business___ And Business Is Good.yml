@@ -70,3 +70,126 @@ mediaFileData:
   year: 1985
   duration: 187.608
   modTime: 2025-01-12 23:06:01.944604+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2oST2Oaz3lrcCVGXUGnINL
+    trackId: 2oST2Oaz3lrcCVGXUGnINL
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM11800370&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+              href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+              id: 1Yox196W7bzVNZI7RBaPnf
+              name: Megadeth
+              type: artist
+              uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+            external_urls:
+              spotify: https://open.spotify.com/album/58p5IFT7CEcMHSrAIuO5DJ
+            href: https://api.spotify.com/v1/albums/58p5IFT7CEcMHSrAIuO5DJ
+            id: 58p5IFT7CEcMHSrAIuO5DJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b273106fbf562e1131ccc790
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b273106fbf562e1131ccc790
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b273106fbf562e1131ccc790
+            is_playable: true
+            name: Warheads On Foreheads
+            release_date: '2019-03-22'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:58p5IFT7CEcMHSrAIuO5DJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+            href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+            id: 1Yox196W7bzVNZI7RBaPnf
+            name: Megadeth
+            type: artist
+            uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+          disc_number: 1
+          duration_ms: 186306
+          explicit: false
+          external_ids:
+            isrc: USSM11800370
+          external_urls:
+            spotify: https://open.spotify.com/track/2oST2Oaz3lrcCVGXUGnINL
+          href: https://api.spotify.com/v1/tracks/2oST2Oaz3lrcCVGXUGnINL
+          id: 2oST2Oaz3lrcCVGXUGnINL
+          is_local: false
+          is_playable: true
+          name: Killing Is My Business...And Business Is Good! - Remastered 2018
+          track_number: 3
+          type: track
+          uri: spotify:track:2oST2Oaz3lrcCVGXUGnINL
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+              href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+              id: 1Yox196W7bzVNZI7RBaPnf
+              name: Megadeth
+              type: artist
+              uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+            external_urls:
+              spotify: https://open.spotify.com/album/1fQP14KigA58xjlYNf4Uac
+            href: https://api.spotify.com/v1/albums/1fQP14KigA58xjlYNf4Uac
+            id: 1fQP14KigA58xjlYNf4Uac
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27312ecb3fc1b10b7e480fb167f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0212ecb3fc1b10b7e480fb167f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485112ecb3fc1b10b7e480fb167f
+            is_playable: true
+            name: Killing Is My Business...And Business Is Good - The Final Kill
+            release_date: '2018-06-08'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:1fQP14KigA58xjlYNf4Uac
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+            href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+            id: 1Yox196W7bzVNZI7RBaPnf
+            name: Megadeth
+            type: artist
+            uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+          disc_number: 1
+          duration_ms: 184467
+          explicit: false
+          external_ids:
+            isrc: USSM11800370
+          external_urls:
+            spotify: https://open.spotify.com/track/4qEx23RcYWJRxJljdLqD90
+          href: https://api.spotify.com/v1/tracks/4qEx23RcYWJRxJljdLqD90
+          id: 4qEx23RcYWJRxJljdLqD90
+          is_local: false
+          is_playable: true
+          name: Killing Is My Business...And Business Is Good! - Remastered
+          track_number: 2
+          type: track
+          uri: spotify:track:4qEx23RcYWJRxJljdLqD90
+    isrc: USSM11800370

@@ -34,3 +34,72 @@ mediaFileData:
   year: 1987
   duration: 301.944
   modTime: 2025-02-03 23:35:50.001205+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5wKsm23Llc8NI8yHJq0aXY
+    trackId: 5wKsm23Llc8NI8yHJq0aXY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS6450880024&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+              href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+              id: 5UqTO8smerMvxHYA5xsXb6
+              name: Sonic Youth
+              type: artist
+              uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+            external_urls:
+              spotify: https://open.spotify.com/album/6hbBw4tCF1FjWfEWrm4liS
+            href: https://api.spotify.com/v1/albums/6hbBw4tCF1FjWfEWrm4liS
+            id: 6hbBw4tCF1FjWfEWrm4liS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a9aef5d363b220a93cf844bf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a9aef5d363b220a93cf844bf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a9aef5d363b220a93cf844bf
+            is_playable: true
+            name: Master-Dik
+            release_date: '1987-11-04'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6hbBw4tCF1FjWfEWrm4liS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+            href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+            id: 5UqTO8smerMvxHYA5xsXb6
+            name: Sonic Youth
+            type: artist
+            uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+          disc_number: 1
+          duration_ms: 301906
+          explicit: false
+          external_ids:
+            isrc: US6450880024
+          external_urls:
+            spotify: https://open.spotify.com/track/5wKsm23Llc8NI8yHJq0aXY
+          href: https://api.spotify.com/v1/tracks/5wKsm23Llc8NI8yHJq0aXY
+          id: 5wKsm23Llc8NI8yHJq0aXY
+          is_local: false
+          is_playable: true
+          name: Master-Dik
+          track_number: 1
+          type: track
+          uri: spotify:track:5wKsm23Llc8NI8yHJq0aXY
+    isrc: US6450880024

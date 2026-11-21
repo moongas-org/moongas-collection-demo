@@ -51,3 +51,126 @@ mediaFileData:
   year: 1986
   duration: 233.736
   modTime: 2025-03-17 22:11:42.320075+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1wNSRMdKCLzUaMBKlGnvHC
+    trackId: 1wNSRMdKCLzUaMBKlGnvHC
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM18600159&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE
+              href: https://api.spotify.com/v1/artists/4Tw2N3wdvJPGEU7JqMxFfE
+              id: 4Tw2N3wdvJPGEU7JqMxFfE
+              name: Eddie Money
+              type: artist
+              uri: spotify:artist:4Tw2N3wdvJPGEU7JqMxFfE
+            external_urls:
+              spotify: https://open.spotify.com/album/24WAUPqhxqUbdbcRDHQ8Yr
+            href: https://api.spotify.com/v1/albums/24WAUPqhxqUbdbcRDHQ8Yr
+            id: 24WAUPqhxqUbdbcRDHQ8Yr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273671e9ea05e6bab5aaeda7562
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02671e9ea05e6bab5aaeda7562
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851671e9ea05e6bab5aaeda7562
+            is_playable: true
+            name: The Essential Eddie Money
+            release_date: '2003-06-10'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:24WAUPqhxqUbdbcRDHQ8Yr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE
+            href: https://api.spotify.com/v1/artists/4Tw2N3wdvJPGEU7JqMxFfE
+            id: 4Tw2N3wdvJPGEU7JqMxFfE
+            name: Eddie Money
+            type: artist
+            uri: spotify:artist:4Tw2N3wdvJPGEU7JqMxFfE
+          disc_number: 1
+          duration_ms: 233800
+          explicit: false
+          external_ids:
+            isrc: USSM18600159
+          external_urls:
+            spotify: https://open.spotify.com/track/1wNSRMdKCLzUaMBKlGnvHC
+          href: https://api.spotify.com/v1/tracks/1wNSRMdKCLzUaMBKlGnvHC
+          id: 1wNSRMdKCLzUaMBKlGnvHC
+          is_local: false
+          is_playable: true
+          name: I Wanna Go Back
+          track_number: 11
+          type: track
+          uri: spotify:track:1wNSRMdKCLzUaMBKlGnvHC
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE
+              href: https://api.spotify.com/v1/artists/4Tw2N3wdvJPGEU7JqMxFfE
+              id: 4Tw2N3wdvJPGEU7JqMxFfE
+              name: Eddie Money
+              type: artist
+              uri: spotify:artist:4Tw2N3wdvJPGEU7JqMxFfE
+            external_urls:
+              spotify: https://open.spotify.com/album/590LYMDhJ9uUglR8QeNGWz
+            href: https://api.spotify.com/v1/albums/590LYMDhJ9uUglR8QeNGWz
+            id: 590LYMDhJ9uUglR8QeNGWz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27344fa9dc16ac2790d27e45364
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0244fa9dc16ac2790d27e45364
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485144fa9dc16ac2790d27e45364
+            is_playable: true
+            name: The Best Of Eddie Money
+            release_date: '2001-07-16'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:590LYMDhJ9uUglR8QeNGWz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE
+            href: https://api.spotify.com/v1/artists/4Tw2N3wdvJPGEU7JqMxFfE
+            id: 4Tw2N3wdvJPGEU7JqMxFfE
+            name: Eddie Money
+            type: artist
+            uri: spotify:artist:4Tw2N3wdvJPGEU7JqMxFfE
+          disc_number: 1
+          duration_ms: 233706
+          explicit: false
+          external_ids:
+            isrc: USSM18600159
+          external_urls:
+            spotify: https://open.spotify.com/track/2tkwB7xRS4TMq31Lxrw0zh
+          href: https://api.spotify.com/v1/tracks/2tkwB7xRS4TMq31Lxrw0zh
+          id: 2tkwB7xRS4TMq31Lxrw0zh
+          is_local: false
+          is_playable: true
+          name: I Wanna Go Back
+          track_number: 13
+          type: track
+          uri: spotify:track:2tkwB7xRS4TMq31Lxrw0zh
+    isrc: USSM18600159

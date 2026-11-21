@@ -64,3 +64,126 @@ mediaFileData:
   year: 1975
   duration: 351.096
   modTime: 2024-03-02 02:35:35.130635+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5EtodKKVuC9XPH9kG6FDk1
+    trackId: 5EtodKKVuC9XPH9kG6FDk1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE1701527&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU
+              href: https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU
+              id: 0dmPX6ovclgOy8WWJaFEUU
+              name: Kraftwerk
+              type: artist
+              uri: spotify:artist:0dmPX6ovclgOy8WWJaFEUU
+            external_urls:
+              spotify: https://open.spotify.com/album/3sVDBpaliABITJrqfWpRIt
+            href: https://api.spotify.com/v1/albums/3sVDBpaliABITJrqfWpRIt
+            id: 3sVDBpaliABITJrqfWpRIt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e42b834ac0108522b42fb54a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e42b834ac0108522b42fb54a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e42b834ac0108522b42fb54a
+            is_playable: true
+            name: 3-D Der Katalog (German Version)
+            release_date: '2017-05-26'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:3sVDBpaliABITJrqfWpRIt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU
+            href: https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU
+            id: 0dmPX6ovclgOy8WWJaFEUU
+            name: Kraftwerk
+            type: artist
+            uri: spotify:artist:0dmPX6ovclgOy8WWJaFEUU
+          disc_number: 1
+          duration_ms: 355390
+          explicit: false
+          external_ids:
+            isrc: GBAYE1701527
+          external_urls:
+            spotify: https://open.spotify.com/track/5EtodKKVuC9XPH9kG6FDk1
+          href: https://api.spotify.com/v1/tracks/5EtodKKVuC9XPH9kG6FDk1
+          id: 5EtodKKVuC9XPH9kG6FDk1
+          is_local: false
+          is_playable: true
+          name: Radioland
+          track_number: 4
+          type: track
+          uri: spotify:track:5EtodKKVuC9XPH9kG6FDk1
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU
+              href: https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU
+              id: 0dmPX6ovclgOy8WWJaFEUU
+              name: Kraftwerk
+              type: artist
+              uri: spotify:artist:0dmPX6ovclgOy8WWJaFEUU
+            external_urls:
+              spotify: https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF
+            href: https://api.spotify.com/v1/albums/6nnO5r6I1JtSZ8eTwwIiIF
+            id: 6nnO5r6I1JtSZ8eTwwIiIF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372bd5d848dbf5bfd1bd5c752
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272bd5d848dbf5bfd1bd5c752
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172bd5d848dbf5bfd1bd5c752
+            is_playable: true
+            name: 3-D The Catalogue
+            release_date: '2017-05-26'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:6nnO5r6I1JtSZ8eTwwIiIF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU
+            href: https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU
+            id: 0dmPX6ovclgOy8WWJaFEUU
+            name: Kraftwerk
+            type: artist
+            uri: spotify:artist:0dmPX6ovclgOy8WWJaFEUU
+          disc_number: 1
+          duration_ms: 355390
+          explicit: false
+          external_ids:
+            isrc: GBAYE1701527
+          external_urls:
+            spotify: https://open.spotify.com/track/667ypB5qNup4uhJu0CRqWx
+          href: https://api.spotify.com/v1/tracks/667ypB5qNup4uhJu0CRqWx
+          id: 667ypB5qNup4uhJu0CRqWx
+          is_local: false
+          is_playable: true
+          name: Radioland
+          track_number: 4
+          type: track
+          uri: spotify:track:667ypB5qNup4uhJu0CRqWx
+    isrc: GBAYE1701527

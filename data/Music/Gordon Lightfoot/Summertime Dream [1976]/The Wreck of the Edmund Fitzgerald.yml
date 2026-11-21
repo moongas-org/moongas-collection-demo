@@ -83,3 +83,126 @@ mediaFileData:
   year: 1976
   duration: 399.264
   modTime: 2023-04-12 20:52:00.950000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1GwdUJlJsQsi96LU8RP1ee
+    trackId: 1GwdUJlJsQsi96LU8RP1ee
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901360&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1ZhyXNbSPfKDMZThxKEzNm
+            href: https://api.spotify.com/v1/albums/1ZhyXNbSPfKDMZThxKEzNm
+            id: 1ZhyXNbSPfKDMZThxKEzNm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ed71dff58bebf60b7e0dad3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ed71dff58bebf60b7e0dad3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ed71dff58bebf60b7e0dad3
+            is_playable: true
+            name: Essential Ballads
+            release_date: '2020-10-02'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:1ZhyXNbSPfKDMZThxKEzNm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4
+            href: https://api.spotify.com/v1/artists/23rleGXVOVVgTk3xgtmfE4
+            id: 23rleGXVOVVgTk3xgtmfE4
+            name: Gordon Lightfoot
+            type: artist
+            uri: spotify:artist:23rleGXVOVVgTk3xgtmfE4
+          disc_number: 1
+          duration_ms: 388800
+          explicit: false
+          external_ids:
+            isrc: USWB19901360
+          external_urls:
+            spotify: https://open.spotify.com/track/1GwdUJlJsQsi96LU8RP1ee
+          href: https://api.spotify.com/v1/tracks/1GwdUJlJsQsi96LU8RP1ee
+          id: 1GwdUJlJsQsi96LU8RP1ee
+          is_local: false
+          is_playable: true
+          name: Wreck of the Edmund Fitzgerald
+          track_number: 13
+          type: track
+          uri: spotify:track:1GwdUJlJsQsi96LU8RP1ee
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4
+              href: https://api.spotify.com/v1/artists/23rleGXVOVVgTk3xgtmfE4
+              id: 23rleGXVOVVgTk3xgtmfE4
+              name: Gordon Lightfoot
+              type: artist
+              uri: spotify:artist:23rleGXVOVVgTk3xgtmfE4
+            external_urls:
+              spotify: https://open.spotify.com/album/6MynCKoThS6MN1IB5TN4fZ
+            href: https://api.spotify.com/v1/albums/6MynCKoThS6MN1IB5TN4fZ
+            id: 6MynCKoThS6MN1IB5TN4fZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730375c7c45bcd78168b30c714
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020375c7c45bcd78168b30c714
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510375c7c45bcd78168b30c714
+            is_playable: true
+            name: Songbook
+            release_date: '2016-05-06'
+            release_date_precision: day
+            total_tracks: 88
+            type: album
+            uri: spotify:album:6MynCKoThS6MN1IB5TN4fZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4
+            href: https://api.spotify.com/v1/artists/23rleGXVOVVgTk3xgtmfE4
+            id: 23rleGXVOVVgTk3xgtmfE4
+            name: Gordon Lightfoot
+            type: artist
+            uri: spotify:artist:23rleGXVOVVgTk3xgtmfE4
+          disc_number: 3
+          duration_ms: 388800
+          explicit: false
+          external_ids:
+            isrc: USWB19901360
+          external_urls:
+            spotify: https://open.spotify.com/track/2E7FWjLnz2oityrVVU04uM
+          href: https://api.spotify.com/v1/tracks/2E7FWjLnz2oityrVVU04uM
+          id: 2E7FWjLnz2oityrVVU04uM
+          is_local: false
+          is_playable: true
+          name: The Wreck of the Edmund Fitzgerald
+          track_number: 11
+          type: track
+          uri: spotify:track:2E7FWjLnz2oityrVVU04uM
+    isrc: USWB19901360

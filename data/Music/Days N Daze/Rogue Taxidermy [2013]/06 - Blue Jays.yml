@@ -34,3 +34,72 @@ mediaFileData:
   year: 2013
   duration: 167.0530612244898
   modTime: 2022-06-04 22:50:41.560000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Til5mIMLGD9BXkUNTjP9n
+    trackId: 3Til5mIMLGD9BXkUNTjP9n
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDHM1401003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3wRGr9z5I5xmmVc21fIvC6
+              href: https://api.spotify.com/v1/artists/3wRGr9z5I5xmmVc21fIvC6
+              id: 3wRGr9z5I5xmmVc21fIvC6
+              name: Days N Daze
+              type: artist
+              uri: spotify:artist:3wRGr9z5I5xmmVc21fIvC6
+            external_urls:
+              spotify: https://open.spotify.com/album/330b5MZdlUJcPOkei9G4KM
+            href: https://api.spotify.com/v1/albums/330b5MZdlUJcPOkei9G4KM
+            id: 330b5MZdlUJcPOkei9G4KM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d150c9a7fb2b8821c56a17e6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d150c9a7fb2b8821c56a17e6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d150c9a7fb2b8821c56a17e6
+            is_playable: true
+            name: Rogue Taxidermy
+            release_date: '2013-08-23'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:330b5MZdlUJcPOkei9G4KM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3wRGr9z5I5xmmVc21fIvC6
+            href: https://api.spotify.com/v1/artists/3wRGr9z5I5xmmVc21fIvC6
+            id: 3wRGr9z5I5xmmVc21fIvC6
+            name: Days N Daze
+            type: artist
+            uri: spotify:artist:3wRGr9z5I5xmmVc21fIvC6
+          disc_number: 1
+          duration_ms: 167026
+          explicit: false
+          external_ids:
+            isrc: USDHM1401003
+          external_urls:
+            spotify: https://open.spotify.com/track/3Til5mIMLGD9BXkUNTjP9n
+          href: https://api.spotify.com/v1/tracks/3Til5mIMLGD9BXkUNTjP9n
+          id: 3Til5mIMLGD9BXkUNTjP9n
+          is_local: false
+          is_playable: true
+          name: Blue Jays
+          track_number: 6
+          type: track
+          uri: spotify:track:3Til5mIMLGD9BXkUNTjP9n
+    isrc: USDHM1401003

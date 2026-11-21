@@ -35,3 +35,72 @@ mediaFileData:
   year: 2001
   duration: 243.888
   modTime: 2025-05-28 09:45:32.885211+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6qUsUVzfktUvg2WB2mkv1S
+    trackId: 6qUsUVzfktUvg2WB2mkv1S
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSLR50000928&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc
+              href: https://api.spotify.com/v1/artists/08Ld63UgKrJ0nZnCkzHtzc
+              id: 08Ld63UgKrJ0nZnCkzHtzc
+              name: Project Pat
+              type: artist
+              uri: spotify:artist:08Ld63UgKrJ0nZnCkzHtzc
+            external_urls:
+              spotify: https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw
+            href: https://api.spotify.com/v1/albums/71GZEl78TMbuZ1sBbjDGZw
+            id: 71GZEl78TMbuZ1sBbjDGZw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27331a9a92a652223ca76817a90
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0231a9a92a652223ca76817a90
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485131a9a92a652223ca76817a90
+            is_playable: true
+            name: "Mista Don't Play: Everythangs Workin"
+            release_date: '2001-02-27'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:71GZEl78TMbuZ1sBbjDGZw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc
+            href: https://api.spotify.com/v1/artists/08Ld63UgKrJ0nZnCkzHtzc
+            id: 08Ld63UgKrJ0nZnCkzHtzc
+            name: Project Pat
+            type: artist
+            uri: spotify:artist:08Ld63UgKrJ0nZnCkzHtzc
+          disc_number: 1
+          duration_ms: 241360
+          explicit: true
+          external_ids:
+            isrc: USLR50000928
+          external_urls:
+            spotify: https://open.spotify.com/track/6qUsUVzfktUvg2WB2mkv1S
+          href: https://api.spotify.com/v1/tracks/6qUsUVzfktUvg2WB2mkv1S
+          id: 6qUsUVzfktUvg2WB2mkv1S
+          is_local: false
+          is_playable: true
+          name: We Can Get Gangsta
+          track_number: 11
+          type: track
+          uri: spotify:track:6qUsUVzfktUvg2WB2mkv1S
+    isrc: USLR50000928

@@ -55,3 +55,288 @@ mediaFileData:
   year: 1992
   duration: 350.30204081632655
   modTime: 2026-08-02 17:06:04.796452+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Z2TZcxus7V498WHqzLhVq
+    trackId: 0Z2TZcxus7V498WHqzLhVq
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10102389&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB10102389&type=track
+        offset: 0
+        previous:
+        total: 14
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4R9cp4QXOjELBQKtDkuVCM
+            href: https://api.spotify.com/v1/albums/4R9cp4QXOjELBQKtDkuVCM
+            id: 4R9cp4QXOjELBQKtDkuVCM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27380bcd1f1bec0ac238f39e045
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0280bcd1f1bec0ac238f39e045
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485180bcd1f1bec0ac238f39e045
+            is_playable: true
+            name: Best 90s Metal
+            release_date: '2018-04-23'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4R9cp4QXOjELBQKtDkuVCM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 350240
+          explicit: true
+          external_ids:
+            isrc: USWB10102389
+          external_urls:
+            spotify: https://open.spotify.com/track/0Z2TZcxus7V498WHqzLhVq
+          href: https://api.spotify.com/v1/tracks/0Z2TZcxus7V498WHqzLhVq
+          id: 0Z2TZcxus7V498WHqzLhVq
+          is_local: false
+          is_playable: true
+          name: There Goes the Neighborhood
+          track_number: 2
+          type: track
+          uri: spotify:track:0Z2TZcxus7V498WHqzLhVq
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+              href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+              id: 5KCph1z3jaSwhtwPzoYp6i
+              name: Body Count
+              type: artist
+              uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+            external_urls:
+              spotify: https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J
+            href: https://api.spotify.com/v1/albums/2J5Lf1s0Q42e31xjSwVd8J
+            id: 2J5Lf1s0Q42e31xjSwVd8J
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f1483a1e7961f3ad472a099a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f1483a1e7961f3ad472a099a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f1483a1e7961f3ad472a099a
+            is_playable: true
+            name: Body Count
+            release_date: '1992-03-10'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2J5Lf1s0Q42e31xjSwVd8J
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 350240
+          explicit: true
+          external_ids:
+            isrc: USWB10102389
+          external_urls:
+            spotify: https://open.spotify.com/track/1Qc2ehFeQgxjszN337T10Q
+          href: https://api.spotify.com/v1/tracks/1Qc2ehFeQgxjszN337T10Q
+          id: 1Qc2ehFeQgxjszN337T10Q
+          is_local: false
+          is_playable: true
+          name: There Goes the Neighborhood
+          track_number: 12
+          type: track
+          uri: spotify:track:1Qc2ehFeQgxjszN337T10Q
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7KPmdTVpdobAfjDFHxolFQ
+            href: https://api.spotify.com/v1/albums/7KPmdTVpdobAfjDFHxolFQ
+            id: 7KPmdTVpdobAfjDFHxolFQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fca4aed65aea8317702ef4d8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fca4aed65aea8317702ef4d8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fca4aed65aea8317702ef4d8
+            is_playable: true
+            name: Groove Metal Monsters
+            release_date: '2023-07-28'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:7KPmdTVpdobAfjDFHxolFQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 350240
+          explicit: true
+          external_ids:
+            isrc: USWB10102389
+          external_urls:
+            spotify: https://open.spotify.com/track/3nA4NYlpQEHVHsLc5rR56X
+          href: https://api.spotify.com/v1/tracks/3nA4NYlpQEHVHsLc5rR56X
+          id: 3nA4NYlpQEHVHsLc5rR56X
+          is_local: false
+          is_playable: true
+          name: There Goes the Neighborhood
+          track_number: 10
+          type: track
+          uri: spotify:track:3nA4NYlpQEHVHsLc5rR56X
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2Bfp6DA8rDFmfEIcWOBKx2
+            href: https://api.spotify.com/v1/albums/2Bfp6DA8rDFmfEIcWOBKx2
+            id: 2Bfp6DA8rDFmfEIcWOBKx2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731f5f058326fab15355d01a51
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021f5f058326fab15355d01a51
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511f5f058326fab15355d01a51
+            is_playable: true
+            name: American Bad Ass Anthems
+            release_date: '2018-09-14'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2Bfp6DA8rDFmfEIcWOBKx2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 350240
+          explicit: true
+          external_ids:
+            isrc: USWB10102389
+          external_urls:
+            spotify: https://open.spotify.com/track/7qRzeesy6L4flLQNfENWlw
+          href: https://api.spotify.com/v1/tracks/7qRzeesy6L4flLQNfENWlw
+          id: 7qRzeesy6L4flLQNfENWlw
+          is_local: false
+          is_playable: true
+          name: There Goes the Neighborhood
+          track_number: 5
+          type: track
+          uri: spotify:track:7qRzeesy6L4flLQNfENWlw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2AtseAqmcE0KlucLvudbah
+            href: https://api.spotify.com/v1/albums/2AtseAqmcE0KlucLvudbah
+            id: 2AtseAqmcE0KlucLvudbah
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b8a08f7decc327d859d36a90
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b8a08f7decc327d859d36a90
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b8a08f7decc327d859d36a90
+            is_playable: true
+            name: Rap Metal
+            release_date: '2020-10-23'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:2AtseAqmcE0KlucLvudbah
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 350240
+          explicit: true
+          external_ids:
+            isrc: USWB10102389
+          external_urls:
+            spotify: https://open.spotify.com/track/2kRp2hj59f5wYV6B2SJuI3
+          href: https://api.spotify.com/v1/tracks/2kRp2hj59f5wYV6B2SJuI3
+          id: 2kRp2hj59f5wYV6B2SJuI3
+          is_local: false
+          is_playable: true
+          name: There Goes the Neighborhood
+          track_number: 2
+          type: track
+          uri: spotify:track:2kRp2hj59f5wYV6B2SJuI3
+    isrc: USWB10102389

@@ -48,3 +48,234 @@ mediaFileData:
   year: 1994
   duration: 305.68490625
   modTime: 2025-04-11 18:37:37.946620+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6uNVtj7gzpLemyDZ3j4B8G
+    trackId: 6uNVtj7gzpLemyDZ3j4B8G
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAM19400300&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+              href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+              id: 3pHeBYl1yujXcZqqfF1UyQ
+              name: Blues Traveler
+              type: artist
+              uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+            external_urls:
+              spotify: https://open.spotify.com/album/0HiLd7IWvCLVLsEV1tXtjQ
+            href: https://api.spotify.com/v1/albums/0HiLd7IWvCLVLsEV1tXtjQ
+            id: 0HiLd7IWvCLVLsEV1tXtjQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273120730a3310671ffc6fca5be
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02120730a3310671ffc6fca5be
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851120730a3310671ffc6fca5be
+            is_playable: true
+            name: '25'
+            release_date: '2011-01-01'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:0HiLd7IWvCLVLsEV1tXtjQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+            href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+            id: 3pHeBYl1yujXcZqqfF1UyQ
+            name: Blues Traveler
+            type: artist
+            uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+          disc_number: 1
+          duration_ms: 308546
+          explicit: false
+          external_ids:
+            isrc: USAM19400300
+          external_urls:
+            spotify: https://open.spotify.com/track/6uNVtj7gzpLemyDZ3j4B8G
+          href: https://api.spotify.com/v1/tracks/6uNVtj7gzpLemyDZ3j4B8G
+          id: 6uNVtj7gzpLemyDZ3j4B8G
+          is_local: false
+          is_playable: true
+          name: The Mountains Win Again
+          track_number: 3
+          type: track
+          uri: spotify:track:6uNVtj7gzpLemyDZ3j4B8G
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+              href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+              id: 3pHeBYl1yujXcZqqfF1UyQ
+              name: Blues Traveler
+              type: artist
+              uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+            external_urls:
+              spotify: https://open.spotify.com/album/6aCROVk7gpB8rzEGsy6rLn
+            href: https://api.spotify.com/v1/albums/6aCROVk7gpB8rzEGsy6rLn
+            id: 6aCROVk7gpB8rzEGsy6rLn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b9036150c90c55c01e11881a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b9036150c90c55c01e11881a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b9036150c90c55c01e11881a
+            is_playable: true
+            name: 1,000,000 People Can't Be Wrong
+            release_date: '1995-01-01'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:6aCROVk7gpB8rzEGsy6rLn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+            href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+            id: 3pHeBYl1yujXcZqqfF1UyQ
+            name: Blues Traveler
+            type: artist
+            uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+          disc_number: 1
+          duration_ms: 305626
+          explicit: false
+          external_ids:
+            isrc: USAM19400300
+          external_urls:
+            spotify: https://open.spotify.com/track/1G9b0FQi4YoalV50bRSjRz
+          href: https://api.spotify.com/v1/tracks/1G9b0FQi4YoalV50bRSjRz
+          id: 1G9b0FQi4YoalV50bRSjRz
+          is_local: false
+          is_playable: true
+          name: The Mountains Win Again
+          track_number: 5
+          type: track
+          uri: spotify:track:1G9b0FQi4YoalV50bRSjRz
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+              href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+              id: 3pHeBYl1yujXcZqqfF1UyQ
+              name: Blues Traveler
+              type: artist
+              uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+            external_urls:
+              spotify: https://open.spotify.com/album/5nNeSC4KNxT50MnliLuGRa
+            href: https://api.spotify.com/v1/albums/5nNeSC4KNxT50MnliLuGRa
+            id: 5nNeSC4KNxT50MnliLuGRa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734e2e887ee7656310cfa244f6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024e2e887ee7656310cfa244f6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514e2e887ee7656310cfa244f6
+            is_playable: true
+            name: Four
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5nNeSC4KNxT50MnliLuGRa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+            href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+            id: 3pHeBYl1yujXcZqqfF1UyQ
+            name: Blues Traveler
+            type: artist
+            uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+          disc_number: 1
+          duration_ms: 305626
+          explicit: false
+          external_ids:
+            isrc: USAM19400300
+          external_urls:
+            spotify: https://open.spotify.com/track/2BLkpiR7oE09eY8DHUk6Bx
+          href: https://api.spotify.com/v1/tracks/2BLkpiR7oE09eY8DHUk6Bx
+          id: 2BLkpiR7oE09eY8DHUk6Bx
+          is_local: false
+          is_playable: true
+          name: The Mountains Win Again
+          track_number: 5
+          type: track
+          uri: spotify:track:2BLkpiR7oE09eY8DHUk6Bx
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+              href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+              id: 3pHeBYl1yujXcZqqfF1UyQ
+              name: Blues Traveler
+              type: artist
+              uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+            external_urls:
+              spotify: https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I
+            href: https://api.spotify.com/v1/albums/6Rro4SnGlmVE4uzc2EIo2I
+            id: 6Rro4SnGlmVE4uzc2EIo2I
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27367c87c46dc305117f0f55909
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0267c87c46dc305117f0f55909
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485167c87c46dc305117f0f55909
+            is_playable: true
+            name: 'Travelogue: Blues Traveler Classics'
+            release_date: '2002-01-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:6Rro4SnGlmVE4uzc2EIo2I
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+            href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+            id: 3pHeBYl1yujXcZqqfF1UyQ
+            name: Blues Traveler
+            type: artist
+            uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+          disc_number: 1
+          duration_ms: 306560
+          explicit: false
+          external_ids:
+            isrc: USAM19400300
+          external_urls:
+            spotify: https://open.spotify.com/track/51pHxrtDL67fSwiBYRv4EX
+          href: https://api.spotify.com/v1/tracks/51pHxrtDL67fSwiBYRv4EX
+          id: 51pHxrtDL67fSwiBYRv4EX
+          is_local: false
+          is_playable: true
+          name: The Mountains Win Again
+          track_number: 12
+          type: track
+          uri: spotify:track:51pHxrtDL67fSwiBYRv4EX
+    isrc: USAM19400300

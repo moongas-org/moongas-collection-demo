@@ -38,3 +38,180 @@ mediaFileData:
   year: 2006
   duration: 279.4
   modTime: 2023-05-14 15:53:54.390000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1bUXCLtfnGijrXp3rQkIa0
+    trackId: 1bUXCLtfnGijrXp3rQkIa0
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCJ80600051&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC
+              href: https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC
+              id: 6VDdCwrBM4qQaGxoAyxyJC
+              name: Cold War Kids
+              type: artist
+              uri: spotify:artist:6VDdCwrBM4qQaGxoAyxyJC
+            external_urls:
+              spotify: https://open.spotify.com/album/7mbnjdQ71PNVZ7VqIyhTLv
+            href: https://api.spotify.com/v1/albums/7mbnjdQ71PNVZ7VqIyhTLv
+            id: 7mbnjdQ71PNVZ7VqIyhTLv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ed1029909d4fc7073e09ae1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ed1029909d4fc7073e09ae1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ed1029909d4fc7073e09ae1
+            is_playable: true
+            name: This Will All Blow Over In Time
+            release_date: '2018-12-07'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:7mbnjdQ71PNVZ7VqIyhTLv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC
+            href: https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC
+            id: 6VDdCwrBM4qQaGxoAyxyJC
+            name: Cold War Kids
+            type: artist
+            uri: spotify:artist:6VDdCwrBM4qQaGxoAyxyJC
+          disc_number: 1
+          duration_ms: 279399
+          explicit: false
+          external_ids:
+            isrc: USCJ80600051
+          external_urls:
+            spotify: https://open.spotify.com/track/1bUXCLtfnGijrXp3rQkIa0
+          href: https://api.spotify.com/v1/tracks/1bUXCLtfnGijrXp3rQkIa0
+          id: 1bUXCLtfnGijrXp3rQkIa0
+          is_local: false
+          is_playable: true
+          name: Hospital Beds
+          track_number: 3
+          type: track
+          uri: spotify:track:1bUXCLtfnGijrXp3rQkIa0
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC
+              href: https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC
+              id: 6VDdCwrBM4qQaGxoAyxyJC
+              name: Cold War Kids
+              type: artist
+              uri: spotify:artist:6VDdCwrBM4qQaGxoAyxyJC
+            external_urls:
+              spotify: https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5
+            href: https://api.spotify.com/v1/albums/1LTbo93CjLo48yNP8Ysaz5
+            id: 1LTbo93CjLo48yNP8Ysaz5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273919b670c83fc757159b3147a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02919b670c83fc757159b3147a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851919b670c83fc757159b3147a
+            is_playable: true
+            name: Robbers & Cowards
+            release_date: '2007-05-11'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1LTbo93CjLo48yNP8Ysaz5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC
+            href: https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC
+            id: 6VDdCwrBM4qQaGxoAyxyJC
+            name: Cold War Kids
+            type: artist
+            uri: spotify:artist:6VDdCwrBM4qQaGxoAyxyJC
+          disc_number: 1
+          duration_ms: 279400
+          explicit: false
+          external_ids:
+            isrc: USCJ80600051
+          external_urls:
+            spotify: https://open.spotify.com/track/4Zhnwb8jvP09aIRAzQMG08
+          href: https://api.spotify.com/v1/tracks/4Zhnwb8jvP09aIRAzQMG08
+          id: 4Zhnwb8jvP09aIRAzQMG08
+          is_local: false
+          is_playable: true
+          name: Hospital Beds
+          track_number: 8
+          type: track
+          uri: spotify:track:4Zhnwb8jvP09aIRAzQMG08
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC
+              href: https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC
+              id: 6VDdCwrBM4qQaGxoAyxyJC
+              name: Cold War Kids
+              type: artist
+              uri: spotify:artist:6VDdCwrBM4qQaGxoAyxyJC
+            external_urls:
+              spotify: https://open.spotify.com/album/6GpMaxWeFSKzzoSKfDmgpu
+            href: https://api.spotify.com/v1/albums/6GpMaxWeFSKzzoSKfDmgpu
+            id: 6GpMaxWeFSKzzoSKfDmgpu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739b38a7e7d72d5b521a3eaedf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029b38a7e7d72d5b521a3eaedf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519b38a7e7d72d5b521a3eaedf
+            is_playable: true
+            name: Robbers & Cowards / Complete Cowards
+            release_date: '2026-10-30'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:6GpMaxWeFSKzzoSKfDmgpu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC
+            href: https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC
+            id: 6VDdCwrBM4qQaGxoAyxyJC
+            name: Cold War Kids
+            type: artist
+            uri: spotify:artist:6VDdCwrBM4qQaGxoAyxyJC
+          disc_number: 1
+          duration_ms: 279399
+          explicit: false
+          external_ids:
+            isrc: USCJ80600051
+          external_urls:
+            spotify: https://open.spotify.com/track/07fa2JhutvgaTaLaKn2UiC
+          href: https://api.spotify.com/v1/tracks/07fa2JhutvgaTaLaKn2UiC
+          id: 07fa2JhutvgaTaLaKn2UiC
+          is_local: false
+          is_playable: true
+          name: Hospital Beds
+          track_number: 8
+          type: track
+          uri: spotify:track:07fa2JhutvgaTaLaKn2UiC
+    isrc: USCJ80600051

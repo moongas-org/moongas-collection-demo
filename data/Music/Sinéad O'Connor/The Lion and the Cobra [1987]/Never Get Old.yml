@@ -45,3 +45,72 @@ mediaFileData:
   year: 1987
   duration: 273.864
   modTime: 2023-08-06 17:35:02+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0obVv1fEGQcWrTpCiEDjja
+    trackId: 0obVv1fEGQcWrTpCiEDjja
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYK8700071&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1
+              href: https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1
+              id: 4sD9znwiVFx9cgRPZ42aQ1
+              name: Sinéad O'Connor
+              type: artist
+              uri: spotify:artist:4sD9znwiVFx9cgRPZ42aQ1
+            external_urls:
+              spotify: https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6
+            href: https://api.spotify.com/v1/albums/5dVe3a5ld9uJC4VlpAXoJ6
+            id: 5dVe3a5ld9uJC4VlpAXoJ6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273401327dd3276d4bacbfac28f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02401327dd3276d4bacbfac28f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851401327dd3276d4bacbfac28f
+            is_playable: true
+            name: The Lion and the Cobra
+            release_date: '1987-10-05'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:5dVe3a5ld9uJC4VlpAXoJ6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1
+            href: https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1
+            id: 4sD9znwiVFx9cgRPZ42aQ1
+            name: Sinéad O'Connor
+            type: artist
+            uri: spotify:artist:4sD9znwiVFx9cgRPZ42aQ1
+          disc_number: 1
+          duration_ms: 273840
+          explicit: false
+          external_ids:
+            isrc: GBAYK8700071
+          external_urls:
+            spotify: https://open.spotify.com/track/0obVv1fEGQcWrTpCiEDjja
+          href: https://api.spotify.com/v1/tracks/0obVv1fEGQcWrTpCiEDjja
+          id: 0obVv1fEGQcWrTpCiEDjja
+          is_local: false
+          is_playable: true
+          name: Never Get Old
+          track_number: 5
+          type: track
+          uri: spotify:track:0obVv1fEGQcWrTpCiEDjja
+    isrc: GBAYK8700071

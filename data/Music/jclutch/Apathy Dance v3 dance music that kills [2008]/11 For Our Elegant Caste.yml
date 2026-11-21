@@ -35,3 +35,126 @@ mediaFileData:
   year: 2008
   duration: 154.8016875
   modTime: 2026-09-01 01:03:53.656863+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1wYRli1UQTXE7S2ei8v4Wx
+    trackId: 1wYRli1UQTXE7S2ei8v4Wx
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS3R40816003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O
+              href: https://api.spotify.com/v1/artists/5xeBMeW0YzWIXSVzAxhM8O
+              id: 5xeBMeW0YzWIXSVzAxhM8O
+              name: of Montreal
+              type: artist
+              uri: spotify:artist:5xeBMeW0YzWIXSVzAxhM8O
+            external_urls:
+              spotify: https://open.spotify.com/album/0sW45tVUeieJRYgDpV3qES
+            href: https://api.spotify.com/v1/albums/0sW45tVUeieJRYgDpV3qES
+            id: 0sW45tVUeieJRYgDpV3qES
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a6e590b8bd7bc2ecc2553f21
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a6e590b8bd7bc2ecc2553f21
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a6e590b8bd7bc2ecc2553f21
+            is_playable: true
+            name: For Our Elegant Caste
+            release_date: '2009-06-23'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:0sW45tVUeieJRYgDpV3qES
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O
+            href: https://api.spotify.com/v1/artists/5xeBMeW0YzWIXSVzAxhM8O
+            id: 5xeBMeW0YzWIXSVzAxhM8O
+            name: of Montreal
+            type: artist
+            uri: spotify:artist:5xeBMeW0YzWIXSVzAxhM8O
+          disc_number: 1
+          duration_ms: 154733
+          explicit: false
+          external_ids:
+            isrc: US3R40816003
+          external_urls:
+            spotify: https://open.spotify.com/track/1wYRli1UQTXE7S2ei8v4Wx
+          href: https://api.spotify.com/v1/tracks/1wYRli1UQTXE7S2ei8v4Wx
+          id: 1wYRli1UQTXE7S2ei8v4Wx
+          is_local: false
+          is_playable: true
+          name: For Our Elegant Caste
+          track_number: 1
+          type: track
+          uri: spotify:track:1wYRli1UQTXE7S2ei8v4Wx
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O
+              href: https://api.spotify.com/v1/artists/5xeBMeW0YzWIXSVzAxhM8O
+              id: 5xeBMeW0YzWIXSVzAxhM8O
+              name: of Montreal
+              type: artist
+              uri: spotify:artist:5xeBMeW0YzWIXSVzAxhM8O
+            external_urls:
+              spotify: https://open.spotify.com/album/2YGZF1ojQN4ob5IYWkcBeB
+            href: https://api.spotify.com/v1/albums/2YGZF1ojQN4ob5IYWkcBeB
+            id: 2YGZF1ojQN4ob5IYWkcBeB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273392db855a19da2712ccb0081
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02392db855a19da2712ccb0081
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851392db855a19da2712ccb0081
+            is_playable: true
+            name: Skeletal Lamping
+            release_date: '2008-10-21'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:2YGZF1ojQN4ob5IYWkcBeB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O
+            href: https://api.spotify.com/v1/artists/5xeBMeW0YzWIXSVzAxhM8O
+            id: 5xeBMeW0YzWIXSVzAxhM8O
+            name: of Montreal
+            type: artist
+            uri: spotify:artist:5xeBMeW0YzWIXSVzAxhM8O
+          disc_number: 1
+          duration_ms: 154733
+          explicit: false
+          external_ids:
+            isrc: US3R40816003
+          external_urls:
+            spotify: https://open.spotify.com/track/2aYOiKGd3sCPVrAMZK94Hw
+          href: https://api.spotify.com/v1/tracks/2aYOiKGd3sCPVrAMZK94Hw
+          id: 2aYOiKGd3sCPVrAMZK94Hw
+          is_local: false
+          is_playable: true
+          name: For Our Elegant Caste
+          track_number: 3
+          type: track
+          uri: spotify:track:2aYOiKGd3sCPVrAMZK94Hw
+    isrc: US3R40816003

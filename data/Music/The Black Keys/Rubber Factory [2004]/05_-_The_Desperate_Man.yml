@@ -37,3 +37,72 @@ mediaFileData:
   year: 2004
   duration: 234.42666666666668
   modTime: 2025-04-11 16:39:05.991011+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2cppfvVJvuuAqtanqsvKiy
+    trackId: 2cppfvVJvuuAqtanqsvKiy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFP60401105&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+              href: https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz
+              id: 7mnBLXK823vNxN3UWB7Gfz
+              name: The Black Keys
+              type: artist
+              uri: spotify:artist:7mnBLXK823vNxN3UWB7Gfz
+            external_urls:
+              spotify: https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5
+            href: https://api.spotify.com/v1/albums/1rlGDm1KQJfDyT5v1U8Xk5
+            id: 1rlGDm1KQJfDyT5v1U8Xk5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27309ed0b59f23120e6517ec9f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0209ed0b59f23120e6517ec9f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485109ed0b59f23120e6517ec9f5
+            is_playable: true
+            name: Rubber Factory
+            release_date: '2016-12-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:1rlGDm1KQJfDyT5v1U8Xk5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+            href: https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz
+            id: 7mnBLXK823vNxN3UWB7Gfz
+            name: The Black Keys
+            type: artist
+            uri: spotify:artist:7mnBLXK823vNxN3UWB7Gfz
+          disc_number: 1
+          duration_ms: 234426
+          explicit: false
+          external_ids:
+            isrc: USFP60401105
+          external_urls:
+            spotify: https://open.spotify.com/track/2cppfvVJvuuAqtanqsvKiy
+          href: https://api.spotify.com/v1/tracks/2cppfvVJvuuAqtanqsvKiy
+          id: 2cppfvVJvuuAqtanqsvKiy
+          is_local: false
+          is_playable: true
+          name: The Desperate Man
+          track_number: 5
+          type: track
+          uri: spotify:track:2cppfvVJvuuAqtanqsvKiy
+    isrc: USFP60401105

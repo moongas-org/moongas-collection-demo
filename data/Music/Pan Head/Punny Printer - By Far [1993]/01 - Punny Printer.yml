@@ -55,3 +55,72 @@ mediaFileData:
   year: 1993
   duration: 221.25714285714287
   modTime: 2024-03-02 17:38:49.213292+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6i95cwmFI3MnRxp0ULeL25
+    trackId: 6i95cwmFI3MnRxp0ULeL25
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVPR9300283&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7y9oVBUjoNborxZoe94gyV
+            href: https://api.spotify.com/v1/albums/7y9oVBUjoNborxZoe94gyV
+            id: 7y9oVBUjoNborxZoe94gyV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731bb0a3266af05f8b9e6ededb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021bb0a3266af05f8b9e6ededb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511bb0a3266af05f8b9e6ededb
+            is_playable: true
+            name: 'Total Reggae: Dancehall'
+            release_date: '2013-05-31'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:7y9oVBUjoNborxZoe94gyV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0q4hd2WOzUhF90FBtGcZAl
+            href: https://api.spotify.com/v1/artists/0q4hd2WOzUhF90FBtGcZAl
+            id: 0q4hd2WOzUhF90FBtGcZAl
+            name: Pan Head
+            type: artist
+            uri: spotify:artist:0q4hd2WOzUhF90FBtGcZAl
+          disc_number: 2
+          duration_ms: 221160
+          explicit: false
+          external_ids:
+            isrc: USVPR9300283
+          external_urls:
+            spotify: https://open.spotify.com/track/6i95cwmFI3MnRxp0ULeL25
+          href: https://api.spotify.com/v1/tracks/6i95cwmFI3MnRxp0ULeL25
+          id: 6i95cwmFI3MnRxp0ULeL25
+          is_local: false
+          is_playable: true
+          name: Punny Printer
+          track_number: 17
+          type: track
+          uri: spotify:track:6i95cwmFI3MnRxp0ULeL25
+    isrc: USVPR9300283

@@ -41,3 +41,72 @@ mediaFileData:
   year: 2000
   duration: 291.4
   modTime: 2025-11-20 02:25:43.418161+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/65AtPW1XAMCasgEQrTVrXY
+    trackId: 65AtPW1XAMCasgEQrTVrXY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSLR50000229&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT
+              href: https://api.spotify.com/v1/artists/26s8LSolLfCIY88ysQbIuT
+              id: 26s8LSolLfCIY88ysQbIuT
+              name: Three 6 Mafia
+              type: artist
+              uri: spotify:artist:26s8LSolLfCIY88ysQbIuT
+            external_urls:
+              spotify: https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI
+            href: https://api.spotify.com/v1/albums/16T5Usl6Qs24qps5ZwIeVI
+            id: 16T5Usl6Qs24qps5ZwIeVI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737d1e3fb810a8c4a1271425fd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027d1e3fb810a8c4a1271425fd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517d1e3fb810a8c4a1271425fd
+            is_playable: true
+            name: 'When the Smoke Clears: Sixty 6, Sixty 1'
+            release_date: '2000-06-13'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:16T5Usl6Qs24qps5ZwIeVI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6b7BFjMbRP4qNGHTpFNU9U
+            href: https://api.spotify.com/v1/artists/6b7BFjMbRP4qNGHTpFNU9U
+            id: 6b7BFjMbRP4qNGHTpFNU9U
+            name: Hypnotize Camp Posse
+            type: artist
+            uri: spotify:artist:6b7BFjMbRP4qNGHTpFNU9U
+          disc_number: 1
+          duration_ms: 291400
+          explicit: true
+          external_ids:
+            isrc: USLR50000229
+          external_urls:
+            spotify: https://open.spotify.com/track/65AtPW1XAMCasgEQrTVrXY
+          href: https://api.spotify.com/v1/tracks/65AtPW1XAMCasgEQrTVrXY
+          id: 65AtPW1XAMCasgEQrTVrXY
+          is_local: false
+          is_playable: true
+          name: M.E.M.P.H.I.S.
+          track_number: 18
+          type: track
+          uri: spotify:track:65AtPW1XAMCasgEQrTVrXY
+    isrc: USLR50000229

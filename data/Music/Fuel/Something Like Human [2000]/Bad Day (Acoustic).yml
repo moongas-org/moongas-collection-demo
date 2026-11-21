@@ -42,3 +42,288 @@ mediaFileData:
   year: 2000
   duration: 194.84733333333332
   modTime: 2023-05-15 22:03:56+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5z5ao3FAaVwHk1g7xuOBcB
+    trackId: 5z5ao3FAaVwHk1g7xuOBcB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19702942&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp
+              href: https://api.spotify.com/v1/artists/0EyuKHE1AeE9lWUF8mzKVp
+              id: 0EyuKHE1AeE9lWUF8mzKVp
+              name: Fuel
+              type: artist
+              uri: spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+            external_urls:
+              spotify: https://open.spotify.com/album/1OmZcrLO7y9cL7pq8Ge0LL
+            href: https://api.spotify.com/v1/albums/1OmZcrLO7y9cL7pq8Ge0LL
+            id: 1OmZcrLO7y9cL7pq8Ge0LL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e02669b28cb76940fc63bed1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e02669b28cb76940fc63bed1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e02669b28cb76940fc63bed1
+            is_playable: true
+            name: Something Like Human
+            release_date: '2000-09-19'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1OmZcrLO7y9cL7pq8Ge0LL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp
+            href: https://api.spotify.com/v1/artists/0EyuKHE1AeE9lWUF8mzKVp
+            id: 0EyuKHE1AeE9lWUF8mzKVp
+            name: Fuel
+            type: artist
+            uri: spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+          disc_number: 1
+          duration_ms: 195466
+          explicit: false
+          external_ids:
+            isrc: USSM19702942
+          external_urls:
+            spotify: https://open.spotify.com/track/5z5ao3FAaVwHk1g7xuOBcB
+          href: https://api.spotify.com/v1/tracks/5z5ao3FAaVwHk1g7xuOBcB
+          id: 5z5ao3FAaVwHk1g7xuOBcB
+          is_local: false
+          is_playable: true
+          name: Bad Day
+          track_number: 5
+          type: track
+          uri: spotify:track:5z5ao3FAaVwHk1g7xuOBcB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6yjJVxrfSV2NehxmQ1wT6z
+            href: https://api.spotify.com/v1/albums/6yjJVxrfSV2NehxmQ1wT6z
+            id: 6yjJVxrfSV2NehxmQ1wT6z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738398fbc1edd2209d5a8e0132
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028398fbc1edd2209d5a8e0132
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518398fbc1edd2209d5a8e0132
+            is_playable: true
+            name: Y2K Alt Rock Hits
+            release_date: '2025-01-17'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:6yjJVxrfSV2NehxmQ1wT6z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp
+            href: https://api.spotify.com/v1/artists/0EyuKHE1AeE9lWUF8mzKVp
+            id: 0EyuKHE1AeE9lWUF8mzKVp
+            name: Fuel
+            type: artist
+            uri: spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+          disc_number: 1
+          duration_ms: 195040
+          explicit: false
+          external_ids:
+            isrc: USSM19702942
+          external_urls:
+            spotify: https://open.spotify.com/track/0Z66MGSicRpIalbS24qwlp
+          href: https://api.spotify.com/v1/tracks/0Z66MGSicRpIalbS24qwlp
+          id: 0Z66MGSicRpIalbS24qwlp
+          is_local: false
+          is_playable: true
+          name: Bad Day
+          track_number: 47
+          type: track
+          uri: spotify:track:0Z66MGSicRpIalbS24qwlp
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp
+              href: https://api.spotify.com/v1/artists/0EyuKHE1AeE9lWUF8mzKVp
+              id: 0EyuKHE1AeE9lWUF8mzKVp
+              name: Fuel
+              type: artist
+              uri: spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+            external_urls:
+              spotify: https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq
+            href: https://api.spotify.com/v1/albums/5CmgNXCwdGuqn6EPzfb4Tq
+            id: 5CmgNXCwdGuqn6EPzfb4Tq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ecba48295193b82f13cd560f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ecba48295193b82f13cd560f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ecba48295193b82f13cd560f
+            is_playable: true
+            name: The Best of Fuel
+            release_date: '2005'
+            release_date_precision: year
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5CmgNXCwdGuqn6EPzfb4Tq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp
+            href: https://api.spotify.com/v1/artists/0EyuKHE1AeE9lWUF8mzKVp
+            id: 0EyuKHE1AeE9lWUF8mzKVp
+            name: Fuel
+            type: artist
+            uri: spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+          disc_number: 1
+          duration_ms: 195040
+          explicit: false
+          external_ids:
+            isrc: USSM19702942
+          external_urls:
+            spotify: https://open.spotify.com/track/4Tjtydj98uNQ9MwKtEybnT
+          href: https://api.spotify.com/v1/tracks/4Tjtydj98uNQ9MwKtEybnT
+          id: 4Tjtydj98uNQ9MwKtEybnT
+          is_local: false
+          is_playable: true
+          name: Bad Day
+          track_number: 4
+          type: track
+          uri: spotify:track:4Tjtydj98uNQ9MwKtEybnT
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2bxPMgRpAgDMVR1a3WPByx
+            href: https://api.spotify.com/v1/albums/2bxPMgRpAgDMVR1a3WPByx
+            id: 2bxPMgRpAgDMVR1a3WPByx
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27360c18d340ba9bdf884087e5d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0260c18d340ba9bdf884087e5d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485160c18d340ba9bdf884087e5d
+            is_playable: true
+            name: Hits do Alt Rock - Y2K
+            release_date: '2025-03-08'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:2bxPMgRpAgDMVR1a3WPByx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp
+            href: https://api.spotify.com/v1/artists/0EyuKHE1AeE9lWUF8mzKVp
+            id: 0EyuKHE1AeE9lWUF8mzKVp
+            name: Fuel
+            type: artist
+            uri: spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+          disc_number: 1
+          duration_ms: 195040
+          explicit: false
+          external_ids:
+            isrc: USSM19702942
+          external_urls:
+            spotify: https://open.spotify.com/track/07r7KK1roblgjzIllViho7
+          href: https://api.spotify.com/v1/tracks/07r7KK1roblgjzIllViho7
+          id: 07r7KK1roblgjzIllViho7
+          is_local: false
+          is_playable: true
+          name: Bad Day
+          track_number: 47
+          type: track
+          uri: spotify:track:07r7KK1roblgjzIllViho7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6quJl7zugek1Q8fWRi6Lpn
+            href: https://api.spotify.com/v1/albums/6quJl7zugek1Q8fWRi6Lpn
+            id: 6quJl7zugek1Q8fWRi6Lpn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f310b04bb7ae2b8af543862f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f310b04bb7ae2b8af543862f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f310b04bb7ae2b8af543862f
+            is_playable: true
+            name: The Essential 00's Rock
+            release_date: '2009-08-06'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:6quJl7zugek1Q8fWRi6Lpn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp
+            href: https://api.spotify.com/v1/artists/0EyuKHE1AeE9lWUF8mzKVp
+            id: 0EyuKHE1AeE9lWUF8mzKVp
+            name: Fuel
+            type: artist
+            uri: spotify:artist:0EyuKHE1AeE9lWUF8mzKVp
+          disc_number: 1
+          duration_ms: 195160
+          explicit: false
+          external_ids:
+            isrc: USSM19702942
+          external_urls:
+            spotify: https://open.spotify.com/track/7pPRpG9J032IxblXlXrTbu
+          href: https://api.spotify.com/v1/tracks/7pPRpG9J032IxblXlXrTbu
+          id: 7pPRpG9J032IxblXlXrTbu
+          is_local: false
+          is_playable: true
+          name: Bad Day
+          track_number: 15
+          type: track
+          uri: spotify:track:7pPRpG9J032IxblXlXrTbu
+    isrc: USSM19702942

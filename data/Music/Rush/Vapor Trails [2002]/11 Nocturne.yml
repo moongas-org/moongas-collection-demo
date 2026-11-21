@@ -53,3 +53,126 @@ mediaFileData:
   year: 2002
   duration: 289.201625
   modTime: 2023-10-25 14:22:16.051782+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5QvzzUvPKDwIdMuKPSFvyb
+    trackId: 5QvzzUvPKDwIdMuKPSFvyb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT21302308&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/3uDtOe1tP8FovqfD56shua
+            href: https://api.spotify.com/v1/albums/3uDtOe1tP8FovqfD56shua
+            id: 3uDtOe1tP8FovqfD56shua
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27328a33a6c8777e2eed2786897
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0228a33a6c8777e2eed2786897
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485128a33a6c8777e2eed2786897
+            is_playable: true
+            name: Vapor Trails (2013 Remix)
+            release_date: '2002'
+            release_date_precision: year
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3uDtOe1tP8FovqfD56shua
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 289200
+          explicit: false
+          external_ids:
+            isrc: USAT21302308
+          external_urls:
+            spotify: https://open.spotify.com/track/5QvzzUvPKDwIdMuKPSFvyb
+          href: https://api.spotify.com/v1/tracks/5QvzzUvPKDwIdMuKPSFvyb
+          id: 5QvzzUvPKDwIdMuKPSFvyb
+          is_local: false
+          is_playable: true
+          name: Nocturne - 2013 Remix
+          track_number: 11
+          type: track
+          uri: spotify:track:5QvzzUvPKDwIdMuKPSFvyb
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/7IYJ06qDJHZ0EytRykKpWn
+            href: https://api.spotify.com/v1/albums/7IYJ06qDJHZ0EytRykKpWn
+            id: 7IYJ06qDJHZ0EytRykKpWn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cae7ba20c9fb575b687172aa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cae7ba20c9fb575b687172aa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cae7ba20c9fb575b687172aa
+            is_playable: true
+            name: The Studio Albums 1989-2007
+            release_date: '2013-05-07'
+            release_date_precision: day
+            total_tracks: 77
+            type: album
+            uri: spotify:album:7IYJ06qDJHZ0EytRykKpWn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 5
+          duration_ms: 289200
+          explicit: false
+          external_ids:
+            isrc: USAT21302308
+          external_urls:
+            spotify: https://open.spotify.com/track/1wR0RMfm7p3OojqmWpZOXE
+          href: https://api.spotify.com/v1/tracks/1wR0RMfm7p3OojqmWpZOXE
+          id: 1wR0RMfm7p3OojqmWpZOXE
+          is_local: false
+          is_playable: true
+          name: Nocturne - 2013 Remix
+          track_number: 11
+          type: track
+          uri: spotify:track:1wR0RMfm7p3OojqmWpZOXE
+    isrc: USAT21302308

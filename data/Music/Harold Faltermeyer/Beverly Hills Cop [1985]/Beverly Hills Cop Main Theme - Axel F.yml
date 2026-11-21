@@ -106,3 +106,288 @@ mediaFileData:
   year: 1985
   duration: 181.992
   modTime: 2023-04-22 20:36:23.410000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY
+    trackId: 2kgqupahrJpYB4r1poTXEY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC18416586&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMC18416586&type=track
+        offset: 0
+        previous:
+        total: 17
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv
+              href: https://api.spotify.com/v1/artists/7Cf73Z3RZQTH4V69GSDxnv
+              id: 7Cf73Z3RZQTH4V69GSDxnv
+              name: Harold Faltermeyer
+              type: artist
+              uri: spotify:artist:7Cf73Z3RZQTH4V69GSDxnv
+            external_urls:
+              spotify: https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc
+            href: https://api.spotify.com/v1/albums/5PmMpqpQl9DyiddbZLnthc
+            id: 5PmMpqpQl9DyiddbZLnthc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b4b6bc2c1a5e08b502770871
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b4b6bc2c1a5e08b502770871
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b4b6bc2c1a5e08b502770871
+            is_playable: true
+            name: Harold F
+            release_date: '1988-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5PmMpqpQl9DyiddbZLnthc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv
+            href: https://api.spotify.com/v1/artists/7Cf73Z3RZQTH4V69GSDxnv
+            id: 7Cf73Z3RZQTH4V69GSDxnv
+            name: Harold Faltermeyer
+            type: artist
+            uri: spotify:artist:7Cf73Z3RZQTH4V69GSDxnv
+          disc_number: 1
+          duration_ms: 180866
+          explicit: false
+          external_ids:
+            isrc: USMC18416586
+          external_urls:
+            spotify: https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY
+          href: https://api.spotify.com/v1/tracks/2kgqupahrJpYB4r1poTXEY
+          id: 2kgqupahrJpYB4r1poTXEY
+          is_local: false
+          is_playable: true
+          name: Axel F
+          track_number: 10
+          type: track
+          uri: spotify:track:2kgqupahrJpYB4r1poTXEY
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv
+              href: https://api.spotify.com/v1/artists/7Cf73Z3RZQTH4V69GSDxnv
+              id: 7Cf73Z3RZQTH4V69GSDxnv
+              name: Harold Faltermeyer
+              type: artist
+              uri: spotify:artist:7Cf73Z3RZQTH4V69GSDxnv
+            external_urls:
+              spotify: https://open.spotify.com/album/7LOTAy5PoqajFrCol5KSs1
+            href: https://api.spotify.com/v1/albums/7LOTAy5PoqajFrCol5KSs1
+            id: 7LOTAy5PoqajFrCol5KSs1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27398158efd1daa9d1dad44514b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0298158efd1daa9d1dad44514b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485198158efd1daa9d1dad44514b
+            is_playable: true
+            name: Axel F (From "Beverly Hills Cop")
+            release_date: '1984-01-01'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:7LOTAy5PoqajFrCol5KSs1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv
+            href: https://api.spotify.com/v1/artists/7Cf73Z3RZQTH4V69GSDxnv
+            id: 7Cf73Z3RZQTH4V69GSDxnv
+            name: Harold Faltermeyer
+            type: artist
+            uri: spotify:artist:7Cf73Z3RZQTH4V69GSDxnv
+          disc_number: 1
+          duration_ms: 182053
+          explicit: false
+          external_ids:
+            isrc: USMC18416586
+          external_urls:
+            spotify: https://open.spotify.com/track/3pgTnWleIriTapci1F71Fz
+          href: https://api.spotify.com/v1/tracks/3pgTnWleIriTapci1F71Fz
+          id: 3pgTnWleIriTapci1F71Fz
+          is_local: false
+          is_playable: true
+          name: Axel F
+          track_number: 1
+          type: track
+          uri: spotify:track:3pgTnWleIriTapci1F71Fz
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3Zd4MI3Ja55JvK4Obzl6lV
+            href: https://api.spotify.com/v1/albums/3Zd4MI3Ja55JvK4Obzl6lV
+            id: 3Zd4MI3Ja55JvK4Obzl6lV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273592aac5c14972ae94013746a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02592aac5c14972ae94013746a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851592aac5c14972ae94013746a
+            is_playable: true
+            name: Beverly Hills Cop (Music From The Motion Picture Soundtrack)
+            release_date: '1984-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3Zd4MI3Ja55JvK4Obzl6lV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv
+            href: https://api.spotify.com/v1/artists/7Cf73Z3RZQTH4V69GSDxnv
+            id: 7Cf73Z3RZQTH4V69GSDxnv
+            name: Harold Faltermeyer
+            type: artist
+            uri: spotify:artist:7Cf73Z3RZQTH4V69GSDxnv
+          disc_number: 1
+          duration_ms: 184800
+          explicit: false
+          external_ids:
+            isrc: USMC18416586
+          external_urls:
+            spotify: https://open.spotify.com/track/5w4DKOH3EsOPUuoHXieLtB
+          href: https://api.spotify.com/v1/tracks/5w4DKOH3EsOPUuoHXieLtB
+          id: 5w4DKOH3EsOPUuoHXieLtB
+          is_local: false
+          is_playable: true
+          name: Axel F - From "Beverly Hills Cop" Soundtrack
+          track_number: 10
+          type: track
+          uri: spotify:track:5w4DKOH3EsOPUuoHXieLtB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3rvuKtdAV2z6Gza7iZxcyd
+            href: https://api.spotify.com/v1/albums/3rvuKtdAV2z6Gza7iZxcyd
+            id: 3rvuKtdAV2z6Gza7iZxcyd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737af895b1a99f39fa825ae5db
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027af895b1a99f39fa825ae5db
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517af895b1a99f39fa825ae5db
+            is_playable: true
+            name: Totally '80s For Kids
+            release_date: '2010-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:3rvuKtdAV2z6Gza7iZxcyd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv
+            href: https://api.spotify.com/v1/artists/7Cf73Z3RZQTH4V69GSDxnv
+            id: 7Cf73Z3RZQTH4V69GSDxnv
+            name: Harold Faltermeyer
+            type: artist
+            uri: spotify:artist:7Cf73Z3RZQTH4V69GSDxnv
+          disc_number: 1
+          duration_ms: 180373
+          explicit: false
+          external_ids:
+            isrc: USMC18416586
+          external_urls:
+            spotify: https://open.spotify.com/track/090rX2ouW974AT3dFCxJpc
+          href: https://api.spotify.com/v1/tracks/090rX2ouW974AT3dFCxJpc
+          id: 090rX2ouW974AT3dFCxJpc
+          is_local: false
+          is_playable: true
+          name: Axel F - From "Beverly Hills Cop" Soundtrack
+          track_number: 5
+          type: track
+          uri: spotify:track:090rX2ouW974AT3dFCxJpc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY
+            href: https://api.spotify.com/v1/albums/4Z1n0xes29RVzPttal9QOY
+            id: 4Z1n0xes29RVzPttal9QOY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730225711dc520d382bf0d0b45
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020225711dc520d382bf0d0b45
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510225711dc520d382bf0d0b45
+            is_playable: true
+            name: "'80s Pop #1's"
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:4Z1n0xes29RVzPttal9QOY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv
+            href: https://api.spotify.com/v1/artists/7Cf73Z3RZQTH4V69GSDxnv
+            id: 7Cf73Z3RZQTH4V69GSDxnv
+            name: Harold Faltermeyer
+            type: artist
+            uri: spotify:artist:7Cf73Z3RZQTH4V69GSDxnv
+          disc_number: 1
+          duration_ms: 179986
+          explicit: false
+          external_ids:
+            isrc: USMC18416586
+          external_urls:
+            spotify: https://open.spotify.com/track/1GVd8euqs4yQxGyIOLJX0c
+          href: https://api.spotify.com/v1/tracks/1GVd8euqs4yQxGyIOLJX0c
+          id: 1GVd8euqs4yQxGyIOLJX0c
+          is_local: false
+          is_playable: true
+          name: Axel F - From "Beverly Hills Cop" Soundtrack
+          track_number: 15
+          type: track
+          uri: spotify:track:1GVd8euqs4yQxGyIOLJX0c
+    isrc: USMC18416586

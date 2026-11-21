@@ -34,3 +34,126 @@ mediaFileData:
   year: 2024
   duration: 213.336
   modTime: 2024-09-08 22:05:31.059928+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/74tR3siihoNwYjf3jIJqeJ
+    trackId: 74tR3siihoNwYjf3jIJqeJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPW2401107&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+              href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+              id: 29XOeO6KIWxGthejQqn793
+              name: Flying Lotus
+              type: artist
+              uri: spotify:artist:29XOeO6KIWxGthejQqn793
+            external_urls:
+              spotify: https://open.spotify.com/album/3PJHdTwoBNb0RUSaHd6gFP
+            href: https://api.spotify.com/v1/albums/3PJHdTwoBNb0RUSaHd6gFP
+            id: 3PJHdTwoBNb0RUSaHd6gFP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b31d6e8e2ab0328f94b89dde
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b31d6e8e2ab0328f94b89dde
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b31d6e8e2ab0328f94b89dde
+            is_playable: true
+            name: Spirit Box
+            release_date: '2025-04-03'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:3PJHdTwoBNb0RUSaHd6gFP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+            href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+            id: 29XOeO6KIWxGthejQqn793
+            name: Flying Lotus
+            type: artist
+            uri: spotify:artist:29XOeO6KIWxGthejQqn793
+          disc_number: 1
+          duration_ms: 213333
+          explicit: false
+          external_ids:
+            isrc: GBBPW2401107
+          external_urls:
+            spotify: https://open.spotify.com/track/74tR3siihoNwYjf3jIJqeJ
+          href: https://api.spotify.com/v1/tracks/74tR3siihoNwYjf3jIJqeJ
+          id: 74tR3siihoNwYjf3jIJqeJ
+          is_local: false
+          is_playable: true
+          name: Garmonbozia
+          track_number: 2
+          type: track
+          uri: spotify:track:74tR3siihoNwYjf3jIJqeJ
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+              href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+              id: 29XOeO6KIWxGthejQqn793
+              name: Flying Lotus
+              type: artist
+              uri: spotify:artist:29XOeO6KIWxGthejQqn793
+            external_urls:
+              spotify: https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja
+            href: https://api.spotify.com/v1/albums/2E0PfJRClRUJps8edfgJja
+            id: 2E0PfJRClRUJps8edfgJja
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734895e3c4a6f0c78ba12dc7f8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024895e3c4a6f0c78ba12dc7f8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514895e3c4a6f0c78ba12dc7f8
+            is_playable: true
+            name: Spirit Box
+            release_date: '2024-10-29'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:2E0PfJRClRUJps8edfgJja
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+            href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+            id: 29XOeO6KIWxGthejQqn793
+            name: Flying Lotus
+            type: artist
+            uri: spotify:artist:29XOeO6KIWxGthejQqn793
+          disc_number: 1
+          duration_ms: 213333
+          explicit: false
+          external_ids:
+            isrc: GBBPW2401107
+          external_urls:
+            spotify: https://open.spotify.com/track/36PIheIp9ceOOW8WuHIcgz
+          href: https://api.spotify.com/v1/tracks/36PIheIp9ceOOW8WuHIcgz
+          id: 36PIheIp9ceOOW8WuHIcgz
+          is_local: false
+          is_playable: true
+          name: Garmonbozia
+          track_number: 2
+          type: track
+          uri: spotify:track:36PIheIp9ceOOW8WuHIcgz
+    isrc: GBBPW2401107

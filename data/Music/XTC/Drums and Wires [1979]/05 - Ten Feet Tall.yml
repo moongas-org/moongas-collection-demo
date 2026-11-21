@@ -79,3 +79,72 @@ mediaFileData:
   year: 1979
   duration: 196.8
   modTime: 2025-03-18 01:35:21.542050+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4yKuC0pyIDzordgvcuL3Rg
+    trackId: 4yKuC0pyIDzordgvcuL3Rg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAAA7900253&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz
+              href: https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz
+              id: 2qT62DYO8Ajb276vUJmvhz
+              name: XTC
+              type: artist
+              uri: spotify:artist:2qT62DYO8Ajb276vUJmvhz
+            external_urls:
+              spotify: https://open.spotify.com/album/1bj2tqtj5k2nhuPIBpINpI
+            href: https://api.spotify.com/v1/albums/1bj2tqtj5k2nhuPIBpINpI
+            id: 1bj2tqtj5k2nhuPIBpINpI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e3c58ba6c003780d5a0841eb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e3c58ba6c003780d5a0841eb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e3c58ba6c003780d5a0841eb
+            is_playable: true
+            name: 'Fossil Fuel: The XTC Singles Collection 1977 - 1992'
+            release_date: '1996'
+            release_date_precision: year
+            total_tracks: 31
+            type: album
+            uri: spotify:album:1bj2tqtj5k2nhuPIBpINpI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz
+            href: https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz
+            id: 2qT62DYO8Ajb276vUJmvhz
+            name: XTC
+            type: artist
+            uri: spotify:artist:2qT62DYO8Ajb276vUJmvhz
+          disc_number: 1
+          duration_ms: 193333
+          explicit: false
+          external_ids:
+            isrc: GBAAA7900253
+          external_urls:
+            spotify: https://open.spotify.com/track/4yKuC0pyIDzordgvcuL3Rg
+          href: https://api.spotify.com/v1/tracks/4yKuC0pyIDzordgvcuL3Rg
+          id: 4yKuC0pyIDzordgvcuL3Rg
+          is_local: false
+          is_playable: true
+          name: Ten Feet Tall
+          track_number: 7
+          type: track
+          uri: spotify:track:4yKuC0pyIDzordgvcuL3Rg
+    isrc: GBAAA7900253

@@ -112,3 +112,72 @@ mediaFileData:
   year: 1983
   duration: 258.048
   modTime: 2025-08-30 18:33:04.867779+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5VYZ3kaFcWyThWWUzMAyVx
+    trackId: 5VYZ3kaFcWyThWWUzMAyVx
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19903178&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH
+              href: https://api.spotify.com/v1/artists/695W5F2Ih8dYahLdjVOIoH
+              id: 695W5F2Ih8dYahLdjVOIoH
+              name: Christopher Cross
+              type: artist
+              uri: spotify:artist:695W5F2Ih8dYahLdjVOIoH
+            external_urls:
+              spotify: https://open.spotify.com/album/2EMs8DLDpzeCpQP894gDv5
+            href: https://api.spotify.com/v1/albums/2EMs8DLDpzeCpQP894gDv5
+            id: 2EMs8DLDpzeCpQP894gDv5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e2bc4151bb9f43147cc46bb6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e2bc4151bb9f43147cc46bb6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e2bc4151bb9f43147cc46bb6
+            is_playable: true
+            name: Another Page
+            release_date: '2023-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2EMs8DLDpzeCpQP894gDv5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH
+            href: https://api.spotify.com/v1/artists/695W5F2Ih8dYahLdjVOIoH
+            id: 695W5F2Ih8dYahLdjVOIoH
+            name: Christopher Cross
+            type: artist
+            uri: spotify:artist:695W5F2Ih8dYahLdjVOIoH
+          disc_number: 1
+          duration_ms: 259533
+          explicit: false
+          external_ids:
+            isrc: USWB19903178
+          external_urls:
+            spotify: https://open.spotify.com/track/5VYZ3kaFcWyThWWUzMAyVx
+          href: https://api.spotify.com/v1/tracks/5VYZ3kaFcWyThWWUzMAyVx
+          id: 5VYZ3kaFcWyThWWUzMAyVx
+          is_local: false
+          is_playable: true
+          name: All Right
+          track_number: 6
+          type: track
+          uri: spotify:track:5VYZ3kaFcWyThWWUzMAyVx
+    isrc: USWB19903178

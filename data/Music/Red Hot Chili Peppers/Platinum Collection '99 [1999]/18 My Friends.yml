@@ -99,3 +99,288 @@ mediaFileData:
   year: 1999
   duration: 242.49675
   modTime: 2023-09-24 10:56:16+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe
+    trackId: 6HksxcBzMVdT17aq1Q79Xe
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901559&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB19901559&type=track
+        offset: 0
+        previous:
+        total: 12
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi
+            href: https://api.spotify.com/v1/albums/2rQ135imvelvp89D8eEZOi
+            id: 2rQ135imvelvp89D8eEZOi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737f3dcf99224570b053294ccf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027f3dcf99224570b053294ccf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517f3dcf99224570b053294ccf
+            is_playable: true
+            name: One Hot Minute (Deluxe Edition)
+            release_date: '1995-09-12'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:2rQ135imvelvp89D8eEZOi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 248640
+          explicit: false
+          external_ids:
+            isrc: USWB19901559
+          external_urls:
+            spotify: https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe
+          href: https://api.spotify.com/v1/tracks/6HksxcBzMVdT17aq1Q79Xe
+          id: 6HksxcBzMVdT17aq1Q79Xe
+          is_local: false
+          is_playable: true
+          name: My Friends
+          track_number: 4
+          type: track
+          uri: spotify:track:6HksxcBzMVdT17aq1Q79Xe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/6kLm0YrEESYq7yszohzkA1
+            href: https://api.spotify.com/v1/albums/6kLm0YrEESYq7yszohzkA1
+            id: 6kLm0YrEESYq7yszohzkA1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7c5d13d9e92bd1704de0a6f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7c5d13d9e92bd1704de0a6f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7c5d13d9e92bd1704de0a6f
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2003-11-18'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:6kLm0YrEESYq7yszohzkA1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 249333
+          explicit: false
+          external_ids:
+            isrc: USWB19901559
+          external_urls:
+            spotify: https://open.spotify.com/track/2JK0BZbnahyfTcNXqWhsTO
+          href: https://api.spotify.com/v1/tracks/2JK0BZbnahyfTcNXqWhsTO
+          id: 2JK0BZbnahyfTcNXqWhsTO
+          is_local: false
+          is_playable: true
+          name: My Friends
+          track_number: 11
+          type: track
+          uri: spotify:track:2JK0BZbnahyfTcNXqWhsTO
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/74cQBDmkkzRBntR064f0SD
+            href: https://api.spotify.com/v1/albums/74cQBDmkkzRBntR064f0SD
+            id: 74cQBDmkkzRBntR064f0SD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27384b9d450917fbae37b2e3d91
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0284b9d450917fbae37b2e3d91
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485184b9d450917fbae37b2e3d91
+            is_playable: true
+            name: One Hot Minute
+            release_date: '1995-09-12'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:74cQBDmkkzRBntR064f0SD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 248640
+          explicit: false
+          external_ids:
+            isrc: USWB19901559
+          external_urls:
+            spotify: https://open.spotify.com/track/3iHvXVAXLpoGMWnDhpFspL
+          href: https://api.spotify.com/v1/tracks/3iHvXVAXLpoGMWnDhpFspL
+          id: 3iHvXVAXLpoGMWnDhpFspL
+          is_local: false
+          is_playable: true
+          name: My Friends
+          track_number: 4
+          type: track
+          uri: spotify:track:3iHvXVAXLpoGMWnDhpFspL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7aOFj1yM42sm2gzmlPidPP
+            href: https://api.spotify.com/v1/albums/7aOFj1yM42sm2gzmlPidPP
+            id: 7aOFj1yM42sm2gzmlPidPP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3686323bf737cb7ba3de792
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3686323bf737cb7ba3de792
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792
+            is_playable: true
+            name: The Studio Album Collection 1991 - 2011
+            release_date: '2014-12-12'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:7aOFj1yM42sm2gzmlPidPP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 2
+          duration_ms: 249333
+          explicit: false
+          external_ids:
+            isrc: USWB19901559
+          external_urls:
+            spotify: https://open.spotify.com/track/5NykyykHDgj8a75eRUSOpx
+          href: https://api.spotify.com/v1/tracks/5NykyykHDgj8a75eRUSOpx
+          id: 5NykyykHDgj8a75eRUSOpx
+          is_local: false
+          is_playable: true
+          name: My Friends
+          track_number: 4
+          type: track
+          uri: spotify:track:5NykyykHDgj8a75eRUSOpx
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC
+            href: https://api.spotify.com/v1/albums/53tvjWbVNZKd3CvpENkzOC
+            id: 53tvjWbVNZKd3CvpENkzOC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735590b4ee88187cb06a5b102d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025590b4ee88187cb06a5b102d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515590b4ee88187cb06a5b102d
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2003-11-18'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:53tvjWbVNZKd3CvpENkzOC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 249333
+          explicit: false
+          external_ids:
+            isrc: USWB19901559
+          external_urls:
+            spotify: https://open.spotify.com/track/6eQaHKjZTXIhO2olrWmvoD
+          href: https://api.spotify.com/v1/tracks/6eQaHKjZTXIhO2olrWmvoD
+          id: 6eQaHKjZTXIhO2olrWmvoD
+          is_local: false
+          is_playable: true
+          name: My Friends
+          track_number: 11
+          type: track
+          uri: spotify:track:6eQaHKjZTXIhO2olrWmvoD
+    isrc: USWB19901559

@@ -34,3 +34,107 @@ mediaFileData:
   year: 2020
   duration: 192.024
   modTime: 2025-05-18 21:06:45.015803+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2iL4mShglCUTKe4vQJMSqp
+    trackId: 2iL4mShglCUTKe4vQJMSqp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ANLZ542000333&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ
+              href: https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ
+              id: 0CbeG1224FS58EUx4tPevZ
+              name: Timmy Trumpet
+              type: artist
+              uri: spotify:artist:0CbeG1224FS58EUx4tPevZ
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U
+              href: https://api.spotify.com/v1/artists/1u7OVFmWah4wQhOPIbUb8U
+              id: 1u7OVFmWah4wQhOPIbUb8U
+              name: Will Sparks
+              type: artist
+              uri: spotify:artist:1u7OVFmWah4wQhOPIbUb8U
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB
+              href: https://api.spotify.com/v1/artists/0I5is4tdxHhT3Ft2EzPjlB
+              id: 0I5is4tdxHhT3Ft2EzPjlB
+              name: Code Black
+              type: artist
+              uri: spotify:artist:0I5is4tdxHhT3Ft2EzPjlB
+            external_urls:
+              spotify: https://open.spotify.com/album/4v7JL58Bqi3UM4rTtqwpdZ
+            href: https://api.spotify.com/v1/albums/4v7JL58Bqi3UM4rTtqwpdZ
+            id: 4v7JL58Bqi3UM4rTtqwpdZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e3d225808dfa5174decbaefa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e3d225808dfa5174decbaefa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e3d225808dfa5174decbaefa
+            is_playable: true
+            name: FUCK YEAH (feat. Toneshifterz)
+            release_date: '2020-03-13'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:4v7JL58Bqi3UM4rTtqwpdZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ
+            href: https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ
+            id: 0CbeG1224FS58EUx4tPevZ
+            name: Timmy Trumpet
+            type: artist
+            uri: spotify:artist:0CbeG1224FS58EUx4tPevZ
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U
+            href: https://api.spotify.com/v1/artists/1u7OVFmWah4wQhOPIbUb8U
+            id: 1u7OVFmWah4wQhOPIbUb8U
+            name: Will Sparks
+            type: artist
+            uri: spotify:artist:1u7OVFmWah4wQhOPIbUb8U
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB
+            href: https://api.spotify.com/v1/artists/0I5is4tdxHhT3Ft2EzPjlB
+            id: 0I5is4tdxHhT3Ft2EzPjlB
+            name: Code Black
+            type: artist
+            uri: spotify:artist:0I5is4tdxHhT3Ft2EzPjlB
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV
+            href: https://api.spotify.com/v1/artists/4LBa6kTLaQHiONCfTfTaXV
+            id: 4LBa6kTLaQHiONCfTfTaXV
+            name: Toneshifterz
+            type: artist
+            uri: spotify:artist:4LBa6kTLaQHiONCfTfTaXV
+          disc_number: 1
+          duration_ms: 191987
+          explicit: true
+          external_ids:
+            isrc: NLZ542000333
+          external_urls:
+            spotify: https://open.spotify.com/track/2iL4mShglCUTKe4vQJMSqp
+          href: https://api.spotify.com/v1/tracks/2iL4mShglCUTKe4vQJMSqp
+          id: 2iL4mShglCUTKe4vQJMSqp
+          is_local: false
+          is_playable: true
+          name: FUCK YEAH (feat. Toneshifterz)
+          track_number: 1
+          type: track
+          uri: spotify:track:2iL4mShglCUTKe4vQJMSqp
+    isrc: NLZ542000333

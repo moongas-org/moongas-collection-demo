@@ -60,3 +60,288 @@ mediaFileData:
   year: 1969
   duration: 329.088
   modTime: 2026-05-10 15:36:30.798028+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4wHbJJqoP6BiBwaHxwHTyu
+    trackId: 4wHbJJqoP6BiBwaHxwHTyu
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB11304499&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB11304499&type=track
+        offset: 0
+        previous:
+        total: 9
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+              href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+              id: 4TMHGUX5WI7OOm53PqSDAT
+              name: Grateful Dead
+              type: artist
+              uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+            external_urls:
+              spotify: https://open.spotify.com/album/0eTLYbOGt4qrnN0hi1z6ij
+            href: https://api.spotify.com/v1/albums/0eTLYbOGt4qrnN0hi1z6ij
+            id: 0eTLYbOGt4qrnN0hi1z6ij
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735ee8b232bd6832587676543b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025ee8b232bd6832587676543b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515ee8b232bd6832587676543b
+            is_playable: true
+            name: Complete Studio Albums Collection
+            release_date: '2014-01-14'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:0eTLYbOGt4qrnN0hi1z6ij
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 3
+          duration_ms: 329040
+          explicit: false
+          external_ids:
+            isrc: USWB11304499
+          external_urls:
+            spotify: https://open.spotify.com/track/4wHbJJqoP6BiBwaHxwHTyu
+          href: https://api.spotify.com/v1/tracks/4wHbJJqoP6BiBwaHxwHTyu
+          id: 4wHbJJqoP6BiBwaHxwHTyu
+          is_local: false
+          is_playable: true
+          name: Cosmic Charlie - 2013 Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:4wHbJJqoP6BiBwaHxwHTyu
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+              href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+              id: 4TMHGUX5WI7OOm53PqSDAT
+              name: Grateful Dead
+              type: artist
+              uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+            external_urls:
+              spotify: https://open.spotify.com/album/2IZe9ttqeMqwkv3dRXJRkd
+            href: https://api.spotify.com/v1/albums/2IZe9ttqeMqwkv3dRXJRkd
+            id: 2IZe9ttqeMqwkv3dRXJRkd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cbc5f5ebcd143c610eb0df57
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cbc5f5ebcd143c610eb0df57
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cbc5f5ebcd143c610eb0df57
+            is_playable: true
+            name: Aoxomoxoa (2013 Remaster)
+            release_date: '1969'
+            release_date_precision: year
+            total_tracks: 8
+            type: album
+            uri: spotify:album:2IZe9ttqeMqwkv3dRXJRkd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 1
+          duration_ms: 329040
+          explicit: false
+          external_ids:
+            isrc: USWB11304499
+          external_urls:
+            spotify: https://open.spotify.com/track/6H3ZEJIMu87f5Gfcsl5zhC
+          href: https://api.spotify.com/v1/tracks/6H3ZEJIMu87f5Gfcsl5zhC
+          id: 6H3ZEJIMu87f5Gfcsl5zhC
+          is_local: false
+          is_playable: true
+          name: Cosmic Charlie - 2013 Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:6H3ZEJIMu87f5Gfcsl5zhC
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7ALssuTYJbrcB6eNJxCuKC
+            href: https://api.spotify.com/v1/albums/7ALssuTYJbrcB6eNJxCuKC
+            id: 7ALssuTYJbrcB6eNJxCuKC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273408407256cd3f2e512e1358f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02408407256cd3f2e512e1358f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851408407256cd3f2e512e1358f
+            is_playable: true
+            name: Deep Psych Mindbenders
+            release_date: '2018-12-07'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:7ALssuTYJbrcB6eNJxCuKC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 1
+          duration_ms: 329040
+          explicit: false
+          external_ids:
+            isrc: USWB11304499
+          external_urls:
+            spotify: https://open.spotify.com/track/4nylrL3C7TGEmdjYjcvCaR
+          href: https://api.spotify.com/v1/tracks/4nylrL3C7TGEmdjYjcvCaR
+          id: 4nylrL3C7TGEmdjYjcvCaR
+          is_local: false
+          is_playable: true
+          name: Cosmic Charlie
+          track_number: 3
+          type: track
+          uri: spotify:track:4nylrL3C7TGEmdjYjcvCaR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/43WlHqI0v92PXBSD41Bcf0
+            href: https://api.spotify.com/v1/albums/43WlHqI0v92PXBSD41Bcf0
+            id: 43WlHqI0v92PXBSD41Bcf0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27336575850d53a3a870cb718bb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0236575850d53a3a870cb718bb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485136575850d53a3a870cb718bb
+            is_playable: true
+            name: Psychedelic Sixties
+            release_date: '2018-04-03'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:43WlHqI0v92PXBSD41Bcf0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 1
+          duration_ms: 329040
+          explicit: false
+          external_ids:
+            isrc: USWB11304499
+          external_urls:
+            spotify: https://open.spotify.com/track/0gM0XDgsKOQgYO26JzeLxh
+          href: https://api.spotify.com/v1/tracks/0gM0XDgsKOQgYO26JzeLxh
+          id: 0gM0XDgsKOQgYO26JzeLxh
+          is_local: false
+          is_playable: true
+          name: Cosmic Charlie
+          track_number: 16
+          type: track
+          uri: spotify:track:0gM0XDgsKOQgYO26JzeLxh
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1tRD7pB4gbb4nWoW164ltr
+            href: https://api.spotify.com/v1/albums/1tRD7pB4gbb4nWoW164ltr
+            id: 1tRD7pB4gbb4nWoW164ltr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273afa0e742f17ce93b7c005635
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02afa0e742f17ce93b7c005635
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851afa0e742f17ce93b7c005635
+            is_playable: true
+            name: 60s Rock Classics
+            release_date: '2017-12-11'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:1tRD7pB4gbb4nWoW164ltr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 1
+          duration_ms: 329040
+          explicit: false
+          external_ids:
+            isrc: USWB11304499
+          external_urls:
+            spotify: https://open.spotify.com/track/1VgkyJrdcAyvChJuavpC4h
+          href: https://api.spotify.com/v1/tracks/1VgkyJrdcAyvChJuavpC4h
+          id: 1VgkyJrdcAyvChJuavpC4h
+          is_local: false
+          is_playable: true
+          name: Cosmic Charlie
+          track_number: 6
+          type: track
+          uri: spotify:track:1VgkyJrdcAyvChJuavpC4h
+    isrc: USWB11304499

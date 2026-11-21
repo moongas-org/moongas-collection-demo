@@ -34,3 +34,72 @@ mediaFileData:
   year: 2007
   duration: 416.2383
   modTime: 2022-06-05 15:28:34.840000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1qDx4x0V42HtvavvmkcSY3
+    trackId: 1qDx4x0V42HtvavvmkcSY3
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQZES51958937&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gg8SEqY40Y6ygiwkcQOWD
+              href: https://api.spotify.com/v1/artists/4gg8SEqY40Y6ygiwkcQOWD
+              id: 4gg8SEqY40Y6ygiwkcQOWD
+              name: Freezepop
+              type: artist
+              uri: spotify:artist:4gg8SEqY40Y6ygiwkcQOWD
+            external_urls:
+              spotify: https://open.spotify.com/album/2PxJi2cMGCV3ZHbLtd7Hz0
+            href: https://api.spotify.com/v1/albums/2PxJi2cMGCV3ZHbLtd7Hz0
+            id: 2PxJi2cMGCV3ZHbLtd7Hz0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b4810c55ce0584d57378964f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b4810c55ce0584d57378964f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b4810c55ce0584d57378964f
+            is_playable: true
+            name: Future Future Future Perfect
+            release_date: '2007-09-25'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2PxJi2cMGCV3ZHbLtd7Hz0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gg8SEqY40Y6ygiwkcQOWD
+            href: https://api.spotify.com/v1/artists/4gg8SEqY40Y6ygiwkcQOWD
+            id: 4gg8SEqY40Y6ygiwkcQOWD
+            name: Freezepop
+            type: artist
+            uri: spotify:artist:4gg8SEqY40Y6ygiwkcQOWD
+          disc_number: 1
+          duration_ms: 416040
+          explicit: false
+          external_ids:
+            isrc: QZES51958937
+          external_urls:
+            spotify: https://open.spotify.com/track/1qDx4x0V42HtvavvmkcSY3
+          href: https://api.spotify.com/v1/tracks/1qDx4x0V42HtvavvmkcSY3
+          id: 1qDx4x0V42HtvavvmkcSY3
+          is_local: false
+          is_playable: true
+          name: Swimming Pool
+          track_number: 10
+          type: track
+          uri: spotify:track:1qDx4x0V42HtvavvmkcSY3
+    isrc: QZES51958937

@@ -45,3 +45,126 @@ mediaFileData:
   year: 2019
   duration: 159.61142857142858
   modTime: 2024-05-13 16:08:54.013859+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2za9Dx8bRClWKeLaVROdNP
+    trackId: 2za9Dx8bRClWKeLaVROdNP
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMB621815701&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ
+              href: https://api.spotify.com/v1/artists/5vdTwIo9GoUu8IVLyJavsZ
+              id: 5vdTwIo9GoUu8IVLyJavsZ
+              name: The Sure Fire Soul Ensemble
+              type: artist
+              uri: spotify:artist:5vdTwIo9GoUu8IVLyJavsZ
+            external_urls:
+              spotify: https://open.spotify.com/album/1NhMKn7rzNmCuattQ5erE3
+            href: https://api.spotify.com/v1/albums/1NhMKn7rzNmCuattQ5erE3
+            id: 1NhMKn7rzNmCuattQ5erE3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273650c13ea1ba4c4e114868d51
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02650c13ea1ba4c4e114868d51
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851650c13ea1ba4c4e114868d51
+            is_playable: true
+            name: Build Bridges
+            release_date: '2019-09-27'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1NhMKn7rzNmCuattQ5erE3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ
+            href: https://api.spotify.com/v1/artists/5vdTwIo9GoUu8IVLyJavsZ
+            id: 5vdTwIo9GoUu8IVLyJavsZ
+            name: The Sure Fire Soul Ensemble
+            type: artist
+            uri: spotify:artist:5vdTwIo9GoUu8IVLyJavsZ
+          disc_number: 1
+          duration_ms: 159611
+          explicit: false
+          external_ids:
+            isrc: QMB621815701
+          external_urls:
+            spotify: https://open.spotify.com/track/2za9Dx8bRClWKeLaVROdNP
+          href: https://api.spotify.com/v1/tracks/2za9Dx8bRClWKeLaVROdNP
+          id: 2za9Dx8bRClWKeLaVROdNP
+          is_local: false
+          is_playable: true
+          name: Aragon
+          track_number: 1
+          type: track
+          uri: spotify:track:2za9Dx8bRClWKeLaVROdNP
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ
+              href: https://api.spotify.com/v1/artists/5vdTwIo9GoUu8IVLyJavsZ
+              id: 5vdTwIo9GoUu8IVLyJavsZ
+              name: The Sure Fire Soul Ensemble
+              type: artist
+              uri: spotify:artist:5vdTwIo9GoUu8IVLyJavsZ
+            external_urls:
+              spotify: https://open.spotify.com/album/5Wty3anhIlt15KAnO7Ca58
+            href: https://api.spotify.com/v1/albums/5Wty3anhIlt15KAnO7Ca58
+            id: 5Wty3anhIlt15KAnO7Ca58
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d03db3edf4adb70fc345685b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d03db3edf4adb70fc345685b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d03db3edf4adb70fc345685b
+            is_playable: true
+            name: Aragon / El Nino
+            release_date: '2018-08-24'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:5Wty3anhIlt15KAnO7Ca58
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ
+            href: https://api.spotify.com/v1/artists/5vdTwIo9GoUu8IVLyJavsZ
+            id: 5vdTwIo9GoUu8IVLyJavsZ
+            name: The Sure Fire Soul Ensemble
+            type: artist
+            uri: spotify:artist:5vdTwIo9GoUu8IVLyJavsZ
+          disc_number: 1
+          duration_ms: 159611
+          explicit: false
+          external_ids:
+            isrc: QMB621815701
+          external_urls:
+            spotify: https://open.spotify.com/track/7svdJSGSS2mtFpVq7oQkWR
+          href: https://api.spotify.com/v1/tracks/7svdJSGSS2mtFpVq7oQkWR
+          id: 7svdJSGSS2mtFpVq7oQkWR
+          is_local: false
+          is_playable: true
+          name: Aragon
+          track_number: 1
+          type: track
+          uri: spotify:track:7svdJSGSS2mtFpVq7oQkWR
+    isrc: QMB621815701

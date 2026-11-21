@@ -69,3 +69,126 @@ mediaFileData:
   year: 1983
   duration: 366.696
   modTime: 2024-04-16 18:42:59.645247+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/24fgRsC3kp66RDQtu9UF4U
+    trackId: 24fgRsC3kp66RDQtu9UF4U
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ACAU118401867&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB
+              href: https://api.spotify.com/v1/artists/2O8QAJmRrwkFXq2aWZnHYB
+              id: 2O8QAJmRrwkFXq2aWZnHYB
+              name: Shannon
+              type: artist
+              uri: spotify:artist:2O8QAJmRrwkFXq2aWZnHYB
+            external_urls:
+              spotify: https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL
+            href: https://api.spotify.com/v1/albums/1HS8Jkoaa1BweXfJ2hwLcL
+            id: 1HS8Jkoaa1BweXfJ2hwLcL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735dfa9699effa1ed894e8244d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025dfa9699effa1ed894e8244d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515dfa9699effa1ed894e8244d
+            is_playable: true
+            name: Let the Music Play
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1HS8Jkoaa1BweXfJ2hwLcL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB
+            href: https://api.spotify.com/v1/artists/2O8QAJmRrwkFXq2aWZnHYB
+            id: 2O8QAJmRrwkFXq2aWZnHYB
+            name: Shannon
+            type: artist
+            uri: spotify:artist:2O8QAJmRrwkFXq2aWZnHYB
+          disc_number: 1
+          duration_ms: 371982
+          explicit: false
+          external_ids:
+            isrc: CAU118401867
+          external_urls:
+            spotify: https://open.spotify.com/track/24fgRsC3kp66RDQtu9UF4U
+          href: https://api.spotify.com/v1/tracks/24fgRsC3kp66RDQtu9UF4U
+          id: 24fgRsC3kp66RDQtu9UF4U
+          is_local: false
+          is_playable: true
+          name: Let the Music Play - Dub Mix
+          track_number: 15
+          type: track
+          uri: spotify:track:24fgRsC3kp66RDQtu9UF4U
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB
+              href: https://api.spotify.com/v1/artists/2O8QAJmRrwkFXq2aWZnHYB
+              id: 2O8QAJmRrwkFXq2aWZnHYB
+              name: Shannon
+              type: artist
+              uri: spotify:artist:2O8QAJmRrwkFXq2aWZnHYB
+            external_urls:
+              spotify: https://open.spotify.com/album/77Whr98Oamkxp8G4cfU4dm
+            href: https://api.spotify.com/v1/albums/77Whr98Oamkxp8G4cfU4dm
+            id: 77Whr98Oamkxp8G4cfU4dm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ae609d7b19c9f58f5959feca
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ae609d7b19c9f58f5959feca
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ae609d7b19c9f58f5959feca
+            is_playable: true
+            name: Let the Music Play
+            release_date: '1983-01-01'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:77Whr98Oamkxp8G4cfU4dm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB
+            href: https://api.spotify.com/v1/artists/2O8QAJmRrwkFXq2aWZnHYB
+            id: 2O8QAJmRrwkFXq2aWZnHYB
+            name: Shannon
+            type: artist
+            uri: spotify:artist:2O8QAJmRrwkFXq2aWZnHYB
+          disc_number: 1
+          duration_ms: 372009
+          explicit: false
+          external_ids:
+            isrc: CAU118401867
+          external_urls:
+            spotify: https://open.spotify.com/track/129JPx9jEj9Uxv00Jxbiqh
+          href: https://api.spotify.com/v1/tracks/129JPx9jEj9Uxv00Jxbiqh
+          id: 129JPx9jEj9Uxv00Jxbiqh
+          is_local: false
+          is_playable: true
+          name: Let the Music Play - Dub Mix
+          track_number: 3
+          type: track
+          uri: spotify:track:129JPx9jEj9Uxv00Jxbiqh
+    isrc: CAU118401867

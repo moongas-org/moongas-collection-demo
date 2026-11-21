@@ -45,3 +45,72 @@ mediaFileData:
   year: 1992
   duration: 169.4563125
   modTime: 2023-09-24 09:41:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/66i8MjAq8kyUobMzo8zYNc
+    trackId: 66i8MjAq8kyUobMzo8zYNc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10181161&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f
+            href: https://api.spotify.com/v1/albums/7wXj8GxTkGAUU99DXR7n2f
+            id: 7wXj8GxTkGAUU99DXR7n2f
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738f7519cd69450a1f8b6a4fa3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028f7519cd69450a1f8b6a4fa3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518f7519cd69450a1f8b6a4fa3
+            is_playable: true
+            name: Blues for the Red Sun
+            release_date: '1992-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:7wXj8GxTkGAUU99DXR7n2f
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 169573
+          explicit: false
+          external_ids:
+            isrc: USEE10181161
+          external_urls:
+            spotify: https://open.spotify.com/track/66i8MjAq8kyUobMzo8zYNc
+          href: https://api.spotify.com/v1/tracks/66i8MjAq8kyUobMzo8zYNc
+          id: 66i8MjAq8kyUobMzo8zYNc
+          is_local: false
+          is_playable: true
+          name: Molten Universe
+          track_number: 3
+          type: track
+          uri: spotify:track:66i8MjAq8kyUobMzo8zYNc
+    isrc: USEE10181161

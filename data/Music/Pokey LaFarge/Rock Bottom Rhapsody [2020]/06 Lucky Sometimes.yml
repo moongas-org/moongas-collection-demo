@@ -34,3 +34,126 @@ mediaFileData:
   year: 2020
   duration: 283.7681875
   modTime: 2023-07-17 00:40:22+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6GjibkPm4My0jHfNJhhc7F
+    trackId: 6GjibkPm4My0jHfNJhhc7F
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS27Q1947806&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+              href: https://api.spotify.com/v1/artists/6hAUCkzZpoYGObd8qFW5TT
+              id: 6hAUCkzZpoYGObd8qFW5TT
+              name: Pokey LaFarge
+              type: artist
+              uri: spotify:artist:6hAUCkzZpoYGObd8qFW5TT
+            external_urls:
+              spotify: https://open.spotify.com/album/23eI2AjBryFUZtn3pDrrdS
+            href: https://api.spotify.com/v1/albums/23eI2AjBryFUZtn3pDrrdS
+            id: 23eI2AjBryFUZtn3pDrrdS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27380041521d6104a8ef65ca497
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0280041521d6104a8ef65ca497
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485180041521d6104a8ef65ca497
+            is_playable: true
+            name: Lucky Sometimes
+            release_date: '2020-03-16'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:23eI2AjBryFUZtn3pDrrdS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+            href: https://api.spotify.com/v1/artists/6hAUCkzZpoYGObd8qFW5TT
+            id: 6hAUCkzZpoYGObd8qFW5TT
+            name: Pokey LaFarge
+            type: artist
+            uri: spotify:artist:6hAUCkzZpoYGObd8qFW5TT
+          disc_number: 1
+          duration_ms: 283704
+          explicit: false
+          external_ids:
+            isrc: US27Q1947806
+          external_urls:
+            spotify: https://open.spotify.com/track/6GjibkPm4My0jHfNJhhc7F
+          href: https://api.spotify.com/v1/tracks/6GjibkPm4My0jHfNJhhc7F
+          id: 6GjibkPm4My0jHfNJhhc7F
+          is_local: false
+          is_playable: true
+          name: Lucky Sometimes
+          track_number: 1
+          type: track
+          uri: spotify:track:6GjibkPm4My0jHfNJhhc7F
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+              href: https://api.spotify.com/v1/artists/6hAUCkzZpoYGObd8qFW5TT
+              id: 6hAUCkzZpoYGObd8qFW5TT
+              name: Pokey LaFarge
+              type: artist
+              uri: spotify:artist:6hAUCkzZpoYGObd8qFW5TT
+            external_urls:
+              spotify: https://open.spotify.com/album/2VZSwNWt46ZvR5Vv0hixtP
+            href: https://api.spotify.com/v1/albums/2VZSwNWt46ZvR5Vv0hixtP
+            id: 2VZSwNWt46ZvR5Vv0hixtP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a63eb14092507e8ee33ea761
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a63eb14092507e8ee33ea761
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a63eb14092507e8ee33ea761
+            is_playable: true
+            name: Rock Bottom Rhapsody
+            release_date: '2020-04-10'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2VZSwNWt46ZvR5Vv0hixtP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+            href: https://api.spotify.com/v1/artists/6hAUCkzZpoYGObd8qFW5TT
+            id: 6hAUCkzZpoYGObd8qFW5TT
+            name: Pokey LaFarge
+            type: artist
+            uri: spotify:artist:6hAUCkzZpoYGObd8qFW5TT
+          disc_number: 1
+          duration_ms: 283704
+          explicit: false
+          external_ids:
+            isrc: US27Q1947806
+          external_urls:
+            spotify: https://open.spotify.com/track/6lpU1Gm1xECBT5IvEkoDti
+          href: https://api.spotify.com/v1/tracks/6lpU1Gm1xECBT5IvEkoDti
+          id: 6lpU1Gm1xECBT5IvEkoDti
+          is_local: false
+          is_playable: true
+          name: Lucky Sometimes
+          track_number: 6
+          type: track
+          uri: spotify:track:6lpU1Gm1xECBT5IvEkoDti
+    isrc: US27Q1947806

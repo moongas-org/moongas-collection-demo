@@ -63,3 +63,288 @@ mediaFileData:
   year: 1972
   duration: 256.36575
   modTime: 2025-01-11 02:17:32.525565+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1kvnQ7LZNBvDT87LtnfdeB
+    trackId: 1kvnQ7LZNBvDT87LtnfdeB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE11300315&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSEE11300315&type=track
+        offset: 0
+        previous:
+        total: 10
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/7uBNOgkssyAzwCCl7r1dpH
+            href: https://api.spotify.com/v1/albums/7uBNOgkssyAzwCCl7r1dpH
+            id: 7uBNOgkssyAzwCCl7r1dpH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736262fac7d13454f26c6c72f8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026262fac7d13454f26c6c72f8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516262fac7d13454f26c6c72f8
+            is_playable: true
+            name: 'To the Limit: The Essential Collection'
+            release_date: '2024-04-12'
+            release_date_precision: day
+            total_tracks: 51
+            type: album
+            uri: spotify:album:7uBNOgkssyAzwCCl7r1dpH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 1
+          duration_ms: 250888
+          explicit: false
+          external_ids:
+            isrc: USEE11300315
+          external_urls:
+            spotify: https://open.spotify.com/track/1kvnQ7LZNBvDT87LtnfdeB
+          href: https://api.spotify.com/v1/tracks/1kvnQ7LZNBvDT87LtnfdeB
+          id: 1kvnQ7LZNBvDT87LtnfdeB
+          is_local: false
+          is_playable: true
+          name: Witchy Woman - 2013 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:1kvnQ7LZNBvDT87LtnfdeB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/71GVQPtwzFchmtXK3SjMKa
+            href: https://api.spotify.com/v1/albums/71GVQPtwzFchmtXK3SjMKa
+            id: 71GVQPtwzFchmtXK3SjMKa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27302d8e0b39b6058ba1c0c48c9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0202d8e0b39b6058ba1c0c48c9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485102d8e0b39b6058ba1c0c48c9
+            is_playable: true
+            name: Legacy
+            release_date: '2018-11-02'
+            release_date_precision: day
+            total_tracks: 116
+            type: album
+            uri: spotify:album:71GVQPtwzFchmtXK3SjMKa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 1
+          duration_ms: 250888
+          explicit: false
+          external_ids:
+            isrc: USEE11300315
+          external_urls:
+            spotify: https://open.spotify.com/track/0e61CB7wsbLit6viBJaHlE
+          href: https://api.spotify.com/v1/tracks/0e61CB7wsbLit6viBJaHlE
+          id: 0e61CB7wsbLit6viBJaHlE
+          is_local: false
+          is_playable: true
+          name: Witchy Woman - 2013 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:0e61CB7wsbLit6viBJaHlE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa
+            href: https://api.spotify.com/v1/albums/5J0VCIp4TTsZBKOqWdbBSa
+            id: 5J0VCIp4TTsZBKOqWdbBSa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273061849da201f99053bf5e788
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02061849da201f99053bf5e788
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851061849da201f99053bf5e788
+            is_playable: true
+            name: The Very Best of the Eagles (2013 Remaster)
+            release_date: '2003-10-21'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:5J0VCIp4TTsZBKOqWdbBSa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 1
+          duration_ms: 250888
+          explicit: false
+          external_ids:
+            isrc: USEE11300315
+          external_urls:
+            spotify: https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0
+          href: https://api.spotify.com/v1/tracks/1NSjV4Ji9MKtUQDXHAH4k0
+          id: 1NSjV4Ji9MKtUQDXHAH4k0
+          is_local: false
+          is_playable: true
+          name: Witchy Woman - 2013 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:1NSjV4Ji9MKtUQDXHAH4k0
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7
+            href: https://api.spotify.com/v1/albums/51B7LbLWgYLKBVSpkan8Z7
+            id: 51B7LbLWgYLKBVSpkan8Z7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c13acd642ba9f6f5f127aa1b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c13acd642ba9f6f5f127aa1b
+            is_playable: true
+            name: Eagles (2013 Remaster)
+            release_date: '1972-06-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:51B7LbLWgYLKBVSpkan8Z7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 1
+          duration_ms: 250888
+          explicit: false
+          external_ids:
+            isrc: USEE11300315
+          external_urls:
+            spotify: https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r
+          href: https://api.spotify.com/v1/tracks/436yrzQWA32vb1sTZKXg9r
+          id: 436yrzQWA32vb1sTZKXg9r
+          is_local: false
+          is_playable: true
+          name: Witchy Woman - 2013 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:436yrzQWA32vb1sTZKXg9r
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/2Lgsa7jbu86SK5zJVFCh3S
+            href: https://api.spotify.com/v1/albums/2Lgsa7jbu86SK5zJVFCh3S
+            id: 2Lgsa7jbu86SK5zJVFCh3S
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372033a5e2c7bfd38ed554ec6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272033a5e2c7bfd38ed554ec6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172033a5e2c7bfd38ed554ec6
+            is_playable: true
+            name: Their Greatest Hits 1971-1975 (2013 Remaster)
+            release_date: '1976-02-17'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2Lgsa7jbu86SK5zJVFCh3S
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 1
+          duration_ms: 250888
+          explicit: false
+          external_ids:
+            isrc: USEE11300315
+          external_urls:
+            spotify: https://open.spotify.com/track/1bNVtTNLgeOVgWUqBdXwyP
+          href: https://api.spotify.com/v1/tracks/1bNVtTNLgeOVgWUqBdXwyP
+          id: 1bNVtTNLgeOVgWUqBdXwyP
+          is_local: false
+          is_playable: true
+          name: Witchy Woman - 2013 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:1bNVtTNLgeOVgWUqBdXwyP
+    isrc: USEE11300315

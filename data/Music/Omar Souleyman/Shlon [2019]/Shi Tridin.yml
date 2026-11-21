@@ -41,3 +41,126 @@ mediaFileData:
   year: 2019
   duration: 408.072
   modTime: 2023-10-31 18:02:42.386096+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx
+    trackId: 1ZNPX01Q2RMjwoAZymgVpx
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSZ4V1900363&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK
+              href: https://api.spotify.com/v1/artists/11dMqVZY4PHgVL80tejvHK
+              id: 11dMqVZY4PHgVL80tejvHK
+              name: Omar Souleyman
+              type: artist
+              uri: spotify:artist:11dMqVZY4PHgVL80tejvHK
+            external_urls:
+              spotify: https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS
+            href: https://api.spotify.com/v1/albums/6gNgy5YfIF4xqxAigQY8KS
+            id: 6gNgy5YfIF4xqxAigQY8KS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732bbd247c066687206f9a4b81
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022bbd247c066687206f9a4b81
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512bbd247c066687206f9a4b81
+            is_playable: true
+            name: Shi Tridin
+            release_date: '2019-11-05'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:6gNgy5YfIF4xqxAigQY8KS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK
+            href: https://api.spotify.com/v1/artists/11dMqVZY4PHgVL80tejvHK
+            id: 11dMqVZY4PHgVL80tejvHK
+            name: Omar Souleyman
+            type: artist
+            uri: spotify:artist:11dMqVZY4PHgVL80tejvHK
+          disc_number: 1
+          duration_ms: 408000
+          explicit: false
+          external_ids:
+            isrc: USZ4V1900363
+          external_urls:
+            spotify: https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx
+          href: https://api.spotify.com/v1/tracks/1ZNPX01Q2RMjwoAZymgVpx
+          id: 1ZNPX01Q2RMjwoAZymgVpx
+          is_local: false
+          is_playable: true
+          name: Shi Tridin
+          track_number: 1
+          type: track
+          uri: spotify:track:1ZNPX01Q2RMjwoAZymgVpx
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK
+              href: https://api.spotify.com/v1/artists/11dMqVZY4PHgVL80tejvHK
+              id: 11dMqVZY4PHgVL80tejvHK
+              name: Omar Souleyman
+              type: artist
+              uri: spotify:artist:11dMqVZY4PHgVL80tejvHK
+            external_urls:
+              spotify: https://open.spotify.com/album/4ZwaaaMlB8gHdebxNY9X58
+            href: https://api.spotify.com/v1/albums/4ZwaaaMlB8gHdebxNY9X58
+            id: 4ZwaaaMlB8gHdebxNY9X58
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27314cbeb65ed3425c77a62c575
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0214cbeb65ed3425c77a62c575
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485114cbeb65ed3425c77a62c575
+            is_playable: true
+            name: Shlon
+            release_date: '2019-11-22'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:4ZwaaaMlB8gHdebxNY9X58
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK
+            href: https://api.spotify.com/v1/artists/11dMqVZY4PHgVL80tejvHK
+            id: 11dMqVZY4PHgVL80tejvHK
+            name: Omar Souleyman
+            type: artist
+            uri: spotify:artist:11dMqVZY4PHgVL80tejvHK
+          disc_number: 1
+          duration_ms: 408000
+          explicit: false
+          external_ids:
+            isrc: USZ4V1900363
+          external_urls:
+            spotify: https://open.spotify.com/track/6FtfH8v1VhmLOGe9qbrRBO
+          href: https://api.spotify.com/v1/tracks/6FtfH8v1VhmLOGe9qbrRBO
+          id: 6FtfH8v1VhmLOGe9qbrRBO
+          is_local: false
+          is_playable: true
+          name: Shi Tridin
+          track_number: 2
+          type: track
+          uri: spotify:track:6FtfH8v1VhmLOGe9qbrRBO
+    isrc: USZ4V1900363

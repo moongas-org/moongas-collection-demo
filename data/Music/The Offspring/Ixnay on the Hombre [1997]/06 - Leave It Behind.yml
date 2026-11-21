@@ -68,3 +68,126 @@ mediaFileData:
   year: 1997
   duration: 118.8
   modTime: 2025-09-23 01:48:15.177895+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5SWJBU7rmuKtrMU7gXGH55
+    trackId: 5SWJBU7rmuKtrMU7gXGH55
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19603681&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/0nn7FHlAjD0xVNSPFisB2G
+            href: https://api.spotify.com/v1/albums/0nn7FHlAjD0xVNSPFisB2G
+            id: 0nn7FHlAjD0xVNSPFisB2G
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a269e9f295a0fa7c9465f31d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a269e9f295a0fa7c9465f31d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a269e9f295a0fa7c9465f31d
+            is_playable: true
+            name: Running & Cycling with The Offspring
+            release_date: '2025-08-22'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:0nn7FHlAjD0xVNSPFisB2G
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 118773
+          explicit: true
+          external_ids:
+            isrc: USSM19603681
+          external_urls:
+            spotify: https://open.spotify.com/track/5SWJBU7rmuKtrMU7gXGH55
+          href: https://api.spotify.com/v1/tracks/5SWJBU7rmuKtrMU7gXGH55
+          id: 5SWJBU7rmuKtrMU7gXGH55
+          is_local: false
+          is_playable: true
+          name: Leave It Behind
+          track_number: 16
+          type: track
+          uri: spotify:track:5SWJBU7rmuKtrMU7gXGH55
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS
+            href: https://api.spotify.com/v1/albums/2PSgMApk089eV6e5LPbQeS
+            id: 2PSgMApk089eV6e5LPbQeS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ba12c467b8cc7eb3be9e7d8b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ba12c467b8cc7eb3be9e7d8b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b
+            is_playable: true
+            name: Ixnay On The Hombre
+            release_date: '1997-02-04'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2PSgMApk089eV6e5LPbQeS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 118773
+          explicit: true
+          external_ids:
+            isrc: USSM19603681
+          external_urls:
+            spotify: https://open.spotify.com/track/1fqfG5TGzOkSsaWSEEYrYb
+          href: https://api.spotify.com/v1/tracks/1fqfG5TGzOkSsaWSEEYrYb
+          id: 1fqfG5TGzOkSsaWSEEYrYb
+          is_local: false
+          is_playable: true
+          name: Leave It Behind
+          track_number: 6
+          type: track
+          uri: spotify:track:1fqfG5TGzOkSsaWSEEYrYb
+    isrc: USSM19603681

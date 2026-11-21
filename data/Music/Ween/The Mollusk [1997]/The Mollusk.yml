@@ -45,3 +45,180 @@ mediaFileData:
   year: 1997
   duration: 157.008
   modTime: 2025-01-11 01:20:08.500075+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1Vi8bCaz8AqucqF88ffnqI
+    trackId: 1Vi8bCaz8AqucqF88ffnqI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE19701302&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu
+              href: https://api.spotify.com/v1/artists/3u1ulLq00Y3bfmq9FfjsPu
+              id: 3u1ulLq00Y3bfmq9FfjsPu
+              name: Ween
+              type: artist
+              uri: spotify:artist:3u1ulLq00Y3bfmq9FfjsPu
+            external_urls:
+              spotify: https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC
+            href: https://api.spotify.com/v1/albums/1yfJqxKKXG320vhqLfUEeC
+            id: 1yfJqxKKXG320vhqLfUEeC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372d99df21eb858e23d6f1ee9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272d99df21eb858e23d6f1ee9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172d99df21eb858e23d6f1ee9
+            is_playable: true
+            name: The Mollusk
+            release_date: '1997-04-18'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1yfJqxKKXG320vhqLfUEeC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu
+            href: https://api.spotify.com/v1/artists/3u1ulLq00Y3bfmq9FfjsPu
+            id: 3u1ulLq00Y3bfmq9FfjsPu
+            name: Ween
+            type: artist
+            uri: spotify:artist:3u1ulLq00Y3bfmq9FfjsPu
+          disc_number: 1
+          duration_ms: 156973
+          explicit: false
+          external_ids:
+            isrc: USEE19701302
+          external_urls:
+            spotify: https://open.spotify.com/track/1Vi8bCaz8AqucqF88ffnqI
+          href: https://api.spotify.com/v1/tracks/1Vi8bCaz8AqucqF88ffnqI
+          id: 1Vi8bCaz8AqucqF88ffnqI
+          is_local: false
+          is_playable: true
+          name: The Mollusk
+          track_number: 2
+          type: track
+          uri: spotify:track:1Vi8bCaz8AqucqF88ffnqI
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5hWgJUJCq2eLOi5BzvBY6e
+            href: https://api.spotify.com/v1/albums/5hWgJUJCq2eLOi5BzvBY6e
+            id: 5hWgJUJCq2eLOi5BzvBY6e
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734e346676c1cdda20df35f901
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024e346676c1cdda20df35f901
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514e346676c1cdda20df35f901
+            is_playable: true
+            name: Ready To Play Vol 1
+            release_date: '2024-12-06'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:5hWgJUJCq2eLOi5BzvBY6e
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu
+            href: https://api.spotify.com/v1/artists/3u1ulLq00Y3bfmq9FfjsPu
+            id: 3u1ulLq00Y3bfmq9FfjsPu
+            name: Ween
+            type: artist
+            uri: spotify:artist:3u1ulLq00Y3bfmq9FfjsPu
+          disc_number: 1
+          duration_ms: 156973
+          explicit: false
+          external_ids:
+            isrc: USEE19701302
+          external_urls:
+            spotify: https://open.spotify.com/track/45s6cSWZqnmKPv6G7xs4In
+          href: https://api.spotify.com/v1/tracks/45s6cSWZqnmKPv6G7xs4In
+          id: 45s6cSWZqnmKPv6G7xs4In
+          is_local: false
+          is_playable: true
+          name: The Mollusk
+          track_number: 32
+          type: track
+          uri: spotify:track:45s6cSWZqnmKPv6G7xs4In
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1zYbdbCP9uPYU79IjZTrrL
+            href: https://api.spotify.com/v1/albums/1zYbdbCP9uPYU79IjZTrrL
+            id: 1zYbdbCP9uPYU79IjZTrrL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736513497db03e2d0d7b4837fb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026513497db03e2d0d7b4837fb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516513497db03e2d0d7b4837fb
+            is_playable: true
+            name: Jaren 90 Rock
+            release_date: '2021-09-10'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:1zYbdbCP9uPYU79IjZTrrL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu
+            href: https://api.spotify.com/v1/artists/3u1ulLq00Y3bfmq9FfjsPu
+            id: 3u1ulLq00Y3bfmq9FfjsPu
+            name: Ween
+            type: artist
+            uri: spotify:artist:3u1ulLq00Y3bfmq9FfjsPu
+          disc_number: 1
+          duration_ms: 156973
+          explicit: false
+          external_ids:
+            isrc: USEE19701302
+          external_urls:
+            spotify: https://open.spotify.com/track/4X2B9D15F6dHyaCfRqVFpG
+          href: https://api.spotify.com/v1/tracks/4X2B9D15F6dHyaCfRqVFpG
+          id: 4X2B9D15F6dHyaCfRqVFpG
+          is_local: false
+          is_playable: true
+          name: The Mollusk
+          track_number: 14
+          type: track
+          uri: spotify:track:4X2B9D15F6dHyaCfRqVFpG
+    isrc: USEE19701302

@@ -35,3 +35,72 @@ mediaFileData:
   year: 1996
   duration: 307.1738775510204
   modTime: 2024-07-20 00:16:35.290893+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/724FArqb7Pn5wmcYtKj2cr
+    trackId: 724FArqb7Pn5wmcYtKj2cr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSESL9700502&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+              href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+              id: 25KNo5GDS6ZpLkjasaecA3
+              name: Thievery Corporation
+              type: artist
+              uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+            external_urls:
+              spotify: https://open.spotify.com/album/3n4Zqt489pJfqDkjRuqN05
+            href: https://api.spotify.com/v1/albums/3n4Zqt489pJfqDkjRuqN05
+            id: 3n4Zqt489pJfqDkjRuqN05
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273670dd8bb768eea3012bf5507
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02670dd8bb768eea3012bf5507
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851670dd8bb768eea3012bf5507
+            is_playable: true
+            name: Sounds From The Thievery Hi Fi
+            release_date: '1997-06-07'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:3n4Zqt489pJfqDkjRuqN05
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+            href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+            id: 25KNo5GDS6ZpLkjasaecA3
+            name: Thievery Corporation
+            type: artist
+            uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+          disc_number: 1
+          duration_ms: 307080
+          explicit: false
+          external_ids:
+            isrc: USESL9700502
+          external_urls:
+            spotify: https://open.spotify.com/track/724FArqb7Pn5wmcYtKj2cr
+          href: https://api.spotify.com/v1/tracks/724FArqb7Pn5wmcYtKj2cr
+          id: 724FArqb7Pn5wmcYtKj2cr
+          is_local: false
+          is_playable: true
+          name: 2001 Spliff Odyssey
+          track_number: 2
+          type: track
+          uri: spotify:track:724FArqb7Pn5wmcYtKj2cr
+    isrc: USESL9700502

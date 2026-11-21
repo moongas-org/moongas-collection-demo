@@ -66,3 +66,72 @@ mediaFileData:
   year: 2004
   duration: 75.048
   modTime: 2024-07-01 22:53:41.099057+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3f0h4lQyCh5JxuZI1WnvVg
+    trackId: 3f0h4lQyCh5JxuZI1WnvVg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEP40417110&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ
+              href: https://api.spotify.com/v1/artists/4S2yOnmsWW97dT87yVoaSZ
+              id: 4S2yOnmsWW97dT87yVoaSZ
+              name: NOFX
+              type: artist
+              uri: spotify:artist:4S2yOnmsWW97dT87yVoaSZ
+            external_urls:
+              spotify: https://open.spotify.com/album/3ibgs75uFxEL3JNmBGXY7E
+            href: https://api.spotify.com/v1/albums/3ibgs75uFxEL3JNmBGXY7E
+            id: 3ibgs75uFxEL3JNmBGXY7E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327072c37646301ed3bd95ff6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227072c37646301ed3bd95ff6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127072c37646301ed3bd95ff6
+            is_playable: true
+            name: The Greatest Songs Ever Written (By Us)
+            release_date: '2004-11-09'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:3ibgs75uFxEL3JNmBGXY7E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ
+            href: https://api.spotify.com/v1/artists/4S2yOnmsWW97dT87yVoaSZ
+            id: 4S2yOnmsWW97dT87yVoaSZ
+            name: NOFX
+            type: artist
+            uri: spotify:artist:4S2yOnmsWW97dT87yVoaSZ
+          disc_number: 1
+          duration_ms: 74573
+          explicit: true
+          external_ids:
+            isrc: USEP40417110
+          external_urls:
+            spotify: https://open.spotify.com/track/3f0h4lQyCh5JxuZI1WnvVg
+          href: https://api.spotify.com/v1/tracks/3f0h4lQyCh5JxuZI1WnvVg
+          id: 3f0h4lQyCh5JxuZI1WnvVg
+          is_local: false
+          is_playable: true
+          name: What's The Matter With Kids Today
+          track_number: 10
+          type: track
+          uri: spotify:track:3f0h4lQyCh5JxuZI1WnvVg
+    isrc: USEP40417110

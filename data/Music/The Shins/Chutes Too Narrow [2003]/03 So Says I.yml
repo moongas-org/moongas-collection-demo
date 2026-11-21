@@ -45,3 +45,72 @@ mediaFileData:
   year: 2003
   duration: 167.94666666666666
   modTime: 2024-09-24 20:03:34.662145+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/01VXd3g1FUNhTHv2BiCjzR
+    trackId: 01VXd3g1FUNhTHv2BiCjzR
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSUB0300136&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO
+              href: https://api.spotify.com/v1/artists/4LG4Bs1Gadht7TCrMytQUO
+              id: 4LG4Bs1Gadht7TCrMytQUO
+              name: The Shins
+              type: artist
+              uri: spotify:artist:4LG4Bs1Gadht7TCrMytQUO
+            external_urls:
+              spotify: https://open.spotify.com/album/4E8aGgK47Emx24QXq5gD7x
+            href: https://api.spotify.com/v1/albums/4E8aGgK47Emx24QXq5gD7x
+            id: 4E8aGgK47Emx24QXq5gD7x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27351a76eaf64931783af7d99d4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0251a76eaf64931783af7d99d4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485151a76eaf64931783af7d99d4
+            is_playable: true
+            name: So Says I
+            release_date: '2003-09-23'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:4E8aGgK47Emx24QXq5gD7x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO
+            href: https://api.spotify.com/v1/artists/4LG4Bs1Gadht7TCrMytQUO
+            id: 4LG4Bs1Gadht7TCrMytQUO
+            name: The Shins
+            type: artist
+            uri: spotify:artist:4LG4Bs1Gadht7TCrMytQUO
+          disc_number: 1
+          duration_ms: 168533
+          explicit: false
+          external_ids:
+            isrc: USSUB0300136
+          external_urls:
+            spotify: https://open.spotify.com/track/01VXd3g1FUNhTHv2BiCjzR
+          href: https://api.spotify.com/v1/tracks/01VXd3g1FUNhTHv2BiCjzR
+          id: 01VXd3g1FUNhTHv2BiCjzR
+          is_local: false
+          is_playable: true
+          name: So Says I
+          track_number: 1
+          type: track
+          uri: spotify:track:01VXd3g1FUNhTHv2BiCjzR
+    isrc: USSUB0300136

@@ -99,3 +99,288 @@ mediaFileData:
   year: 1986
   duration: 227.64
   modTime: 2024-09-22 15:59:53.331109+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/49ul7T6QlHsbnwYYNXE87O
+    trackId: 49ul7T6QlHsbnwYYNXE87O
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB18300013&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB18300013&type=track
+        offset: 0
+        previous:
+        total: 11
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2qrkWwNyjy7zwFgueA5slQ
+            href: https://api.spotify.com/v1/albums/2qrkWwNyjy7zwFgueA5slQ
+            id: 2qrkWwNyjy7zwFgueA5slQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a6b356127c33c658aa60c81f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a6b356127c33c658aa60c81f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a6b356127c33c658aa60c81f
+            is_playable: true
+            name: The Wedding Singer (More Music From The Motion Picture)
+            release_date: '1998-07-21'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2qrkWwNyjy7zwFgueA5slQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW
+            href: https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW
+            id: 6tbjWDEIzxoDsBA1FuhfPW
+            name: Madonna
+            type: artist
+            uri: spotify:artist:6tbjWDEIzxoDsBA1FuhfPW
+          disc_number: 1
+          duration_ms: 370426
+          explicit: false
+          external_ids:
+            isrc: USWB18300013
+          external_urls:
+            spotify: https://open.spotify.com/track/49ul7T6QlHsbnwYYNXE87O
+          href: https://api.spotify.com/v1/tracks/49ul7T6QlHsbnwYYNXE87O
+          id: 49ul7T6QlHsbnwYYNXE87O
+          is_local: false
+          is_playable: true
+          name: Holiday
+          track_number: 11
+          type: track
+          uri: spotify:track:49ul7T6QlHsbnwYYNXE87O
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW
+              href: https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW
+              id: 6tbjWDEIzxoDsBA1FuhfPW
+              name: Madonna
+              type: artist
+              uri: spotify:artist:6tbjWDEIzxoDsBA1FuhfPW
+            external_urls:
+              spotify: https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW
+            href: https://api.spotify.com/v1/albums/5lrlWKjNY0eTDXp9Bd3LpW
+            id: 5lrlWKjNY0eTDXp9Bd3LpW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bb45399c6250c0c7ce59849d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bb45399c6250c0c7ce59849d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bb45399c6250c0c7ce59849d
+            is_playable: true
+            name: Madonna
+            release_date: '1983-07-27'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5lrlWKjNY0eTDXp9Bd3LpW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW
+            href: https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW
+            id: 6tbjWDEIzxoDsBA1FuhfPW
+            name: Madonna
+            type: artist
+            uri: spotify:artist:6tbjWDEIzxoDsBA1FuhfPW
+          disc_number: 1
+          duration_ms: 370426
+          explicit: false
+          external_ids:
+            isrc: USWB18300013
+          external_urls:
+            spotify: https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n
+          href: https://api.spotify.com/v1/tracks/3ibAzRj9JnowdoLkyllk3n
+          id: 3ibAzRj9JnowdoLkyllk3n
+          is_local: false
+          is_playable: true
+          name: Holiday
+          track_number: 5
+          type: track
+          uri: spotify:track:3ibAzRj9JnowdoLkyllk3n
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0a5RkdSJ1s1cvtayTgMskO
+            href: https://api.spotify.com/v1/albums/0a5RkdSJ1s1cvtayTgMskO
+            id: 0a5RkdSJ1s1cvtayTgMskO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736a60d4a55fcdd1ecf9882c93
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026a60d4a55fcdd1ecf9882c93
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516a60d4a55fcdd1ecf9882c93
+            is_playable: true
+            name: The Best Female Vocalists
+            release_date: '2025-07-20'
+            release_date_precision: day
+            total_tracks: 46
+            type: album
+            uri: spotify:album:0a5RkdSJ1s1cvtayTgMskO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW
+            href: https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW
+            id: 6tbjWDEIzxoDsBA1FuhfPW
+            name: Madonna
+            type: artist
+            uri: spotify:artist:6tbjWDEIzxoDsBA1FuhfPW
+          disc_number: 1
+          duration_ms: 231560
+          explicit: false
+          external_ids:
+            isrc: USWB18300013
+          external_urls:
+            spotify: https://open.spotify.com/track/5Mb2AtZvJbDo47qQWYecDW
+          href: https://api.spotify.com/v1/tracks/5Mb2AtZvJbDo47qQWYecDW
+          id: 5Mb2AtZvJbDo47qQWYecDW
+          is_local: false
+          is_playable: true
+          name: Holiday
+          track_number: 18
+          type: track
+          uri: spotify:track:5Mb2AtZvJbDo47qQWYecDW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5K7v3Te7JToWq0pRDbPBi0
+            href: https://api.spotify.com/v1/albums/5K7v3Te7JToWq0pRDbPBi0
+            id: 5K7v3Te7JToWq0pRDbPBi0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27332dc97c8acfd3eec4f15f73a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0232dc97c8acfd3eec4f15f73a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485132dc97c8acfd3eec4f15f73a
+            is_playable: true
+            name: Good Morning 2025
+            release_date: '2025-04-02'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:5K7v3Te7JToWq0pRDbPBi0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW
+            href: https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW
+            id: 6tbjWDEIzxoDsBA1FuhfPW
+            name: Madonna
+            type: artist
+            uri: spotify:artist:6tbjWDEIzxoDsBA1FuhfPW
+          disc_number: 1
+          duration_ms: 231560
+          explicit: false
+          external_ids:
+            isrc: USWB18300013
+          external_urls:
+            spotify: https://open.spotify.com/track/4Mnu36s7XGPT1f4mgSZBSt
+          href: https://api.spotify.com/v1/tracks/4Mnu36s7XGPT1f4mgSZBSt
+          id: 4Mnu36s7XGPT1f4mgSZBSt
+          is_local: false
+          is_playable: true
+          name: Holiday
+          track_number: 30
+          type: track
+          uri: spotify:track:4Mnu36s7XGPT1f4mgSZBSt
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7uinZ1qh0QS8lFxUFATj5e
+            href: https://api.spotify.com/v1/albums/7uinZ1qh0QS8lFxUFATj5e
+            id: 7uinZ1qh0QS8lFxUFATj5e
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273270c373a5cc3c9c5f60bb70c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02270c373a5cc3c9c5f60bb70c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851270c373a5cc3c9c5f60bb70c
+            is_playable: true
+            name: SEPTEMBER CHRISTMAS
+            release_date: '2025-07-05'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:7uinZ1qh0QS8lFxUFATj5e
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW
+            href: https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW
+            id: 6tbjWDEIzxoDsBA1FuhfPW
+            name: Madonna
+            type: artist
+            uri: spotify:artist:6tbjWDEIzxoDsBA1FuhfPW
+          disc_number: 1
+          duration_ms: 231560
+          explicit: false
+          external_ids:
+            isrc: USWB18300013
+          external_urls:
+            spotify: https://open.spotify.com/track/1bVQKeoUdYzbDeYVnlshCI
+          href: https://api.spotify.com/v1/tracks/1bVQKeoUdYzbDeYVnlshCI
+          id: 1bVQKeoUdYzbDeYVnlshCI
+          is_local: false
+          is_playable: true
+          name: Holiday
+          track_number: 7
+          type: track
+          uri: spotify:track:1bVQKeoUdYzbDeYVnlshCI
+    isrc: USWB18300013

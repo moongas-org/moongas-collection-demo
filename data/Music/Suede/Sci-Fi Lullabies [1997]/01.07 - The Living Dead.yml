@@ -38,3 +38,180 @@ mediaFileData:
   year: 1997
   duration: 170.65333333333334
   modTime: 2025-11-20 01:15:00.330440+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0OzGc85GAZZ0AGTV9pByvu
+    trackId: 0OzGc85GAZZ0AGTV9pByvu
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBL2J1000029&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t
+              href: https://api.spotify.com/v1/artists/6GuRYj1MEnu1WZhDA2Xy0t
+              id: 6GuRYj1MEnu1WZhDA2Xy0t
+              name: The London Suede
+              type: artist
+              uri: spotify:artist:6GuRYj1MEnu1WZhDA2Xy0t
+            external_urls:
+              spotify: https://open.spotify.com/album/6Qc6wZmzycMy7UztwQt386
+            href: https://api.spotify.com/v1/albums/6Qc6wZmzycMy7UztwQt386
+            id: 6Qc6wZmzycMy7UztwQt386
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dea376a9e06db5fa86b6a2ca
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dea376a9e06db5fa86b6a2ca
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dea376a9e06db5fa86b6a2ca
+            is_playable: true
+            name: Dog Man Star (30th Anniversary Edition)
+            release_date: '2024-10-18'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:6Qc6wZmzycMy7UztwQt386
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t
+            href: https://api.spotify.com/v1/artists/6GuRYj1MEnu1WZhDA2Xy0t
+            id: 6GuRYj1MEnu1WZhDA2Xy0t
+            name: The London Suede
+            type: artist
+            uri: spotify:artist:6GuRYj1MEnu1WZhDA2Xy0t
+          disc_number: 1
+          duration_ms: 167586
+          explicit: false
+          external_ids:
+            isrc: GBL2J1000029
+          external_urls:
+            spotify: https://open.spotify.com/track/0OzGc85GAZZ0AGTV9pByvu
+          href: https://api.spotify.com/v1/tracks/0OzGc85GAZZ0AGTV9pByvu
+          id: 0OzGc85GAZZ0AGTV9pByvu
+          is_local: false
+          is_playable: true
+          name: The Living Dead
+          track_number: 14
+          type: track
+          uri: spotify:track:0OzGc85GAZZ0AGTV9pByvu
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t
+              href: https://api.spotify.com/v1/artists/6GuRYj1MEnu1WZhDA2Xy0t
+              id: 6GuRYj1MEnu1WZhDA2Xy0t
+              name: The London Suede
+              type: artist
+              uri: spotify:artist:6GuRYj1MEnu1WZhDA2Xy0t
+            external_urls:
+              spotify: https://open.spotify.com/album/0mMPxI6TxOftcoIAJ0UNPY
+            href: https://api.spotify.com/v1/albums/0mMPxI6TxOftcoIAJ0UNPY
+            id: 0mMPxI6TxOftcoIAJ0UNPY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737229c606b9dfcaa6b93154fa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027229c606b9dfcaa6b93154fa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517229c606b9dfcaa6b93154fa
+            is_playable: true
+            name: Dog Man Star (Remastered Deluxe Edition)
+            release_date: '2011-06-06'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:0mMPxI6TxOftcoIAJ0UNPY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t
+            href: https://api.spotify.com/v1/artists/6GuRYj1MEnu1WZhDA2Xy0t
+            id: 6GuRYj1MEnu1WZhDA2Xy0t
+            name: The London Suede
+            type: artist
+            uri: spotify:artist:6GuRYj1MEnu1WZhDA2Xy0t
+          disc_number: 2
+          duration_ms: 170200
+          explicit: false
+          external_ids:
+            isrc: GBL2J1000029
+          external_urls:
+            spotify: https://open.spotify.com/track/2XoxfF90rBJA3gm9ZoRAlr
+          href: https://api.spotify.com/v1/tracks/2XoxfF90rBJA3gm9ZoRAlr
+          id: 2XoxfF90rBJA3gm9ZoRAlr
+          is_local: false
+          is_playable: true
+          name: The Living Dead (Remastered)
+          track_number: 2
+          type: track
+          uri: spotify:track:2XoxfF90rBJA3gm9ZoRAlr
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t
+              href: https://api.spotify.com/v1/artists/6GuRYj1MEnu1WZhDA2Xy0t
+              id: 6GuRYj1MEnu1WZhDA2Xy0t
+              name: The London Suede
+              type: artist
+              uri: spotify:artist:6GuRYj1MEnu1WZhDA2Xy0t
+            external_urls:
+              spotify: https://open.spotify.com/album/1xs5UhxBvAIsgKGzYjCMhh
+            href: https://api.spotify.com/v1/albums/1xs5UhxBvAIsgKGzYjCMhh
+            id: 1xs5UhxBvAIsgKGzYjCMhh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273215f66469071fa4816dcc88f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02215f66469071fa4816dcc88f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851215f66469071fa4816dcc88f
+            is_playable: true
+            name: 'Beautiful Ones: The Best of the London Suede 1992-2018 (Deluxe)'
+            release_date: '2020-10-09'
+            release_date_precision: day
+            total_tracks: 56
+            type: album
+            uri: spotify:album:1xs5UhxBvAIsgKGzYjCMhh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t
+            href: https://api.spotify.com/v1/artists/6GuRYj1MEnu1WZhDA2Xy0t
+            id: 6GuRYj1MEnu1WZhDA2Xy0t
+            name: The London Suede
+            type: artist
+            uri: spotify:artist:6GuRYj1MEnu1WZhDA2Xy0t
+          disc_number: 1
+          duration_ms: 169831
+          explicit: false
+          external_ids:
+            isrc: GBL2J1000029
+          external_urls:
+            spotify: https://open.spotify.com/track/0hO5yf2CqOZKvEPxmJVMUI
+          href: https://api.spotify.com/v1/tracks/0hO5yf2CqOZKvEPxmJVMUI
+          id: 0hO5yf2CqOZKvEPxmJVMUI
+          is_local: false
+          is_playable: true
+          name: The Living Dead
+          track_number: 35
+          type: track
+          uri: spotify:track:0hO5yf2CqOZKvEPxmJVMUI
+    isrc: GBL2J1000029

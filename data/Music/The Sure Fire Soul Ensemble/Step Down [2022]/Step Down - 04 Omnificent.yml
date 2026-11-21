@@ -34,3 +34,72 @@ mediaFileData:
   year: 2022
   duration: 228.17333333333335
   modTime: 2024-05-13 16:07:49.347662+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2kMcrbUr7r2I2yoVUBqrrO
+    trackId: 2kMcrbUr7r2I2yoVUBqrrO
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQZDMQ2050104&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ
+              href: https://api.spotify.com/v1/artists/5vdTwIo9GoUu8IVLyJavsZ
+              id: 5vdTwIo9GoUu8IVLyJavsZ
+              name: The Sure Fire Soul Ensemble
+              type: artist
+              uri: spotify:artist:5vdTwIo9GoUu8IVLyJavsZ
+            external_urls:
+              spotify: https://open.spotify.com/album/3Gy33o1AUvu4eNKT8jHAIV
+            href: https://api.spotify.com/v1/albums/3Gy33o1AUvu4eNKT8jHAIV
+            id: 3Gy33o1AUvu4eNKT8jHAIV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730d23e5998817bbdf8a2bbd50
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020d23e5998817bbdf8a2bbd50
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510d23e5998817bbdf8a2bbd50
+            is_playable: true
+            name: Step Down
+            release_date: '2022-04-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3Gy33o1AUvu4eNKT8jHAIV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ
+            href: https://api.spotify.com/v1/artists/5vdTwIo9GoUu8IVLyJavsZ
+            id: 5vdTwIo9GoUu8IVLyJavsZ
+            name: The Sure Fire Soul Ensemble
+            type: artist
+            uri: spotify:artist:5vdTwIo9GoUu8IVLyJavsZ
+          disc_number: 1
+          duration_ms: 228173
+          explicit: false
+          external_ids:
+            isrc: QZDMQ2050104
+          external_urls:
+            spotify: https://open.spotify.com/track/2kMcrbUr7r2I2yoVUBqrrO
+          href: https://api.spotify.com/v1/tracks/2kMcrbUr7r2I2yoVUBqrrO
+          id: 2kMcrbUr7r2I2yoVUBqrrO
+          is_local: false
+          is_playable: true
+          name: Omnificent
+          track_number: 4
+          type: track
+          uri: spotify:track:2kMcrbUr7r2I2yoVUBqrrO
+    isrc: QZDMQ2050104

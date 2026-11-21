@@ -35,3 +35,72 @@ mediaFileData:
   year: 2016
   duration: 264.024
   modTime: 2025-03-10 01:24:30.275960+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7G7BPrL3gIDlw4K7Jm8ZQN
+    trackId: 7G7BPrL3gIDlw4K7Jm8ZQN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUDCB1500638&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p
+            href: https://api.spotify.com/v1/albums/4EAehCii5lZgeewct1LA5p
+            id: 4EAehCii5lZgeewct1LA5p
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27360e5059dcab339142d7642bb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0260e5059dcab339142d7642bb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485160e5059dcab339142d7642bb
+            is_playable: true
+            name: Bloom
+            release_date: '2016-01-22'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4EAehCii5lZgeewct1LA5p
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 1
+          duration_ms: 263986
+          explicit: false
+          external_ids:
+            isrc: AUDCB1500638
+          external_urls:
+            spotify: https://open.spotify.com/track/7G7BPrL3gIDlw4K7Jm8ZQN
+          href: https://api.spotify.com/v1/tracks/7G7BPrL3gIDlw4K7Jm8ZQN
+          id: 7G7BPrL3gIDlw4K7Jm8ZQN
+          is_local: false
+          is_playable: true
+          name: Lose My Head
+          track_number: 10
+          type: track
+          uri: spotify:track:7G7BPrL3gIDlw4K7Jm8ZQN
+    isrc: AUDCB1500638

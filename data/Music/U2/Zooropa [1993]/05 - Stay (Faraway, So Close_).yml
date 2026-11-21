@@ -66,3 +66,72 @@ mediaFileData:
   year: 1993
   duration: 299.96408163265306
   modTime: 2023-12-04 23:13:43.120799+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2UUbvb8FwMOGgzPcryZyih
+    trackId: 2UUbvb8FwMOGgzPcryZyih
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM72306859&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ
+              href: https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ
+              id: 51Blml2LZPmy7TTiAg47vQ
+              name: U2
+              type: artist
+              uri: spotify:artist:51Blml2LZPmy7TTiAg47vQ
+            external_urls:
+              spotify: https://open.spotify.com/album/72vxnPu2JhlRI6Xj2NPaoZ
+            href: https://api.spotify.com/v1/albums/72vxnPu2JhlRI6Xj2NPaoZ
+            id: 72vxnPu2JhlRI6Xj2NPaoZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27352f100e8c6d4a0ee0feec8c1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0252f100e8c6d4a0ee0feec8c1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485152f100e8c6d4a0ee0feec8c1
+            is_playable: true
+            name: Stay (Faraway, So Close!)
+            release_date: '2023-08-11'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:72vxnPu2JhlRI6Xj2NPaoZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ
+            href: https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ
+            id: 51Blml2LZPmy7TTiAg47vQ
+            name: U2
+            type: artist
+            uri: spotify:artist:51Blml2LZPmy7TTiAg47vQ
+          disc_number: 1
+          duration_ms: 299893
+          explicit: false
+          external_ids:
+            isrc: GBUM72306859
+          external_urls:
+            spotify: https://open.spotify.com/track/2UUbvb8FwMOGgzPcryZyih
+          href: https://api.spotify.com/v1/tracks/2UUbvb8FwMOGgzPcryZyih
+          id: 2UUbvb8FwMOGgzPcryZyih
+          is_local: false
+          is_playable: true
+          name: Stay (Faraway, So Close!) - Remastered 2023
+          track_number: 1
+          type: track
+          uri: spotify:track:2UUbvb8FwMOGgzPcryZyih
+    isrc: GBUM72306859

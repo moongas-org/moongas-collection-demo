@@ -62,3 +62,180 @@ mediaFileData:
   year: 1969
   duration: 175.776
   modTime: 2026-08-30 23:53:59.675700+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/04qvVamsZXtOBeWNw4VAhl
+    trackId: 04qvVamsZXtOBeWNw4VAhl
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20800970&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica
+              href: https://api.spotify.com/v1/artists/2E6Roj0oQnJIm2BeXwDica
+              id: 2E6Roj0oQnJIm2BeXwDica
+              name: Graham Nash
+              type: artist
+              uri: spotify:artist:2E6Roj0oQnJIm2BeXwDica
+            external_urls:
+              spotify: https://open.spotify.com/album/3BCDJNiN7cRdY3FubFNfFS
+            href: https://api.spotify.com/v1/albums/3BCDJNiN7cRdY3FubFNfFS
+            id: 3BCDJNiN7cRdY3FubFNfFS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a3e921d2ac23af68404eb431
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a3e921d2ac23af68404eb431
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a3e921d2ac23af68404eb431
+            is_playable: true
+            name: Reflections
+            release_date: '2009'
+            release_date_precision: year
+            total_tracks: 64
+            type: album
+            uri: spotify:album:3BCDJNiN7cRdY3FubFNfFS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou
+            href: https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou
+            id: 2pdvghEHZJtgSXZ7cvNLou
+            name: Crosby, Stills & Nash
+            type: artist
+            uri: spotify:artist:2pdvghEHZJtgSXZ7cvNLou
+          disc_number: 1
+          duration_ms: 177520
+          explicit: false
+          external_ids:
+            isrc: USAT20800970
+          external_urls:
+            spotify: https://open.spotify.com/track/04qvVamsZXtOBeWNw4VAhl
+          href: https://api.spotify.com/v1/tracks/04qvVamsZXtOBeWNw4VAhl
+          id: 04qvVamsZXtOBeWNw4VAhl
+          is_local: false
+          is_playable: true
+          name: Pre-Road Downs - 2008 Remaster
+          track_number: 5
+          type: track
+          uri: spotify:track:04qvVamsZXtOBeWNw4VAhl
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2e7aKkuPonI8INVx1kR16U
+            href: https://api.spotify.com/v1/albums/2e7aKkuPonI8INVx1kR16U
+            id: 2e7aKkuPonI8INVx1kR16U
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27320113c7e538f8743b5d3aaf5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0220113c7e538f8743b5d3aaf5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485120113c7e538f8743b5d3aaf5
+            is_playable: true
+            name: 'Easy Riders: Rock'
+            release_date: '2019-08-16'
+            release_date_precision: day
+            total_tracks: 37
+            type: album
+            uri: spotify:album:2e7aKkuPonI8INVx1kR16U
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou
+            href: https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou
+            id: 2pdvghEHZJtgSXZ7cvNLou
+            name: Crosby, Stills & Nash
+            type: artist
+            uri: spotify:artist:2pdvghEHZJtgSXZ7cvNLou
+          disc_number: 1
+          duration_ms: 177520
+          explicit: false
+          external_ids:
+            isrc: USAT20800970
+          external_urls:
+            spotify: https://open.spotify.com/track/2LMlDGyE6Ucpi3RWiQeWev
+          href: https://api.spotify.com/v1/tracks/2LMlDGyE6Ucpi3RWiQeWev
+          id: 2LMlDGyE6Ucpi3RWiQeWev
+          is_local: false
+          is_playable: true
+          name: Pre-Road Downs
+          track_number: 8
+          type: track
+          uri: spotify:track:2LMlDGyE6Ucpi3RWiQeWev
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4Ji0JJxBgSGPL89btsAsjh
+            href: https://api.spotify.com/v1/albums/4Ji0JJxBgSGPL89btsAsjh
+            id: 4Ji0JJxBgSGPL89btsAsjh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d3f43f3ea31c54be9e23493b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d3f43f3ea31c54be9e23493b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d3f43f3ea31c54be9e23493b
+            is_playable: true
+            name: 1960s Pop
+            release_date: '2020-03-20'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:4Ji0JJxBgSGPL89btsAsjh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou
+            href: https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou
+            id: 2pdvghEHZJtgSXZ7cvNLou
+            name: Crosby, Stills & Nash
+            type: artist
+            uri: spotify:artist:2pdvghEHZJtgSXZ7cvNLou
+          disc_number: 1
+          duration_ms: 177520
+          explicit: false
+          external_ids:
+            isrc: USAT20800970
+          external_urls:
+            spotify: https://open.spotify.com/track/5rl9tVWFULQZeJ0vpHXsKn
+          href: https://api.spotify.com/v1/tracks/5rl9tVWFULQZeJ0vpHXsKn
+          id: 5rl9tVWFULQZeJ0vpHXsKn
+          is_local: false
+          is_playable: true
+          name: Pre-Road Downs
+          track_number: 4
+          type: track
+          uri: spotify:track:5rl9tVWFULQZeJ0vpHXsKn
+    isrc: USAT20800970

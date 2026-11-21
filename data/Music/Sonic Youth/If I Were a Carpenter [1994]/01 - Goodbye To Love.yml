@@ -34,3 +34,72 @@ mediaFileData:
   year: 1994
   duration: 192.432
   modTime: 2025-02-03 18:00:59.092700+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6XykqO2GKiu88LOdneNT4X
+    trackId: 6XykqO2GKiu88LOdneNT4X
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAM19400321&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2jzoM56c7kGgQKqFT7Ymu6
+            href: https://api.spotify.com/v1/albums/2jzoM56c7kGgQKqFT7Ymu6
+            id: 2jzoM56c7kGgQKqFT7Ymu6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27358e762253dde898c519396bd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0258e762253dde898c519396bd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485158e762253dde898c519396bd
+            is_playable: true
+            name: If I Were A Carpenter
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2jzoM56c7kGgQKqFT7Ymu6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6uHjKRsYGaElOrKWlSEji3
+            href: https://api.spotify.com/v1/artists/6uHjKRsYGaElOrKWlSEji3
+            id: 6uHjKRsYGaElOrKWlSEji3
+            name: American Music Club
+            type: artist
+            uri: spotify:artist:6uHjKRsYGaElOrKWlSEji3
+          disc_number: 1
+          duration_ms: 192400
+          explicit: false
+          external_ids:
+            isrc: USAM19400321
+          external_urls:
+            spotify: https://open.spotify.com/track/6XykqO2GKiu88LOdneNT4X
+          href: https://api.spotify.com/v1/tracks/6XykqO2GKiu88LOdneNT4X
+          id: 6XykqO2GKiu88LOdneNT4X
+          is_local: false
+          is_playable: true
+          name: Goodbye To Love
+          track_number: 1
+          type: track
+          uri: spotify:track:6XykqO2GKiu88LOdneNT4X
+    isrc: USAM19400321

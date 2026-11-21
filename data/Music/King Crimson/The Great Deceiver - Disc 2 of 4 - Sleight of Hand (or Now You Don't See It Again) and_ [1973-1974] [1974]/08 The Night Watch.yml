@@ -42,3 +42,72 @@ mediaFileData:
   year: 1992
   duration: 316.52125
   modTime: 2025-01-11 00:54:03.322383+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5WAXHekwCfyncIaeotTmHs
+    trackId: 5WAXHekwCfyncIaeotTmHs
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCTX2100050&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+              href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+              id: 7M1FPw29m5FbicYzS2xdpi
+              name: King Crimson
+              type: artist
+              uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+            external_urls:
+              spotify: https://open.spotify.com/album/5KnPVUI7jeHEjciGyXsgBQ
+            href: https://api.spotify.com/v1/albums/5KnPVUI7jeHEjciGyXsgBQ
+            id: 5KnPVUI7jeHEjciGyXsgBQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eda74347378e84ca5e0a6d25
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eda74347378e84ca5e0a6d25
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eda74347378e84ca5e0a6d25
+            is_playable: true
+            name: The Great Deceiver (Pt. I)
+            release_date: '1992-10-30'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:5KnPVUI7jeHEjciGyXsgBQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+            href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+            id: 7M1FPw29m5FbicYzS2xdpi
+            name: King Crimson
+            type: artist
+            uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+          disc_number: 1
+          duration_ms: 316932
+          explicit: false
+          external_ids:
+            isrc: GBCTX2100050
+          external_urls:
+            spotify: https://open.spotify.com/track/5WAXHekwCfyncIaeotTmHs
+          href: https://api.spotify.com/v1/tracks/5WAXHekwCfyncIaeotTmHs
+          id: 5WAXHekwCfyncIaeotTmHs
+          is_local: false
+          is_playable: true
+          name: 'The NIght Watch - Live in Glasgow Apollo: October 23rd, 1973)'
+          track_number: 19
+          type: track
+          uri: spotify:track:5WAXHekwCfyncIaeotTmHs
+    isrc: GBCTX2100050

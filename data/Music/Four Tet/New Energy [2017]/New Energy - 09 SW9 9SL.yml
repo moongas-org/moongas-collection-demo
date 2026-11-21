@@ -47,3 +47,72 @@ mediaFileData:
   year: 2017
   duration: 475.6390022675737
   modTime: 2023-04-28 01:32:17.480000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2xN54cw14BBwQVCzQS2izH
+    trackId: 2xN54cw14BBwQVCzQS2izH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBXNG1746008&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh
+              href: https://api.spotify.com/v1/artists/7Eu1txygG6nJttLHbZdQOh
+              id: 7Eu1txygG6nJttLHbZdQOh
+              name: Four Tet
+              type: artist
+              uri: spotify:artist:7Eu1txygG6nJttLHbZdQOh
+            external_urls:
+              spotify: https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ
+            href: https://api.spotify.com/v1/albums/74r6JJ97ipO0CREXP9PMqZ
+            id: 74r6JJ97ipO0CREXP9PMqZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733f31769b727102837cb32a63
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023f31769b727102837cb32a63
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513f31769b727102837cb32a63
+            is_playable: true
+            name: New Energy
+            release_date: '2017-09-29'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:74r6JJ97ipO0CREXP9PMqZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh
+            href: https://api.spotify.com/v1/artists/7Eu1txygG6nJttLHbZdQOh
+            id: 7Eu1txygG6nJttLHbZdQOh
+            name: Four Tet
+            type: artist
+            uri: spotify:artist:7Eu1txygG6nJttLHbZdQOh
+          disc_number: 1
+          duration_ms: 475639
+          explicit: false
+          external_ids:
+            isrc: GBXNG1746008
+          external_urls:
+            spotify: https://open.spotify.com/track/2xN54cw14BBwQVCzQS2izH
+          href: https://api.spotify.com/v1/tracks/2xN54cw14BBwQVCzQS2izH
+          id: 2xN54cw14BBwQVCzQS2izH
+          is_local: false
+          is_playable: true
+          name: SW9 9SL
+          track_number: 9
+          type: track
+          uri: spotify:track:2xN54cw14BBwQVCzQS2izH
+    isrc: GBXNG1746008

@@ -83,3 +83,180 @@ mediaFileData:
   year: 1977
   duration: 152.112
   modTime: 2024-02-18 20:10:27.288092+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4nb8os2u9NsVSmS7zZDtK7
+    trackId: 4nb8os2u9NsVSmS7zZDtK7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR27700011&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/2BGBKhA5Oo3MMg7VccWeae
+            href: https://api.spotify.com/v1/albums/2BGBKhA5Oo3MMg7VccWeae
+            id: 2BGBKhA5Oo3MMg7VccWeae
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733225207c8e7305bd76cfa710
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023225207c8e7305bd76cfa710
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513225207c8e7305bd76cfa710
+            is_playable: true
+            name: Exodus (Deluxe Edition)
+            release_date: '2022-06-24'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:2BGBKhA5Oo3MMg7VccWeae
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 151692
+          explicit: false
+          external_ids:
+            isrc: USIR27700011
+          external_urls:
+            spotify: https://open.spotify.com/track/4nb8os2u9NsVSmS7zZDtK7
+          href: https://api.spotify.com/v1/tracks/4nb8os2u9NsVSmS7zZDtK7
+          id: 4nb8os2u9NsVSmS7zZDtK7
+          is_local: false
+          is_playable: true
+          name: The Heathen
+          track_number: 4
+          type: track
+          uri: spotify:track:4nb8os2u9NsVSmS7zZDtK7
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/0t7epGcMFSPS98X9t9atfk
+            href: https://api.spotify.com/v1/albums/0t7epGcMFSPS98X9t9atfk
+            id: 0t7epGcMFSPS98X9t9atfk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fb6f5453a8a7b527dd6b130b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fb6f5453a8a7b527dd6b130b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fb6f5453a8a7b527dd6b130b
+            is_playable: true
+            name: Exodus 30th Anniversary Edition
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0t7epGcMFSPS98X9t9atfk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 152186
+          explicit: false
+          external_ids:
+            isrc: USIR27700011
+          external_urls:
+            spotify: https://open.spotify.com/track/4RuOVmDdLmUFkx6mnbCluy
+          href: https://api.spotify.com/v1/tracks/4RuOVmDdLmUFkx6mnbCluy
+          id: 4RuOVmDdLmUFkx6mnbCluy
+          is_local: false
+          is_playable: true
+          name: The Heathen
+          track_number: 4
+          type: track
+          uri: spotify:track:4RuOVmDdLmUFkx6mnbCluy
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/655KljKIXl42fiNDMKivbY
+            href: https://api.spotify.com/v1/albums/655KljKIXl42fiNDMKivbY
+            id: 655KljKIXl42fiNDMKivbY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7f3e4d143c198d3542a775d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7f3e4d143c198d3542a775d
+            is_playable: true
+            name: Exodus
+            release_date: '1977-06-03'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:655KljKIXl42fiNDMKivbY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 152066
+          explicit: false
+          external_ids:
+            isrc: USIR27700011
+          external_urls:
+            spotify: https://open.spotify.com/track/6fSw5kFn0JBsuTygV0Rnrq
+          href: https://api.spotify.com/v1/tracks/6fSw5kFn0JBsuTygV0Rnrq
+          id: 6fSw5kFn0JBsuTygV0Rnrq
+          is_local: false
+          is_playable: true
+          name: The Heathen
+          track_number: 4
+          type: track
+          uri: spotify:track:6fSw5kFn0JBsuTygV0Rnrq
+    isrc: USIR27700011

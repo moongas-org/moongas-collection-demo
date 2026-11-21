@@ -85,3 +85,72 @@ mediaFileData:
   year: 1972
   duration: 177.576
   modTime: 2025-01-30 02:01:32.138058+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2KfgmmpIPIVPJXstapOZ2s
+    trackId: 2KfgmmpIPIVPJXstapOZ2s
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC19606741&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1bHf9HYi6rYYQlhS2iyLNT
+            href: https://api.spotify.com/v1/albums/1bHf9HYi6rYYQlhS2iyLNT
+            id: 1bHf9HYi6rYYQlhS2iyLNT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b6a6056964e2ddab228c73b9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b6a6056964e2ddab228c73b9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b6a6056964e2ddab228c73b9
+            is_playable: true
+            name: Essential - One For The Lads
+            release_date: '2010-05-07'
+            release_date_precision: day
+            total_tracks: 59
+            type: album
+            uri: spotify:album:1bHf9HYi6rYYQlhS2iyLNT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL
+            href: https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL
+            id: 42TFhl7WlMRXiNqzSrnzPL
+            name: Lou Reed
+            type: artist
+            uri: spotify:artist:42TFhl7WlMRXiNqzSrnzPL
+          disc_number: 2
+          duration_ms: 174880
+          explicit: false
+          external_ids:
+            isrc: USRC19606741
+          external_urls:
+            spotify: https://open.spotify.com/track/2KfgmmpIPIVPJXstapOZ2s
+          href: https://api.spotify.com/v1/tracks/2KfgmmpIPIVPJXstapOZ2s
+          id: 2KfgmmpIPIVPJXstapOZ2s
+          is_local: false
+          is_playable: true
+          name: Vicious
+          track_number: 15
+          type: track
+          uri: spotify:track:2KfgmmpIPIVPJXstapOZ2s
+    isrc: USRC19606741

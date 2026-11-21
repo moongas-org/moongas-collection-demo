@@ -45,3 +45,72 @@ mediaFileData:
   year: 1993
   duration: 267.7866666666667
   modTime: 2023-05-13 20:14:14.760000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/31VH3U3V00ivBHt6iG7Q0c
+    trackId: 31VH3U3V00ivBHt6iG7Q0c
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAFL9300127&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp
+              href: https://api.spotify.com/v1/artists/1xgFexIwrf2QjbU0buCNnp
+              id: 1xgFexIwrf2QjbU0buCNnp
+              name: The Breeders
+              type: artist
+              uri: spotify:artist:1xgFexIwrf2QjbU0buCNnp
+            external_urls:
+              spotify: https://open.spotify.com/album/1syQ3F5kKN1JdqF6fbDMDc
+            href: https://api.spotify.com/v1/albums/1syQ3F5kKN1JdqF6fbDMDc
+            id: 1syQ3F5kKN1JdqF6fbDMDc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732165b1d347b8b4f761069761
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022165b1d347b8b4f761069761
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512165b1d347b8b4f761069761
+            is_playable: true
+            name: Cannonball
+            release_date: '1993-08-09'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:1syQ3F5kKN1JdqF6fbDMDc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp
+            href: https://api.spotify.com/v1/artists/1xgFexIwrf2QjbU0buCNnp
+            id: 1xgFexIwrf2QjbU0buCNnp
+            name: The Breeders
+            type: artist
+            uri: spotify:artist:1xgFexIwrf2QjbU0buCNnp
+          disc_number: 1
+          duration_ms: 267066
+          explicit: false
+          external_ids:
+            isrc: GBAFL9300127
+          external_urls:
+            spotify: https://open.spotify.com/track/31VH3U3V00ivBHt6iG7Q0c
+          href: https://api.spotify.com/v1/tracks/31VH3U3V00ivBHt6iG7Q0c
+          id: 31VH3U3V00ivBHt6iG7Q0c
+          is_local: false
+          is_playable: true
+          name: '900'
+          track_number: 4
+          type: track
+          uri: spotify:track:31VH3U3V00ivBHt6iG7Q0c
+    isrc: GBAFL9300127

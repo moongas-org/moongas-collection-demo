@@ -34,3 +34,180 @@ mediaFileData:
   year: 2018
   duration: 190.99931972789116
   modTime: 2023-05-30 11:13:00+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2VeN8QhJEjzaI639qKEyBb
+    trackId: 2VeN8QhJEjzaI639qKEyBb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGB5EM1701747&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+              href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+              id: 2mVVjNmdjXZZDvhgQWiakk
+              name: Khruangbin
+              type: artist
+              uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+            external_urls:
+              spotify: https://open.spotify.com/album/1pLpoKKOOY0PhsMVOFQ2wG
+            href: https://api.spotify.com/v1/albums/1pLpoKKOOY0PhsMVOFQ2wG
+            id: 1pLpoKKOOY0PhsMVOFQ2wG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cbafb879e58c9a9b8bc303f7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cbafb879e58c9a9b8bc303f7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cbafb879e58c9a9b8bc303f7
+            is_playable: true
+            name: Maria También
+            release_date: '2017-11-02'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:1pLpoKKOOY0PhsMVOFQ2wG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+            href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+            id: 2mVVjNmdjXZZDvhgQWiakk
+            name: Khruangbin
+            type: artist
+            uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+          disc_number: 1
+          duration_ms: 190999
+          explicit: false
+          external_ids:
+            isrc: GB5EM1701747
+          external_urls:
+            spotify: https://open.spotify.com/track/2VeN8QhJEjzaI639qKEyBb
+          href: https://api.spotify.com/v1/tracks/2VeN8QhJEjzaI639qKEyBb
+          id: 2VeN8QhJEjzaI639qKEyBb
+          is_local: false
+          is_playable: true
+          name: Maria También
+          track_number: 1
+          type: track
+          uri: spotify:track:2VeN8QhJEjzaI639qKEyBb
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+              href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+              id: 2mVVjNmdjXZZDvhgQWiakk
+              name: Khruangbin
+              type: artist
+              uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+            external_urls:
+              spotify: https://open.spotify.com/album/2JwR2WxawYeb6IRZYRyvPz
+            href: https://api.spotify.com/v1/albums/2JwR2WxawYeb6IRZYRyvPz
+            id: 2JwR2WxawYeb6IRZYRyvPz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27349a833fac1de9e2d83eee828
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0249a833fac1de9e2d83eee828
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485149a833fac1de9e2d83eee828
+            is_playable: true
+            name: Maria También
+            release_date: '2017-11-02'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:2JwR2WxawYeb6IRZYRyvPz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+            href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+            id: 2mVVjNmdjXZZDvhgQWiakk
+            name: Khruangbin
+            type: artist
+            uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+          disc_number: 1
+          duration_ms: 190999
+          explicit: false
+          external_ids:
+            isrc: GB5EM1701747
+          external_urls:
+            spotify: https://open.spotify.com/track/2lnMkRYy9jqoGxp6MkAl5B
+          href: https://api.spotify.com/v1/tracks/2lnMkRYy9jqoGxp6MkAl5B
+          id: 2lnMkRYy9jqoGxp6MkAl5B
+          is_local: false
+          is_playable: true
+          name: Maria También
+          track_number: 1
+          type: track
+          uri: spotify:track:2lnMkRYy9jqoGxp6MkAl5B
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+              href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+              id: 2mVVjNmdjXZZDvhgQWiakk
+              name: Khruangbin
+              type: artist
+              uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+            external_urls:
+              spotify: https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml
+            href: https://api.spotify.com/v1/albums/7hTmy5ipq0ieK4DZZqaxml
+            id: 7hTmy5ipq0ieK4DZZqaxml
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730ca7bead7475b08329e7820e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020ca7bead7475b08329e7820e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510ca7bead7475b08329e7820e
+            is_playable: true
+            name: Con Todo El Mundo
+            release_date: '2018-01-26'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7hTmy5ipq0ieK4DZZqaxml
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+            href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+            id: 2mVVjNmdjXZZDvhgQWiakk
+            name: Khruangbin
+            type: artist
+            uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+          disc_number: 1
+          duration_ms: 190999
+          explicit: false
+          external_ids:
+            isrc: GB5EM1701747
+          external_urls:
+            spotify: https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X
+          href: https://api.spotify.com/v1/tracks/3CT4U4jJEagjIHg5PPph8X
+          id: 3CT4U4jJEagjIHg5PPph8X
+          is_local: false
+          is_playable: true
+          name: Maria También
+          track_number: 3
+          type: track
+          uri: spotify:track:3CT4U4jJEagjIHg5PPph8X
+    isrc: GB5EM1701747

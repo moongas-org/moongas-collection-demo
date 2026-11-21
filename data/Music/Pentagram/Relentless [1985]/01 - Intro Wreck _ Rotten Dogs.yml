@@ -34,3 +34,72 @@ mediaFileData:
   year: 1985
   duration: 295.224
   modTime: 2025-07-10 20:30:16.988026+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5r8e6udIzk2k3eguMMT13V
+    trackId: 5r8e6udIzk2k3eguMMT13V
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ATR2180706202&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7
+              href: https://api.spotify.com/v1/artists/1Xz8iP9Dvl5uI88iraOhs7
+              id: 1Xz8iP9Dvl5uI88iraOhs7
+              name: Pentagram
+              type: artist
+              uri: spotify:artist:1Xz8iP9Dvl5uI88iraOhs7
+            external_urls:
+              spotify: https://open.spotify.com/album/6kew1SenblBvXFm6rBET3p
+            href: https://api.spotify.com/v1/albums/6kew1SenblBvXFm6rBET3p
+            id: 6kew1SenblBvXFm6rBET3p
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273780d01f904b5d3de3c034b4d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02780d01f904b5d3de3c034b4d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851780d01f904b5d3de3c034b4d
+            is_playable: true
+            name: Pentagram
+            release_date: '1990-04-02'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6kew1SenblBvXFm6rBET3p
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7
+            href: https://api.spotify.com/v1/artists/1Xz8iP9Dvl5uI88iraOhs7
+            id: 1Xz8iP9Dvl5uI88iraOhs7
+            name: Pentagram
+            type: artist
+            uri: spotify:artist:1Xz8iP9Dvl5uI88iraOhs7
+          disc_number: 1
+          duration_ms: 295200
+          explicit: false
+          external_ids:
+            isrc: TR2180706202
+          external_urls:
+            spotify: https://open.spotify.com/track/5r8e6udIzk2k3eguMMT13V
+          href: https://api.spotify.com/v1/tracks/5r8e6udIzk2k3eguMMT13V
+          id: 5r8e6udIzk2k3eguMMT13V
+          is_local: false
+          is_playable: true
+          name: Intro Wreck / Rotten Dogs
+          track_number: 1
+          type: track
+          uri: spotify:track:5r8e6udIzk2k3eguMMT13V
+    isrc: TR2180706202

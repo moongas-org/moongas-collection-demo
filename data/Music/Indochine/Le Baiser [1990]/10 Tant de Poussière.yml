@@ -34,3 +34,72 @@ mediaFileData:
   year: 1990
   duration: 274.808125
   modTime: 2023-07-17 00:00:20+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4cW3L5OvKpzKSZjKhN3WGb
+    trackId: 4cW3L5OvKpzKSZjKhN3WGb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRZ059000210&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+              href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+              id: 7knmbOGe07k85GmK50vACB
+              name: Indochine
+              type: artist
+              uri: spotify:artist:7knmbOGe07k85GmK50vACB
+            external_urls:
+              spotify: https://open.spotify.com/album/6SSLmzLyEUygq7r227NEtu
+            href: https://api.spotify.com/v1/albums/6SSLmzLyEUygq7r227NEtu
+            id: 6SSLmzLyEUygq7r227NEtu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733f24d9e38cedff4872d27cf1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023f24d9e38cedff4872d27cf1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513f24d9e38cedff4872d27cf1
+            is_playable: true
+            name: Le baiser
+            release_date: '1990-02-05'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6SSLmzLyEUygq7r227NEtu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+            href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+            id: 7knmbOGe07k85GmK50vACB
+            name: Indochine
+            type: artist
+            uri: spotify:artist:7knmbOGe07k85GmK50vACB
+          disc_number: 1
+          duration_ms: 274626
+          explicit: false
+          external_ids:
+            isrc: FRZ059000210
+          external_urls:
+            spotify: https://open.spotify.com/track/4cW3L5OvKpzKSZjKhN3WGb
+          href: https://api.spotify.com/v1/tracks/4cW3L5OvKpzKSZjKhN3WGb
+          id: 4cW3L5OvKpzKSZjKhN3WGb
+          is_local: false
+          is_playable: true
+          name: Tant de poussière
+          track_number: 10
+          type: track
+          uri: spotify:track:4cW3L5OvKpzKSZjKhN3WGb
+    isrc: FRZ059000210

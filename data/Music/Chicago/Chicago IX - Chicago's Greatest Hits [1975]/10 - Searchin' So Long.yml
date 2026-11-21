@@ -89,3 +89,72 @@ mediaFileData:
   year: 1975
   duration: 270.91591836734693
   modTime: 2023-10-01 17:32:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6X9AAdGL50tu0HQyBR5sqQ
+    trackId: 6X9AAdGL50tu0HQyBR5sqQ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH10904160&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0
+              href: https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0
+              id: 3iDD7bnsjL9J4fO298r0L0
+              name: Chicago
+              type: artist
+              uri: spotify:artist:3iDD7bnsjL9J4fO298r0L0
+            external_urls:
+              spotify: https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd
+            href: https://api.spotify.com/v1/albums/5qWGV0fd7hpdptJYI4G9Dd
+            id: 5qWGV0fd7hpdptJYI4G9Dd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020ac413b28547dbc45412a3ce
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510ac413b28547dbc45412a3ce
+            is_playable: true
+            name: "Chicago IX: Chicago's Greatest Hits"
+            release_date: '1975-11-10'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5qWGV0fd7hpdptJYI4G9Dd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0
+            href: https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0
+            id: 3iDD7bnsjL9J4fO298r0L0
+            name: Chicago
+            type: artist
+            uri: spotify:artist:3iDD7bnsjL9J4fO298r0L0
+          disc_number: 1
+          duration_ms: 270866
+          explicit: false
+          external_ids:
+            isrc: USRH10904160
+          external_urls:
+            spotify: https://open.spotify.com/track/6X9AAdGL50tu0HQyBR5sqQ
+          href: https://api.spotify.com/v1/tracks/6X9AAdGL50tu0HQyBR5sqQ
+          id: 6X9AAdGL50tu0HQyBR5sqQ
+          is_local: false
+          is_playable: true
+          name: (I've Been) Searchin' so Long
+          track_number: 10
+          type: track
+          uri: spotify:track:6X9AAdGL50tu0HQyBR5sqQ
+    isrc: USRH10904160

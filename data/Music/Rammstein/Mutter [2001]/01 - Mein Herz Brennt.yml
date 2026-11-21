@@ -56,3 +56,126 @@ mediaFileData:
   year: 2001
   duration: 306.25959183673467
   modTime: 2024-02-04 19:25:34.243266+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/46e7PkfrmRa382ctqWdabN
+    trackId: 46e7PkfrmRa382ctqWdabN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEUM71103424&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP
+              href: https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP
+              id: 6wWVKhxIU2cEi0K81v7HvP
+              name: Rammstein
+              type: artist
+              uri: spotify:artist:6wWVKhxIU2cEi0K81v7HvP
+            external_urls:
+              spotify: https://open.spotify.com/album/4xx5rwnW3GzUpxwaUePhzV
+            href: https://api.spotify.com/v1/albums/4xx5rwnW3GzUpxwaUePhzV
+            id: 4xx5rwnW3GzUpxwaUePhzV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e0def000e72e8496081b9600
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e0def000e72e8496081b9600
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e0def000e72e8496081b9600
+            is_playable: true
+            name: Made In Germany 1995 - 2011 (Standard Edition)
+            release_date: '2011-12-02'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4xx5rwnW3GzUpxwaUePhzV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP
+            href: https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP
+            id: 6wWVKhxIU2cEi0K81v7HvP
+            name: Rammstein
+            type: artist
+            uri: spotify:artist:6wWVKhxIU2cEi0K81v7HvP
+          disc_number: 1
+          duration_ms: 279960
+          explicit: false
+          external_ids:
+            isrc: DEUM71103424
+          external_urls:
+            spotify: https://open.spotify.com/track/46e7PkfrmRa382ctqWdabN
+          href: https://api.spotify.com/v1/tracks/46e7PkfrmRa382ctqWdabN
+          id: 46e7PkfrmRa382ctqWdabN
+          is_local: false
+          is_playable: true
+          name: Mein Herz brennt
+          track_number: 8
+          type: track
+          uri: spotify:track:46e7PkfrmRa382ctqWdabN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP
+              href: https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP
+              id: 6wWVKhxIU2cEi0K81v7HvP
+              name: Rammstein
+              type: artist
+              uri: spotify:artist:6wWVKhxIU2cEi0K81v7HvP
+            external_urls:
+              spotify: https://open.spotify.com/album/1fvjGXSNoSPsT7Wtl6BESO
+            href: https://api.spotify.com/v1/albums/1fvjGXSNoSPsT7Wtl6BESO
+            id: 1fvjGXSNoSPsT7Wtl6BESO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b03ff8c30497b9d6fff5e324
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b03ff8c30497b9d6fff5e324
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b03ff8c30497b9d6fff5e324
+            is_playable: true
+            name: Made In Germany 1995 - 2011 (Special Edition)
+            release_date: '2011-12-02'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:1fvjGXSNoSPsT7Wtl6BESO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP
+            href: https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP
+            id: 6wWVKhxIU2cEi0K81v7HvP
+            name: Rammstein
+            type: artist
+            uri: spotify:artist:6wWVKhxIU2cEi0K81v7HvP
+          disc_number: 1
+          duration_ms: 279960
+          explicit: false
+          external_ids:
+            isrc: DEUM71103424
+          external_urls:
+            spotify: https://open.spotify.com/track/1KDgjHgjjDWVBjY9as8AWM
+          href: https://api.spotify.com/v1/tracks/1KDgjHgjjDWVBjY9as8AWM
+          id: 1KDgjHgjjDWVBjY9as8AWM
+          is_local: false
+          is_playable: true
+          name: Mein Herz brennt
+          track_number: 8
+          type: track
+          uri: spotify:track:1KDgjHgjjDWVBjY9as8AWM
+    isrc: DEUM71103424

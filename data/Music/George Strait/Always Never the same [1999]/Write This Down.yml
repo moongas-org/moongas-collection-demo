@@ -77,3 +77,288 @@ mediaFileData:
   year: 1999
   duration: 214.33469387755102
   modTime: 2023-04-12 20:42:05.570000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ZlYu1iSqJENFKSn7xc6NN
+    trackId: 1ZlYu1iSqJENFKSn7xc6NN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC19801464&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMC19801464&type=track
+        offset: 0
+        previous:
+        total: 11
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6Frd37vsqImapXXzi6VeX4
+            href: https://api.spotify.com/v1/albums/6Frd37vsqImapXXzi6VeX4
+            id: 6Frd37vsqImapXXzi6VeX4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27332fd46abb730fe9204e96117
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0232fd46abb730fe9204e96117
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485132fd46abb730fe9204e96117
+            is_playable: true
+            name: 1990's Country Music
+            release_date: '2019-07-12'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:6Frd37vsqImapXXzi6VeX4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+            href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+            id: 5vngPClqofybhPERIqQMYd
+            name: George Strait
+            type: artist
+            uri: spotify:artist:5vngPClqofybhPERIqQMYd
+          disc_number: 1
+          duration_ms: 213306
+          explicit: false
+          external_ids:
+            isrc: USMC19801464
+          external_urls:
+            spotify: https://open.spotify.com/track/1ZlYu1iSqJENFKSn7xc6NN
+          href: https://api.spotify.com/v1/tracks/1ZlYu1iSqJENFKSn7xc6NN
+          id: 1ZlYu1iSqJENFKSn7xc6NN
+          is_local: false
+          is_playable: true
+          name: Write This Down
+          track_number: 4
+          type: track
+          uri: spotify:track:1ZlYu1iSqJENFKSn7xc6NN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+              href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+              id: 5vngPClqofybhPERIqQMYd
+              name: George Strait
+              type: artist
+              uri: spotify:artist:5vngPClqofybhPERIqQMYd
+            external_urls:
+              spotify: https://open.spotify.com/album/2syxP3j7sO6A5NiRPt37H3
+            href: https://api.spotify.com/v1/albums/2syxP3j7sO6A5NiRPt37H3
+            id: 2syxP3j7sO6A5NiRPt37H3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ad7a0ed345fcbcaf9cac377f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ad7a0ed345fcbcaf9cac377f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ad7a0ed345fcbcaf9cac377f
+            is_playable: true
+            name: Best Of (Deluxe Edition)
+            release_date: '2011-01-01'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:2syxP3j7sO6A5NiRPt37H3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+            href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+            id: 5vngPClqofybhPERIqQMYd
+            name: George Strait
+            type: artist
+            uri: spotify:artist:5vngPClqofybhPERIqQMYd
+          disc_number: 2
+          duration_ms: 213306
+          explicit: false
+          external_ids:
+            isrc: USMC19801464
+          external_urls:
+            spotify: https://open.spotify.com/track/5dHTF27CQvA7ktMvytr0Qc
+          href: https://api.spotify.com/v1/tracks/5dHTF27CQvA7ktMvytr0Qc
+          id: 5dHTF27CQvA7ktMvytr0Qc
+          is_local: false
+          is_playable: true
+          name: Write This Down
+          track_number: 5
+          type: track
+          uri: spotify:track:5dHTF27CQvA7ktMvytr0Qc
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+              href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+              id: 5vngPClqofybhPERIqQMYd
+              name: George Strait
+              type: artist
+              uri: spotify:artist:5vngPClqofybhPERIqQMYd
+            external_urls:
+              spotify: https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F
+            href: https://api.spotify.com/v1/albums/2Kudx2lMsMx3svYdb2xe2F
+            id: 2Kudx2lMsMx3svYdb2xe2F
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27309b72b61970ed83b5d304e89
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0209b72b61970ed83b5d304e89
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485109b72b61970ed83b5d304e89
+            is_playable: true
+            name: Always Never The Same
+            release_date: '1999-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2Kudx2lMsMx3svYdb2xe2F
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+            href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+            id: 5vngPClqofybhPERIqQMYd
+            name: George Strait
+            type: artist
+            uri: spotify:artist:5vngPClqofybhPERIqQMYd
+          disc_number: 1
+          duration_ms: 219600
+          explicit: false
+          external_ids:
+            isrc: USMC19801464
+          external_urls:
+            spotify: https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd
+          href: https://api.spotify.com/v1/tracks/1TanmIWbaUj5NVwJ3k4XPd
+          id: 1TanmIWbaUj5NVwJ3k4XPd
+          is_local: false
+          is_playable: true
+          name: Write This Down
+          track_number: 2
+          type: track
+          uri: spotify:track:1TanmIWbaUj5NVwJ3k4XPd
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+              href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+              id: 5vngPClqofybhPERIqQMYd
+              name: George Strait
+              type: artist
+              uri: spotify:artist:5vngPClqofybhPERIqQMYd
+            external_urls:
+              spotify: https://open.spotify.com/album/0fUTBWVkqM9Ai7HV4RnWRd
+            href: https://api.spotify.com/v1/albums/0fUTBWVkqM9Ai7HV4RnWRd
+            id: 0fUTBWVkqM9Ai7HV4RnWRd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27316dfcc9ca7d9ae6977953ef2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0216dfcc9ca7d9ae6977953ef2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485116dfcc9ca7d9ae6977953ef2
+            is_playable: true
+            name: 'Strait Out Of The Box: Part 2'
+            release_date: '2017-12-01'
+            release_date_precision: day
+            total_tracks: 56
+            type: album
+            uri: spotify:album:0fUTBWVkqM9Ai7HV4RnWRd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+            href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+            id: 5vngPClqofybhPERIqQMYd
+            name: George Strait
+            type: artist
+            uri: spotify:artist:5vngPClqofybhPERIqQMYd
+          disc_number: 1
+          duration_ms: 217973
+          explicit: false
+          external_ids:
+            isrc: USMC19801464
+          external_urls:
+            spotify: https://open.spotify.com/track/0NDJ8v9BUxkrvuvurHQaNW
+          href: https://api.spotify.com/v1/tracks/0NDJ8v9BUxkrvuvurHQaNW
+          id: 0NDJ8v9BUxkrvuvurHQaNW
+          is_local: false
+          is_playable: true
+          name: Write This Down
+          track_number: 15
+          type: track
+          uri: spotify:track:0NDJ8v9BUxkrvuvurHQaNW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+              href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+              id: 5vngPClqofybhPERIqQMYd
+              name: George Strait
+              type: artist
+              uri: spotify:artist:5vngPClqofybhPERIqQMYd
+            external_urls:
+              spotify: https://open.spotify.com/album/2CIOi72adKDDQpj9x69qpW
+            href: https://api.spotify.com/v1/albums/2CIOi72adKDDQpj9x69qpW
+            id: 2CIOi72adKDDQpj9x69qpW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27306fec9841583edc9ab861614
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0206fec9841583edc9ab861614
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485106fec9841583edc9ab861614
+            is_playable: true
+            name: 50 Number Ones
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 51
+            type: album
+            uri: spotify:album:2CIOi72adKDDQpj9x69qpW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd
+            href: https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd
+            id: 5vngPClqofybhPERIqQMYd
+            name: George Strait
+            type: artist
+            uri: spotify:artist:5vngPClqofybhPERIqQMYd
+          disc_number: 2
+          duration_ms: 213600
+          explicit: false
+          external_ids:
+            isrc: USMC19801464
+          external_urls:
+            spotify: https://open.spotify.com/track/7B0pKH20bD11jJ89aOo0st
+          href: https://api.spotify.com/v1/tracks/7B0pKH20bD11jJ89aOo0st
+          id: 7B0pKH20bD11jJ89aOo0st
+          is_local: false
+          is_playable: true
+          name: Write This Down
+          track_number: 20
+          type: track
+          uri: spotify:track:7B0pKH20bD11jJ89aOo0st
+    isrc: USMC19801464

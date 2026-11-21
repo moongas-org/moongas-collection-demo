@@ -70,3 +70,180 @@ mediaFileData:
   year: 1998
   duration: 263.1333333333333
   modTime: 2024-02-21 20:48:42.667303+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/39z9TkceodJ6AaQwjdZgDz
+    trackId: 39z9TkceodJ6AaQwjdZgDz
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUR19801027&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF
+              href: https://api.spotify.com/v1/artists/6gZq1Q6bdOxsUPUG1TaFbF
+              id: 6gZq1Q6bdOxsUPUG1TaFbF
+              name: Godsmack
+              type: artist
+              uri: spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF
+            external_urls:
+              spotify: https://open.spotify.com/album/2GCKBhbg94eWyOpH1Pn2Ju
+            href: https://api.spotify.com/v1/albums/2GCKBhbg94eWyOpH1Pn2Ju
+            id: 2GCKBhbg94eWyOpH1Pn2Ju
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739064225887ad71c7d2986e81
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029064225887ad71c7d2986e81
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519064225887ad71c7d2986e81
+            is_playable: true
+            name: Godsmack
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2GCKBhbg94eWyOpH1Pn2Ju
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF
+            href: https://api.spotify.com/v1/artists/6gZq1Q6bdOxsUPUG1TaFbF
+            id: 6gZq1Q6bdOxsUPUG1TaFbF
+            name: Godsmack
+            type: artist
+            uri: spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF
+          disc_number: 1
+          duration_ms: 263466
+          explicit: true
+          external_ids:
+            isrc: USUR19801027
+          external_urls:
+            spotify: https://open.spotify.com/track/39z9TkceodJ6AaQwjdZgDz
+          href: https://api.spotify.com/v1/tracks/39z9TkceodJ6AaQwjdZgDz
+          id: 39z9TkceodJ6AaQwjdZgDz
+          is_local: false
+          is_playable: true
+          name: Moon Baby
+          track_number: 1
+          type: track
+          uri: spotify:track:39z9TkceodJ6AaQwjdZgDz
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF
+              href: https://api.spotify.com/v1/artists/6gZq1Q6bdOxsUPUG1TaFbF
+              id: 6gZq1Q6bdOxsUPUG1TaFbF
+              name: Godsmack
+              type: artist
+              uri: spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF
+            external_urls:
+              spotify: https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM
+            href: https://api.spotify.com/v1/albums/1w7vC8hjYXhK1fS5cM2fUM
+            id: 1w7vC8hjYXhK1fS5cM2fUM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27382a891641608e2f2d6c3a8b8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0282a891641608e2f2d6c3a8b8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485182a891641608e2f2d6c3a8b8
+            is_playable: true
+            name: Godsmack
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1w7vC8hjYXhK1fS5cM2fUM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF
+            href: https://api.spotify.com/v1/artists/6gZq1Q6bdOxsUPUG1TaFbF
+            id: 6gZq1Q6bdOxsUPUG1TaFbF
+            name: Godsmack
+            type: artist
+            uri: spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF
+          disc_number: 1
+          duration_ms: 263133
+          explicit: true
+          external_ids:
+            isrc: USUR19801027
+          external_urls:
+            spotify: https://open.spotify.com/track/7fujLGyPh3b45OwjFhlQ8Q
+          href: https://api.spotify.com/v1/tracks/7fujLGyPh3b45OwjFhlQ8Q
+          id: 7fujLGyPh3b45OwjFhlQ8Q
+          is_local: false
+          is_playable: true
+          name: Moon Baby
+          track_number: 1
+          type: track
+          uri: spotify:track:7fujLGyPh3b45OwjFhlQ8Q
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6h3pxzEtHUExhGeJj3L6HS
+            href: https://api.spotify.com/v1/albums/6h3pxzEtHUExhGeJj3L6HS
+            id: 6h3pxzEtHUExhGeJj3L6HS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738aba1e0f721f07e4423bc935
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028aba1e0f721f07e4423bc935
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518aba1e0f721f07e4423bc935
+            is_playable: true
+            name: Scream Halloween
+            release_date: '2022-09-30'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:6h3pxzEtHUExhGeJj3L6HS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF
+            href: https://api.spotify.com/v1/artists/6gZq1Q6bdOxsUPUG1TaFbF
+            id: 6gZq1Q6bdOxsUPUG1TaFbF
+            name: Godsmack
+            type: artist
+            uri: spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF
+          disc_number: 1
+          duration_ms: 263466
+          explicit: true
+          external_ids:
+            isrc: USUR19801027
+          external_urls:
+            spotify: https://open.spotify.com/track/0j8khg21tRBsjHk63QuIlp
+          href: https://api.spotify.com/v1/tracks/0j8khg21tRBsjHk63QuIlp
+          id: 0j8khg21tRBsjHk63QuIlp
+          is_local: false
+          is_playable: true
+          name: Moon Baby
+          track_number: 13
+          type: track
+          uri: spotify:track:0j8khg21tRBsjHk63QuIlp
+    isrc: USUR19801027

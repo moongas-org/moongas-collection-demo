@@ -45,3 +45,126 @@ mediaFileData:
   year: 1970
   duration: 356.592
   modTime: 2025-01-09 21:55:36.061379+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1BJxpYqRFEM7zZDF3eFCVw
+    trackId: 1BJxpYqRFEM7zZDF3eFCVw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQT53P2600045&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+              href: https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru
+              id: 450o9jw6AtiQlQkHCdH6Ru
+              name: Funkadelic
+              type: artist
+              uri: spotify:artist:450o9jw6AtiQlQkHCdH6Ru
+            external_urls:
+              spotify: https://open.spotify.com/album/2WT6cA1XaUcOInlqfp82Pe
+            href: https://api.spotify.com/v1/albums/2WT6cA1XaUcOInlqfp82Pe
+            id: 2WT6cA1XaUcOInlqfp82Pe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273783b53c5c6ee73631c74994e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02783b53c5c6ee73631c74994e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851783b53c5c6ee73631c74994e
+            is_playable: true
+            name: I Wanna Know If It's Good To You? (2026 Remastered)
+            release_date: '2026-03-03'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:2WT6cA1XaUcOInlqfp82Pe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+            href: https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru
+            id: 450o9jw6AtiQlQkHCdH6Ru
+            name: Funkadelic
+            type: artist
+            uri: spotify:artist:450o9jw6AtiQlQkHCdH6Ru
+          disc_number: 1
+          duration_ms: 361120
+          explicit: false
+          external_ids:
+            isrc: QT53P2600045
+          external_urls:
+            spotify: https://open.spotify.com/track/1BJxpYqRFEM7zZDF3eFCVw
+          href: https://api.spotify.com/v1/tracks/1BJxpYqRFEM7zZDF3eFCVw
+          id: 1BJxpYqRFEM7zZDF3eFCVw
+          is_local: false
+          is_playable: true
+          name: I Wanna Know If It's Good To You? - 2026 Remastered
+          track_number: 1
+          type: track
+          uri: spotify:track:1BJxpYqRFEM7zZDF3eFCVw
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+              href: https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru
+              id: 450o9jw6AtiQlQkHCdH6Ru
+              name: Funkadelic
+              type: artist
+              uri: spotify:artist:450o9jw6AtiQlQkHCdH6Ru
+            external_urls:
+              spotify: https://open.spotify.com/album/7ctmeylz2tRa59h1LbtPdn
+            href: https://api.spotify.com/v1/albums/7ctmeylz2tRa59h1LbtPdn
+            id: 7ctmeylz2tRa59h1LbtPdn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b17cd2381c0c557498ffaeef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b17cd2381c0c557498ffaeef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b17cd2381c0c557498ffaeef
+            is_playable: true
+            name: Free Your Mind And Your Ass Will Follow (2026 Remastered)
+            release_date: '2026-05-01'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:7ctmeylz2tRa59h1LbtPdn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+            href: https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru
+            id: 450o9jw6AtiQlQkHCdH6Ru
+            name: Funkadelic
+            type: artist
+            uri: spotify:artist:450o9jw6AtiQlQkHCdH6Ru
+          disc_number: 1
+          duration_ms: 361120
+          explicit: false
+          external_ids:
+            isrc: QT53P2600045
+          external_urls:
+            spotify: https://open.spotify.com/track/4km6IC25ReXUJ8bnuddyDB
+          href: https://api.spotify.com/v1/tracks/4km6IC25ReXUJ8bnuddyDB
+          id: 4km6IC25ReXUJ8bnuddyDB
+          is_local: false
+          is_playable: true
+          name: I Wanna Know If It's Good To You? - 2026 Remastered
+          track_number: 4
+          type: track
+          uri: spotify:track:4km6IC25ReXUJ8bnuddyDB
+    isrc: QT53P2600045

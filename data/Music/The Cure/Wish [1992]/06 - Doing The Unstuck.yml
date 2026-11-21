@@ -58,3 +58,126 @@ mediaFileData:
   year: 1992
   duration: 264.672
   modTime: 2024-11-01 19:04:24.005359+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0DZOSjJxzPrpLnSmpEtZuK
+    trackId: 0DZOSjJxzPrpLnSmpEtZuK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10180266&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2d2D54CJFOGG8Q98jJ6tTa
+            href: https://api.spotify.com/v1/albums/2d2D54CJFOGG8Q98jJ6tTa
+            id: 2d2D54CJFOGG8Q98jJ6tTa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734a3698434a416c0b88b026cd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024a3698434a416c0b88b026cd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514a3698434a416c0b88b026cd
+            is_playable: true
+            name: Pop
+            release_date: '2023-12-01'
+            release_date_precision: day
+            total_tracks: 75
+            type: album
+            uri: spotify:album:2d2D54CJFOGG8Q98jJ6tTa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 262026
+          explicit: false
+          external_ids:
+            isrc: USEE10180266
+          external_urls:
+            spotify: https://open.spotify.com/track/0DZOSjJxzPrpLnSmpEtZuK
+          href: https://api.spotify.com/v1/tracks/0DZOSjJxzPrpLnSmpEtZuK
+          id: 0DZOSjJxzPrpLnSmpEtZuK
+          is_local: false
+          is_playable: true
+          name: Doing the Unstuck
+          track_number: 13
+          type: track
+          uri: spotify:track:0DZOSjJxzPrpLnSmpEtZuK
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu
+            href: https://api.spotify.com/v1/albums/3x1CmNdXWU0DzpTZXFFRZu
+            id: 3x1CmNdXWU0DzpTZXFFRZu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d9613cde07a49c85e972bc9a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d9613cde07a49c85e972bc9a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d9613cde07a49c85e972bc9a
+            is_playable: true
+            name: Wish
+            release_date: '1992-04-21'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3x1CmNdXWU0DzpTZXFFRZu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 262026
+          explicit: false
+          external_ids:
+            isrc: USEE10180266
+          external_urls:
+            spotify: https://open.spotify.com/track/4RzI4cQpnS5rQH8ZeFRlgr
+          href: https://api.spotify.com/v1/tracks/4RzI4cQpnS5rQH8ZeFRlgr
+          id: 4RzI4cQpnS5rQH8ZeFRlgr
+          is_local: false
+          is_playable: true
+          name: Doing the Unstuck
+          track_number: 6
+          type: track
+          uri: spotify:track:4RzI4cQpnS5rQH8ZeFRlgr
+    isrc: USEE10180266

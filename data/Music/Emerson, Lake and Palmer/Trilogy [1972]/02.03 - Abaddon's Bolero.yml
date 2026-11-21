@@ -79,3 +79,72 @@ mediaFileData:
   year: 1972
   duration: 485.688
   modTime: 2024-02-25 13:21:36.717324+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3sJhqpjMTAX22hE02sijR9
+    trackId: 3sJhqpjMTAX22hE02sijR9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBARL1401379&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+              href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+              id: 0nCiidE5GgDrc5kWN3NZgZ
+              name: Emerson, Lake & Palmer
+              type: artist
+              uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+            external_urls:
+              spotify: https://open.spotify.com/album/6QDBrwmIumPL05ioA3ZXsH
+            href: https://api.spotify.com/v1/albums/6QDBrwmIumPL05ioA3ZXsH
+            id: 6QDBrwmIumPL05ioA3ZXsH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a436626c69352dbc0e30d545
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a436626c69352dbc0e30d545
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a436626c69352dbc0e30d545
+            is_playable: true
+            name: Trilogy (Deluxe)
+            release_date: '1972-07-06'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:6QDBrwmIumPL05ioA3ZXsH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+            href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+            id: 0nCiidE5GgDrc5kWN3NZgZ
+            name: Emerson, Lake & Palmer
+            type: artist
+            uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+          disc_number: 1
+          duration_ms: 494199
+          explicit: false
+          external_ids:
+            isrc: GBARL1401379
+          external_urls:
+            spotify: https://open.spotify.com/track/3sJhqpjMTAX22hE02sijR9
+          href: https://api.spotify.com/v1/tracks/3sJhqpjMTAX22hE02sijR9
+          id: 3sJhqpjMTAX22hE02sijR9
+          is_local: false
+          is_playable: true
+          name: Abaddon's Bolero - New Stereo Mix
+          track_number: 19
+          type: track
+          uri: spotify:track:3sJhqpjMTAX22hE02sijR9
+    isrc: GBARL1401379

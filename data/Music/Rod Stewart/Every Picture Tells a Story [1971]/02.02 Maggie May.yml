@@ -115,3 +115,72 @@ mediaFileData:
   year: 1971
   duration: 297.4
   modTime: 2024-01-04 01:27:25.864572+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6aSatN4mgy55H0cOFADoaD
+    trackId: 6aSatN4mgy55H0cOFADoaD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM70601928&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1itk3bnHuAYdCVDUvvMgdi
+            href: https://api.spotify.com/v1/albums/1itk3bnHuAYdCVDUvvMgdi
+            id: 1itk3bnHuAYdCVDUvvMgdi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27390957af6c6e8489aebcd5416
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0290957af6c6e8489aebcd5416
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485190957af6c6e8489aebcd5416
+            is_playable: true
+            name: Himnos para cantar a grito herido
+            release_date: '2023-06-06'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:1itk3bnHuAYdCVDUvvMgdi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT
+            href: https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT
+            id: 2y8Jo9CKhJvtfeKOsYzRdT
+            name: Rod Stewart
+            type: artist
+            uri: spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT
+          disc_number: 1
+          duration_ms: 345813
+          explicit: false
+          external_ids:
+            isrc: USUM70601928
+          external_urls:
+            spotify: https://open.spotify.com/track/6aSatN4mgy55H0cOFADoaD
+          href: https://api.spotify.com/v1/tracks/6aSatN4mgy55H0cOFADoaD
+          id: 6aSatN4mgy55H0cOFADoaD
+          is_local: false
+          is_playable: true
+          name: Maggie May
+          track_number: 2
+          type: track
+          uri: spotify:track:6aSatN4mgy55H0cOFADoaD
+    isrc: USUM70601928

@@ -123,3 +123,72 @@ mediaFileData:
   year: 1988
   duration: 275.27836734693875
   modTime: 2024-03-09 22:07:10.868283+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/00pGaOhIq27ToaysOlbIGW
+    trackId: 00pGaOhIq27ToaysOlbIGW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRHD0900197&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50
+              href: https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50
+              id: 3CkvROUTQ6nRi9yQOcsB50
+              name: Genesis
+              type: artist
+              uri: spotify:artist:3CkvROUTQ6nRi9yQOcsB50
+            external_urls:
+              spotify: https://open.spotify.com/album/2ORdvAqSQMCTd9ynNg5krw
+            href: https://api.spotify.com/v1/albums/2ORdvAqSQMCTd9ynNg5krw
+            id: 2ORdvAqSQMCTd9ynNg5krw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b1380068bf3d8fa619823dfc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b1380068bf3d8fa619823dfc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b1380068bf3d8fa619823dfc
+            is_playable: true
+            name: 'Turn It on Again: The Hits'
+            release_date: '1999-10-25'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:2ORdvAqSQMCTd9ynNg5krw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50
+            href: https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50
+            id: 3CkvROUTQ6nRi9yQOcsB50
+            name: Genesis
+            type: artist
+            uri: spotify:artist:3CkvROUTQ6nRi9yQOcsB50
+          disc_number: 1
+          duration_ms: 264426
+          explicit: false
+          external_ids:
+            isrc: USRHD0900197
+          external_urls:
+            spotify: https://open.spotify.com/track/00pGaOhIq27ToaysOlbIGW
+          href: https://api.spotify.com/v1/tracks/00pGaOhIq27ToaysOlbIGW
+          id: 00pGaOhIq27ToaysOlbIGW
+          is_local: false
+          is_playable: true
+          name: That's All
+          track_number: 15
+          type: track
+          uri: spotify:track:00pGaOhIq27ToaysOlbIGW
+    isrc: USRHD0900197

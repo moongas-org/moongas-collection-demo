@@ -167,3 +167,126 @@ mediaFileData:
   year: 1993
   duration: 227.76
   modTime: 2025-01-09 21:34:59.064264+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3g1RcxR5cwHeYSPncPzdRi
+    trackId: 3g1RcxR5cwHeYSPncPzdRi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71605861&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s
+              href: https://api.spotify.com/v1/artists/23IZADrJHPStZ6aMxJVq3s
+              id: 23IZADrJHPStZ6aMxJVq3s
+              name: Jarryd James
+              type: artist
+              uri: spotify:artist:23IZADrJHPStZ6aMxJVq3s
+            external_urls:
+              spotify: https://open.spotify.com/album/44ArZIOrM8j3MzGjs3MUSg
+            href: https://api.spotify.com/v1/albums/44ArZIOrM8j3MzGjs3MUSg
+            id: 44ArZIOrM8j3MzGjs3MUSg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372ed30080466f2ce88ba2602
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272ed30080466f2ce88ba2602
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172ed30080466f2ce88ba2602
+            is_playable: true
+            name: High
+            release_date: '2016-07-29'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:44ArZIOrM8j3MzGjs3MUSg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s
+            href: https://api.spotify.com/v1/artists/23IZADrJHPStZ6aMxJVq3s
+            id: 23IZADrJHPStZ6aMxJVq3s
+            name: Jarryd James
+            type: artist
+            uri: spotify:artist:23IZADrJHPStZ6aMxJVq3s
+          disc_number: 1
+          duration_ms: 264413
+          explicit: false
+          external_ids:
+            isrc: USUM71605861
+          external_urls:
+            spotify: https://open.spotify.com/track/3g1RcxR5cwHeYSPncPzdRi
+          href: https://api.spotify.com/v1/tracks/3g1RcxR5cwHeYSPncPzdRi
+          id: 3g1RcxR5cwHeYSPncPzdRi
+          is_local: false
+          is_playable: true
+          name: How Do We Make It
+          track_number: 2
+          type: track
+          uri: spotify:track:3g1RcxR5cwHeYSPncPzdRi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6BX3TAr9l2T65INfgaK1wt
+            href: https://api.spotify.com/v1/albums/6BX3TAr9l2T65INfgaK1wt
+            id: 6BX3TAr9l2T65INfgaK1wt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738b95c84d23b15ef79ee85c14
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028b95c84d23b15ef79ee85c14
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518b95c84d23b15ef79ee85c14
+            is_playable: true
+            name: Study Music
+            release_date: '2017-10-06'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:6BX3TAr9l2T65INfgaK1wt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s
+            href: https://api.spotify.com/v1/artists/23IZADrJHPStZ6aMxJVq3s
+            id: 23IZADrJHPStZ6aMxJVq3s
+            name: Jarryd James
+            type: artist
+            uri: spotify:artist:23IZADrJHPStZ6aMxJVq3s
+          disc_number: 1
+          duration_ms: 264561
+          explicit: false
+          external_ids:
+            isrc: USUM71605861
+          external_urls:
+            spotify: https://open.spotify.com/track/7a0C3wipfJzNZA5GZ4IYcR
+          href: https://api.spotify.com/v1/tracks/7a0C3wipfJzNZA5GZ4IYcR
+          id: 7a0C3wipfJzNZA5GZ4IYcR
+          is_local: false
+          is_playable: true
+          name: How Do We Make It
+          track_number: 27
+          type: track
+          uri: spotify:track:7a0C3wipfJzNZA5GZ4IYcR
+    isrc: USUM71605861

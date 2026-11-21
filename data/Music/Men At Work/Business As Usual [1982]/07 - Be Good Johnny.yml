@@ -64,3 +64,72 @@ mediaFileData:
   year: 1982
   duration: 217.46938775510205
   modTime: 2024-10-05 22:42:06.264130+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/11Hzn4toShJ4U57Jrj4H0y
+    trackId: 11Hzn4toShJ4U57Jrj4H0y
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM18100059&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+              href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+              id: 0f3EsoviYnRKTkmayI3cux
+              name: Men At Work
+              type: artist
+              uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+            external_urls:
+              spotify: https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy
+            href: https://api.spotify.com/v1/albums/6GYIy1SuhPDrugCZ5yNeQy
+            id: 6GYIy1SuhPDrugCZ5yNeQy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d6a1f7a12629154fa274631f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d6a1f7a12629154fa274631f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d6a1f7a12629154fa274631f
+            is_playable: true
+            name: 'The Best Of Men At Work: Contraband'
+            release_date: '1996-02-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:6GYIy1SuhPDrugCZ5yNeQy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+            href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+            id: 0f3EsoviYnRKTkmayI3cux
+            name: Men At Work
+            type: artist
+            uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+          disc_number: 1
+          duration_ms: 213573
+          explicit: false
+          external_ids:
+            isrc: USSM18100059
+          external_urls:
+            spotify: https://open.spotify.com/track/11Hzn4toShJ4U57Jrj4H0y
+          href: https://api.spotify.com/v1/tracks/11Hzn4toShJ4U57Jrj4H0y
+          id: 11Hzn4toShJ4U57Jrj4H0y
+          is_local: false
+          is_playable: true
+          name: Be Good Johnny
+          track_number: 11
+          type: track
+          uri: spotify:track:11Hzn4toShJ4U57Jrj4H0y
+    isrc: USSM18100059
