@@ -47,3 +47,72 @@ mediaFileData:
   year: 1996
   duration: 289.56
   modTime: 2024-11-01 19:09:49.762140+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1GCK667RCsEzBlxk0ht2L8
+    trackId: 1GCK667RCsEzBlxk0ht2L8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10181302&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/69XNTota6w88wrLZt4AX9n
+            href: https://api.spotify.com/v1/albums/69XNTota6w88wrLZt4AX9n
+            id: 69XNTota6w88wrLZt4AX9n
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732c453181005423b9ea3daa6b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022c453181005423b9ea3daa6b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512c453181005423b9ea3daa6b
+            is_playable: true
+            name: Wild Mood Swings
+            release_date: '1996-05-06'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:69XNTota6w88wrLZt4AX9n
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 289533
+          explicit: false
+          external_ids:
+            isrc: USEE10181302
+          external_urls:
+            spotify: https://open.spotify.com/track/1GCK667RCsEzBlxk0ht2L8
+          href: https://api.spotify.com/v1/tracks/1GCK667RCsEzBlxk0ht2L8
+          id: 1GCK667RCsEzBlxk0ht2L8
+          is_local: false
+          is_playable: true
+          name: Numb
+          track_number: 10
+          type: track
+          uri: spotify:track:1GCK667RCsEzBlxk0ht2L8
+    isrc: USEE10181302

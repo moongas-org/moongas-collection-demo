@@ -115,3 +115,180 @@ mediaFileData:
   year: 1967
   duration: 185.4
   modTime: 2023-04-23 15:00:42.690000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r
+    trackId: 0ja1dJM5gBTjk5U9wsMP9r
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE19900739&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+              href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+              id: 22WZ7M8sxp5THdruNY3gXt
+              name: The Doors
+              type: artist
+              uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+            external_urls:
+              spotify: https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf
+            href: https://api.spotify.com/v1/albums/6v5IVMmY1IvWtbfnQoiFSf
+            id: 6v5IVMmY1IvWtbfnQoiFSf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bf2970ff212e11093844fbea
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bf2970ff212e11093844fbea
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bf2970ff212e11093844fbea
+            is_playable: true
+            name: Strange Days
+            release_date: '1967-09-25'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6v5IVMmY1IvWtbfnQoiFSf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+            href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+            id: 22WZ7M8sxp5THdruNY3gXt
+            name: The Doors
+            type: artist
+            uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+          disc_number: 1
+          duration_ms: 181346
+          explicit: false
+          external_ids:
+            isrc: USEE19900739
+          external_urls:
+            spotify: https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r
+          href: https://api.spotify.com/v1/tracks/0ja1dJM5gBTjk5U9wsMP9r
+          id: 0ja1dJM5gBTjk5U9wsMP9r
+          is_local: false
+          is_playable: true
+          name: Moonlight Drive
+          track_number: 6
+          type: track
+          uri: spotify:track:0ja1dJM5gBTjk5U9wsMP9r
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+              href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+              id: 22WZ7M8sxp5THdruNY3gXt
+              name: The Doors
+              type: artist
+              uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+            external_urls:
+              spotify: https://open.spotify.com/album/3uzVcZbBJB7Q02eUB2Bc6x
+            href: https://api.spotify.com/v1/albums/3uzVcZbBJB7Q02eUB2Bc6x
+            id: 3uzVcZbBJB7Q02eUB2Bc6x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733a0a531e43e9ba8bb7c434ed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023a0a531e43e9ba8bb7c434ed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513a0a531e43e9ba8bb7c434ed
+            is_playable: true
+            name: The Platinum Collection
+            release_date: '2008-07-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:3uzVcZbBJB7Q02eUB2Bc6x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+            href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+            id: 22WZ7M8sxp5THdruNY3gXt
+            name: The Doors
+            type: artist
+            uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+          disc_number: 1
+          duration_ms: 181346
+          explicit: false
+          external_ids:
+            isrc: USEE19900739
+          external_urls:
+            spotify: https://open.spotify.com/track/1cmXhcRp54Mhopd1INvHOf
+          href: https://api.spotify.com/v1/tracks/1cmXhcRp54Mhopd1INvHOf
+          id: 1cmXhcRp54Mhopd1INvHOf
+          is_local: false
+          is_playable: true
+          name: Moonlight Drive
+          track_number: 1
+          type: track
+          uri: spotify:track:1cmXhcRp54Mhopd1INvHOf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1GO3WCNwERD4C23fcbtUs9
+            href: https://api.spotify.com/v1/albums/1GO3WCNwERD4C23fcbtUs9
+            id: 1GO3WCNwERD4C23fcbtUs9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273898b34d106b28ba63a7a8d86
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02898b34d106b28ba63a7a8d86
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851898b34d106b28ba63a7a8d86
+            is_playable: true
+            name: Slide Guitar Heaven
+            release_date: '2023-12-16'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:1GO3WCNwERD4C23fcbtUs9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+            href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+            id: 22WZ7M8sxp5THdruNY3gXt
+            name: The Doors
+            type: artist
+            uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+          disc_number: 1
+          duration_ms: 181346
+          explicit: false
+          external_ids:
+            isrc: USEE19900739
+          external_urls:
+            spotify: https://open.spotify.com/track/3L6WeRVhKiEeHtwh7QiWQp
+          href: https://api.spotify.com/v1/tracks/3L6WeRVhKiEeHtwh7QiWQp
+          id: 3L6WeRVhKiEeHtwh7QiWQp
+          is_local: false
+          is_playable: true
+          name: Moonlight Drive
+          track_number: 20
+          type: track
+          uri: spotify:track:3L6WeRVhKiEeHtwh7QiWQp
+    isrc: USEE19900739

@@ -58,3 +58,72 @@ mediaFileData:
   year: 1971
   duration: 255.32079166666668
   modTime: 2023-05-14 14:14:03.780000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/03KInBqi0mGqFRuvJuCIUo
+    trackId: 03KInBqi0mGqFRuvJuCIUo
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCTX1500279&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+              href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+              id: 7M1FPw29m5FbicYzS2xdpi
+              name: King Crimson
+              type: artist
+              uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+            external_urls:
+              spotify: https://open.spotify.com/album/1XA1L26tFXDVTYqYtnFFnv
+            href: https://api.spotify.com/v1/albums/1XA1L26tFXDVTYqYtnFFnv
+            id: 1XA1L26tFXDVTYqYtnFFnv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e6dd02aa5f2f1b67badd885c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e6dd02aa5f2f1b67badd885c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e6dd02aa5f2f1b67badd885c
+            is_playable: true
+            name: Islands
+            release_date: '1971-12-03'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:1XA1L26tFXDVTYqYtnFFnv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+            href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+            id: 7M1FPw29m5FbicYzS2xdpi
+            name: King Crimson
+            type: artist
+            uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+          disc_number: 1
+          duration_ms: 255063
+          explicit: false
+          external_ids:
+            isrc: GBCTX1500279
+          external_urls:
+            spotify: https://open.spotify.com/track/03KInBqi0mGqFRuvJuCIUo
+          href: https://api.spotify.com/v1/tracks/03KInBqi0mGqFRuvJuCIUo
+          id: 03KInBqi0mGqFRuvJuCIUo
+          is_local: false
+          is_playable: true
+          name: Prelude - Song Of The Gulls
+          track_number: 5
+          type: track
+          uri: spotify:track:03KInBqi0mGqFRuvJuCIUo
+    isrc: GBCTX1500279

@@ -51,3 +51,288 @@ mediaFileData:
   year: 1992
   duration: 221.064
   modTime: 2024-02-04 16:00:38.703156+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5nCGL8CH447xqrAYEczST1
+    trackId: 5nCGL8CH447xqrAYEczST1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC19238619&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMC19238619&type=track
+        offset: 0
+        previous:
+        total: 15
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6Frd37vsqImapXXzi6VeX4
+            href: https://api.spotify.com/v1/albums/6Frd37vsqImapXXzi6VeX4
+            id: 6Frd37vsqImapXXzi6VeX4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27332fd46abb730fe9204e96117
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0232fd46abb730fe9204e96117
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485132fd46abb730fe9204e96117
+            is_playable: true
+            name: 1990's Country Music
+            release_date: '2019-07-12'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:6Frd37vsqImapXXzi6VeX4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 223533
+          explicit: false
+          external_ids:
+            isrc: USMC19238619
+          external_urls:
+            spotify: https://open.spotify.com/track/5nCGL8CH447xqrAYEczST1
+          href: https://api.spotify.com/v1/tracks/5nCGL8CH447xqrAYEczST1
+          id: 5nCGL8CH447xqrAYEczST1
+          is_local: false
+          is_playable: true
+          name: Don't Let Our Love Start Slippin' Away
+          track_number: 11
+          type: track
+          uri: spotify:track:5nCGL8CH447xqrAYEczST1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+              href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+              id: 3IhWQSrLj8EJjdvjFTpCyo
+              name: Vince Gill
+              type: artist
+              uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+            external_urls:
+              spotify: https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM
+            href: https://api.spotify.com/v1/albums/1cudEt9ALkzUNCcGeQX9cM
+            id: 1cudEt9ALkzUNCcGeQX9cM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273660b4e8296145319f40aa4c6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02660b4e8296145319f40aa4c6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851660b4e8296145319f40aa4c6
+            is_playable: true
+            name: Souvenirs
+            release_date: '1995-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1cudEt9ALkzUNCcGeQX9cM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 223533
+          explicit: false
+          external_ids:
+            isrc: USMC19238619
+          external_urls:
+            spotify: https://open.spotify.com/track/70TsRbycWfabtevnripyRu
+          href: https://api.spotify.com/v1/tracks/70TsRbycWfabtevnripyRu
+          id: 70TsRbycWfabtevnripyRu
+          is_local: false
+          is_playable: true
+          name: Don't Let Our Love Start Slippin' Away
+          track_number: 9
+          type: track
+          uri: spotify:track:70TsRbycWfabtevnripyRu
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+              href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+              id: 3IhWQSrLj8EJjdvjFTpCyo
+              name: Vince Gill
+              type: artist
+              uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+            external_urls:
+              spotify: https://open.spotify.com/album/5lsqjYh5bnO0GUSUKHXiZv
+            href: https://api.spotify.com/v1/albums/5lsqjYh5bnO0GUSUKHXiZv
+            id: 5lsqjYh5bnO0GUSUKHXiZv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e4ceaf76deecdf68069238e7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e4ceaf76deecdf68069238e7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e4ceaf76deecdf68069238e7
+            is_playable: true
+            name: '50 Years From Home: End Of The Night'
+            release_date: '2026-04-10'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:5lsqjYh5bnO0GUSUKHXiZv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 224814
+          explicit: false
+          external_ids:
+            isrc: USMC19238619
+          external_urls:
+            spotify: https://open.spotify.com/track/2PNNJ2xVkQwhdAF7ltUe7I
+          href: https://api.spotify.com/v1/tracks/2PNNJ2xVkQwhdAF7ltUe7I
+          id: 2PNNJ2xVkQwhdAF7ltUe7I
+          is_local: false
+          is_playable: true
+          name: Don't Let Our Love Start Slippin' Away
+          track_number: 7
+          type: track
+          uri: spotify:track:2PNNJ2xVkQwhdAF7ltUe7I
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+              href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+              id: 3IhWQSrLj8EJjdvjFTpCyo
+              name: Vince Gill
+              type: artist
+              uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+            external_urls:
+              spotify: https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS
+            href: https://api.spotify.com/v1/albums/6sp6iOY2DhnS0UAUbdZMfS
+            id: 6sp6iOY2DhnS0UAUbdZMfS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fc8c2507067028eea6494628
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fc8c2507067028eea6494628
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fc8c2507067028eea6494628
+            is_playable: true
+            name: I Still Believe In You
+            release_date: '1992-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6sp6iOY2DhnS0UAUbdZMfS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 224800
+          explicit: false
+          external_ids:
+            isrc: USMC19238619
+          external_urls:
+            spotify: https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX
+          href: https://api.spotify.com/v1/tracks/2G6pvEfrwrJZS6NgqS3DqX
+          id: 2G6pvEfrwrJZS6NgqS3DqX
+          is_local: false
+          is_playable: true
+          name: Don't Let Our Love Start Slippin' Away
+          track_number: 1
+          type: track
+          uri: spotify:track:2G6pvEfrwrJZS6NgqS3DqX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4fIcc51eGD6oSvTGwJwU6q
+            href: https://api.spotify.com/v1/albums/4fIcc51eGD6oSvTGwJwU6q
+            id: 4fIcc51eGD6oSvTGwJwU6q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d324c1987ff61d262d651300
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d324c1987ff61d262d651300
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d324c1987ff61d262d651300
+            is_playable: true
+            name: 90s Country
+            release_date: '2019-05-31'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:4fIcc51eGD6oSvTGwJwU6q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 224814
+          explicit: false
+          external_ids:
+            isrc: USMC19238619
+          external_urls:
+            spotify: https://open.spotify.com/track/5O8MmhDzOrFRRHPDkorbJ0
+          href: https://api.spotify.com/v1/tracks/5O8MmhDzOrFRRHPDkorbJ0
+          id: 5O8MmhDzOrFRRHPDkorbJ0
+          is_local: false
+          is_playable: true
+          name: Don't Let Our Love Start Slippin' Away
+          track_number: 8
+          type: track
+          uri: spotify:track:5O8MmhDzOrFRRHPDkorbJ0
+    isrc: USMC19238619

@@ -47,3 +47,234 @@ mediaFileData:
   year: 1974
   duration: 442.296
   modTime: 2024-02-01 00:58:12.873906+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Vi1ECvY7hi6SRkGvtBa6H
+    trackId: 3Vi1ECvY7hi6SRkGvtBa6H
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSE90320595&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+              href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+              id: 59QxeZBL6k9L4oJBGSyukd
+              name: The Marshall Tucker Band
+              type: artist
+              uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+            external_urls:
+              spotify: https://open.spotify.com/album/27Y65bIZSTgqlUnink1Tz4
+            href: https://api.spotify.com/v1/albums/27Y65bIZSTgqlUnink1Tz4
+            id: 27Y65bIZSTgqlUnink1Tz4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730db59655f3a455b2f6891510
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020db59655f3a455b2f6891510
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510db59655f3a455b2f6891510
+            is_playable: true
+            name: 'Anthology: The First 30 Years'
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:27Y65bIZSTgqlUnink1Tz4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+            href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+            id: 59QxeZBL6k9L4oJBGSyukd
+            name: The Marshall Tucker Band
+            type: artist
+            uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+          disc_number: 1
+          duration_ms: 442200
+          explicit: false
+          external_ids:
+            isrc: USSE90320595
+          external_urls:
+            spotify: https://open.spotify.com/track/3Vi1ECvY7hi6SRkGvtBa6H
+          href: https://api.spotify.com/v1/tracks/3Vi1ECvY7hi6SRkGvtBa6H
+          id: 3Vi1ECvY7hi6SRkGvtBa6H
+          is_local: false
+          is_playable: true
+          name: In My Own Way
+          track_number: 9
+          type: track
+          uri: spotify:track:3Vi1ECvY7hi6SRkGvtBa6H
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+              href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+              id: 59QxeZBL6k9L4oJBGSyukd
+              name: The Marshall Tucker Band
+              type: artist
+              uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+            external_urls:
+              spotify: https://open.spotify.com/album/5SHTSnfKw3KKd2E959N7NI
+            href: https://api.spotify.com/v1/albums/5SHTSnfKw3KKd2E959N7NI
+            id: 5SHTSnfKw3KKd2E959N7NI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fdbdb03f89232d8d6993e2b5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fdbdb03f89232d8d6993e2b5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fdbdb03f89232d8d6993e2b5
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2011-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5SHTSnfKw3KKd2E959N7NI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+            href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+            id: 59QxeZBL6k9L4oJBGSyukd
+            name: The Marshall Tucker Band
+            type: artist
+            uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+          disc_number: 1
+          duration_ms: 442200
+          explicit: false
+          external_ids:
+            isrc: USSE90320595
+          external_urls:
+            spotify: https://open.spotify.com/track/2QjxZcIddZ5h2YNP1Ivzaf
+          href: https://api.spotify.com/v1/tracks/2QjxZcIddZ5h2YNP1Ivzaf
+          id: 2QjxZcIddZ5h2YNP1Ivzaf
+          is_local: false
+          is_playable: true
+          name: In My Own Way
+          track_number: 3
+          type: track
+          uri: spotify:track:2QjxZcIddZ5h2YNP1Ivzaf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+              href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+              id: 59QxeZBL6k9L4oJBGSyukd
+              name: The Marshall Tucker Band
+              type: artist
+              uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+            external_urls:
+              spotify: https://open.spotify.com/album/4qRg6ZuanJ2hwH7oMSvWsJ
+            href: https://api.spotify.com/v1/albums/4qRg6ZuanJ2hwH7oMSvWsJ
+            id: 4qRg6ZuanJ2hwH7oMSvWsJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bfca25e364e41a1dcaad15a7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bfca25e364e41a1dcaad15a7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bfca25e364e41a1dcaad15a7
+            is_playable: true
+            name: Love Songs
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4qRg6ZuanJ2hwH7oMSvWsJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+            href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+            id: 59QxeZBL6k9L4oJBGSyukd
+            name: The Marshall Tucker Band
+            type: artist
+            uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+          disc_number: 1
+          duration_ms: 442200
+          explicit: false
+          external_ids:
+            isrc: USSE90320595
+          external_urls:
+            spotify: https://open.spotify.com/track/0zu8rV0Eyjzy1mJAEWzry0
+          href: https://api.spotify.com/v1/tracks/0zu8rV0Eyjzy1mJAEWzry0
+          id: 0zu8rV0Eyjzy1mJAEWzry0
+          is_local: false
+          is_playable: true
+          name: In My Own Way
+          track_number: 4
+          type: track
+          uri: spotify:track:0zu8rV0Eyjzy1mJAEWzry0
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+              href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+              id: 59QxeZBL6k9L4oJBGSyukd
+              name: The Marshall Tucker Band
+              type: artist
+              uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+            external_urls:
+              spotify: https://open.spotify.com/album/6doQtGetvIGCoZrSFRVR70
+            href: https://api.spotify.com/v1/albums/6doQtGetvIGCoZrSFRVR70
+            id: 6doQtGetvIGCoZrSFRVR70
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27314ecd43e0884c9ff8a7ad5f4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0214ecd43e0884c9ff8a7ad5f4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485114ecd43e0884c9ff8a7ad5f4
+            is_playable: true
+            name: Where We All Belong
+            release_date: '1974-11-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:6doQtGetvIGCoZrSFRVR70
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd
+            href: https://api.spotify.com/v1/artists/59QxeZBL6k9L4oJBGSyukd
+            id: 59QxeZBL6k9L4oJBGSyukd
+            name: The Marshall Tucker Band
+            type: artist
+            uri: spotify:artist:59QxeZBL6k9L4oJBGSyukd
+          disc_number: 1
+          duration_ms: 442200
+          explicit: false
+          external_ids:
+            isrc: USSE90320595
+          external_urls:
+            spotify: https://open.spotify.com/track/30x8jr8fIQcrkLo0y6xYKL
+          href: https://api.spotify.com/v1/tracks/30x8jr8fIQcrkLo0y6xYKL
+          id: 30x8jr8fIQcrkLo0y6xYKL
+          is_local: false
+          is_playable: true
+          name: In My Own Way
+          track_number: 3
+          type: track
+          uri: spotify:track:30x8jr8fIQcrkLo0y6xYKL
+    isrc: USSE90320595

@@ -48,3 +48,72 @@ mediaFileData:
   year: 2003
   duration: 247.04
   modTime: 2023-05-14 02:13:55.930000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4B4h4Urv4jMxxBTIyRRuPd
+    trackId: 4B4h4Urv4jMxxBTIyRRuPd
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ANLB931703009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4StRPF31ajPX9HuyMgXqmP
+              href: https://api.spotify.com/v1/artists/4StRPF31ajPX9HuyMgXqmP
+              id: 4StRPF31ajPX9HuyMgXqmP
+              name: Doom Side of the Moon
+              type: artist
+              uri: spotify:artist:4StRPF31ajPX9HuyMgXqmP
+            external_urls:
+              spotify: https://open.spotify.com/album/3i32lYJBZv3YOR1oS16U6S
+            href: https://api.spotify.com/v1/albums/3i32lYJBZv3YOR1oS16U6S
+            id: 3i32lYJBZv3YOR1oS16U6S
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f558c4d4d659bb572e84baff
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f558c4d4d659bb572e84baff
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f558c4d4d659bb572e84baff
+            is_playable: true
+            name: Doom Side Of The Moon
+            release_date: '2017-10-06'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3i32lYJBZv3YOR1oS16U6S
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4StRPF31ajPX9HuyMgXqmP
+            href: https://api.spotify.com/v1/artists/4StRPF31ajPX9HuyMgXqmP
+            id: 4StRPF31ajPX9HuyMgXqmP
+            name: Doom Side of the Moon
+            type: artist
+            uri: spotify:artist:4StRPF31ajPX9HuyMgXqmP
+          disc_number: 1
+          duration_ms: 246027
+          explicit: false
+          external_ids:
+            isrc: NLB931703009
+          external_urls:
+            spotify: https://open.spotify.com/track/4B4h4Urv4jMxxBTIyRRuPd
+          href: https://api.spotify.com/v1/tracks/4B4h4Urv4jMxxBTIyRRuPd
+          id: 4B4h4Urv4jMxxBTIyRRuPd
+          is_local: false
+          is_playable: true
+          name: Brain Damage
+          track_number: 9
+          type: track
+          uri: spotify:track:4B4h4Urv4jMxxBTIyRRuPd
+    isrc: NLB931703009

@@ -45,3 +45,72 @@ mediaFileData:
   year: 2004
   duration: 281.8612083333333
   modTime: 2023-04-23 22:06:43.440000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4tXcS1gWs0gGk4vB1wx9W4
+    trackId: 4tXcS1gWs0gGk4vB1wx9W4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS0300135&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+              href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+              id: 57dN52uHvrHOxijzpIgu3E
+              name: Ratatat
+              type: artist
+              uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+            external_urls:
+              spotify: https://open.spotify.com/album/7nqSnoxmIdcfxAJBxl9AIh
+            href: https://api.spotify.com/v1/albums/7nqSnoxmIdcfxAJBxl9AIh
+            id: 7nqSnoxmIdcfxAJBxl9AIh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327c5786101a371f2c57fb3d7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227c5786101a371f2c57fb3d7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127c5786101a371f2c57fb3d7
+            is_playable: true
+            name: Ratatat
+            release_date: '2004-04-19'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7nqSnoxmIdcfxAJBxl9AIh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+            href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+            id: 57dN52uHvrHOxijzpIgu3E
+            name: Ratatat
+            type: artist
+            uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+          disc_number: 1
+          duration_ms: 281773
+          explicit: false
+          external_ids:
+            isrc: GBBKS0300135
+          external_urls:
+            spotify: https://open.spotify.com/track/4tXcS1gWs0gGk4vB1wx9W4
+          href: https://api.spotify.com/v1/tracks/4tXcS1gWs0gGk4vB1wx9W4
+          id: 4tXcS1gWs0gGk4vB1wx9W4
+          is_local: false
+          is_playable: true
+          name: El Pico
+          track_number: 2
+          type: track
+          uri: spotify:track:4tXcS1gWs0gGk4vB1wx9W4
+    isrc: GBBKS0300135

@@ -143,3 +143,72 @@ mediaFileData:
   year: 1994
   duration: 174.13225
   modTime: 2025-01-11 01:01:17.489389+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4h4bXzoNO4pFMbK0AQNAOa
+    trackId: 4h4bXzoNO4pFMbK0AQNAOa
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM72414056&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy
+              href: https://api.spotify.com/v1/artists/6KWcxMWVNVIYbdOQyJtsSy
+              id: 6KWcxMWVNVIYbdOQyJtsSy
+              name: The Platters
+              type: artist
+              uri: spotify:artist:6KWcxMWVNVIYbdOQyJtsSy
+            external_urls:
+              spotify: https://open.spotify.com/album/7gFvZa8n1iYAaQF7a8xMY2
+            href: https://api.spotify.com/v1/albums/7gFvZa8n1iYAaQF7a8xMY2
+            id: 7gFvZa8n1iYAaQF7a8xMY2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730b8d07ce3fdc8aff00147463
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020b8d07ce3fdc8aff00147463
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510b8d07ce3fdc8aff00147463
+            is_playable: true
+            name: Golden Hits
+            release_date: '1986-01-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:7gFvZa8n1iYAaQF7a8xMY2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy
+            href: https://api.spotify.com/v1/artists/6KWcxMWVNVIYbdOQyJtsSy
+            id: 6KWcxMWVNVIYbdOQyJtsSy
+            name: The Platters
+            type: artist
+            uri: spotify:artist:6KWcxMWVNVIYbdOQyJtsSy
+          disc_number: 1
+          duration_ms: 164533
+          explicit: false
+          external_ids:
+            isrc: USUM72414056
+          external_urls:
+            spotify: https://open.spotify.com/track/4h4bXzoNO4pFMbK0AQNAOa
+          href: https://api.spotify.com/v1/tracks/4h4bXzoNO4pFMbK0AQNAOa
+          id: 4h4bXzoNO4pFMbK0AQNAOa
+          is_local: false
+          is_playable: true
+          name: Twilight Time
+          track_number: 2
+          type: track
+          uri: spotify:track:4h4bXzoNO4pFMbK0AQNAOa
+    isrc: USUM72414056

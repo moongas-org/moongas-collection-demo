@@ -44,3 +44,72 @@ mediaFileData:
   year: 2004
   duration: 177.89333333333335
   modTime: 2025-04-11 16:39:06.072137+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4qIv58ul4km5dfU3shT23V
+    trackId: 4qIv58ul4km5dfU3shT23V
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFP60401103&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+              href: https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz
+              id: 7mnBLXK823vNxN3UWB7Gfz
+              name: The Black Keys
+              type: artist
+              uri: spotify:artist:7mnBLXK823vNxN3UWB7Gfz
+            external_urls:
+              spotify: https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5
+            href: https://api.spotify.com/v1/albums/1rlGDm1KQJfDyT5v1U8Xk5
+            id: 1rlGDm1KQJfDyT5v1U8Xk5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27309ed0b59f23120e6517ec9f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0209ed0b59f23120e6517ec9f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485109ed0b59f23120e6517ec9f5
+            is_playable: true
+            name: Rubber Factory
+            release_date: '2016-12-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:1rlGDm1KQJfDyT5v1U8Xk5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+            href: https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz
+            id: 7mnBLXK823vNxN3UWB7Gfz
+            name: The Black Keys
+            type: artist
+            uri: spotify:artist:7mnBLXK823vNxN3UWB7Gfz
+          disc_number: 1
+          duration_ms: 177893
+          explicit: false
+          external_ids:
+            isrc: USFP60401103
+          external_urls:
+            spotify: https://open.spotify.com/track/4qIv58ul4km5dfU3shT23V
+          href: https://api.spotify.com/v1/tracks/4qIv58ul4km5dfU3shT23V
+          id: 4qIv58ul4km5dfU3shT23V
+          is_local: false
+          is_playable: true
+          name: Just Couldn't Tie Me Down
+          track_number: 3
+          type: track
+          uri: spotify:track:4qIv58ul4km5dfU3shT23V
+    isrc: USFP60401103

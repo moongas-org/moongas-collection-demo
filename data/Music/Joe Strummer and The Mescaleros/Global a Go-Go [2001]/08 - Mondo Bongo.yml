@@ -86,3 +86,208 @@ mediaFileData:
   year: 2001
   duration: 372.6
   modTime: 2025-08-02 22:50:06.156284+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6b6filOK58Ti6VEgcUDXm3
+    trackId: 6b6filOK58Ti6VEgcUDXm3
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSHEL1202018&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba
+              href: https://api.spotify.com/v1/artists/2A09V0kHlETOFfT8Hz8oba
+              id: 2A09V0kHlETOFfT8Hz8oba
+              name: Joe Strummer
+              type: artist
+              uri: spotify:artist:2A09V0kHlETOFfT8Hz8oba
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6JCvjM8Q5vlsFLpF7H8Vs2
+              href: https://api.spotify.com/v1/artists/6JCvjM8Q5vlsFLpF7H8Vs2
+              id: 6JCvjM8Q5vlsFLpF7H8Vs2
+              name: The Mescaleros
+              type: artist
+              uri: spotify:artist:6JCvjM8Q5vlsFLpF7H8Vs2
+            external_urls:
+              spotify: https://open.spotify.com/album/0rrfglB0AfiuyeFjbwZWUE
+            href: https://api.spotify.com/v1/albums/0rrfglB0AfiuyeFjbwZWUE
+            id: 0rrfglB0AfiuyeFjbwZWUE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27301f6b3b315c951a51c050583
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0201f6b3b315c951a51c050583
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485101f6b3b315c951a51c050583
+            is_playable: true
+            name: Global A Go-Go
+            release_date: '2001'
+            release_date_precision: year
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0rrfglB0AfiuyeFjbwZWUE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba
+            href: https://api.spotify.com/v1/artists/2A09V0kHlETOFfT8Hz8oba
+            id: 2A09V0kHlETOFfT8Hz8oba
+            name: Joe Strummer
+            type: artist
+            uri: spotify:artist:2A09V0kHlETOFfT8Hz8oba
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6JCvjM8Q5vlsFLpF7H8Vs2
+            href: https://api.spotify.com/v1/artists/6JCvjM8Q5vlsFLpF7H8Vs2
+            id: 6JCvjM8Q5vlsFLpF7H8Vs2
+            name: The Mescaleros
+            type: artist
+            uri: spotify:artist:6JCvjM8Q5vlsFLpF7H8Vs2
+          disc_number: 1
+          duration_ms: 372560
+          explicit: false
+          external_ids:
+            isrc: USHEL1202018
+          external_urls:
+            spotify: https://open.spotify.com/track/6b6filOK58Ti6VEgcUDXm3
+          href: https://api.spotify.com/v1/tracks/6b6filOK58Ti6VEgcUDXm3
+          id: 6b6filOK58Ti6VEgcUDXm3
+          is_local: false
+          is_playable: true
+          name: Mondo Bongo
+          track_number: 8
+          type: track
+          uri: spotify:track:6b6filOK58Ti6VEgcUDXm3
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba
+              href: https://api.spotify.com/v1/artists/2A09V0kHlETOFfT8Hz8oba
+              id: 2A09V0kHlETOFfT8Hz8oba
+              name: Joe Strummer
+              type: artist
+              uri: spotify:artist:2A09V0kHlETOFfT8Hz8oba
+            external_urls:
+              spotify: https://open.spotify.com/album/5rq56bhjNQQgAgxuRwbRD0
+            href: https://api.spotify.com/v1/albums/5rq56bhjNQQgAgxuRwbRD0
+            id: 5rq56bhjNQQgAgxuRwbRD0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736303aad3509081fa9c46f652
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026303aad3509081fa9c46f652
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516303aad3509081fa9c46f652
+            is_playable: true
+            name: 'Joe Strummer 002: The Mescaleros Years'
+            release_date: '2022-09-16'
+            release_date_precision: day
+            total_tracks: 46
+            type: album
+            uri: spotify:album:5rq56bhjNQQgAgxuRwbRD0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba
+            href: https://api.spotify.com/v1/artists/2A09V0kHlETOFfT8Hz8oba
+            id: 2A09V0kHlETOFfT8Hz8oba
+            name: Joe Strummer
+            type: artist
+            uri: spotify:artist:2A09V0kHlETOFfT8Hz8oba
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6JCvjM8Q5vlsFLpF7H8Vs2
+            href: https://api.spotify.com/v1/artists/6JCvjM8Q5vlsFLpF7H8Vs2
+            id: 6JCvjM8Q5vlsFLpF7H8Vs2
+            name: The Mescaleros
+            type: artist
+            uri: spotify:artist:6JCvjM8Q5vlsFLpF7H8Vs2
+          disc_number: 2
+          duration_ms: 372560
+          explicit: false
+          external_ids:
+            isrc: USHEL1202018
+          external_urls:
+            spotify: https://open.spotify.com/track/4rE0kW6DtINWR6EPPLfBBN
+          href: https://api.spotify.com/v1/tracks/4rE0kW6DtINWR6EPPLfBBN
+          id: 4rE0kW6DtINWR6EPPLfBBN
+          is_local: false
+          is_playable: true
+          name: Mondo Bongo (2022 Remaster)
+          track_number: 8
+          type: track
+          uri: spotify:track:4rE0kW6DtINWR6EPPLfBBN
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba
+              href: https://api.spotify.com/v1/artists/2A09V0kHlETOFfT8Hz8oba
+              id: 2A09V0kHlETOFfT8Hz8oba
+              name: Joe Strummer
+              type: artist
+              uri: spotify:artist:2A09V0kHlETOFfT8Hz8oba
+            external_urls:
+              spotify: https://open.spotify.com/album/5ybPpF5KvuPNMt09fM7Bk0
+            href: https://api.spotify.com/v1/albums/5ybPpF5KvuPNMt09fM7Bk0
+            id: 5ybPpF5KvuPNMt09fM7Bk0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27346bb38f6d5e788ab65f08a7c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0246bb38f6d5e788ab65f08a7c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485146bb38f6d5e788ab65f08a7c
+            is_playable: true
+            name: Assembly
+            release_date: '2021-03-26'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:5ybPpF5KvuPNMt09fM7Bk0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba
+            href: https://api.spotify.com/v1/artists/2A09V0kHlETOFfT8Hz8oba
+            id: 2A09V0kHlETOFfT8Hz8oba
+            name: Joe Strummer
+            type: artist
+            uri: spotify:artist:2A09V0kHlETOFfT8Hz8oba
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6JCvjM8Q5vlsFLpF7H8Vs2
+            href: https://api.spotify.com/v1/artists/6JCvjM8Q5vlsFLpF7H8Vs2
+            id: 6JCvjM8Q5vlsFLpF7H8Vs2
+            name: The Mescaleros
+            type: artist
+            uri: spotify:artist:6JCvjM8Q5vlsFLpF7H8Vs2
+          disc_number: 1
+          duration_ms: 373667
+          explicit: false
+          external_ids:
+            isrc: USHEL1202018
+          external_urls:
+            spotify: https://open.spotify.com/track/3vJiZcYAaU8Migo8mcArQM
+          href: https://api.spotify.com/v1/tracks/3vJiZcYAaU8Migo8mcArQM
+          id: 3vJiZcYAaU8Migo8mcArQM
+          is_local: false
+          is_playable: true
+          name: Mondo Bongo
+          track_number: 9
+          type: track
+          uri: spotify:track:3vJiZcYAaU8Migo8mcArQM
+    isrc: USHEL1202018

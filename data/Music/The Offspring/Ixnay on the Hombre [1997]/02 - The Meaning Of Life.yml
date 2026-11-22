@@ -66,3 +66,180 @@ mediaFileData:
   year: 1997
   duration: 178.2
   modTime: 2025-09-23 01:48:15.083718+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh
+    trackId: 48WEsrIKIPyQzCW4pcf3sh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19603677&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS
+            href: https://api.spotify.com/v1/albums/2PSgMApk089eV6e5LPbQeS
+            id: 2PSgMApk089eV6e5LPbQeS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ba12c467b8cc7eb3be9e7d8b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ba12c467b8cc7eb3be9e7d8b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b
+            is_playable: true
+            name: Ixnay On The Hombre
+            release_date: '1997-02-04'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2PSgMApk089eV6e5LPbQeS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 176666
+          explicit: false
+          external_ids:
+            isrc: USSM19603677
+          external_urls:
+            spotify: https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh
+          href: https://api.spotify.com/v1/tracks/48WEsrIKIPyQzCW4pcf3sh
+          id: 48WEsrIKIPyQzCW4pcf3sh
+          is_local: false
+          is_playable: true
+          name: The Meaning Of Life
+          track_number: 2
+          type: track
+          uri: spotify:track:48WEsrIKIPyQzCW4pcf3sh
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/4j8BqfNQxSd1jZDg2YAL3w
+            href: https://api.spotify.com/v1/albums/4j8BqfNQxSd1jZDg2YAL3w
+            id: 4j8BqfNQxSd1jZDg2YAL3w
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731a24e8e8cb3aa6917899ee56
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021a24e8e8cb3aa6917899ee56
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511a24e8e8cb3aa6917899ee56
+            is_playable: true
+            name: Just The Punk Stuff
+            release_date: '2026-06-26'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4j8BqfNQxSd1jZDg2YAL3w
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 176666
+          explicit: false
+          external_ids:
+            isrc: USSM19603677
+          external_urls:
+            spotify: https://open.spotify.com/track/6iobyHNdjiWuQoWJOf7y9w
+          href: https://api.spotify.com/v1/tracks/6iobyHNdjiWuQoWJOf7y9w
+          id: 6iobyHNdjiWuQoWJOf7y9w
+          is_local: false
+          is_playable: true
+          name: The Meaning Of Life
+          track_number: 5
+          type: track
+          uri: spotify:track:6iobyHNdjiWuQoWJOf7y9w
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/6j65T6Y4Khij8xoMi6J1GY
+            href: https://api.spotify.com/v1/albums/6j65T6Y4Khij8xoMi6J1GY
+            id: 6j65T6Y4Khij8xoMi6J1GY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ebabdb309b77add641ea944d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ebabdb309b77add641ea944d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ebabdb309b77add641ea944d
+            is_playable: true
+            name: "SUPERCHARGED: WORLDWIDE IN '25"
+            release_date: '2024-12-13'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:6j65T6Y4Khij8xoMi6J1GY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 176666
+          explicit: false
+          external_ids:
+            isrc: USSM19603677
+          external_urls:
+            spotify: https://open.spotify.com/track/4vW19pFhL5zUHusr49eaGG
+          href: https://api.spotify.com/v1/tracks/4vW19pFhL5zUHusr49eaGG
+          id: 4vW19pFhL5zUHusr49eaGG
+          is_local: false
+          is_playable: true
+          name: The Meaning Of Life
+          track_number: 28
+          type: track
+          uri: spotify:track:4vW19pFhL5zUHusr49eaGG
+    isrc: USSM19603677

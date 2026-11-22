@@ -34,3 +34,126 @@ mediaFileData:
   year: 2009
   duration: 247.41333333333333
   modTime: 2025-04-11 17:17:23.748907+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0mADH439s4poQ2alIK0hPS
+    trackId: 0mADH439s4poQ2alIK0hPS
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS0900173&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1VyVjE6tvQiM8T8a3WcYQd
+              href: https://api.spotify.com/v1/artists/1VyVjE6tvQiM8T8a3WcYQd
+              id: 1VyVjE6tvQiM8T8a3WcYQd
+              name: Jack Peñate
+              type: artist
+              uri: spotify:artist:1VyVjE6tvQiM8T8a3WcYQd
+            external_urls:
+              spotify: https://open.spotify.com/album/6bbmWMTv9yaeN6VZZj3yAu
+            href: https://api.spotify.com/v1/albums/6bbmWMTv9yaeN6VZZj3yAu
+            id: 6bbmWMTv9yaeN6VZZj3yAu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d2e8b3f7acd8ee070870579d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d2e8b3f7acd8ee070870579d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d2e8b3f7acd8ee070870579d
+            is_playable: true
+            name: Pull My Heart Away
+            release_date: '2009-08-23'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:6bbmWMTv9yaeN6VZZj3yAu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1VyVjE6tvQiM8T8a3WcYQd
+            href: https://api.spotify.com/v1/artists/1VyVjE6tvQiM8T8a3WcYQd
+            id: 1VyVjE6tvQiM8T8a3WcYQd
+            name: Jack Peñate
+            type: artist
+            uri: spotify:artist:1VyVjE6tvQiM8T8a3WcYQd
+          disc_number: 1
+          duration_ms: 247413
+          explicit: false
+          external_ids:
+            isrc: GBBKS0900173
+          external_urls:
+            spotify: https://open.spotify.com/track/0mADH439s4poQ2alIK0hPS
+          href: https://api.spotify.com/v1/tracks/0mADH439s4poQ2alIK0hPS
+          id: 0mADH439s4poQ2alIK0hPS
+          is_local: false
+          is_playable: true
+          name: Pull My Heart Away
+          track_number: 1
+          type: track
+          uri: spotify:track:0mADH439s4poQ2alIK0hPS
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1VyVjE6tvQiM8T8a3WcYQd
+              href: https://api.spotify.com/v1/artists/1VyVjE6tvQiM8T8a3WcYQd
+              id: 1VyVjE6tvQiM8T8a3WcYQd
+              name: Jack Peñate
+              type: artist
+              uri: spotify:artist:1VyVjE6tvQiM8T8a3WcYQd
+            external_urls:
+              spotify: https://open.spotify.com/album/7ai1U41mtZefEeCgNU14cf
+            href: https://api.spotify.com/v1/albums/7ai1U41mtZefEeCgNU14cf
+            id: 7ai1U41mtZefEeCgNU14cf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27339d77d3ce89feec92def8564
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0239d77d3ce89feec92def8564
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485139d77d3ce89feec92def8564
+            is_playable: true
+            name: Everything Is New
+            release_date: '2009-08-18'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:7ai1U41mtZefEeCgNU14cf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1VyVjE6tvQiM8T8a3WcYQd
+            href: https://api.spotify.com/v1/artists/1VyVjE6tvQiM8T8a3WcYQd
+            id: 1VyVjE6tvQiM8T8a3WcYQd
+            name: Jack Peñate
+            type: artist
+            uri: spotify:artist:1VyVjE6tvQiM8T8a3WcYQd
+          disc_number: 1
+          duration_ms: 247413
+          explicit: false
+          external_ids:
+            isrc: GBBKS0900173
+          external_urls:
+            spotify: https://open.spotify.com/track/60YjOtzIHmcxLGyqDK2y3x
+          href: https://api.spotify.com/v1/tracks/60YjOtzIHmcxLGyqDK2y3x
+          id: 60YjOtzIHmcxLGyqDK2y3x
+          is_local: false
+          is_playable: true
+          name: Pull My Heart Away
+          track_number: 1
+          type: track
+          uri: spotify:track:60YjOtzIHmcxLGyqDK2y3x
+    isrc: GBBKS0900173

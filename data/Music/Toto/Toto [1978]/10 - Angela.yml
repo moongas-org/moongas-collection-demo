@@ -43,3 +43,72 @@ mediaFileData:
   year: 1978
   duration: 330.216
   modTime: 2025-01-04 15:55:24.382733+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6V6ykEkdiwv5V2Z1rwD5pZ
+    trackId: 6V6ykEkdiwv5V2Z1rwD5pZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM17800439&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+              href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+              id: 0PFtn5NtBbbUNbU9EAmIWF
+              name: TOTO
+              type: artist
+              uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+            external_urls:
+              spotify: https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3
+            href: https://api.spotify.com/v1/albums/1mnu4hYvdwQgZXcNvtJ3D3
+            id: 1mnu4hYvdwQgZXcNvtJ3D3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02105ef588df1ef91bfa811f94
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851105ef588df1ef91bfa811f94
+            is_playable: true
+            name: Toto
+            release_date: '1978-10-10'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1mnu4hYvdwQgZXcNvtJ3D3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+            href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+            id: 0PFtn5NtBbbUNbU9EAmIWF
+            name: TOTO
+            type: artist
+            uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+          disc_number: 1
+          duration_ms: 330159
+          explicit: false
+          external_ids:
+            isrc: USSM17800439
+          external_urls:
+            spotify: https://open.spotify.com/track/6V6ykEkdiwv5V2Z1rwD5pZ
+          href: https://api.spotify.com/v1/tracks/6V6ykEkdiwv5V2Z1rwD5pZ
+          id: 6V6ykEkdiwv5V2Z1rwD5pZ
+          is_local: false
+          is_playable: true
+          name: Angela
+          track_number: 10
+          type: track
+          uri: spotify:track:6V6ykEkdiwv5V2Z1rwD5pZ
+    isrc: USSM17800439

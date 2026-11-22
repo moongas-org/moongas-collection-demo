@@ -66,3 +66,72 @@ mediaFileData:
   year: 1987
   duration: 185.88
   modTime: 2025-07-19 15:28:36.411923+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4wDRsq9gZITYkCXKBt8fPE
+    trackId: 4wDRsq9gZITYkCXKBt8fPE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH12300870&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+              href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+              id: 4WPY0N74T3KUja57xMQTZ3
+              name: The Replacements
+              type: artist
+              uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+            external_urls:
+              spotify: https://open.spotify.com/album/2LJSizYgFPP6gP9O3YDBy1
+            href: https://api.spotify.com/v1/albums/2LJSizYgFPP6gP9O3YDBy1
+            id: 2LJSizYgFPP6gP9O3YDBy1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ba06c7712f4fe6d6f49b4928
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ba06c7712f4fe6d6f49b4928
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ba06c7712f4fe6d6f49b4928
+            is_playable: true
+            name: Tim (Let It Bleed Edition)
+            release_date: '1985-09-18'
+            release_date_precision: day
+            total_tracks: 65
+            type: album
+            uri: spotify:album:2LJSizYgFPP6gP9O3YDBy1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+            href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+            id: 4WPY0N74T3KUja57xMQTZ3
+            name: The Replacements
+            type: artist
+            uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+          disc_number: 4
+          duration_ms: 184133
+          explicit: false
+          external_ids:
+            isrc: USRH12300870
+          external_urls:
+            spotify: https://open.spotify.com/track/4wDRsq9gZITYkCXKBt8fPE
+          href: https://api.spotify.com/v1/tracks/4wDRsq9gZITYkCXKBt8fPE
+          id: 4wDRsq9gZITYkCXKBt8fPE
+          is_local: false
+          is_playable: true
+          name: Can't Hardly Wait - Live at the Cabaret Metro, Chicago, IL, 1/11/86
+          track_number: 4
+          type: track
+          uri: spotify:track:4wDRsq9gZITYkCXKBt8fPE
+    isrc: USRH12300870

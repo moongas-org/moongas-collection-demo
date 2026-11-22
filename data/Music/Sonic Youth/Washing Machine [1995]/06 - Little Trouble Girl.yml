@@ -44,3 +44,201 @@ mediaFileData:
   year: 1995
   duration: 265.08
   modTime: 2025-02-01 00:52:13.069734+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4oguhUGuMDBEKdxhtTXNMy
+    trackId: 4oguhUGuMDBEKdxhtTXNMy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGF19582506&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+              href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+              id: 5UqTO8smerMvxHYA5xsXb6
+              name: Sonic Youth
+              type: artist
+              uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+            external_urls:
+              spotify: https://open.spotify.com/album/0VskfMaczM0MNAlqqvokTC
+            href: https://api.spotify.com/v1/albums/0VskfMaczM0MNAlqqvokTC
+            id: 0VskfMaczM0MNAlqqvokTC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cf39299046e82c56f9471245
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cf39299046e82c56f9471245
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cf39299046e82c56f9471245
+            is_playable: true
+            name: Washing Machine
+            release_date: '1995-09-26'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0VskfMaczM0MNAlqqvokTC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+            href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+            id: 5UqTO8smerMvxHYA5xsXb6
+            name: Sonic Youth
+            type: artist
+            uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY
+            href: https://api.spotify.com/v1/artists/4JzQKxgdLmyqbplHxVL8xY
+            id: 4JzQKxgdLmyqbplHxVL8xY
+            name: Kim Deal
+            type: artist
+            uri: spotify:artist:4JzQKxgdLmyqbplHxVL8xY
+          disc_number: 1
+          duration_ms: 267160
+          explicit: false
+          external_ids:
+            isrc: USGF19582506
+          external_urls:
+            spotify: https://open.spotify.com/track/4oguhUGuMDBEKdxhtTXNMy
+          href: https://api.spotify.com/v1/tracks/4oguhUGuMDBEKdxhtTXNMy
+          id: 4oguhUGuMDBEKdxhtTXNMy
+          is_local: false
+          is_playable: true
+          name: Little Trouble Girl
+          track_number: 6
+          type: track
+          uri: spotify:track:4oguhUGuMDBEKdxhtTXNMy
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2tF5rhlq59a9erp4zGsT2X
+            href: https://api.spotify.com/v1/albums/2tF5rhlq59a9erp4zGsT2X
+            id: 2tF5rhlq59a9erp4zGsT2X
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d8012d9dbd85991fb740ecd2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d8012d9dbd85991fb740ecd2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d8012d9dbd85991fb740ecd2
+            is_playable: true
+            name: Shoegaze
+            release_date: '2026-07-10'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:2tF5rhlq59a9erp4zGsT2X
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+            href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+            id: 5UqTO8smerMvxHYA5xsXb6
+            name: Sonic Youth
+            type: artist
+            uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY
+            href: https://api.spotify.com/v1/artists/4JzQKxgdLmyqbplHxVL8xY
+            id: 4JzQKxgdLmyqbplHxVL8xY
+            name: Kim Deal
+            type: artist
+            uri: spotify:artist:4JzQKxgdLmyqbplHxVL8xY
+          disc_number: 1
+          duration_ms: 267160
+          explicit: false
+          external_ids:
+            isrc: USGF19582506
+          external_urls:
+            spotify: https://open.spotify.com/track/0Jjtp0sI8ehm45gUwiQj2x
+          href: https://api.spotify.com/v1/tracks/0Jjtp0sI8ehm45gUwiQj2x
+          id: 0Jjtp0sI8ehm45gUwiQj2x
+          is_local: false
+          is_playable: true
+          name: Little Trouble Girl
+          track_number: 5
+          type: track
+          uri: spotify:track:0Jjtp0sI8ehm45gUwiQj2x
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3AqIoNsiWwCopkqG0hg79s
+            href: https://api.spotify.com/v1/albums/3AqIoNsiWwCopkqG0hg79s
+            id: 3AqIoNsiWwCopkqG0hg79s
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27306593b928ec27ed4147c35c9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0206593b928ec27ed4147c35c9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485106593b928ec27ed4147c35c9
+            is_playable: true
+            name: "Plum Noir: Fade Into Fall '26"
+            release_date: '2026-10-09'
+            release_date_precision: day
+            total_tracks: 75
+            type: album
+            uri: spotify:album:3AqIoNsiWwCopkqG0hg79s
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+            href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+            id: 5UqTO8smerMvxHYA5xsXb6
+            name: Sonic Youth
+            type: artist
+            uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY
+            href: https://api.spotify.com/v1/artists/4JzQKxgdLmyqbplHxVL8xY
+            id: 4JzQKxgdLmyqbplHxVL8xY
+            name: Kim Deal
+            type: artist
+            uri: spotify:artist:4JzQKxgdLmyqbplHxVL8xY
+          disc_number: 1
+          duration_ms: 267160
+          explicit: false
+          external_ids:
+            isrc: USGF19582506
+          external_urls:
+            spotify: https://open.spotify.com/track/4Orijodo3Rvq8xetOxbosB
+          href: https://api.spotify.com/v1/tracks/4Orijodo3Rvq8xetOxbosB
+          id: 4Orijodo3Rvq8xetOxbosB
+          is_local: false
+          is_playable: true
+          name: Little Trouble Girl
+          track_number: 7
+          type: track
+          uri: spotify:track:4Orijodo3Rvq8xetOxbosB
+    isrc: USGF19582506

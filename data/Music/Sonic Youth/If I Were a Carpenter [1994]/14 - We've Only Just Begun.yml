@@ -34,3 +34,72 @@ mediaFileData:
   year: 1994
   duration: 231.096
   modTime: 2025-02-03 18:00:57.534594+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2kj5jg3u44D0mmAdbTNZEF
+    trackId: 2kj5jg3u44D0mmAdbTNZEF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAM19400333&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2jzoM56c7kGgQKqFT7Ymu6
+            href: https://api.spotify.com/v1/albums/2jzoM56c7kGgQKqFT7Ymu6
+            id: 2jzoM56c7kGgQKqFT7Ymu6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27358e762253dde898c519396bd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0258e762253dde898c519396bd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485158e762253dde898c519396bd
+            is_playable: true
+            name: If I Were A Carpenter
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2jzoM56c7kGgQKqFT7Ymu6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw
+            href: https://api.spotify.com/v1/artists/31ir0nQWMLTowZmZO8CiBw
+            id: 31ir0nQWMLTowZmZO8CiBw
+            name: Grant Lee Buffalo
+            type: artist
+            uri: spotify:artist:31ir0nQWMLTowZmZO8CiBw
+          disc_number: 1
+          duration_ms: 231066
+          explicit: false
+          external_ids:
+            isrc: USAM19400333
+          external_urls:
+            spotify: https://open.spotify.com/track/2kj5jg3u44D0mmAdbTNZEF
+          href: https://api.spotify.com/v1/tracks/2kj5jg3u44D0mmAdbTNZEF
+          id: 2kj5jg3u44D0mmAdbTNZEF
+          is_local: false
+          is_playable: true
+          name: We've Only Just Begun
+          track_number: 14
+          type: track
+          uri: spotify:track:2kj5jg3u44D0mmAdbTNZEF
+    isrc: USAM19400333

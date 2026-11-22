@@ -50,3 +50,126 @@ mediaFileData:
   year: 2009
   duration: 523.258775
   modTime: 2023-10-01 16:24:40+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5QLUxPqzMWzlm5UbbgCLbH
+    trackId: 5QLUxPqzMWzlm5UbbgCLbH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS38Y0915011&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/6b8qITaIJ24ooazBEDwq96
+            href: https://api.spotify.com/v1/albums/6b8qITaIJ24ooazBEDwq96
+            id: 6b8qITaIJ24ooazBEDwq96
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f2ac1699b3f7e5f9fa5a4fd3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f2ac1699b3f7e5f9fa5a4fd3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f2ac1699b3f7e5f9fa5a4fd3
+            is_playable: true
+            name: Farm (15th Anniversary Edition)
+            release_date: '2024-08-16'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:6b8qITaIJ24ooazBEDwq96
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 1
+          duration_ms: 520133
+          explicit: false
+          external_ids:
+            isrc: US38Y0915011
+          external_urls:
+            spotify: https://open.spotify.com/track/5QLUxPqzMWzlm5UbbgCLbH
+          href: https://api.spotify.com/v1/tracks/5QLUxPqzMWzlm5UbbgCLbH
+          id: 5QLUxPqzMWzlm5UbbgCLbH
+          is_local: false
+          is_playable: true
+          name: I Don't Wanna Go There
+          track_number: 11
+          type: track
+          uri: spotify:track:5QLUxPqzMWzlm5UbbgCLbH
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/0U6yeEekLHqZlPk4Lho9VX
+            href: https://api.spotify.com/v1/albums/0U6yeEekLHqZlPk4Lho9VX
+            id: 0U6yeEekLHqZlPk4Lho9VX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27356ea1930eca411f6b0a660ac
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0256ea1930eca411f6b0a660ac
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485156ea1930eca411f6b0a660ac
+            is_playable: true
+            name: Farm
+            release_date: '2009-06-23'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0U6yeEekLHqZlPk4Lho9VX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 1
+          duration_ms: 520133
+          explicit: false
+          external_ids:
+            isrc: US38Y0915011
+          external_urls:
+            spotify: https://open.spotify.com/track/0Wxm3rXRLzZioZsXtwBfTs
+          href: https://api.spotify.com/v1/tracks/0Wxm3rXRLzZioZsXtwBfTs
+          id: 0Wxm3rXRLzZioZsXtwBfTs
+          is_local: false
+          is_playable: true
+          name: I Don't Wanna Go There
+          track_number: 11
+          type: track
+          uri: spotify:track:0Wxm3rXRLzZioZsXtwBfTs
+    isrc: US38Y0915011

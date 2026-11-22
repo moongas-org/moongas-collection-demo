@@ -34,3 +34,288 @@ mediaFileData:
   year: 2018
   duration: 215.136
   modTime: 2023-12-02 16:47:42.378817+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF
+    trackId: 4j3GWI86JvSaF0BLdmgcfF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC11802726&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+              href: https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL
+              id: 73sIBHcqh3Z3NyqHKZ7FOL
+              name: Childish Gambino
+              type: artist
+              uri: spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL
+            external_urls:
+              spotify: https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45
+            href: https://api.spotify.com/v1/albums/15k99o4mZJ9mfpQGIOrZ45
+            id: 15k99o4mZJ9mfpQGIOrZ45
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273602ca5b83fe44b68074a74b2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02602ca5b83fe44b68074a74b2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851602ca5b83fe44b68074a74b2
+            is_playable: true
+            name: Summer Pack
+            release_date: '2018-07-11'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:15k99o4mZJ9mfpQGIOrZ45
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+            href: https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL
+            id: 73sIBHcqh3Z3NyqHKZ7FOL
+            name: Childish Gambino
+            type: artist
+            uri: spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL
+          disc_number: 1
+          duration_ms: 213600
+          explicit: false
+          external_ids:
+            isrc: USRC11802726
+          external_urls:
+            spotify: https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF
+          href: https://api.spotify.com/v1/tracks/4j3GWI86JvSaF0BLdmgcfF
+          id: 4j3GWI86JvSaF0BLdmgcfF
+          is_local: false
+          is_playable: true
+          name: Summertime Magic
+          track_number: 1
+          type: track
+          uri: spotify:track:4j3GWI86JvSaF0BLdmgcfF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1aWSLixGqGxGwT9lU34xip
+            href: https://api.spotify.com/v1/albums/1aWSLixGqGxGwT9lU34xip
+            id: 1aWSLixGqGxGwT9lU34xip
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b9ea12b5d9aa8c34b16b33e6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b9ea12b5d9aa8c34b16b33e6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b9ea12b5d9aa8c34b16b33e6
+            is_playable: true
+            name: Canzoni sotto l'ombrellone
+            release_date: '2024-06-14'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:1aWSLixGqGxGwT9lU34xip
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+            href: https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL
+            id: 73sIBHcqh3Z3NyqHKZ7FOL
+            name: Childish Gambino
+            type: artist
+            uri: spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL
+          disc_number: 1
+          duration_ms: 213600
+          explicit: false
+          external_ids:
+            isrc: USRC11802726
+          external_urls:
+            spotify: https://open.spotify.com/track/1sqHBUf8COR2SZEuSVIkrf
+          href: https://api.spotify.com/v1/tracks/1sqHBUf8COR2SZEuSVIkrf
+          id: 1sqHBUf8COR2SZEuSVIkrf
+          is_local: false
+          is_playable: true
+          name: Summertime Magic
+          track_number: 22
+          type: track
+          uri: spotify:track:1sqHBUf8COR2SZEuSVIkrf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7rbAcIAL9Udgv37ond91Qb
+            href: https://api.spotify.com/v1/albums/7rbAcIAL9Udgv37ond91Qb
+            id: 7rbAcIAL9Udgv37ond91Qb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e5365be03df01d681387517f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e5365be03df01d681387517f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e5365be03df01d681387517f
+            is_playable: true
+            name: Musica Estate 2024
+            release_date: '2024-06-14'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:7rbAcIAL9Udgv37ond91Qb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+            href: https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL
+            id: 73sIBHcqh3Z3NyqHKZ7FOL
+            name: Childish Gambino
+            type: artist
+            uri: spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL
+          disc_number: 1
+          duration_ms: 213600
+          explicit: false
+          external_ids:
+            isrc: USRC11802726
+          external_urls:
+            spotify: https://open.spotify.com/track/1QTPuPLVaznMaDHsyBeGHe
+          href: https://api.spotify.com/v1/tracks/1QTPuPLVaznMaDHsyBeGHe
+          id: 1QTPuPLVaznMaDHsyBeGHe
+          is_local: false
+          is_playable: true
+          name: Summertime Magic
+          track_number: 21
+          type: track
+          uri: spotify:track:1QTPuPLVaznMaDHsyBeGHe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3KAy0kIv0TNvAWGw8QYQkh
+            href: https://api.spotify.com/v1/albums/3KAy0kIv0TNvAWGw8QYQkh
+            id: 3KAy0kIv0TNvAWGw8QYQkh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27304b6bcef1511449bc9b0df91
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0204b6bcef1511449bc9b0df91
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485104b6bcef1511449bc9b0df91
+            is_playable: true
+            name: R&B Summer 2021
+            release_date: '2021-05-21'
+            release_date_precision: day
+            total_tracks: 48
+            type: album
+            uri: spotify:album:3KAy0kIv0TNvAWGw8QYQkh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+            href: https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL
+            id: 73sIBHcqh3Z3NyqHKZ7FOL
+            name: Childish Gambino
+            type: artist
+            uri: spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL
+          disc_number: 1
+          duration_ms: 213600
+          explicit: false
+          external_ids:
+            isrc: USRC11802726
+          external_urls:
+            spotify: https://open.spotify.com/track/4kcDfHhUqnqxYwuGbo8zsL
+          href: https://api.spotify.com/v1/tracks/4kcDfHhUqnqxYwuGbo8zsL
+          id: 4kcDfHhUqnqxYwuGbo8zsL
+          is_local: false
+          is_playable: true
+          name: Summertime Magic
+          track_number: 17
+          type: track
+          uri: spotify:track:4kcDfHhUqnqxYwuGbo8zsL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1S01lxDKQI3dTvyWPGqqsd
+            href: https://api.spotify.com/v1/albums/1S01lxDKQI3dTvyWPGqqsd
+            id: 1S01lxDKQI3dTvyWPGqqsd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273309f54cc48751d92d3664911
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02309f54cc48751d92d3664911
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851309f54cc48751d92d3664911
+            is_playable: true
+            name: Hit Estate 2024
+            release_date: '2024-06-14'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:1S01lxDKQI3dTvyWPGqqsd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+            href: https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL
+            id: 73sIBHcqh3Z3NyqHKZ7FOL
+            name: Childish Gambino
+            type: artist
+            uri: spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL
+          disc_number: 1
+          duration_ms: 213600
+          explicit: false
+          external_ids:
+            isrc: USRC11802726
+          external_urls:
+            spotify: https://open.spotify.com/track/2kxHUkhUdIQbEddVx29NCO
+          href: https://api.spotify.com/v1/tracks/2kxHUkhUdIQbEddVx29NCO
+          id: 2kxHUkhUdIQbEddVx29NCO
+          is_local: false
+          is_playable: true
+          name: Summertime Magic
+          track_number: 25
+          type: track
+          uri: spotify:track:2kxHUkhUdIQbEddVx29NCO
+    isrc: USRC11802726

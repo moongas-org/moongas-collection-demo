@@ -41,3 +41,288 @@ mediaFileData:
   year: 1992
   duration: 218.435875
   modTime: 2023-09-24 09:41:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX
+    trackId: 6nxHMqTNKWlQnx5AFxz1iX
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10181159&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSEE10181159&type=track
+        offset: 0
+        previous:
+        total: 32
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f
+            href: https://api.spotify.com/v1/albums/7wXj8GxTkGAUU99DXR7n2f
+            id: 7wXj8GxTkGAUU99DXR7n2f
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738f7519cd69450a1f8b6a4fa3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028f7519cd69450a1f8b6a4fa3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518f7519cd69450a1f8b6a4fa3
+            is_playable: true
+            name: Blues for the Red Sun
+            release_date: '1992-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:7wXj8GxTkGAUU99DXR7n2f
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 217906
+          explicit: false
+          external_ids:
+            isrc: USEE10181159
+          external_urls:
+            spotify: https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX
+          href: https://api.spotify.com/v1/tracks/6nxHMqTNKWlQnx5AFxz1iX
+          id: 6nxHMqTNKWlQnx5AFxz1iX
+          is_local: false
+          is_playable: true
+          name: Green Machine
+          track_number: 2
+          type: track
+          uri: spotify:track:6nxHMqTNKWlQnx5AFxz1iX
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/3WnjEBtJCOmR08RYhQGOc3
+            href: https://api.spotify.com/v1/albums/3WnjEBtJCOmR08RYhQGOc3
+            id: 3WnjEBtJCOmR08RYhQGOc3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739c8d768c9a6565b559e21eb6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029c8d768c9a6565b559e21eb6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519c8d768c9a6565b559e21eb6
+            is_playable: true
+            name: Green Machine
+            release_date: '2018-04-27'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:3WnjEBtJCOmR08RYhQGOc3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 217906
+          explicit: false
+          external_ids:
+            isrc: USEE10181159
+          external_urls:
+            spotify: https://open.spotify.com/track/1N81UTxanRp0YEaVCvwCar
+          href: https://api.spotify.com/v1/tracks/1N81UTxanRp0YEaVCvwCar
+          id: 1N81UTxanRp0YEaVCvwCar
+          is_local: false
+          is_playable: true
+          name: Green Machine
+          track_number: 1
+          type: track
+          uri: spotify:track:1N81UTxanRp0YEaVCvwCar
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4R9cp4QXOjELBQKtDkuVCM
+            href: https://api.spotify.com/v1/albums/4R9cp4QXOjELBQKtDkuVCM
+            id: 4R9cp4QXOjELBQKtDkuVCM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27380bcd1f1bec0ac238f39e045
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0280bcd1f1bec0ac238f39e045
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485180bcd1f1bec0ac238f39e045
+            is_playable: true
+            name: Best 90s Metal
+            release_date: '2018-04-23'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4R9cp4QXOjELBQKtDkuVCM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 217906
+          explicit: false
+          external_ids:
+            isrc: USEE10181159
+          external_urls:
+            spotify: https://open.spotify.com/track/1c1GT71m0hFMZiZfN7USIj
+          href: https://api.spotify.com/v1/tracks/1c1GT71m0hFMZiZfN7USIj
+          id: 1c1GT71m0hFMZiZfN7USIj
+          is_local: false
+          is_playable: true
+          name: Green Machine
+          track_number: 8
+          type: track
+          uri: spotify:track:1c1GT71m0hFMZiZfN7USIj
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5H0OcMSpYAW7Dxgmi8jpFO
+            href: https://api.spotify.com/v1/albums/5H0OcMSpYAW7Dxgmi8jpFO
+            id: 5H0OcMSpYAW7Dxgmi8jpFO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739bc1c06214d3e1658297e3f6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029bc1c06214d3e1658297e3f6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519bc1c06214d3e1658297e3f6
+            is_playable: true
+            name: 90's Rock Anthems
+            release_date: '2020-08-01'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:5H0OcMSpYAW7Dxgmi8jpFO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 217906
+          explicit: false
+          external_ids:
+            isrc: USEE10181159
+          external_urls:
+            spotify: https://open.spotify.com/track/4GoNpVH7fRj40uEFnfLvLD
+          href: https://api.spotify.com/v1/tracks/4GoNpVH7fRj40uEFnfLvLD
+          id: 4GoNpVH7fRj40uEFnfLvLD
+          is_local: false
+          is_playable: true
+          name: Green Machine
+          track_number: 45
+          type: track
+          uri: spotify:track:4GoNpVH7fRj40uEFnfLvLD
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2hjyFPYUReqr1hbU0SLzSz
+            href: https://api.spotify.com/v1/albums/2hjyFPYUReqr1hbU0SLzSz
+            id: 2hjyFPYUReqr1hbU0SLzSz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27332abd939a29c66cf80847b93
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0232abd939a29c66cf80847b93
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485132abd939a29c66cf80847b93
+            is_playable: true
+            name: Best Metal Intros Ever
+            release_date: '2018-03-16'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:2hjyFPYUReqr1hbU0SLzSz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 217906
+          explicit: false
+          external_ids:
+            isrc: USEE10181159
+          external_urls:
+            spotify: https://open.spotify.com/track/3o3u0HxOurCNvfEWISezmn
+          href: https://api.spotify.com/v1/tracks/3o3u0HxOurCNvfEWISezmn
+          id: 3o3u0HxOurCNvfEWISezmn
+          is_local: false
+          is_playable: true
+          name: Green Machine
+          track_number: 24
+          type: track
+          uri: spotify:track:3o3u0HxOurCNvfEWISezmn
+    isrc: USEE10181159

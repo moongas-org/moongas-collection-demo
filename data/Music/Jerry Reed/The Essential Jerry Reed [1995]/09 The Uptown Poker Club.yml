@@ -75,3 +75,126 @@ mediaFileData:
   year: 1973
   duration: 211.67021875
   modTime: 2023-07-17 00:01:02+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/29MxuIBlm86392ox86zfaC
+    trackId: 29MxuIBlm86392ox86zfaC
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN19500158&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF
+              href: https://api.spotify.com/v1/artists/3kvy8do7n0qVqvlNFS4yOF
+              id: 3kvy8do7n0qVqvlNFS4yOF
+              name: Jerry Reed
+              type: artist
+              uri: spotify:artist:3kvy8do7n0qVqvlNFS4yOF
+            external_urls:
+              spotify: https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O
+            href: https://api.spotify.com/v1/albums/0NoIqI4xsXGOpd4vvBjo7O
+            id: 0NoIqI4xsXGOpd4vvBjo7O
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ca36e30d3fdef2453ffa5a33
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ca36e30d3fdef2453ffa5a33
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ca36e30d3fdef2453ffa5a33
+            is_playable: true
+            name: The Essential Jerry Reed
+            release_date: '1995'
+            release_date_precision: year
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0NoIqI4xsXGOpd4vvBjo7O
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF
+            href: https://api.spotify.com/v1/artists/3kvy8do7n0qVqvlNFS4yOF
+            id: 3kvy8do7n0qVqvlNFS4yOF
+            name: Jerry Reed
+            type: artist
+            uri: spotify:artist:3kvy8do7n0qVqvlNFS4yOF
+          disc_number: 1
+          duration_ms: 209026
+          explicit: false
+          external_ids:
+            isrc: USRN19500158
+          external_urls:
+            spotify: https://open.spotify.com/track/29MxuIBlm86392ox86zfaC
+          href: https://api.spotify.com/v1/tracks/29MxuIBlm86392ox86zfaC
+          id: 29MxuIBlm86392ox86zfaC
+          is_local: false
+          is_playable: true
+          name: The Uptown Poker Club
+          track_number: 9
+          type: track
+          uri: spotify:track:29MxuIBlm86392ox86zfaC
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF
+              href: https://api.spotify.com/v1/artists/3kvy8do7n0qVqvlNFS4yOF
+              id: 3kvy8do7n0qVqvlNFS4yOF
+              name: Jerry Reed
+              type: artist
+              uri: spotify:artist:3kvy8do7n0qVqvlNFS4yOF
+            external_urls:
+              spotify: https://open.spotify.com/album/2goiedFE20IJ8lLQtw6mk1
+            href: https://api.spotify.com/v1/albums/2goiedFE20IJ8lLQtw6mk1
+            id: 2goiedFE20IJ8lLQtw6mk1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27355ab5c9f4c53742a83dfe7d6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0255ab5c9f4c53742a83dfe7d6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485155ab5c9f4c53742a83dfe7d6
+            is_playable: true
+            name: The Uptown Poker Club
+            release_date: '1973-11-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2goiedFE20IJ8lLQtw6mk1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF
+            href: https://api.spotify.com/v1/artists/3kvy8do7n0qVqvlNFS4yOF
+            id: 3kvy8do7n0qVqvlNFS4yOF
+            name: Jerry Reed
+            type: artist
+            uri: spotify:artist:3kvy8do7n0qVqvlNFS4yOF
+          disc_number: 1
+          duration_ms: 212004
+          explicit: false
+          external_ids:
+            isrc: USRN19500158
+          external_urls:
+            spotify: https://open.spotify.com/track/52IIa8pyHOJeLoWdeZ1ALt
+          href: https://api.spotify.com/v1/tracks/52IIa8pyHOJeLoWdeZ1ALt
+          id: 52IIa8pyHOJeLoWdeZ1ALt
+          is_local: false
+          is_playable: true
+          name: The Uptown Poker Club
+          track_number: 1
+          type: track
+          uri: spotify:track:52IIa8pyHOJeLoWdeZ1ALt
+    isrc: USRN19500158

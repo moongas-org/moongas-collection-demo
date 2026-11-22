@@ -34,3 +34,72 @@ mediaFileData:
   year: 2016
   duration: 136.75102040816327
   modTime: 2024-01-02 12:37:53.547210+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2KpazOh1NKp6tKGHsWe9zD
+    trackId: 2KpazOh1NKp6tKGHsWe9zD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCGJ1753427&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dEWX4zc2LetWmaffJVuKd
+              href: https://api.spotify.com/v1/artists/1dEWX4zc2LetWmaffJVuKd
+              id: 1dEWX4zc2LetWmaffJVuKd
+              name: Stick and Poke
+              type: artist
+              uri: spotify:artist:1dEWX4zc2LetWmaffJVuKd
+            external_urls:
+              spotify: https://open.spotify.com/album/1PYG2Kok4TupJcxjEsaCQ1
+            href: https://api.spotify.com/v1/albums/1PYG2Kok4TupJcxjEsaCQ1
+            id: 1PYG2Kok4TupJcxjEsaCQ1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273302a691e8386ff1be83cd447
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02302a691e8386ff1be83cd447
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851302a691e8386ff1be83cd447
+            is_playable: true
+            name: Never Going Back
+            release_date: '2016-12-04'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1PYG2Kok4TupJcxjEsaCQ1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dEWX4zc2LetWmaffJVuKd
+            href: https://api.spotify.com/v1/artists/1dEWX4zc2LetWmaffJVuKd
+            id: 1dEWX4zc2LetWmaffJVuKd
+            name: Stick and Poke
+            type: artist
+            uri: spotify:artist:1dEWX4zc2LetWmaffJVuKd
+          disc_number: 1
+          duration_ms: 136675
+          explicit: false
+          external_ids:
+            isrc: uscgj1753427
+          external_urls:
+            spotify: https://open.spotify.com/track/2KpazOh1NKp6tKGHsWe9zD
+          href: https://api.spotify.com/v1/tracks/2KpazOh1NKp6tKGHsWe9zD
+          id: 2KpazOh1NKp6tKGHsWe9zD
+          is_local: false
+          is_playable: true
+          name: I Don't Even Smoke
+          track_number: 5
+          type: track
+          uri: spotify:track:2KpazOh1NKp6tKGHsWe9zD
+    isrc: USCGJ1753427

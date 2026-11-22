@@ -79,3 +79,126 @@ mediaFileData:
   year: 2010
   duration: 311.84
   modTime: 2025-04-11 16:39:06.791352+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Pg3CEP6CTrmSqY9C5lQ4D
+    trackId: 3Pg3CEP6CTrmSqY9C5lQ4D
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRW31100008&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD
+              href: https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD
+              id: 7jy3rLJdDQY21OgRLCZ9sD
+              name: Foo Fighters
+              type: artist
+              uri: spotify:artist:7jy3rLJdDQY21OgRLCZ9sD
+            external_urls:
+              spotify: https://open.spotify.com/album/2R7sAYjN889jJf8v5a9br0
+            href: https://api.spotify.com/v1/albums/2R7sAYjN889jJf8v5a9br0
+            id: 2R7sAYjN889jJf8v5a9br0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a3d6940a16e1f08f5998dcb7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a3d6940a16e1f08f5998dcb7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a3d6940a16e1f08f5998dcb7
+            is_playable: true
+            name: The Essential Foo Fighters
+            release_date: '2022-10-28'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:2R7sAYjN889jJf8v5a9br0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD
+            href: https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD
+            id: 7jy3rLJdDQY21OgRLCZ9sD
+            name: Foo Fighters
+            type: artist
+            uri: spotify:artist:7jy3rLJdDQY21OgRLCZ9sD
+          disc_number: 1
+          duration_ms: 298937
+          explicit: false
+          external_ids:
+            isrc: USRW31100008
+          external_urls:
+            spotify: https://open.spotify.com/track/3Pg3CEP6CTrmSqY9C5lQ4D
+          href: https://api.spotify.com/v1/tracks/3Pg3CEP6CTrmSqY9C5lQ4D
+          id: 3Pg3CEP6CTrmSqY9C5lQ4D
+          is_local: false
+          is_playable: true
+          name: These Days
+          track_number: 20
+          type: track
+          uri: spotify:track:3Pg3CEP6CTrmSqY9C5lQ4D
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD
+              href: https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD
+              id: 7jy3rLJdDQY21OgRLCZ9sD
+              name: Foo Fighters
+              type: artist
+              uri: spotify:artist:7jy3rLJdDQY21OgRLCZ9sD
+            external_urls:
+              spotify: https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m
+            href: https://api.spotify.com/v1/albums/5lnQLEUiVDkLbFJHXHQu9m
+            id: 5lnQLEUiVDkLbFJHXHQu9m
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fc14d5117520d5bce369a543
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fc14d5117520d5bce369a543
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fc14d5117520d5bce369a543
+            is_playable: true
+            name: Wasting Light
+            release_date: '2011-04-12'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5lnQLEUiVDkLbFJHXHQu9m
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD
+            href: https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD
+            id: 7jy3rLJdDQY21OgRLCZ9sD
+            name: Foo Fighters
+            type: artist
+            uri: spotify:artist:7jy3rLJdDQY21OgRLCZ9sD
+          disc_number: 1
+          duration_ms: 297971
+          explicit: false
+          external_ids:
+            isrc: USRW31100008
+          external_urls:
+            spotify: https://open.spotify.com/track/2kN05N1AQQplsgFweFAqYb
+          href: https://api.spotify.com/v1/tracks/2kN05N1AQQplsgFweFAqYb
+          id: 2kN05N1AQQplsgFweFAqYb
+          is_local: false
+          is_playable: true
+          name: These Days
+          track_number: 6
+          type: track
+          uri: spotify:track:2kN05N1AQQplsgFweFAqYb
+    isrc: USRW31100008

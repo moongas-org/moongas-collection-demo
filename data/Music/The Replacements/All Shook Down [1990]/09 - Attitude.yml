@@ -34,3 +34,187 @@ mediaFileData:
   year: 1990
   duration: 163.152
   modTime: 2024-11-18 23:31:47.322615+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1a4tb7W7KfyDH2FqLRuvBg
+    trackId: 1a4tb7W7KfyDH2FqLRuvBg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE10800718&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+              href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+              id: 4WPY0N74T3KUja57xMQTZ3
+              name: The Replacements
+              type: artist
+              uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+            external_urls:
+              spotify: https://open.spotify.com/album/3Hyt0J3NIW4Nh2sGWTXitb
+            href: https://api.spotify.com/v1/albums/3Hyt0J3NIW4Nh2sGWTXitb
+            id: 3Hyt0J3NIW4Nh2sGWTXitb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273703361cd525d66dbdb5efb35
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02703361cd525d66dbdb5efb35
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851703361cd525d66dbdb5efb35
+            is_playable: true
+            name: All Shook Down (Expanded Edition)
+            release_date: '1990'
+            release_date_precision: year
+            total_tracks: 24
+            type: album
+            uri: spotify:album:3Hyt0J3NIW4Nh2sGWTXitb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+            href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+            id: 4WPY0N74T3KUja57xMQTZ3
+            name: The Replacements
+            type: artist
+            uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+          - external_urls:
+              spotify: https://open.spotify.com/artist/27ha2QQb4rDuCXkdnasubj
+            href: https://api.spotify.com/v1/artists/27ha2QQb4rDuCXkdnasubj
+            id: 27ha2QQb4rDuCXkdnasubj
+            name: Jay Healy
+            type: artist
+            uri: spotify:artist:27ha2QQb4rDuCXkdnasubj
+          disc_number: 1
+          duration_ms: 163053
+          explicit: false
+          external_ids:
+            isrc: USRE10800718
+          external_urls:
+            spotify: https://open.spotify.com/track/1a4tb7W7KfyDH2FqLRuvBg
+          href: https://api.spotify.com/v1/tracks/1a4tb7W7KfyDH2FqLRuvBg
+          id: 1a4tb7W7KfyDH2FqLRuvBg
+          is_local: false
+          is_playable: true
+          name: Attitude - 2008 Remaster
+          track_number: 9
+          type: track
+          uri: spotify:track:1a4tb7W7KfyDH2FqLRuvBg
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7FVCZ9LU5Nw6f7KpfrRqaX
+            href: https://api.spotify.com/v1/albums/7FVCZ9LU5Nw6f7KpfrRqaX
+            id: 7FVCZ9LU5Nw6f7KpfrRqaX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c7b6ee523a91280b87a8a6e4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c7b6ee523a91280b87a8a6e4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c7b6ee523a91280b87a8a6e4
+            is_playable: true
+            name: 90s Alternative
+            release_date: '2018-12-14'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:7FVCZ9LU5Nw6f7KpfrRqaX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+            href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+            id: 4WPY0N74T3KUja57xMQTZ3
+            name: The Replacements
+            type: artist
+            uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+          disc_number: 1
+          duration_ms: 163053
+          explicit: false
+          external_ids:
+            isrc: USRE10800718
+          external_urls:
+            spotify: https://open.spotify.com/track/6R5yjHHarYcO49dvZqXA10
+          href: https://api.spotify.com/v1/tracks/6R5yjHHarYcO49dvZqXA10
+          id: 6R5yjHHarYcO49dvZqXA10
+          is_local: false
+          is_playable: true
+          name: Attitude
+          track_number: 32
+          type: track
+          uri: spotify:track:6R5yjHHarYcO49dvZqXA10
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6MtkU5uopf8JDi2boNeRnQ
+            href: https://api.spotify.com/v1/albums/6MtkU5uopf8JDi2boNeRnQ
+            id: 6MtkU5uopf8JDi2boNeRnQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737af220c83f715ca2270dae55
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027af220c83f715ca2270dae55
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517af220c83f715ca2270dae55
+            is_playable: true
+            name: Alt Archives The 90s
+            release_date: '2025-12-23'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:6MtkU5uopf8JDi2boNeRnQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+            href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+            id: 4WPY0N74T3KUja57xMQTZ3
+            name: The Replacements
+            type: artist
+            uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+          disc_number: 1
+          duration_ms: 163053
+          explicit: false
+          external_ids:
+            isrc: USRE10800718
+          external_urls:
+            spotify: https://open.spotify.com/track/5CaDm0eBAg1UyV3BVGtNYW
+          href: https://api.spotify.com/v1/tracks/5CaDm0eBAg1UyV3BVGtNYW
+          id: 5CaDm0eBAg1UyV3BVGtNYW
+          is_local: false
+          is_playable: true
+          name: Attitude
+          track_number: 44
+          type: track
+          uri: spotify:track:5CaDm0eBAg1UyV3BVGtNYW
+    isrc: USRE10800718

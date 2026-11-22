@@ -50,3 +50,180 @@ mediaFileData:
   year: 1987
   duration: 213.72
   modTime: 2024-02-11 15:18:00.832542+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/12I5T5G9zY2Qy5EtrB09BH
+    trackId: 12I5T5G9zY2Qy5EtrB09BH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCRL1100061&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+              href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+              id: 3yY2gUcIsjMr8hjo51PoJ8
+              name: The Smiths
+              type: artist
+              uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+            external_urls:
+              spotify: https://open.spotify.com/album/30g571JKoxs8AnsgAViV2J
+            href: https://api.spotify.com/v1/albums/30g571JKoxs8AnsgAViV2J
+            id: 30g571JKoxs8AnsgAViV2J
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27340daee72081df5b8fdc754af
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0240daee72081df5b8fdc754af
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485140daee72081df5b8fdc754af
+            is_playable: true
+            name: Complete
+            release_date: '2011-09-26'
+            release_date_precision: day
+            total_tracks: 106
+            type: album
+            uri: spotify:album:30g571JKoxs8AnsgAViV2J
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+            href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+            id: 3yY2gUcIsjMr8hjo51PoJ8
+            name: The Smiths
+            type: artist
+            uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+          disc_number: 1
+          duration_ms: 215573
+          explicit: false
+          external_ids:
+            isrc: GBCRL1100061
+          external_urls:
+            spotify: https://open.spotify.com/track/12I5T5G9zY2Qy5EtrB09BH
+          href: https://api.spotify.com/v1/tracks/12I5T5G9zY2Qy5EtrB09BH
+          id: 12I5T5G9zY2Qy5EtrB09BH
+          is_local: false
+          is_playable: true
+          name: Stop Me If You Think You've Heard This One Before - 2011 Remaster
+          track_number: 35
+          type: track
+          uri: spotify:track:12I5T5G9zY2Qy5EtrB09BH
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+              href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+              id: 3yY2gUcIsjMr8hjo51PoJ8
+              name: The Smiths
+              type: artist
+              uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+            external_urls:
+              spotify: https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg
+            href: https://api.spotify.com/v1/albums/7jfexk2w5aDI25njkN0UGg
+            id: 7jfexk2w5aDI25njkN0UGg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273be214add20a20c3f9a3545a0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02be214add20a20c3f9a3545a0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851be214add20a20c3f9a3545a0
+            is_playable: true
+            name: Strangeways, Here We Come
+            release_date: '1987-09-28'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7jfexk2w5aDI25njkN0UGg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+            href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+            id: 3yY2gUcIsjMr8hjo51PoJ8
+            name: The Smiths
+            type: artist
+            uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+          disc_number: 1
+          duration_ms: 215573
+          explicit: false
+          external_ids:
+            isrc: GBCRL1100061
+          external_urls:
+            spotify: https://open.spotify.com/track/2JN57QFclho4vExKPq6OYg
+          href: https://api.spotify.com/v1/tracks/2JN57QFclho4vExKPq6OYg
+          id: 2JN57QFclho4vExKPq6OYg
+          is_local: false
+          is_playable: true
+          name: Stop Me If You Think You've Heard This One Before - 2011 Remaster
+          track_number: 5
+          type: track
+          uri: spotify:track:2JN57QFclho4vExKPq6OYg
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1uz5msW7Zv8T8VgP67cAf2
+            href: https://api.spotify.com/v1/albums/1uz5msW7Zv8T8VgP67cAf2
+            id: 1uz5msW7Zv8T8VgP67cAf2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735dc8a37baa08032a551db260
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025dc8a37baa08032a551db260
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515dc8a37baa08032a551db260
+            is_playable: true
+            name: Best Karaoke Songs of All Time
+            release_date: '2026-08-15'
+            release_date_precision: day
+            total_tracks: 52
+            type: album
+            uri: spotify:album:1uz5msW7Zv8T8VgP67cAf2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+            href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+            id: 3yY2gUcIsjMr8hjo51PoJ8
+            name: The Smiths
+            type: artist
+            uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+          disc_number: 1
+          duration_ms: 215573
+          explicit: false
+          external_ids:
+            isrc: GBCRL1100061
+          external_urls:
+            spotify: https://open.spotify.com/track/1uSdrrGeVLVitXRmAROmwb
+          href: https://api.spotify.com/v1/tracks/1uSdrrGeVLVitXRmAROmwb
+          id: 1uSdrrGeVLVitXRmAROmwb
+          is_local: false
+          is_playable: true
+          name: Stop Me If You Think You’ve Heard This One Before - 2011 Remaster
+          track_number: 34
+          type: track
+          uri: spotify:track:1uSdrrGeVLVitXRmAROmwb
+    isrc: GBCRL1100061

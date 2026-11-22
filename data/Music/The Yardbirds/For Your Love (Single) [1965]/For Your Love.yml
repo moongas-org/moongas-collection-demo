@@ -471,3 +471,126 @@ mediaFileData:
   year: 1965
   duration: 151.11836734693878
   modTime: 2023-09-14 00:28:12+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5843y4dyFStw4tGgDiVVFE
+    trackId: 5843y4dyFStw4tGgDiVVFE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMO10001114&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV
+              href: https://api.spotify.com/v1/artists/57bUPid8xztkieZfS7OlEV
+              id: 57bUPid8xztkieZfS7OlEV
+              name: The Supremes
+              type: artist
+              uri: spotify:artist:57bUPid8xztkieZfS7OlEV
+            external_urls:
+              spotify: https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV
+            href: https://api.spotify.com/v1/albums/05pI1Rx1HQ4KA0a0e3PJlV
+            id: 05pI1Rx1HQ4KA0a0e3PJlV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d5ea1215e77c3f7a7c716370
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d5ea1215e77c3f7a7c716370
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d5ea1215e77c3f7a7c716370
+            is_playable: true
+            name: Where Did Our Love Go
+            release_date: '1964-08-31'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:05pI1Rx1HQ4KA0a0e3PJlV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV
+            href: https://api.spotify.com/v1/artists/57bUPid8xztkieZfS7OlEV
+            id: 57bUPid8xztkieZfS7OlEV
+            name: The Supremes
+            type: artist
+            uri: spotify:artist:57bUPid8xztkieZfS7OlEV
+          disc_number: 1
+          duration_ms: 146560
+          explicit: false
+          external_ids:
+            isrc: USMO10001114
+          external_urls:
+            spotify: https://open.spotify.com/track/5843y4dyFStw4tGgDiVVFE
+          href: https://api.spotify.com/v1/tracks/5843y4dyFStw4tGgDiVVFE
+          id: 5843y4dyFStw4tGgDiVVFE
+          is_local: false
+          is_playable: true
+          name: Standing At The Crossroads Of Love
+          track_number: 10
+          type: track
+          uri: spotify:track:5843y4dyFStw4tGgDiVVFE
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV
+              href: https://api.spotify.com/v1/artists/57bUPid8xztkieZfS7OlEV
+              id: 57bUPid8xztkieZfS7OlEV
+              name: The Supremes
+              type: artist
+              uri: spotify:artist:57bUPid8xztkieZfS7OlEV
+            external_urls:
+              spotify: https://open.spotify.com/album/1B4IdYdTVmpJsbZBypEgbR
+            href: https://api.spotify.com/v1/albums/1B4IdYdTVmpJsbZBypEgbR
+            id: 1B4IdYdTVmpJsbZBypEgbR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27325e9eddcd3fa7e31f55c991c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0225e9eddcd3fa7e31f55c991c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485125e9eddcd3fa7e31f55c991c
+            is_playable: true
+            name: 'Where Did Our Love Go: 40th Anniversary Edition'
+            release_date: '1964-08-31'
+            release_date_precision: day
+            total_tracks: 51
+            type: album
+            uri: spotify:album:1B4IdYdTVmpJsbZBypEgbR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV
+            href: https://api.spotify.com/v1/artists/57bUPid8xztkieZfS7OlEV
+            id: 57bUPid8xztkieZfS7OlEV
+            name: The Supremes
+            type: artist
+            uri: spotify:artist:57bUPid8xztkieZfS7OlEV
+          disc_number: 1
+          duration_ms: 145533
+          explicit: false
+          external_ids:
+            isrc: USMO10001114
+          external_urls:
+            spotify: https://open.spotify.com/track/4QDGl1uMQKFqLsC8lvbh0M
+          href: https://api.spotify.com/v1/tracks/4QDGl1uMQKFqLsC8lvbh0M
+          id: 4QDGl1uMQKFqLsC8lvbh0M
+          is_local: false
+          is_playable: true
+          name: Standing At The Crossroads Of Love
+          track_number: 22
+          type: track
+          uri: spotify:track:4QDGl1uMQKFqLsC8lvbh0M
+    isrc: USMO10001114

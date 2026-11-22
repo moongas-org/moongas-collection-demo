@@ -66,3 +66,126 @@ mediaFileData:
   year: 2008
   duration: 220.896
   modTime: 2025-03-22 20:17:03.073795+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3iDeyByg9el8mLz9KrEscE
+    trackId: 3iDeyByg9el8mLz9KrEscE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPW0800013&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+              href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+              id: 29XOeO6KIWxGthejQqn793
+              name: Flying Lotus
+              type: artist
+              uri: spotify:artist:29XOeO6KIWxGthejQqn793
+            external_urls:
+              spotify: https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu
+            href: https://api.spotify.com/v1/albums/0q8xcjDnjM60zXr8UdSDfu
+            id: 0q8xcjDnjM60zXr8UdSDfu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273650c4762a44fdfbe2a42a571
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02650c4762a44fdfbe2a42a571
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851650c4762a44fdfbe2a42a571
+            is_playable: true
+            name: Los Angeles
+            release_date: '2008-07-09'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:0q8xcjDnjM60zXr8UdSDfu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+            href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+            id: 29XOeO6KIWxGthejQqn793
+            name: Flying Lotus
+            type: artist
+            uri: spotify:artist:29XOeO6KIWxGthejQqn793
+          disc_number: 1
+          duration_ms: 220866
+          explicit: false
+          external_ids:
+            isrc: GBBPW0800013
+          external_urls:
+            spotify: https://open.spotify.com/track/3iDeyByg9el8mLz9KrEscE
+          href: https://api.spotify.com/v1/tracks/3iDeyByg9el8mLz9KrEscE
+          id: 3iDeyByg9el8mLz9KrEscE
+          is_local: false
+          is_playable: true
+          name: GNG BNG
+          track_number: 10
+          type: track
+          uri: spotify:track:3iDeyByg9el8mLz9KrEscE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5BwzCbr9fUAbih5VNci1rJ
+            href: https://api.spotify.com/v1/albums/5BwzCbr9fUAbih5VNci1rJ
+            id: 5BwzCbr9fUAbih5VNci1rJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738781132ed5d86564340d75bb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028781132ed5d86564340d75bb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518781132ed5d86564340d75bb
+            is_playable: true
+            name: Warp20 (Chosen)
+            release_date: '2009-09-28'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:5BwzCbr9fUAbih5VNci1rJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+            href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+            id: 29XOeO6KIWxGthejQqn793
+            name: Flying Lotus
+            type: artist
+            uri: spotify:artist:29XOeO6KIWxGthejQqn793
+          disc_number: 1
+          duration_ms: 220866
+          explicit: false
+          external_ids:
+            isrc: GBBPW0800013
+          external_urls:
+            spotify: https://open.spotify.com/track/2GCUe2OORLcbeZ5G2nw69x
+          href: https://api.spotify.com/v1/tracks/2GCUe2OORLcbeZ5G2nw69x
+          id: 2GCUe2OORLcbeZ5G2nw69x
+          is_local: false
+          is_playable: true
+          name: GNG BNG
+          track_number: 16
+          type: track
+          uri: spotify:track:2GCUe2OORLcbeZ5G2nw69x
+    isrc: GBBPW0800013

@@ -232,3 +232,126 @@ mediaFileData:
   year: 1978
   duration: 172.344
   modTime: 2023-09-24 22:22:54+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5wHloIpPVD92rfXjNuqvVi
+    trackId: 5wHloIpPVD92rfXjNuqvVi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA29601972&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1G88PO1pYwCm2UHmhVb9GF
+            href: https://api.spotify.com/v1/albums/1G88PO1pYwCm2UHmhVb9GF
+            id: 1G88PO1pYwCm2UHmhVb9GF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fecf224a7943c67be51b8f83
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fecf224a7943c67be51b8f83
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fecf224a7943c67be51b8f83
+            is_playable: true
+            name: 70s Pop
+            release_date: '2018-10-19'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:1G88PO1pYwCm2UHmhVb9GF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN
+            href: https://api.spotify.com/v1/artists/2Mhi3jfuRSdbVZPdjqsnnN
+            id: 2Mhi3jfuRSdbVZPdjqsnnN
+            name: Dr. Hook
+            type: artist
+            uri: spotify:artist:2Mhi3jfuRSdbVZPdjqsnnN
+          disc_number: 1
+          duration_ms: 177200
+          explicit: false
+          external_ids:
+            isrc: USCA29601972
+          external_urls:
+            spotify: https://open.spotify.com/track/5wHloIpPVD92rfXjNuqvVi
+          href: https://api.spotify.com/v1/tracks/5wHloIpPVD92rfXjNuqvVi
+          id: 5wHloIpPVD92rfXjNuqvVi
+          is_local: false
+          is_playable: true
+          name: When You're In Love With A Beautiful Woman - Remastered 1996
+          track_number: 16
+          type: track
+          uri: spotify:track:5wHloIpPVD92rfXjNuqvVi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6KH4ltzOlUlqrMmtO6GVJp
+            href: https://api.spotify.com/v1/albums/6KH4ltzOlUlqrMmtO6GVJp
+            id: 6KH4ltzOlUlqrMmtO6GVJp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273690f107f88b9b8013c93766c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02690f107f88b9b8013c93766c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851690f107f88b9b8013c93766c
+            is_playable: true
+            name: 70's Nostalgia
+            release_date: '2020-02-21'
+            release_date_precision: day
+            total_tracks: 42
+            type: album
+            uri: spotify:album:6KH4ltzOlUlqrMmtO6GVJp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN
+            href: https://api.spotify.com/v1/artists/2Mhi3jfuRSdbVZPdjqsnnN
+            id: 2Mhi3jfuRSdbVZPdjqsnnN
+            name: Dr. Hook
+            type: artist
+            uri: spotify:artist:2Mhi3jfuRSdbVZPdjqsnnN
+          disc_number: 1
+          duration_ms: 177200
+          explicit: false
+          external_ids:
+            isrc: USCA29601972
+          external_urls:
+            spotify: https://open.spotify.com/track/3HRtYOcJad4oZOPgzM6VFf
+          href: https://api.spotify.com/v1/tracks/3HRtYOcJad4oZOPgzM6VFf
+          id: 3HRtYOcJad4oZOPgzM6VFf
+          is_local: false
+          is_playable: true
+          name: When You're In Love With A Beautiful Woman - Remastered 1996
+          track_number: 42
+          type: track
+          uri: spotify:track:3HRtYOcJad4oZOPgzM6VFf
+    isrc: USCA29601972

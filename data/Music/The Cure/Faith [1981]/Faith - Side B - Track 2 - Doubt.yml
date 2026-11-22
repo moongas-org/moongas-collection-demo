@@ -37,3 +37,126 @@ mediaFileData:
   year: 1981
   duration: 191.42530612244897
   modTime: 2024-11-01 19:04:24.791225+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3k8stV2VTjpIzqwFgOoyKv
+    trackId: 3k8stV2VTjpIzqwFgOoyKv
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10500779&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T
+            href: https://api.spotify.com/v1/albums/0BGTV9xi9NFdUjA3erGs1T
+            id: 0BGTV9xi9NFdUjA3erGs1T
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e65902f4154544bf4e6034e9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e65902f4154544bf4e6034e9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e65902f4154544bf4e6034e9
+            is_playable: true
+            name: Faith (Deluxe Edition)
+            release_date: '1981-04-10'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:0BGTV9xi9NFdUjA3erGs1T
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 191333
+          explicit: false
+          external_ids:
+            isrc: USEE10500779
+          external_urls:
+            spotify: https://open.spotify.com/track/3k8stV2VTjpIzqwFgOoyKv
+          href: https://api.spotify.com/v1/tracks/3k8stV2VTjpIzqwFgOoyKv
+          id: 3k8stV2VTjpIzqwFgOoyKv
+          is_local: false
+          is_playable: true
+          name: Doubt - 2005 Remaster
+          track_number: 6
+          type: track
+          uri: spotify:track:3k8stV2VTjpIzqwFgOoyKv
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/1qL9O6xT5zW2h4JtWaT2us
+            href: https://api.spotify.com/v1/albums/1qL9O6xT5zW2h4JtWaT2us
+            id: 1qL9O6xT5zW2h4JtWaT2us
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736135a94bca01ef08a8195845
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026135a94bca01ef08a8195845
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516135a94bca01ef08a8195845
+            is_playable: true
+            name: Faith
+            release_date: '1981-04-10'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:1qL9O6xT5zW2h4JtWaT2us
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 191333
+          explicit: false
+          external_ids:
+            isrc: USEE10500779
+          external_urls:
+            spotify: https://open.spotify.com/track/1WGxYzKmfZNHOqaZM4YdPb
+          href: https://api.spotify.com/v1/tracks/1WGxYzKmfZNHOqaZM4YdPb
+          id: 1WGxYzKmfZNHOqaZM4YdPb
+          is_local: false
+          is_playable: true
+          name: Doubt - 2005 Remaster
+          track_number: 6
+          type: track
+          uri: spotify:track:1WGxYzKmfZNHOqaZM4YdPb
+    isrc: USEE10500779

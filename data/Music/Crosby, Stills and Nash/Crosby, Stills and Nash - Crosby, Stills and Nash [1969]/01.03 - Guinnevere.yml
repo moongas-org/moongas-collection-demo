@@ -91,3 +91,72 @@ mediaFileData:
   year: 1969
   duration: 279.072
   modTime: 2026-08-30 23:53:59.591658+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5B6z6YJHsR0BUqKamRrvI6
+    trackId: 5B6z6YJHsR0BUqKamRrvI6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20901714&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ
+              href: https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ
+              id: 1CYsQCypByMVgnv17qsSbQ
+              name: Crosby, Stills, Nash & Young
+              type: artist
+              uri: spotify:artist:1CYsQCypByMVgnv17qsSbQ
+            external_urls:
+              spotify: https://open.spotify.com/album/5C1NUv7hNWS6n0GBtLetKM
+            href: https://api.spotify.com/v1/albums/5C1NUv7hNWS6n0GBtLetKM
+            id: 5C1NUv7hNWS6n0GBtLetKM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736ae632b15daa8ac05ed90f28
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026ae632b15daa8ac05ed90f28
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516ae632b15daa8ac05ed90f28
+            is_playable: true
+            name: So Far
+            release_date: '1974-08-19'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5C1NUv7hNWS6n0GBtLetKM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ
+            href: https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ
+            id: 1CYsQCypByMVgnv17qsSbQ
+            name: Crosby, Stills, Nash & Young
+            type: artist
+            uri: spotify:artist:1CYsQCypByMVgnv17qsSbQ
+          disc_number: 1
+          duration_ms: 278533
+          explicit: false
+          external_ids:
+            isrc: USAT20901714
+          external_urls:
+            spotify: https://open.spotify.com/track/5B6z6YJHsR0BUqKamRrvI6
+          href: https://api.spotify.com/v1/tracks/5B6z6YJHsR0BUqKamRrvI6
+          id: 5B6z6YJHsR0BUqKamRrvI6
+          is_local: false
+          is_playable: true
+          name: Guinnevere
+          track_number: 10
+          type: track
+          uri: spotify:track:5B6z6YJHsR0BUqKamRrvI6
+    isrc: USAT20901714

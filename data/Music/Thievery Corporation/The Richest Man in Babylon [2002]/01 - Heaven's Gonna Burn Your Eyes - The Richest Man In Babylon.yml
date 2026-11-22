@@ -68,3 +68,126 @@ mediaFileData:
   year: 2002
   duration: 251.8465306122449
   modTime: 2024-07-20 00:26:25.839578+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4MmbFpyw8wqdj6EwIylquz
+    trackId: 4MmbFpyw8wqdj6EwIylquz
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSESL0306001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+              href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+              id: 25KNo5GDS6ZpLkjasaecA3
+              name: Thievery Corporation
+              type: artist
+              uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+            external_urls:
+              spotify: https://open.spotify.com/album/1j7ywqTVRifFWn4BruX9H8
+            href: https://api.spotify.com/v1/albums/1j7ywqTVRifFWn4BruX9H8
+            id: 1j7ywqTVRifFWn4BruX9H8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a99e6fa2a645c59173ef2c33
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a99e6fa2a645c59173ef2c33
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a99e6fa2a645c59173ef2c33
+            is_playable: true
+            name: Thievery 30
+            release_date: '2026-09-09'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:1j7ywqTVRifFWn4BruX9H8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+            href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+            id: 25KNo5GDS6ZpLkjasaecA3
+            name: Thievery Corporation
+            type: artist
+            uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+          disc_number: 1
+          duration_ms: 250360
+          explicit: false
+          external_ids:
+            isrc: USESL0306001
+          external_urls:
+            spotify: https://open.spotify.com/track/4MmbFpyw8wqdj6EwIylquz
+          href: https://api.spotify.com/v1/tracks/4MmbFpyw8wqdj6EwIylquz
+          id: 4MmbFpyw8wqdj6EwIylquz
+          is_local: false
+          is_playable: true
+          name: Heaven's Gonna Burn Your Eyes
+          track_number: 11
+          type: track
+          uri: spotify:track:4MmbFpyw8wqdj6EwIylquz
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+              href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+              id: 25KNo5GDS6ZpLkjasaecA3
+              name: Thievery Corporation
+              type: artist
+              uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+            external_urls:
+              spotify: https://open.spotify.com/album/2gKBPcQcRfqbnjjnv3Qi8a
+            href: https://api.spotify.com/v1/albums/2gKBPcQcRfqbnjjnv3Qi8a
+            id: 2gKBPcQcRfqbnjjnv3Qi8a
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273943b30cf86f0edd3fc5a3221
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02943b30cf86f0edd3fc5a3221
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851943b30cf86f0edd3fc5a3221
+            is_playable: true
+            name: The Richest Man In Babylon
+            release_date: '2003-01-14'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:2gKBPcQcRfqbnjjnv3Qi8a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+            href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+            id: 25KNo5GDS6ZpLkjasaecA3
+            name: Thievery Corporation
+            type: artist
+            uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+          disc_number: 1
+          duration_ms: 250360
+          explicit: false
+          external_ids:
+            isrc: USESL0306001
+          external_urls:
+            spotify: https://open.spotify.com/track/1Rq5RhsjRcdnVpWgvSugW2
+          href: https://api.spotify.com/v1/tracks/1Rq5RhsjRcdnVpWgvSugW2
+          id: 1Rq5RhsjRcdnVpWgvSugW2
+          is_local: false
+          is_playable: true
+          name: Heaven's Gonna Burn Your Eyes
+          track_number: 1
+          type: track
+          uri: spotify:track:1Rq5RhsjRcdnVpWgvSugW2
+    isrc: USESL0306001

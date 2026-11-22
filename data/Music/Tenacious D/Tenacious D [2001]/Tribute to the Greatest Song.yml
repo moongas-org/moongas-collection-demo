@@ -58,3 +58,234 @@ mediaFileData:
   year: 2001
   duration: 259.4743125
   modTime: 2023-04-23 15:33:26.230000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/51bJfTcef9pGDOFqMYQPzp
+    trackId: 51bJfTcef9pGDOFqMYQPzp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10108746&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3iMFEXxylazdTrXHmGSTF3
+            href: https://api.spotify.com/v1/albums/3iMFEXxylazdTrXHmGSTF3
+            id: 3iMFEXxylazdTrXHmGSTF3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7385acc1c769b92527db8ed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7385acc1c769b92527db8ed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7385acc1c769b92527db8ed
+            is_playable: true
+            name: Pub Songs
+            release_date: '2020-01-24'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:3iMFEXxylazdTrXHmGSTF3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh
+            href: https://api.spotify.com/v1/artists/1XpDYCrUJnvCo9Ez6yeMWh
+            id: 1XpDYCrUJnvCo9Ez6yeMWh
+            name: Tenacious D
+            type: artist
+            uri: spotify:artist:1XpDYCrUJnvCo9Ez6yeMWh
+          disc_number: 1
+          duration_ms: 248053
+          explicit: true
+          external_ids:
+            isrc: USSM10108746
+          external_urls:
+            spotify: https://open.spotify.com/track/51bJfTcef9pGDOFqMYQPzp
+          href: https://api.spotify.com/v1/tracks/51bJfTcef9pGDOFqMYQPzp
+          id: 51bJfTcef9pGDOFqMYQPzp
+          is_local: false
+          is_playable: true
+          name: Tribute
+          track_number: 23
+          type: track
+          uri: spotify:track:51bJfTcef9pGDOFqMYQPzp
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh
+              href: https://api.spotify.com/v1/artists/1XpDYCrUJnvCo9Ez6yeMWh
+              id: 1XpDYCrUJnvCo9Ez6yeMWh
+              name: Tenacious D
+              type: artist
+              uri: spotify:artist:1XpDYCrUJnvCo9Ez6yeMWh
+            external_urls:
+              spotify: https://open.spotify.com/album/2do5na0bopjh6BdPGWzKhW
+            href: https://api.spotify.com/v1/albums/2do5na0bopjh6BdPGWzKhW
+            id: 2do5na0bopjh6BdPGWzKhW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27382eb1945bfe62cd5c0104ec7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0282eb1945bfe62cd5c0104ec7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485182eb1945bfe62cd5c0104ec7
+            is_playable: true
+            name: Tribute EP
+            release_date: '2021-09-28'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:2do5na0bopjh6BdPGWzKhW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh
+            href: https://api.spotify.com/v1/artists/1XpDYCrUJnvCo9Ez6yeMWh
+            id: 1XpDYCrUJnvCo9Ez6yeMWh
+            name: Tenacious D
+            type: artist
+            uri: spotify:artist:1XpDYCrUJnvCo9Ez6yeMWh
+          disc_number: 1
+          duration_ms: 248076
+          explicit: true
+          external_ids:
+            isrc: USSM10108746
+          external_urls:
+            spotify: https://open.spotify.com/track/5XzcTUHeplQZIDdf65o6eb
+          href: https://api.spotify.com/v1/tracks/5XzcTUHeplQZIDdf65o6eb
+          id: 5XzcTUHeplQZIDdf65o6eb
+          is_local: false
+          is_playable: true
+          name: Tribute
+          track_number: 1
+          type: track
+          uri: spotify:track:5XzcTUHeplQZIDdf65o6eb
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh
+              href: https://api.spotify.com/v1/artists/1XpDYCrUJnvCo9Ez6yeMWh
+              id: 1XpDYCrUJnvCo9Ez6yeMWh
+              name: Tenacious D
+              type: artist
+              uri: spotify:artist:1XpDYCrUJnvCo9Ez6yeMWh
+            external_urls:
+              spotify: https://open.spotify.com/album/7mv1ciCld5Bp1y6TDGtjQY
+            href: https://api.spotify.com/v1/albums/7mv1ciCld5Bp1y6TDGtjQY
+            id: 7mv1ciCld5Bp1y6TDGtjQY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273869a8f064058a6e0ae44e089
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02869a8f064058a6e0ae44e089
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851869a8f064058a6e0ae44e089
+            is_playable: true
+            name: Tenacious D
+            release_date: '2001-09-25'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:7mv1ciCld5Bp1y6TDGtjQY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh
+            href: https://api.spotify.com/v1/artists/1XpDYCrUJnvCo9Ez6yeMWh
+            id: 1XpDYCrUJnvCo9Ez6yeMWh
+            name: Tenacious D
+            type: artist
+            uri: spotify:artist:1XpDYCrUJnvCo9Ez6yeMWh
+          disc_number: 1
+          duration_ms: 248053
+          explicit: true
+          external_ids:
+            isrc: USSM10108746
+          external_urls:
+            spotify: https://open.spotify.com/track/53XBXgtdqf1gmWMm3rqV27
+          href: https://api.spotify.com/v1/tracks/53XBXgtdqf1gmWMm3rqV27
+          id: 53XBXgtdqf1gmWMm3rqV27
+          is_local: false
+          is_playable: true
+          name: Tribute
+          track_number: 3
+          type: track
+          uri: spotify:track:53XBXgtdqf1gmWMm3rqV27
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh
+              href: https://api.spotify.com/v1/artists/1XpDYCrUJnvCo9Ez6yeMWh
+              id: 1XpDYCrUJnvCo9Ez6yeMWh
+              name: Tenacious D
+              type: artist
+              uri: spotify:artist:1XpDYCrUJnvCo9Ez6yeMWh
+            external_urls:
+              spotify: https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS
+            href: https://api.spotify.com/v1/albums/1AckkxSo39144vOBrJ1GkS
+            id: 1AckkxSo39144vOBrJ1GkS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ee0285c63a334af9b91fa12b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ee0285c63a334af9b91fa12b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ee0285c63a334af9b91fa12b
+            is_playable: true
+            name: Tenacious D
+            release_date: '2001-09-25'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:1AckkxSo39144vOBrJ1GkS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh
+            href: https://api.spotify.com/v1/artists/1XpDYCrUJnvCo9Ez6yeMWh
+            id: 1XpDYCrUJnvCo9Ez6yeMWh
+            name: Tenacious D
+            type: artist
+            uri: spotify:artist:1XpDYCrUJnvCo9Ez6yeMWh
+          disc_number: 1
+          duration_ms: 248053
+          explicit: true
+          external_ids:
+            isrc: USSM10108746
+          external_urls:
+            spotify: https://open.spotify.com/track/6crBy2sODw2HS53xquM6us
+          href: https://api.spotify.com/v1/tracks/6crBy2sODw2HS53xquM6us
+          id: 6crBy2sODw2HS53xquM6us
+          is_local: false
+          is_playable: true
+          name: Tribute
+          track_number: 3
+          type: track
+          uri: spotify:track:6crBy2sODw2HS53xquM6us
+    isrc: USSM10108746

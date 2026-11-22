@@ -68,3 +68,126 @@ mediaFileData:
   year: 1996
   duration: 244.824
   modTime: 2024-03-05 02:21:01.043046+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1WZkz3lFM2cNqra3cLnmYe
+    trackId: 1WZkz3lFM2cNqra3cLnmYe
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSLF29600147&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+              href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+              id: 1G9G7WwrXka3Z1r7aIDjI7
+              name: Outkast
+              type: artist
+              uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+            external_urls:
+              spotify: https://open.spotify.com/album/2aguk06CzD0Dy6FXpjfoV4
+            href: https://api.spotify.com/v1/albums/2aguk06CzD0Dy6FXpjfoV4
+            id: 2aguk06CzD0Dy6FXpjfoV4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27398ac56ba57ef6581d0247947
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0298ac56ba57ef6581d0247947
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485198ac56ba57ef6581d0247947
+            is_playable: true
+            name: ATLiens / Wheelz of Steel
+            release_date: '1996-08-17'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:2aguk06CzD0Dy6FXpjfoV4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 238520
+          explicit: false
+          external_ids:
+            isrc: USLF29600147
+          external_urls:
+            spotify: https://open.spotify.com/track/1WZkz3lFM2cNqra3cLnmYe
+          href: https://api.spotify.com/v1/tracks/1WZkz3lFM2cNqra3cLnmYe
+          id: 1WZkz3lFM2cNqra3cLnmYe
+          is_local: false
+          is_playable: true
+          name: Wheelz Of Steel - Instrumental
+          track_number: 8
+          type: track
+          uri: spotify:track:1WZkz3lFM2cNqra3cLnmYe
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+              href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+              id: 1G9G7WwrXka3Z1r7aIDjI7
+              name: Outkast
+              type: artist
+              uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+            external_urls:
+              spotify: https://open.spotify.com/album/4PID9ExpAM3SuYCPlBseRv
+            href: https://api.spotify.com/v1/albums/4PID9ExpAM3SuYCPlBseRv
+            id: 4PID9ExpAM3SuYCPlBseRv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27320d45c86d40f5aaf88bb1c17
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0220d45c86d40f5aaf88bb1c17
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485120d45c86d40f5aaf88bb1c17
+            is_playable: true
+            name: ATLiens (25th Anniversary Deluxe Edition)
+            release_date: '2021-08-27'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:4PID9ExpAM3SuYCPlBseRv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 239000
+          explicit: false
+          external_ids:
+            isrc: USLF29600147
+          external_urls:
+            spotify: https://open.spotify.com/track/53M4Qw48LeBrpibIwbWC58
+          href: https://api.spotify.com/v1/tracks/53M4Qw48LeBrpibIwbWC58
+          id: 53M4Qw48LeBrpibIwbWC58
+          is_local: false
+          is_playable: true
+          name: Wheelz Of Steel - Instrumental
+          track_number: 18
+          type: track
+          uri: spotify:track:53M4Qw48LeBrpibIwbWC58
+    isrc: USLF29600147

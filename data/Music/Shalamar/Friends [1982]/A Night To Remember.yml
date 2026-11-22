@@ -103,3 +103,126 @@ mediaFileData:
   year: 1992
   duration: 313.896
   modTime: 2023-11-23 01:32:54.083897+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6ijUrN0KfM67pwSa8NAdr5
+    trackId: 6ijUrN0KfM67pwSa8NAdr5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ACAU118201083&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A
+              href: https://api.spotify.com/v1/artists/3REpOYo13YkVj1dFzda12A
+              id: 3REpOYo13YkVj1dFzda12A
+              name: Shalamar
+              type: artist
+              uri: spotify:artist:3REpOYo13YkVj1dFzda12A
+            external_urls:
+              spotify: https://open.spotify.com/album/5nCLUAea6pKgU6mVfQhtCT
+            href: https://api.spotify.com/v1/albums/5nCLUAea6pKgU6mVfQhtCT
+            id: 5nCLUAea6pKgU6mVfQhtCT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27387a02c28bcb36289e829d33f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0287a02c28bcb36289e829d33f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485187a02c28bcb36289e829d33f
+            is_playable: true
+            name: The 12 Inch Collection
+            release_date: '1989-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5nCLUAea6pKgU6mVfQhtCT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A
+            href: https://api.spotify.com/v1/artists/3REpOYo13YkVj1dFzda12A
+            id: 3REpOYo13YkVj1dFzda12A
+            name: Shalamar
+            type: artist
+            uri: spotify:artist:3REpOYo13YkVj1dFzda12A
+          disc_number: 1
+          duration_ms: 299360
+          explicit: false
+          external_ids:
+            isrc: CAU118201083
+          external_urls:
+            spotify: https://open.spotify.com/track/6ijUrN0KfM67pwSa8NAdr5
+          href: https://api.spotify.com/v1/tracks/6ijUrN0KfM67pwSa8NAdr5
+          id: 6ijUrN0KfM67pwSa8NAdr5
+          is_local: false
+          is_playable: true
+          name: A Night to Remember
+          track_number: 7
+          type: track
+          uri: spotify:track:6ijUrN0KfM67pwSa8NAdr5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A
+              href: https://api.spotify.com/v1/artists/3REpOYo13YkVj1dFzda12A
+              id: 3REpOYo13YkVj1dFzda12A
+              name: Shalamar
+              type: artist
+              uri: spotify:artist:3REpOYo13YkVj1dFzda12A
+            external_urls:
+              spotify: https://open.spotify.com/album/3sY9MPqUb0mSj1sujVdLZc
+            href: https://api.spotify.com/v1/albums/3sY9MPqUb0mSj1sujVdLZc
+            id: 3sY9MPqUb0mSj1sujVdLZc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27310f711ef19080e5840ab1bba
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0210f711ef19080e5840ab1bba
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485110f711ef19080e5840ab1bba
+            is_playable: true
+            name: The 12 Inch Collection
+            release_date: '1993-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3sY9MPqUb0mSj1sujVdLZc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A
+            href: https://api.spotify.com/v1/artists/3REpOYo13YkVj1dFzda12A
+            id: 3REpOYo13YkVj1dFzda12A
+            name: Shalamar
+            type: artist
+            uri: spotify:artist:3REpOYo13YkVj1dFzda12A
+          disc_number: 1
+          duration_ms: 299360
+          explicit: false
+          external_ids:
+            isrc: CAU118201083
+          external_urls:
+            spotify: https://open.spotify.com/track/2xsXNMfcKLQxL5sQq4v7gH
+          href: https://api.spotify.com/v1/tracks/2xsXNMfcKLQxL5sQq4v7gH
+          id: 2xsXNMfcKLQxL5sQq4v7gH
+          is_local: false
+          is_playable: true
+          name: A Night to Remember
+          track_number: 7
+          type: track
+          uri: spotify:track:2xsXNMfcKLQxL5sQq4v7gH
+    isrc: CAU118201083

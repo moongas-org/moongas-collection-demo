@@ -34,3 +34,72 @@ mediaFileData:
   year: 2000
   duration: 253.1265306122449
   modTime: 2026-08-15 15:10:08.524021+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5rn5apOnZL5jGNxXetNUaf
+    trackId: 5rn5apOnZL5jGNxXetNUaf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCM50900311&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+              href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+              id: 55Aa2cqylxrFIXC767Z865
+              name: Lil Wayne
+              type: artist
+              uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+            external_urls:
+              spotify: https://open.spotify.com/album/2nOW4KIsrMnoL4hJZRODKl
+            href: https://api.spotify.com/v1/albums/2nOW4KIsrMnoL4hJZRODKl
+            id: 2nOW4KIsrMnoL4hJZRODKl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ea9e90d7c19bca1837cd48ae
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ea9e90d7c19bca1837cd48ae
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ea9e90d7c19bca1837cd48ae
+            is_playable: true
+            name: Lights Out
+            release_date: '2000-12-19'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:2nOW4KIsrMnoL4hJZRODKl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+            href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+            id: 55Aa2cqylxrFIXC767Z865
+            name: Lil Wayne
+            type: artist
+            uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+          disc_number: 1
+          duration_ms: 253066
+          explicit: true
+          external_ids:
+            isrc: USCM50900311
+          external_urls:
+            spotify: https://open.spotify.com/track/5rn5apOnZL5jGNxXetNUaf
+          href: https://api.spotify.com/v1/tracks/5rn5apOnZL5jGNxXetNUaf
+          id: 5rn5apOnZL5jGNxXetNUaf
+          is_local: false
+          is_playable: true
+          name: Jump Jiggy
+          track_number: 13
+          type: track
+          uri: spotify:track:5rn5apOnZL5jGNxXetNUaf
+    isrc: USCM50900311

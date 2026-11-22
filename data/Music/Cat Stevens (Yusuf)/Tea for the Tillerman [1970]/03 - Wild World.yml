@@ -148,3 +148,72 @@ mediaFileData:
   year: 1970
   duration: 200.616
   modTime: 2025-06-09 16:13:52.445884+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4MyoaY1V7L0oXJJPO8wzo5
+    trackId: 4MyoaY1V7L0oXJJPO8wzo5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUG12502169&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+              href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+              id: 08F3Y3SctIlsOEmKd6dnH8
+              name: Yusuf / Cat Stevens
+              type: artist
+              uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+            external_urls:
+              spotify: https://open.spotify.com/album/0CzQxtLVM0mYgJXeaTT2pF
+            href: https://api.spotify.com/v1/albums/0CzQxtLVM0mYgJXeaTT2pF
+            id: 0CzQxtLVM0mYgJXeaTT2pF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27351fe105b22b6075b868c4f9a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0251fe105b22b6075b868c4f9a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485151fe105b22b6075b868c4f9a
+            is_playable: true
+            name: Saturnight (Cat Stevens Live In Tokyo)
+            release_date: '2025-05-02'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0CzQxtLVM0mYgJXeaTT2pF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+            href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+            id: 08F3Y3SctIlsOEmKd6dnH8
+            name: Yusuf / Cat Stevens
+            type: artist
+            uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+          disc_number: 1
+          duration_ms: 195659
+          explicit: false
+          external_ids:
+            isrc: USUG12502169
+          external_urls:
+            spotify: https://open.spotify.com/track/4MyoaY1V7L0oXJJPO8wzo5
+          href: https://api.spotify.com/v1/tracks/4MyoaY1V7L0oXJJPO8wzo5
+          id: 4MyoaY1V7L0oXJJPO8wzo5
+          is_local: false
+          is_playable: true
+          name: Wild World - Live in Japan, 1974
+          track_number: 1
+          type: track
+          uri: spotify:track:4MyoaY1V7L0oXJJPO8wzo5
+    isrc: USUG12502169

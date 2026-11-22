@@ -71,3 +71,126 @@ mediaFileData:
   year: 1994
   duration: 210.46858333333333
   modTime: 2023-10-01 16:21:36+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/106yaJxw6JhEQ7n1EsygQi
+    trackId: 106yaJxw6JhEQ7n1EsygQi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBLY1903629&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/2B0KfDdRqMHNEX9BNOty4F
+            href: https://api.spotify.com/v1/albums/2B0KfDdRqMHNEX9BNOty4F
+            id: 2B0KfDdRqMHNEX9BNOty4F
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273be8a7b4a5afcb0f935931594
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02be8a7b4a5afcb0f935931594
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851be8a7b4a5afcb0f935931594
+            is_playable: true
+            name: Without A Sound (2019 Expanded & Remastered Edition)
+            release_date: '1994-08-23'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:2B0KfDdRqMHNEX9BNOty4F
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 1
+          duration_ms: 216480
+          explicit: false
+          external_ids:
+            isrc: GBBLY1903629
+          external_urls:
+            spotify: https://open.spotify.com/track/106yaJxw6JhEQ7n1EsygQi
+          href: https://api.spotify.com/v1/tracks/106yaJxw6JhEQ7n1EsygQi
+          id: 106yaJxw6JhEQ7n1EsygQi
+          is_local: false
+          is_playable: true
+          name: I Don't Think So - Instrumental
+          track_number: 14
+          type: track
+          uri: spotify:track:106yaJxw6JhEQ7n1EsygQi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/4eZ76irqXk1wvH7yPnMxtc
+            href: https://api.spotify.com/v1/albums/4eZ76irqXk1wvH7yPnMxtc
+            id: 4eZ76irqXk1wvH7yPnMxtc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cb6032b635bdcf7afba27e22
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cb6032b635bdcf7afba27e22
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cb6032b635bdcf7afba27e22
+            is_playable: true
+            name: 'Puke + Cry: The Sire Years 1990-1997'
+            release_date: '2024-09-06'
+            release_date_precision: day
+            total_tracks: 71
+            type: album
+            uri: spotify:album:4eZ76irqXk1wvH7yPnMxtc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 3
+          duration_ms: 216480
+          explicit: false
+          external_ids:
+            isrc: GBBLY1903629
+          external_urls:
+            spotify: https://open.spotify.com/track/4lb5kfxguisoPc2kfktczx
+          href: https://api.spotify.com/v1/tracks/4lb5kfxguisoPc2kfktczx
+          id: 4lb5kfxguisoPc2kfktczx
+          is_local: false
+          is_playable: true
+          name: I Don't Think So - Instrumental
+          track_number: 14
+          type: track
+          uri: spotify:track:4lb5kfxguisoPc2kfktczx
+    isrc: GBBLY1903629

@@ -67,3 +67,72 @@ mediaFileData:
   year: 1981
   duration: 237.42703125
   modTime: 2024-09-20 00:04:40.637743+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1My6EeAGmx5twkyhWs96U3
+    trackId: 1My6EeAGmx5twkyhWs96U3
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCRL2600044&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+              href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+              id: 432R46LaYsJZV2Gmc4jUV5
+              name: Joy Division
+              type: artist
+              uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+            external_urls:
+              spotify: https://open.spotify.com/album/6TkH2OlhGaBSnf89Rxfnel
+            href: https://api.spotify.com/v1/albums/6TkH2OlhGaBSnf89Rxfnel
+            id: 6TkH2OlhGaBSnf89Rxfnel
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27335208770dcf10f8ef8b08364
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0235208770dcf10f8ef8b08364
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485135208770dcf10f8ef8b08364
+            is_playable: true
+            name: ETERNAL (Live)
+            release_date: '2026-09-25'
+            release_date_precision: day
+            total_tracks: 192
+            type: album
+            uri: spotify:album:6TkH2OlhGaBSnf89Rxfnel
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+            href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+            id: 432R46LaYsJZV2Gmc4jUV5
+            name: Joy Division
+            type: artist
+            uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+          disc_number: 14
+          duration_ms: 237800
+          explicit: false
+          external_ids:
+            isrc: GBCRL2600044
+          external_urls:
+            spotify: https://open.spotify.com/track/1My6EeAGmx5twkyhWs96U3
+          href: https://api.spotify.com/v1/tracks/1My6EeAGmx5twkyhWs96U3
+          id: 1My6EeAGmx5twkyhWs96U3
+          is_local: false
+          is_playable: true
+          name: Shadowplay - Live High Hall, Birmingham 2nd May, 1980
+          track_number: 2
+          type: track
+          uri: spotify:track:1My6EeAGmx5twkyhWs96U3
+    isrc: GBCRL2600044

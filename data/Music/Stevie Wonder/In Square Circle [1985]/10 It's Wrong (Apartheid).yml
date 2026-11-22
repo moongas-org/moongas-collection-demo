@@ -45,3 +45,126 @@ mediaFileData:
   year: 1985
   duration: 413.1265625
   modTime: 2025-12-10 03:20:29.878842+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Nc2lbK6fpOVV7lxt6hCoH
+    trackId: 4Nc2lbK6fpOVV7lxt6hCoH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMO10111154&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi
+              href: https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi
+              id: 7guDJrEfX3qb6FEbdPA5qi
+              name: Stevie Wonder
+              type: artist
+              uri: spotify:artist:7guDJrEfX3qb6FEbdPA5qi
+            external_urls:
+              spotify: https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt
+            href: https://api.spotify.com/v1/albums/1nLKZqTGA48v3I8dNFkvQt
+            id: 1nLKZqTGA48v3I8dNFkvQt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ed0ddbe4b2590f448e9845be
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ed0ddbe4b2590f448e9845be
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ed0ddbe4b2590f448e9845be
+            is_playable: true
+            name: In Square Circle
+            release_date: '1985-09-13'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1nLKZqTGA48v3I8dNFkvQt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi
+            href: https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi
+            id: 7guDJrEfX3qb6FEbdPA5qi
+            name: Stevie Wonder
+            type: artist
+            uri: spotify:artist:7guDJrEfX3qb6FEbdPA5qi
+          disc_number: 1
+          duration_ms: 412933
+          explicit: false
+          external_ids:
+            isrc: USMO10111154
+          external_urls:
+            spotify: https://open.spotify.com/track/4Nc2lbK6fpOVV7lxt6hCoH
+          href: https://api.spotify.com/v1/tracks/4Nc2lbK6fpOVV7lxt6hCoH
+          id: 4Nc2lbK6fpOVV7lxt6hCoH
+          is_local: false
+          is_playable: true
+          name: It's Wrong (Apartheid)
+          track_number: 10
+          type: track
+          uri: spotify:track:4Nc2lbK6fpOVV7lxt6hCoH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi
+              href: https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi
+              id: 7guDJrEfX3qb6FEbdPA5qi
+              name: Stevie Wonder
+              type: artist
+              uri: spotify:artist:7guDJrEfX3qb6FEbdPA5qi
+            external_urls:
+              spotify: https://open.spotify.com/album/3wV75jagiyMRezq1LOCh1I
+            href: https://api.spotify.com/v1/albums/3wV75jagiyMRezq1LOCh1I
+            id: 3wV75jagiyMRezq1LOCh1I
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273af70b0767bf1aa44e3890171
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02af70b0767bf1aa44e3890171
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851af70b0767bf1aa44e3890171
+            is_playable: true
+            name: The Complete Stevie Wonder
+            release_date: '2015-10-11'
+            release_date_precision: day
+            total_tracks: 579
+            type: album
+            uri: spotify:album:3wV75jagiyMRezq1LOCh1I
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi
+            href: https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi
+            id: 7guDJrEfX3qb6FEbdPA5qi
+            name: Stevie Wonder
+            type: artist
+            uri: spotify:artist:7guDJrEfX3qb6FEbdPA5qi
+          disc_number: 30
+          duration_ms: 412933
+          explicit: false
+          external_ids:
+            isrc: USMO10111154
+          external_urls:
+            spotify: https://open.spotify.com/track/6TTNVOKcOkiCpYTqr4OFDC
+          href: https://api.spotify.com/v1/tracks/6TTNVOKcOkiCpYTqr4OFDC
+          id: 6TTNVOKcOkiCpYTqr4OFDC
+          is_local: false
+          is_playable: true
+          name: It's Wrong (Apartheid)
+          track_number: 10
+          type: track
+          uri: spotify:track:6TTNVOKcOkiCpYTqr4OFDC
+    isrc: USMO10111154

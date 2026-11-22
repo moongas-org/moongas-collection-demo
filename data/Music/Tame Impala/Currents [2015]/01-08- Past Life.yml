@@ -56,3 +56,126 @@ mediaFileData:
   year: 2015
   duration: 228.07510204081632
   modTime: 2023-01-02 17:57:27.720000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4a9fW33mYR8LhXBOLUhbfF
+    trackId: 4a9fW33mYR8LhXBOLUhbfF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUUM71500294&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+              href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+              id: 5INjqkS1o8h1imAzPqGZBb
+              name: Tame Impala
+              type: artist
+              uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+            external_urls:
+              spotify: https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv
+            href: https://api.spotify.com/v1/albums/79dL7FLiJFOO0EoehUHQBv
+            id: 79dL7FLiJFOO0EoehUHQBv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79
+            is_playable: true
+            name: Currents
+            release_date: '2015-07-17'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:79dL7FLiJFOO0EoehUHQBv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+            href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+            id: 5INjqkS1o8h1imAzPqGZBb
+            name: Tame Impala
+            type: artist
+            uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+          disc_number: 1
+          duration_ms: 228040
+          explicit: false
+          external_ids:
+            isrc: AUUM71500294
+          external_urls:
+            spotify: https://open.spotify.com/track/4a9fW33mYR8LhXBOLUhbfF
+          href: https://api.spotify.com/v1/tracks/4a9fW33mYR8LhXBOLUhbfF
+          id: 4a9fW33mYR8LhXBOLUhbfF
+          is_local: false
+          is_playable: true
+          name: Past Life
+          track_number: 8
+          type: track
+          uri: spotify:track:4a9fW33mYR8LhXBOLUhbfF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1ULuICworUPSYDpbmWbkjq
+            href: https://api.spotify.com/v1/albums/1ULuICworUPSYDpbmWbkjq
+            id: 1ULuICworUPSYDpbmWbkjq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730eacb7b5850cca7e0d977c02
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020eacb7b5850cca7e0d977c02
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510eacb7b5850cca7e0d977c02
+            is_playable: true
+            name: Shrooms Tunes
+            release_date: '2026-05-08'
+            release_date_precision: day
+            total_tracks: 72
+            type: album
+            uri: spotify:album:1ULuICworUPSYDpbmWbkjq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+            href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+            id: 5INjqkS1o8h1imAzPqGZBb
+            name: Tame Impala
+            type: artist
+            uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+          disc_number: 1
+          duration_ms: 228040
+          explicit: false
+          external_ids:
+            isrc: AUUM71500294
+          external_urls:
+            spotify: https://open.spotify.com/track/13ON3Un9L9YbFwdq2y83ov
+          href: https://api.spotify.com/v1/tracks/13ON3Un9L9YbFwdq2y83ov
+          id: 13ON3Un9L9YbFwdq2y83ov
+          is_local: false
+          is_playable: true
+          name: Past Life
+          track_number: 2
+          type: track
+          uri: spotify:track:13ON3Un9L9YbFwdq2y83ov
+    isrc: AUUM71500294

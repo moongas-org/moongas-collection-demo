@@ -34,3 +34,126 @@ mediaFileData:
   year: 1997
   duration: 183.144
   modTime: 2025-09-23 01:48:15.106950+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4bCggOgnJmxmfpWbyBQ8kH
+    trackId: 4bCggOgnJmxmfpWbyBQ8kH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19603678&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/4j8BqfNQxSd1jZDg2YAL3w
+            href: https://api.spotify.com/v1/albums/4j8BqfNQxSd1jZDg2YAL3w
+            id: 4j8BqfNQxSd1jZDg2YAL3w
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731a24e8e8cb3aa6917899ee56
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021a24e8e8cb3aa6917899ee56
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511a24e8e8cb3aa6917899ee56
+            is_playable: true
+            name: Just The Punk Stuff
+            release_date: '2026-06-26'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4j8BqfNQxSd1jZDg2YAL3w
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 177373
+          explicit: true
+          external_ids:
+            isrc: USSM19603678
+          external_urls:
+            spotify: https://open.spotify.com/track/4bCggOgnJmxmfpWbyBQ8kH
+          href: https://api.spotify.com/v1/tracks/4bCggOgnJmxmfpWbyBQ8kH
+          id: 4bCggOgnJmxmfpWbyBQ8kH
+          is_local: false
+          is_playable: true
+          name: Mota
+          track_number: 8
+          type: track
+          uri: spotify:track:4bCggOgnJmxmfpWbyBQ8kH
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS
+            href: https://api.spotify.com/v1/albums/2PSgMApk089eV6e5LPbQeS
+            id: 2PSgMApk089eV6e5LPbQeS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ba12c467b8cc7eb3be9e7d8b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ba12c467b8cc7eb3be9e7d8b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ba12c467b8cc7eb3be9e7d8b
+            is_playable: true
+            name: Ixnay On The Hombre
+            release_date: '1997-02-04'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2PSgMApk089eV6e5LPbQeS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 177373
+          explicit: true
+          external_ids:
+            isrc: USSM19603678
+          external_urls:
+            spotify: https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z
+          href: https://api.spotify.com/v1/tracks/5SvJWjPUiJcXqtXm8BmM5z
+          id: 5SvJWjPUiJcXqtXm8BmM5z
+          is_local: false
+          is_playable: true
+          name: Mota
+          track_number: 3
+          type: track
+          uri: spotify:track:5SvJWjPUiJcXqtXm8BmM5z
+    isrc: USSM19603678

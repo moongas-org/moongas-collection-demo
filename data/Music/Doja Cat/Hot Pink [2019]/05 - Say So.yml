@@ -117,3 +117,86 @@ mediaFileData:
   year: 2019
   duration: 238.752
   modTime: 2025-07-25 23:37:36.421616+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/11VApNQCWLJdzxWrlmwzUa
+    trackId: 11VApNQCWLJdzxWrlmwzUa
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC12001240&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5
+              href: https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5
+              id: 5cj0lLjcoR7YOSnhnX0Po5
+              name: Doja Cat
+              type: artist
+              uri: spotify:artist:5cj0lLjcoR7YOSnhnX0Po5
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh
+              href: https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh
+              id: 0hCNtLu0JehylgoiP8L4Gh
+              name: Nicki Minaj
+              type: artist
+              uri: spotify:artist:0hCNtLu0JehylgoiP8L4Gh
+            external_urls:
+              spotify: https://open.spotify.com/album/2cpCmPs5Efp7w7Cv0LKcuG
+            href: https://api.spotify.com/v1/albums/2cpCmPs5Efp7w7Cv0LKcuG
+            id: 2cpCmPs5Efp7w7Cv0LKcuG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bdcd617dd61253ea943e26ff
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bdcd617dd61253ea943e26ff
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bdcd617dd61253ea943e26ff
+            is_playable: true
+            name: Say So (feat. Nicki Minaj)
+            release_date: '2020-05-01'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:2cpCmPs5Efp7w7Cv0LKcuG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5
+            href: https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5
+            id: 5cj0lLjcoR7YOSnhnX0Po5
+            name: Doja Cat
+            type: artist
+            uri: spotify:artist:5cj0lLjcoR7YOSnhnX0Po5
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh
+            href: https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh
+            id: 0hCNtLu0JehylgoiP8L4Gh
+            name: Nicki Minaj
+            type: artist
+            uri: spotify:artist:0hCNtLu0JehylgoiP8L4Gh
+          disc_number: 1
+          duration_ms: 206220
+          explicit: true
+          external_ids:
+            isrc: USRC12001240
+          external_urls:
+            spotify: https://open.spotify.com/track/11VApNQCWLJdzxWrlmwzUa
+          href: https://api.spotify.com/v1/tracks/11VApNQCWLJdzxWrlmwzUa
+          id: 11VApNQCWLJdzxWrlmwzUa
+          is_local: false
+          is_playable: true
+          name: Say So (feat. Nicki Minaj)
+          track_number: 1
+          type: track
+          uri: spotify:track:11VApNQCWLJdzxWrlmwzUa
+    isrc: USRC12001240

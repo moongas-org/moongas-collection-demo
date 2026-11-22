@@ -83,3 +83,126 @@ mediaFileData:
   year: 2006
   duration: 259.43655328798184
   modTime: 2023-04-23 21:27:26.400000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3LOlJkMvnRSUBJ5jFALFDB
+    trackId: 3LOlJkMvnRSUBJ5jFALFDB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10601598&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7aOFj1yM42sm2gzmlPidPP
+            href: https://api.spotify.com/v1/albums/7aOFj1yM42sm2gzmlPidPP
+            id: 7aOFj1yM42sm2gzmlPidPP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3686323bf737cb7ba3de792
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3686323bf737cb7ba3de792
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792
+            is_playable: true
+            name: The Studio Album Collection 1991 - 2011
+            release_date: '2014-12-12'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:7aOFj1yM42sm2gzmlPidPP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 5
+          duration_ms: 259333
+          explicit: false
+          external_ids:
+            isrc: USWB10601598
+          external_urls:
+            spotify: https://open.spotify.com/track/3LOlJkMvnRSUBJ5jFALFDB
+          href: https://api.spotify.com/v1/tracks/3LOlJkMvnRSUBJ5jFALFDB
+          id: 3LOlJkMvnRSUBJ5jFALFDB
+          is_local: false
+          is_playable: true
+          name: Strip My Mind
+          track_number: 9
+          type: track
+          uri: spotify:track:3LOlJkMvnRSUBJ5jFALFDB
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ
+            href: https://api.spotify.com/v1/albums/7xl50xr9NDkd3i2kBbzsNZ
+            id: 7xl50xr9NDkd3i2kBbzsNZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517
+            is_playable: true
+            name: Stadium Arcadium
+            release_date: '2006-05-09'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:7xl50xr9NDkd3i2kBbzsNZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 259333
+          explicit: false
+          external_ids:
+            isrc: USWB10601598
+          external_urls:
+            spotify: https://open.spotify.com/track/0J3ytriezGZ3KCREfHKDOI
+          href: https://api.spotify.com/v1/tracks/0J3ytriezGZ3KCREfHKDOI
+          id: 0J3ytriezGZ3KCREfHKDOI
+          is_local: false
+          is_playable: true
+          name: Strip My Mind
+          track_number: 9
+          type: track
+          uri: spotify:track:0J3ytriezGZ3KCREfHKDOI
+    isrc: USWB10601598

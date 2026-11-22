@@ -76,3 +76,72 @@ mediaFileData:
   year: 1979
   duration: 185.056875
   modTime: 2024-09-20 00:08:15.490316+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4dYME2vEklDwBIYYxZ1tRx
+    trackId: 4dYME2vEklDwBIYYxZ1tRx
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCRL1900027&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+              href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+              id: 432R46LaYsJZV2Gmc4jUV5
+              name: Joy Division
+              type: artist
+              uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+            external_urls:
+              spotify: https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s
+            href: https://api.spotify.com/v1/albums/5Dgqy4bBg09Rdw7CQM545s
+            id: 5Dgqy4bBg09Rdw7CQM545s
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327cc8b0ed297111f53009772
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227cc8b0ed297111f53009772
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127cc8b0ed297111f53009772
+            is_playable: true
+            name: Unknown Pleasures
+            release_date: '1979-06-15'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5Dgqy4bBg09Rdw7CQM545s
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+            href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+            id: 432R46LaYsJZV2Gmc4jUV5
+            name: Joy Division
+            type: artist
+            uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+          disc_number: 1
+          duration_ms: 185413
+          explicit: false
+          external_ids:
+            isrc: GBCRL1900027
+          external_urls:
+            spotify: https://open.spotify.com/track/4dYME2vEklDwBIYYxZ1tRx
+          href: https://api.spotify.com/v1/tracks/4dYME2vEklDwBIYYxZ1tRx
+          id: 4dYME2vEklDwBIYYxZ1tRx
+          is_local: false
+          is_playable: true
+          name: Candidate - 2019 Digital Master
+          track_number: 3
+          type: track
+          uri: spotify:track:4dYME2vEklDwBIYYxZ1tRx
+    isrc: GBCRL1900027

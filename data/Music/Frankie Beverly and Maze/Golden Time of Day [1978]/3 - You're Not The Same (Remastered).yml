@@ -34,3 +34,86 @@ mediaFileData:
   year: 1978
   duration: 317.4661224489796
   modTime: 2026-06-20 22:29:01.110554+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/14EcPWU2AbBuo9zkZpJdyK
+    trackId: 14EcPWU2AbBuo9zkZpJdyK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA20400182&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt
+              href: https://api.spotify.com/v1/artists/3DvdryKH4O95ZnsUZJKXpt
+              id: 3DvdryKH4O95ZnsUZJKXpt
+              name: Maze
+              type: artist
+              uri: spotify:artist:3DvdryKH4O95ZnsUZJKXpt
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n
+              href: https://api.spotify.com/v1/artists/6rXycobs8wkWicUGLtmB0n
+              id: 6rXycobs8wkWicUGLtmB0n
+              name: Frankie Beverly
+              type: artist
+              uri: spotify:artist:6rXycobs8wkWicUGLtmB0n
+            external_urls:
+              spotify: https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS
+            href: https://api.spotify.com/v1/albums/3MorhYBBdoEOeBJlkWHXIS
+            id: 3MorhYBBdoEOeBJlkWHXIS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e8ab898cdd8477e05745d83a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e8ab898cdd8477e05745d83a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e8ab898cdd8477e05745d83a
+            is_playable: true
+            name: Golden Time Of Day (Remastered)
+            release_date: '1978'
+            release_date_precision: year
+            total_tracks: 7
+            type: album
+            uri: spotify:album:3MorhYBBdoEOeBJlkWHXIS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt
+            href: https://api.spotify.com/v1/artists/3DvdryKH4O95ZnsUZJKXpt
+            id: 3DvdryKH4O95ZnsUZJKXpt
+            name: Maze
+            type: artist
+            uri: spotify:artist:3DvdryKH4O95ZnsUZJKXpt
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n
+            href: https://api.spotify.com/v1/artists/6rXycobs8wkWicUGLtmB0n
+            id: 6rXycobs8wkWicUGLtmB0n
+            name: Frankie Beverly
+            type: artist
+            uri: spotify:artist:6rXycobs8wkWicUGLtmB0n
+          disc_number: 1
+          duration_ms: 317400
+          explicit: false
+          external_ids:
+            isrc: USCA20400182
+          external_urls:
+            spotify: https://open.spotify.com/track/14EcPWU2AbBuo9zkZpJdyK
+          href: https://api.spotify.com/v1/tracks/14EcPWU2AbBuo9zkZpJdyK
+          id: 14EcPWU2AbBuo9zkZpJdyK
+          is_local: false
+          is_playable: true
+          name: You're Not The Same - Remastered
+          track_number: 3
+          type: track
+          uri: spotify:track:14EcPWU2AbBuo9zkZpJdyK
+    isrc: USCA20400182

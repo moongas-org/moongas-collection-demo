@@ -88,3 +88,288 @@ mediaFileData:
   year: 1984
   duration: 149.064
   modTime: 2025-04-05 00:51:01.519361+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2pYaPppdXGXMRrfTT6xQsQ
+    trackId: 2pYaPppdXGXMRrfTT6xQsQ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM18400411&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSSM18400411&type=track
+        offset: 0
+        previous:
+        total: 7
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/710MwuinUstXooxgPAyLiP
+            href: https://api.spotify.com/v1/albums/710MwuinUstXooxgPAyLiP
+            id: 710MwuinUstXooxgPAyLiP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ab4844578b168e5ae3a0c2fb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ab4844578b168e5ae3a0c2fb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ab4844578b168e5ae3a0c2fb
+            is_playable: true
+            name: Melhores Hits / 80, 90
+            release_date: '2023-12-08'
+            release_date_precision: day
+            total_tracks: 49
+            type: album
+            uri: spotify:album:710MwuinUstXooxgPAyLiP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 159313
+          explicit: false
+          external_ids:
+            isrc: USSM18400411
+          external_urls:
+            spotify: https://open.spotify.com/track/2pYaPppdXGXMRrfTT6xQsQ
+          href: https://api.spotify.com/v1/tracks/2pYaPppdXGXMRrfTT6xQsQ
+          id: 2pYaPppdXGXMRrfTT6xQsQ
+          is_local: false
+          is_playable: true
+          name: I'm On Fire
+          track_number: 25
+          type: track
+          uri: spotify:track:2pYaPppdXGXMRrfTT6xQsQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4gTyErDmrpSQfny4BiGX81
+            href: https://api.spotify.com/v1/albums/4gTyErDmrpSQfny4BiGX81
+            id: 4gTyErDmrpSQfny4BiGX81
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aed0de3dd40564e9ca7bb1e1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aed0de3dd40564e9ca7bb1e1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aed0de3dd40564e9ca7bb1e1
+            is_playable: true
+            name: 'The 80s: Decade of Classics'
+            release_date: '2023-06-13'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:4gTyErDmrpSQfny4BiGX81
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 159313
+          explicit: false
+          external_ids:
+            isrc: USSM18400411
+          external_urls:
+            spotify: https://open.spotify.com/track/4dNUg3nrakvLvLWIh9rtsz
+          href: https://api.spotify.com/v1/tracks/4dNUg3nrakvLvLWIh9rtsz
+          id: 4dNUg3nrakvLvLWIh9rtsz
+          is_local: false
+          is_playable: true
+          name: I'm On Fire
+          track_number: 48
+          type: track
+          uri: spotify:track:4dNUg3nrakvLvLWIh9rtsz
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2RnnQ7dLTfoOM3DETOKNIT
+            href: https://api.spotify.com/v1/albums/2RnnQ7dLTfoOM3DETOKNIT
+            id: 2RnnQ7dLTfoOM3DETOKNIT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731711fcfbe53580e74cdfee27
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021711fcfbe53580e74cdfee27
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511711fcfbe53580e74cdfee27
+            is_playable: true
+            name: Anos 80 - Nostalgia Internacionais
+            release_date: '2025-02-24'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2RnnQ7dLTfoOM3DETOKNIT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 156133
+          explicit: false
+          external_ids:
+            isrc: USSM18400411
+          external_urls:
+            spotify: https://open.spotify.com/track/0594tJ798kS46jGCVJnx1x
+          href: https://api.spotify.com/v1/tracks/0594tJ798kS46jGCVJnx1x
+          id: 0594tJ798kS46jGCVJnx1x
+          is_local: false
+          is_playable: true
+          name: I'm On Fire
+          track_number: 23
+          type: track
+          uri: spotify:track:0594tJ798kS46jGCVJnx1x
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3savpCA10n1uWzqe6qkewt
+            href: https://api.spotify.com/v1/albums/3savpCA10n1uWzqe6qkewt
+            id: 3savpCA10n1uWzqe6qkewt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738aa6ad6465cc1fa8d11c0907
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028aa6ad6465cc1fa8d11c0907
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518aa6ad6465cc1fa8d11c0907
+            is_playable: true
+            name: Flashback Anos 80 - Internacionais
+            release_date: '2025-02-02'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:3savpCA10n1uWzqe6qkewt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 156133
+          explicit: false
+          external_ids:
+            isrc: USSM18400411
+          external_urls:
+            spotify: https://open.spotify.com/track/21ifPG53gLluwr8rLUDvmq
+          href: https://api.spotify.com/v1/tracks/21ifPG53gLluwr8rLUDvmq
+          id: 21ifPG53gLluwr8rLUDvmq
+          is_local: false
+          is_playable: true
+          name: I'm On Fire
+          track_number: 29
+          type: track
+          uri: spotify:track:21ifPG53gLluwr8rLUDvmq
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+              href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+              id: 3eqjTLE0HfPfh78zjh6TqT
+              name: Bruce Springsteen
+              type: artist
+              uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+            external_urls:
+              spotify: https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O
+            href: https://api.spotify.com/v1/albums/0PMasrHdpaoIRuHuhHp72O
+            id: 0PMasrHdpaoIRuHuhHp72O
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a43a6482e327d623bb0c0f77
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a43a6482e327d623bb0c0f77
+            is_playable: true
+            name: Born In The U.S.A.
+            release_date: '1984-06-04'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0PMasrHdpaoIRuHuhHp72O
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 159313
+          explicit: false
+          external_ids:
+            isrc: USSM18400411
+          external_urls:
+            spotify: https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM
+          href: https://api.spotify.com/v1/tracks/3PzsbWSQdLCKDLxn7YZfkM
+          id: 3PzsbWSQdLCKDLxn7YZfkM
+          is_local: false
+          is_playable: true
+          name: I'm On Fire
+          track_number: 6
+          type: track
+          uri: spotify:track:3PzsbWSQdLCKDLxn7YZfkM
+    isrc: USSM18400411

@@ -172,3 +172,288 @@ mediaFileData:
   year: 1951
   duration: 184.44
   modTime: 2023-04-22 20:12:12.390000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/67QKsXYgFhh9MsbVvww8qH
+    trackId: 67QKsXYgFhh9MsbVvww8qH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSPR35100123&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSPR35100123&type=track
+        offset: 0
+        previous:
+        total: 10
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/54sJVJJwjGf8JkndG6IokR
+            href: https://api.spotify.com/v1/albums/54sJVJJwjGf8JkndG6IokR
+            id: 54sJVJJwjGf8JkndG6IokR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273787df149c5b500cc1598ce3f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02787df149c5b500cc1598ce3f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851787df149c5b500cc1598ce3f
+            is_playable: true
+            name: Low Down Blues
+            release_date: '1996-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:54sJVJJwjGf8JkndG6IokR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 1
+          duration_ms: 184133
+          explicit: false
+          external_ids:
+            isrc: USPR35100123
+          external_urls:
+            spotify: https://open.spotify.com/track/67QKsXYgFhh9MsbVvww8qH
+          href: https://api.spotify.com/v1/tracks/67QKsXYgFhh9MsbVvww8qH
+          id: 67QKsXYgFhh9MsbVvww8qH
+          is_local: false
+          is_playable: true
+          name: Ramblin' Man - Single Version
+          track_number: 11
+          type: track
+          uri: spotify:track:67QKsXYgFhh9MsbVvww8qH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd
+            href: https://api.spotify.com/v1/albums/6zIYEv6soMoaZiypsHB5dd
+            id: 6zIYEv6soMoaZiypsHB5dd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bf7de449bfd768b5a1e3bdd0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bf7de449bfd768b5a1e3bdd0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bf7de449bfd768b5a1e3bdd0
+            is_playable: true
+            name: 40 Greatest Hits
+            release_date: '1978-01-01'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:6zIYEv6soMoaZiypsHB5dd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 2
+          duration_ms: 184426
+          explicit: false
+          external_ids:
+            isrc: USPR35100123
+          external_urls:
+            spotify: https://open.spotify.com/track/6tsIbDByURyne0ylQlQ9Ip
+          href: https://api.spotify.com/v1/tracks/6tsIbDByURyne0ylQlQ9Ip
+          id: 6tsIbDByURyne0ylQlQ9Ip
+          is_local: false
+          is_playable: true
+          name: Ramblin' Man - Single Version
+          track_number: 6
+          type: track
+          uri: spotify:track:6tsIbDByURyne0ylQlQ9Ip
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/4dWDFzjdNGi3MXxk8mNNO0
+            href: https://api.spotify.com/v1/albums/4dWDFzjdNGi3MXxk8mNNO0
+            id: 4dWDFzjdNGi3MXxk8mNNO0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273db14e03b3254f04f433e80a3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02db14e03b3254f04f433e80a3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851db14e03b3254f04f433e80a3
+            is_playable: true
+            name: 20 Of Hank Williams' Greatest Hits
+            release_date: '1997-10-17'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4dWDFzjdNGi3MXxk8mNNO0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 1
+          duration_ms: 184066
+          explicit: false
+          external_ids:
+            isrc: USPR35100123
+          external_urls:
+            spotify: https://open.spotify.com/track/3Wgd9sOnzGhQU3O2DUfkgH
+          href: https://api.spotify.com/v1/tracks/3Wgd9sOnzGhQU3O2DUfkgH
+          id: 3Wgd9sOnzGhQU3O2DUfkgH
+          is_local: false
+          is_playable: true
+          name: Ramblin' Man
+          track_number: 4
+          type: track
+          uri: spotify:track:3Wgd9sOnzGhQU3O2DUfkgH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN
+            href: https://api.spotify.com/v1/albums/3A125M77Q1pkNik2HvB1MN
+            id: 3A125M77Q1pkNik2HvB1MN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738326fd3fdf926786d2b0525f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028326fd3fdf926786d2b0525f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518326fd3fdf926786d2b0525f
+            is_playable: true
+            name: The Complete Hank Williams
+            release_date: '1998-09-22'
+            release_date_precision: day
+            total_tracks: 225
+            type: album
+            uri: spotify:album:3A125M77Q1pkNik2HvB1MN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 3
+          duration_ms: 181866
+          explicit: false
+          external_ids:
+            isrc: USPR35100123
+          external_urls:
+            spotify: https://open.spotify.com/track/6HpwjCEwgUXRYJVUtyY5us
+          href: https://api.spotify.com/v1/tracks/6HpwjCEwgUXRYJVUtyY5us
+          id: 6HpwjCEwgUXRYJVUtyY5us
+          is_local: false
+          is_playable: true
+          name: Ramblin' Man
+          track_number: 20
+          type: track
+          uri: spotify:track:6HpwjCEwgUXRYJVUtyY5us
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZgPZQuoMZM4RM5y5amzUh
+            href: https://api.spotify.com/v1/albums/3ZgPZQuoMZM4RM5y5amzUh
+            id: 3ZgPZQuoMZM4RM5y5amzUh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a38b7f0ff14c8fb86bd18d4e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a38b7f0ff14c8fb86bd18d4e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a38b7f0ff14c8fb86bd18d4e
+            is_playable: true
+            name: Ramblin’ Man (Undubbed Edition)
+            release_date: '1955-08-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3ZgPZQuoMZM4RM5y5amzUh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 1
+          duration_ms: 184440
+          explicit: false
+          external_ids:
+            isrc: USPR35100123
+          external_urls:
+            spotify: https://open.spotify.com/track/4ztdfd8eTApixD6Aglhk1z
+          href: https://api.spotify.com/v1/tracks/4ztdfd8eTApixD6Aglhk1z
+          id: 4ztdfd8eTApixD6Aglhk1z
+          is_local: false
+          is_playable: true
+          name: Ramblin' Man
+          track_number: 1
+          type: track
+          uri: spotify:track:4ztdfd8eTApixD6Aglhk1z
+    isrc: USPR35100123

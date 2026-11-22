@@ -34,3 +34,72 @@ mediaFileData:
   year: 2015
   duration: 175.128
   modTime: 2025-01-01 20:36:25.028717+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/09rAu4nii2COfps67Z2iJN
+    trackId: 09rAu4nii2COfps67Z2iJN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGYG0600764&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k
+              href: https://api.spotify.com/v1/artists/23NIwARd4vPbxt3wwNnJ6k
+              id: 23NIwARd4vPbxt3wwNnJ6k
+              name: Parquet Courts
+              type: artist
+              uri: spotify:artist:23NIwARd4vPbxt3wwNnJ6k
+            external_urls:
+              spotify: https://open.spotify.com/album/4r4f9Js82wS1JYWEypY3Ko
+            href: https://api.spotify.com/v1/albums/4r4f9Js82wS1JYWEypY3Ko
+            id: 4r4f9Js82wS1JYWEypY3Ko
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736b112bbfff2db3c29123267a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026b112bbfff2db3c29123267a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516b112bbfff2db3c29123267a
+            is_playable: true
+            name: Content Nausea
+            release_date: '2014-11-11'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4r4f9Js82wS1JYWEypY3Ko
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k
+            href: https://api.spotify.com/v1/artists/23NIwARd4vPbxt3wwNnJ6k
+            id: 23NIwARd4vPbxt3wwNnJ6k
+            name: Parquet Courts
+            type: artist
+            uri: spotify:artist:23NIwARd4vPbxt3wwNnJ6k
+          disc_number: 1
+          duration_ms: 175093
+          explicit: false
+          external_ids:
+            isrc: USGYG0600764
+          external_urls:
+            spotify: https://open.spotify.com/track/09rAu4nii2COfps67Z2iJN
+          href: https://api.spotify.com/v1/tracks/09rAu4nii2COfps67Z2iJN
+          id: 09rAu4nii2COfps67Z2iJN
+          is_local: false
+          is_playable: true
+          name: The Map
+          track_number: 8
+          type: track
+          uri: spotify:track:09rAu4nii2COfps67Z2iJN
+    isrc: USGYG0600764

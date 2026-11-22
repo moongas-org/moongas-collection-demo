@@ -48,3 +48,72 @@ mediaFileData:
   year: 2001
   duration: 282.4098125
   modTime: 2023-04-23 15:29:20.930000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6VDLOQf0E7Qj1DVrnagxfi
+    trackId: 6VDLOQf0E7Qj1DVrnagxfi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVT10100064&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+              href: https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC
+              id: 5krkohEVJYw0qoB5VWwxaC
+              name: The Black Crowes
+              type: artist
+              uri: spotify:artist:5krkohEVJYw0qoB5VWwxaC
+            external_urls:
+              spotify: https://open.spotify.com/album/4H22zw1MSTrls9Zr4C6qCu
+            href: https://api.spotify.com/v1/albums/4H22zw1MSTrls9Zr4C6qCu
+            id: 4H22zw1MSTrls9Zr4C6qCu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27387a9f2f172910e6d14c1648f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0287a9f2f172910e6d14c1648f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485187a9f2f172910e6d14c1648f
+            is_playable: true
+            name: Lions
+            release_date: '2001-05-08'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4H22zw1MSTrls9Zr4C6qCu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+            href: https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC
+            id: 5krkohEVJYw0qoB5VWwxaC
+            name: The Black Crowes
+            type: artist
+            uri: spotify:artist:5krkohEVJYw0qoB5VWwxaC
+          disc_number: 1
+          duration_ms: 282333
+          explicit: false
+          external_ids:
+            isrc: USVT10100064
+          external_urls:
+            spotify: https://open.spotify.com/track/6VDLOQf0E7Qj1DVrnagxfi
+          href: https://api.spotify.com/v1/tracks/6VDLOQf0E7Qj1DVrnagxfi
+          id: 6VDLOQf0E7Qj1DVrnagxfi
+          is_local: false
+          is_playable: true
+          name: Miracle to Me
+          track_number: 9
+          type: track
+          uri: spotify:track:6VDLOQf0E7Qj1DVrnagxfi
+    isrc: USVT10100064

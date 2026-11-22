@@ -56,3 +56,288 @@ mediaFileData:
   year: 2006
   duration: 232.47764172335602
   modTime: 2023-04-28 18:49:51.060000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD
+    trackId: 4XOZaPYeMn9hcbpyS90NnD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA20501001&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSCA20501001&type=track
+        offset: 0
+        previous:
+        total: 9
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf
+              href: https://api.spotify.com/v1/artists/3zxKH0qp3nBCuPZCZT5Vaf
+              id: 3zxKH0qp3nBCuPZCZT5Vaf
+              name: Yellowcard
+              type: artist
+              uri: spotify:artist:3zxKH0qp3nBCuPZCZT5Vaf
+            external_urls:
+              spotify: https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo
+            href: https://api.spotify.com/v1/albums/5EaEOUs3O1MZRicDMUIuqo
+            id: 5EaEOUs3O1MZRicDMUIuqo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735c6f9b09bf2035d181e19aac
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025c6f9b09bf2035d181e19aac
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515c6f9b09bf2035d181e19aac
+            is_playable: true
+            name: Lights And Sounds
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5EaEOUs3O1MZRicDMUIuqo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf
+            href: https://api.spotify.com/v1/artists/3zxKH0qp3nBCuPZCZT5Vaf
+            id: 3zxKH0qp3nBCuPZCZT5Vaf
+            name: Yellowcard
+            type: artist
+            uri: spotify:artist:3zxKH0qp3nBCuPZCZT5Vaf
+          disc_number: 1
+          duration_ms: 208186
+          explicit: false
+          external_ids:
+            isrc: USCA20501001
+          external_urls:
+            spotify: https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD
+          href: https://api.spotify.com/v1/tracks/4XOZaPYeMn9hcbpyS90NnD
+          id: 4XOZaPYeMn9hcbpyS90NnD
+          is_local: false
+          is_playable: true
+          name: Lights And Sounds
+          track_number: 2
+          type: track
+          uri: spotify:track:4XOZaPYeMn9hcbpyS90NnD
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2nEHePWVf3fkdVAHsoGpGb
+            href: https://api.spotify.com/v1/albums/2nEHePWVf3fkdVAHsoGpGb
+            id: 2nEHePWVf3fkdVAHsoGpGb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273449caf9bd353f085c6e46885
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02449caf9bd353f085c6e46885
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851449caf9bd353f085c6e46885
+            is_playable: true
+            name: Best Of Rock 2020
+            release_date: '2020-11-27'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:2nEHePWVf3fkdVAHsoGpGb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf
+            href: https://api.spotify.com/v1/artists/3zxKH0qp3nBCuPZCZT5Vaf
+            id: 3zxKH0qp3nBCuPZCZT5Vaf
+            name: Yellowcard
+            type: artist
+            uri: spotify:artist:3zxKH0qp3nBCuPZCZT5Vaf
+          disc_number: 1
+          duration_ms: 208186
+          explicit: false
+          external_ids:
+            isrc: USCA20501001
+          external_urls:
+            spotify: https://open.spotify.com/track/7pHpo1CXWyeoYsNZeEzhcF
+          href: https://api.spotify.com/v1/tracks/7pHpo1CXWyeoYsNZeEzhcF
+          id: 7pHpo1CXWyeoYsNZeEzhcF
+          is_local: false
+          is_playable: true
+          name: Lights And Sounds
+          track_number: 11
+          type: track
+          uri: spotify:track:7pHpo1CXWyeoYsNZeEzhcF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3KbDGMvocplNBCxvbOHUDf
+            href: https://api.spotify.com/v1/albums/3KbDGMvocplNBCxvbOHUDf
+            id: 3KbDGMvocplNBCxvbOHUDf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27384169ca24a32a7a1f6e18223
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0284169ca24a32a7a1f6e18223
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485184169ca24a32a7a1f6e18223
+            is_playable: true
+            name: Motivational Rock Songs
+            release_date: '2025-06-27'
+            release_date_precision: day
+            total_tracks: 71
+            type: album
+            uri: spotify:album:3KbDGMvocplNBCxvbOHUDf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf
+            href: https://api.spotify.com/v1/artists/3zxKH0qp3nBCuPZCZT5Vaf
+            id: 3zxKH0qp3nBCuPZCZT5Vaf
+            name: Yellowcard
+            type: artist
+            uri: spotify:artist:3zxKH0qp3nBCuPZCZT5Vaf
+          disc_number: 1
+          duration_ms: 208186
+          explicit: false
+          external_ids:
+            isrc: USCA20501001
+          external_urls:
+            spotify: https://open.spotify.com/track/2PjtDyRqkjEX5LzFTlju2o
+          href: https://api.spotify.com/v1/tracks/2PjtDyRqkjEX5LzFTlju2o
+          id: 2PjtDyRqkjEX5LzFTlju2o
+          is_local: false
+          is_playable: true
+          name: Lights And Sounds
+          track_number: 50
+          type: track
+          uri: spotify:track:2PjtDyRqkjEX5LzFTlju2o
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1pDsfigbIDAHNhbvKIOjob
+            href: https://api.spotify.com/v1/albums/1pDsfigbIDAHNhbvKIOjob
+            id: 1pDsfigbIDAHNhbvKIOjob
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c7fdb4808327dd0a23286c6c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c7fdb4808327dd0a23286c6c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c7fdb4808327dd0a23286c6c
+            is_playable: true
+            name: Badass Vibe
+            release_date: '2024-03-14'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:1pDsfigbIDAHNhbvKIOjob
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf
+            href: https://api.spotify.com/v1/artists/3zxKH0qp3nBCuPZCZT5Vaf
+            id: 3zxKH0qp3nBCuPZCZT5Vaf
+            name: Yellowcard
+            type: artist
+            uri: spotify:artist:3zxKH0qp3nBCuPZCZT5Vaf
+          disc_number: 1
+          duration_ms: 208186
+          explicit: false
+          external_ids:
+            isrc: USCA20501001
+          external_urls:
+            spotify: https://open.spotify.com/track/4sC5UdNNjq8aJXCKEKqCTB
+          href: https://api.spotify.com/v1/tracks/4sC5UdNNjq8aJXCKEKqCTB
+          id: 4sC5UdNNjq8aJXCKEKqCTB
+          is_local: false
+          is_playable: true
+          name: Lights And Sounds
+          track_number: 23
+          type: track
+          uri: spotify:track:4sC5UdNNjq8aJXCKEKqCTB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7IHR8oOyET4nhGx2h5H0ja
+            href: https://api.spotify.com/v1/albums/7IHR8oOyET4nhGx2h5H0ja
+            id: 7IHR8oOyET4nhGx2h5H0ja
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e4b27de9cc4bf09920dc1ce7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e4b27de9cc4bf09920dc1ce7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e4b27de9cc4bf09920dc1ce7
+            is_playable: true
+            name: N@o Eh sÓ Um4 FaSeh
+            release_date: '2023-10-13'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:7IHR8oOyET4nhGx2h5H0ja
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf
+            href: https://api.spotify.com/v1/artists/3zxKH0qp3nBCuPZCZT5Vaf
+            id: 3zxKH0qp3nBCuPZCZT5Vaf
+            name: Yellowcard
+            type: artist
+            uri: spotify:artist:3zxKH0qp3nBCuPZCZT5Vaf
+          disc_number: 1
+          duration_ms: 208186
+          explicit: false
+          external_ids:
+            isrc: USCA20501001
+          external_urls:
+            spotify: https://open.spotify.com/track/1faSS88zne0MOAuct08D1L
+          href: https://api.spotify.com/v1/tracks/1faSS88zne0MOAuct08D1L
+          id: 1faSS88zne0MOAuct08D1L
+          is_local: false
+          is_playable: true
+          name: Lights And Sounds
+          track_number: 6
+          type: track
+          uri: spotify:track:1faSS88zne0MOAuct08D1L
+    isrc: USCA20501001

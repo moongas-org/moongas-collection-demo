@@ -265,3 +265,126 @@ mediaFileData:
   year: 1975
   duration: 255.16408163265305
   modTime: 2024-12-02 00:03:20.972298+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2mm7Nf9H3xJmuZYpvw4juL
+    trackId: 2mm7Nf9H3xJmuZYpvw4juL
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJT19900102&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2uRb5ak9Qyo1nhlTViw8MZ
+            href: https://api.spotify.com/v1/albums/2uRb5ak9Qyo1nhlTViw8MZ
+            id: 2uRb5ak9Qyo1nhlTViw8MZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f8940623e0d005853279da68
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f8940623e0d005853279da68
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f8940623e0d005853279da68
+            is_playable: true
+            name: 70's Hits
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:2uRb5ak9Qyo1nhlTViw8MZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy
+            href: https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy
+            id: 0oSGxfWSnnOXhD2fKuz2Gy
+            name: David Bowie
+            type: artist
+            uri: spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy
+          disc_number: 1
+          duration_ms: 257373
+          explicit: false
+          external_ids:
+            isrc: USJT19900102
+          external_urls:
+            spotify: https://open.spotify.com/track/2mm7Nf9H3xJmuZYpvw4juL
+          href: https://api.spotify.com/v1/tracks/2mm7Nf9H3xJmuZYpvw4juL
+          id: 2mm7Nf9H3xJmuZYpvw4juL
+          is_local: false
+          is_playable: true
+          name: Fame - 1999 Digital Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:2mm7Nf9H3xJmuZYpvw4juL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/04zVKTeZ5tXOo6KLWrrl3h
+            href: https://api.spotify.com/v1/albums/04zVKTeZ5tXOo6KLWrrl3h
+            id: 04zVKTeZ5tXOo6KLWrrl3h
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f4da3a123dfabad20e5ee46a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f4da3a123dfabad20e5ee46a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f4da3a123dfabad20e5ee46a
+            is_playable: true
+            name: Rush (Original Motion Picture Soundtrack)
+            release_date: '2013-08-26'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:04zVKTeZ5tXOo6KLWrrl3h
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy
+            href: https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy
+            id: 0oSGxfWSnnOXhD2fKuz2Gy
+            name: David Bowie
+            type: artist
+            uri: spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy
+          disc_number: 1
+          duration_ms: 251800
+          explicit: true
+          external_ids:
+            isrc: USJT19900102
+          external_urls:
+            spotify: https://open.spotify.com/track/6Lkjwg8EMrm90DFkll9mKh
+          href: https://api.spotify.com/v1/tracks/6Lkjwg8EMrm90DFkll9mKh
+          id: 6Lkjwg8EMrm90DFkll9mKh
+          is_local: false
+          is_playable: true
+          name: Fame - 1999 Remaster
+          track_number: 22
+          type: track
+          uri: spotify:track:6Lkjwg8EMrm90DFkll9mKh
+    isrc: USJT19900102

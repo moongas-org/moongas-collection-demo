@@ -65,3 +65,72 @@ mediaFileData:
   year: 1972
   duration: 184.68
   modTime: 2025-10-07 00:23:46.714086+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7ija5zIgmG1cUHaB4TdOwh
+    trackId: 7ija5zIgmG1cUHaB4TdOwh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRHD0804156&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM
+              href: https://api.spotify.com/v1/artists/1R6Hx1tJ2VOUyodEpC12xM
+              id: 1R6Hx1tJ2VOUyodEpC12xM
+              name: Jim Croce
+              type: artist
+              uri: spotify:artist:1R6Hx1tJ2VOUyodEpC12xM
+            external_urls:
+              spotify: https://open.spotify.com/album/17PK4yXNTBKQg5BSRIPvtd
+            href: https://api.spotify.com/v1/albums/17PK4yXNTBKQg5BSRIPvtd
+            id: 17PK4yXNTBKQg5BSRIPvtd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d304904d87ec572f712abc59
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d304904d87ec572f712abc59
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d304904d87ec572f712abc59
+            is_playable: true
+            name: 'Photographs & Memories: His Greatest Hits'
+            release_date: '1974-09-26'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:17PK4yXNTBKQg5BSRIPvtd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM
+            href: https://api.spotify.com/v1/artists/1R6Hx1tJ2VOUyodEpC12xM
+            id: 1R6Hx1tJ2VOUyodEpC12xM
+            name: Jim Croce
+            type: artist
+            uri: spotify:artist:1R6Hx1tJ2VOUyodEpC12xM
+          disc_number: 1
+          duration_ms: 184640
+          explicit: false
+          external_ids:
+            isrc: USRHD0804156
+          external_urls:
+            spotify: https://open.spotify.com/track/7ija5zIgmG1cUHaB4TdOwh
+          href: https://api.spotify.com/v1/tracks/7ija5zIgmG1cUHaB4TdOwh
+          id: 7ija5zIgmG1cUHaB4TdOwh
+          is_local: false
+          is_playable: true
+          name: You Don't Mess Around with Jim
+          track_number: 10
+          type: track
+          uri: spotify:track:7ija5zIgmG1cUHaB4TdOwh
+    isrc: USRHD0804156

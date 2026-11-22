@@ -34,3 +34,72 @@ mediaFileData:
   year: 2011
   duration: 210.46857142857144
   modTime: 2024-07-24 20:53:17.307023+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Fm2zZeKItksmrxUpI431K
+    trackId: 3Fm2zZeKItksmrxUpI431K
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS22N1106802&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp
+              href: https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp
+              id: 6O4EGCCb6DoIiR6B1QCQgp
+              name: Toro y Moi
+              type: artist
+              uri: spotify:artist:6O4EGCCb6DoIiR6B1QCQgp
+            external_urls:
+              spotify: https://open.spotify.com/album/6dD2I1CePz5cOaojxtv91I
+            href: https://api.spotify.com/v1/albums/6dD2I1CePz5cOaojxtv91I
+            id: 6dD2I1CePz5cOaojxtv91I
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c0baa4b48b15df2fdac33dae
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c0baa4b48b15df2fdac33dae
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c0baa4b48b15df2fdac33dae
+            is_playable: true
+            name: Freaking Out EP
+            release_date: '2011-09-13'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:6dD2I1CePz5cOaojxtv91I
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp
+            href: https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp
+            id: 6O4EGCCb6DoIiR6B1QCQgp
+            name: Toro y Moi
+            type: artist
+            uri: spotify:artist:6O4EGCCb6DoIiR6B1QCQgp
+          disc_number: 1
+          duration_ms: 210386
+          explicit: false
+          external_ids:
+            isrc: US22N1106802
+          external_urls:
+            spotify: https://open.spotify.com/track/3Fm2zZeKItksmrxUpI431K
+          href: https://api.spotify.com/v1/tracks/3Fm2zZeKItksmrxUpI431K
+          id: 3Fm2zZeKItksmrxUpI431K
+          is_local: false
+          is_playable: true
+          name: Freaking Out
+          track_number: 2
+          type: track
+          uri: spotify:track:3Fm2zZeKItksmrxUpI431K
+    isrc: US22N1106802

@@ -76,3 +76,72 @@ mediaFileData:
   year: 1986
   duration: 401.21469387755104
   modTime: 2024-06-05 14:14:07.507011+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3ft4FPcRkxNEsrx2may4k0
+    trackId: 3ft4FPcRkxNEsrx2may4k0
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71821042&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+              href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+              id: 1Yox196W7bzVNZI7RBaPnf
+              name: Megadeth
+              type: artist
+              uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+            external_urls:
+              spotify: https://open.spotify.com/album/58p5IFT7CEcMHSrAIuO5DJ
+            href: https://api.spotify.com/v1/albums/58p5IFT7CEcMHSrAIuO5DJ
+            id: 58p5IFT7CEcMHSrAIuO5DJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b273106fbf562e1131ccc790
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b273106fbf562e1131ccc790
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b273106fbf562e1131ccc790
+            is_playable: true
+            name: Warheads On Foreheads
+            release_date: '2019-03-22'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:58p5IFT7CEcMHSrAIuO5DJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf
+            href: https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf
+            id: 1Yox196W7bzVNZI7RBaPnf
+            name: Megadeth
+            type: artist
+            uri: spotify:artist:1Yox196W7bzVNZI7RBaPnf
+          disc_number: 1
+          duration_ms: 400680
+          explicit: true
+          external_ids:
+            isrc: USUM71821042
+          external_urls:
+            spotify: https://open.spotify.com/track/3ft4FPcRkxNEsrx2may4k0
+          href: https://api.spotify.com/v1/tracks/3ft4FPcRkxNEsrx2may4k0
+          id: 3ft4FPcRkxNEsrx2may4k0
+          is_local: false
+          is_playable: true
+          name: Good Mourning / Black Friday
+          track_number: 7
+          type: track
+          uri: spotify:track:3ft4FPcRkxNEsrx2may4k0
+    isrc: USUM71821042

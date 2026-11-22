@@ -35,3 +35,72 @@ mediaFileData:
   year: 1989
   duration: 287.6604081632653
   modTime: 2026-04-18 03:07:38.088873+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6JympPamIP9zZWwKtANjfM
+    trackId: 6JympPamIP9zZWwKtANjfM
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM70822893&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO
+              href: https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO
+              id: 0X380XXQSNBYuleKzav5UO
+              name: Nine Inch Nails
+              type: artist
+              uri: spotify:artist:0X380XXQSNBYuleKzav5UO
+            external_urls:
+              spotify: https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN
+            href: https://api.spotify.com/v1/albums/3umFHeEpc4yLXtrRcv9gLN
+            id: 3umFHeEpc4yLXtrRcv9gLN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739764c0993e45db213f0e359f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029764c0993e45db213f0e359f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519764c0993e45db213f0e359f
+            is_playable: true
+            name: Pretty Hate Machine
+            release_date: '1989-10-20'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3umFHeEpc4yLXtrRcv9gLN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO
+            href: https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO
+            id: 0X380XXQSNBYuleKzav5UO
+            name: Nine Inch Nails
+            type: artist
+            uri: spotify:artist:0X380XXQSNBYuleKzav5UO
+          disc_number: 1
+          duration_ms: 287800
+          explicit: true
+          external_ids:
+            isrc: USUM70822893
+          external_urls:
+            spotify: https://open.spotify.com/track/6JympPamIP9zZWwKtANjfM
+          href: https://api.spotify.com/v1/tracks/6JympPamIP9zZWwKtANjfM
+          id: 6JympPamIP9zZWwKtANjfM
+          is_local: false
+          is_playable: true
+          name: The Only Time
+          track_number: 9
+          type: track
+          uri: spotify:track:6JympPamIP9zZWwKtANjfM
+    isrc: USUM70822893

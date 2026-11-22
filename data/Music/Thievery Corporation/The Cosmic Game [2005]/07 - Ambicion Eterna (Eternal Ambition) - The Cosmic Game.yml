@@ -63,3 +63,79 @@ mediaFileData:
   year: 2005
   duration: 225.9330612244898
   modTime: 2024-07-20 00:26:37.535574+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5vCodbfF5R5dhIwIsFlCu4
+    trackId: 5vCodbfF5R5dhIwIsFlCu4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSESL0508107&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+              href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+              id: 25KNo5GDS6ZpLkjasaecA3
+              name: Thievery Corporation
+              type: artist
+              uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+            external_urls:
+              spotify: https://open.spotify.com/album/4Mm9m1oRyTwFxiMiSbk8Ks
+            href: https://api.spotify.com/v1/albums/4Mm9m1oRyTwFxiMiSbk8Ks
+            id: 4Mm9m1oRyTwFxiMiSbk8Ks
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734d1b4d20103937a190f29373
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024d1b4d20103937a190f29373
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514d1b4d20103937a190f29373
+            is_playable: true
+            name: The Cosmic Game
+            release_date: '2005-02-22'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4Mm9m1oRyTwFxiMiSbk8Ks
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+            href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+            id: 25KNo5GDS6ZpLkjasaecA3
+            name: Thievery Corporation
+            type: artist
+            uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Kw8yVYzFQFnu2edwUC1ai
+            href: https://api.spotify.com/v1/artists/4Kw8yVYzFQFnu2edwUC1ai
+            id: 4Kw8yVYzFQFnu2edwUC1ai
+            name: Verny Varela
+            type: artist
+            uri: spotify:artist:4Kw8yVYzFQFnu2edwUC1ai
+          disc_number: 1
+          duration_ms: 223933
+          explicit: false
+          external_ids:
+            isrc: USESL0508107
+          external_urls:
+            spotify: https://open.spotify.com/track/5vCodbfF5R5dhIwIsFlCu4
+          href: https://api.spotify.com/v1/tracks/5vCodbfF5R5dhIwIsFlCu4
+          id: 5vCodbfF5R5dhIwIsFlCu4
+          is_local: false
+          is_playable: true
+          name: Ambicion Eterna
+          track_number: 7
+          type: track
+          uri: spotify:track:5vCodbfF5R5dhIwIsFlCu4
+    isrc: USESL0508107

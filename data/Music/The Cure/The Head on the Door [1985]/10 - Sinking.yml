@@ -66,3 +66,126 @@ mediaFileData:
   year: 1985
   duration: 297.552
   modTime: 2024-11-01 19:04:24.228386+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2YYaQeRpDM9OW1tslPgd18
+    trackId: 2YYaQeRpDM9OW1tslPgd18
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10608877&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw
+            href: https://api.spotify.com/v1/albums/6HhpmJekzDCRu2K64ZbWqw
+            id: 6HhpmJekzDCRu2K64ZbWqw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731b54add5c2a3a337e512941b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021b54add5c2a3a337e512941b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511b54add5c2a3a337e512941b
+            is_playable: true
+            name: The Head on the Door
+            release_date: '1985-08-26'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6HhpmJekzDCRu2K64ZbWqw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 297506
+          explicit: false
+          external_ids:
+            isrc: USEE10608877
+          external_urls:
+            spotify: https://open.spotify.com/track/2YYaQeRpDM9OW1tslPgd18
+          href: https://api.spotify.com/v1/tracks/2YYaQeRpDM9OW1tslPgd18
+          id: 2YYaQeRpDM9OW1tslPgd18
+          is_local: false
+          is_playable: true
+          name: Sinking - 2006 Remaster
+          track_number: 10
+          type: track
+          uri: spotify:track:2YYaQeRpDM9OW1tslPgd18
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk
+            href: https://api.spotify.com/v1/albums/4Uq47onfCEj5en94jpHovk
+            id: 4Uq47onfCEj5en94jpHovk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27396e854c582f5213d51793cc2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0296e854c582f5213d51793cc2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485196e854c582f5213d51793cc2
+            is_playable: true
+            name: The Head on the Door (Deluxed Edition)
+            release_date: '1985-08-26'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:4Uq47onfCEj5en94jpHovk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 297506
+          explicit: false
+          external_ids:
+            isrc: USEE10608877
+          external_urls:
+            spotify: https://open.spotify.com/track/19EIs9L91Iu2tznJEsKS3L
+          href: https://api.spotify.com/v1/tracks/19EIs9L91Iu2tznJEsKS3L
+          id: 19EIs9L91Iu2tznJEsKS3L
+          is_local: false
+          is_playable: true
+          name: Sinking - 2006 Remaster
+          track_number: 10
+          type: track
+          uri: spotify:track:19EIs9L91Iu2tznJEsKS3L
+    isrc: USEE10608877

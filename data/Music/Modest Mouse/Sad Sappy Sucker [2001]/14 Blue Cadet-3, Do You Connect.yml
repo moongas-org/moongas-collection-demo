@@ -34,3 +34,126 @@ mediaFileData:
   year: 2001
   duration: 72.568125
   modTime: 2024-09-19 23:54:39.691594+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7BlUVki3KTJyM3vlgTWnyr
+    trackId: 7BlUVki3KTJyM3vlgTWnyr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS6Z50980414&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/30BLhkeaIgQ9EdvxnocCB6
+            href: https://api.spotify.com/v1/albums/30BLhkeaIgQ9EdvxnocCB6
+            id: 30BLhkeaIgQ9EdvxnocCB6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f70395784775be1d949a1808
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f70395784775be1d949a1808
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f70395784775be1d949a1808
+            is_playable: true
+            name: Sad Sappy Sucker
+            release_date: '2001-04-24'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:30BLhkeaIgQ9EdvxnocCB6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 72440
+          explicit: false
+          external_ids:
+            isrc: US6Z50980414
+          external_urls:
+            spotify: https://open.spotify.com/track/7BlUVki3KTJyM3vlgTWnyr
+          href: https://api.spotify.com/v1/tracks/7BlUVki3KTJyM3vlgTWnyr
+          id: 7BlUVki3KTJyM3vlgTWnyr
+          is_local: false
+          is_playable: true
+          name: Secret Agent X-9
+          track_number: 14
+          type: track
+          uri: spotify:track:7BlUVki3KTJyM3vlgTWnyr
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/13t6lLmtWF3F0rdCMr8xiV
+            href: https://api.spotify.com/v1/albums/13t6lLmtWF3F0rdCMr8xiV
+            id: 13t6lLmtWF3F0rdCMr8xiV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f89720db1dc6688f3b11ed36
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f89720db1dc6688f3b11ed36
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f89720db1dc6688f3b11ed36
+            is_playable: true
+            name: Sad Sappy Sucker
+            release_date: '2001-04-24'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:13t6lLmtWF3F0rdCMr8xiV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 72440
+          explicit: false
+          external_ids:
+            isrc: US6Z50980414
+          external_urls:
+            spotify: https://open.spotify.com/track/4tWGd6ZFVXwviE8Hd48pTk
+          href: https://api.spotify.com/v1/tracks/4tWGd6ZFVXwviE8Hd48pTk
+          id: 4tWGd6ZFVXwviE8Hd48pTk
+          is_local: false
+          is_playable: true
+          name: Secret Agent X-9
+          track_number: 14
+          type: track
+          uri: spotify:track:4tWGd6ZFVXwviE8Hd48pTk
+    isrc: US6Z50980414

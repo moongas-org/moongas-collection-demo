@@ -52,3 +52,126 @@ mediaFileData:
   year: 2020
   duration: 116.62666666666667
   modTime: 2024-12-31 17:42:59.329509+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5XbZZCoJBi8dEf8y7CYbMa
+    trackId: 5XbZZCoJBi8dEf8y7CYbMa
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCFB2000016&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
+              href: https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw
+              id: 4frXpPxQQZwbCu3eTGnZEw
+              name: Thundercat
+              type: artist
+              uri: spotify:artist:4frXpPxQQZwbCu3eTGnZEw
+            external_urls:
+              spotify: https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB
+            href: https://api.spotify.com/v1/albums/69ImoNYaQSjY2RmQsaZ9DB
+            id: 69ImoNYaQSjY2RmQsaZ9DB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ea3d824d83cefb8ad93beea5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ea3d824d83cefb8ad93beea5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ea3d824d83cefb8ad93beea5
+            is_playable: true
+            name: Fair Chance (Floating Points Remix)
+            release_date: '2020-11-11'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:69ImoNYaQSjY2RmQsaZ9DB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
+            href: https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw
+            id: 4frXpPxQQZwbCu3eTGnZEw
+            name: Thundercat
+            type: artist
+            uri: spotify:artist:4frXpPxQQZwbCu3eTGnZEw
+          disc_number: 1
+          duration_ms: 116630
+          explicit: false
+          external_ids:
+            isrc: GBCFB2000016
+          external_urls:
+            spotify: https://open.spotify.com/track/5XbZZCoJBi8dEf8y7CYbMa
+          href: https://api.spotify.com/v1/tracks/5XbZZCoJBi8dEf8y7CYbMa
+          id: 5XbZZCoJBi8dEf8y7CYbMa
+          is_local: false
+          is_playable: true
+          name: Funny Thing
+          track_number: 3
+          type: track
+          uri: spotify:track:5XbZZCoJBi8dEf8y7CYbMa
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
+              href: https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw
+              id: 4frXpPxQQZwbCu3eTGnZEw
+              name: Thundercat
+              type: artist
+              uri: spotify:artist:4frXpPxQQZwbCu3eTGnZEw
+            external_urls:
+              spotify: https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9
+            href: https://api.spotify.com/v1/albums/59GRmAvlGs7KjLizFnV7Y9
+            id: 59GRmAvlGs7KjLizFnV7Y9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27323fb02f383f3bef16ab9d092
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0223fb02f383f3bef16ab9d092
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485123fb02f383f3bef16ab9d092
+            is_playable: true
+            name: It Is What It Is
+            release_date: '2020-04-03'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:59GRmAvlGs7KjLizFnV7Y9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
+            href: https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw
+            id: 4frXpPxQQZwbCu3eTGnZEw
+            name: Thundercat
+            type: artist
+            uri: spotify:artist:4frXpPxQQZwbCu3eTGnZEw
+          disc_number: 1
+          duration_ms: 116630
+          explicit: false
+          external_ids:
+            isrc: GBCFB2000016
+          external_urls:
+            spotify: https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332
+          href: https://api.spotify.com/v1/tracks/1c5CllrZr45UBhWpIqM332
+          id: 1c5CllrZr45UBhWpIqM332
+          is_local: false
+          is_playable: true
+          name: Funny Thing
+          track_number: 7
+          type: track
+          uri: spotify:track:1c5CllrZr45UBhWpIqM332
+    isrc: GBCFB2000016

@@ -47,3 +47,288 @@ mediaFileData:
   year: 2002
   duration: 179.513475
   modTime: 2025-01-20 22:04:29.151332+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3EOMZiOqeWbWofib48H6iD
+    trackId: 3EOMZiOqeWbWofib48H6iD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVIC0528609&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSVIC0528609&type=track
+        offset: 0
+        previous:
+        total: 7
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1
+              href: https://api.spotify.com/v1/artists/24XtlMhEMNdi822vi0MhY1
+              id: 24XtlMhEMNdi822vi0MhY1
+              name: Taking Back Sunday
+              type: artist
+              uri: spotify:artist:24XtlMhEMNdi822vi0MhY1
+            external_urls:
+              spotify: https://open.spotify.com/album/216CNxCLlMTynBoS9uZAb2
+            href: https://api.spotify.com/v1/albums/216CNxCLlMTynBoS9uZAb2
+            id: 216CNxCLlMTynBoS9uZAb2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b209c9e0d1f93380e6ca2a26
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b209c9e0d1f93380e6ca2a26
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b209c9e0d1f93380e6ca2a26
+            is_playable: true
+            name: Twenty
+            release_date: '2019-01-11'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:216CNxCLlMTynBoS9uZAb2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1
+            href: https://api.spotify.com/v1/artists/24XtlMhEMNdi822vi0MhY1
+            id: 24XtlMhEMNdi822vi0MhY1
+            name: Taking Back Sunday
+            type: artist
+            uri: spotify:artist:24XtlMhEMNdi822vi0MhY1
+          disc_number: 1
+          duration_ms: 181557
+          explicit: false
+          external_ids:
+            isrc: USVIC0528609
+          external_urls:
+            spotify: https://open.spotify.com/track/3EOMZiOqeWbWofib48H6iD
+          href: https://api.spotify.com/v1/tracks/3EOMZiOqeWbWofib48H6iD
+          id: 3EOMZiOqeWbWofib48H6iD
+          is_local: false
+          is_playable: true
+          name: You're So Last Summer
+          track_number: 2
+          type: track
+          uri: spotify:track:3EOMZiOqeWbWofib48H6iD
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1
+              href: https://api.spotify.com/v1/artists/24XtlMhEMNdi822vi0MhY1
+              id: 24XtlMhEMNdi822vi0MhY1
+              name: Taking Back Sunday
+              type: artist
+              uri: spotify:artist:24XtlMhEMNdi822vi0MhY1
+            external_urls:
+              spotify: https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG
+            href: https://api.spotify.com/v1/albums/5vXgzBXFBLdsE22WvrkmjG
+            id: 5vXgzBXFBLdsE22WvrkmjG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734f4f59a3c87b7fab342b0bb8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024f4f59a3c87b7fab342b0bb8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514f4f59a3c87b7fab342b0bb8
+            is_playable: true
+            name: Tell All Your Friends (20th Anniversary Edition)
+            release_date: '2022-05-27'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5vXgzBXFBLdsE22WvrkmjG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1
+            href: https://api.spotify.com/v1/artists/24XtlMhEMNdi822vi0MhY1
+            id: 24XtlMhEMNdi822vi0MhY1
+            name: Taking Back Sunday
+            type: artist
+            uri: spotify:artist:24XtlMhEMNdi822vi0MhY1
+          disc_number: 1
+          duration_ms: 179453
+          explicit: false
+          external_ids:
+            isrc: USVIC0528609
+          external_urls:
+            spotify: https://open.spotify.com/track/22opp9Depbmn43q5gSERwH
+          href: https://api.spotify.com/v1/tracks/22opp9Depbmn43q5gSERwH
+          id: 22opp9Depbmn43q5gSERwH
+          is_local: false
+          is_playable: true
+          name: You're So Last Summer
+          track_number: 9
+          type: track
+          uri: spotify:track:22opp9Depbmn43q5gSERwH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4CmPFCuDPQoC0h48CmxXtx
+            href: https://api.spotify.com/v1/albums/4CmPFCuDPQoC0h48CmxXtx
+            id: 4CmPFCuDPQoC0h48CmxXtx
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27317a43007028bdc201db5c0c0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0217a43007028bdc201db5c0c0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485117a43007028bdc201db5c0c0
+            is_playable: true
+            name: Emos Not Dead
+            release_date: '2019-10-11'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:4CmPFCuDPQoC0h48CmxXtx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1
+            href: https://api.spotify.com/v1/artists/24XtlMhEMNdi822vi0MhY1
+            id: 24XtlMhEMNdi822vi0MhY1
+            name: Taking Back Sunday
+            type: artist
+            uri: spotify:artist:24XtlMhEMNdi822vi0MhY1
+          disc_number: 1
+          duration_ms: 181557
+          explicit: false
+          external_ids:
+            isrc: USVIC0528609
+          external_urls:
+            spotify: https://open.spotify.com/track/6nxtF16uFtfyps99r3FUPw
+          href: https://api.spotify.com/v1/tracks/6nxtF16uFtfyps99r3FUPw
+          id: 6nxtF16uFtfyps99r3FUPw
+          is_local: false
+          is_playable: true
+          name: You're So Last Summer
+          track_number: 14
+          type: track
+          uri: spotify:track:6nxtF16uFtfyps99r3FUPw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6uBfZlkEZ2xW5oMhAQ6ozg
+            href: https://api.spotify.com/v1/albums/6uBfZlkEZ2xW5oMhAQ6ozg
+            id: 6uBfZlkEZ2xW5oMhAQ6ozg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273000d94b83981dae5fc0259e6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02000d94b83981dae5fc0259e6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851000d94b83981dae5fc0259e6
+            is_playable: true
+            name: Pop Punk Songs
+            release_date: '2021-04-30'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:6uBfZlkEZ2xW5oMhAQ6ozg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1
+            href: https://api.spotify.com/v1/artists/24XtlMhEMNdi822vi0MhY1
+            id: 24XtlMhEMNdi822vi0MhY1
+            name: Taking Back Sunday
+            type: artist
+            uri: spotify:artist:24XtlMhEMNdi822vi0MhY1
+          disc_number: 1
+          duration_ms: 181557
+          explicit: false
+          external_ids:
+            isrc: USVIC0528609
+          external_urls:
+            spotify: https://open.spotify.com/track/2Y38ygvhFrN5LQGLLbfBp9
+          href: https://api.spotify.com/v1/tracks/2Y38ygvhFrN5LQGLLbfBp9
+          id: 2Y38ygvhFrN5LQGLLbfBp9
+          is_local: false
+          is_playable: true
+          name: You're So Last Summer
+          track_number: 19
+          type: track
+          uri: spotify:track:2Y38ygvhFrN5LQGLLbfBp9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7iIr57EHq8xMeziyVCO3hi
+            href: https://api.spotify.com/v1/albums/7iIr57EHq8xMeziyVCO3hi
+            id: 7iIr57EHq8xMeziyVCO3hi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731dd7d33dda5aea595e36b60f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021dd7d33dda5aea595e36b60f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511dd7d33dda5aea595e36b60f
+            is_playable: true
+            name: Emo Pop Punk
+            release_date: '2022-01-05'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:7iIr57EHq8xMeziyVCO3hi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1
+            href: https://api.spotify.com/v1/artists/24XtlMhEMNdi822vi0MhY1
+            id: 24XtlMhEMNdi822vi0MhY1
+            name: Taking Back Sunday
+            type: artist
+            uri: spotify:artist:24XtlMhEMNdi822vi0MhY1
+          disc_number: 1
+          duration_ms: 181557
+          explicit: false
+          external_ids:
+            isrc: USVIC0528609
+          external_urls:
+            spotify: https://open.spotify.com/track/3krE0hadZahZ5NcZU6CJ6J
+          href: https://api.spotify.com/v1/tracks/3krE0hadZahZ5NcZU6CJ6J
+          id: 3krE0hadZahZ5NcZU6CJ6J
+          is_local: false
+          is_playable: true
+          name: You're So Last Summer
+          track_number: 17
+          type: track
+          uri: spotify:track:3krE0hadZahZ5NcZU6CJ6J
+    isrc: USVIC0528609

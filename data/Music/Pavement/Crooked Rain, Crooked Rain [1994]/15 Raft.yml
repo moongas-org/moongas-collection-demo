@@ -34,3 +34,126 @@ mediaFileData:
   year: 1994
   duration: 214.4653
   modTime: 2023-05-14 00:55:20.230000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/01bACvKAR6uT6JquUStPiM
+    trackId: 01bACvKAR6uT6JquUStPiM
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD0461001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/0AvxX8zXHu408xmPqRd0mN
+            href: https://api.spotify.com/v1/albums/0AvxX8zXHu408xmPqRd0mN
+            id: 0AvxX8zXHu408xmPqRd0mN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c18dadb01139540f67835d30
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c18dadb01139540f67835d30
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c18dadb01139540f67835d30
+            is_playable: true
+            name: "Crooked Rain, Crooked Rain: LA's Desert Origins"
+            release_date: '2004-10-26'
+            release_date_precision: day
+            total_tracks: 49
+            type: album
+            uri: spotify:album:0AvxX8zXHu408xmPqRd0mN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 214400
+          explicit: false
+          external_ids:
+            isrc: USMTD0461001
+          external_urls:
+            spotify: https://open.spotify.com/track/01bACvKAR6uT6JquUStPiM
+          href: https://api.spotify.com/v1/tracks/01bACvKAR6uT6JquUStPiM
+          id: 01bACvKAR6uT6JquUStPiM
+          is_local: false
+          is_playable: true
+          name: Raft
+          track_number: 15
+          type: track
+          uri: spotify:track:01bACvKAR6uT6JquUStPiM
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/5ky4KFfJNcGDwFtwHi4ZGk
+            href: https://api.spotify.com/v1/albums/5ky4KFfJNcGDwFtwHi4ZGk
+            id: 5ky4KFfJNcGDwFtwHi4ZGk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273edbbb5f88e7dd70a33b5a27d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02edbbb5f88e7dd70a33b5a27d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851edbbb5f88e7dd70a33b5a27d
+            is_playable: true
+            name: 'Cautionary Tales: Jukebox Classiques'
+            release_date: '2024-03-13'
+            release_date_precision: day
+            total_tracks: 56
+            type: album
+            uri: spotify:album:5ky4KFfJNcGDwFtwHi4ZGk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 4
+          duration_ms: 214400
+          explicit: false
+          external_ids:
+            isrc: USMTD0461001
+          external_urls:
+            spotify: https://open.spotify.com/track/6zg9ZrXGHEPaJSesoGCil7
+          href: https://api.spotify.com/v1/tracks/6zg9ZrXGHEPaJSesoGCil7
+          id: 6zg9ZrXGHEPaJSesoGCil7
+          is_local: false
+          is_playable: true
+          name: Raft
+          track_number: 9
+          type: track
+          uri: spotify:track:6zg9ZrXGHEPaJSesoGCil7
+    isrc: USMTD0461001

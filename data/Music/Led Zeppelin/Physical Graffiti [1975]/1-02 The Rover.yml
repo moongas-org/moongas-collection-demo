@@ -63,3 +63,126 @@ mediaFileData:
   year: 1975
   duration: 338.782025
   modTime: 2023-08-27 16:02:46+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4r8AQvzullpWTDpgv70KxD
+    trackId: 4r8AQvzullpWTDpgv70KxD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT21300965&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y
+            href: https://api.spotify.com/v1/albums/26tH0kjUhkxBEd3ipGkx3Y
+            id: 26tH0kjUhkxBEd3ipGkx3Y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273765b0617b572bdd1dbdc7d8e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02765b0617b572bdd1dbdc7d8e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851765b0617b572bdd1dbdc7d8e
+            is_playable: true
+            name: Physical Graffiti (Deluxe Edition)
+            release_date: '1975-02-24'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:26tH0kjUhkxBEd3ipGkx3Y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 339474
+          explicit: false
+          external_ids:
+            isrc: USAT21300965
+          external_urls:
+            spotify: https://open.spotify.com/track/4r8AQvzullpWTDpgv70KxD
+          href: https://api.spotify.com/v1/tracks/4r8AQvzullpWTDpgv70KxD
+          id: 4r8AQvzullpWTDpgv70KxD
+          is_local: false
+          is_playable: true
+          name: The Rover - Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:4r8AQvzullpWTDpgv70KxD
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd
+            href: https://api.spotify.com/v1/albums/4Q7cPyiP8cMIlUEHAqeYfd
+            id: 4Q7cPyiP8cMIlUEHAqeYfd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735273ac7ada6725bc36a2bcd0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025273ac7ada6725bc36a2bcd0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515273ac7ada6725bc36a2bcd0
+            is_playable: true
+            name: Physical Graffiti (Remaster)
+            release_date: '1975-02-24'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4Q7cPyiP8cMIlUEHAqeYfd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 339474
+          explicit: false
+          external_ids:
+            isrc: USAT21300965
+          external_urls:
+            spotify: https://open.spotify.com/track/7dOUBannsprgW5AZJwzbIn
+          href: https://api.spotify.com/v1/tracks/7dOUBannsprgW5AZJwzbIn
+          id: 7dOUBannsprgW5AZJwzbIn
+          is_local: false
+          is_playable: true
+          name: The Rover - Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:7dOUBannsprgW5AZJwzbIn
+    isrc: USAT21300965

@@ -82,3 +82,288 @@ mediaFileData:
   year: 1996
   duration: 323.496
   modTime: 2024-08-24 00:04:13.235467+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2gFDcmaJHc2uNXGjHP7kGP
+    trackId: 2gFDcmaJHc2uNXGjHP7kGP
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAM19604339&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSAM19604339&type=track
+        offset: 0
+        previous:
+        total: 37
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6yIhKdtttDau9gFgTsAWTq
+            href: https://api.spotify.com/v1/albums/6yIhKdtttDau9gFgTsAWTq
+            id: 6yIhKdtttDau9gFgTsAWTq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ce652daa805c10460170530e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ce652daa805c10460170530e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ce652daa805c10460170530e
+            is_playable: true
+            name: nostalgic fall vibes
+            release_date: '2025-10-10'
+            release_date_precision: day
+            total_tracks: 73
+            type: album
+            uri: spotify:album:6yIhKdtttDau9gFgTsAWTq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+            href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+            id: 4TKTii6gnOnUXQHyuo9JaD
+            name: Sheryl Crow
+            type: artist
+            uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+          disc_number: 1
+          duration_ms: 325373
+          explicit: false
+          external_ids:
+            isrc: USAM19604339
+          external_urls:
+            spotify: https://open.spotify.com/track/2gFDcmaJHc2uNXGjHP7kGP
+          href: https://api.spotify.com/v1/tracks/2gFDcmaJHc2uNXGjHP7kGP
+          id: 2gFDcmaJHc2uNXGjHP7kGP
+          is_local: false
+          is_playable: true
+          name: If It Makes You Happy
+          track_number: 37
+          type: track
+          uri: spotify:track:2gFDcmaJHc2uNXGjHP7kGP
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+              href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+              id: 4TKTii6gnOnUXQHyuo9JaD
+              name: Sheryl Crow
+              type: artist
+              uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+            external_urls:
+              spotify: https://open.spotify.com/album/4xVWP78Di4MeGgwlsjHix5
+            href: https://api.spotify.com/v1/albums/4xVWP78Di4MeGgwlsjHix5
+            id: 4xVWP78Di4MeGgwlsjHix5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273953d26e0752d39d4ac18a794
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02953d26e0752d39d4ac18a794
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851953d26e0752d39d4ac18a794
+            is_playable: true
+            name: If It Makes You Happy
+            release_date: '1996-01-01'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:4xVWP78Di4MeGgwlsjHix5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+            href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+            id: 4TKTii6gnOnUXQHyuo9JaD
+            name: Sheryl Crow
+            type: artist
+            uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+          disc_number: 1
+          duration_ms: 326093
+          explicit: false
+          external_ids:
+            isrc: USAM19604339
+          external_urls:
+            spotify: https://open.spotify.com/track/6im5Ts56ewHHJFu8qAE8X3
+          href: https://api.spotify.com/v1/tracks/6im5Ts56ewHHJFu8qAE8X3
+          id: 6im5Ts56ewHHJFu8qAE8X3
+          is_local: false
+          is_playable: true
+          name: If It Makes You Happy
+          track_number: 1
+          type: track
+          uri: spotify:track:6im5Ts56ewHHJFu8qAE8X3
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+              href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+              id: 4TKTii6gnOnUXQHyuo9JaD
+              name: Sheryl Crow
+              type: artist
+              uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+            external_urls:
+              spotify: https://open.spotify.com/album/6hEraRCFDwYMUeDWpCReSe
+            href: https://api.spotify.com/v1/albums/6hEraRCFDwYMUeDWpCReSe
+            id: 6hEraRCFDwYMUeDWpCReSe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732551ee7f7a788b09706a608b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022551ee7f7a788b09706a608b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512551ee7f7a788b09706a608b
+            is_playable: true
+            name: Hits And Rarities
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:6hEraRCFDwYMUeDWpCReSe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+            href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+            id: 4TKTii6gnOnUXQHyuo9JaD
+            name: Sheryl Crow
+            type: artist
+            uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+          disc_number: 1
+          duration_ms: 321186
+          explicit: false
+          external_ids:
+            isrc: USAM19604339
+          external_urls:
+            spotify: https://open.spotify.com/track/2KL48y0wavjCOSPqsT2TIR
+          href: https://api.spotify.com/v1/tracks/2KL48y0wavjCOSPqsT2TIR
+          id: 2KL48y0wavjCOSPqsT2TIR
+          is_local: false
+          is_playable: true
+          name: If It Makes You Happy
+          track_number: 10
+          type: track
+          uri: spotify:track:2KL48y0wavjCOSPqsT2TIR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+              href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+              id: 4TKTii6gnOnUXQHyuo9JaD
+              name: Sheryl Crow
+              type: artist
+              uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+            external_urls:
+              spotify: https://open.spotify.com/album/7Kw98O8x1Urwo139vaO0fJ
+            href: https://api.spotify.com/v1/albums/7Kw98O8x1Urwo139vaO0fJ
+            id: 7Kw98O8x1Urwo139vaO0fJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e74d8025eae719a3e769a690
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e74d8025eae719a3e769a690
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e74d8025eae719a3e769a690
+            is_playable: true
+            name: The Very Best Of
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7Kw98O8x1Urwo139vaO0fJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+            href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+            id: 4TKTii6gnOnUXQHyuo9JaD
+            name: Sheryl Crow
+            type: artist
+            uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+          disc_number: 1
+          duration_ms: 323600
+          explicit: false
+          external_ids:
+            isrc: USAM19604339
+          external_urls:
+            spotify: https://open.spotify.com/track/1W5acBpsLXWrnOmzSKH0FI
+          href: https://api.spotify.com/v1/tracks/1W5acBpsLXWrnOmzSKH0FI
+          id: 1W5acBpsLXWrnOmzSKH0FI
+          is_local: false
+          is_playable: true
+          name: If It Makes You Happy
+          track_number: 9
+          type: track
+          uri: spotify:track:1W5acBpsLXWrnOmzSKH0FI
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+              href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+              id: 4TKTii6gnOnUXQHyuo9JaD
+              name: Sheryl Crow
+              type: artist
+              uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+            external_urls:
+              spotify: https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb
+            href: https://api.spotify.com/v1/albums/3w7TTi80vZApF0rQE5DMYb
+            id: 3w7TTi80vZApF0rQE5DMYb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b3ed19f9985ca08a7a30f6c4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b3ed19f9985ca08a7a30f6c4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b3ed19f9985ca08a7a30f6c4
+            is_playable: true
+            name: Sheryl Crow
+            release_date: '1996-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3w7TTi80vZApF0rQE5DMYb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+            href: https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD
+            id: 4TKTii6gnOnUXQHyuo9JaD
+            name: Sheryl Crow
+            type: artist
+            uri: spotify:artist:4TKTii6gnOnUXQHyuo9JaD
+          disc_number: 1
+          duration_ms: 323400
+          explicit: false
+          external_ids:
+            isrc: USAM19604339
+          external_urls:
+            spotify: https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh
+          href: https://api.spotify.com/v1/tracks/5XrfFo0JFOnWD9ZMNXGkQh
+          id: 5XrfFo0JFOnWD9ZMNXGkQh
+          is_local: false
+          is_playable: true
+          name: If It Makes You Happy
+          track_number: 5
+          type: track
+          uri: spotify:track:5XrfFo0JFOnWD9ZMNXGkQh
+    isrc: USAM19604339

@@ -44,3 +44,79 @@ mediaFileData:
   year: 1999
   duration: 254.04
   modTime: 2025-05-18 21:25:39.610814+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7qtjhoCWhx61wojqn8leLC
+    trackId: 7qtjhoCWhx61wojqn8leLC
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSLR59900264&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc
+              href: https://api.spotify.com/v1/artists/08Ld63UgKrJ0nZnCkzHtzc
+              id: 08Ld63UgKrJ0nZnCkzHtzc
+              name: Project Pat
+              type: artist
+              uri: spotify:artist:08Ld63UgKrJ0nZnCkzHtzc
+            external_urls:
+              spotify: https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR
+            href: https://api.spotify.com/v1/albums/79C18fJJMGIe3IzT8LiuHR
+            id: 79C18fJJMGIe3IzT8LiuHR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730334e01c8d7394f446ab2c2a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020334e01c8d7394f446ab2c2a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510334e01c8d7394f446ab2c2a
+            is_playable: true
+            name: Ghetty Green
+            release_date: '1999-09-14'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:79C18fJJMGIe3IzT8LiuHR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc
+            href: https://api.spotify.com/v1/artists/08Ld63UgKrJ0nZnCkzHtzc
+            id: 08Ld63UgKrJ0nZnCkzHtzc
+            name: Project Pat
+            type: artist
+            uri: spotify:artist:08Ld63UgKrJ0nZnCkzHtzc
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1NMPFAWwsqqy5m8kEQvDl6
+            href: https://api.spotify.com/v1/artists/1NMPFAWwsqqy5m8kEQvDl6
+            id: 1NMPFAWwsqqy5m8kEQvDl6
+            name: Crucial Conflict
+            type: artist
+            uri: spotify:artist:1NMPFAWwsqqy5m8kEQvDl6
+          disc_number: 1
+          duration_ms: 261333
+          explicit: true
+          external_ids:
+            isrc: USLR59900264
+          external_urls:
+            spotify: https://open.spotify.com/track/7qtjhoCWhx61wojqn8leLC
+          href: https://api.spotify.com/v1/tracks/7qtjhoCWhx61wojqn8leLC
+          id: 7qtjhoCWhx61wojqn8leLC
+          is_local: false
+          is_playable: true
+          name: Stabbers (feat. Crucial Conflict)
+          track_number: 17
+          type: track
+          uri: spotify:track:7qtjhoCWhx61wojqn8leLC
+    isrc: USLR59900264

@@ -47,3 +47,126 @@ mediaFileData:
   year: 1981
   duration: 214.77333333333334
   modTime: 2024-02-15 21:50:12.898419+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/38eOojMDQscY6Gs70tdEfH
+    trackId: 38eOojMDQscY6Gs70tdEfH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWWW0129172&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh
+              href: https://api.spotify.com/v1/artists/4salDzkGmfycRqNUbyBphh
+              id: 4salDzkGmfycRqNUbyBphh
+              name: Styx
+              type: artist
+              uri: spotify:artist:4salDzkGmfycRqNUbyBphh
+            external_urls:
+              spotify: https://open.spotify.com/album/1lZG8RxAonObmOnBSQqJle
+            href: https://api.spotify.com/v1/albums/1lZG8RxAonObmOnBSQqJle
+            id: 1lZG8RxAonObmOnBSQqJle
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733600607dc012cfd6e3fd696a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023600607dc012cfd6e3fd696a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513600607dc012cfd6e3fd696a
+            is_playable: true
+            name: Greatest Hits Part 2
+            release_date: '1996-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:1lZG8RxAonObmOnBSQqJle
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh
+            href: https://api.spotify.com/v1/artists/4salDzkGmfycRqNUbyBphh
+            id: 4salDzkGmfycRqNUbyBphh
+            name: Styx
+            type: artist
+            uri: spotify:artist:4salDzkGmfycRqNUbyBphh
+          disc_number: 1
+          duration_ms: 215266
+          explicit: false
+          external_ids:
+            isrc: USWWW0129172
+          external_urls:
+            spotify: https://open.spotify.com/track/38eOojMDQscY6Gs70tdEfH
+          href: https://api.spotify.com/v1/tracks/38eOojMDQscY6Gs70tdEfH
+          id: 38eOojMDQscY6Gs70tdEfH
+          is_local: false
+          is_playable: true
+          name: Rockin' The Paradise
+          track_number: 2
+          type: track
+          uri: spotify:track:38eOojMDQscY6Gs70tdEfH
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh
+              href: https://api.spotify.com/v1/artists/4salDzkGmfycRqNUbyBphh
+              id: 4salDzkGmfycRqNUbyBphh
+              name: Styx
+              type: artist
+              uri: spotify:artist:4salDzkGmfycRqNUbyBphh
+            external_urls:
+              spotify: https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF
+            href: https://api.spotify.com/v1/albums/6PhLTeuN0G894bdSBTCwUF
+            id: 6PhLTeuN0G894bdSBTCwUF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732d966b6109886232d026419f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022d966b6109886232d026419f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512d966b6109886232d026419f
+            is_playable: true
+            name: Paradise Theatre
+            release_date: '1981-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6PhLTeuN0G894bdSBTCwUF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh
+            href: https://api.spotify.com/v1/artists/4salDzkGmfycRqNUbyBphh
+            id: 4salDzkGmfycRqNUbyBphh
+            name: Styx
+            type: artist
+            uri: spotify:artist:4salDzkGmfycRqNUbyBphh
+          disc_number: 1
+          duration_ms: 214840
+          explicit: false
+          external_ids:
+            isrc: USWWW0129172
+          external_urls:
+            spotify: https://open.spotify.com/track/3jZF3C8VxTSnteO3V6lVXz
+          href: https://api.spotify.com/v1/tracks/3jZF3C8VxTSnteO3V6lVXz
+          id: 3jZF3C8VxTSnteO3V6lVXz
+          is_local: false
+          is_playable: true
+          name: Rockin' The Paradise
+          track_number: 2
+          type: track
+          uri: spotify:track:3jZF3C8VxTSnteO3V6lVXz
+    isrc: USWWW0129172

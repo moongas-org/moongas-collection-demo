@@ -48,3 +48,126 @@ mediaFileData:
   year: 1988
   duration: 237.8187755102041
   modTime: 2026-07-22 22:32:20.436099+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/14qIlZsNOfoa0erio9fRGq
+    trackId: 14qIlZsNOfoa0erio9fRGq
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ASEAME8878110&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY
+              href: https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY
+              id: 2SHhfs4BiDxGQ3oxqf0UHY
+              name: Roxette
+              type: artist
+              uri: spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY
+            external_urls:
+              spotify: https://open.spotify.com/album/70EpMMqKGTqr61NHxBlLvt
+            href: https://api.spotify.com/v1/albums/70EpMMqKGTqr61NHxBlLvt
+            id: 70EpMMqKGTqr61NHxBlLvt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d3249f443c3ef2daa70818d0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d3249f443c3ef2daa70818d0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d3249f443c3ef2daa70818d0
+            is_playable: true
+            name: Look Sharp! 30th Anniversary Edition
+            release_date: '1988-10-22'
+            release_date_precision: day
+            total_tracks: 52
+            type: album
+            uri: spotify:album:70EpMMqKGTqr61NHxBlLvt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY
+            href: https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY
+            id: 2SHhfs4BiDxGQ3oxqf0UHY
+            name: Roxette
+            type: artist
+            uri: spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY
+          disc_number: 1
+          duration_ms: 237760
+          explicit: false
+          external_ids:
+            isrc: SEAME8878110
+          external_urls:
+            spotify: https://open.spotify.com/track/14qIlZsNOfoa0erio9fRGq
+          href: https://api.spotify.com/v1/tracks/14qIlZsNOfoa0erio9fRGq
+          id: 14qIlZsNOfoa0erio9fRGq
+          is_local: false
+          is_playable: true
+          name: (I Could Never) Give You Up
+          track_number: 11
+          type: track
+          uri: spotify:track:14qIlZsNOfoa0erio9fRGq
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY
+              href: https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY
+              id: 2SHhfs4BiDxGQ3oxqf0UHY
+              name: Roxette
+              type: artist
+              uri: spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZbAooTInchkC9RH7SPKVb
+            href: https://api.spotify.com/v1/albums/3ZbAooTInchkC9RH7SPKVb
+            id: 3ZbAooTInchkC9RH7SPKVb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27315c293b9489fa5f5fdad4607
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0215c293b9489fa5f5fdad4607
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485115c293b9489fa5f5fdad4607
+            is_playable: true
+            name: Look Sharp!
+            release_date: '1988-10-21'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3ZbAooTInchkC9RH7SPKVb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY
+            href: https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY
+            id: 2SHhfs4BiDxGQ3oxqf0UHY
+            name: Roxette
+            type: artist
+            uri: spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY
+          disc_number: 1
+          duration_ms: 237760
+          explicit: false
+          external_ids:
+            isrc: SEAME8878110
+          external_urls:
+            spotify: https://open.spotify.com/track/5xf94u04rcHoEHRM1iW5k9
+          href: https://api.spotify.com/v1/tracks/5xf94u04rcHoEHRM1iW5k9
+          id: 5xf94u04rcHoEHRM1iW5k9
+          is_local: false
+          is_playable: true
+          name: (I Could Never) Give You Up
+          track_number: 11
+          type: track
+          uri: spotify:track:5xf94u04rcHoEHRM1iW5k9
+    isrc: SEAME8878110

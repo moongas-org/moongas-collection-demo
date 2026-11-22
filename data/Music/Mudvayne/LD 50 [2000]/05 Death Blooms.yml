@@ -52,3 +52,72 @@ mediaFileData:
   year: 2000
   duration: 291.8922083333333
   modTime: 2023-05-14 14:23:16.500000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV
+    trackId: 3Y4rNagSf2IukhcOTWYJuV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10011159&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM
+              href: https://api.spotify.com/v1/artists/2Pfv2w8a20xzC7Dr7QXRqM
+              id: 2Pfv2w8a20xzC7Dr7QXRqM
+              name: Mudvayne
+              type: artist
+              uri: spotify:artist:2Pfv2w8a20xzC7Dr7QXRqM
+            external_urls:
+              spotify: https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9
+            href: https://api.spotify.com/v1/albums/79cxLehm2WE9NMIRcJaqK9
+            id: 79cxLehm2WE9NMIRcJaqK9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27380caf18e0ad32956cd798510
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0280caf18e0ad32956cd798510
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485180caf18e0ad32956cd798510
+            is_playable: true
+            name: L.D. 50
+            release_date: '2000-08-13'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:79cxLehm2WE9NMIRcJaqK9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM
+            href: https://api.spotify.com/v1/artists/2Pfv2w8a20xzC7Dr7QXRqM
+            id: 2Pfv2w8a20xzC7Dr7QXRqM
+            name: Mudvayne
+            type: artist
+            uri: spotify:artist:2Pfv2w8a20xzC7Dr7QXRqM
+          disc_number: 1
+          duration_ms: 291933
+          explicit: true
+          external_ids:
+            isrc: USSM10011159
+          external_urls:
+            spotify: https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV
+          href: https://api.spotify.com/v1/tracks/3Y4rNagSf2IukhcOTWYJuV
+          id: 3Y4rNagSf2IukhcOTWYJuV
+          is_local: false
+          is_playable: true
+          name: Death Blooms
+          track_number: 5
+          type: track
+          uri: spotify:track:3Y4rNagSf2IukhcOTWYJuV
+    isrc: USSM10011159

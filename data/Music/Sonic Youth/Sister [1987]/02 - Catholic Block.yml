@@ -54,3 +54,72 @@ mediaFileData:
   year: 1987
   duration: 206.472
   modTime: 2025-02-01 00:05:33.834599+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Ovffo11FVfm4Xf1bef9KK
+    trackId: 0Ovffo11FVfm4Xf1bef9KK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR10000966&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+              href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+              id: 5UqTO8smerMvxHYA5xsXb6
+              name: Sonic Youth
+              type: artist
+              uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+            external_urls:
+              spotify: https://open.spotify.com/album/4gPkBsMmufyOMCJbXUUme8
+            href: https://api.spotify.com/v1/albums/4gPkBsMmufyOMCJbXUUme8
+            id: 4gPkBsMmufyOMCJbXUUme8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27374ad88a9df81d4a735fe1462
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0274ad88a9df81d4a735fe1462
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485174ad88a9df81d4a735fe1462
+            is_playable: true
+            name: Sister
+            release_date: '1987-04-07'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4gPkBsMmufyOMCJbXUUme8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+            href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+            id: 5UqTO8smerMvxHYA5xsXb6
+            name: Sonic Youth
+            type: artist
+            uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+          disc_number: 1
+          duration_ms: 206426
+          explicit: false
+          external_ids:
+            isrc: USIR10000966
+          external_urls:
+            spotify: https://open.spotify.com/track/0Ovffo11FVfm4Xf1bef9KK
+          href: https://api.spotify.com/v1/tracks/0Ovffo11FVfm4Xf1bef9KK
+          id: 0Ovffo11FVfm4Xf1bef9KK
+          is_local: false
+          is_playable: true
+          name: Catholic Block
+          track_number: 2
+          type: track
+          uri: spotify:track:0Ovffo11FVfm4Xf1bef9KK
+    isrc: USIR10000966

@@ -65,3 +65,288 @@ mediaFileData:
   year: 1983
   duration: 271.7518367346939
   modTime: 2025-04-02 22:49:58.081881+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/06CUB4iLHgyenwlMwiLSF1
+    trackId: 06CUB4iLHgyenwlMwiLSF1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM18200067&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSSM18200067&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+              href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+              id: 0f3EsoviYnRKTkmayI3cux
+              name: Men At Work
+              type: artist
+              uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+            external_urls:
+              spotify: https://open.spotify.com/album/30aG9Rjezn1vxaYXrB8j3d
+            href: https://api.spotify.com/v1/albums/30aG9Rjezn1vxaYXrB8j3d
+            id: 30aG9Rjezn1vxaYXrB8j3d
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273915d3557be11cf6820aaa785
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02915d3557be11cf6820aaa785
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851915d3557be11cf6820aaa785
+            is_playable: true
+            name: The Essential Men At Work
+            release_date: '2003-04-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:30aG9Rjezn1vxaYXrB8j3d
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+            href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+            id: 0f3EsoviYnRKTkmayI3cux
+            name: Men At Work
+            type: artist
+            uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+          disc_number: 1
+          duration_ms: 284573
+          explicit: false
+          external_ids:
+            isrc: USSM18200067
+          external_urls:
+            spotify: https://open.spotify.com/track/06CUB4iLHgyenwlMwiLSF1
+          href: https://api.spotify.com/v1/tracks/06CUB4iLHgyenwlMwiLSF1
+          id: 06CUB4iLHgyenwlMwiLSF1
+          is_local: false
+          is_playable: true
+          name: It's a Mistake
+          track_number: 3
+          type: track
+          uri: spotify:track:06CUB4iLHgyenwlMwiLSF1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+              href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+              id: 0f3EsoviYnRKTkmayI3cux
+              name: Men At Work
+              type: artist
+              uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+            external_urls:
+              spotify: https://open.spotify.com/album/6rp1J7P9VhTZWb1CXfSucI
+            href: https://api.spotify.com/v1/albums/6rp1J7P9VhTZWb1CXfSucI
+            id: 6rp1J7P9VhTZWb1CXfSucI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273817afe0d495321e8aa5493fc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02817afe0d495321e8aa5493fc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851817afe0d495321e8aa5493fc
+            is_playable: true
+            name: The Best Of Men At Work
+            release_date: '2005-01-31'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:6rp1J7P9VhTZWb1CXfSucI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+            href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+            id: 0f3EsoviYnRKTkmayI3cux
+            name: Men At Work
+            type: artist
+            uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+          disc_number: 1
+          duration_ms: 271706
+          explicit: false
+          external_ids:
+            isrc: USSM18200067
+          external_urls:
+            spotify: https://open.spotify.com/track/0Ty6MCJjTVfexFiQOCD56M
+          href: https://api.spotify.com/v1/tracks/0Ty6MCJjTVfexFiQOCD56M
+          id: 0Ty6MCJjTVfexFiQOCD56M
+          is_local: false
+          is_playable: true
+          name: It's a Mistake
+          track_number: 15
+          type: track
+          uri: spotify:track:0Ty6MCJjTVfexFiQOCD56M
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+              href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+              id: 0f3EsoviYnRKTkmayI3cux
+              name: Men At Work
+              type: artist
+              uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+            external_urls:
+              spotify: https://open.spotify.com/album/1pBO6kNhgJ2OYMAWUE4fze
+            href: https://api.spotify.com/v1/albums/1pBO6kNhgJ2OYMAWUE4fze
+            id: 1pBO6kNhgJ2OYMAWUE4fze
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f63e8d27838f4e15fd58b3e7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f63e8d27838f4e15fd58b3e7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f63e8d27838f4e15fd58b3e7
+            is_playable: true
+            name: Simply The Best
+            release_date: '1998-09-07'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:1pBO6kNhgJ2OYMAWUE4fze
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+            href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+            id: 0f3EsoviYnRKTkmayI3cux
+            name: Men At Work
+            type: artist
+            uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+          disc_number: 1
+          duration_ms: 270626
+          explicit: false
+          external_ids:
+            isrc: USSM18200067
+          external_urls:
+            spotify: https://open.spotify.com/track/5DrY3MzY5dawZ8yGlPkUDY
+          href: https://api.spotify.com/v1/tracks/5DrY3MzY5dawZ8yGlPkUDY
+          id: 5DrY3MzY5dawZ8yGlPkUDY
+          is_local: false
+          is_playable: true
+          name: It's a Mistake
+          track_number: 2
+          type: track
+          uri: spotify:track:5DrY3MzY5dawZ8yGlPkUDY
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+              href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+              id: 0f3EsoviYnRKTkmayI3cux
+              name: Men At Work
+              type: artist
+              uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+            external_urls:
+              spotify: https://open.spotify.com/album/7fviHYYN5OFnCiVTwgxEfZ
+            href: https://api.spotify.com/v1/albums/7fviHYYN5OFnCiVTwgxEfZ
+            id: 7fviHYYN5OFnCiVTwgxEfZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733211dde24ab0f9790577f495
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023211dde24ab0f9790577f495
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513211dde24ab0f9790577f495
+            is_playable: true
+            name: Down Under
+            release_date: '1998-05-07'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7fviHYYN5OFnCiVTwgxEfZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+            href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+            id: 0f3EsoviYnRKTkmayI3cux
+            name: Men At Work
+            type: artist
+            uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+          disc_number: 1
+          duration_ms: 270626
+          explicit: false
+          external_ids:
+            isrc: USSM18200067
+          external_urls:
+            spotify: https://open.spotify.com/track/6htpH6j0eWtv1uFQjE281Q
+          href: https://api.spotify.com/v1/tracks/6htpH6j0eWtv1uFQjE281Q
+          id: 6htpH6j0eWtv1uFQjE281Q
+          is_local: false
+          is_playable: true
+          name: It's a Mistake
+          track_number: 2
+          type: track
+          uri: spotify:track:6htpH6j0eWtv1uFQjE281Q
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+              href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+              id: 0f3EsoviYnRKTkmayI3cux
+              name: Men At Work
+              type: artist
+              uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+            external_urls:
+              spotify: https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy
+            href: https://api.spotify.com/v1/albums/6GYIy1SuhPDrugCZ5yNeQy
+            id: 6GYIy1SuhPDrugCZ5yNeQy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d6a1f7a12629154fa274631f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d6a1f7a12629154fa274631f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d6a1f7a12629154fa274631f
+            is_playable: true
+            name: 'The Best Of Men At Work: Contraband'
+            release_date: '1996-02-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:6GYIy1SuhPDrugCZ5yNeQy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux
+            href: https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux
+            id: 0f3EsoviYnRKTkmayI3cux
+            name: Men At Work
+            type: artist
+            uri: spotify:artist:0f3EsoviYnRKTkmayI3cux
+          disc_number: 1
+          duration_ms: 271706
+          explicit: false
+          external_ids:
+            isrc: USSM18200067
+          external_urls:
+            spotify: https://open.spotify.com/track/5xNmWMhsZncmM9zziHww42
+          href: https://api.spotify.com/v1/tracks/5xNmWMhsZncmM9zziHww42
+          id: 5xNmWMhsZncmM9zziHww42
+          is_local: false
+          is_playable: true
+          name: It's a Mistake
+          track_number: 3
+          type: track
+          uri: spotify:track:5xNmWMhsZncmM9zziHww42
+    isrc: USSM18200067

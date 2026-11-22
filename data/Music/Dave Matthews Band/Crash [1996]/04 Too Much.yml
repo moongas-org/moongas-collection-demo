@@ -67,3 +67,180 @@ mediaFileData:
   year: 1996
   duration: 261.8253
   modTime: 2023-04-23 14:42:13.010000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2QBmEUiESpPGTSSzaP4aXQ
+    trackId: 2QBmEUiESpPGTSSzaP4aXQ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC19603146&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L
+              href: https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L
+              id: 2TI7qyDE0QfyOlnbtfDo7L
+              name: Dave Matthews Band
+              type: artist
+              uri: spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+            external_urls:
+              spotify: https://open.spotify.com/album/0Hh4Yy3t1yE8nHl66zP0F7
+            href: https://api.spotify.com/v1/albums/0Hh4Yy3t1yE8nHl66zP0F7
+            id: 0Hh4Yy3t1yE8nHl66zP0F7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f87dbee274b4bc9b73ca1737
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f87dbee274b4bc9b73ca1737
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f87dbee274b4bc9b73ca1737
+            is_playable: true
+            name: 'Where Are You Going: The Singles'
+            release_date: '2025-02-07'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:0Hh4Yy3t1yE8nHl66zP0F7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L
+            href: https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L
+            id: 2TI7qyDE0QfyOlnbtfDo7L
+            name: Dave Matthews Band
+            type: artist
+            uri: spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+          disc_number: 1
+          duration_ms: 261774
+          explicit: false
+          external_ids:
+            isrc: USRC19603146
+          external_urls:
+            spotify: https://open.spotify.com/track/2QBmEUiESpPGTSSzaP4aXQ
+          href: https://api.spotify.com/v1/tracks/2QBmEUiESpPGTSSzaP4aXQ
+          id: 2QBmEUiESpPGTSSzaP4aXQ
+          is_local: false
+          is_playable: true
+          name: Too Much
+          track_number: 5
+          type: track
+          uri: spotify:track:2QBmEUiESpPGTSSzaP4aXQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L
+              href: https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L
+              id: 2TI7qyDE0QfyOlnbtfDo7L
+              name: Dave Matthews Band
+              type: artist
+              uri: spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+            external_urls:
+              spotify: https://open.spotify.com/album/1kae5MA0gbXveSdJDYtFHo
+            href: https://api.spotify.com/v1/albums/1kae5MA0gbXveSdJDYtFHo
+            id: 1kae5MA0gbXveSdJDYtFHo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bff01f68d169909f30438bda
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bff01f68d169909f30438bda
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bff01f68d169909f30438bda
+            is_playable: true
+            name: Dave Matthews Band - The Best Of What's Around - Vol.1
+            release_date: '2006-11-07'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:1kae5MA0gbXveSdJDYtFHo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L
+            href: https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L
+            id: 2TI7qyDE0QfyOlnbtfDo7L
+            name: Dave Matthews Band
+            type: artist
+            uri: spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+          disc_number: 1
+          duration_ms: 261693
+          explicit: false
+          external_ids:
+            isrc: USRC19603146
+          external_urls:
+            spotify: https://open.spotify.com/track/0AihxgmjZzoBC37hww1G4N
+          href: https://api.spotify.com/v1/tracks/0AihxgmjZzoBC37hww1G4N
+          id: 0AihxgmjZzoBC37hww1G4N
+          is_local: false
+          is_playable: true
+          name: Too Much
+          track_number: 4
+          type: track
+          uri: spotify:track:0AihxgmjZzoBC37hww1G4N
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L
+              href: https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L
+              id: 2TI7qyDE0QfyOlnbtfDo7L
+              name: Dave Matthews Band
+              type: artist
+              uri: spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+            external_urls:
+              spotify: https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7
+            href: https://api.spotify.com/v1/albums/3Z72KfamjH9Wc5m9mgVqI7
+            id: 3Z72KfamjH9Wc5m9mgVqI7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738b661bd40fbd8c6fbb26e3df
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028b661bd40fbd8c6fbb26e3df
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518b661bd40fbd8c6fbb26e3df
+            is_playable: true
+            name: Crash
+            release_date: '1996-04-30'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3Z72KfamjH9Wc5m9mgVqI7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L
+            href: https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L
+            id: 2TI7qyDE0QfyOlnbtfDo7L
+            name: Dave Matthews Band
+            type: artist
+            uri: spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+          disc_number: 1
+          duration_ms: 261626
+          explicit: false
+          external_ids:
+            isrc: USRC19603146
+          external_urls:
+            spotify: https://open.spotify.com/track/0i2jSWCwjjOVzfnvJJ2Sii
+          href: https://api.spotify.com/v1/tracks/0i2jSWCwjjOVzfnvJJ2Sii
+          id: 0i2jSWCwjjOVzfnvJJ2Sii
+          is_local: false
+          is_playable: true
+          name: Too Much
+          track_number: 4
+          type: track
+          uri: spotify:track:0i2jSWCwjjOVzfnvJJ2Sii
+    isrc: USRC19603146

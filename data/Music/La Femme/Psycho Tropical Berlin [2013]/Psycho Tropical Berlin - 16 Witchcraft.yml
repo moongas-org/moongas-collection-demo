@@ -34,3 +34,72 @@ mediaFileData:
   year: 2003
   duration: 229.01333333333332
   modTime: 2023-02-22 23:51:50.070000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7AL579yxZz3xtp8iU0g2Hg
+    trackId: 7AL579yxZz3xtp8iU0g2Hg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFR9W11313024&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI
+              href: https://api.spotify.com/v1/artists/5VTWoYYizcOY3uIKnxeCGI
+              id: 5VTWoYYizcOY3uIKnxeCGI
+              name: La Femme
+              type: artist
+              uri: spotify:artist:5VTWoYYizcOY3uIKnxeCGI
+            external_urls:
+              spotify: https://open.spotify.com/album/7ExUxli1vAsXcgijfi2Abr
+            href: https://api.spotify.com/v1/albums/7ExUxli1vAsXcgijfi2Abr
+            id: 7ExUxli1vAsXcgijfi2Abr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b7ccab44e5790e085e9f22fb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b7ccab44e5790e085e9f22fb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b7ccab44e5790e085e9f22fb
+            is_playable: true
+            name: Psycho Tropical Berlin (Bonus Track Version)
+            release_date: '2013-11-11'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:7ExUxli1vAsXcgijfi2Abr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI
+            href: https://api.spotify.com/v1/artists/5VTWoYYizcOY3uIKnxeCGI
+            id: 5VTWoYYizcOY3uIKnxeCGI
+            name: La Femme
+            type: artist
+            uri: spotify:artist:5VTWoYYizcOY3uIKnxeCGI
+          disc_number: 1
+          duration_ms: 229253
+          explicit: false
+          external_ids:
+            isrc: FR9W11313024
+          external_urls:
+            spotify: https://open.spotify.com/track/7AL579yxZz3xtp8iU0g2Hg
+          href: https://api.spotify.com/v1/tracks/7AL579yxZz3xtp8iU0g2Hg
+          id: 7AL579yxZz3xtp8iU0g2Hg
+          is_local: false
+          is_playable: true
+          name: Witchcraft - Bonus Track
+          track_number: 15
+          type: track
+          uri: spotify:track:7AL579yxZz3xtp8iU0g2Hg
+    isrc: FR9W11313024

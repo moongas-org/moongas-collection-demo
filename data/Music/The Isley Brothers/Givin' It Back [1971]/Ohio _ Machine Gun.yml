@@ -59,3 +59,72 @@ mediaFileData:
   year: 1971
   duration: 556.128
   modTime: 2023-10-28 21:30:24.967338+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3c8TUzLgGlat7UMy04KxB6
+    trackId: 3c8TUzLgGlat7UMy04KxB6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM17100144&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp
+              href: https://api.spotify.com/v1/artists/53QzNeFpzAaXYnrDBbDrIp
+              id: 53QzNeFpzAaXYnrDBbDrIp
+              name: The Isley Brothers
+              type: artist
+              uri: spotify:artist:53QzNeFpzAaXYnrDBbDrIp
+            external_urls:
+              spotify: https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h
+            href: https://api.spotify.com/v1/albums/0xd0GqZYWh9wEA3TuqMy5h
+            id: 0xd0GqZYWh9wEA3TuqMy5h
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273556a169bc1a53626f4e48786
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02556a169bc1a53626f4e48786
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851556a169bc1a53626f4e48786
+            is_playable: true
+            name: Givin' It Back
+            release_date: '1971-08-21'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0xd0GqZYWh9wEA3TuqMy5h
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp
+            href: https://api.spotify.com/v1/artists/53QzNeFpzAaXYnrDBbDrIp
+            id: 53QzNeFpzAaXYnrDBbDrIp
+            name: The Isley Brothers
+            type: artist
+            uri: spotify:artist:53QzNeFpzAaXYnrDBbDrIp
+          disc_number: 1
+          duration_ms: 556102
+          explicit: false
+          external_ids:
+            isrc: USSM17100144
+          external_urls:
+            spotify: https://open.spotify.com/track/3c8TUzLgGlat7UMy04KxB6
+          href: https://api.spotify.com/v1/tracks/3c8TUzLgGlat7UMy04KxB6
+          id: 3c8TUzLgGlat7UMy04KxB6
+          is_local: false
+          is_playable: true
+          name: Ohio / Machine Gun
+          track_number: 1
+          type: track
+          uri: spotify:track:3c8TUzLgGlat7UMy04KxB6
+    isrc: USSM17100144

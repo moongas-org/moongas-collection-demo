@@ -107,3 +107,288 @@ mediaFileData:
   year: 1977
   duration: 582.768
   modTime: 2025-03-16 21:24:55.310739+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy
+    trackId: 2M7EflZCPCqqRLB9hy5MDy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAM17700535&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSAM17700535&type=track
+        offset: 0
+        previous:
+        total: 10
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+              href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+              id: 2MMaIlHd8UvDW0mVRAncD6
+              name: Chuck Mangione
+              type: artist
+              uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+            external_urls:
+              spotify: https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD
+            href: https://api.spotify.com/v1/albums/5w0p1F0Q1wBqsX2UiX6CCD
+            id: 5w0p1F0Q1wBqsX2UiX6CCD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e2c1f7c1ee0ee027f41178fd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e2c1f7c1ee0ee027f41178fd
+            is_playable: true
+            name: Feels So Good
+            release_date: '1977-12-08'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:5w0p1F0Q1wBqsX2UiX6CCD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+            href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+            id: 2MMaIlHd8UvDW0mVRAncD6
+            name: Chuck Mangione
+            type: artist
+            uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+          disc_number: 1
+          duration_ms: 582733
+          explicit: false
+          external_ids:
+            isrc: USAM17700535
+          external_urls:
+            spotify: https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy
+          href: https://api.spotify.com/v1/tracks/2M7EflZCPCqqRLB9hy5MDy
+          id: 2M7EflZCPCqqRLB9hy5MDy
+          is_local: false
+          is_playable: true
+          name: Feels So Good
+          track_number: 1
+          type: track
+          uri: spotify:track:2M7EflZCPCqqRLB9hy5MDy
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+              href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+              id: 2MMaIlHd8UvDW0mVRAncD6
+              name: Chuck Mangione
+              type: artist
+              uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+            external_urls:
+              spotify: https://open.spotify.com/album/2rJ4juZnNi4E6IAOG2C6Ha
+            href: https://api.spotify.com/v1/albums/2rJ4juZnNi4E6IAOG2C6Ha
+            id: 2rJ4juZnNi4E6IAOG2C6Ha
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d0195dd27418ce1dee68e977
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d0195dd27418ce1dee68e977
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d0195dd27418ce1dee68e977
+            is_playable: true
+            name: '20th Century Masters: The Best Of Chuck Mangione (The Millennium Collection)'
+            release_date: '2002-11-05'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2rJ4juZnNi4E6IAOG2C6Ha
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+            href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+            id: 2MMaIlHd8UvDW0mVRAncD6
+            name: Chuck Mangione
+            type: artist
+            uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+          disc_number: 1
+          duration_ms: 578400
+          explicit: false
+          external_ids:
+            isrc: USAM17700535
+          external_urls:
+            spotify: https://open.spotify.com/track/3MnHPassjbTfXorkpfpTmu
+          href: https://api.spotify.com/v1/tracks/3MnHPassjbTfXorkpfpTmu
+          id: 3MnHPassjbTfXorkpfpTmu
+          is_local: false
+          is_playable: true
+          name: Feels So Good
+          track_number: 5
+          type: track
+          uri: spotify:track:3MnHPassjbTfXorkpfpTmu
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+              href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+              id: 2MMaIlHd8UvDW0mVRAncD6
+              name: Chuck Mangione
+              type: artist
+              uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+            external_urls:
+              spotify: https://open.spotify.com/album/6rowBxfbNlzD7fEWPVdODl
+            href: https://api.spotify.com/v1/albums/6rowBxfbNlzD7fEWPVdODl
+            id: 6rowBxfbNlzD7fEWPVdODl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739a448dcf5cc0826495d3a38b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029a448dcf5cc0826495d3a38b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519a448dcf5cc0826495d3a38b
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1987-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6rowBxfbNlzD7fEWPVdODl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+            href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+            id: 2MMaIlHd8UvDW0mVRAncD6
+            name: Chuck Mangione
+            type: artist
+            uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+          disc_number: 1
+          duration_ms: 577546
+          explicit: false
+          external_ids:
+            isrc: USAM17700535
+          external_urls:
+            spotify: https://open.spotify.com/track/78q4M572uVVGupDBUePFZ2
+          href: https://api.spotify.com/v1/tracks/78q4M572uVVGupDBUePFZ2
+          id: 78q4M572uVVGupDBUePFZ2
+          is_local: false
+          is_playable: true
+          name: Feels So Good
+          track_number: 1
+          type: track
+          uri: spotify:track:78q4M572uVVGupDBUePFZ2
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7G5Ehycwbe5j3zp6d1sFf6
+            href: https://api.spotify.com/v1/albums/7G5Ehycwbe5j3zp6d1sFf6
+            id: 7G5Ehycwbe5j3zp6d1sFf6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732fd5f55c78abc921d4ce46e6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022fd5f55c78abc921d4ce46e6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512fd5f55c78abc921d4ce46e6
+            is_playable: true
+            name: Best Smooth Jazz
+            release_date: '2020-02-21'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:7G5Ehycwbe5j3zp6d1sFf6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+            href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+            id: 2MMaIlHd8UvDW0mVRAncD6
+            name: Chuck Mangione
+            type: artist
+            uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+          disc_number: 1
+          duration_ms: 576693
+          explicit: false
+          external_ids:
+            isrc: USAM17700535
+          external_urls:
+            spotify: https://open.spotify.com/track/7gJOTmxp5YdnKUqHWlzvTk
+          href: https://api.spotify.com/v1/tracks/7gJOTmxp5YdnKUqHWlzvTk
+          id: 7gJOTmxp5YdnKUqHWlzvTk
+          is_local: false
+          is_playable: true
+          name: Feels So Good
+          track_number: 23
+          type: track
+          uri: spotify:track:7gJOTmxp5YdnKUqHWlzvTk
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+              href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+              id: 2MMaIlHd8UvDW0mVRAncD6
+              name: Chuck Mangione
+              type: artist
+              uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+            external_urls:
+              spotify: https://open.spotify.com/album/1LYIjW0R2Ot8qFE4e6lG06
+            href: https://api.spotify.com/v1/albums/1LYIjW0R2Ot8qFE4e6lG06
+            id: 1LYIjW0R2Ot8qFE4e6lG06
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b16684b83cfbf8200f4868e8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b16684b83cfbf8200f4868e8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b16684b83cfbf8200f4868e8
+            is_playable: true
+            name: 'Chuck Mangione: Finest Hour'
+            release_date: '2000-01-01'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:1LYIjW0R2Ot8qFE4e6lG06
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+            href: https://api.spotify.com/v1/artists/2MMaIlHd8UvDW0mVRAncD6
+            id: 2MMaIlHd8UvDW0mVRAncD6
+            name: Chuck Mangione
+            type: artist
+            uri: spotify:artist:2MMaIlHd8UvDW0mVRAncD6
+          disc_number: 1
+          duration_ms: 576693
+          explicit: false
+          external_ids:
+            isrc: USAM17700535
+          external_urls:
+            spotify: https://open.spotify.com/track/6fK7yKIMmXbymQyyTw9wWA
+          href: https://api.spotify.com/v1/tracks/6fK7yKIMmXbymQyyTw9wWA
+          id: 6fK7yKIMmXbymQyyTw9wWA
+          is_local: false
+          is_playable: true
+          name: Feels So Good
+          track_number: 1
+          type: track
+          uri: spotify:track:6fK7yKIMmXbymQyyTw9wWA
+    isrc: USAM17700535

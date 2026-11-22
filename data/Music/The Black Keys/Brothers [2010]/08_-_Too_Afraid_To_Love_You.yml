@@ -61,3 +61,72 @@ mediaFileData:
   year: 2010
   duration: 204.73333333333332
   modTime: 2025-04-11 16:39:07.078022+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6V6i1BN3spSIEYI1jAtyk5
+    trackId: 6V6i1BN3spSIEYI1jAtyk5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSNO12000177&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+              href: https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz
+              id: 7mnBLXK823vNxN3UWB7Gfz
+              name: The Black Keys
+              type: artist
+              uri: spotify:artist:7mnBLXK823vNxN3UWB7Gfz
+            external_urls:
+              spotify: https://open.spotify.com/album/29bmuSuw3vsPILoexZy6MH
+            href: https://api.spotify.com/v1/albums/29bmuSuw3vsPILoexZy6MH
+            id: 29bmuSuw3vsPILoexZy6MH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731918a22c61b571b815393825
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021918a22c61b571b815393825
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511918a22c61b571b815393825
+            is_playable: true
+            name: Brothers (Deluxe Remastered Anniversary Edition)
+            release_date: '2020-12-18'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:29bmuSuw3vsPILoexZy6MH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+            href: https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz
+            id: 7mnBLXK823vNxN3UWB7Gfz
+            name: The Black Keys
+            type: artist
+            uri: spotify:artist:7mnBLXK823vNxN3UWB7Gfz
+          disc_number: 1
+          duration_ms: 205037
+          explicit: false
+          external_ids:
+            isrc: USNO12000177
+          external_urls:
+            spotify: https://open.spotify.com/track/6V6i1BN3spSIEYI1jAtyk5
+          href: https://api.spotify.com/v1/tracks/6V6i1BN3spSIEYI1jAtyk5
+          id: 6V6i1BN3spSIEYI1jAtyk5
+          is_local: false
+          is_playable: true
+          name: Too Afraid to Love You
+          track_number: 8
+          type: track
+          uri: spotify:track:6V6i1BN3spSIEYI1jAtyk5
+    isrc: USNO12000177

@@ -282,3 +282,323 @@ mediaFileData:
   year: 2004
   duration: 266.16163265306125
   modTime: 2023-09-16 11:35:38+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7qzYL8II3cvN3pyAW6pzgz
+    trackId: 7qzYL8II3cvN3pyAW6pzgz
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC10400902&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMC10400902&type=track
+        offset: 0
+        previous:
+        total: 8
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG
+              href: https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG
+              id: 7hJcb9fa4alzcOq3EaNPoG
+              name: Snoop Dogg
+              type: artist
+              uri: spotify:artist:7hJcb9fa4alzcOq3EaNPoG
+            external_urls:
+              spotify: https://open.spotify.com/album/1bnitAqBwjduCKlQLXQ6yN
+            href: https://api.spotify.com/v1/albums/1bnitAqBwjduCKlQLXQ6yN
+            id: 1bnitAqBwjduCKlQLXQ6yN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ceacb0c7b5ed7fd9d35f8951
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ceacb0c7b5ed7fd9d35f8951
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ceacb0c7b5ed7fd9d35f8951
+            is_playable: true
+            name: Sensual Seduction
+            release_date: '2007'
+            release_date_precision: year
+            total_tracks: 3
+            type: album
+            uri: spotify:album:1bnitAqBwjduCKlQLXQ6yN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG
+            href: https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG
+            id: 7hJcb9fa4alzcOq3EaNPoG
+            name: Snoop Dogg
+            type: artist
+            uri: spotify:artist:7hJcb9fa4alzcOq3EaNPoG
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8
+            href: https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8
+            id: 2RdwBSPQiwcmiDo9kixcl8
+            name: Pharrell Williams
+            type: artist
+            uri: spotify:artist:2RdwBSPQiwcmiDo9kixcl8
+          disc_number: 1
+          duration_ms: 266653
+          explicit: false
+          external_ids:
+            isrc: USMC10400902
+          external_urls:
+            spotify: https://open.spotify.com/track/7qzYL8II3cvN3pyAW6pzgz
+          href: https://api.spotify.com/v1/tracks/7qzYL8II3cvN3pyAW6pzgz
+          id: 7qzYL8II3cvN3pyAW6pzgz
+          is_local: false
+          is_playable: true
+          name: Drop It Like It's Hot
+          track_number: 3
+          type: track
+          uri: spotify:track:7qzYL8II3cvN3pyAW6pzgz
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG
+              href: https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG
+              id: 7hJcb9fa4alzcOq3EaNPoG
+              name: Snoop Dogg
+              type: artist
+              uri: spotify:artist:7hJcb9fa4alzcOq3EaNPoG
+            external_urls:
+              spotify: https://open.spotify.com/album/5a0fDt6ou3EjNLHhwjrK08
+            href: https://api.spotify.com/v1/albums/5a0fDt6ou3EjNLHhwjrK08
+            id: 5a0fDt6ou3EjNLHhwjrK08
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eccc51b57095d9f314b5b674
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eccc51b57095d9f314b5b674
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eccc51b57095d9f314b5b674
+            is_playable: true
+            name: 'R&G (Rhythm & Gangsta): The Masterpiece'
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:5a0fDt6ou3EjNLHhwjrK08
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG
+            href: https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG
+            id: 7hJcb9fa4alzcOq3EaNPoG
+            name: Snoop Dogg
+            type: artist
+            uri: spotify:artist:7hJcb9fa4alzcOq3EaNPoG
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8
+            href: https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8
+            id: 2RdwBSPQiwcmiDo9kixcl8
+            name: Pharrell Williams
+            type: artist
+            uri: spotify:artist:2RdwBSPQiwcmiDo9kixcl8
+          disc_number: 1
+          duration_ms: 266066
+          explicit: false
+          external_ids:
+            isrc: USMC10400902
+          external_urls:
+            spotify: https://open.spotify.com/track/18UhvUi9FjHtoTgnqX7kbl
+          href: https://api.spotify.com/v1/tracks/18UhvUi9FjHtoTgnqX7kbl
+          id: 18UhvUi9FjHtoTgnqX7kbl
+          is_local: false
+          is_playable: true
+          name: Drop It Like It's Hot
+          track_number: 3
+          type: track
+          uri: spotify:track:18UhvUi9FjHtoTgnqX7kbl
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4OwkypHZE3OM8I6JU10TCr
+            href: https://api.spotify.com/v1/albums/4OwkypHZE3OM8I6JU10TCr
+            id: 4OwkypHZE3OM8I6JU10TCr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cadc70fbe2d0e438831f41dd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cadc70fbe2d0e438831f41dd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cadc70fbe2d0e438831f41dd
+            is_playable: true
+            name: 2000's Hip hop
+            release_date: '2020-07-03'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:4OwkypHZE3OM8I6JU10TCr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG
+            href: https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG
+            id: 7hJcb9fa4alzcOq3EaNPoG
+            name: Snoop Dogg
+            type: artist
+            uri: spotify:artist:7hJcb9fa4alzcOq3EaNPoG
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8
+            href: https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8
+            id: 2RdwBSPQiwcmiDo9kixcl8
+            name: Pharrell Williams
+            type: artist
+            uri: spotify:artist:2RdwBSPQiwcmiDo9kixcl8
+          disc_number: 1
+          duration_ms: 266653
+          explicit: false
+          external_ids:
+            isrc: USMC10400902
+          external_urls:
+            spotify: https://open.spotify.com/track/7Em0HAB92i2QmvJbYE04Qd
+          href: https://api.spotify.com/v1/tracks/7Em0HAB92i2QmvJbYE04Qd
+          id: 7Em0HAB92i2QmvJbYE04Qd
+          is_local: false
+          is_playable: true
+          name: Drop It Like It's Hot
+          track_number: 2
+          type: track
+          uri: spotify:track:7Em0HAB92i2QmvJbYE04Qd
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1ExDe4fIz9qX6tkHUWjzEw
+            href: https://api.spotify.com/v1/albums/1ExDe4fIz9qX6tkHUWjzEw
+            id: 1ExDe4fIz9qX6tkHUWjzEw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27324858c881eb141ea70f5b48d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0224858c881eb141ea70f5b48d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485124858c881eb141ea70f5b48d
+            is_playable: true
+            name: Hip Hop 2000
+            release_date: '2017-10-27'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:1ExDe4fIz9qX6tkHUWjzEw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG
+            href: https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG
+            id: 7hJcb9fa4alzcOq3EaNPoG
+            name: Snoop Dogg
+            type: artist
+            uri: spotify:artist:7hJcb9fa4alzcOq3EaNPoG
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8
+            href: https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8
+            id: 2RdwBSPQiwcmiDo9kixcl8
+            name: Pharrell Williams
+            type: artist
+            uri: spotify:artist:2RdwBSPQiwcmiDo9kixcl8
+          disc_number: 1
+          duration_ms: 266966
+          explicit: false
+          external_ids:
+            isrc: USMC10400902
+          external_urls:
+            spotify: https://open.spotify.com/track/75iHQ4MCtrTUGnlwNsPueS
+          href: https://api.spotify.com/v1/tracks/75iHQ4MCtrTUGnlwNsPueS
+          id: 75iHQ4MCtrTUGnlwNsPueS
+          is_local: false
+          is_playable: true
+          name: Drop It Like It's Hot
+          track_number: 12
+          type: track
+          uri: spotify:track:75iHQ4MCtrTUGnlwNsPueS
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/75o2BueB4tmCjKVMg80lcb
+            href: https://api.spotify.com/v1/albums/75o2BueB4tmCjKVMg80lcb
+            id: 75o2BueB4tmCjKVMg80lcb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731d161a23aa819bee7e67e75c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021d161a23aa819bee7e67e75c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511d161a23aa819bee7e67e75c
+            is_playable: true
+            name: 2000 Hip Hop
+            release_date: '2020-02-07'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:75o2BueB4tmCjKVMg80lcb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG
+            href: https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG
+            id: 7hJcb9fa4alzcOq3EaNPoG
+            name: Snoop Dogg
+            type: artist
+            uri: spotify:artist:7hJcb9fa4alzcOq3EaNPoG
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8
+            href: https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8
+            id: 2RdwBSPQiwcmiDo9kixcl8
+            name: Pharrell Williams
+            type: artist
+            uri: spotify:artist:2RdwBSPQiwcmiDo9kixcl8
+          disc_number: 1
+          duration_ms: 266653
+          explicit: false
+          external_ids:
+            isrc: USMC10400902
+          external_urls:
+            spotify: https://open.spotify.com/track/491JyRouNyVms0h1x4cQPR
+          href: https://api.spotify.com/v1/tracks/491JyRouNyVms0h1x4cQPR
+          id: 491JyRouNyVms0h1x4cQPR
+          is_local: false
+          is_playable: true
+          name: Drop It Like It's Hot
+          track_number: 3
+          type: track
+          uri: spotify:track:491JyRouNyVms0h1x4cQPR
+    isrc: USMC10400902

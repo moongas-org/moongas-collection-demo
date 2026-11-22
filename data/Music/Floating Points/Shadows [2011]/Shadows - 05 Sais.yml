@@ -45,3 +45,72 @@ mediaFileData:
   year: 2011
   duration: 483.59421768707483
   modTime: 2025-05-04 18:40:36.421553+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV
+    trackId: 65c7ctSEOiYbz61XtytvOV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGB4HG0900066&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L
+              href: https://api.spotify.com/v1/artists/2AR42Ur9PcchQDtEdwkv4L
+              id: 2AR42Ur9PcchQDtEdwkv4L
+              name: Floating Points
+              type: artist
+              uri: spotify:artist:2AR42Ur9PcchQDtEdwkv4L
+            external_urls:
+              spotify: https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl
+            href: https://api.spotify.com/v1/albums/6pZmk1elg3IJx4rMiGPnXl
+            id: 6pZmk1elg3IJx4rMiGPnXl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27379b8d29aef430e2a00ce8b63
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0279b8d29aef430e2a00ce8b63
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485179b8d29aef430e2a00ce8b63
+            is_playable: true
+            name: Shadows
+            release_date: '2011-11-21'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:6pZmk1elg3IJx4rMiGPnXl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L
+            href: https://api.spotify.com/v1/artists/2AR42Ur9PcchQDtEdwkv4L
+            id: 2AR42Ur9PcchQDtEdwkv4L
+            name: Floating Points
+            type: artist
+            uri: spotify:artist:2AR42Ur9PcchQDtEdwkv4L
+          disc_number: 1
+          duration_ms: 483594
+          explicit: false
+          external_ids:
+            isrc: GB4HG0900066
+          external_urls:
+            spotify: https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV
+          href: https://api.spotify.com/v1/tracks/65c7ctSEOiYbz61XtytvOV
+          id: 65c7ctSEOiYbz61XtytvOV
+          is_local: false
+          is_playable: true
+          name: Sais
+          track_number: 5
+          type: track
+          uri: spotify:track:65c7ctSEOiYbz61XtytvOV
+    isrc: GB4HG0900066

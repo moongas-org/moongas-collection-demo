@@ -44,3 +44,72 @@ mediaFileData:
   year: 1977
   duration: 236.01632653061225
   modTime: 2023-04-23 15:37:50.330000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3AQ1ERHLzHjPjGvYpwFM5S
+    trackId: 3AQ1ERHLzHjPjGvYpwFM5S
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10502516&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2IpkVnWmZPIh9rCFiOPXRC
+            href: https://api.spotify.com/v1/albums/2IpkVnWmZPIh9rCFiOPXRC
+            id: 2IpkVnWmZPIh9rCFiOPXRC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a23e628ab98387dd031b3887
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a23e628ab98387dd031b3887
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a23e628ab98387dd031b3887
+            is_playable: true
+            name: 100 Greatest Hits of All Time
+            release_date: '2025-08-05'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:2IpkVnWmZPIh9rCFiOPXRC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 235973
+          explicit: false
+          external_ids:
+            isrc: USWB10502516
+          external_urls:
+            spotify: https://open.spotify.com/track/3AQ1ERHLzHjPjGvYpwFM5S
+          href: https://api.spotify.com/v1/tracks/3AQ1ERHLzHjPjGvYpwFM5S
+          id: 3AQ1ERHLzHjPjGvYpwFM5S
+          is_local: false
+          is_playable: true
+          name: Happy Day
+          track_number: 91
+          type: track
+          uri: spotify:track:3AQ1ERHLzHjPjGvYpwFM5S
+    isrc: USWB10502516

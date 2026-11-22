@@ -34,3 +34,72 @@ mediaFileData:
   year: 2014
   duration: 227.29142857142858
   modTime: 2025-04-11 17:02:45.221632+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1iWE1NcfLjrQ3oSjNWSJsn
+    trackId: 1iWE1NcfLjrQ3oSjNWSJsn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMHFC1300034&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o
+              href: https://api.spotify.com/v1/artists/4fXkvh05wFhuH77MfD4m9o
+              id: 4fXkvh05wFhuH77MfD4m9o
+              name: St. Paul & The Broken Bones
+              type: artist
+              uri: spotify:artist:4fXkvh05wFhuH77MfD4m9o
+            external_urls:
+              spotify: https://open.spotify.com/album/4C4NIZAWsm3DYkjXY0zkAQ
+            href: https://api.spotify.com/v1/albums/4C4NIZAWsm3DYkjXY0zkAQ
+            id: 4C4NIZAWsm3DYkjXY0zkAQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273deaa6319f65fa6df1c4e9047
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02deaa6319f65fa6df1c4e9047
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851deaa6319f65fa6df1c4e9047
+            is_playable: true
+            name: Half The City
+            release_date: '2014-02-18'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4C4NIZAWsm3DYkjXY0zkAQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o
+            href: https://api.spotify.com/v1/artists/4fXkvh05wFhuH77MfD4m9o
+            id: 4fXkvh05wFhuH77MfD4m9o
+            name: St. Paul & The Broken Bones
+            type: artist
+            uri: spotify:artist:4fXkvh05wFhuH77MfD4m9o
+          disc_number: 1
+          duration_ms: 227240
+          explicit: false
+          external_ids:
+            isrc: QMHFC1300034
+          external_urls:
+            spotify: https://open.spotify.com/track/1iWE1NcfLjrQ3oSjNWSJsn
+          href: https://api.spotify.com/v1/tracks/1iWE1NcfLjrQ3oSjNWSJsn
+          id: 1iWE1NcfLjrQ3oSjNWSJsn
+          is_local: false
+          is_playable: true
+          name: Broken Bones and Pocket Change
+          track_number: 6
+          type: track
+          uri: spotify:track:1iWE1NcfLjrQ3oSjNWSJsn
+    isrc: QMHFC1300034

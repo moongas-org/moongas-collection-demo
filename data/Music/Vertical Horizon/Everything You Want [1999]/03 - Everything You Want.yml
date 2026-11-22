@@ -182,3 +182,288 @@ mediaFileData:
   year: 1999
   duration: 258.92571428571426
   modTime: 2025-12-28 19:25:46.447270+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3kwXGi2B8VYVnhBGwvXgvn
+    trackId: 3kwXGi2B8VYVnhBGwvXgvn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC19900048&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRC19900048&type=track
+        offset: 0
+        previous:
+        total: 20
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4TolSIc0n1yb3G9hfxsrZe
+            href: https://api.spotify.com/v1/albums/4TolSIc0n1yb3G9hfxsrZe
+            id: 4TolSIc0n1yb3G9hfxsrZe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27361a9ac8dc4b06655f37b6bd7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0261a9ac8dc4b06655f37b6bd7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485161a9ac8dc4b06655f37b6bd7
+            is_playable: true
+            name: 90s Hits / Top 100 Songs
+            release_date: '2023-06-13'
+            release_date_precision: day
+            total_tracks: 84
+            type: album
+            uri: spotify:album:4TolSIc0n1yb3G9hfxsrZe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn
+            href: https://api.spotify.com/v1/artists/6Hizgjo92FnMp8wGaRUNTn
+            id: 6Hizgjo92FnMp8wGaRUNTn
+            name: Vertical Horizon
+            type: artist
+            uri: spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+          disc_number: 1
+          duration_ms: 254693
+          explicit: false
+          external_ids:
+            isrc: USRC19900048
+          external_urls:
+            spotify: https://open.spotify.com/track/3kwXGi2B8VYVnhBGwvXgvn
+          href: https://api.spotify.com/v1/tracks/3kwXGi2B8VYVnhBGwvXgvn
+          id: 3kwXGi2B8VYVnhBGwvXgvn
+          is_local: false
+          is_playable: true
+          name: Everything You Want
+          track_number: 60
+          type: track
+          uri: spotify:track:3kwXGi2B8VYVnhBGwvXgvn
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5b0v3FyVmOBx9vdP7kcRYO
+            href: https://api.spotify.com/v1/albums/5b0v3FyVmOBx9vdP7kcRYO
+            id: 5b0v3FyVmOBx9vdP7kcRYO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e5c067fa4511c1eb78307870
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e5c067fa4511c1eb78307870
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e5c067fa4511c1eb78307870
+            is_playable: true
+            name: Best of Y2K Hits
+            release_date: '2024-12-27'
+            release_date_precision: day
+            total_tracks: 95
+            type: album
+            uri: spotify:album:5b0v3FyVmOBx9vdP7kcRYO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn
+            href: https://api.spotify.com/v1/artists/6Hizgjo92FnMp8wGaRUNTn
+            id: 6Hizgjo92FnMp8wGaRUNTn
+            name: Vertical Horizon
+            type: artist
+            uri: spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+          disc_number: 1
+          duration_ms: 254469
+          explicit: false
+          external_ids:
+            isrc: USRC19900048
+          external_urls:
+            spotify: https://open.spotify.com/track/0yg1R8NPOXoK7OMWDb2Hki
+          href: https://api.spotify.com/v1/tracks/0yg1R8NPOXoK7OMWDb2Hki
+          id: 0yg1R8NPOXoK7OMWDb2Hki
+          is_local: false
+          is_playable: true
+          name: Everything You Want
+          track_number: 19
+          type: track
+          uri: spotify:track:0yg1R8NPOXoK7OMWDb2Hki
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn
+              href: https://api.spotify.com/v1/artists/6Hizgjo92FnMp8wGaRUNTn
+              id: 6Hizgjo92FnMp8wGaRUNTn
+              name: Vertical Horizon
+              type: artist
+              uri: spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+            external_urls:
+              spotify: https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1
+            href: https://api.spotify.com/v1/albums/2gJ6axVHAsQmmO6nslQRN1
+            id: 2gJ6axVHAsQmmO6nslQRN1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dde37a43468f6a6f60f782e1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dde37a43468f6a6f60f782e1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dde37a43468f6a6f60f782e1
+            is_playable: true
+            name: Everything You Want
+            release_date: '1999-06-14'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:2gJ6axVHAsQmmO6nslQRN1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn
+            href: https://api.spotify.com/v1/artists/6Hizgjo92FnMp8wGaRUNTn
+            id: 6Hizgjo92FnMp8wGaRUNTn
+            name: Vertical Horizon
+            type: artist
+            uri: spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+          disc_number: 1
+          duration_ms: 257066
+          explicit: false
+          external_ids:
+            isrc: USRC19900048
+          external_urls:
+            spotify: https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb
+          href: https://api.spotify.com/v1/tracks/4cKGldbhGJniI8BrB3K6tb
+          id: 4cKGldbhGJniI8BrB3K6tb
+          is_local: false
+          is_playable: true
+          name: Everything You Want
+          track_number: 3
+          type: track
+          uri: spotify:track:4cKGldbhGJniI8BrB3K6tb
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4DryY9zPDIteGZvJJS5QXU
+            href: https://api.spotify.com/v1/albums/4DryY9zPDIteGZvJJS5QXU
+            id: 4DryY9zPDIteGZvJJS5QXU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737c3eb06233bce88a1a27fe2c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027c3eb06233bce88a1a27fe2c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517c3eb06233bce88a1a27fe2c
+            is_playable: true
+            name: 80s & 90s Party Hits
+            release_date: '2023-06-13'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:4DryY9zPDIteGZvJJS5QXU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn
+            href: https://api.spotify.com/v1/artists/6Hizgjo92FnMp8wGaRUNTn
+            id: 6Hizgjo92FnMp8wGaRUNTn
+            name: Vertical Horizon
+            type: artist
+            uri: spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+          disc_number: 1
+          duration_ms: 254693
+          explicit: false
+          external_ids:
+            isrc: USRC19900048
+          external_urls:
+            spotify: https://open.spotify.com/track/1ce5s1cT0O2gekccEVXWYf
+          href: https://api.spotify.com/v1/tracks/1ce5s1cT0O2gekccEVXWYf
+          id: 1ce5s1cT0O2gekccEVXWYf
+          is_local: false
+          is_playable: true
+          name: Everything You Want
+          track_number: 46
+          type: track
+          uri: spotify:track:1ce5s1cT0O2gekccEVXWYf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6yjJVxrfSV2NehxmQ1wT6z
+            href: https://api.spotify.com/v1/albums/6yjJVxrfSV2NehxmQ1wT6z
+            id: 6yjJVxrfSV2NehxmQ1wT6z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738398fbc1edd2209d5a8e0132
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028398fbc1edd2209d5a8e0132
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518398fbc1edd2209d5a8e0132
+            is_playable: true
+            name: Y2K Alt Rock Hits
+            release_date: '2025-01-17'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:6yjJVxrfSV2NehxmQ1wT6z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn
+            href: https://api.spotify.com/v1/artists/6Hizgjo92FnMp8wGaRUNTn
+            id: 6Hizgjo92FnMp8wGaRUNTn
+            name: Vertical Horizon
+            type: artist
+            uri: spotify:artist:6Hizgjo92FnMp8wGaRUNTn
+          disc_number: 1
+          duration_ms: 254469
+          explicit: false
+          external_ids:
+            isrc: USRC19900048
+          external_urls:
+            spotify: https://open.spotify.com/track/4wcf5mxJfroRACq82P8Igp
+          href: https://api.spotify.com/v1/tracks/4wcf5mxJfroRACq82P8Igp
+          id: 4wcf5mxJfroRACq82P8Igp
+          is_local: false
+          is_playable: true
+          name: Everything You Want
+          track_number: 30
+          type: track
+          uri: spotify:track:4wcf5mxJfroRACq82P8Igp
+    isrc: USRC19900048

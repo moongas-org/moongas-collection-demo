@@ -167,3 +167,72 @@ mediaFileData:
   year: 1967
   duration: 182.622
   modTime: 2023-09-27 22:47:52+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6EnLJOBR4dF0EYUfx2YHLH
+    trackId: 6EnLJOBR4dF0EYUfx2YHLH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC19305648&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/21etNoPYIWhfzg2Dv2aTdj
+            href: https://api.spotify.com/v1/albums/21etNoPYIWhfzg2Dv2aTdj
+            id: 21etNoPYIWhfzg2Dv2aTdj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27322630c3021e33b2858b986c2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0222630c3021e33b2858b986c2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485122630c3021e33b2858b986c2
+            is_playable: true
+            name: 50 Classic Rock Favorites
+            release_date: '2014-06-10'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:21etNoPYIWhfzg2Dv2aTdj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF
+            href: https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF
+            id: 2qFr8w5sWUITRlzZ9kZotF
+            name: Jefferson Airplane
+            type: artist
+            uri: spotify:artist:2qFr8w5sWUITRlzZ9kZotF
+          disc_number: 1
+          duration_ms: 180000
+          explicit: false
+          external_ids:
+            isrc: USRC19305648
+          external_urls:
+            spotify: https://open.spotify.com/track/6EnLJOBR4dF0EYUfx2YHLH
+          href: https://api.spotify.com/v1/tracks/6EnLJOBR4dF0EYUfx2YHLH
+          id: 6EnLJOBR4dF0EYUfx2YHLH
+          is_local: false
+          is_playable: true
+          name: Somebody to Love
+          track_number: 44
+          type: track
+          uri: spotify:track:6EnLJOBR4dF0EYUfx2YHLH
+    isrc: USRC19305648

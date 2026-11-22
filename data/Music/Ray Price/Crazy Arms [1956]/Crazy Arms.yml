@@ -51,3 +51,72 @@ mediaFileData:
   year: 1956
   duration: 154.25304166666666
   modTime: 2023-09-25 00:21:02+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Szry84xG7UXOm3LOrm69B
+    trackId: 0Szry84xG7UXOm3LOrm69B
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSG4X1500485&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6o19oMEYpPlYvvXWF5zAQe
+              href: https://api.spotify.com/v1/artists/6o19oMEYpPlYvvXWF5zAQe
+              id: 6o19oMEYpPlYvvXWF5zAQe
+              name: Ray Price's Cherokee Cowboys
+              type: artist
+              uri: spotify:artist:6o19oMEYpPlYvvXWF5zAQe
+            external_urls:
+              spotify: https://open.spotify.com/album/2EeiPJnaZTZnQYtZOXFx61
+            href: https://api.spotify.com/v1/albums/2EeiPJnaZTZnQYtZOXFx61
+            id: 2EeiPJnaZTZnQYtZOXFx61
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27323ca2291faafc90a8442b998
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0223ca2291faafc90a8442b998
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485123ca2291faafc90a8442b998
+            is_playable: true
+            name: Western Strings
+            release_date: '1965'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2EeiPJnaZTZnQYtZOXFx61
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6o19oMEYpPlYvvXWF5zAQe
+            href: https://api.spotify.com/v1/artists/6o19oMEYpPlYvvXWF5zAQe
+            id: 6o19oMEYpPlYvvXWF5zAQe
+            name: Ray Price's Cherokee Cowboys
+            type: artist
+            uri: spotify:artist:6o19oMEYpPlYvvXWF5zAQe
+          disc_number: 1
+          duration_ms: 152271
+          explicit: false
+          external_ids:
+            isrc: USG4X1500485
+          external_urls:
+            spotify: https://open.spotify.com/track/0Szry84xG7UXOm3LOrm69B
+          href: https://api.spotify.com/v1/tracks/0Szry84xG7UXOm3LOrm69B
+          id: 0Szry84xG7UXOm3LOrm69B
+          is_local: false
+          is_playable: true
+          name: Crazy Arms
+          track_number: 3
+          type: track
+          uri: spotify:track:0Szry84xG7UXOm3LOrm69B
+    isrc: USG4X1500485

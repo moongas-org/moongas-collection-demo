@@ -250,3 +250,288 @@ mediaFileData:
   year: 1961
   duration: 163.62666666666667
   modTime: 2023-10-01 16:18:14+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3v8d3ku3kiTZVPxEt7a2dE
+    trackId: 3v8d3ku3kiTZVPxEt7a2dE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSLA18800001&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSLA18800001&type=track
+        offset: 0
+        previous:
+        total: 12
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W
+              href: https://api.spotify.com/v1/artists/15FyiY3ChN0QRspHIQYq0W
+              id: 15FyiY3ChN0QRspHIQYq0W
+              name: Dion
+              type: artist
+              uri: spotify:artist:15FyiY3ChN0QRspHIQYq0W
+            external_urls:
+              spotify: https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7
+            href: https://api.spotify.com/v1/albums/20vUqyMzF8fgQhkdLdtzi7
+            id: 20vUqyMzF8fgQhkdLdtzi7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273860a3b044d1715635ad2bad7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02860a3b044d1715635ad2bad7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851860a3b044d1715635ad2bad7
+            is_playable: true
+            name: Runaround Sue
+            release_date: '1961'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:20vUqyMzF8fgQhkdLdtzi7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W
+            href: https://api.spotify.com/v1/artists/15FyiY3ChN0QRspHIQYq0W
+            id: 15FyiY3ChN0QRspHIQYq0W
+            name: Dion
+            type: artist
+            uri: spotify:artist:15FyiY3ChN0QRspHIQYq0W
+          disc_number: 1
+          duration_ms: 168640
+          explicit: false
+          external_ids:
+            isrc: USLA18800001
+          external_urls:
+            spotify: https://open.spotify.com/track/3v8d3ku3kiTZVPxEt7a2dE
+          href: https://api.spotify.com/v1/tracks/3v8d3ku3kiTZVPxEt7a2dE
+          id: 3v8d3ku3kiTZVPxEt7a2dE
+          is_local: false
+          is_playable: true
+          name: The Wanderer
+          track_number: 5
+          type: track
+          uri: spotify:track:3v8d3ku3kiTZVPxEt7a2dE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0KPQ6L134IXzCpgWo2zHmJ
+            href: https://api.spotify.com/v1/albums/0KPQ6L134IXzCpgWo2zHmJ
+            id: 0KPQ6L134IXzCpgWo2zHmJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cbd74bd2cd52d6dfa55c844b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cbd74bd2cd52d6dfa55c844b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cbd74bd2cd52d6dfa55c844b
+            is_playable: true
+            name: The Best Of Laurie Records
+            release_date: '2016-03-01'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:0KPQ6L134IXzCpgWo2zHmJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W
+            href: https://api.spotify.com/v1/artists/15FyiY3ChN0QRspHIQYq0W
+            id: 15FyiY3ChN0QRspHIQYq0W
+            name: Dion
+            type: artist
+            uri: spotify:artist:15FyiY3ChN0QRspHIQYq0W
+          disc_number: 1
+          duration_ms: 169373
+          explicit: false
+          external_ids:
+            isrc: USLA18800001
+          external_urls:
+            spotify: https://open.spotify.com/track/0X1XYHX4X1cPehPKlvZeaT
+          href: https://api.spotify.com/v1/tracks/0X1XYHX4X1cPehPKlvZeaT
+          id: 0X1XYHX4X1cPehPKlvZeaT
+          is_local: false
+          is_playable: true
+          name: The Wanderer
+          track_number: 9
+          type: track
+          uri: spotify:track:0X1XYHX4X1cPehPKlvZeaT
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W
+              href: https://api.spotify.com/v1/artists/15FyiY3ChN0QRspHIQYq0W
+              id: 15FyiY3ChN0QRspHIQYq0W
+              name: Dion
+              type: artist
+              uri: spotify:artist:15FyiY3ChN0QRspHIQYq0W
+            external_urls:
+              spotify: https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N
+            href: https://api.spotify.com/v1/albums/56sNE1JDGLJLDRK5F83Q0N
+            id: 56sNE1JDGLJLDRK5F83Q0N
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a3e6c82b3ac285c1fe1978e2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a3e6c82b3ac285c1fe1978e2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a3e6c82b3ac285c1fe1978e2
+            is_playable: true
+            name: The Best Of Dion
+            release_date: '2001-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:56sNE1JDGLJLDRK5F83Q0N
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W
+            href: https://api.spotify.com/v1/artists/15FyiY3ChN0QRspHIQYq0W
+            id: 15FyiY3ChN0QRspHIQYq0W
+            name: Dion
+            type: artist
+            uri: spotify:artist:15FyiY3ChN0QRspHIQYq0W
+          disc_number: 1
+          duration_ms: 167160
+          explicit: false
+          external_ids:
+            isrc: USLA18800001
+          external_urls:
+            spotify: https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1
+          href: https://api.spotify.com/v1/tracks/1UwriLz98ILbRhrtohTca1
+          id: 1UwriLz98ILbRhrtohTca1
+          is_local: false
+          is_playable: true
+          name: The Wanderer
+          track_number: 6
+          type: track
+          uri: spotify:track:1UwriLz98ILbRhrtohTca1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3skIYvBBPqebmVwvc5comu
+            href: https://api.spotify.com/v1/albums/3skIYvBBPqebmVwvc5comu
+            id: 3skIYvBBPqebmVwvc5comu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730dd6041db01724380752e525
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020dd6041db01724380752e525
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510dd6041db01724380752e525
+            is_playable: true
+            name: Golden Oldies
+            release_date: '2021-04-09'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:3skIYvBBPqebmVwvc5comu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W
+            href: https://api.spotify.com/v1/artists/15FyiY3ChN0QRspHIQYq0W
+            id: 15FyiY3ChN0QRspHIQYq0W
+            name: Dion
+            type: artist
+            uri: spotify:artist:15FyiY3ChN0QRspHIQYq0W
+          disc_number: 1
+          duration_ms: 168640
+          explicit: false
+          external_ids:
+            isrc: USLA18800001
+          external_urls:
+            spotify: https://open.spotify.com/track/3akA1aZJRih51gjsaHAgpk
+          href: https://api.spotify.com/v1/tracks/3akA1aZJRih51gjsaHAgpk
+          id: 3akA1aZJRih51gjsaHAgpk
+          is_local: false
+          is_playable: true
+          name: The Wanderer - Single Version
+          track_number: 11
+          type: track
+          uri: spotify:track:3akA1aZJRih51gjsaHAgpk
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4
+              href: https://api.spotify.com/v1/artists/2loYllWFfoWpoxC5YrJKc4
+              id: 2loYllWFfoWpoxC5YrJKc4
+              name: Dion & The Belmonts
+              type: artist
+              uri: spotify:artist:2loYllWFfoWpoxC5YrJKc4
+            external_urls:
+              spotify: https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu
+            href: https://api.spotify.com/v1/albums/4XCCPbgyV1L06tIZmQYFwu
+            id: 4XCCPbgyV1L06tIZmQYFwu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273605566683bef0b421bf8bf52
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02605566683bef0b421bf8bf52
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851605566683bef0b421bf8bf52
+            is_playable: true
+            name: The Best Of Dion & The Belmonts
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:4XCCPbgyV1L06tIZmQYFwu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W
+            href: https://api.spotify.com/v1/artists/15FyiY3ChN0QRspHIQYq0W
+            id: 15FyiY3ChN0QRspHIQYq0W
+            name: Dion
+            type: artist
+            uri: spotify:artist:15FyiY3ChN0QRspHIQYq0W
+          disc_number: 1
+          duration_ms: 163626
+          explicit: false
+          external_ids:
+            isrc: USLA18800001
+          external_urls:
+            spotify: https://open.spotify.com/track/4EoUALVwY4i7U6uKRhk8hr
+          href: https://api.spotify.com/v1/tracks/4EoUALVwY4i7U6uKRhk8hr
+          id: 4EoUALVwY4i7U6uKRhk8hr
+          is_local: false
+          is_playable: true
+          name: The Wanderer
+          track_number: 30
+          type: track
+          uri: spotify:track:4EoUALVwY4i7U6uKRhk8hr
+    isrc: USLA18800001

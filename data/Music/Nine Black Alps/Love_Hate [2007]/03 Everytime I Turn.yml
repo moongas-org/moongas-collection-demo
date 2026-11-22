@@ -34,3 +34,126 @@ mediaFileData:
   year: 2007
   duration: 182.69333333333333
   modTime: 2022-06-06 21:54:56.270000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2ABnxlZkhJ52on2M3AC5vZ
+    trackId: 2ABnxlZkhJ52on2M3AC5vZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM70704938&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR
+              href: https://api.spotify.com/v1/artists/5fLbJGzlYux3GBwTifMMvR
+              id: 5fLbJGzlYux3GBwTifMMvR
+              name: Nine Black Alps
+              type: artist
+              uri: spotify:artist:5fLbJGzlYux3GBwTifMMvR
+            external_urls:
+              spotify: https://open.spotify.com/album/6v18CT4IR430VYYubbZVHf
+            href: https://api.spotify.com/v1/albums/6v18CT4IR430VYYubbZVHf
+            id: 6v18CT4IR430VYYubbZVHf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737e92e76fac391c476ad16021
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027e92e76fac391c476ad16021
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517e92e76fac391c476ad16021
+            is_playable: true
+            name: Love/Hate
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6v18CT4IR430VYYubbZVHf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR
+            href: https://api.spotify.com/v1/artists/5fLbJGzlYux3GBwTifMMvR
+            id: 5fLbJGzlYux3GBwTifMMvR
+            name: Nine Black Alps
+            type: artist
+            uri: spotify:artist:5fLbJGzlYux3GBwTifMMvR
+          disc_number: 1
+          duration_ms: 182693
+          explicit: false
+          external_ids:
+            isrc: GBUM70704938
+          external_urls:
+            spotify: https://open.spotify.com/track/2ABnxlZkhJ52on2M3AC5vZ
+          href: https://api.spotify.com/v1/tracks/2ABnxlZkhJ52on2M3AC5vZ
+          id: 2ABnxlZkhJ52on2M3AC5vZ
+          is_local: false
+          is_playable: true
+          name: Everytime I Turn
+          track_number: 3
+          type: track
+          uri: spotify:track:2ABnxlZkhJ52on2M3AC5vZ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/20YzdpbyqcH1b1RlItuB2Y
+            href: https://api.spotify.com/v1/albums/20YzdpbyqcH1b1RlItuB2Y
+            id: 20YzdpbyqcH1b1RlItuB2Y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a1ce671579af33ac57667e33
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a1ce671579af33ac57667e33
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a1ce671579af33ac57667e33
+            is_playable: true
+            name: Rock Para los Músculos
+            release_date: '2024-06-13'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:20YzdpbyqcH1b1RlItuB2Y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR
+            href: https://api.spotify.com/v1/artists/5fLbJGzlYux3GBwTifMMvR
+            id: 5fLbJGzlYux3GBwTifMMvR
+            name: Nine Black Alps
+            type: artist
+            uri: spotify:artist:5fLbJGzlYux3GBwTifMMvR
+          disc_number: 1
+          duration_ms: 182693
+          explicit: false
+          external_ids:
+            isrc: GBUM70704938
+          external_urls:
+            spotify: https://open.spotify.com/track/5piurD8dXUa1Xg2xf4ZO5L
+          href: https://api.spotify.com/v1/tracks/5piurD8dXUa1Xg2xf4ZO5L
+          id: 5piurD8dXUa1Xg2xf4ZO5L
+          is_local: false
+          is_playable: true
+          name: Everytime I Turn
+          track_number: 27
+          type: track
+          uri: spotify:track:5piurD8dXUa1Xg2xf4ZO5L
+    isrc: GBUM70704938

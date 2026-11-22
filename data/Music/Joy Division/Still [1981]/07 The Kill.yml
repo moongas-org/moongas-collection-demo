@@ -35,3 +35,126 @@ mediaFileData:
   year: 1981
   duration: 135.27
   modTime: 2024-09-20 00:04:41.249404+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ID1AFEoA6CchtWbhc6SoF
+    trackId: 1ID1AFEoA6CchtWbhc6SoF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAAP0600176&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+              href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+              id: 432R46LaYsJZV2Gmc4jUV5
+              name: Joy Division
+              type: artist
+              uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+            external_urls:
+              spotify: https://open.spotify.com/album/7GcUbgCzpB3mLzeJzZHXD5
+            href: https://api.spotify.com/v1/albums/7GcUbgCzpB3mLzeJzZHXD5
+            id: 7GcUbgCzpB3mLzeJzZHXD5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a01711815fdbd262af97af77
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a01711815fdbd262af97af77
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a01711815fdbd262af97af77
+            is_playable: true
+            name: Still (Collector's Edition)
+            release_date: '1981-10-08'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:7GcUbgCzpB3mLzeJzZHXD5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+            href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+            id: 432R46LaYsJZV2Gmc4jUV5
+            name: Joy Division
+            type: artist
+            uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+          disc_number: 1
+          duration_ms: 135053
+          explicit: false
+          external_ids:
+            isrc: GBAAP0600176
+          external_urls:
+            spotify: https://open.spotify.com/track/1ID1AFEoA6CchtWbhc6SoF
+          href: https://api.spotify.com/v1/tracks/1ID1AFEoA6CchtWbhc6SoF
+          id: 1ID1AFEoA6CchtWbhc6SoF
+          is_local: false
+          is_playable: true
+          name: The Kill - 2007 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:1ID1AFEoA6CchtWbhc6SoF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3GuGPQ1rUr7vQCvXzPjgQH
+            href: https://api.spotify.com/v1/albums/3GuGPQ1rUr7vQCvXzPjgQH
+            id: 3GuGPQ1rUr7vQCvXzPjgQH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273692fe01744785902fd48f67c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02692fe01744785902fd48f67c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851692fe01744785902fd48f67c
+            is_playable: true
+            name: College Rock - Indie Culture - Hits
+            release_date: '2023-08-25'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:3GuGPQ1rUr7vQCvXzPjgQH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+            href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+            id: 432R46LaYsJZV2Gmc4jUV5
+            name: Joy Division
+            type: artist
+            uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+          disc_number: 1
+          duration_ms: 135053
+          explicit: false
+          external_ids:
+            isrc: GBAAP0600176
+          external_urls:
+            spotify: https://open.spotify.com/track/5fEXZunqVqTB5fdjGMFyC4
+          href: https://api.spotify.com/v1/tracks/5fEXZunqVqTB5fdjGMFyC4
+          id: 5fEXZunqVqTB5fdjGMFyC4
+          is_local: false
+          is_playable: true
+          name: The Kill
+          track_number: 47
+          type: track
+          uri: spotify:track:5fEXZunqVqTB5fdjGMFyC4
+    isrc: GBAAP0600176

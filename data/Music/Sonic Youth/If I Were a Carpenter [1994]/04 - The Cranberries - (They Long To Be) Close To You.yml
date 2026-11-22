@@ -49,3 +49,234 @@ mediaFileData:
   year: 1994
   duration: 161.76
   modTime: 2025-02-03 18:00:58.849540+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2ACgIXFqO3MpFTtZ0fje1a
+    trackId: 2ACgIXFqO3MpFTtZ0fje1a
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC10200058&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+              href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+              id: 7t0rwkOPGlDPEhaOcVtOt9
+              name: The Cranberries
+              type: artist
+              uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+            external_urls:
+              spotify: https://open.spotify.com/album/0tOfiC5PvgE5E7i1gwQ4jv
+            href: https://api.spotify.com/v1/albums/0tOfiC5PvgE5E7i1gwQ4jv
+            id: 0tOfiC5PvgE5E7i1gwQ4jv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273502a84b9f8ef66bfa7be316a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02502a84b9f8ef66bfa7be316a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851502a84b9f8ef66bfa7be316a
+            is_playable: true
+            name: (They Long To Be) Close To You
+            release_date: '2020-11-06'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:0tOfiC5PvgE5E7i1gwQ4jv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+            href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+            id: 7t0rwkOPGlDPEhaOcVtOt9
+            name: The Cranberries
+            type: artist
+            uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+          disc_number: 1
+          duration_ms: 161893
+          explicit: false
+          external_ids:
+            isrc: USMC10200058
+          external_urls:
+            spotify: https://open.spotify.com/track/2ACgIXFqO3MpFTtZ0fje1a
+          href: https://api.spotify.com/v1/tracks/2ACgIXFqO3MpFTtZ0fje1a
+          id: 2ACgIXFqO3MpFTtZ0fje1a
+          is_local: false
+          is_playable: true
+          name: (They Long To Be) Close To You
+          track_number: 1
+          type: track
+          uri: spotify:track:2ACgIXFqO3MpFTtZ0fje1a
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+              href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+              id: 7t0rwkOPGlDPEhaOcVtOt9
+              name: The Cranberries
+              type: artist
+              uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+            external_urls:
+              spotify: https://open.spotify.com/album/204b8f92O1t4QbTFpyeu6G
+            href: https://api.spotify.com/v1/albums/204b8f92O1t4QbTFpyeu6G
+            id: 204b8f92O1t4QbTFpyeu6G
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273594b3b7126c890510280fb1d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02594b3b7126c890510280fb1d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851594b3b7126c890510280fb1d
+            is_playable: true
+            name: 'Treasure Box for Boys and Girls: The Complete Sessions 1991–1999'
+            release_date: '2002-04-02'
+            release_date_precision: day
+            total_tracks: 74
+            type: album
+            uri: spotify:album:204b8f92O1t4QbTFpyeu6G
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+            href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+            id: 7t0rwkOPGlDPEhaOcVtOt9
+            name: The Cranberries
+            type: artist
+            uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+          disc_number: 2
+          duration_ms: 161666
+          explicit: false
+          external_ids:
+            isrc: USMC10200058
+          external_urls:
+            spotify: https://open.spotify.com/track/2a9m9OSdB3HLBTXhoR0MKh
+          href: https://api.spotify.com/v1/tracks/2a9m9OSdB3HLBTXhoR0MKh
+          id: 2a9m9OSdB3HLBTXhoR0MKh
+          is_local: false
+          is_playable: true
+          name: (They Long To Be) Close To You
+          track_number: 16
+          type: track
+          uri: spotify:track:2a9m9OSdB3HLBTXhoR0MKh
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1UDLsBgbTfGzUOumBY7WxT
+            href: https://api.spotify.com/v1/albums/1UDLsBgbTfGzUOumBY7WxT
+            id: 1UDLsBgbTfGzUOumBY7WxT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27332a47aaf11acae79a003701c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0232a47aaf11acae79a003701c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485132a47aaf11acae79a003701c
+            is_playable: true
+            name: yearning
+            release_date: '2025-09-12'
+            release_date_precision: day
+            total_tracks: 68
+            type: album
+            uri: spotify:album:1UDLsBgbTfGzUOumBY7WxT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+            href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+            id: 7t0rwkOPGlDPEhaOcVtOt9
+            name: The Cranberries
+            type: artist
+            uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+          disc_number: 1
+          duration_ms: 161893
+          explicit: false
+          external_ids:
+            isrc: USMC10200058
+          external_urls:
+            spotify: https://open.spotify.com/track/5cD5FxOibslgcpq7UG7EP2
+          href: https://api.spotify.com/v1/tracks/5cD5FxOibslgcpq7UG7EP2
+          id: 5cD5FxOibslgcpq7UG7EP2
+          is_local: false
+          is_playable: true
+          name: (They Long To Be) Close To You
+          track_number: 28
+          type: track
+          uri: spotify:track:5cD5FxOibslgcpq7UG7EP2
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+              href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+              id: 7t0rwkOPGlDPEhaOcVtOt9
+              name: The Cranberries
+              type: artist
+              uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+            external_urls:
+              spotify: https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC
+            href: https://api.spotify.com/v1/albums/5VJ5kSs6Pct7Wh9cPQyJeC
+            id: 5VJ5kSs6Pct7Wh9cPQyJeC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273065521456fc12b339e89c5bf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02065521456fc12b339e89c5bf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851065521456fc12b339e89c5bf
+            is_playable: true
+            name: No Need To Argue (30th Anniversary / Super Deluxe Edition)
+            release_date: '2025-08-15'
+            release_date_precision: day
+            total_tracks: 41
+            type: album
+            uri: spotify:album:5VJ5kSs6Pct7Wh9cPQyJeC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+            href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+            id: 7t0rwkOPGlDPEhaOcVtOt9
+            name: The Cranberries
+            type: artist
+            uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+          disc_number: 1
+          duration_ms: 159746
+          explicit: false
+          external_ids:
+            isrc: USMC10200058
+          external_urls:
+            spotify: https://open.spotify.com/track/5NIa8SEODJX1c3Byy9XqCv
+          href: https://api.spotify.com/v1/tracks/5NIa8SEODJX1c3Byy9XqCv
+          id: 5NIa8SEODJX1c3Byy9XqCv
+          is_local: false
+          is_playable: true
+          name: (They Long To Be) Close To You
+          track_number: 23
+          type: track
+          uri: spotify:track:5NIa8SEODJX1c3Byy9XqCv
+    isrc: USMC10200058

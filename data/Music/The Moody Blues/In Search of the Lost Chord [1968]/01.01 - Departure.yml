@@ -101,3 +101,234 @@ mediaFileData:
   year: 1968
   duration: 45.168
   modTime: 2024-02-18 22:14:27.461529+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4G1FWv5i1xe4fjcIUJLoHP
+    trackId: 4G1FWv5i1xe4fjcIUJLoHP
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBA176800020&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/1UlpbgHgQ9uTbFSkhxMt1Q
+            href: https://api.spotify.com/v1/albums/1UlpbgHgQ9uTbFSkhxMt1Q
+            id: 1UlpbgHgQ9uTbFSkhxMt1Q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a32e88e6b29f5c5f77992821
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a32e88e6b29f5c5f77992821
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a32e88e6b29f5c5f77992821
+            is_playable: true
+            name: In Search Of The Lost Chord (50th Anniversary Edition)
+            release_date: '1968-07-26'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:1UlpbgHgQ9uTbFSkhxMt1Q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 45773
+          explicit: false
+          external_ids:
+            isrc: GBA176800020
+          external_urls:
+            spotify: https://open.spotify.com/track/4G1FWv5i1xe4fjcIUJLoHP
+          href: https://api.spotify.com/v1/tracks/4G1FWv5i1xe4fjcIUJLoHP
+          id: 4G1FWv5i1xe4fjcIUJLoHP
+          is_local: false
+          is_playable: true
+          name: Departure
+          track_number: 1
+          type: track
+          uri: spotify:track:4G1FWv5i1xe4fjcIUJLoHP
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/2IHLtoVqTkJF2Qe5RimcD1
+            href: https://api.spotify.com/v1/albums/2IHLtoVqTkJF2Qe5RimcD1
+            id: 2IHLtoVqTkJF2Qe5RimcD1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b0b888eadfc238a5ddee4d0a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b0b888eadfc238a5ddee4d0a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b0b888eadfc238a5ddee4d0a
+            is_playable: true
+            name: In Search Of The Lost Chord (50th Anniversary Edition / Deluxe)
+            release_date: '1968-07-26'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:2IHLtoVqTkJF2Qe5RimcD1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 45773
+          explicit: false
+          external_ids:
+            isrc: GBA176800020
+          external_urls:
+            spotify: https://open.spotify.com/track/5FKVZ97WEuU7N2kUOaoO9X
+          href: https://api.spotify.com/v1/tracks/5FKVZ97WEuU7N2kUOaoO9X
+          id: 5FKVZ97WEuU7N2kUOaoO9X
+          is_local: false
+          is_playable: true
+          name: Departure
+          track_number: 1
+          type: track
+          uri: spotify:track:5FKVZ97WEuU7N2kUOaoO9X
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/0Rdx3jfi6h97W5VjQsuMOp
+            href: https://api.spotify.com/v1/albums/0Rdx3jfi6h97W5VjQsuMOp
+            id: 0Rdx3jfi6h97W5VjQsuMOp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eb560d250d2ef6b0f3d5ef04
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eb560d250d2ef6b0f3d5ef04
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eb560d250d2ef6b0f3d5ef04
+            is_playable: true
+            name: In Search Of The Lost Chord
+            release_date: '1968-07-26'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0Rdx3jfi6h97W5VjQsuMOp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 45133
+          explicit: false
+          external_ids:
+            isrc: GBA176800020
+          external_urls:
+            spotify: https://open.spotify.com/track/0YkZHq8V0mSsPpP2h5CXbU
+          href: https://api.spotify.com/v1/tracks/0YkZHq8V0mSsPpP2h5CXbU
+          id: 0YkZHq8V0mSsPpP2h5CXbU
+          is_local: false
+          is_playable: true
+          name: Departure
+          track_number: 1
+          type: track
+          uri: spotify:track:0YkZHq8V0mSsPpP2h5CXbU
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZTNq36NEuAdPLwkey7z6C
+            href: https://api.spotify.com/v1/albums/3ZTNq36NEuAdPLwkey7z6C
+            id: 3ZTNq36NEuAdPLwkey7z6C
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bbb26699bc7cb61bf07a57fd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bbb26699bc7cb61bf07a57fd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bbb26699bc7cb61bf07a57fd
+            is_playable: true
+            name: In Search Of The Lost Chord
+            release_date: '1968-07-26'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:3ZTNq36NEuAdPLwkey7z6C
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 45120
+          explicit: false
+          external_ids:
+            isrc: GBA176800020
+          external_urls:
+            spotify: https://open.spotify.com/track/1vvlnTlx2Sb0riPoWWOW6g
+          href: https://api.spotify.com/v1/tracks/1vvlnTlx2Sb0riPoWWOW6g
+          id: 1vvlnTlx2Sb0riPoWWOW6g
+          is_local: false
+          is_playable: true
+          name: Departure
+          track_number: 1
+          type: track
+          uri: spotify:track:1vvlnTlx2Sb0riPoWWOW6g
+    isrc: GBA176800020

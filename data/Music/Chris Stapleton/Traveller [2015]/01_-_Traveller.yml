@@ -34,3 +34,72 @@ mediaFileData:
   year: 2015
   duration: 222.45877551020408
   modTime: 2023-12-23 19:36:14.259451+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW
+    trackId: 178OI1A3qjROeFeh8lmNwW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71418080&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh
+              href: https://api.spotify.com/v1/artists/4YLtscXsxbVgi031ovDDdh
+              id: 4YLtscXsxbVgi031ovDDdh
+              name: Chris Stapleton
+              type: artist
+              uri: spotify:artist:4YLtscXsxbVgi031ovDDdh
+            external_urls:
+              spotify: https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7
+            href: https://api.spotify.com/v1/albums/7lxHnls3yQNl8B9bILmHj7
+            id: 7lxHnls3yQNl8B9bILmHj7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02540fc1d083eac5bcff8dad21
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851540fc1d083eac5bcff8dad21
+            is_playable: true
+            name: Traveller
+            release_date: '2015-05-04'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:7lxHnls3yQNl8B9bILmHj7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh
+            href: https://api.spotify.com/v1/artists/4YLtscXsxbVgi031ovDDdh
+            id: 4YLtscXsxbVgi031ovDDdh
+            name: Chris Stapleton
+            type: artist
+            uri: spotify:artist:4YLtscXsxbVgi031ovDDdh
+          disc_number: 1
+          duration_ms: 222413
+          explicit: false
+          external_ids:
+            isrc: USUM71418080
+          external_urls:
+            spotify: https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW
+          href: https://api.spotify.com/v1/tracks/178OI1A3qjROeFeh8lmNwW
+          id: 178OI1A3qjROeFeh8lmNwW
+          is_local: false
+          is_playable: true
+          name: Traveller
+          track_number: 1
+          type: track
+          uri: spotify:track:178OI1A3qjROeFeh8lmNwW
+    isrc: USUM71418080

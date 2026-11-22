@@ -152,3 +152,72 @@ mediaFileData:
   year: 1993
   duration: 215.808
   modTime: 2025-07-25 23:56:36.943968+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1NnUbdEvJigY0ARnoOgDrv
+    trackId: 1NnUbdEvJigY0ARnoOgDrv
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM11100216&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+              href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+              id: 1w5Kfo2jwwIPruYS2UWh56
+              name: Pearl Jam
+              type: artist
+              uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+            external_urls:
+              spotify: https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV
+            href: https://api.spotify.com/v1/albums/3BSOiAas8BpJOii3kCPyjV
+            id: 3BSOiAas8BpJOii3kCPyjV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733cd811ba3d8e0b67feb08e75
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023cd811ba3d8e0b67feb08e75
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513cd811ba3d8e0b67feb08e75
+            is_playable: true
+            name: Vs.
+            release_date: '1993-10-19'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:3BSOiAas8BpJOii3kCPyjV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 1
+          duration_ms: 214992
+          explicit: false
+          external_ids:
+            isrc: USSM11100216
+          external_urls:
+            spotify: https://open.spotify.com/track/1NnUbdEvJigY0ARnoOgDrv
+          href: https://api.spotify.com/v1/tracks/1NnUbdEvJigY0ARnoOgDrv
+          id: 1NnUbdEvJigY0ARnoOgDrv
+          is_local: false
+          is_playable: true
+          name: Dissident - Remastered
+          track_number: 5
+          type: track
+          uri: spotify:track:1NnUbdEvJigY0ARnoOgDrv
+    isrc: USSM11100216

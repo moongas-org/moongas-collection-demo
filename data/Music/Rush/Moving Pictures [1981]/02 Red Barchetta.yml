@@ -83,3 +83,126 @@ mediaFileData:
   year: 1981
   duration: 371.51345
   modTime: 2022-01-29 18:45:34.660000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/22KRO96i1ToUsIKDRg7Q1N
+    trackId: 22KRO96i1ToUsIKDRg7Q1N
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMR18180111&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/4UHywb0FC2JnJubtwlBfnS
+            href: https://api.spotify.com/v1/albums/4UHywb0FC2JnJubtwlBfnS
+            id: 4UHywb0FC2JnJubtwlBfnS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c61cd06a6ad807bbc98dbf4a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c61cd06a6ad807bbc98dbf4a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c61cd06a6ad807bbc98dbf4a
+            is_playable: true
+            name: Exit ... Stage Left
+            release_date: '1981-10-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4UHywb0FC2JnJubtwlBfnS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 406493
+          explicit: false
+          external_ids:
+            isrc: USMR18180111
+          external_urls:
+            spotify: https://open.spotify.com/track/22KRO96i1ToUsIKDRg7Q1N
+          href: https://api.spotify.com/v1/tracks/22KRO96i1ToUsIKDRg7Q1N
+          id: 22KRO96i1ToUsIKDRg7Q1N
+          is_local: false
+          is_playable: true
+          name: Red Barchetta - Live In Canada / 1980
+          track_number: 2
+          type: track
+          uri: spotify:track:22KRO96i1ToUsIKDRg7Q1N
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/3rnLVvN0BPzOAbVr7WrYGy
+            href: https://api.spotify.com/v1/albums/3rnLVvN0BPzOAbVr7WrYGy
+            id: 3rnLVvN0BPzOAbVr7WrYGy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273db6de5c6727165d14f91a296
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02db6de5c6727165d14f91a296
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851db6de5c6727165d14f91a296
+            is_playable: true
+            name: Exit ... Stage Left
+            release_date: '1981-10-29'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3rnLVvN0BPzOAbVr7WrYGy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 406506
+          explicit: false
+          external_ids:
+            isrc: USMR18180111
+          external_urls:
+            spotify: https://open.spotify.com/track/6kTtpt4ccWlFtgs8e3uQXZ
+          href: https://api.spotify.com/v1/tracks/6kTtpt4ccWlFtgs8e3uQXZ
+          id: 6kTtpt4ccWlFtgs8e3uQXZ
+          is_local: false
+          is_playable: true
+          name: Red Barchetta - Live In Canada / 1980
+          track_number: 2
+          type: track
+          uri: spotify:track:6kTtpt4ccWlFtgs8e3uQXZ
+    isrc: USMR18180111

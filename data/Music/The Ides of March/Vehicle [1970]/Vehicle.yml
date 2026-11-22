@@ -65,3 +65,288 @@ mediaFileData:
   year: 1970
   duration: 177.18857142857144
   modTime: 2023-07-17 00:57:56+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1r23mQZNnVcX4Vm9tuutas
+    trackId: 1r23mQZNnVcX4Vm9tuutas
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10905072&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB10905072&type=track
+        offset: 0
+        previous:
+        total: 10
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH
+            href: https://api.spotify.com/v1/albums/3y2gHDcfKpQG21SutK6ErH
+            id: 3y2gHDcfKpQG21SutK6ErH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f019e93a36b0be5f11a27385
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f019e93a36b0be5f11a27385
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f019e93a36b0be5f11a27385
+            is_playable: true
+            name: Oldies 60's
+            release_date: '2017-08-10'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:3y2gHDcfKpQG21SutK6ErH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji
+            href: https://api.spotify.com/v1/artists/1Csjn2SQV7R9szDhhR7Aji
+            id: 1Csjn2SQV7R9szDhhR7Aji
+            name: The Ides Of March
+            type: artist
+            uri: spotify:artist:1Csjn2SQV7R9szDhhR7Aji
+          disc_number: 1
+          duration_ms: 174120
+          explicit: false
+          external_ids:
+            isrc: USWB10905072
+          external_urls:
+            spotify: https://open.spotify.com/track/1r23mQZNnVcX4Vm9tuutas
+          href: https://api.spotify.com/v1/tracks/1r23mQZNnVcX4Vm9tuutas
+          id: 1r23mQZNnVcX4Vm9tuutas
+          is_local: false
+          is_playable: true
+          name: Vehicle
+          track_number: 30
+          type: track
+          uri: spotify:track:1r23mQZNnVcX4Vm9tuutas
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji
+              href: https://api.spotify.com/v1/artists/1Csjn2SQV7R9szDhhR7Aji
+              id: 1Csjn2SQV7R9szDhhR7Aji
+              name: The Ides Of March
+              type: artist
+              uri: spotify:artist:1Csjn2SQV7R9szDhhR7Aji
+            external_urls:
+              spotify: https://open.spotify.com/album/1Wq34U8lJECXVx4LRhrXLa
+            href: https://api.spotify.com/v1/albums/1Wq34U8lJECXVx4LRhrXLa
+            id: 1Wq34U8lJECXVx4LRhrXLa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736c6a05a60d63f1b7056eb87e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026c6a05a60d63f1b7056eb87e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516c6a05a60d63f1b7056eb87e
+            is_playable: true
+            name: Vehicle / Lead Me Home, Gently (45 Version)
+            release_date: '1970-03-01'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:1Wq34U8lJECXVx4LRhrXLa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji
+            href: https://api.spotify.com/v1/artists/1Csjn2SQV7R9szDhhR7Aji
+            id: 1Csjn2SQV7R9szDhhR7Aji
+            name: The Ides Of March
+            type: artist
+            uri: spotify:artist:1Csjn2SQV7R9szDhhR7Aji
+          disc_number: 1
+          duration_ms: 174120
+          explicit: false
+          external_ids:
+            isrc: USWB10905072
+          external_urls:
+            spotify: https://open.spotify.com/track/7fFpKX0PXuHNE9QZHgDdC5
+          href: https://api.spotify.com/v1/tracks/7fFpKX0PXuHNE9QZHgDdC5
+          id: 7fFpKX0PXuHNE9QZHgDdC5
+          is_local: false
+          is_playable: true
+          name: Vehicle
+          track_number: 1
+          type: track
+          uri: spotify:track:7fFpKX0PXuHNE9QZHgDdC5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2dpirMVpZGMvdpZAfMUOAT
+            href: https://api.spotify.com/v1/albums/2dpirMVpZGMvdpZAfMUOAT
+            id: 2dpirMVpZGMvdpZAfMUOAT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737609439399a877ad4c0b73f2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027609439399a877ad4c0b73f2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517609439399a877ad4c0b73f2
+            is_playable: true
+            name: 70's Rock Classics
+            release_date: '2021-01-02'
+            release_date_precision: day
+            total_tracks: 58
+            type: album
+            uri: spotify:album:2dpirMVpZGMvdpZAfMUOAT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji
+            href: https://api.spotify.com/v1/artists/1Csjn2SQV7R9szDhhR7Aji
+            id: 1Csjn2SQV7R9szDhhR7Aji
+            name: The Ides Of March
+            type: artist
+            uri: spotify:artist:1Csjn2SQV7R9szDhhR7Aji
+          disc_number: 1
+          duration_ms: 174120
+          explicit: false
+          external_ids:
+            isrc: USWB10905072
+          external_urls:
+            spotify: https://open.spotify.com/track/19E1hbNo6GRthItA1isfOD
+          href: https://api.spotify.com/v1/tracks/19E1hbNo6GRthItA1isfOD
+          id: 19E1hbNo6GRthItA1isfOD
+          is_local: false
+          is_playable: true
+          name: Vehicle
+          track_number: 44
+          type: track
+          uri: spotify:track:19E1hbNo6GRthItA1isfOD
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4Lay5YpizjwGRbUzid1PAJ
+            href: https://api.spotify.com/v1/albums/4Lay5YpizjwGRbUzid1PAJ
+            id: 4Lay5YpizjwGRbUzid1PAJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eabbbc2b2d333e5f8a226d99
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eabbbc2b2d333e5f8a226d99
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eabbbc2b2d333e5f8a226d99
+            is_playable: true
+            name: "Play: 70's Music"
+            release_date: '2020-03-13'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:4Lay5YpizjwGRbUzid1PAJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji
+            href: https://api.spotify.com/v1/artists/1Csjn2SQV7R9szDhhR7Aji
+            id: 1Csjn2SQV7R9szDhhR7Aji
+            name: The Ides Of March
+            type: artist
+            uri: spotify:artist:1Csjn2SQV7R9szDhhR7Aji
+          disc_number: 1
+          duration_ms: 174120
+          explicit: false
+          external_ids:
+            isrc: USWB10905072
+          external_urls:
+            spotify: https://open.spotify.com/track/27nniCnRmXLKYQb7XzA2Ce
+          href: https://api.spotify.com/v1/tracks/27nniCnRmXLKYQb7XzA2Ce
+          id: 27nniCnRmXLKYQb7XzA2Ce
+          is_local: false
+          is_playable: true
+          name: Vehicle
+          track_number: 22
+          type: track
+          uri: spotify:track:27nniCnRmXLKYQb7XzA2Ce
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4FZGYymf0NnQxY74yUqGZ9
+            href: https://api.spotify.com/v1/albums/4FZGYymf0NnQxY74yUqGZ9
+            id: 4FZGYymf0NnQxY74yUqGZ9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737cd921ef836ffec559ddd25f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027cd921ef836ffec559ddd25f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517cd921ef836ffec559ddd25f
+            is_playable: true
+            name: 'Rise of The Footsoldier 4: Marbella (Original Motion Picture Soundtrack)'
+            release_date: '2021-08-27'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:4FZGYymf0NnQxY74yUqGZ9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji
+            href: https://api.spotify.com/v1/artists/1Csjn2SQV7R9szDhhR7Aji
+            id: 1Csjn2SQV7R9szDhhR7Aji
+            name: The Ides Of March
+            type: artist
+            uri: spotify:artist:1Csjn2SQV7R9szDhhR7Aji
+          disc_number: 2
+          duration_ms: 174120
+          explicit: false
+          external_ids:
+            isrc: USWB10905072
+          external_urls:
+            spotify: https://open.spotify.com/track/1o0qXaztkjEmjGOQK564BU
+          href: https://api.spotify.com/v1/tracks/1o0qXaztkjEmjGOQK564BU
+          id: 1o0qXaztkjEmjGOQK564BU
+          is_local: false
+          is_playable: true
+          name: Vehicle
+          track_number: 6
+          type: track
+          uri: spotify:track:1o0qXaztkjEmjGOQK564BU
+    isrc: USWB10905072

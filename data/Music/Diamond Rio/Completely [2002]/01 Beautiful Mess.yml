@@ -70,3 +70,234 @@ mediaFileData:
   year: 2002
   duration: 221.361625
   modTime: 2023-04-10 02:01:30.220000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/19QT1L9qUNKHYNbYqawaX8
+    trackId: 19QT1L9qUNKHYNbYqawaX8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAN20100228&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6
+              href: https://api.spotify.com/v1/artists/0svyIX7Xu3DVMkrOtB88i6
+              id: 0svyIX7Xu3DVMkrOtB88i6
+              name: Diamond Rio
+              type: artist
+              uri: spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+            external_urls:
+              spotify: https://open.spotify.com/album/04vzp8zWqEjQw7M6VlqbTO
+            href: https://api.spotify.com/v1/albums/04vzp8zWqEjQw7M6VlqbTO
+            id: 04vzp8zWqEjQw7M6VlqbTO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27392fa346a0fd210a428322213
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0292fa346a0fd210a428322213
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485192fa346a0fd210a428322213
+            is_playable: true
+            name: Completely
+            release_date: '2002-08-19'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:04vzp8zWqEjQw7M6VlqbTO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6
+            href: https://api.spotify.com/v1/artists/0svyIX7Xu3DVMkrOtB88i6
+            id: 0svyIX7Xu3DVMkrOtB88i6
+            name: Diamond Rio
+            type: artist
+            uri: spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+          disc_number: 1
+          duration_ms: 228000
+          explicit: false
+          external_ids:
+            isrc: USAN20100228
+          external_urls:
+            spotify: https://open.spotify.com/track/19QT1L9qUNKHYNbYqawaX8
+          href: https://api.spotify.com/v1/tracks/19QT1L9qUNKHYNbYqawaX8
+          id: 19QT1L9qUNKHYNbYqawaX8
+          is_local: false
+          is_playable: true
+          name: Beautiful Mess
+          track_number: 1
+          type: track
+          uri: spotify:track:19QT1L9qUNKHYNbYqawaX8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6
+              href: https://api.spotify.com/v1/artists/0svyIX7Xu3DVMkrOtB88i6
+              id: 0svyIX7Xu3DVMkrOtB88i6
+              name: Diamond Rio
+              type: artist
+              uri: spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+            external_urls:
+              spotify: https://open.spotify.com/album/43vTDEKJsYBM5kkiftdUAi
+            href: https://api.spotify.com/v1/albums/43vTDEKJsYBM5kkiftdUAi
+            id: 43vTDEKJsYBM5kkiftdUAi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a00c29e64bab04ca85f4f892
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a00c29e64bab04ca85f4f892
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a00c29e64bab04ca85f4f892
+            is_playable: true
+            name: The Essential Diamond Rio
+            release_date: '2015-01-09'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:43vTDEKJsYBM5kkiftdUAi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6
+            href: https://api.spotify.com/v1/artists/0svyIX7Xu3DVMkrOtB88i6
+            id: 0svyIX7Xu3DVMkrOtB88i6
+            name: Diamond Rio
+            type: artist
+            uri: spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+          disc_number: 2
+          duration_ms: 228733
+          explicit: false
+          external_ids:
+            isrc: USAN20100228
+          external_urls:
+            spotify: https://open.spotify.com/track/4klbnXXldFthEL0rfC5lD4
+          href: https://api.spotify.com/v1/tracks/4klbnXXldFthEL0rfC5lD4
+          id: 4klbnXXldFthEL0rfC5lD4
+          is_local: false
+          is_playable: true
+          name: Beautiful Mess
+          track_number: 15
+          type: track
+          uri: spotify:track:4klbnXXldFthEL0rfC5lD4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6
+              href: https://api.spotify.com/v1/artists/0svyIX7Xu3DVMkrOtB88i6
+              id: 0svyIX7Xu3DVMkrOtB88i6
+              name: Diamond Rio
+              type: artist
+              uri: spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+            external_urls:
+              spotify: https://open.spotify.com/album/6SpI83tW4WZmpRqfPwsX40
+            href: https://api.spotify.com/v1/albums/6SpI83tW4WZmpRqfPwsX40
+            id: 6SpI83tW4WZmpRqfPwsX40
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f1070f3b8ab823060ca0acf9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f1070f3b8ab823060ca0acf9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f1070f3b8ab823060ca0acf9
+            is_playable: true
+            name: Greatest Hits II
+            release_date: '2006-05-02'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:6SpI83tW4WZmpRqfPwsX40
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6
+            href: https://api.spotify.com/v1/artists/0svyIX7Xu3DVMkrOtB88i6
+            id: 0svyIX7Xu3DVMkrOtB88i6
+            name: Diamond Rio
+            type: artist
+            uri: spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+          disc_number: 1
+          duration_ms: 227920
+          explicit: false
+          external_ids:
+            isrc: USAN20100228
+          external_urls:
+            spotify: https://open.spotify.com/track/7LvK43IERbcLsuabmyKQgi
+          href: https://api.spotify.com/v1/tracks/7LvK43IERbcLsuabmyKQgi
+          id: 7LvK43IERbcLsuabmyKQgi
+          is_local: false
+          is_playable: true
+          name: Beautiful Mess
+          track_number: 2
+          type: track
+          uri: spotify:track:7LvK43IERbcLsuabmyKQgi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6
+              href: https://api.spotify.com/v1/artists/0svyIX7Xu3DVMkrOtB88i6
+              id: 0svyIX7Xu3DVMkrOtB88i6
+              name: Diamond Rio
+              type: artist
+              uri: spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+            external_urls:
+              spotify: https://open.spotify.com/album/09lZwjsn0t2T62XaGUqfwP
+            href: https://api.spotify.com/v1/albums/09lZwjsn0t2T62XaGUqfwP
+            id: 09lZwjsn0t2T62XaGUqfwP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273856a169ffb5ad66918fadd30
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02856a169ffb5ad66918fadd30
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851856a169ffb5ad66918fadd30
+            is_playable: true
+            name: 16 Biggest Hits
+            release_date: '2007-07-24'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:09lZwjsn0t2T62XaGUqfwP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6
+            href: https://api.spotify.com/v1/artists/0svyIX7Xu3DVMkrOtB88i6
+            id: 0svyIX7Xu3DVMkrOtB88i6
+            name: Diamond Rio
+            type: artist
+            uri: spotify:artist:0svyIX7Xu3DVMkrOtB88i6
+          disc_number: 1
+          duration_ms: 227280
+          explicit: false
+          external_ids:
+            isrc: USAN20100228
+          external_urls:
+            spotify: https://open.spotify.com/track/1ulqUaVvi0Wn1CpBZf0R5U
+          href: https://api.spotify.com/v1/tracks/1ulqUaVvi0Wn1CpBZf0R5U
+          id: 1ulqUaVvi0Wn1CpBZf0R5U
+          is_local: false
+          is_playable: true
+          name: Beautiful Mess
+          track_number: 6
+          type: track
+          uri: spotify:track:1ulqUaVvi0Wn1CpBZf0R5U
+    isrc: USAN20100228

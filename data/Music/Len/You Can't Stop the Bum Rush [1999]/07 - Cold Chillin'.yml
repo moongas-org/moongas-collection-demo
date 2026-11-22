@@ -37,3 +37,72 @@ mediaFileData:
   year: 1999
   duration: 206.26666666666668
   modTime: 2024-12-11 20:40:54.481878+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0iDJTIPh5t2ajWijTBHogu
+    trackId: 0iDJTIPh5t2ajWijTBHogu
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19806648&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ
+              href: https://api.spotify.com/v1/artists/0nyc9SZGLITSOJASmTZsnZ
+              id: 0nyc9SZGLITSOJASmTZsnZ
+              name: LEN
+              type: artist
+              uri: spotify:artist:0nyc9SZGLITSOJASmTZsnZ
+            external_urls:
+              spotify: https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k
+            href: https://api.spotify.com/v1/albums/5NndKV7nc18qRQfFvLgZ1k
+            id: 5NndKV7nc18qRQfFvLgZ1k
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d1d5968435c5ed8868324f9c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d1d5968435c5ed8868324f9c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d1d5968435c5ed8868324f9c
+            is_playable: true
+            name: You Can't Stop The Bum Rush
+            release_date: '1999-05-25'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5NndKV7nc18qRQfFvLgZ1k
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ
+            href: https://api.spotify.com/v1/artists/0nyc9SZGLITSOJASmTZsnZ
+            id: 0nyc9SZGLITSOJASmTZsnZ
+            name: LEN
+            type: artist
+            uri: spotify:artist:0nyc9SZGLITSOJASmTZsnZ
+          disc_number: 1
+          duration_ms: 206333
+          explicit: false
+          external_ids:
+            isrc: USSM19806648
+          external_urls:
+            spotify: https://open.spotify.com/track/0iDJTIPh5t2ajWijTBHogu
+          href: https://api.spotify.com/v1/tracks/0iDJTIPh5t2ajWijTBHogu
+          id: 0iDJTIPh5t2ajWijTBHogu
+          is_local: false
+          is_playable: true
+          name: Cold Chillin'
+          track_number: 7
+          type: track
+          uri: spotify:track:0iDJTIPh5t2ajWijTBHogu
+    isrc: USSM19806648

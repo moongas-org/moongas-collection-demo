@@ -34,3 +34,72 @@ mediaFileData:
   year: 2014
   duration: 287.592
   modTime: 2024-03-02 17:49:31.479724+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4GbCwlYCEmWCdw5gfbGZ7F
+    trackId: 4GbCwlYCEmWCdw5gfbGZ7F
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS4GZ1403401&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz
+              href: https://api.spotify.com/v1/artists/5q4eLKmqFVP0xII8087PHz
+              id: 5q4eLKmqFVP0xII8087PHz
+              name: The Budos Band
+              type: artist
+              uri: spotify:artist:5q4eLKmqFVP0xII8087PHz
+            external_urls:
+              spotify: https://open.spotify.com/album/0Az90oZbalWdPoT2CRWkb6
+            href: https://api.spotify.com/v1/albums/0Az90oZbalWdPoT2CRWkb6
+            id: 0Az90oZbalWdPoT2CRWkb6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cc7dc0875898c63eac7dd38a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cc7dc0875898c63eac7dd38a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cc7dc0875898c63eac7dd38a
+            is_playable: true
+            name: Burnt Offering
+            release_date: '2014-10-21'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0Az90oZbalWdPoT2CRWkb6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz
+            href: https://api.spotify.com/v1/artists/5q4eLKmqFVP0xII8087PHz
+            id: 5q4eLKmqFVP0xII8087PHz
+            name: The Budos Band
+            type: artist
+            uri: spotify:artist:5q4eLKmqFVP0xII8087PHz
+          disc_number: 1
+          duration_ms: 287560
+          explicit: false
+          external_ids:
+            isrc: US4GZ1403401
+          external_urls:
+            spotify: https://open.spotify.com/track/4GbCwlYCEmWCdw5gfbGZ7F
+          href: https://api.spotify.com/v1/tracks/4GbCwlYCEmWCdw5gfbGZ7F
+          id: 4GbCwlYCEmWCdw5gfbGZ7F
+          is_local: false
+          is_playable: true
+          name: Into The Fog
+          track_number: 1
+          type: track
+          uri: spotify:track:4GbCwlYCEmWCdw5gfbGZ7F
+    isrc: US4GZ1403401

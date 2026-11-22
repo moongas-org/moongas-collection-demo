@@ -73,3 +73,288 @@ mediaFileData:
   year: 1971
   duration: 264.384
   modTime: 2024-01-02 11:47:28.899768+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1
+    trackId: 7shVwhUdVbHpykOfbzvDc1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE19600208&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRE19600208&type=track
+        offset: 0
+        previous:
+        total: 21
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+              href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+              id: 5hW4L92KnC6dX9t7tYM4Ve
+              name: Joni Mitchell
+              type: artist
+              uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+            external_urls:
+              spotify: https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa
+            href: https://api.spotify.com/v1/albums/1vz94WpXDVYIEGja8cjFNa
+            id: 1vz94WpXDVYIEGja8cjFNa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e79dc1438d650f426b5e99a7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e79dc1438d650f426b5e99a7
+            is_playable: true
+            name: Blue
+            release_date: '1971-06-22'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1vz94WpXDVYIEGja8cjFNa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+            href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+            id: 5hW4L92KnC6dX9t7tYM4Ve
+            name: Joni Mitchell
+            type: artist
+            uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+          disc_number: 1
+          duration_ms: 263480
+          explicit: false
+          external_ids:
+            isrc: USRE19600208
+          external_urls:
+            spotify: https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1
+          href: https://api.spotify.com/v1/tracks/7shVwhUdVbHpykOfbzvDc1
+          id: 7shVwhUdVbHpykOfbzvDc1
+          is_local: false
+          is_playable: true
+          name: A Case of You
+          track_number: 9
+          type: track
+          uri: spotify:track:7shVwhUdVbHpykOfbzvDc1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/53dNzfHWFNzyX6UJhPI5Bd
+            href: https://api.spotify.com/v1/albums/53dNzfHWFNzyX6UJhPI5Bd
+            id: 53dNzfHWFNzyX6UJhPI5Bd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273572511972029950642fa1f09
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02572511972029950642fa1f09
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851572511972029950642fa1f09
+            is_playable: true
+            name: Class of 1971
+            release_date: '2020-06-08'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:53dNzfHWFNzyX6UJhPI5Bd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+            href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+            id: 5hW4L92KnC6dX9t7tYM4Ve
+            name: Joni Mitchell
+            type: artist
+            uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+          disc_number: 1
+          duration_ms: 263480
+          explicit: false
+          external_ids:
+            isrc: USRE19600208
+          external_urls:
+            spotify: https://open.spotify.com/track/3UedPlgycMQuLwNf1kdzqP
+          href: https://api.spotify.com/v1/tracks/3UedPlgycMQuLwNf1kdzqP
+          id: 3UedPlgycMQuLwNf1kdzqP
+          is_local: false
+          is_playable: true
+          name: A Case of You
+          track_number: 20
+          type: track
+          uri: spotify:track:3UedPlgycMQuLwNf1kdzqP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+              href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+              id: 5hW4L92KnC6dX9t7tYM4Ve
+              name: Joni Mitchell
+              type: artist
+              uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+            external_urls:
+              spotify: https://open.spotify.com/album/4X0YdnPAg1DW5ymEJydXCt
+            href: https://api.spotify.com/v1/albums/4X0YdnPAg1DW5ymEJydXCt
+            id: 4X0YdnPAg1DW5ymEJydXCt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d94731c8144ab10e3fd3e973
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d94731c8144ab10e3fd3e973
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d94731c8144ab10e3fd3e973
+            is_playable: true
+            name: The Studio Albums 1968 - 1979
+            release_date: '2012-10-29'
+            release_date_precision: day
+            total_tracks: 105
+            type: album
+            uri: spotify:album:4X0YdnPAg1DW5ymEJydXCt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+            href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+            id: 5hW4L92KnC6dX9t7tYM4Ve
+            name: Joni Mitchell
+            type: artist
+            uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+          disc_number: 4
+          duration_ms: 263480
+          explicit: false
+          external_ids:
+            isrc: USRE19600208
+          external_urls:
+            spotify: https://open.spotify.com/track/54GaHVaDoC2DsbJFe9nY5x
+          href: https://api.spotify.com/v1/tracks/54GaHVaDoC2DsbJFe9nY5x
+          id: 54GaHVaDoC2DsbJFe9nY5x
+          is_local: false
+          is_playable: true
+          name: A Case of You
+          track_number: 9
+          type: track
+          uri: spotify:track:54GaHVaDoC2DsbJFe9nY5x
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+              href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+              id: 5hW4L92KnC6dX9t7tYM4Ve
+              name: Joni Mitchell
+              type: artist
+              uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+            external_urls:
+              spotify: https://open.spotify.com/album/4Q1PXOtxCMGiHI1paXsdiF
+            href: https://api.spotify.com/v1/albums/4Q1PXOtxCMGiHI1paXsdiF
+            id: 4Q1PXOtxCMGiHI1paXsdiF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738c3383204df3c84fe471909b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028c3383204df3c84fe471909b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518c3383204df3c84fe471909b
+            is_playable: true
+            name: Misses
+            release_date: '2013-02-05'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:4Q1PXOtxCMGiHI1paXsdiF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+            href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+            id: 5hW4L92KnC6dX9t7tYM4Ve
+            name: Joni Mitchell
+            type: artist
+            uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+          disc_number: 1
+          duration_ms: 263480
+          explicit: false
+          external_ids:
+            isrc: USRE19600208
+          external_urls:
+            spotify: https://open.spotify.com/track/4YzASGxdnjlHa8c8x6Xh5b
+          href: https://api.spotify.com/v1/tracks/4YzASGxdnjlHa8c8x6Xh5b
+          id: 4YzASGxdnjlHa8c8x6Xh5b
+          is_local: false
+          is_playable: true
+          name: A Case of You
+          track_number: 3
+          type: track
+          uri: spotify:track:4YzASGxdnjlHa8c8x6Xh5b
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw
+            href: https://api.spotify.com/v1/albums/2N7TdBow0ClqvPIdmuOgtw
+            id: 2N7TdBow0ClqvPIdmuOgtw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737367da512a3bf2b0f09b0c98
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027367da512a3bf2b0f09b0c98
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517367da512a3bf2b0f09b0c98
+            is_playable: true
+            name: Practical Magic (Music From The Motion Picture)
+            release_date: '2009-09-04'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2N7TdBow0ClqvPIdmuOgtw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+            href: https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve
+            id: 5hW4L92KnC6dX9t7tYM4Ve
+            name: Joni Mitchell
+            type: artist
+            uri: spotify:artist:5hW4L92KnC6dX9t7tYM4Ve
+          disc_number: 1
+          duration_ms: 263480
+          explicit: false
+          external_ids:
+            isrc: USRE19600208
+          external_urls:
+            spotify: https://open.spotify.com/track/237IXZXFGw6dJ1OcO7wKZd
+          href: https://api.spotify.com/v1/tracks/237IXZXFGw6dJ1OcO7wKZd
+          id: 237IXZXFGw6dJ1OcO7wKZd
+          is_local: false
+          is_playable: true
+          name: A Case of You
+          track_number: 6
+          type: track
+          uri: spotify:track:237IXZXFGw6dJ1OcO7wKZd
+    isrc: USRE19600208

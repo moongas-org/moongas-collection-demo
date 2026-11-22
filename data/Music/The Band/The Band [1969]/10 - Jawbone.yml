@@ -41,3 +41,72 @@ mediaFileData:
   year: 1969
   duration: 259.536
   modTime: 2025-01-31 02:05:19.276768+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4zKtMSlfENcn87rfSXY1fY
+    trackId: 4zKtMSlfENcn87rfSXY1fY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA20000802&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA
+              href: https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA
+              id: 4vpDg7Y7fU982Ds30zawDA
+              name: The Band
+              type: artist
+              uri: spotify:artist:4vpDg7Y7fU982Ds30zawDA
+            external_urls:
+              spotify: https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x
+            href: https://api.spotify.com/v1/albums/4vXFiaDS8zuEl5bOUbW53x
+            id: 4vXFiaDS8zuEl5bOUbW53x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a6783876afd7e9c96f0869e3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a6783876afd7e9c96f0869e3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a6783876afd7e9c96f0869e3
+            is_playable: true
+            name: The Band
+            release_date: '1969-09-22'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4vXFiaDS8zuEl5bOUbW53x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA
+            href: https://api.spotify.com/v1/artists/4vpDg7Y7fU982Ds30zawDA
+            id: 4vpDg7Y7fU982Ds30zawDA
+            name: The Band
+            type: artist
+            uri: spotify:artist:4vpDg7Y7fU982Ds30zawDA
+          disc_number: 1
+          duration_ms: 259493
+          explicit: false
+          external_ids:
+            isrc: USCA20000802
+          external_urls:
+            spotify: https://open.spotify.com/track/4zKtMSlfENcn87rfSXY1fY
+          href: https://api.spotify.com/v1/tracks/4zKtMSlfENcn87rfSXY1fY
+          id: 4zKtMSlfENcn87rfSXY1fY
+          is_local: false
+          is_playable: true
+          name: Jawbone
+          track_number: 10
+          type: track
+          uri: spotify:track:4zKtMSlfENcn87rfSXY1fY
+    isrc: USCA20000802

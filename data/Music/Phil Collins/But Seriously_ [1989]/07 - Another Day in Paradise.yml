@@ -88,3 +88,234 @@ mediaFileData:
   year: 1989
   duration: 322.248
   modTime: 2024-01-05 19:11:08.414984+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD
+    trackId: 1NCuYqMc8hKMb4cpNTcJbD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11602150&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+              href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+              id: 4lxfqrEsLX6N1N4OCSkILp
+              name: Phil Collins
+              type: artist
+              uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+            external_urls:
+              spotify: https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8
+            href: https://api.spotify.com/v1/albums/2sS9l8uc3d3UsK9unJyrD8
+            id: 2sS9l8uc3d3UsK9unJyrD8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737624d538b596bfdf565184a6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027624d538b596bfdf565184a6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517624d538b596bfdf565184a6
+            is_playable: true
+            name: '...But Seriously (Deluxe Edition)'
+            release_date: '1989-11-20'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2sS9l8uc3d3UsK9unJyrD8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+            href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+            id: 4lxfqrEsLX6N1N4OCSkILp
+            name: Phil Collins
+            type: artist
+            uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+          disc_number: 1
+          duration_ms: 322133
+          explicit: false
+          external_ids:
+            isrc: USRH11602150
+          external_urls:
+            spotify: https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD
+          href: https://api.spotify.com/v1/tracks/1NCuYqMc8hKMb4cpNTcJbD
+          id: 1NCuYqMc8hKMb4cpNTcJbD
+          is_local: false
+          is_playable: true
+          name: Another Day in Paradise - 2016 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:1NCuYqMc8hKMb4cpNTcJbD
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+              href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+              id: 4lxfqrEsLX6N1N4OCSkILp
+              name: Phil Collins
+              type: artist
+              uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+            external_urls:
+              spotify: https://open.spotify.com/album/5HgotyRoL2KtJElB8fBToi
+            href: https://api.spotify.com/v1/albums/5HgotyRoL2KtJElB8fBToi
+            id: 5HgotyRoL2KtJElB8fBToi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c4b7d2d4043df17f71e3c3d7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c4b7d2d4043df17f71e3c3d7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c4b7d2d4043df17f71e3c3d7
+            is_playable: true
+            name: The Singles
+            release_date: '2016-10-14'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:5HgotyRoL2KtJElB8fBToi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+            href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+            id: 4lxfqrEsLX6N1N4OCSkILp
+            name: Phil Collins
+            type: artist
+            uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+          disc_number: 2
+          duration_ms: 323053
+          explicit: false
+          external_ids:
+            isrc: USRH11602150
+          external_urls:
+            spotify: https://open.spotify.com/track/27fAhqr9KHUUvIgS1nvgqr
+          href: https://api.spotify.com/v1/tracks/27fAhqr9KHUUvIgS1nvgqr
+          id: 27fAhqr9KHUUvIgS1nvgqr
+          is_local: false
+          is_playable: true
+          name: Another Day in Paradise - 2016 Remaster
+          track_number: 15
+          type: track
+          uri: spotify:track:27fAhqr9KHUUvIgS1nvgqr
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+              href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+              id: 4lxfqrEsLX6N1N4OCSkILp
+              name: Phil Collins
+              type: artist
+              uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+            external_urls:
+              spotify: https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8
+            href: https://api.spotify.com/v1/albums/1t89giOgPycfALwe2NuVf8
+            id: 1t89giOgPycfALwe2NuVf8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738042003320e8a38e59624846
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028042003320e8a38e59624846
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518042003320e8a38e59624846
+            is_playable: true
+            name: '...But Seriously (2016 Remaster)'
+            release_date: '1989-11-20'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1t89giOgPycfALwe2NuVf8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+            href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+            id: 4lxfqrEsLX6N1N4OCSkILp
+            name: Phil Collins
+            type: artist
+            uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+          disc_number: 1
+          duration_ms: 323040
+          explicit: false
+          external_ids:
+            isrc: USRH11602150
+          external_urls:
+            spotify: https://open.spotify.com/track/5ZaDUleherOLBbHk2PU1Kr
+          href: https://api.spotify.com/v1/tracks/5ZaDUleherOLBbHk2PU1Kr
+          id: 5ZaDUleherOLBbHk2PU1Kr
+          is_local: false
+          is_playable: true
+          name: Another Day in Paradise - 2016 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:5ZaDUleherOLBbHk2PU1Kr
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+              href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+              id: 4lxfqrEsLX6N1N4OCSkILp
+              name: Phil Collins
+              type: artist
+              uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+            external_urls:
+              spotify: https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah
+            href: https://api.spotify.com/v1/albums/7yZHLfxqiGPbSQLrVJljah
+            id: 7yZHLfxqiGPbSQLrVJljah
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736731eabe4c268971eeed3c06
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026731eabe4c268971eeed3c06
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516731eabe4c268971eeed3c06
+            is_playable: true
+            name: The Singles (Expanded)
+            release_date: '2016-10-14'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:7yZHLfxqiGPbSQLrVJljah
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+            href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+            id: 4lxfqrEsLX6N1N4OCSkILp
+            name: Phil Collins
+            type: artist
+            uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+          disc_number: 2
+          duration_ms: 323053
+          explicit: false
+          external_ids:
+            isrc: USRH11602150
+          external_urls:
+            spotify: https://open.spotify.com/track/0hy017yRRDz9bnfXEmx6et
+          href: https://api.spotify.com/v1/tracks/0hy017yRRDz9bnfXEmx6et
+          id: 0hy017yRRDz9bnfXEmx6et
+          is_local: false
+          is_playable: true
+          name: Another Day in Paradise - 2016 Remaster
+          track_number: 4
+          type: track
+          uri: spotify:track:0hy017yRRDz9bnfXEmx6et
+    isrc: USRH11602150

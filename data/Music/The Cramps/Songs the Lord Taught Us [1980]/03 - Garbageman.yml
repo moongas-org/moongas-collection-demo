@@ -85,3 +85,72 @@ mediaFileData:
   year: 1980
   duration: 217.056
   modTime: 2025-04-07 23:54:27.706594+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6E0KGQ0xO5lFaKCamdKvFs
+    trackId: 6E0KGQ0xO5lFaKCamdKvFs
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWWW0128833&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+              href: https://api.spotify.com/v1/artists/4lYtGx5NZQJHsMyhHc5iz3
+              id: 4lYtGx5NZQJHsMyhHc5iz3
+              name: The Cramps
+              type: artist
+              uri: spotify:artist:4lYtGx5NZQJHsMyhHc5iz3
+            external_urls:
+              spotify: https://open.spotify.com/album/2KZS6hOoun6Vo5EqGM3HJG
+            href: https://api.spotify.com/v1/albums/2KZS6hOoun6Vo5EqGM3HJG
+            id: 2KZS6hOoun6Vo5EqGM3HJG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27317bc369a66a3001838fbf524
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0217bc369a66a3001838fbf524
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485117bc369a66a3001838fbf524
+            is_playable: true
+            name: Bad Music For Bad People
+            release_date: '1984-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:2KZS6hOoun6Vo5EqGM3HJG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+            href: https://api.spotify.com/v1/artists/4lYtGx5NZQJHsMyhHc5iz3
+            id: 4lYtGx5NZQJHsMyhHc5iz3
+            name: The Cramps
+            type: artist
+            uri: spotify:artist:4lYtGx5NZQJHsMyhHc5iz3
+          disc_number: 1
+          duration_ms: 213133
+          explicit: false
+          external_ids:
+            isrc: USWWW0128833
+          external_urls:
+            spotify: https://open.spotify.com/track/6E0KGQ0xO5lFaKCamdKvFs
+          href: https://api.spotify.com/v1/tracks/6E0KGQ0xO5lFaKCamdKvFs
+          id: 6E0KGQ0xO5lFaKCamdKvFs
+          is_local: false
+          is_playable: true
+          name: Garbage Man
+          track_number: 1
+          type: track
+          uri: spotify:track:6E0KGQ0xO5lFaKCamdKvFs
+    isrc: USWWW0128833

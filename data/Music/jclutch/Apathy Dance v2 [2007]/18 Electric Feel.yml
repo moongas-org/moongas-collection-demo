@@ -203,3 +203,79 @@ mediaFileData:
   year: 2007
   duration: 229.69475
   modTime: 2026-09-01 01:03:53.596371+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4UsJaNCTEPrQPXlAxJYSBt
+    trackId: 4UsJaNCTEPrQPXlAxJYSBt
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10802072&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE
+              href: https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE
+              id: 0SwO7SWeDHJijQ3XNS7xEE
+              name: MGMT
+              type: artist
+              uri: spotify:artist:0SwO7SWeDHJijQ3XNS7xEE
+            external_urls:
+              spotify: https://open.spotify.com/album/5wj6QWEUEvPnNO3A5QUt4c
+            href: https://api.spotify.com/v1/albums/5wj6QWEUEvPnNO3A5QUt4c
+            id: 5wj6QWEUEvPnNO3A5QUt4c
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738cd8e60c899eae6f2a54704a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028cd8e60c899eae6f2a54704a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518cd8e60c899eae6f2a54704a
+            is_playable: true
+            name: Electric Feel
+            release_date: '2008-06-20'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:5wj6QWEUEvPnNO3A5QUt4c
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE
+            href: https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE
+            id: 0SwO7SWeDHJijQ3XNS7xEE
+            name: MGMT
+            type: artist
+            uri: spotify:artist:0SwO7SWeDHJijQ3XNS7xEE
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O
+            href: https://api.spotify.com/v1/artists/5xeBMeW0YzWIXSVzAxhM8O
+            id: 5xeBMeW0YzWIXSVzAxhM8O
+            name: of Montreal
+            type: artist
+            uri: spotify:artist:5xeBMeW0YzWIXSVzAxhM8O
+          disc_number: 1
+          duration_ms: 259746
+          explicit: false
+          external_ids:
+            isrc: USSM10802072
+          external_urls:
+            spotify: https://open.spotify.com/track/4UsJaNCTEPrQPXlAxJYSBt
+          href: https://api.spotify.com/v1/tracks/4UsJaNCTEPrQPXlAxJYSBt
+          id: 4UsJaNCTEPrQPXlAxJYSBt
+          is_local: false
+          is_playable: true
+          name: Electric Feel - Rasta Wigs Remix
+          track_number: 2
+          type: track
+          uri: spotify:track:4UsJaNCTEPrQPXlAxJYSBt
+    isrc: USSM10802072

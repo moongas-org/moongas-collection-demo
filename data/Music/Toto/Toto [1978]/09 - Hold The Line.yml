@@ -50,3 +50,288 @@ mediaFileData:
   year: 1978
   duration: 238.57632653061225
   modTime: 2025-01-04 15:55:33.287647+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0FCWNwpdob2j5H7oX4PhKJ
+    trackId: 0FCWNwpdob2j5H7oX4PhKJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM17800444&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSSM17800444&type=track
+        offset: 0
+        previous:
+        total: 25
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5N908fN8d6jKcxsFVLxlt3
+            href: https://api.spotify.com/v1/albums/5N908fN8d6jKcxsFVLxlt3
+            id: 5N908fN8d6jKcxsFVLxlt3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27325d1f72611ce3b962e4f9100
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0225d1f72611ce3b962e4f9100
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485125d1f72611ce3b962e4f9100
+            is_playable: true
+            name: "Soirée d'été : Summer Hits Mix 2022"
+            release_date: '2022-07-02'
+            release_date_precision: day
+            total_tracks: 58
+            type: album
+            uri: spotify:album:5N908fN8d6jKcxsFVLxlt3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+            href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+            id: 0PFtn5NtBbbUNbU9EAmIWF
+            name: TOTO
+            type: artist
+            uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+          disc_number: 1
+          duration_ms: 235546
+          explicit: false
+          external_ids:
+            isrc: USSM17800444
+          external_urls:
+            spotify: https://open.spotify.com/track/0FCWNwpdob2j5H7oX4PhKJ
+          href: https://api.spotify.com/v1/tracks/0FCWNwpdob2j5H7oX4PhKJ
+          id: 0FCWNwpdob2j5H7oX4PhKJ
+          is_local: false
+          is_playable: true
+          name: Hold the Line
+          track_number: 25
+          type: track
+          uri: spotify:track:0FCWNwpdob2j5H7oX4PhKJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/21etNoPYIWhfzg2Dv2aTdj
+            href: https://api.spotify.com/v1/albums/21etNoPYIWhfzg2Dv2aTdj
+            id: 21etNoPYIWhfzg2Dv2aTdj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27322630c3021e33b2858b986c2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0222630c3021e33b2858b986c2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485122630c3021e33b2858b986c2
+            is_playable: true
+            name: 50 Classic Rock Favorites
+            release_date: '2014-06-10'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:21etNoPYIWhfzg2Dv2aTdj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+            href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+            id: 0PFtn5NtBbbUNbU9EAmIWF
+            name: TOTO
+            type: artist
+            uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+          disc_number: 1
+          duration_ms: 236133
+          explicit: false
+          external_ids:
+            isrc: USSM17800444
+          external_urls:
+            spotify: https://open.spotify.com/track/4PMGHM0vbmi9VUJDqDS2Ng
+          href: https://api.spotify.com/v1/tracks/4PMGHM0vbmi9VUJDqDS2Ng
+          id: 4PMGHM0vbmi9VUJDqDS2Ng
+          is_local: false
+          is_playable: true
+          name: Hold the Line
+          track_number: 8
+          type: track
+          uri: spotify:track:4PMGHM0vbmi9VUJDqDS2Ng
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+              href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+              id: 0PFtn5NtBbbUNbU9EAmIWF
+              name: TOTO
+              type: artist
+              uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+            external_urls:
+              spotify: https://open.spotify.com/album/5QB4Ykf95muHSKHmc4oOL3
+            href: https://api.spotify.com/v1/albums/5QB4Ykf95muHSKHmc4oOL3
+            id: 5QB4Ykf95muHSKHmc4oOL3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27352cc0969572e48332f0bf982
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0252cc0969572e48332f0bf982
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485152cc0969572e48332f0bf982
+            is_playable: true
+            name: The Essential Toto
+            release_date: '2014-06-23'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:5QB4Ykf95muHSKHmc4oOL3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+            href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+            id: 0PFtn5NtBbbUNbU9EAmIWF
+            name: TOTO
+            type: artist
+            uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+          disc_number: 1
+          duration_ms: 236106
+          explicit: false
+          external_ids:
+            isrc: USSM17800444
+          external_urls:
+            spotify: https://open.spotify.com/track/17arUdDWEinOOVrrVUkEM7
+          href: https://api.spotify.com/v1/tracks/17arUdDWEinOOVrrVUkEM7
+          id: 17arUdDWEinOOVrrVUkEM7
+          is_local: false
+          is_playable: true
+          name: Hold the Line
+          track_number: 4
+          type: track
+          uri: spotify:track:17arUdDWEinOOVrrVUkEM7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+              href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+              id: 0PFtn5NtBbbUNbU9EAmIWF
+              name: TOTO
+              type: artist
+              uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+            external_urls:
+              spotify: https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2
+            href: https://api.spotify.com/v1/albums/5ChYBNgy8o2ps5716s1GH2
+            id: 5ChYBNgy8o2ps5716s1GH2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27324f2b77982c78a9322848d9c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0224f2b77982c78a9322848d9c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485124f2b77982c78a9322848d9c
+            is_playable: true
+            name: 'Greatest Hits: 40 Trips Around The Sun'
+            release_date: '2018-02-09'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:5ChYBNgy8o2ps5716s1GH2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+            href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+            id: 0PFtn5NtBbbUNbU9EAmIWF
+            name: TOTO
+            type: artist
+            uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+          disc_number: 1
+          duration_ms: 236814
+          explicit: false
+          external_ids:
+            isrc: USSM17800444
+          external_urls:
+            spotify: https://open.spotify.com/track/1Cr0L9EsOePPOAoXRTxo1p
+          href: https://api.spotify.com/v1/tracks/1Cr0L9EsOePPOAoXRTxo1p
+          id: 1Cr0L9EsOePPOAoXRTxo1p
+          is_local: false
+          is_playable: true
+          name: Hold the Line
+          track_number: 14
+          type: track
+          uri: spotify:track:1Cr0L9EsOePPOAoXRTxo1p
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+              href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+              id: 0PFtn5NtBbbUNbU9EAmIWF
+              name: TOTO
+              type: artist
+              uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+            external_urls:
+              spotify: https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3
+            href: https://api.spotify.com/v1/albums/1mnu4hYvdwQgZXcNvtJ3D3
+            id: 1mnu4hYvdwQgZXcNvtJ3D3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273105ef588df1ef91bfa811f94
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02105ef588df1ef91bfa811f94
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851105ef588df1ef91bfa811f94
+            is_playable: true
+            name: Toto
+            release_date: '1978-10-10'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1mnu4hYvdwQgZXcNvtJ3D3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+            href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+            id: 0PFtn5NtBbbUNbU9EAmIWF
+            name: TOTO
+            type: artist
+            uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+          disc_number: 1
+          duration_ms: 235552
+          explicit: false
+          external_ids:
+            isrc: USSM17800444
+          external_urls:
+            spotify: https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA
+          href: https://api.spotify.com/v1/tracks/4aVuWgvD0X63hcOCnZtNFA
+          id: 4aVuWgvD0X63hcOCnZtNFA
+          is_local: false
+          is_playable: true
+          name: Hold the Line
+          track_number: 9
+          type: track
+          uri: spotify:track:4aVuWgvD0X63hcOCnZtNFA
+    isrc: USSM17800444

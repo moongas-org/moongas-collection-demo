@@ -69,3 +69,126 @@ mediaFileData:
   year: 2009
   duration: 208.48326530612246
   modTime: 2023-09-30 15:46:00+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1urElMsU9EICjqLgNd7Vj9
+    trackId: 1urElMsU9EICjqLgNd7Vj9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPW0900075&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4
+              href: https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4
+              id: 2Jv5eshHtLycR6R8KQCdc4
+              name: Grizzly Bear
+              type: artist
+              uri: spotify:artist:2Jv5eshHtLycR6R8KQCdc4
+            external_urls:
+              spotify: https://open.spotify.com/album/478RRNLUoCHpChj0xYbiqL
+            href: https://api.spotify.com/v1/albums/478RRNLUoCHpChj0xYbiqL
+            id: 478RRNLUoCHpChj0xYbiqL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c4d70d5e3e379d876e011cd7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c4d70d5e3e379d876e011cd7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c4d70d5e3e379d876e011cd7
+            is_playable: true
+            name: Veckatimest (Deluxe Version)
+            release_date: '2009-11-02'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:478RRNLUoCHpChj0xYbiqL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4
+            href: https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4
+            id: 2Jv5eshHtLycR6R8KQCdc4
+            name: Grizzly Bear
+            type: artist
+            uri: spotify:artist:2Jv5eshHtLycR6R8KQCdc4
+          disc_number: 1
+          duration_ms: 215373
+          explicit: false
+          external_ids:
+            isrc: GBBPW0900075
+          external_urls:
+            spotify: https://open.spotify.com/track/1urElMsU9EICjqLgNd7Vj9
+          href: https://api.spotify.com/v1/tracks/1urElMsU9EICjqLgNd7Vj9
+          id: 1urElMsU9EICjqLgNd7Vj9
+          is_local: false
+          is_playable: true
+          name: Foreground
+          track_number: 12
+          type: track
+          uri: spotify:track:1urElMsU9EICjqLgNd7Vj9
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4
+              href: https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4
+              id: 2Jv5eshHtLycR6R8KQCdc4
+              name: Grizzly Bear
+              type: artist
+              uri: spotify:artist:2Jv5eshHtLycR6R8KQCdc4
+            external_urls:
+              spotify: https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ
+            href: https://api.spotify.com/v1/albums/3XQMgEnLQnOMkFaJA9w6sZ
+            id: 3XQMgEnLQnOMkFaJA9w6sZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aaa83532a319c37f1fb4180c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aaa83532a319c37f1fb4180c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aaa83532a319c37f1fb4180c
+            is_playable: true
+            name: Veckatimest
+            release_date: '2009-05-24'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3XQMgEnLQnOMkFaJA9w6sZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4
+            href: https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4
+            id: 2Jv5eshHtLycR6R8KQCdc4
+            name: Grizzly Bear
+            type: artist
+            uri: spotify:artist:2Jv5eshHtLycR6R8KQCdc4
+          disc_number: 1
+          duration_ms: 215373
+          explicit: false
+          external_ids:
+            isrc: GBBPW0900075
+          external_urls:
+            spotify: https://open.spotify.com/track/4dBfL69e2UtXAJrdAywyOs
+          href: https://api.spotify.com/v1/tracks/4dBfL69e2UtXAJrdAywyOs
+          id: 4dBfL69e2UtXAJrdAywyOs
+          is_local: false
+          is_playable: true
+          name: Foreground
+          track_number: 12
+          type: track
+          uri: spotify:track:4dBfL69e2UtXAJrdAywyOs
+    isrc: GBBPW0900075

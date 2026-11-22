@@ -45,3 +45,126 @@ mediaFileData:
   year: 1990
   duration: 249.912
   modTime: 2024-10-31 21:41:14.786564+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5GDTUjNwfVJJl9h9pMbU5Q
+    trackId: 5GDTUjNwfVJJl9h9pMbU5Q
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19000324&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk
+              href: https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk
+              id: 1IQ2e1buppatiN1bxUVkrk
+              name: Slayer
+              type: artist
+              uri: spotify:artist:1IQ2e1buppatiN1bxUVkrk
+            external_urls:
+              spotify: https://open.spotify.com/album/416nVgqae48Dw0EjD6N4EU
+            href: https://api.spotify.com/v1/albums/416nVgqae48Dw0EjD6N4EU
+            id: 416nVgqae48Dw0EjD6N4EU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731a6dd75dbe003a00b7d580f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021a6dd75dbe003a00b7d580f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511a6dd75dbe003a00b7d580f5
+            is_playable: true
+            name: Seasons In The Abyss
+            release_date: '1990-10-09'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:416nVgqae48Dw0EjD6N4EU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk
+            href: https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk
+            id: 1IQ2e1buppatiN1bxUVkrk
+            name: Slayer
+            type: artist
+            uri: spotify:artist:1IQ2e1buppatiN1bxUVkrk
+          disc_number: 1
+          duration_ms: 249866
+          explicit: true
+          external_ids:
+            isrc: USSM19000324
+          external_urls:
+            spotify: https://open.spotify.com/track/5GDTUjNwfVJJl9h9pMbU5Q
+          href: https://api.spotify.com/v1/tracks/5GDTUjNwfVJJl9h9pMbU5Q
+          id: 5GDTUjNwfVJJl9h9pMbU5Q
+          is_local: false
+          is_playable: true
+          name: Expendable Youth
+          track_number: 4
+          type: track
+          uri: spotify:track:5GDTUjNwfVJJl9h9pMbU5Q
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk
+              href: https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk
+              id: 1IQ2e1buppatiN1bxUVkrk
+              name: Slayer
+              type: artist
+              uri: spotify:artist:1IQ2e1buppatiN1bxUVkrk
+            external_urls:
+              spotify: https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT
+            href: https://api.spotify.com/v1/albums/49QJ9TAWNqZGbFUvadXPgT
+            id: 49QJ9TAWNqZGbFUvadXPgT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c0c12d83c0488024b66c9739
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c0c12d83c0488024b66c9739
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c0c12d83c0488024b66c9739
+            is_playable: true
+            name: Seasons In The Abyss
+            release_date: '1990-10-09'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:49QJ9TAWNqZGbFUvadXPgT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk
+            href: https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk
+            id: 1IQ2e1buppatiN1bxUVkrk
+            name: Slayer
+            type: artist
+            uri: spotify:artist:1IQ2e1buppatiN1bxUVkrk
+          disc_number: 1
+          duration_ms: 249880
+          explicit: true
+          external_ids:
+            isrc: USSM19000324
+          external_urls:
+            spotify: https://open.spotify.com/track/5AU3ke0vodkOXEpGgqX221
+          href: https://api.spotify.com/v1/tracks/5AU3ke0vodkOXEpGgqX221
+          id: 5AU3ke0vodkOXEpGgqX221
+          is_local: false
+          is_playable: true
+          name: Expendable Youth
+          track_number: 4
+          type: track
+          uri: spotify:track:5AU3ke0vodkOXEpGgqX221
+    isrc: USSM19000324

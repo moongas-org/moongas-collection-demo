@@ -41,3 +41,72 @@ mediaFileData:
   year: 1980
   duration: 169.71755102040817
   modTime: 2025-12-28 19:09:31.092107+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1p6r3HAV63WuW3eFPRhefW
+    trackId: 1p6r3HAV63WuW3eFPRhefW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN11400231&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+              href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+              id: 6Sb8EHpZvyjSTT5KD9DjUZ
+              name: Ronnie Milsap
+              type: artist
+              uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+            external_urls:
+              spotify: https://open.spotify.com/album/36o1AAb88I7h2rNKbIaZZY
+            href: https://api.spotify.com/v1/albums/36o1AAb88I7h2rNKbIaZZY
+            id: 36o1AAb88I7h2rNKbIaZZY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731c32fa485a3ddfaccf206d59
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021c32fa485a3ddfaccf206d59
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511c32fa485a3ddfaccf206d59
+            is_playable: true
+            name: Where My Heart Is
+            release_date: '1973-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:36o1AAb88I7h2rNKbIaZZY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+            href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+            id: 6Sb8EHpZvyjSTT5KD9DjUZ
+            name: Ronnie Milsap
+            type: artist
+            uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+          disc_number: 1
+          duration_ms: 169653
+          explicit: false
+          external_ids:
+            isrc: USRN11400231
+          external_urls:
+            spotify: https://open.spotify.com/track/1p6r3HAV63WuW3eFPRhefW
+          href: https://api.spotify.com/v1/tracks/1p6r3HAV63WuW3eFPRhefW
+          id: 1p6r3HAV63WuW3eFPRhefW
+          is_local: false
+          is_playable: true
+          name: I Hate You
+          track_number: 2
+          type: track
+          uri: spotify:track:1p6r3HAV63WuW3eFPRhefW
+    isrc: USRN11400231

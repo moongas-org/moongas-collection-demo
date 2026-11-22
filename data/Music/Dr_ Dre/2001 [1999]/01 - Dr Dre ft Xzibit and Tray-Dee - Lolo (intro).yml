@@ -138,3 +138,79 @@ mediaFileData:
   year: 1999
   duration: 41.733333333333334
   modTime: 2026-10-24 13:48:29.461178+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Ob4tMfNBScGGJPFpxFVpX
+    trackId: 0Ob4tMfNBScGGJPFpxFVpX
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR19915127&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7
+              href: https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7
+              id: 6DPYiyq5kWVQS4RGwxzPC7
+              name: Dr. Dre
+              type: artist
+              uri: spotify:artist:6DPYiyq5kWVQS4RGwxzPC7
+            external_urls:
+              spotify: https://open.spotify.com/album/4zAy084VKE74mjySXPMlaW
+            href: https://api.spotify.com/v1/albums/4zAy084VKE74mjySXPMlaW
+            id: 4zAy084VKE74mjySXPMlaW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cbbcf07e91f38775bfd09da5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cbbcf07e91f38775bfd09da5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cbbcf07e91f38775bfd09da5
+            is_playable: true
+            name: '2001'
+            release_date: '1999-11-16'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:4zAy084VKE74mjySXPMlaW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7
+            href: https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7
+            id: 6DPYiyq5kWVQS4RGwxzPC7
+            name: Dr. Dre
+            type: artist
+            uri: spotify:artist:6DPYiyq5kWVQS4RGwxzPC7
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1H7YmlaE80YqZvehqfca9e
+            href: https://api.spotify.com/v1/artists/1H7YmlaE80YqZvehqfca9e
+            id: 1H7YmlaE80YqZvehqfca9e
+            name: Xzibit & Tray-Dee
+            type: artist
+            uri: spotify:artist:1H7YmlaE80YqZvehqfca9e
+          disc_number: 1
+          duration_ms: 40986
+          explicit: false
+          external_ids:
+            isrc: USIR19915127
+          external_urls:
+            spotify: https://open.spotify.com/track/0Ob4tMfNBScGGJPFpxFVpX
+          href: https://api.spotify.com/v1/tracks/0Ob4tMfNBScGGJPFpxFVpX
+          id: 0Ob4tMfNBScGGJPFpxFVpX
+          is_local: false
+          is_playable: true
+          name: Lolo (Intro) - Album Version (Edited)
+          track_number: 1
+          type: track
+          uri: spotify:track:0Ob4tMfNBScGGJPFpxFVpX
+    isrc: USIR19915127

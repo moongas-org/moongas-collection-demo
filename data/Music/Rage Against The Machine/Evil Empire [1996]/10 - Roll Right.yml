@@ -48,3 +48,72 @@ mediaFileData:
   year: 1996
   duration: 262.53333333333336
   modTime: 2025-12-09 03:04:57.220626+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5tYosD9TicWDYO3kAE4ADp
+    trackId: 5tYosD9TicWDYO3kAE4ADp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19502595&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj
+              href: https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj
+              id: 2d0hyoQ5ynDBnkvAbJKORj
+              name: Rage Against The Machine
+              type: artist
+              uri: spotify:artist:2d0hyoQ5ynDBnkvAbJKORj
+            external_urls:
+              spotify: https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF
+            href: https://api.spotify.com/v1/albums/24E6rDvGDuYFjlGewp4ntF
+            id: 24E6rDvGDuYFjlGewp4ntF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273053f006079bce979e5fef1e1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02053f006079bce979e5fef1e1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851053f006079bce979e5fef1e1
+            is_playable: true
+            name: Evil Empire
+            release_date: '1996-04-16'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:24E6rDvGDuYFjlGewp4ntF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj
+            href: https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj
+            id: 2d0hyoQ5ynDBnkvAbJKORj
+            name: Rage Against The Machine
+            type: artist
+            uri: spotify:artist:2d0hyoQ5ynDBnkvAbJKORj
+          disc_number: 1
+          duration_ms: 260266
+          explicit: true
+          external_ids:
+            isrc: USSM19502595
+          external_urls:
+            spotify: https://open.spotify.com/track/5tYosD9TicWDYO3kAE4ADp
+          href: https://api.spotify.com/v1/tracks/5tYosD9TicWDYO3kAE4ADp
+          id: 5tYosD9TicWDYO3kAE4ADp
+          is_local: false
+          is_playable: true
+          name: Roll Right
+          track_number: 10
+          type: track
+          uri: spotify:track:5tYosD9TicWDYO3kAE4ADp
+    isrc: USSM19502595

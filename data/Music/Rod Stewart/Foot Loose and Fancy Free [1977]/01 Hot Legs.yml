@@ -67,3 +67,72 @@ mediaFileData:
   year: 1977
   duration: 254.22666666666666
   modTime: 2024-01-04 01:01:56.064484+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0KF0Y0MXsIdyu9BPJ7Onu8
+    trackId: 0KF0Y0MXsIdyu9BPJ7Onu8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10808523&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT
+              href: https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT
+              id: 2y8Jo9CKhJvtfeKOsYzRdT
+              name: Rod Stewart
+              type: artist
+              uri: spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT
+            external_urls:
+              spotify: https://open.spotify.com/album/5iYesFk6UnZ9Mjj9jU7ZkM
+            href: https://api.spotify.com/v1/albums/5iYesFk6UnZ9Mjj9jU7ZkM
+            id: 5iYesFk6UnZ9Mjj9jU7ZkM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b22b085c2e53ed6d08a5da62
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b22b085c2e53ed6d08a5da62
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b22b085c2e53ed6d08a5da62
+            is_playable: true
+            name: Unplugged....And Seated
+            release_date: '1993-05-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:5iYesFk6UnZ9Mjj9jU7ZkM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT
+            href: https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT
+            id: 2y8Jo9CKhJvtfeKOsYzRdT
+            name: Rod Stewart
+            type: artist
+            uri: spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT
+          disc_number: 1
+          duration_ms: 264960
+          explicit: false
+          external_ids:
+            isrc: USWB10808523
+          external_urls:
+            spotify: https://open.spotify.com/track/0KF0Y0MXsIdyu9BPJ7Onu8
+          href: https://api.spotify.com/v1/tracks/0KF0Y0MXsIdyu9BPJ7Onu8
+          id: 0KF0Y0MXsIdyu9BPJ7Onu8
+          is_local: false
+          is_playable: true
+          name: Hot Legs - Live Unplugged; 2008 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:0KF0Y0MXsIdyu9BPJ7Onu8
+    isrc: USWB10808523

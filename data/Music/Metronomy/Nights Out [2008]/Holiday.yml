@@ -45,3 +45,126 @@ mediaFileData:
   year: 2008
   duration: 256.5747
   modTime: 2023-05-15 21:50:46+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0tdmZr8NLTCney1fW5scXO
+    trackId: 0tdmZr8NLTCney1fW5scXO
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBMVH0800022&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX
+              href: https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX
+              id: 54QMjE4toDfiCryzYWCpXX
+              name: Metronomy
+              type: artist
+              uri: spotify:artist:54QMjE4toDfiCryzYWCpXX
+            external_urls:
+              spotify: https://open.spotify.com/album/2lREW5Vbyy6CiNwkN6JtS4
+            href: https://api.spotify.com/v1/albums/2lREW5Vbyy6CiNwkN6JtS4
+            id: 2lREW5Vbyy6CiNwkN6JtS4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e28fa05d81362d4f35c2933d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e28fa05d81362d4f35c2933d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e28fa05d81362d4f35c2933d
+            is_playable: true
+            name: Nights Out
+            release_date: '2008-09-08'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:2lREW5Vbyy6CiNwkN6JtS4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX
+            href: https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX
+            id: 54QMjE4toDfiCryzYWCpXX
+            name: Metronomy
+            type: artist
+            uri: spotify:artist:54QMjE4toDfiCryzYWCpXX
+          disc_number: 1
+          duration_ms: 256519
+          explicit: false
+          external_ids:
+            isrc: GBMVH0800022
+          external_urls:
+            spotify: https://open.spotify.com/track/0tdmZr8NLTCney1fW5scXO
+          href: https://api.spotify.com/v1/tracks/0tdmZr8NLTCney1fW5scXO
+          id: 0tdmZr8NLTCney1fW5scXO
+          is_local: false
+          is_playable: true
+          name: Holiday
+          track_number: 8
+          type: track
+          uri: spotify:track:0tdmZr8NLTCney1fW5scXO
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX
+              href: https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX
+              id: 54QMjE4toDfiCryzYWCpXX
+              name: Metronomy
+              type: artist
+              uri: spotify:artist:54QMjE4toDfiCryzYWCpXX
+            external_urls:
+              spotify: https://open.spotify.com/album/20rYHddntWWi5HCfvmjnZ6
+            href: https://api.spotify.com/v1/albums/20rYHddntWWi5HCfvmjnZ6
+            id: 20rYHddntWWi5HCfvmjnZ6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27329c22ad3c8c39a8cf3bc656c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0229c22ad3c8c39a8cf3bc656c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485129c22ad3c8c39a8cf3bc656c
+            is_playable: true
+            name: Nights Out (10th Anniversary Edition)
+            release_date: '2019-02-08'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:20rYHddntWWi5HCfvmjnZ6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX
+            href: https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX
+            id: 54QMjE4toDfiCryzYWCpXX
+            name: Metronomy
+            type: artist
+            uri: spotify:artist:54QMjE4toDfiCryzYWCpXX
+          disc_number: 1
+          duration_ms: 254506
+          explicit: false
+          external_ids:
+            isrc: GBMVH0800022
+          external_urls:
+            spotify: https://open.spotify.com/track/0BmLnTbFuzmSD88GN1bei9
+          href: https://api.spotify.com/v1/tracks/0BmLnTbFuzmSD88GN1bei9
+          id: 0BmLnTbFuzmSD88GN1bei9
+          is_local: false
+          is_playable: true
+          name: Holiday
+          track_number: 8
+          type: track
+          uri: spotify:track:0BmLnTbFuzmSD88GN1bei9
+    isrc: GBMVH0800022

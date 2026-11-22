@@ -48,3 +48,72 @@ mediaFileData:
   year: 2004
   duration: 316.5779375
   modTime: 2023-05-14 01:07:59.160000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ACuuhi7HqLqlJvwvhG4az
+    trackId: 1ACuuhi7HqLqlJvwvhG4az
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEP40406112&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN
+              href: https://api.spotify.com/v1/artists/5n71fmAB8Un2IfAPn64erN
+              id: 5n71fmAB8Un2IfAPn64erN
+              name: From First To Last
+              type: artist
+              uri: spotify:artist:5n71fmAB8Un2IfAPn64erN
+            external_urls:
+              spotify: https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS
+            href: https://api.spotify.com/v1/albums/0Q6C8p6g47jEOU6G7SoRrS
+            id: 0Q6C8p6g47jEOU6G7SoRrS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e4144506ed8ed561e3d518d4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e4144506ed8ed561e3d518d4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e4144506ed8ed561e3d518d4
+            is_playable: true
+            name: Dear Diary, My Teen Angst Has A Body Count
+            release_date: '2004-06-29'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0Q6C8p6g47jEOU6G7SoRrS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN
+            href: https://api.spotify.com/v1/artists/5n71fmAB8Un2IfAPn64erN
+            id: 5n71fmAB8Un2IfAPn64erN
+            name: From First To Last
+            type: artist
+            uri: spotify:artist:5n71fmAB8Un2IfAPn64erN
+          disc_number: 1
+          duration_ms: 316298
+          explicit: true
+          external_ids:
+            isrc: USEP40406112
+          external_urls:
+            spotify: https://open.spotify.com/track/1ACuuhi7HqLqlJvwvhG4az
+          href: https://api.spotify.com/v1/tracks/1ACuuhi7HqLqlJvwvhG4az
+          id: 1ACuuhi7HqLqlJvwvhG4az
+          is_local: false
+          is_playable: true
+          name: (Untitled Hidden Track)
+          track_number: 12
+          type: track
+          uri: spotify:track:1ACuuhi7HqLqlJvwvhG4az
+    isrc: USEP40406112

@@ -90,3 +90,288 @@ mediaFileData:
   year: 1989
   duration: 168.72
   modTime: 2025-06-20 01:36:30.461043+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3j3eQtNKy0DcIKAeO5LusS
+    trackId: 3j3eQtNKy0DcIKAeO5LusS
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM17600395&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSSM17600395&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/4T63Qbog5LdXhbZ9czS1jq
+            href: https://api.spotify.com/v1/albums/4T63Qbog5LdXhbZ9czS1jq
+            id: 4T63Qbog5LdXhbZ9czS1jq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27305e5aa74b96a68e06b0b9dbf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0205e5aa74b96a68e06b0b9dbf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485105e5aa74b96a68e06b0b9dbf
+            is_playable: true
+            name: "Don't Fear The Reaper: The Best Of Blue Öyster Cult"
+            release_date: '2000-02-08'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4T63Qbog5LdXhbZ9czS1jq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 1
+          duration_ms: 141595
+          explicit: false
+          external_ids:
+            isrc: USSM17600395
+          external_urls:
+            spotify: https://open.spotify.com/track/3j3eQtNKy0DcIKAeO5LusS
+          href: https://api.spotify.com/v1/tracks/3j3eQtNKy0DcIKAeO5LusS
+          id: 3j3eQtNKy0DcIKAeO5LusS
+          is_local: false
+          is_playable: true
+          name: This Ain't the Summer of Love
+          track_number: 5
+          type: track
+          uri: spotify:track:3j3eQtNKy0DcIKAeO5LusS
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/4pTbbfgN4d6uIFeAFHd6YK
+            href: https://api.spotify.com/v1/albums/4pTbbfgN4d6uIFeAFHd6YK
+            id: 4pTbbfgN4d6uIFeAFHd6YK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27363995afb2e7dbfb7e690f457
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0263995afb2e7dbfb7e690f457
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485163995afb2e7dbfb7e690f457
+            is_playable: true
+            name: Agents Of Fortune
+            release_date: '1976'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4pTbbfgN4d6uIFeAFHd6YK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 1
+          duration_ms: 140934
+          explicit: false
+          external_ids:
+            isrc: USSM17600395
+          external_urls:
+            spotify: https://open.spotify.com/track/7MYisu8dKQknzKGUj70nIa
+          href: https://api.spotify.com/v1/tracks/7MYisu8dKQknzKGUj70nIa
+          id: 7MYisu8dKQknzKGUj70nIa
+          is_local: false
+          is_playable: true
+          name: This Ain't the Summer of Love
+          track_number: 1
+          type: track
+          uri: spotify:track:7MYisu8dKQknzKGUj70nIa
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/1o9TMN2XPBFHZ5WaFyWS9I
+            href: https://api.spotify.com/v1/albums/1o9TMN2XPBFHZ5WaFyWS9I
+            id: 1o9TMN2XPBFHZ5WaFyWS9I
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27366c663a8a6fa3c4e779357cf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0266c663a8a6fa3c4e779357cf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485166c663a8a6fa3c4e779357cf
+            is_playable: true
+            name: Agents Of Fortune
+            release_date: '1976'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1o9TMN2XPBFHZ5WaFyWS9I
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 1
+          duration_ms: 140934
+          explicit: false
+          external_ids:
+            isrc: USSM17600395
+          external_urls:
+            spotify: https://open.spotify.com/track/5SKGzUNfKVtBLEw6zKImxq
+          href: https://api.spotify.com/v1/tracks/5SKGzUNfKVtBLEw6zKImxq
+          id: 5SKGzUNfKVtBLEw6zKImxq
+          is_local: false
+          is_playable: true
+          name: This Ain't the Summer of Love
+          track_number: 1
+          type: track
+          uri: spotify:track:5SKGzUNfKVtBLEw6zKImxq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/7vc9v4YRB8a2UhJ6SdMhAr
+            href: https://api.spotify.com/v1/albums/7vc9v4YRB8a2UhJ6SdMhAr
+            id: 7vc9v4YRB8a2UhJ6SdMhAr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732571f1a31a22de3af074d542
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022571f1a31a22de3af074d542
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512571f1a31a22de3af074d542
+            is_playable: true
+            name: The Essential Blue Öyster Cult
+            release_date: '2012-04-17'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:7vc9v4YRB8a2UhJ6SdMhAr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 2
+          duration_ms: 142121
+          explicit: false
+          external_ids:
+            isrc: USSM17600395
+          external_urls:
+            spotify: https://open.spotify.com/track/17bMJiTz0h6DEM5Nf6M6GJ
+          href: https://api.spotify.com/v1/tracks/17bMJiTz0h6DEM5Nf6M6GJ
+          id: 17bMJiTz0h6DEM5Nf6M6GJ
+          is_local: false
+          is_playable: true
+          name: This Ain't the Summer of Love
+          track_number: 2
+          type: track
+          uri: spotify:track:17bMJiTz0h6DEM5Nf6M6GJ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt
+            href: https://api.spotify.com/v1/albums/6C9WzlQANeoD0GW5B41YJt
+            id: 6C9WzlQANeoD0GW5B41YJt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aa802dc9f870e66a8bb6a2a2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aa802dc9f870e66a8bb6a2a2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aa802dc9f870e66a8bb6a2a2
+            is_playable: true
+            name: Agents Of Fortune
+            release_date: '1976'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6C9WzlQANeoD0GW5B41YJt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 1
+          duration_ms: 140934
+          explicit: false
+          external_ids:
+            isrc: USSM17600395
+          external_urls:
+            spotify: https://open.spotify.com/track/1lyzM8ksTZShD51uQVt8zW
+          href: https://api.spotify.com/v1/tracks/1lyzM8ksTZShD51uQVt8zW
+          id: 1lyzM8ksTZShD51uQVt8zW
+          is_local: false
+          is_playable: true
+          name: This Ain't the Summer of Love
+          track_number: 1
+          type: track
+          uri: spotify:track:1lyzM8ksTZShD51uQVt8zW
+    isrc: USSM17600395

@@ -34,3 +34,72 @@ mediaFileData:
   year: 1997
   duration: 159.94775510204082
   modTime: 2025-04-11 18:51:55.344811+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4uRukoG0w843mZrqiP6UBp
+    trackId: 4uRukoG0w843mZrqiP6UBp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ATCAEO1943998&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp
+              href: https://api.spotify.com/v1/artists/5mgr0FFpvy267wKVAYg8qp
+              id: 5mgr0FFpvy267wKVAYg8qp
+              name: Lit
+              type: artist
+              uri: spotify:artist:5mgr0FFpvy267wKVAYg8qp
+            external_urls:
+              spotify: https://open.spotify.com/album/4apOI0UlxI2OjJX86MHl2F
+            href: https://api.spotify.com/v1/albums/4apOI0UlxI2OjJX86MHl2F
+            id: 4apOI0UlxI2OjJX86MHl2F
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27335b6f2f36b2abbb57bd06204
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0235b6f2f36b2abbb57bd06204
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485135b6f2f36b2abbb57bd06204
+            is_playable: true
+            name: Tripping the Light Fantastic
+            release_date: '1997-04-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4apOI0UlxI2OjJX86MHl2F
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp
+            href: https://api.spotify.com/v1/artists/5mgr0FFpvy267wKVAYg8qp
+            id: 5mgr0FFpvy267wKVAYg8qp
+            name: Lit
+            type: artist
+            uri: spotify:artist:5mgr0FFpvy267wKVAYg8qp
+          disc_number: 1
+          duration_ms: 159866
+          explicit: false
+          external_ids:
+            isrc: TCAEO1943998
+          external_urls:
+            spotify: https://open.spotify.com/track/4uRukoG0w843mZrqiP6UBp
+          href: https://api.spotify.com/v1/tracks/4uRukoG0w843mZrqiP6UBp
+          id: 4uRukoG0w843mZrqiP6UBp
+          is_local: false
+          is_playable: true
+          name: No Big Thing
+          track_number: 4
+          type: track
+          uri: spotify:track:4uRukoG0w843mZrqiP6UBp
+    isrc: TCAEO1943998

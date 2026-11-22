@@ -50,3 +50,72 @@ mediaFileData:
   year: 1991
   duration: 294.72
   modTime: 2023-10-01 16:24:26+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/79Xysm5TQ76VCN8SoKjsjg
+    trackId: 79Xysm5TQ76VCN8SoKjsjg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBLY1903579&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/1fXVU5vabGWNJrOU4NkLzl
+            href: https://api.spotify.com/v1/albums/1fXVU5vabGWNJrOU4NkLzl
+            id: 1fXVU5vabGWNJrOU4NkLzl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735945af81c73eb543b9090362
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025945af81c73eb543b9090362
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515945af81c73eb543b9090362
+            is_playable: true
+            name: Green Mind (2019 Expanded & Remastered Edition)
+            release_date: '1991-02-19'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:1fXVU5vabGWNJrOU4NkLzl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 1
+          duration_ms: 311186
+          explicit: false
+          external_ids:
+            isrc: GBBLY1903579
+          external_urls:
+            spotify: https://open.spotify.com/track/79Xysm5TQ76VCN8SoKjsjg
+          href: https://api.spotify.com/v1/tracks/79Xysm5TQ76VCN8SoKjsjg
+          id: 79Xysm5TQ76VCN8SoKjsjg
+          is_local: false
+          is_playable: true
+          name: The Wagon - Live, Hollywood Palladium, 14 June 1991
+          track_number: 21
+          type: track
+          uri: spotify:track:79Xysm5TQ76VCN8SoKjsjg
+    isrc: GBBLY1903579

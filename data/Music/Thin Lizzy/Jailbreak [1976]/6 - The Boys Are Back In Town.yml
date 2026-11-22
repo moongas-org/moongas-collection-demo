@@ -121,3 +121,72 @@ mediaFileData:
   year: 1976
   duration: 270.024
   modTime: 2024-08-12 22:41:46.220277+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0mH67FHjT621UYJ8wjANCd
+    trackId: 0mH67FHjT621UYJ8wjANCd
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71031095&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ
+              href: https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ
+              id: 6biWAmrHyiMkX49LkycGqQ
+              name: Thin Lizzy
+              type: artist
+              uri: spotify:artist:6biWAmrHyiMkX49LkycGqQ
+            external_urls:
+              spotify: https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2
+            href: https://api.spotify.com/v1/albums/6Cf545T4jkaiyvMnTRPOB2
+            id: 6Cf545T4jkaiyvMnTRPOB2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e8f69ab903901064b1f19249
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e8f69ab903901064b1f19249
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e8f69ab903901064b1f19249
+            is_playable: true
+            name: Jailbreak (Deluxe Edition)
+            release_date: '1976'
+            release_date_precision: year
+            total_tracks: 20
+            type: album
+            uri: spotify:album:6Cf545T4jkaiyvMnTRPOB2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ
+            href: https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ
+            id: 6biWAmrHyiMkX49LkycGqQ
+            name: Thin Lizzy
+            type: artist
+            uri: spotify:artist:6biWAmrHyiMkX49LkycGqQ
+          disc_number: 2
+          duration_ms: 271973
+          explicit: false
+          external_ids:
+            isrc: GBUM71031095
+          external_urls:
+            spotify: https://open.spotify.com/track/0mH67FHjT621UYJ8wjANCd
+          href: https://api.spotify.com/v1/tracks/0mH67FHjT621UYJ8wjANCd
+          id: 0mH67FHjT621UYJ8wjANCd
+          is_local: false
+          is_playable: true
+          name: The Boys Are Back In Town - Alt Vocal Re-mix Version
+          track_number: 3
+          type: track
+          uri: spotify:track:0mH67FHjT621UYJ8wjANCd
+    isrc: GBUM71031095

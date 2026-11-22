@@ -61,3 +61,126 @@ mediaFileData:
   year: 1987
   duration: 262.060375
   modTime: 2023-07-17 00:00:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3nLCzEMWgmbvM95xP5WVRw
+    trackId: 3nLCzEMWgmbvM95xP5WVRw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRZ058700010&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+              href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+              id: 7knmbOGe07k85GmK50vACB
+              name: Indochine
+              type: artist
+              uri: spotify:artist:7knmbOGe07k85GmK50vACB
+            external_urls:
+              spotify: https://open.spotify.com/album/0qIZI5w3O6KKEhthwJyoNV
+            href: https://api.spotify.com/v1/albums/0qIZI5w3O6KKEhthwJyoNV
+            id: 0qIZI5w3O6KKEhthwJyoNV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ef067e5efd8358cf362835ea
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ef067e5efd8358cf362835ea
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ef067e5efd8358cf362835ea
+            is_playable: true
+            name: Le Birthday album
+            release_date: '1991-10-28'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:0qIZI5w3O6KKEhthwJyoNV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+            href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+            id: 7knmbOGe07k85GmK50vACB
+            name: Indochine
+            type: artist
+            uri: spotify:artist:7knmbOGe07k85GmK50vACB
+          disc_number: 1
+          duration_ms: 263306
+          explicit: false
+          external_ids:
+            isrc: FRZ058700010
+          external_urls:
+            spotify: https://open.spotify.com/track/3nLCzEMWgmbvM95xP5WVRw
+          href: https://api.spotify.com/v1/tracks/3nLCzEMWgmbvM95xP5WVRw
+          id: 3nLCzEMWgmbvM95xP5WVRw
+          is_local: false
+          is_playable: true
+          name: La chevauchée des champs de blé
+          track_number: 11
+          type: track
+          uri: spotify:track:3nLCzEMWgmbvM95xP5WVRw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+              href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+              id: 7knmbOGe07k85GmK50vACB
+              name: Indochine
+              type: artist
+              uri: spotify:artist:7knmbOGe07k85GmK50vACB
+            external_urls:
+              spotify: https://open.spotify.com/album/0vq46Jm7MgvO3AoVR6qhry
+            href: https://api.spotify.com/v1/albums/0vq46Jm7MgvO3AoVR6qhry
+            id: 0vq46Jm7MgvO3AoVR6qhry
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734f9ce7c576b76e477d2cae3e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024f9ce7c576b76e477d2cae3e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514f9ce7c576b76e477d2cae3e
+            is_playable: true
+            name: Unita (Best Of)
+            release_date: '1996-02-19'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0vq46Jm7MgvO3AoVR6qhry
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+            href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+            id: 7knmbOGe07k85GmK50vACB
+            name: Indochine
+            type: artist
+            uri: spotify:artist:7knmbOGe07k85GmK50vACB
+          disc_number: 1
+          duration_ms: 262373
+          explicit: false
+          external_ids:
+            isrc: FRZ058700010
+          external_urls:
+            spotify: https://open.spotify.com/track/0fgPHZHJTyfAKCiwwEAwMv
+          href: https://api.spotify.com/v1/tracks/0fgPHZHJTyfAKCiwwEAwMv
+          id: 0fgPHZHJTyfAKCiwwEAwMv
+          is_local: false
+          is_playable: true
+          name: La chevauchée des champs de blé
+          track_number: 6
+          type: track
+          uri: spotify:track:0fgPHZHJTyfAKCiwwEAwMv
+    isrc: FRZ058700010

@@ -69,3 +69,72 @@ mediaFileData:
   year: 1996
   duration: 307.409
   modTime: 2025-01-11 01:01:17.475540+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4E9ghmWLpPrr6C0kRP1SgU
+    trackId: 4E9ghmWLpPrr6C0kRP1SgU
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM72307405&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+              href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+              id: 7t0rwkOPGlDPEhaOcVtOt9
+              name: The Cranberries
+              type: artist
+              uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+            external_urls:
+              spotify: https://open.spotify.com/album/44VTFJKruvFCS3solylzrP
+            href: https://api.spotify.com/v1/albums/44VTFJKruvFCS3solylzrP
+            id: 44VTFJKruvFCS3solylzrP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738e581b87674e4a51ac790c67
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028e581b87674e4a51ac790c67
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518e581b87674e4a51ac790c67
+            is_playable: true
+            name: To The Faithful Departed (Deluxe Edition)
+            release_date: '2023-09-15'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:44VTFJKruvFCS3solylzrP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+            href: https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9
+            id: 7t0rwkOPGlDPEhaOcVtOt9
+            name: The Cranberries
+            type: artist
+            uri: spotify:artist:7t0rwkOPGlDPEhaOcVtOt9
+          disc_number: 3
+          duration_ms: 311586
+          explicit: false
+          external_ids:
+            isrc: USUM72307405
+          external_urls:
+            spotify: https://open.spotify.com/track/4E9ghmWLpPrr6C0kRP1SgU
+          href: https://api.spotify.com/v1/tracks/4E9ghmWLpPrr6C0kRP1SgU
+          id: 4E9ghmWLpPrr6C0kRP1SgU
+          is_local: false
+          is_playable: true
+          name: Hollywood - Live in Detroit/1996
+          track_number: 9
+          type: track
+          uri: spotify:track:4E9ghmWLpPrr6C0kRP1SgU
+    isrc: USUM72307405

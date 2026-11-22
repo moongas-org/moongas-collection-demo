@@ -42,3 +42,72 @@ mediaFileData:
   year: 2000
   duration: 217.4694
   modTime: 2025-12-09 03:02:11.387446+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7fsNscBdk14nVSkAIFIK5L
+    trackId: 7fsNscBdk14nVSkAIFIK5L
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBS50310071&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx
+              href: https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx
+              id: 0YrtvWJMgSdVrk3SfNjTbx
+              name: Death Cab for Cutie
+              type: artist
+              uri: spotify:artist:0YrtvWJMgSdVrk3SfNjTbx
+            external_urls:
+              spotify: https://open.spotify.com/album/1oUL840sk84LVL8ExFKLXp
+            href: https://api.spotify.com/v1/albums/1oUL840sk84LVL8ExFKLXp
+            id: 1oUL840sk84LVL8ExFKLXp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273962aedd3ee6c0c214f170327
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02962aedd3ee6c0c214f170327
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851962aedd3ee6c0c214f170327
+            is_playable: true
+            name: We Have the Facts and We're Voting Yes
+            release_date: '2000-03-21'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1oUL840sk84LVL8ExFKLXp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx
+            href: https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx
+            id: 0YrtvWJMgSdVrk3SfNjTbx
+            name: Death Cab for Cutie
+            type: artist
+            uri: spotify:artist:0YrtvWJMgSdVrk3SfNjTbx
+          disc_number: 1
+          duration_ms: 228706
+          explicit: false
+          external_ids:
+            isrc: USBS50310071
+          external_urls:
+            spotify: https://open.spotify.com/track/7fsNscBdk14nVSkAIFIK5L
+          href: https://api.spotify.com/v1/tracks/7fsNscBdk14nVSkAIFIK5L
+          id: 7fsNscBdk14nVSkAIFIK5L
+          is_local: false
+          is_playable: true
+          name: Little Fury Bugs
+          track_number: 6
+          type: track
+          uri: spotify:track:7fsNscBdk14nVSkAIFIK5L
+    isrc: USBS50310071

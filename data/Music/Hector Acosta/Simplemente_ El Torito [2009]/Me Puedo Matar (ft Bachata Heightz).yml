@@ -36,3 +36,79 @@ mediaFileData:
   year: 2009
   duration: 264.072
   modTime: 2023-10-06 15:29:46+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4EzRYdHmOmUB7KXz1Dq8Ny
+    trackId: 4EzRYdHmOmUB7KXz1Dq8Ny
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ATCACU1605127&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL
+              href: https://api.spotify.com/v1/artists/5zvRX0y0JYtGOmGJwLwyIL
+              id: 5zvRX0y0JYtGOmGJwLwyIL
+              name: Bachata Heightz
+              type: artist
+              uri: spotify:artist:5zvRX0y0JYtGOmGJwLwyIL
+            external_urls:
+              spotify: https://open.spotify.com/album/4L4d1jbXYP3LjkV0llQ9tv
+            href: https://api.spotify.com/v1/albums/4L4d1jbXYP3LjkV0llQ9tv
+            id: 4L4d1jbXYP3LjkV0llQ9tv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731043e4efa04a59b3c5370398
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021043e4efa04a59b3c5370398
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511043e4efa04a59b3c5370398
+            is_playable: true
+            name: Me Puedo Matar (feat. Hector "El Torito" Acosta)
+            release_date: '2016-11-25'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:4L4d1jbXYP3LjkV0llQ9tv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL
+            href: https://api.spotify.com/v1/artists/5zvRX0y0JYtGOmGJwLwyIL
+            id: 5zvRX0y0JYtGOmGJwLwyIL
+            name: Bachata Heightz
+            type: artist
+            uri: spotify:artist:5zvRX0y0JYtGOmGJwLwyIL
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn
+            href: https://api.spotify.com/v1/artists/4TCAAIMmeZXCTVlHUsicOn
+            id: 4TCAAIMmeZXCTVlHUsicOn
+            name: Héctor Acosta "El Torito"
+            type: artist
+            uri: spotify:artist:4TCAAIMmeZXCTVlHUsicOn
+          disc_number: 1
+          duration_ms: 262321
+          explicit: false
+          external_ids:
+            isrc: TCACU1605127
+          external_urls:
+            spotify: https://open.spotify.com/track/4EzRYdHmOmUB7KXz1Dq8Ny
+          href: https://api.spotify.com/v1/tracks/4EzRYdHmOmUB7KXz1Dq8Ny
+          id: 4EzRYdHmOmUB7KXz1Dq8Ny
+          is_local: false
+          is_playable: true
+          name: Me Puedo Matar (feat. Hector "El Torito" Acosta)
+          track_number: 1
+          type: track
+          uri: spotify:track:4EzRYdHmOmUB7KXz1Dq8Ny
+    isrc: TCACU1605127

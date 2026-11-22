@@ -73,3 +73,323 @@ mediaFileData:
   year: 2007
   duration: 230.352
   modTime: 2023-09-10 23:14:02+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES
+    trackId: 1tkMs9wDPknQ3ZHcKDw1ES
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJI10700121&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSJI10700121&type=track
+        offset: 0
+        previous:
+        total: 11
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+              href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+              id: 3aQeKQSyrW4qWr35idm0cy
+              name: T-Pain
+              type: artist
+              uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+            external_urls:
+              spotify: https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h
+            href: https://api.spotify.com/v1/albums/6CrSEKCF4TYrbSIitegb3h
+            id: 6CrSEKCF4TYrbSIitegb3h
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273baf2f329d4feeb19761eddf4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02baf2f329d4feeb19761eddf4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851baf2f329d4feeb19761eddf4
+            is_playable: true
+            name: Epiphany (Expanded Edition)
+            release_date: '2007-06-05'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:6CrSEKCF4TYrbSIitegb3h
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+            href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+            id: 3aQeKQSyrW4qWr35idm0cy
+            name: T-Pain
+            type: artist
+            uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj
+            href: https://api.spotify.com/v1/artists/23LbwefIODbyGdRbAz3urj
+            id: 23LbwefIODbyGdRbAz3urj
+            name: Yung Joc
+            type: artist
+            uri: spotify:artist:23LbwefIODbyGdRbAz3urj
+          disc_number: 1
+          duration_ms: 227960
+          explicit: false
+          external_ids:
+            isrc: USJI10700121
+          external_urls:
+            spotify: https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES
+          href: https://api.spotify.com/v1/tracks/1tkMs9wDPknQ3ZHcKDw1ES
+          id: 1tkMs9wDPknQ3ZHcKDw1ES
+          is_local: false
+          is_playable: true
+          name: Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
+          track_number: 12
+          type: track
+          uri: spotify:track:1tkMs9wDPknQ3ZHcKDw1ES
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+              href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+              id: 3aQeKQSyrW4qWr35idm0cy
+              name: T-Pain
+              type: artist
+              uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+            external_urls:
+              spotify: https://open.spotify.com/album/0UNaWE9ZkjpK0jPdMu54tv
+            href: https://api.spotify.com/v1/albums/0UNaWE9ZkjpK0jPdMu54tv
+            id: 0UNaWE9ZkjpK0jPdMu54tv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a79511ee1be99f1d8aaa406a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a79511ee1be99f1d8aaa406a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a79511ee1be99f1d8aaa406a
+            is_playable: true
+            name: 'Happy Hour: The Greatest Hits'
+            release_date: '2014'
+            release_date_precision: year
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0UNaWE9ZkjpK0jPdMu54tv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+            href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+            id: 3aQeKQSyrW4qWr35idm0cy
+            name: T-Pain
+            type: artist
+            uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj
+            href: https://api.spotify.com/v1/artists/23LbwefIODbyGdRbAz3urj
+            id: 23LbwefIODbyGdRbAz3urj
+            name: Yung Joc
+            type: artist
+            uri: spotify:artist:23LbwefIODbyGdRbAz3urj
+          disc_number: 1
+          duration_ms: 230786
+          explicit: false
+          external_ids:
+            isrc: USJI10700121
+          external_urls:
+            spotify: https://open.spotify.com/track/64VSAE1Q5xdkweKwkGXxgW
+          href: https://api.spotify.com/v1/tracks/64VSAE1Q5xdkweKwkGXxgW
+          id: 64VSAE1Q5xdkweKwkGXxgW
+          is_local: false
+          is_playable: true
+          name: Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
+          track_number: 5
+          type: track
+          uri: spotify:track:64VSAE1Q5xdkweKwkGXxgW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4u278Q5NjKqxMnYWH1uwfu
+            href: https://api.spotify.com/v1/albums/4u278Q5NjKqxMnYWH1uwfu
+            id: 4u278Q5NjKqxMnYWH1uwfu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c68be76ce8cfa8fa92ada465
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c68be76ce8cfa8fa92ada465
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c68be76ce8cfa8fa92ada465
+            is_playable: true
+            name: 2000s R&B Classics - Top R&B Tracks From 1999-2009
+            release_date: '2025-01-17'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:4u278Q5NjKqxMnYWH1uwfu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+            href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+            id: 3aQeKQSyrW4qWr35idm0cy
+            name: T-Pain
+            type: artist
+            uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj
+            href: https://api.spotify.com/v1/artists/23LbwefIODbyGdRbAz3urj
+            id: 23LbwefIODbyGdRbAz3urj
+            name: Yung Joc
+            type: artist
+            uri: spotify:artist:23LbwefIODbyGdRbAz3urj
+          disc_number: 1
+          duration_ms: 227960
+          explicit: false
+          external_ids:
+            isrc: USJI10700121
+          external_urls:
+            spotify: https://open.spotify.com/track/1M5UINBYsVLnm5Kqv4Deta
+          href: https://api.spotify.com/v1/tracks/1M5UINBYsVLnm5Kqv4Deta
+          id: 1M5UINBYsVLnm5Kqv4Deta
+          is_local: false
+          is_playable: true
+          name: Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
+          track_number: 5
+          type: track
+          uri: spotify:track:1M5UINBYsVLnm5Kqv4Deta
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+              href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+              id: 3aQeKQSyrW4qWr35idm0cy
+              name: T-Pain
+              type: artist
+              uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+            external_urls:
+              spotify: https://open.spotify.com/album/184XWylq7ZF0Hn7da4Tr6W
+            href: https://api.spotify.com/v1/albums/184XWylq7ZF0Hn7da4Tr6W
+            id: 184XWylq7ZF0Hn7da4Tr6W
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733d537424bb92aa2283f62595
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023d537424bb92aa2283f62595
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513d537424bb92aa2283f62595
+            is_playable: true
+            name: 'Happy Hour: The Greatest Hits'
+            release_date: '2014'
+            release_date_precision: year
+            total_tracks: 13
+            type: album
+            uri: spotify:album:184XWylq7ZF0Hn7da4Tr6W
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+            href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+            id: 3aQeKQSyrW4qWr35idm0cy
+            name: T-Pain
+            type: artist
+            uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj
+            href: https://api.spotify.com/v1/artists/23LbwefIODbyGdRbAz3urj
+            id: 23LbwefIODbyGdRbAz3urj
+            name: Yung Joc
+            type: artist
+            uri: spotify:artist:23LbwefIODbyGdRbAz3urj
+          disc_number: 1
+          duration_ms: 230853
+          explicit: false
+          external_ids:
+            isrc: USJI10700121
+          external_urls:
+            spotify: https://open.spotify.com/track/1Q1jlFs004vwB0DOznii3K
+          href: https://api.spotify.com/v1/tracks/1Q1jlFs004vwB0DOznii3K
+          id: 1Q1jlFs004vwB0DOznii3K
+          is_local: false
+          is_playable: true
+          name: Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
+          track_number: 5
+          type: track
+          uri: spotify:track:1Q1jlFs004vwB0DOznii3K
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+              href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+              id: 3aQeKQSyrW4qWr35idm0cy
+              name: T-Pain
+              type: artist
+              uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+            external_urls:
+              spotify: https://open.spotify.com/album/2uEfwGvcXoCgyEoRt2NMeC
+            href: https://api.spotify.com/v1/albums/2uEfwGvcXoCgyEoRt2NMeC
+            id: 2uEfwGvcXoCgyEoRt2NMeC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b2ba55019a2bc7f564c021bb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b2ba55019a2bc7f564c021bb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b2ba55019a2bc7f564c021bb
+            is_playable: true
+            name: Epiphany (Expanded Edition)
+            release_date: '2007-06-06'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:2uEfwGvcXoCgyEoRt2NMeC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy
+            href: https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy
+            id: 3aQeKQSyrW4qWr35idm0cy
+            name: T-Pain
+            type: artist
+            uri: spotify:artist:3aQeKQSyrW4qWr35idm0cy
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj
+            href: https://api.spotify.com/v1/artists/23LbwefIODbyGdRbAz3urj
+            id: 23LbwefIODbyGdRbAz3urj
+            name: Yung Joc
+            type: artist
+            uri: spotify:artist:23LbwefIODbyGdRbAz3urj
+          disc_number: 1
+          duration_ms: 227960
+          explicit: false
+          external_ids:
+            isrc: USJI10700121
+          external_urls:
+            spotify: https://open.spotify.com/track/6Lftno71hhbzIJZvXnfGEr
+          href: https://api.spotify.com/v1/tracks/6Lftno71hhbzIJZvXnfGEr
+          id: 6Lftno71hhbzIJZvXnfGEr
+          is_local: false
+          is_playable: true
+          name: Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
+          track_number: 12
+          type: track
+          uri: spotify:track:6Lftno71hhbzIJZvXnfGEr
+    isrc: USJI10700121

@@ -150,3 +150,288 @@ mediaFileData:
   year: 1983
   duration: 209.52
   modTime: 2024-09-22 16:10:34.779389+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/69TOehmvRg5PcwCKQkdCJm
+    trackId: 69TOehmvRg5PcwCKQkdCJm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71905965&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBUM71905965&type=track
+        offset: 0
+        previous:
+        total: 38
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3uKrek3lZF3CFDPoSmppED
+            href: https://api.spotify.com/v1/albums/3uKrek3lZF3CFDPoSmppED
+            id: 3uKrek3lZF3CFDPoSmppED
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730208c4f7f90cc2f3cd7cb08b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020208c4f7f90cc2f3cd7cb08b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510208c4f7f90cc2f3cd7cb08b
+            is_playable: true
+            name: Autumn
+            release_date: '2026-09-05'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:3uKrek3lZF3CFDPoSmppED
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+            href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+            id: 08F3Y3SctIlsOEmKd6dnH8
+            name: Yusuf / Cat Stevens
+            type: artist
+            uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+          disc_number: 1
+          duration_ms: 200560
+          explicit: false
+          external_ids:
+            isrc: GBUM71905965
+          external_urls:
+            spotify: https://open.spotify.com/track/69TOehmvRg5PcwCKQkdCJm
+          href: https://api.spotify.com/v1/tracks/69TOehmvRg5PcwCKQkdCJm
+          id: 69TOehmvRg5PcwCKQkdCJm
+          is_local: false
+          is_playable: true
+          name: Wild World - Remastered 2020
+          track_number: 67
+          type: track
+          uri: spotify:track:69TOehmvRg5PcwCKQkdCJm
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+              href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+              id: 08F3Y3SctIlsOEmKd6dnH8
+              name: Yusuf / Cat Stevens
+              type: artist
+              uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+            external_urls:
+              spotify: https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild
+            href: https://api.spotify.com/v1/albums/44VxbAytHpVi3Rq8hRhild
+            id: 44VxbAytHpVi3Rq8hRhild
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e7248738c2f7ce3b5584b15d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e7248738c2f7ce3b5584b15d
+            is_playable: true
+            name: Tea For The Tillerman (Remastered 2020)
+            release_date: '1970-11-23'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:44VxbAytHpVi3Rq8hRhild
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+            href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+            id: 08F3Y3SctIlsOEmKd6dnH8
+            name: Yusuf / Cat Stevens
+            type: artist
+            uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+          disc_number: 1
+          duration_ms: 200560
+          explicit: false
+          external_ids:
+            isrc: GBUM71905965
+          external_urls:
+            spotify: https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9
+          href: https://api.spotify.com/v1/tracks/7mjSHL2Eb0kAwiKbvNNyD9
+          id: 7mjSHL2Eb0kAwiKbvNNyD9
+          is_local: false
+          is_playable: true
+          name: Wild World
+          track_number: 3
+          type: track
+          uri: spotify:track:7mjSHL2Eb0kAwiKbvNNyD9
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+              href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+              id: 08F3Y3SctIlsOEmKd6dnH8
+              name: Yusuf / Cat Stevens
+              type: artist
+              uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+            external_urls:
+              spotify: https://open.spotify.com/album/4odgU4XFiB5pxEKKqB9QJA
+            href: https://api.spotify.com/v1/albums/4odgU4XFiB5pxEKKqB9QJA
+            id: 4odgU4XFiB5pxEKKqB9QJA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e33202ec41441204bfcf18a5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e33202ec41441204bfcf18a5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e33202ec41441204bfcf18a5
+            is_playable: true
+            name: Tea For The Tillerman (Super Deluxe)
+            release_date: '2020-12-04'
+            release_date_precision: day
+            total_tracks: 66
+            type: album
+            uri: spotify:album:4odgU4XFiB5pxEKKqB9QJA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+            href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+            id: 08F3Y3SctIlsOEmKd6dnH8
+            name: Yusuf / Cat Stevens
+            type: artist
+            uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+          disc_number: 1
+          duration_ms: 200560
+          explicit: false
+          external_ids:
+            isrc: GBUM71905965
+          external_urls:
+            spotify: https://open.spotify.com/track/3olPCgyhtR0i1RXCDi161X
+          href: https://api.spotify.com/v1/tracks/3olPCgyhtR0i1RXCDi161X
+          id: 3olPCgyhtR0i1RXCDi161X
+          is_local: false
+          is_playable: true
+          name: Wild World - Remastered 2020
+          track_number: 3
+          type: track
+          uri: spotify:track:3olPCgyhtR0i1RXCDi161X
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+              href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+              id: 08F3Y3SctIlsOEmKd6dnH8
+              name: Yusuf / Cat Stevens
+              type: artist
+              uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+            external_urls:
+              spotify: https://open.spotify.com/album/3XY0cnPWxKAKTd2QaJonkt
+            href: https://api.spotify.com/v1/albums/3XY0cnPWxKAKTd2QaJonkt
+            id: 3XY0cnPWxKAKTd2QaJonkt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737b8b017a6b5c8f64bac04bfa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027b8b017a6b5c8f64bac04bfa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517b8b017a6b5c8f64bac04bfa
+            is_playable: true
+            name: 'On The Road To Findout: Greatest Hits (Deluxe)'
+            release_date: '2025-09-05'
+            release_date_precision: day
+            total_tracks: 47
+            type: album
+            uri: spotify:album:3XY0cnPWxKAKTd2QaJonkt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+            href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+            id: 08F3Y3SctIlsOEmKd6dnH8
+            name: Yusuf / Cat Stevens
+            type: artist
+            uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+          disc_number: 1
+          duration_ms: 200293
+          explicit: false
+          external_ids:
+            isrc: GBUM71905965
+          external_urls:
+            spotify: https://open.spotify.com/track/4inAzfsZQrLFQs8NNwYN3C
+          href: https://api.spotify.com/v1/tracks/4inAzfsZQrLFQs8NNwYN3C
+          id: 4inAzfsZQrLFQs8NNwYN3C
+          is_local: false
+          is_playable: true
+          name: Wild World - Remastered 2020
+          track_number: 8
+          type: track
+          uri: spotify:track:4inAzfsZQrLFQs8NNwYN3C
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2L5KDszgmnv9ZCeLuUxc6u
+            href: https://api.spotify.com/v1/albums/2L5KDszgmnv9ZCeLuUxc6u
+            id: 2L5KDszgmnv9ZCeLuUxc6u
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f1b3da5986132461b3235661
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f1b3da5986132461b3235661
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f1b3da5986132461b3235661
+            is_playable: true
+            name: Songs That Feel Like Fall
+            release_date: '2025-10-10'
+            release_date_precision: day
+            total_tracks: 46
+            type: album
+            uri: spotify:album:2L5KDszgmnv9ZCeLuUxc6u
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+            href: https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8
+            id: 08F3Y3SctIlsOEmKd6dnH8
+            name: Yusuf / Cat Stevens
+            type: artist
+            uri: spotify:artist:08F3Y3SctIlsOEmKd6dnH8
+          disc_number: 1
+          duration_ms: 200560
+          explicit: false
+          external_ids:
+            isrc: GBUM71905965
+          external_urls:
+            spotify: https://open.spotify.com/track/0nyVkqdKt7hRtGWMeDKBOF
+          href: https://api.spotify.com/v1/tracks/0nyVkqdKt7hRtGWMeDKBOF
+          id: 0nyVkqdKt7hRtGWMeDKBOF
+          is_local: false
+          is_playable: true
+          name: Wild World - Remastered 2020
+          track_number: 11
+          type: track
+          uri: spotify:track:0nyVkqdKt7hRtGWMeDKBOF
+    isrc: GBUM71905965

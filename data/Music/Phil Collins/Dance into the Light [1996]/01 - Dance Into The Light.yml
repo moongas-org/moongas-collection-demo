@@ -99,3 +99,126 @@ mediaFileData:
   year: 1996
   duration: 264.072
   modTime: 2025-03-10 00:19:19.441471+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1kxfPDA6OXJeJm30CVr0zb
+    trackId: 1kxfPDA6OXJeJm30CVr0zb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11600245&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+              href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+              id: 4lxfqrEsLX6N1N4OCSkILp
+              name: Phil Collins
+              type: artist
+              uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+            external_urls:
+              spotify: https://open.spotify.com/album/7avlHipAwnKsxcXwC9Wpin
+            href: https://api.spotify.com/v1/albums/7avlHipAwnKsxcXwC9Wpin
+            id: 7avlHipAwnKsxcXwC9Wpin
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273483bd6317eab8652ef3473d3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02483bd6317eab8652ef3473d3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851483bd6317eab8652ef3473d3
+            is_playable: true
+            name: No Jacket Required (Deluxe Edition)
+            release_date: '1985-02-18'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:7avlHipAwnKsxcXwC9Wpin
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+            href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+            id: 4lxfqrEsLX6N1N4OCSkILp
+            name: Phil Collins
+            type: artist
+            uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+          disc_number: 1
+          duration_ms: 262866
+          explicit: false
+          external_ids:
+            isrc: USRH11600245
+          external_urls:
+            spotify: https://open.spotify.com/track/1kxfPDA6OXJeJm30CVr0zb
+          href: https://api.spotify.com/v1/tracks/1kxfPDA6OXJeJm30CVr0zb
+          id: 1kxfPDA6OXJeJm30CVr0zb
+          is_local: false
+          is_playable: true
+          name: Long Long Way to Go - 2016 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:1kxfPDA6OXJeJm30CVr0zb
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+              href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+              id: 4lxfqrEsLX6N1N4OCSkILp
+              name: Phil Collins
+              type: artist
+              uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+            external_urls:
+              spotify: https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB
+            href: https://api.spotify.com/v1/albums/1rVhockt4RAiZFaK3M3zPB
+            id: 1rVhockt4RAiZFaK3M3zPB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273de0753cd4e8c86dbf6e2f9f0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02de0753cd4e8c86dbf6e2f9f0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851de0753cd4e8c86dbf6e2f9f0
+            is_playable: true
+            name: No Jacket Required (2016 Remaster)
+            release_date: '1985-01-25'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1rVhockt4RAiZFaK3M3zPB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+            href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+            id: 4lxfqrEsLX6N1N4OCSkILp
+            name: Phil Collins
+            type: artist
+            uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+          disc_number: 1
+          duration_ms: 262866
+          explicit: false
+          external_ids:
+            isrc: USRH11600245
+          external_urls:
+            spotify: https://open.spotify.com/track/3Z792UJsk8AzUTbbo4kxqN
+          href: https://api.spotify.com/v1/tracks/3Z792UJsk8AzUTbbo4kxqN
+          id: 3Z792UJsk8AzUTbbo4kxqN
+          is_local: false
+          is_playable: true
+          name: Long Long Way to Go - 2016 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:3Z792UJsk8AzUTbbo4kxqN
+    isrc: USRH11600245

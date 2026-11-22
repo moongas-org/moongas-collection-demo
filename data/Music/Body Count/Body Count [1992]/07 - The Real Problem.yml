@@ -48,3 +48,126 @@ mediaFileData:
   year: 1992
   duration: 11.624489795918368
   modTime: 2026-08-02 17:06:04.772491+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/60t356zDXP421A3kENM4mr
+    trackId: 60t356zDXP421A3kENM4mr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10102384&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+              href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+              id: 5KCph1z3jaSwhtwPzoYp6i
+              name: Body Count
+              type: artist
+              uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+            external_urls:
+              spotify: https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J
+            href: https://api.spotify.com/v1/albums/2J5Lf1s0Q42e31xjSwVd8J
+            id: 2J5Lf1s0Q42e31xjSwVd8J
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f1483a1e7961f3ad472a099a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f1483a1e7961f3ad472a099a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f1483a1e7961f3ad472a099a
+            is_playable: true
+            name: Body Count
+            release_date: '1992-03-10'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2J5Lf1s0Q42e31xjSwVd8J
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 11573
+          explicit: true
+          external_ids:
+            isrc: USWB10102384
+          external_urls:
+            spotify: https://open.spotify.com/track/60t356zDXP421A3kENM4mr
+          href: https://api.spotify.com/v1/tracks/60t356zDXP421A3kENM4mr
+          id: 60t356zDXP421A3kENM4mr
+          is_local: false
+          is_playable: true
+          name: The Real Problem
+          track_number: 7
+          type: track
+          uri: spotify:track:60t356zDXP421A3kENM4mr
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6cwou9ll99DCFnUSiNW61l
+            href: https://api.spotify.com/v1/albums/6cwou9ll99DCFnUSiNW61l
+            id: 6cwou9ll99DCFnUSiNW61l
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dcfdaab47d78d9e187add869
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dcfdaab47d78d9e187add869
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dcfdaab47d78d9e187add869
+            is_playable: true
+            name: Misery and Crisis
+            release_date: '2025-05-16'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:6cwou9ll99DCFnUSiNW61l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 11573
+          explicit: true
+          external_ids:
+            isrc: USWB10102384
+          external_urls:
+            spotify: https://open.spotify.com/track/2vEj18meL8xrPWpNJrnv1R
+          href: https://api.spotify.com/v1/tracks/2vEj18meL8xrPWpNJrnv1R
+          id: 2vEj18meL8xrPWpNJrnv1R
+          is_local: false
+          is_playable: true
+          name: The Real Problem
+          track_number: 5
+          type: track
+          uri: spotify:track:2vEj18meL8xrPWpNJrnv1R
+    isrc: USWB10102384

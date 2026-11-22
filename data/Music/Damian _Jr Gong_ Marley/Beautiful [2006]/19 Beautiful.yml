@@ -55,3 +55,140 @@ mediaFileData:
   year: 2006
   duration: 287.25333333333333
   modTime: 2023-04-28 11:54:45.520000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4UDTa7Oqp67A1UyadKyAiw
+    trackId: 4UDTa7Oqp67A1UyadKyAiw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM70502749&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi
+              href: https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi
+              id: 3QJzdZJYIAcoET1GcfpNGi
+              name: Damian Marley
+              type: artist
+              uri: spotify:artist:3QJzdZJYIAcoET1GcfpNGi
+            external_urls:
+              spotify: https://open.spotify.com/album/5RMEm6Ot1GCwwp7Bw5kzFz
+            href: https://api.spotify.com/v1/albums/5RMEm6Ot1GCwwp7Bw5kzFz
+            id: 5RMEm6Ot1GCwwp7Bw5kzFz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733447d79059a53a92dbeb92f0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023447d79059a53a92dbeb92f0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513447d79059a53a92dbeb92f0
+            is_playable: true
+            name: Beautiful
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:5RMEm6Ot1GCwwp7Bw5kzFz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi
+            href: https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi
+            id: 3QJzdZJYIAcoET1GcfpNGi
+            name: Damian Marley
+            type: artist
+            uri: spotify:artist:3QJzdZJYIAcoET1GcfpNGi
+          - external_urls:
+              spotify: https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE
+            href: https://api.spotify.com/v1/artists/62sPt3fswraiEPnKQpAbdE
+            id: 62sPt3fswraiEPnKQpAbdE
+            name: Bobby Brown
+            type: artist
+            uri: spotify:artist:62sPt3fswraiEPnKQpAbdE
+          disc_number: 1
+          duration_ms: 287800
+          explicit: false
+          external_ids:
+            isrc: USUM70502749
+          external_urls:
+            spotify: https://open.spotify.com/track/4UDTa7Oqp67A1UyadKyAiw
+          href: https://api.spotify.com/v1/tracks/4UDTa7Oqp67A1UyadKyAiw
+          id: 4UDTa7Oqp67A1UyadKyAiw
+          is_local: false
+          is_playable: true
+          name: Beautiful
+          track_number: 2
+          type: track
+          uri: spotify:track:4UDTa7Oqp67A1UyadKyAiw
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi
+              href: https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi
+              id: 3QJzdZJYIAcoET1GcfpNGi
+              name: Damian Marley
+              type: artist
+              uri: spotify:artist:3QJzdZJYIAcoET1GcfpNGi
+            external_urls:
+              spotify: https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB
+            href: https://api.spotify.com/v1/albums/4Y0PrDckfFKxKaVXsscDLB
+            id: 4Y0PrDckfFKxKaVXsscDLB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273569c9bd53261cc7313fbc7bd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02569c9bd53261cc7313fbc7bd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851569c9bd53261cc7313fbc7bd
+            is_playable: true
+            name: Welcome to Jamrock
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:4Y0PrDckfFKxKaVXsscDLB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi
+            href: https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi
+            id: 3QJzdZJYIAcoET1GcfpNGi
+            name: Damian Marley
+            type: artist
+            uri: spotify:artist:3QJzdZJYIAcoET1GcfpNGi
+          - external_urls:
+              spotify: https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE
+            href: https://api.spotify.com/v1/artists/62sPt3fswraiEPnKQpAbdE
+            id: 62sPt3fswraiEPnKQpAbdE
+            name: Bobby Brown
+            type: artist
+            uri: spotify:artist:62sPt3fswraiEPnKQpAbdE
+          disc_number: 1
+          duration_ms: 287786
+          explicit: false
+          external_ids:
+            isrc: USUM70502749
+          external_urls:
+            spotify: https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB
+          href: https://api.spotify.com/v1/tracks/5tLDX5Z50VZAvga5695enB
+          id: 5tLDX5Z50VZAvga5695enB
+          is_local: false
+          is_playable: true
+          name: Beautiful
+          track_number: 6
+          type: track
+          uri: spotify:track:5tLDX5Z50VZAvga5695enB
+    isrc: USUM70502749

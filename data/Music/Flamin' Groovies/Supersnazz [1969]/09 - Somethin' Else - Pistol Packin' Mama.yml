@@ -45,3 +45,72 @@ mediaFileData:
   year: 1969
   duration: 224.26666666666668
   modTime: 2024-03-02 00:21:21.541959+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6wtyGamt8DL1ukb8N2QQpR
+    trackId: 6wtyGamt8DL1ukb8N2QQpR
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10402199&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd
+              href: https://api.spotify.com/v1/artists/3yesh1QeNXucaDFw8ZPKxd
+              id: 3yesh1QeNXucaDFw8ZPKxd
+              name: Flamin' Groovies
+              type: artist
+              uri: spotify:artist:3yesh1QeNXucaDFw8ZPKxd
+            external_urls:
+              spotify: https://open.spotify.com/album/40PaA6qpHeAE616hMNTxuT
+            href: https://api.spotify.com/v1/albums/40PaA6qpHeAE616hMNTxuT
+            id: 40PaA6qpHeAE616hMNTxuT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c4c012a654d38002bca52862
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c4c012a654d38002bca52862
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c4c012a654d38002bca52862
+            is_playable: true
+            name: Supersnazz
+            release_date: '2000-02-18'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:40PaA6qpHeAE616hMNTxuT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd
+            href: https://api.spotify.com/v1/artists/3yesh1QeNXucaDFw8ZPKxd
+            id: 3yesh1QeNXucaDFw8ZPKxd
+            name: Flamin' Groovies
+            type: artist
+            uri: spotify:artist:3yesh1QeNXucaDFw8ZPKxd
+          disc_number: 1
+          duration_ms: 222693
+          explicit: false
+          external_ids:
+            isrc: USSM10402199
+          external_urls:
+            spotify: https://open.spotify.com/track/6wtyGamt8DL1ukb8N2QQpR
+          href: https://api.spotify.com/v1/tracks/6wtyGamt8DL1ukb8N2QQpR
+          id: 6wtyGamt8DL1ukb8N2QQpR
+          is_local: false
+          is_playable: true
+          name: Somethin' Else / Pistol Packin' Mama
+          track_number: 8
+          type: track
+          uri: spotify:track:6wtyGamt8DL1ukb8N2QQpR
+    isrc: USSM10402199

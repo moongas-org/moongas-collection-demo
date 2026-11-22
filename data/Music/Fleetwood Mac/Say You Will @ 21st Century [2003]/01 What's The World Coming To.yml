@@ -58,3 +58,72 @@ mediaFileData:
   year: 2003
   duration: 229.01551020408164
   modTime: 2023-05-14 16:00:40.090000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6xxhpzVjWcuZHC6XbfyoBC
+    trackId: 6xxhpzVjWcuZHC6XbfyoBC
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE10300167&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+              href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+              id: 08GQAI4eElDnROBrJRGE0X
+              name: Fleetwood Mac
+              type: artist
+              uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+            external_urls:
+              spotify: https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx
+            href: https://api.spotify.com/v1/albums/6dMdadS6Ng71pD9As93ufx
+            id: 6dMdadS6Ng71pD9As93ufx
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273018780ada265fb01b9cc89e5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02018780ada265fb01b9cc89e5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851018780ada265fb01b9cc89e5
+            is_playable: true
+            name: Say You Will
+            release_date: '2003-04-15'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:6dMdadS6Ng71pD9As93ufx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 227413
+          explicit: false
+          external_ids:
+            isrc: USRE10300167
+          external_urls:
+            spotify: https://open.spotify.com/track/6xxhpzVjWcuZHC6XbfyoBC
+          href: https://api.spotify.com/v1/tracks/6xxhpzVjWcuZHC6XbfyoBC
+          id: 6xxhpzVjWcuZHC6XbfyoBC
+          is_local: false
+          is_playable: true
+          name: What's the World Coming To
+          track_number: 1
+          type: track
+          uri: spotify:track:6xxhpzVjWcuZHC6XbfyoBC
+    isrc: USRE10300167

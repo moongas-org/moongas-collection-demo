@@ -44,3 +44,126 @@ mediaFileData:
   year: 1999
   duration: 295.104
   modTime: 2024-05-23 18:32:29.893445+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0sNBN7sJDH1kCexnwQZ3yS
+    trackId: 0sNBN7sJDH1kCexnwQZ3yS
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRZ189800041&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd
+              href: https://api.spotify.com/v1/artists/55PeYSS1g71a1BZLeIr0Sd
+              id: 55PeYSS1g71a1BZLeIr0Sd
+              name: Les Nubians
+              type: artist
+              uri: spotify:artist:55PeYSS1g71a1BZLeIr0Sd
+            external_urls:
+              spotify: https://open.spotify.com/album/18Tc3CrTP3lb8nMJnoRGSK
+            href: https://api.spotify.com/v1/albums/18Tc3CrTP3lb8nMJnoRGSK
+            id: 18Tc3CrTP3lb8nMJnoRGSK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7229962cb14c482fa9f02dd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7229962cb14c482fa9f02dd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7229962cb14c482fa9f02dd
+            is_playable: true
+            name: Princesses nubiennes
+            release_date: '1998-09-22'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:18Tc3CrTP3lb8nMJnoRGSK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd
+            href: https://api.spotify.com/v1/artists/55PeYSS1g71a1BZLeIr0Sd
+            id: 55PeYSS1g71a1BZLeIr0Sd
+            name: Les Nubians
+            type: artist
+            uri: spotify:artist:55PeYSS1g71a1BZLeIr0Sd
+          disc_number: 1
+          duration_ms: 294960
+          explicit: false
+          external_ids:
+            isrc: FRZ189800041
+          external_urls:
+            spotify: https://open.spotify.com/track/0sNBN7sJDH1kCexnwQZ3yS
+          href: https://api.spotify.com/v1/tracks/0sNBN7sJDH1kCexnwQZ3yS
+          id: 0sNBN7sJDH1kCexnwQZ3yS
+          is_local: false
+          is_playable: true
+          name: Makeda
+          track_number: 4
+          type: track
+          uri: spotify:track:0sNBN7sJDH1kCexnwQZ3yS
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd
+              href: https://api.spotify.com/v1/artists/55PeYSS1g71a1BZLeIr0Sd
+              id: 55PeYSS1g71a1BZLeIr0Sd
+              name: Les Nubians
+              type: artist
+              uri: spotify:artist:55PeYSS1g71a1BZLeIr0Sd
+            external_urls:
+              spotify: https://open.spotify.com/album/4f6wUlTwwgGcya1w802tDD
+            href: https://api.spotify.com/v1/albums/4f6wUlTwwgGcya1w802tDD
+            id: 4f6wUlTwwgGcya1w802tDD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273140d3a2495d0aab03a2e6e1f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02140d3a2495d0aab03a2e6e1f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851140d3a2495d0aab03a2e6e1f
+            is_playable: true
+            name: Princesses Nubiennes
+            release_date: '1998-09-22'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:4f6wUlTwwgGcya1w802tDD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd
+            href: https://api.spotify.com/v1/artists/55PeYSS1g71a1BZLeIr0Sd
+            id: 55PeYSS1g71a1BZLeIr0Sd
+            name: Les Nubians
+            type: artist
+            uri: spotify:artist:55PeYSS1g71a1BZLeIr0Sd
+          disc_number: 1
+          duration_ms: 294960
+          explicit: false
+          external_ids:
+            isrc: FRZ189800041
+          external_urls:
+            spotify: https://open.spotify.com/track/1tdh9fJCTHxYtBIdbYrv6D
+          href: https://api.spotify.com/v1/tracks/1tdh9fJCTHxYtBIdbYrv6D
+          id: 1tdh9fJCTHxYtBIdbYrv6D
+          is_local: false
+          is_playable: true
+          name: Makeda
+          track_number: 4
+          type: track
+          uri: spotify:track:1tdh9fJCTHxYtBIdbYrv6D
+    isrc: FRZ189800041

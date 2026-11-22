@@ -61,3 +61,126 @@ mediaFileData:
   year: 1998
   duration: 285.3066666666667
   modTime: 2026-10-23 21:09:58.968632+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2w3eXFL86RgxGtDr8bzwgK
+    trackId: 2w3eXFL86RgxGtDr8bzwgK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE0500608&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+              href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+              id: 4gzpq5DPGxSnKTe4SA8HAU
+              name: Coldplay
+              type: artist
+              uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+            external_urls:
+              spotify: https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6
+            href: https://api.spotify.com/v1/albums/4E7bV0pzG0LciBSWTszra6
+            id: 4E7bV0pzG0LciBSWTszra6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514e0362c225863f6ae2432651
+            is_playable: true
+            name: X&Y
+            release_date: '2005-06-07'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4E7bV0pzG0LciBSWTszra6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 285345
+          explicit: false
+          external_ids:
+            isrc: GBAYE0500608
+          external_urls:
+            spotify: https://open.spotify.com/track/2w3eXFL86RgxGtDr8bzwgK
+          href: https://api.spotify.com/v1/tracks/2w3eXFL86RgxGtDr8bzwgK
+          id: 2w3eXFL86RgxGtDr8bzwgK
+          is_local: false
+          is_playable: true
+          name: A Message
+          track_number: 8
+          type: track
+          uri: spotify:track:2w3eXFL86RgxGtDr8bzwgK
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2kgEx28C9iEMRuKTICzd7S
+            href: https://api.spotify.com/v1/albums/2kgEx28C9iEMRuKTICzd7S
+            id: 2kgEx28C9iEMRuKTICzd7S
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27340dd13daab89502e57cdc544
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0240dd13daab89502e57cdc544
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485140dd13daab89502e57cdc544
+            is_playable: true
+            name: Herbst Wärme - Songs mit Wohlfühlfaktor
+            release_date: '2026-10-05'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:2kgEx28C9iEMRuKTICzd7S
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 285345
+          explicit: false
+          external_ids:
+            isrc: GBAYE0500608
+          external_urls:
+            spotify: https://open.spotify.com/track/4yXTyhDvzq6gZ12ync84Pm
+          href: https://api.spotify.com/v1/tracks/4yXTyhDvzq6gZ12ync84Pm
+          id: 4yXTyhDvzq6gZ12ync84Pm
+          is_local: false
+          is_playable: true
+          name: A Message
+          track_number: 9
+          type: track
+          uri: spotify:track:4yXTyhDvzq6gZ12ync84Pm
+    isrc: GBAYE0500608

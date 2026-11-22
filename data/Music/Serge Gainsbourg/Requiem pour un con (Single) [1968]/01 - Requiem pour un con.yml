@@ -35,3 +35,295 @@ mediaFileData:
   year: 1968
   duration: 168.85551020408164
   modTime: 2023-09-24 10:30:44+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/04MqPPp6w9TI7EZk9YhFrB
+    trackId: 04MqPPp6w9TI7EZk9YhFrB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRX666780010&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AFRX666780010&type=track
+        offset: 0
+        previous:
+        total: 8
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+              href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+              id: 01C9OoXDvCKkGcf735Tcfo
+              name: Serge Gainsbourg
+              type: artist
+              uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+            external_urls:
+              spotify: https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG
+            href: https://api.spotify.com/v1/albums/0K7Rapnz35iffV4NNGWtPG
+            id: 0K7Rapnz35iffV4NNGWtPG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273243695a2f99da1403306c6b8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02243695a2f99da1403306c6b8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851243695a2f99da1403306c6b8
+            is_playable: true
+            name: Comic Strip
+            release_date: '2006-05-22'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0K7Rapnz35iffV4NNGWtPG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 170800
+          explicit: false
+          external_ids:
+            isrc: FRX666780010
+          external_urls:
+            spotify: https://open.spotify.com/track/04MqPPp6w9TI7EZk9YhFrB
+          href: https://api.spotify.com/v1/tracks/04MqPPp6w9TI7EZk9YhFrB
+          id: 04MqPPp6w9TI7EZk9YhFrB
+          is_local: false
+          is_playable: true
+          name: Requiem pour un c... - Bande originale du film "Le pacha"
+          track_number: 1
+          type: track
+          uri: spotify:track:04MqPPp6w9TI7EZk9YhFrB
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+              href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+              id: 01C9OoXDvCKkGcf735Tcfo
+              name: Serge Gainsbourg
+              type: artist
+              uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5zl0vKMseEhdyXv88He8WQ
+              href: https://api.spotify.com/v1/artists/5zl0vKMseEhdyXv88He8WQ
+              id: 5zl0vKMseEhdyXv88He8WQ
+              name: Michel Colombier
+              type: artist
+              uri: spotify:artist:5zl0vKMseEhdyXv88He8WQ
+            external_urls:
+              spotify: https://open.spotify.com/album/0JpdTrZem5ashGYd2XZNdM
+            href: https://api.spotify.com/v1/albums/0JpdTrZem5ashGYd2XZNdM
+            id: 0JpdTrZem5ashGYd2XZNdM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273608139faaab2a2964066ef2d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02608139faaab2a2964066ef2d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851608139faaab2a2964066ef2d
+            is_playable: true
+            name: Le Pacha (Bande originale du film)
+            release_date: '1968-03-14'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0JpdTrZem5ashGYd2XZNdM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 168133
+          explicit: false
+          external_ids:
+            isrc: FRX666780010
+          external_urls:
+            spotify: https://open.spotify.com/track/2Qj3AXmSA2mSrUxymWdEsw
+          href: https://api.spotify.com/v1/tracks/2Qj3AXmSA2mSrUxymWdEsw
+          id: 2Qj3AXmSA2mSrUxymWdEsw
+          is_local: false
+          is_playable: true
+          name: Requiem pour un c... - Bande originale du film "Le pacha"
+          track_number: 1
+          type: track
+          uri: spotify:track:2Qj3AXmSA2mSrUxymWdEsw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+              href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+              id: 01C9OoXDvCKkGcf735Tcfo
+              name: Serge Gainsbourg
+              type: artist
+              uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+            external_urls:
+              spotify: https://open.spotify.com/album/0SywgxMeOlmVNDa2IXAa3G
+            href: https://api.spotify.com/v1/albums/0SywgxMeOlmVNDa2IXAa3G
+            id: 0SywgxMeOlmVNDa2IXAa3G
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733838e289d1772ed121a2d6d2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023838e289d1772ed121a2d6d2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513838e289d1772ed121a2d6d2
+            is_playable: true
+            name: Monsieur Gainsbourg Originals
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0SywgxMeOlmVNDa2IXAa3G
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 172000
+          explicit: false
+          external_ids:
+            isrc: FRX666780010
+          external_urls:
+            spotify: https://open.spotify.com/track/5sl7YIe6SfS8vaeZNkmVWe
+          href: https://api.spotify.com/v1/tracks/5sl7YIe6SfS8vaeZNkmVWe
+          id: 5sl7YIe6SfS8vaeZNkmVWe
+          is_local: false
+          is_playable: true
+          name: Requiem pour un c... - Bande originale du film "Le pacha"
+          track_number: 7
+          type: track
+          uri: spotify:track:5sl7YIe6SfS8vaeZNkmVWe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+              href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+              id: 01C9OoXDvCKkGcf735Tcfo
+              name: Serge Gainsbourg
+              type: artist
+              uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+            external_urls:
+              spotify: https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK
+            href: https://api.spotify.com/v1/albums/7IoGi1b3jxA6FXOaoa66iK
+            id: 7IoGi1b3jxA6FXOaoa66iK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cdc3d8b0c8562a114ff0df13
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cdc3d8b0c8562a114ff0df13
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cdc3d8b0c8562a114ff0df13
+            is_playable: true
+            name: Comme un boomerang
+            release_date: '2011-01-01'
+            release_date_precision: day
+            total_tracks: 49
+            type: album
+            uri: spotify:album:7IoGi1b3jxA6FXOaoa66iK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 171533
+          explicit: false
+          external_ids:
+            isrc: FRX666780010
+          external_urls:
+            spotify: https://open.spotify.com/track/1U3XWAYfLYbqyoc9JlbOJQ
+          href: https://api.spotify.com/v1/tracks/1U3XWAYfLYbqyoc9JlbOJQ
+          id: 1U3XWAYfLYbqyoc9JlbOJQ
+          is_local: false
+          is_playable: true
+          name: Requiem pour un c... - Bande originale du film "Le pacha"
+          track_number: 23
+          type: track
+          uri: spotify:track:1U3XWAYfLYbqyoc9JlbOJQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0C8Oqkn4vnsn6hzEcWGggm
+            href: https://api.spotify.com/v1/albums/0C8Oqkn4vnsn6hzEcWGggm
+            id: 0C8Oqkn4vnsn6hzEcWGggm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a4ad87f72f51b66d6085c5c8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a4ad87f72f51b66d6085c5c8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a4ad87f72f51b66d6085c5c8
+            is_playable: true
+            name: Gainsbourg London Paris 1963 - 1971
+            release_date: '2016-02-26'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:0C8Oqkn4vnsn6hzEcWGggm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 169226
+          explicit: false
+          external_ids:
+            isrc: FRX666780010
+          external_urls:
+            spotify: https://open.spotify.com/track/1WktFYiTwqCiDHkdhj4zU0
+          href: https://api.spotify.com/v1/tracks/1WktFYiTwqCiDHkdhj4zU0
+          id: 1WktFYiTwqCiDHkdhj4zU0
+          is_local: false
+          is_playable: true
+          name: Requiem pour un c... - Bande originale du film "Le pacha"
+          track_number: 19
+          type: track
+          uri: spotify:track:1WktFYiTwqCiDHkdhj4zU0
+    isrc: FRX666780010

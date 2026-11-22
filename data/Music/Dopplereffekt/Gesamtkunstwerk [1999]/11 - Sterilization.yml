@@ -41,3 +41,72 @@ mediaFileData:
   year: 1999
   duration: 154.176
   modTime: 2025-12-09 19:34:01.061651+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ifBDL5qPKUxpDEx0z2w35
+    trackId: 1ifBDL5qPKUxpDEx0z2w35
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ANLL560701164&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2w3mvReNNIQ7S44MAr89zu
+              href: https://api.spotify.com/v1/artists/2w3mvReNNIQ7S44MAr89zu
+              id: 2w3mvReNNIQ7S44MAr89zu
+              name: Dopplereffekt
+              type: artist
+              uri: spotify:artist:2w3mvReNNIQ7S44MAr89zu
+            external_urls:
+              spotify: https://open.spotify.com/album/11KL9p0Y4T2h66o4Ep7yMC
+            href: https://api.spotify.com/v1/albums/11KL9p0Y4T2h66o4Ep7yMC
+            id: 11KL9p0Y4T2h66o4Ep7yMC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731ff295d6c7ab69b8f9ed35d0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021ff295d6c7ab69b8f9ed35d0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511ff295d6c7ab69b8f9ed35d0
+            is_playable: true
+            name: Gesamtkunstwerk
+            release_date: '1999'
+            release_date_precision: year
+            total_tracks: 17
+            type: album
+            uri: spotify:album:11KL9p0Y4T2h66o4Ep7yMC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2w3mvReNNIQ7S44MAr89zu
+            href: https://api.spotify.com/v1/artists/2w3mvReNNIQ7S44MAr89zu
+            id: 2w3mvReNNIQ7S44MAr89zu
+            name: Dopplereffekt
+            type: artist
+            uri: spotify:artist:2w3mvReNNIQ7S44MAr89zu
+          disc_number: 1
+          duration_ms: 154133
+          explicit: false
+          external_ids:
+            isrc: NLL560701164
+          external_urls:
+            spotify: https://open.spotify.com/track/1ifBDL5qPKUxpDEx0z2w35
+          href: https://api.spotify.com/v1/tracks/1ifBDL5qPKUxpDEx0z2w35
+          id: 1ifBDL5qPKUxpDEx0z2w35
+          is_local: false
+          is_playable: true
+          name: Sterilization
+          track_number: 16
+          type: track
+          uri: spotify:track:1ifBDL5qPKUxpDEx0z2w35
+    isrc: NLL560701164

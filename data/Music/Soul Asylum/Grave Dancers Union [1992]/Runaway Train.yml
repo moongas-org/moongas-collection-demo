@@ -227,3 +227,288 @@ mediaFileData:
   year: 1993
   duration: 263.0530625
   modTime: 2023-07-17 00:47:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3T7tyQlgSsw4wUSGbkXTcr
+    trackId: 3T7tyQlgSsw4wUSGbkXTcr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB11001344&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB11001344&type=track
+        offset: 0
+        previous:
+        total: 8
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5eOvvD0w6s6prwQWEJ5DXr
+            href: https://api.spotify.com/v1/albums/5eOvvD0w6s6prwQWEJ5DXr
+            id: 5eOvvD0w6s6prwQWEJ5DXr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735475738170e80a4c20c82cfc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025475738170e80a4c20c82cfc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515475738170e80a4c20c82cfc
+            is_playable: true
+            name: 'Sad Love Songs: The Heartbreakers'
+            release_date: '2019-11-01'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:5eOvvD0w6s6prwQWEJ5DXr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 261013
+          explicit: false
+          external_ids:
+            isrc: USWB11001344
+          external_urls:
+            spotify: https://open.spotify.com/track/3T7tyQlgSsw4wUSGbkXTcr
+          href: https://api.spotify.com/v1/tracks/3T7tyQlgSsw4wUSGbkXTcr
+          id: 3T7tyQlgSsw4wUSGbkXTcr
+          is_local: false
+          is_playable: true
+          name: Crying In the Rain
+          track_number: 21
+          type: track
+          uri: spotify:track:3T7tyQlgSsw4wUSGbkXTcr
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/32FnSDJBTx4HDXNp1zCXFE
+            href: https://api.spotify.com/v1/albums/32FnSDJBTx4HDXNp1zCXFE
+            id: 32FnSDJBTx4HDXNp1zCXFE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735d872116c5a853a5ef3a3a49
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025d872116c5a853a5ef3a3a49
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515d872116c5a853a5ef3a3a49
+            is_playable: true
+            name: AUTUMN SONGS
+            release_date: '2024-03-27'
+            release_date_precision: day
+            total_tracks: 41
+            type: album
+            uri: spotify:album:32FnSDJBTx4HDXNp1zCXFE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 261013
+          explicit: false
+          external_ids:
+            isrc: USWB11001344
+          external_urls:
+            spotify: https://open.spotify.com/track/3wzIOuMCGlDCNayNiNxLdj
+          href: https://api.spotify.com/v1/tracks/3wzIOuMCGlDCNayNiNxLdj
+          id: 3wzIOuMCGlDCNayNiNxLdj
+          is_local: false
+          is_playable: true
+          name: Crying In the Rain
+          track_number: 26
+          type: track
+          uri: spotify:track:3wzIOuMCGlDCNayNiNxLdj
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0PngnA5ucX7u6QyEh4y1GD
+            href: https://api.spotify.com/v1/albums/0PngnA5ucX7u6QyEh4y1GD
+            id: 0PngnA5ucX7u6QyEh4y1GD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739b49817884d82eea6ef81436
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029b49817884d82eea6ef81436
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519b49817884d82eea6ef81436
+            is_playable: true
+            name: Heartbreakers - Sad Love Songs
+            release_date: '2018-08-15'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:0PngnA5ucX7u6QyEh4y1GD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 261013
+          explicit: false
+          external_ids:
+            isrc: USWB11001344
+          external_urls:
+            spotify: https://open.spotify.com/track/7FGngGLOSUoTcL5S1rIrWi
+          href: https://api.spotify.com/v1/tracks/7FGngGLOSUoTcL5S1rIrWi
+          id: 7FGngGLOSUoTcL5S1rIrWi
+          is_local: false
+          is_playable: true
+          name: Crying In the Rain
+          track_number: 13
+          type: track
+          uri: spotify:track:7FGngGLOSUoTcL5S1rIrWi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2ZWv0wQ7BvgvUbUpJR9Opb
+            href: https://api.spotify.com/v1/albums/2ZWv0wQ7BvgvUbUpJR9Opb
+            id: 2ZWv0wQ7BvgvUbUpJR9Opb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e6975d4b2893b2dceff88d78
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e6975d4b2893b2dceff88d78
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e6975d4b2893b2dceff88d78
+            is_playable: true
+            name: Beautiful Ballads
+            release_date: '2018-06-15'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2ZWv0wQ7BvgvUbUpJR9Opb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 261013
+          explicit: false
+          external_ids:
+            isrc: USWB11001344
+          external_urls:
+            spotify: https://open.spotify.com/track/3D8GRACTNqVBA17YqooVkI
+          href: https://api.spotify.com/v1/tracks/3D8GRACTNqVBA17YqooVkI
+          id: 3D8GRACTNqVBA17YqooVkI
+          is_local: false
+          is_playable: true
+          name: Crying In the Rain
+          track_number: 11
+          type: track
+          uri: spotify:track:3D8GRACTNqVBA17YqooVkI
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0BXohLd9kGMOk2sbBuoOLR
+            href: https://api.spotify.com/v1/albums/0BXohLd9kGMOk2sbBuoOLR
+            id: 0BXohLd9kGMOk2sbBuoOLR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738a7424be3057cee079b7e445
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028a7424be3057cee079b7e445
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518a7424be3057cee079b7e445
+            is_playable: true
+            name: Love Anthems 100 Essential Songs
+            release_date: '2024-08-23'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:0BXohLd9kGMOk2sbBuoOLR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE
+            href: https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE
+            id: 2jzc5TC5TVFLXQlBNiIUzE
+            name: a-ha
+            type: artist
+            uri: spotify:artist:2jzc5TC5TVFLXQlBNiIUzE
+          disc_number: 1
+          duration_ms: 261013
+          explicit: false
+          external_ids:
+            isrc: USWB11001344
+          external_urls:
+            spotify: https://open.spotify.com/track/4CRsTXI4KuSVBtvTDVbroG
+          href: https://api.spotify.com/v1/tracks/4CRsTXI4KuSVBtvTDVbroG
+          id: 4CRsTXI4KuSVBtvTDVbroG
+          is_local: false
+          is_playable: true
+          name: Crying In the Rain
+          track_number: 29
+          type: track
+          uri: spotify:track:4CRsTXI4KuSVBtvTDVbroG
+    isrc: USWB11001344

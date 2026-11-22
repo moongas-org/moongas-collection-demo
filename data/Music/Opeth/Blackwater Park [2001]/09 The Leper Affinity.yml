@@ -34,3 +34,126 @@ mediaFileData:
   year: 2010
   duration: 566.8919727891157
   modTime: 2023-09-27 21:33:46+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2MpBTvJcU20hmM9tJ0nIl0
+    trackId: 2MpBTvJcU20hmM9tJ0nIl0
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCKC1000001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E
+              href: https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E
+              id: 0ybFZ2Ab08V8hueghSXm6E
+              name: Opeth
+              type: artist
+              uri: spotify:artist:0ybFZ2Ab08V8hueghSXm6E
+            external_urls:
+              spotify: https://open.spotify.com/album/7cMJfxkJwUAcxHCHQMNYYs
+            href: https://api.spotify.com/v1/albums/7cMJfxkJwUAcxHCHQMNYYs
+            id: 7cMJfxkJwUAcxHCHQMNYYs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27313d0ed017d3ad35ed6bd1e90
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0213d0ed017d3ad35ed6bd1e90
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485113d0ed017d3ad35ed6bd1e90
+            is_playable: true
+            name: Blackwater Park
+            release_date: '2001-02-27'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:7cMJfxkJwUAcxHCHQMNYYs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E
+            href: https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E
+            id: 0ybFZ2Ab08V8hueghSXm6E
+            name: Opeth
+            type: artist
+            uri: spotify:artist:0ybFZ2Ab08V8hueghSXm6E
+          disc_number: 1
+          duration_ms: 566826
+          explicit: false
+          external_ids:
+            isrc: GBCKC1000001
+          external_urls:
+            spotify: https://open.spotify.com/track/2MpBTvJcU20hmM9tJ0nIl0
+          href: https://api.spotify.com/v1/tracks/2MpBTvJcU20hmM9tJ0nIl0
+          id: 2MpBTvJcU20hmM9tJ0nIl0
+          is_local: false
+          is_playable: true
+          name: The Leper Affinity - Live
+          track_number: 9
+          type: track
+          uri: spotify:track:2MpBTvJcU20hmM9tJ0nIl0
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E
+              href: https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E
+              id: 0ybFZ2Ab08V8hueghSXm6E
+              name: Opeth
+              type: artist
+              uri: spotify:artist:0ybFZ2Ab08V8hueghSXm6E
+            external_urls:
+              spotify: https://open.spotify.com/album/2SJwxSJ0WCaeEiNSDSFXaN
+            href: https://api.spotify.com/v1/albums/2SJwxSJ0WCaeEiNSDSFXaN
+            id: 2SJwxSJ0WCaeEiNSDSFXaN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736ffef62d7da15b7bdaf6bb3b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026ffef62d7da15b7bdaf6bb3b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516ffef62d7da15b7bdaf6bb3b
+            is_playable: true
+            name: Blackwater Park (20th Anniversary Edition)
+            release_date: '2021-07-16'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:2SJwxSJ0WCaeEiNSDSFXaN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E
+            href: https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E
+            id: 0ybFZ2Ab08V8hueghSXm6E
+            name: Opeth
+            type: artist
+            uri: spotify:artist:0ybFZ2Ab08V8hueghSXm6E
+          disc_number: 1
+          duration_ms: 566826
+          explicit: false
+          external_ids:
+            isrc: GBCKC1000001
+          external_urls:
+            spotify: https://open.spotify.com/track/6yHV52fLVaLVMcJhaWlAeG
+          href: https://api.spotify.com/v1/tracks/6yHV52fLVaLVMcJhaWlAeG
+          id: 6yHV52fLVaLVMcJhaWlAeG
+          is_local: false
+          is_playable: true
+          name: The Leper Affinity - Live
+          track_number: 9
+          type: track
+          uri: spotify:track:6yHV52fLVaLVMcJhaWlAeG
+    isrc: GBCKC1000001

@@ -34,3 +34,72 @@ mediaFileData:
   year: 2006
   duration: 158.902875
   modTime: 2023-07-17 00:33:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6BKvBktKregcRP3iyhiqPR
+    trackId: 6BKvBktKregcRP3iyhiqPR
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ACAN110601002&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi
+              href: https://api.spotify.com/v1/artists/4DBi4EYXgiqbkxvWUXUzMi
+              id: 4DBi4EYXgiqbkxvWUXUzMi
+              name: Old Crow Medicine Show
+              type: artist
+              uri: spotify:artist:4DBi4EYXgiqbkxvWUXUzMi
+            external_urls:
+              spotify: https://open.spotify.com/album/5D4Wp73147rjz8UZ3acHRk
+            href: https://api.spotify.com/v1/albums/5D4Wp73147rjz8UZ3acHRk
+            id: 5D4Wp73147rjz8UZ3acHRk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27339484614dc65abb92fb4c869
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0239484614dc65abb92fb4c869
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485139484614dc65abb92fb4c869
+            is_playable: true
+            name: Big Iron World
+            release_date: '2006-08-29'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5D4Wp73147rjz8UZ3acHRk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi
+            href: https://api.spotify.com/v1/artists/4DBi4EYXgiqbkxvWUXUzMi
+            id: 4DBi4EYXgiqbkxvWUXUzMi
+            name: Old Crow Medicine Show
+            type: artist
+            uri: spotify:artist:4DBi4EYXgiqbkxvWUXUzMi
+          disc_number: 1
+          duration_ms: 158840
+          explicit: false
+          external_ids:
+            isrc: CAN110601002
+          external_urls:
+            spotify: https://open.spotify.com/track/6BKvBktKregcRP3iyhiqPR
+          href: https://api.spotify.com/v1/tracks/6BKvBktKregcRP3iyhiqPR
+          id: 6BKvBktKregcRP3iyhiqPR
+          is_local: false
+          is_playable: true
+          name: God's Got It
+          track_number: 9
+          type: track
+          uri: spotify:track:6BKvBktKregcRP3iyhiqPR
+    isrc: CAN110601002

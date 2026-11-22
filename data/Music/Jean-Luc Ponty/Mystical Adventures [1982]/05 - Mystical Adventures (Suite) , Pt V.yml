@@ -52,3 +52,126 @@ mediaFileData:
   year: 1982
   duration: 304.9795918367347
   modTime: 2025-12-28 18:08:02.462873+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0zu0m5KevlDNU3Uk7HdU7g
+    trackId: 0zu0m5KevlDNU3Uk7HdU7g
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20180841&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+              href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+              id: 3SInttLnvf5G4Aa95aAYPr
+              name: Jean-Luc Ponty
+              type: artist
+              uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+            external_urls:
+              spotify: https://open.spotify.com/album/3sRDigE2YdvQxHHJBYzVOT
+            href: https://api.spotify.com/v1/albums/3sRDigE2YdvQxHHJBYzVOT
+            id: 3sRDigE2YdvQxHHJBYzVOT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736c6abbd10e8b1c7ae4ca05db
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026c6abbd10e8b1c7ae4ca05db
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516c6abbd10e8b1c7ae4ca05db
+            is_playable: true
+            name: Mystical Adventures
+            release_date: '1981'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3sRDigE2YdvQxHHJBYzVOT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+            href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+            id: 3SInttLnvf5G4Aa95aAYPr
+            name: Jean-Luc Ponty
+            type: artist
+            uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+          disc_number: 1
+          duration_ms: 304906
+          explicit: false
+          external_ids:
+            isrc: USAT20180841
+          external_urls:
+            spotify: https://open.spotify.com/track/0zu0m5KevlDNU3Uk7HdU7g
+          href: https://api.spotify.com/v1/tracks/0zu0m5KevlDNU3Uk7HdU7g
+          id: 0zu0m5KevlDNU3Uk7HdU7g
+          is_local: false
+          is_playable: true
+          name: Mystical Adventures (Suite), Pt. V
+          track_number: 5
+          type: track
+          uri: spotify:track:0zu0m5KevlDNU3Uk7HdU7g
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+              href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+              id: 3SInttLnvf5G4Aa95aAYPr
+              name: Jean-Luc Ponty
+              type: artist
+              uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+            external_urls:
+              spotify: https://open.spotify.com/album/6Wd0vZgVDObJHsmNfeemgd
+            href: https://api.spotify.com/v1/albums/6Wd0vZgVDObJHsmNfeemgd
+            id: 6Wd0vZgVDObJHsmNfeemgd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d02fcc6a2e2bdb0c9b4560c0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d02fcc6a2e2bdb0c9b4560c0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d02fcc6a2e2bdb0c9b4560c0
+            is_playable: true
+            name: The Jean-Luc Ponty Anthology - Le Voyage
+            release_date: '1996-01-23'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:6Wd0vZgVDObJHsmNfeemgd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr
+            href: https://api.spotify.com/v1/artists/3SInttLnvf5G4Aa95aAYPr
+            id: 3SInttLnvf5G4Aa95aAYPr
+            name: Jean-Luc Ponty
+            type: artist
+            uri: spotify:artist:3SInttLnvf5G4Aa95aAYPr
+          disc_number: 2
+          duration_ms: 304906
+          explicit: false
+          external_ids:
+            isrc: USAT20180841
+          external_urls:
+            spotify: https://open.spotify.com/track/5GIa6E19K8RJnSfzsD20YI
+          href: https://api.spotify.com/v1/tracks/5GIa6E19K8RJnSfzsD20YI
+          id: 5GIa6E19K8RJnSfzsD20YI
+          is_local: false
+          is_playable: true
+          name: Mystical Adventures (Suite), Pt. V
+          track_number: 7
+          type: track
+          uri: spotify:track:5GIa6E19K8RJnSfzsD20YI
+    isrc: USAT20180841

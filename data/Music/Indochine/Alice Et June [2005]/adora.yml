@@ -34,3 +34,126 @@ mediaFileData:
   year: 2005
   duration: 245.93333333333334
   modTime: 2023-07-17 00:00:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4hWPp059VEM684FPUHgfmd
+    trackId: 4hWPp059VEM684FPUHgfmd
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRZ050500285&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+              href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+              id: 7knmbOGe07k85GmK50vACB
+              name: Indochine
+              type: artist
+              uri: spotify:artist:7knmbOGe07k85GmK50vACB
+            external_urls:
+              spotify: https://open.spotify.com/album/14TVesH32I9bScUZG3jONo
+            href: https://api.spotify.com/v1/albums/14TVesH32I9bScUZG3jONo
+            id: 14TVesH32I9bScUZG3jONo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27316bc7747f698cc0ae0cd653c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0216bc7747f698cc0ae0cd653c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485116bc7747f698cc0ae0cd653c
+            is_playable: true
+            name: Alice & June
+            release_date: '2005-12-19'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:14TVesH32I9bScUZG3jONo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+            href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+            id: 7knmbOGe07k85GmK50vACB
+            name: Indochine
+            type: artist
+            uri: spotify:artist:7knmbOGe07k85GmK50vACB
+          disc_number: 1
+          duration_ms: 245933
+          explicit: false
+          external_ids:
+            isrc: FRZ050500285
+          external_urls:
+            spotify: https://open.spotify.com/track/4hWPp059VEM684FPUHgfmd
+          href: https://api.spotify.com/v1/tracks/4hWPp059VEM684FPUHgfmd
+          id: 4hWPp059VEM684FPUHgfmd
+          is_local: false
+          is_playable: true
+          name: Adora
+          track_number: 7
+          type: track
+          uri: spotify:track:4hWPp059VEM684FPUHgfmd
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+              href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+              id: 7knmbOGe07k85GmK50vACB
+              name: Indochine
+              type: artist
+              uri: spotify:artist:7knmbOGe07k85GmK50vACB
+            external_urls:
+              spotify: https://open.spotify.com/album/1zlAQktfhFyaUZMGm1G4ns
+            href: https://api.spotify.com/v1/albums/1zlAQktfhFyaUZMGm1G4ns
+            id: 1zlAQktfhFyaUZMGm1G4ns
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27309a0b0763656ef5948984273
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0209a0b0763656ef5948984273
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485109a0b0763656ef5948984273
+            is_playable: true
+            name: Alice & June (deluxe edition)
+            release_date: '2005-12-16'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:1zlAQktfhFyaUZMGm1G4ns
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+            href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+            id: 7knmbOGe07k85GmK50vACB
+            name: Indochine
+            type: artist
+            uri: spotify:artist:7knmbOGe07k85GmK50vACB
+          disc_number: 1
+          duration_ms: 245933
+          explicit: false
+          external_ids:
+            isrc: FRZ050500285
+          external_urls:
+            spotify: https://open.spotify.com/track/5du4bDH8f1gfa1poucmVC2
+          href: https://api.spotify.com/v1/tracks/5du4bDH8f1gfa1poucmVC2
+          id: 5du4bDH8f1gfa1poucmVC2
+          is_local: false
+          is_playable: true
+          name: Adora
+          track_number: 8
+          type: track
+          uri: spotify:track:5du4bDH8f1gfa1poucmVC2
+    isrc: FRZ050500285

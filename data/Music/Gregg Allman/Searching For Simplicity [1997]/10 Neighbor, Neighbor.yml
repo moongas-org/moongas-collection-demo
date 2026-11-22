@@ -34,3 +34,126 @@ mediaFileData:
   year: 1997
   duration: 235.33715625
   modTime: 2023-07-16 22:53:34+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2o98RS2QVm0nUMsjlF3mb5
+    trackId: 2o98RS2QVm0nUMsjlF3mb5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19702312&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+              href: https://api.spotify.com/v1/artists/0yDmbRjVTQsQd3OnMs5s3I
+              id: 0yDmbRjVTQsQd3OnMs5s3I
+              name: Gregg Allman
+              type: artist
+              uri: spotify:artist:0yDmbRjVTQsQd3OnMs5s3I
+            external_urls:
+              spotify: https://open.spotify.com/album/4jqlxqIdOdrgC9GxEnWO6v
+            href: https://api.spotify.com/v1/albums/4jqlxqIdOdrgC9GxEnWO6v
+            id: 4jqlxqIdOdrgC9GxEnWO6v
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b050404761f585997dd5131e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b050404761f585997dd5131e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b050404761f585997dd5131e
+            is_playable: true
+            name: Searching For Simplicity
+            release_date: '1997-10-16'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4jqlxqIdOdrgC9GxEnWO6v
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+            href: https://api.spotify.com/v1/artists/0yDmbRjVTQsQd3OnMs5s3I
+            id: 0yDmbRjVTQsQd3OnMs5s3I
+            name: Gregg Allman
+            type: artist
+            uri: spotify:artist:0yDmbRjVTQsQd3OnMs5s3I
+          disc_number: 1
+          duration_ms: 234240
+          explicit: false
+          external_ids:
+            isrc: USSM19702312
+          external_urls:
+            spotify: https://open.spotify.com/track/2o98RS2QVm0nUMsjlF3mb5
+          href: https://api.spotify.com/v1/tracks/2o98RS2QVm0nUMsjlF3mb5
+          id: 2o98RS2QVm0nUMsjlF3mb5
+          is_local: false
+          is_playable: true
+          name: Neighbor, Neighbor
+          track_number: 10
+          type: track
+          uri: spotify:track:2o98RS2QVm0nUMsjlF3mb5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+              href: https://api.spotify.com/v1/artists/0yDmbRjVTQsQd3OnMs5s3I
+              id: 0yDmbRjVTQsQd3OnMs5s3I
+              name: Gregg Allman
+              type: artist
+              uri: spotify:artist:0yDmbRjVTQsQd3OnMs5s3I
+            external_urls:
+              spotify: https://open.spotify.com/album/0RdWoy2qz4Ch0wpGrPjA7R
+            href: https://api.spotify.com/v1/albums/0RdWoy2qz4Ch0wpGrPjA7R
+            id: 0RdWoy2qz4Ch0wpGrPjA7R
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e2f87da8dfefd0a662b89123
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e2f87da8dfefd0a662b89123
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e2f87da8dfefd0a662b89123
+            is_playable: true
+            name: 'Playlist: The Very Best Of Gregg Allman'
+            release_date: '2012-01-31'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:0RdWoy2qz4Ch0wpGrPjA7R
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+            href: https://api.spotify.com/v1/artists/0yDmbRjVTQsQd3OnMs5s3I
+            id: 0yDmbRjVTQsQd3OnMs5s3I
+            name: Gregg Allman
+            type: artist
+            uri: spotify:artist:0yDmbRjVTQsQd3OnMs5s3I
+          disc_number: 1
+          duration_ms: 234320
+          explicit: false
+          external_ids:
+            isrc: USSM19702312
+          external_urls:
+            spotify: https://open.spotify.com/track/468bfuuRVK92P14HBbpP3i
+          href: https://api.spotify.com/v1/tracks/468bfuuRVK92P14HBbpP3i
+          id: 468bfuuRVK92P14HBbpP3i
+          is_local: false
+          is_playable: true
+          name: Neighbor, Neighbor
+          track_number: 13
+          type: track
+          uri: spotify:track:468bfuuRVK92P14HBbpP3i
+    isrc: USSM19702312

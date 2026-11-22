@@ -42,3 +42,126 @@ mediaFileData:
   year: 2018
   duration: 246.81333333333333
   modTime: 2024-05-22 17:32:23.486023+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1bWvNgH2N0LprU8Z9hzUUD
+    trackId: 1bWvNgH2N0LprU8Z9hzUUD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS1800099&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071
+              href: https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071
+              id: 59oA5WbbQvomJz2BuRG071
+              name: Jungle
+              type: artist
+              uri: spotify:artist:59oA5WbbQvomJz2BuRG071
+            external_urls:
+              spotify: https://open.spotify.com/album/209BLEoyk8RNQCXMzxYc2M
+            href: https://api.spotify.com/v1/albums/209BLEoyk8RNQCXMzxYc2M
+            id: 209BLEoyk8RNQCXMzxYc2M
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736ba40bae56d8e556bca870b1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026ba40bae56d8e556bca870b1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516ba40bae56d8e556bca870b1
+            is_playable: true
+            name: Beat 54 (All Good Now)
+            release_date: '2018-09-11'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:209BLEoyk8RNQCXMzxYc2M
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071
+            href: https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071
+            id: 59oA5WbbQvomJz2BuRG071
+            name: Jungle
+            type: artist
+            uri: spotify:artist:59oA5WbbQvomJz2BuRG071
+          disc_number: 1
+          duration_ms: 246815
+          explicit: false
+          external_ids:
+            isrc: GBBKS1800099
+          external_urls:
+            spotify: https://open.spotify.com/track/1bWvNgH2N0LprU8Z9hzUUD
+          href: https://api.spotify.com/v1/tracks/1bWvNgH2N0LprU8Z9hzUUD
+          id: 1bWvNgH2N0LprU8Z9hzUUD
+          is_local: false
+          is_playable: true
+          name: Beat 54 (All Good Now)
+          track_number: 1
+          type: track
+          uri: spotify:track:1bWvNgH2N0LprU8Z9hzUUD
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071
+              href: https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071
+              id: 59oA5WbbQvomJz2BuRG071
+              name: Jungle
+              type: artist
+              uri: spotify:artist:59oA5WbbQvomJz2BuRG071
+            external_urls:
+              spotify: https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm
+            href: https://api.spotify.com/v1/albums/5gYCZgmXzzWXxOCb9fMfBm
+            id: 5gYCZgmXzzWXxOCb9fMfBm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273010b80d6675af7c9c60c4d98
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02010b80d6675af7c9c60c4d98
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851010b80d6675af7c9c60c4d98
+            is_playable: true
+            name: For Ever
+            release_date: '2018-09-14'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5gYCZgmXzzWXxOCb9fMfBm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071
+            href: https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071
+            id: 59oA5WbbQvomJz2BuRG071
+            name: Jungle
+            type: artist
+            uri: spotify:artist:59oA5WbbQvomJz2BuRG071
+          disc_number: 1
+          duration_ms: 246815
+          explicit: false
+          external_ids:
+            isrc: GBBKS1800099
+          external_urls:
+            spotify: https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H
+          href: https://api.spotify.com/v1/tracks/7CFbh9XfJ40XaYWgCbYX3H
+          id: 7CFbh9XfJ40XaYWgCbYX3H
+          is_local: false
+          is_playable: true
+          name: Beat 54 (All Good Now)
+          track_number: 3
+          type: track
+          uri: spotify:track:7CFbh9XfJ40XaYWgCbYX3H
+    isrc: GBBKS1800099

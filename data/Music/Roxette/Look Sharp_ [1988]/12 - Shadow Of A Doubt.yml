@@ -56,3 +56,126 @@ mediaFileData:
   year: 1988
   duration: 254.85061224489795
   modTime: 2026-07-22 22:32:20.450353+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0XNVYUBMuIB7cQxq7VspVf
+    trackId: 0XNVYUBMuIB7cQxq7VspVf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ASEAME8878120&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY
+              href: https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY
+              id: 2SHhfs4BiDxGQ3oxqf0UHY
+              name: Roxette
+              type: artist
+              uri: spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZbAooTInchkC9RH7SPKVb
+            href: https://api.spotify.com/v1/albums/3ZbAooTInchkC9RH7SPKVb
+            id: 3ZbAooTInchkC9RH7SPKVb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27315c293b9489fa5f5fdad4607
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0215c293b9489fa5f5fdad4607
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485115c293b9489fa5f5fdad4607
+            is_playable: true
+            name: Look Sharp!
+            release_date: '1988-10-21'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3ZbAooTInchkC9RH7SPKVb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY
+            href: https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY
+            id: 2SHhfs4BiDxGQ3oxqf0UHY
+            name: Roxette
+            type: artist
+            uri: spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY
+          disc_number: 1
+          duration_ms: 254800
+          explicit: false
+          external_ids:
+            isrc: SEAME8878120
+          external_urls:
+            spotify: https://open.spotify.com/track/0XNVYUBMuIB7cQxq7VspVf
+          href: https://api.spotify.com/v1/tracks/0XNVYUBMuIB7cQxq7VspVf
+          id: 0XNVYUBMuIB7cQxq7VspVf
+          is_local: false
+          is_playable: true
+          name: Shadow Of A Doubt
+          track_number: 12
+          type: track
+          uri: spotify:track:0XNVYUBMuIB7cQxq7VspVf
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY
+              href: https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY
+              id: 2SHhfs4BiDxGQ3oxqf0UHY
+              name: Roxette
+              type: artist
+              uri: spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY
+            external_urls:
+              spotify: https://open.spotify.com/album/70EpMMqKGTqr61NHxBlLvt
+            href: https://api.spotify.com/v1/albums/70EpMMqKGTqr61NHxBlLvt
+            id: 70EpMMqKGTqr61NHxBlLvt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d3249f443c3ef2daa70818d0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d3249f443c3ef2daa70818d0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d3249f443c3ef2daa70818d0
+            is_playable: true
+            name: Look Sharp! 30th Anniversary Edition
+            release_date: '1988-10-22'
+            release_date_precision: day
+            total_tracks: 52
+            type: album
+            uri: spotify:album:70EpMMqKGTqr61NHxBlLvt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY
+            href: https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY
+            id: 2SHhfs4BiDxGQ3oxqf0UHY
+            name: Roxette
+            type: artist
+            uri: spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY
+          disc_number: 1
+          duration_ms: 254800
+          explicit: false
+          external_ids:
+            isrc: SEAME8878120
+          external_urls:
+            spotify: https://open.spotify.com/track/3ow5aofCfUrX6Mfbh2ff8x
+          href: https://api.spotify.com/v1/tracks/3ow5aofCfUrX6Mfbh2ff8x
+          id: 3ow5aofCfUrX6Mfbh2ff8x
+          is_local: false
+          is_playable: true
+          name: Shadow Of A Doubt
+          track_number: 12
+          type: track
+          uri: spotify:track:3ow5aofCfUrX6Mfbh2ff8x
+    isrc: SEAME8878120

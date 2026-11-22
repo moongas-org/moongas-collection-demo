@@ -82,3 +82,72 @@ mediaFileData:
   year: 1973
   duration: 213.456
   modTime: 2025-01-31 02:10:41.253083+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3VHkH8PShZ1VVZw9BTKN6P
+    trackId: 3VHkH8PShZ1VVZw9BTKN6P
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11801716&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/71GVQPtwzFchmtXK3SjMKa
+            href: https://api.spotify.com/v1/albums/71GVQPtwzFchmtXK3SjMKa
+            id: 71GVQPtwzFchmtXK3SjMKa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27302d8e0b39b6058ba1c0c48c9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0202d8e0b39b6058ba1c0c48c9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485102d8e0b39b6058ba1c0c48c9
+            is_playable: true
+            name: Legacy
+            release_date: '2018-11-02'
+            release_date_precision: day
+            total_tracks: 116
+            type: album
+            uri: spotify:album:71GVQPtwzFchmtXK3SjMKa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 11
+          duration_ms: 213560
+          explicit: false
+          external_ids:
+            isrc: USRH11801716
+          external_urls:
+            spotify: https://open.spotify.com/track/3VHkH8PShZ1VVZw9BTKN6P
+          href: https://api.spotify.com/v1/tracks/3VHkH8PShZ1VVZw9BTKN6P
+          id: 3VHkH8PShZ1VVZw9BTKN6P
+          is_local: false
+          is_playable: true
+          name: Outlaw Man - Single Version; 2018 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:3VHkH8PShZ1VVZw9BTKN6P
+    isrc: USRH11801716

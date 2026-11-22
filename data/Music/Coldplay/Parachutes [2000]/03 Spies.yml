@@ -82,3 +82,180 @@ mediaFileData:
   year: 2000
   duration: 318.8
   modTime: 2026-10-23 21:09:16.641482+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2mLgOcRkEgq89j8WstUpui
+    trackId: 2mLgOcRkEgq89j8WstUpui
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE0000568&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+              href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+              id: 4gzpq5DPGxSnKTe4SA8HAU
+              name: Coldplay
+              type: artist
+              uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+            external_urls:
+              spotify: https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra
+            href: https://api.spotify.com/v1/albums/6ZG5lRT77aJ3btmArcykra
+            id: 6ZG5lRT77aJ3btmArcykra
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a
+            is_playable: true
+            name: Parachutes
+            release_date: '2000-07-10'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6ZG5lRT77aJ3btmArcykra
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 318773
+          explicit: false
+          external_ids:
+            isrc: GBAYE0000568
+          external_urls:
+            spotify: https://open.spotify.com/track/2mLgOcRkEgq89j8WstUpui
+          href: https://api.spotify.com/v1/tracks/2mLgOcRkEgq89j8WstUpui
+          id: 2mLgOcRkEgq89j8WstUpui
+          is_local: false
+          is_playable: true
+          name: Spies
+          track_number: 3
+          type: track
+          uri: spotify:track:2mLgOcRkEgq89j8WstUpui
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0SKoj6q0TjRZ0iKPWIsKMz
+            href: https://api.spotify.com/v1/albums/0SKoj6q0TjRZ0iKPWIsKMz
+            id: 0SKoj6q0TjRZ0iKPWIsKMz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273142cbbc69d9118c7678707a2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02142cbbc69d9118c7678707a2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851142cbbc69d9118c7678707a2
+            is_playable: true
+            name: Britpop
+            release_date: '2023-06-16'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:0SKoj6q0TjRZ0iKPWIsKMz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 318773
+          explicit: false
+          external_ids:
+            isrc: GBAYE0000568
+          external_urls:
+            spotify: https://open.spotify.com/track/0nApCbo6G48mxxMEzD3JQg
+          href: https://api.spotify.com/v1/tracks/0nApCbo6G48mxxMEzD3JQg
+          id: 0nApCbo6G48mxxMEzD3JQg
+          is_local: false
+          is_playable: true
+          name: Spies
+          track_number: 6
+          type: track
+          uri: spotify:track:0nApCbo6G48mxxMEzD3JQg
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1cAMisaiQ7LLg9oON5NfxA
+            href: https://api.spotify.com/v1/albums/1cAMisaiQ7LLg9oON5NfxA
+            id: 1cAMisaiQ7LLg9oON5NfxA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737685b9556352bbc0777d6a50
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027685b9556352bbc0777d6a50
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517685b9556352bbc0777d6a50
+            is_playable: true
+            name: Weekend BBQ
+            release_date: '2025-04-24'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:1cAMisaiQ7LLg9oON5NfxA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 318773
+          explicit: false
+          external_ids:
+            isrc: GBAYE0000568
+          external_urls:
+            spotify: https://open.spotify.com/track/6UUXtz6hHr4XXuMENsdyl2
+          href: https://api.spotify.com/v1/tracks/6UUXtz6hHr4XXuMENsdyl2
+          id: 6UUXtz6hHr4XXuMENsdyl2
+          is_local: false
+          is_playable: true
+          name: Spies
+          track_number: 23
+          type: track
+          uri: spotify:track:6UUXtz6hHr4XXuMENsdyl2
+    isrc: GBAYE0000568

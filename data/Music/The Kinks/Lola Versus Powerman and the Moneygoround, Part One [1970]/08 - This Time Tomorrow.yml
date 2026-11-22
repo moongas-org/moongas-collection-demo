@@ -66,3 +66,126 @@ mediaFileData:
   year: 1970
   duration: 203.28
   modTime: 2024-01-12 00:40:22.959924+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1KhuVgd0u0RZ2hBBvCIb5c
+    trackId: 1KhuVgd0u0RZ2hBBvCIb5c
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGB5KW1499819&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+              href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+              id: 1SQRv42e4PjEYfPhS0Tk9E
+              name: The Kinks
+              type: artist
+              uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+            external_urls:
+              spotify: https://open.spotify.com/album/3GUrTMGPRpidbhjNcc0Ekh
+            href: https://api.spotify.com/v1/albums/3GUrTMGPRpidbhjNcc0Ekh
+            id: 3GUrTMGPRpidbhjNcc0Ekh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731cf4043046108362208bfb3e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021cf4043046108362208bfb3e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511cf4043046108362208bfb3e
+            is_playable: true
+            name: Lola Versus Powerman and the Moneygoround, Pt. One + Percy (Super Deluxe)
+            release_date: '2014-10-20'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:3GUrTMGPRpidbhjNcc0Ekh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+            href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+            id: 1SQRv42e4PjEYfPhS0Tk9E
+            name: The Kinks
+            type: artist
+            uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+          disc_number: 1
+          duration_ms: 204066
+          explicit: false
+          external_ids:
+            isrc: GB5KW1499819
+          external_urls:
+            spotify: https://open.spotify.com/track/1KhuVgd0u0RZ2hBBvCIb5c
+          href: https://api.spotify.com/v1/tracks/1KhuVgd0u0RZ2hBBvCIb5c
+          id: 1KhuVgd0u0RZ2hBBvCIb5c
+          is_local: false
+          is_playable: true
+          name: This Time Tomorrow (Stereo) (2014 Remaster)
+          track_number: 8
+          type: track
+          uri: spotify:track:1KhuVgd0u0RZ2hBBvCIb5c
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+              href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+              id: 1SQRv42e4PjEYfPhS0Tk9E
+              name: The Kinks
+              type: artist
+              uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+            external_urls:
+              spotify: https://open.spotify.com/album/1PhXs9i8vwln9NxxdeXJ7W
+            href: https://api.spotify.com/v1/albums/1PhXs9i8vwln9NxxdeXJ7W
+            id: 1PhXs9i8vwln9NxxdeXJ7W
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f62503a9d4c4a8bafb4cfd53
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f62503a9d4c4a8bafb4cfd53
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f62503a9d4c4a8bafb4cfd53
+            is_playable: true
+            name: The Anthology 1964 - 1971
+            release_date: '2014-12-16'
+            release_date_precision: day
+            total_tracks: 140
+            type: album
+            uri: spotify:album:1PhXs9i8vwln9NxxdeXJ7W
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+            href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+            id: 1SQRv42e4PjEYfPhS0Tk9E
+            name: The Kinks
+            type: artist
+            uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+          disc_number: 5
+          duration_ms: 204066
+          explicit: false
+          external_ids:
+            isrc: GB5KW1499819
+          external_urls:
+            spotify: https://open.spotify.com/track/0UhXSiMa7mVRQahCJnbfgs
+          href: https://api.spotify.com/v1/tracks/0UhXSiMa7mVRQahCJnbfgs
+          id: 0UhXSiMa7mVRQahCJnbfgs
+          is_local: false
+          is_playable: true
+          name: This Time Tomorrow - Stereo - 2014 Remaster
+          track_number: 13
+          type: track
+          uri: spotify:track:0UhXSiMa7mVRQahCJnbfgs
+    isrc: GB5KW1499819

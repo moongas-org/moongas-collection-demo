@@ -49,3 +49,72 @@ mediaFileData:
   year: 1987
   duration: 267.4155
   modTime: 2023-07-17 00:00:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4pcpqfSn8tfm6vQMMZPjpM
+    trackId: 4pcpqfSn8tfm6vQMMZPjpM
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRZ058700040&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+              href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+              id: 7knmbOGe07k85GmK50vACB
+              name: Indochine
+              type: artist
+              uri: spotify:artist:7knmbOGe07k85GmK50vACB
+            external_urls:
+              spotify: https://open.spotify.com/album/0vq46Jm7MgvO3AoVR6qhry
+            href: https://api.spotify.com/v1/albums/0vq46Jm7MgvO3AoVR6qhry
+            id: 0vq46Jm7MgvO3AoVR6qhry
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734f9ce7c576b76e477d2cae3e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024f9ce7c576b76e477d2cae3e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514f9ce7c576b76e477d2cae3e
+            is_playable: true
+            name: Unita (Best Of)
+            release_date: '1996-02-19'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0vq46Jm7MgvO3AoVR6qhry
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+            href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+            id: 7knmbOGe07k85GmK50vACB
+            name: Indochine
+            type: artist
+            uri: spotify:artist:7knmbOGe07k85GmK50vACB
+          disc_number: 1
+          duration_ms: 266133
+          explicit: false
+          external_ids:
+            isrc: FRZ058700040
+          external_urls:
+            spotify: https://open.spotify.com/track/4pcpqfSn8tfm6vQMMZPjpM
+          href: https://api.spotify.com/v1/tracks/4pcpqfSn8tfm6vQMMZPjpM
+          id: 4pcpqfSn8tfm6vQMMZPjpM
+          is_local: false
+          is_playable: true
+          name: Les tzars
+          track_number: 3
+          type: track
+          uri: spotify:track:4pcpqfSn8tfm6vQMMZPjpM
+    isrc: FRZ058700040

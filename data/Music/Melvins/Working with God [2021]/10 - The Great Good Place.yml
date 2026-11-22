@@ -34,3 +34,126 @@ mediaFileData:
   year: 2021
   duration: 231.216
   modTime: 2025-03-10 23:03:09.810923+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7bJZyTUEdnajWZl0BABadN
+    trackId: 7bJZyTUEdnajWZl0BABadN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM5WW1500879&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3
+              href: https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3
+              id: 6aVjo0xHSiuW5hkasoYSR3
+              name: Melvins
+              type: artist
+              uri: spotify:artist:6aVjo0xHSiuW5hkasoYSR3
+            external_urls:
+              spotify: https://open.spotify.com/album/6DopY1dcG1KjVJwNluUaGp
+            href: https://api.spotify.com/v1/albums/6DopY1dcG1KjVJwNluUaGp
+            id: 6DopY1dcG1KjVJwNluUaGp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739d1ab3a1ec8c1e48920c75a8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029d1ab3a1ec8c1e48920c75a8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519d1ab3a1ec8c1e48920c75a8
+            is_playable: true
+            name: Working With God
+            release_date: '2021-02-26'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:6DopY1dcG1KjVJwNluUaGp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3
+            href: https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3
+            id: 6aVjo0xHSiuW5hkasoYSR3
+            name: Melvins
+            type: artist
+            uri: spotify:artist:6aVjo0xHSiuW5hkasoYSR3
+          disc_number: 1
+          duration_ms: 230773
+          explicit: true
+          external_ids:
+            isrc: QM5WW1500879
+          external_urls:
+            spotify: https://open.spotify.com/track/7bJZyTUEdnajWZl0BABadN
+          href: https://api.spotify.com/v1/tracks/7bJZyTUEdnajWZl0BABadN
+          id: 7bJZyTUEdnajWZl0BABadN
+          is_local: false
+          is_playable: true
+          name: The Great Good Place
+          track_number: 10
+          type: track
+          uri: spotify:track:7bJZyTUEdnajWZl0BABadN
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3
+              href: https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3
+              id: 6aVjo0xHSiuW5hkasoYSR3
+              name: Melvins
+              type: artist
+              uri: spotify:artist:6aVjo0xHSiuW5hkasoYSR3
+            external_urls:
+              spotify: https://open.spotify.com/album/1PCD3dznZ4q38SMRnIVMok
+            href: https://api.spotify.com/v1/albums/1PCD3dznZ4q38SMRnIVMok
+            id: 1PCD3dznZ4q38SMRnIVMok
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735f74b57b9dd28b1569193645
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025f74b57b9dd28b1569193645
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515f74b57b9dd28b1569193645
+            is_playable: true
+            name: The Great Good Place
+            release_date: '2021-01-22'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:1PCD3dznZ4q38SMRnIVMok
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3
+            href: https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3
+            id: 6aVjo0xHSiuW5hkasoYSR3
+            name: Melvins
+            type: artist
+            uri: spotify:artist:6aVjo0xHSiuW5hkasoYSR3
+          disc_number: 1
+          duration_ms: 230773
+          explicit: true
+          external_ids:
+            isrc: QM5WW1500879
+          external_urls:
+            spotify: https://open.spotify.com/track/3AFILE9FofsXn8oNxTBXWi
+          href: https://api.spotify.com/v1/tracks/3AFILE9FofsXn8oNxTBXWi
+          id: 3AFILE9FofsXn8oNxTBXWi
+          is_local: false
+          is_playable: true
+          name: The Great Good Place
+          track_number: 1
+          type: track
+          uri: spotify:track:3AFILE9FofsXn8oNxTBXWi
+    isrc: QM5WW1500879

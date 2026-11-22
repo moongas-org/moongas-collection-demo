@@ -34,3 +34,288 @@ mediaFileData:
   year: 2000
   duration: 129.3061
   modTime: 2023-04-28 10:54:35.440000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3YMTi4E5AzP3rKV7uBVNHt
+    trackId: 3YMTi4E5AzP3rKV7uBVNHt
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW10021709&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4pC9gvf5EESBWeTzcVUmGQ
+            href: https://api.spotify.com/v1/albums/4pC9gvf5EESBWeTzcVUmGQ
+            id: 4pC9gvf5EESBWeTzcVUmGQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e5313219c2b841c81bdef8c4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e5313219c2b841c81bdef8c4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e5313219c2b841c81bdef8c4
+            is_playable: true
+            name: '20 #1’s: Singer-Songwriters'
+            release_date: '2017-03-24'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4pC9gvf5EESBWeTzcVUmGQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 130306
+          explicit: false
+          external_ids:
+            isrc: USDW10021709
+          external_urls:
+            spotify: https://open.spotify.com/track/3YMTi4E5AzP3rKV7uBVNHt
+          href: https://api.spotify.com/v1/tracks/3YMTi4E5AzP3rKV7uBVNHt
+          id: 3YMTi4E5AzP3rKV7uBVNHt
+          is_local: false
+          is_playable: true
+          name: Somebody That I Used To Know
+          track_number: 5
+          type: track
+          uri: spotify:track:3YMTi4E5AzP3rKV7uBVNHt
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+              href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+              id: 2ApaG60P4r0yhBoDCGD8YG
+              name: Elliott Smith
+              type: artist
+              uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+            external_urls:
+              spotify: https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan
+            href: https://api.spotify.com/v1/albums/5EUL6RGTIuVJCaCWGOedan
+            id: 5EUL6RGTIuVJCaCWGOedan
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737d0ca4f8d534678e74a63b39
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027d0ca4f8d534678e74a63b39
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517d0ca4f8d534678e74a63b39
+            is_playable: true
+            name: Figure 8 (Deluxe Edition)
+            release_date: '2000-04-18'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:5EUL6RGTIuVJCaCWGOedan
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 129333
+          explicit: false
+          external_ids:
+            isrc: USDW10021709
+          external_urls:
+            spotify: https://open.spotify.com/track/6rM5LYiQDkH9BpTmThBfTE
+          href: https://api.spotify.com/v1/tracks/6rM5LYiQDkH9BpTmThBfTE
+          id: 6rM5LYiQDkH9BpTmThBfTE
+          is_local: false
+          is_playable: true
+          name: Somebody That I Used To Know
+          track_number: 2
+          type: track
+          uri: spotify:track:6rM5LYiQDkH9BpTmThBfTE
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+              href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+              id: 2ApaG60P4r0yhBoDCGD8YG
+              name: Elliott Smith
+              type: artist
+              uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+            external_urls:
+              spotify: https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts
+            href: https://api.spotify.com/v1/albums/7DC0pE943VR5tAKIvQXHts
+            id: 7DC0pE943VR5tAKIvQXHts
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273169a2393509223c26e4eedc5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02169a2393509223c26e4eedc5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851169a2393509223c26e4eedc5
+            is_playable: true
+            name: Figure 8
+            release_date: '2000-04-18'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7DC0pE943VR5tAKIvQXHts
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 129333
+          explicit: false
+          external_ids:
+            isrc: USDW10021709
+          external_urls:
+            spotify: https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY
+          href: https://api.spotify.com/v1/tracks/4xfAVJL8R7mVYbDk8a9xOY
+          id: 4xfAVJL8R7mVYbDk8a9xOY
+          is_local: false
+          is_playable: true
+          name: Somebody That I Used To Know
+          track_number: 2
+          type: track
+          uri: spotify:track:4xfAVJL8R7mVYbDk8a9xOY
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0CjnQ6MgWNAilMDsOQw3By
+            href: https://api.spotify.com/v1/albums/0CjnQ6MgWNAilMDsOQw3By
+            id: 0CjnQ6MgWNAilMDsOQw3By
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a203b6b71a106d6ae4aebefb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a203b6b71a106d6ae4aebefb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a203b6b71a106d6ae4aebefb
+            is_playable: true
+            name: Cozy Gaming
+            release_date: '2026-08-22'
+            release_date_precision: day
+            total_tracks: 71
+            type: album
+            uri: spotify:album:0CjnQ6MgWNAilMDsOQw3By
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 129333
+          explicit: false
+          external_ids:
+            isrc: USDW10021709
+          external_urls:
+            spotify: https://open.spotify.com/track/1ZA5GT0Arup4K5N1jj6C4F
+          href: https://api.spotify.com/v1/tracks/1ZA5GT0Arup4K5N1jj6C4F
+          id: 1ZA5GT0Arup4K5N1jj6C4F
+          is_local: false
+          is_playable: true
+          name: Somebody That I Used To Know
+          track_number: 51
+          type: track
+          uri: spotify:track:1ZA5GT0Arup4K5N1jj6C4F
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1oIwOYFUUAzWgWDzQ1jWI0
+            href: https://api.spotify.com/v1/albums/1oIwOYFUUAzWgWDzQ1jWI0
+            id: 1oIwOYFUUAzWgWDzQ1jWI0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27353328f609ee544e13a23645b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0253328f609ee544e13a23645b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485153328f609ee544e13a23645b
+            is_playable: true
+            name: Musik Zum Wandern
+            release_date: '2023-09-30'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:1oIwOYFUUAzWgWDzQ1jWI0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 129332
+          explicit: false
+          external_ids:
+            isrc: USDW10021709
+          external_urls:
+            spotify: https://open.spotify.com/track/5McfvUdDa5KF00EKxO1H5M
+          href: https://api.spotify.com/v1/tracks/5McfvUdDa5KF00EKxO1H5M
+          id: 5McfvUdDa5KF00EKxO1H5M
+          is_local: false
+          is_playable: true
+          name: Somebody That I Used To Know
+          track_number: 9
+          type: track
+          uri: spotify:track:5McfvUdDa5KF00EKxO1H5M
+    isrc: USDW10021709
