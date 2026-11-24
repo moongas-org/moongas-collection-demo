@@ -146,3 +146,180 @@ mediaFileData:
   year: 1975
   duration: 508.032
   modTime: 2025-01-05 21:00:46.594601+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3T9m5lBO47DBjXZKzfDMBk
+    trackId: 3T9m5lBO47DBjXZKzfDMBk
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71100539&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+              href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+              id: 1dfeR4HaWDbWqFHLkxsg1d
+              name: Queen
+              type: artist
+              uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+            external_urls:
+              spotify: https://open.spotify.com/album/5cD48TT2i1x5zzB1XfaQKs
+            href: https://api.spotify.com/v1/albums/5cD48TT2i1x5zzB1XfaQKs
+            id: 5cD48TT2i1x5zzB1XfaQKs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738541836b0bb1ee708bca682b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028541836b0bb1ee708bca682b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518541836b0bb1ee708bca682b
+            is_playable: true
+            name: Epic
+            release_date: '2025-06-13'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5cD48TT2i1x5zzB1XfaQKs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+            href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+            id: 1dfeR4HaWDbWqFHLkxsg1d
+            name: Queen
+            type: artist
+            uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+          disc_number: 1
+          duration_ms: 500790
+          explicit: false
+          external_ids:
+            isrc: GBUM71100539
+          external_urls:
+            spotify: https://open.spotify.com/track/3T9m5lBO47DBjXZKzfDMBk
+          href: https://api.spotify.com/v1/tracks/3T9m5lBO47DBjXZKzfDMBk
+          id: 3T9m5lBO47DBjXZKzfDMBk
+          is_local: false
+          is_playable: true
+          name: The Prophet's Song
+          track_number: 3
+          type: track
+          uri: spotify:track:3T9m5lBO47DBjXZKzfDMBk
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+              href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+              id: 1dfeR4HaWDbWqFHLkxsg1d
+              name: Queen
+              type: artist
+              uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+            external_urls:
+              spotify: https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM
+            href: https://api.spotify.com/v1/albums/1TkbyIkf6GSrO5e7gWS4AM
+            id: 1TkbyIkf6GSrO5e7gWS4AM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fdab4a163ab9f6db72c952ee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fdab4a163ab9f6db72c952ee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fdab4a163ab9f6db72c952ee
+            is_playable: true
+            name: A Night At The Opera
+            release_date: '1975-11-21'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1TkbyIkf6GSrO5e7gWS4AM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+            href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+            id: 1dfeR4HaWDbWqFHLkxsg1d
+            name: Queen
+            type: artist
+            uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+          disc_number: 1
+          duration_ms: 500790
+          explicit: false
+          external_ids:
+            isrc: GBUM71100539
+          external_urls:
+            spotify: https://open.spotify.com/track/2h00UuGo4RKswPtLitr03l
+          href: https://api.spotify.com/v1/tracks/2h00UuGo4RKswPtLitr03l
+          id: 2h00UuGo4RKswPtLitr03l
+          is_local: false
+          is_playable: true
+          name: The Prophet's Song
+          track_number: 8
+          type: track
+          uri: spotify:track:2h00UuGo4RKswPtLitr03l
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+              href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+              id: 1dfeR4HaWDbWqFHLkxsg1d
+              name: Queen
+              type: artist
+              uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+            external_urls:
+              spotify: https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC
+            href: https://api.spotify.com/v1/albums/28ZLOn6tPfDTPGIqvwiWvC
+            id: 28ZLOn6tPfDTPGIqvwiWvC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d2efdc1028a4881656472227
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d2efdc1028a4881656472227
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d2efdc1028a4881656472227
+            is_playable: true
+            name: A Night At The Opera (Deluxe Edition)
+            release_date: '1975-11-21'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:28ZLOn6tPfDTPGIqvwiWvC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d
+            href: https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d
+            id: 1dfeR4HaWDbWqFHLkxsg1d
+            name: Queen
+            type: artist
+            uri: spotify:artist:1dfeR4HaWDbWqFHLkxsg1d
+          disc_number: 1
+          duration_ms: 500790
+          explicit: false
+          external_ids:
+            isrc: GBUM71100539
+          external_urls:
+            spotify: https://open.spotify.com/track/1O9amhGa3YdGs4LjylFfEz
+          href: https://api.spotify.com/v1/tracks/1O9amhGa3YdGs4LjylFfEz
+          id: 1O9amhGa3YdGs4LjylFfEz
+          is_local: false
+          is_playable: true
+          name: The Prophet's Song
+          track_number: 8
+          type: track
+          uri: spotify:track:1O9amhGa3YdGs4LjylFfEz
+    isrc: GBUM71100539

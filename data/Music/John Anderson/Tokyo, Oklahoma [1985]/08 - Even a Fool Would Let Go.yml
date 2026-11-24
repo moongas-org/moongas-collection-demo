@@ -34,3 +34,126 @@ mediaFileData:
   year: 1985
   duration: 211.09551020408162
   modTime: 2026-04-14 16:33:27.941624+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3XNm02iTrYBxfsfITHVDxg
+    trackId: 3XNm02iTrYBxfsfITHVDxg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10704088&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/233TO7JQ5IIy2lAPPVRNJL
+            href: https://api.spotify.com/v1/albums/233TO7JQ5IIy2lAPPVRNJL
+            id: 233TO7JQ5IIy2lAPPVRNJL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c6ac6280e5db860874383e15
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c6ac6280e5db860874383e15
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c6ac6280e5db860874383e15
+            is_playable: true
+            name: Tokyo, Oklahoma
+            release_date: '1985'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:233TO7JQ5IIy2lAPPVRNJL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 211026
+          explicit: false
+          external_ids:
+            isrc: USWB10704088
+          external_urls:
+            spotify: https://open.spotify.com/track/3XNm02iTrYBxfsfITHVDxg
+          href: https://api.spotify.com/v1/tracks/3XNm02iTrYBxfsfITHVDxg
+          id: 3XNm02iTrYBxfsfITHVDxg
+          is_local: false
+          is_playable: true
+          name: Even a Fool Would Let Go
+          track_number: 8
+          type: track
+          uri: spotify:track:3XNm02iTrYBxfsfITHVDxg
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/0kqkhb1pTYJNpEAru1sYMU
+            href: https://api.spotify.com/v1/albums/0kqkhb1pTYJNpEAru1sYMU
+            id: 0kqkhb1pTYJNpEAru1sYMU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736325fec97d706a6c6fab7cbe
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026325fec97d706a6c6fab7cbe
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516325fec97d706a6c6fab7cbe
+            is_playable: true
+            name: 'Black Sheep: The Complete Warner Albums'
+            release_date: '2020-10-30'
+            release_date_precision: day
+            total_tracks: 83
+            type: album
+            uri: spotify:album:0kqkhb1pTYJNpEAru1sYMU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 211026
+          explicit: false
+          external_ids:
+            isrc: USWB10704088
+          external_urls:
+            spotify: https://open.spotify.com/track/3uIFyl0mbdZr9IKSxyYhuD
+          href: https://api.spotify.com/v1/tracks/3uIFyl0mbdZr9IKSxyYhuD
+          id: 3uIFyl0mbdZr9IKSxyYhuD
+          is_local: false
+          is_playable: true
+          name: Even a Fool Would Let Go
+          track_number: 71
+          type: track
+          uri: spotify:track:3uIFyl0mbdZr9IKSxyYhuD
+    isrc: USWB10704088

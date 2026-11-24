@@ -63,3 +63,126 @@ mediaFileData:
   year: 1977
   duration: 289.5412244897959
   modTime: 2023-04-23 15:37:57.560000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7IMYD5ULnwTD98eyEkclTQ
+    trackId: 7IMYD5ULnwTD98eyEkclTQ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19900860&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/4ksJGDgtixAqJ390XWv0Ua
+            href: https://api.spotify.com/v1/albums/4ksJGDgtixAqJ390XWv0Ua
+            id: 4ksJGDgtixAqJ390XWv0Ua
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f704c874cd053dbac89591b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f704c874cd053dbac89591b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f704c874cd053dbac89591b3
+            is_playable: true
+            name: Popular Favorites 1976 - 1992 / Sand in the Vaseline
+            release_date: '1992-10-13'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:4ksJGDgtixAqJ390XWv0Ua
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 289573
+          explicit: false
+          external_ids:
+            isrc: USWB19900860
+          external_urls:
+            spotify: https://open.spotify.com/track/7IMYD5ULnwTD98eyEkclTQ
+          href: https://api.spotify.com/v1/tracks/7IMYD5ULnwTD98eyEkclTQ
+          id: 7IMYD5ULnwTD98eyEkclTQ
+          is_local: false
+          is_playable: true
+          name: No Compassion
+          track_number: 7
+          type: track
+          uri: spotify:track:7IMYD5ULnwTD98eyEkclTQ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S
+            href: https://api.spotify.com/v1/albums/0r7o2FeARRr23EZ0TJ0a8S
+            id: 0r7o2FeARRr23EZ0TJ0a8S
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b74dc29f68a36438421a9f1d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b74dc29f68a36438421a9f1d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b74dc29f68a36438421a9f1d
+            is_playable: true
+            name: Talking Heads '77
+            release_date: '1977-09-16'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0r7o2FeARRr23EZ0TJ0a8S
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 290800
+          explicit: false
+          external_ids:
+            isrc: USWB19900860
+          external_urls:
+            spotify: https://open.spotify.com/track/50hhrjB7kkqdOLEy6jX0HR
+          href: https://api.spotify.com/v1/tracks/50hhrjB7kkqdOLEy6jX0HR
+          id: 50hhrjB7kkqdOLEy6jX0HR
+          is_local: false
+          is_playable: true
+          name: No Compassion
+          track_number: 6
+          type: track
+          uri: spotify:track:50hhrjB7kkqdOLEy6jX0HR
+    isrc: USWB19900860

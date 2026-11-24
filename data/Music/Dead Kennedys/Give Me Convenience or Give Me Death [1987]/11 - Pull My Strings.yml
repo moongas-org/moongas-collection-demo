@@ -34,3 +34,72 @@ mediaFileData:
   year: 1987
   duration: 356.616
   modTime: 2024-12-01 23:47:47.591475+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4TY7yXnS4bLwwzQd9iy9EW
+    trackId: 4TY7yXnS4bLwwzQd9iy9EW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSA560456454&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV
+              href: https://api.spotify.com/v1/artists/30U8fYtiNpeA5KH6H87QUV
+              id: 30U8fYtiNpeA5KH6H87QUV
+              name: Dead Kennedys
+              type: artist
+              uri: spotify:artist:30U8fYtiNpeA5KH6H87QUV
+            external_urls:
+              spotify: https://open.spotify.com/album/2x5IF6C5TgCyp3zasMUYgG
+            href: https://api.spotify.com/v1/albums/2x5IF6C5TgCyp3zasMUYgG
+            id: 2x5IF6C5TgCyp3zasMUYgG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b409fb10b317c00acc66f14b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b409fb10b317c00acc66f14b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b409fb10b317c00acc66f14b
+            is_playable: true
+            name: Give Me Convenience or Give Me Death
+            release_date: '1987-06-15'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2x5IF6C5TgCyp3zasMUYgG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV
+            href: https://api.spotify.com/v1/artists/30U8fYtiNpeA5KH6H87QUV
+            id: 30U8fYtiNpeA5KH6H87QUV
+            name: Dead Kennedys
+            type: artist
+            uri: spotify:artist:30U8fYtiNpeA5KH6H87QUV
+          disc_number: 1
+          duration_ms: 352586
+          explicit: true
+          external_ids:
+            isrc: USA560456454
+          external_urls:
+            spotify: https://open.spotify.com/track/4TY7yXnS4bLwwzQd9iy9EW
+          href: https://api.spotify.com/v1/tracks/4TY7yXnS4bLwwzQd9iy9EW
+          id: 4TY7yXnS4bLwwzQd9iy9EW
+          is_local: false
+          is_playable: true
+          name: Pull My Strings
+          track_number: 11
+          type: track
+          uri: spotify:track:4TY7yXnS4bLwwzQd9iy9EW
+    isrc: USA560456454

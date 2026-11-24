@@ -53,3 +53,72 @@ mediaFileData:
   year: 2008
   duration: 235.392
   modTime: 2024-11-01 19:04:25.153480+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6C2MCGgNdVmtrZMIh3rZVY
+    trackId: 6C2MCGgNdVmtrZMIh3rZVY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM70839874&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV
+            href: https://api.spotify.com/v1/albums/0gd0t1iQ3WReB8TNQvALTV
+            id: 0gd0t1iQ3WReB8TNQvALTV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273980589b09c55f79a4f90e227
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02980589b09c55f79a4f90e227
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851980589b09c55f79a4f90e227
+            is_playable: true
+            name: 4:13 Dream
+            release_date: '2008-10-27'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0gd0t1iQ3WReB8TNQvALTV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 235360
+          explicit: false
+          external_ids:
+            isrc: USUM70839874
+          external_urls:
+            spotify: https://open.spotify.com/track/6C2MCGgNdVmtrZMIh3rZVY
+          href: https://api.spotify.com/v1/tracks/6C2MCGgNdVmtrZMIh3rZVY
+          id: 6C2MCGgNdVmtrZMIh3rZVY
+          is_local: false
+          is_playable: true
+          name: The Only One
+          track_number: 2
+          type: track
+          uri: spotify:track:6C2MCGgNdVmtrZMIh3rZVY
+    isrc: USUM70839874

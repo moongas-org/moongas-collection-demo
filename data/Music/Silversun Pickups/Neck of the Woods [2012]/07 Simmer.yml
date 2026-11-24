@@ -34,3 +34,72 @@ mediaFileData:
   year: 2012
   duration: 410.94666666666666
   modTime: 2023-05-14 14:40:41.550000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6J8R3yjW8tZKsHun6TO2Dz
+    trackId: 6J8R3yjW8tZKsHun6TO2Dz
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS3R21208318&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h
+              href: https://api.spotify.com/v1/artists/6qyi8X6MdP1lu6B1K6yh3h
+              id: 6qyi8X6MdP1lu6B1K6yh3h
+              name: Silversun Pickups
+              type: artist
+              uri: spotify:artist:6qyi8X6MdP1lu6B1K6yh3h
+            external_urls:
+              spotify: https://open.spotify.com/album/03HFVNbVMckYJwjooba1f6
+            href: https://api.spotify.com/v1/albums/03HFVNbVMckYJwjooba1f6
+            id: 03HFVNbVMckYJwjooba1f6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733abfb3fc7c2127aa4a6bcae8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023abfb3fc7c2127aa4a6bcae8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513abfb3fc7c2127aa4a6bcae8
+            is_playable: true
+            name: Neck of the Woods
+            release_date: '2012-05-08'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:03HFVNbVMckYJwjooba1f6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h
+            href: https://api.spotify.com/v1/artists/6qyi8X6MdP1lu6B1K6yh3h
+            id: 6qyi8X6MdP1lu6B1K6yh3h
+            name: Silversun Pickups
+            type: artist
+            uri: spotify:artist:6qyi8X6MdP1lu6B1K6yh3h
+          disc_number: 1
+          duration_ms: 410946
+          explicit: false
+          external_ids:
+            isrc: US3R21208318
+          external_urls:
+            spotify: https://open.spotify.com/track/6J8R3yjW8tZKsHun6TO2Dz
+          href: https://api.spotify.com/v1/tracks/6J8R3yjW8tZKsHun6TO2Dz
+          id: 6J8R3yjW8tZKsHun6TO2Dz
+          is_local: false
+          is_playable: true
+          name: Simmer
+          track_number: 7
+          type: track
+          uri: spotify:track:6J8R3yjW8tZKsHun6TO2Dz
+    isrc: US3R21208318

@@ -45,3 +45,72 @@ mediaFileData:
   year: 1986
   duration: 307.9836734693878
   modTime: 2026-10-19 16:09:30.323395+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2r0oEagiOBdEAhVzc3ltly
+    trackId: 2r0oEagiOBdEAhVzc3ltly
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10170207&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m
+              href: https://api.spotify.com/v1/artists/5lkiCO9UQ8B23dZ1o0UV4m
+              id: 5lkiCO9UQ8B23dZ1o0UV4m
+              name: Jackson Browne
+              type: artist
+              uri: spotify:artist:5lkiCO9UQ8B23dZ1o0UV4m
+            external_urls:
+              spotify: https://open.spotify.com/album/5Dzx6h4qogc7CFRYl3g3k3
+            href: https://api.spotify.com/v1/albums/5Dzx6h4qogc7CFRYl3g3k3
+            id: 5Dzx6h4qogc7CFRYl3g3k3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273077a092e2ed0b47d3812d6d3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02077a092e2ed0b47d3812d6d3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851077a092e2ed0b47d3812d6d3
+            is_playable: true
+            name: Lives in the Balance
+            release_date: '1986-02-18'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:5Dzx6h4qogc7CFRYl3g3k3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m
+            href: https://api.spotify.com/v1/artists/5lkiCO9UQ8B23dZ1o0UV4m
+            id: 5lkiCO9UQ8B23dZ1o0UV4m
+            name: Jackson Browne
+            type: artist
+            uri: spotify:artist:5lkiCO9UQ8B23dZ1o0UV4m
+          disc_number: 1
+          duration_ms: 307933
+          explicit: false
+          external_ids:
+            isrc: USEE10170207
+          external_urls:
+            spotify: https://open.spotify.com/track/2r0oEagiOBdEAhVzc3ltly
+          href: https://api.spotify.com/v1/tracks/2r0oEagiOBdEAhVzc3ltly
+          id: 2r0oEagiOBdEAhVzc3ltly
+          is_local: false
+          is_playable: true
+          name: For America
+          track_number: 1
+          type: track
+          uri: spotify:track:2r0oEagiOBdEAhVzc3ltly
+    isrc: USEE10170207

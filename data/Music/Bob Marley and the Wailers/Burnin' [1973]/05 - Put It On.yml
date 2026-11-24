@@ -110,3 +110,288 @@ mediaFileData:
   year: 1973
   duration: 240.504
   modTime: 2024-02-18 20:01:58.867140+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7MKcM6TfaGKQVFfhstCbOw
+    trackId: 7MKcM6TfaGKQVFfhstCbOw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR28000018&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSIR28000018&type=track
+        offset: 0
+        previous:
+        total: 8
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn
+            href: https://api.spotify.com/v1/albums/4jKeipwuUTjlx9USNYdhZn
+            id: 4jKeipwuUTjlx9USNYdhZn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273413a6c2c7b296d98171e5e21
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02413a6c2c7b296d98171e5e21
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851413a6c2c7b296d98171e5e21
+            is_playable: true
+            name: Legend - The Best Of Bob Marley And The Wailers
+            release_date: '2002-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4jKeipwuUTjlx9USNYdhZn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 227840
+          explicit: false
+          external_ids:
+            isrc: USIR28000018
+          external_urls:
+            spotify: https://open.spotify.com/track/7MKcM6TfaGKQVFfhstCbOw
+          href: https://api.spotify.com/v1/tracks/7MKcM6TfaGKQVFfhstCbOw
+          id: 7MKcM6TfaGKQVFfhstCbOw
+          is_local: false
+          is_playable: true
+          name: Redemption Song
+          track_number: 12
+          type: track
+          uri: spotify:track:7MKcM6TfaGKQVFfhstCbOw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo
+            href: https://api.spotify.com/v1/albums/04VRfesff9bgDA2Q8J2oDo
+            id: 04VRfesff9bgDA2Q8J2oDo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27385b36be7fd94864efc4b008f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0285b36be7fd94864efc4b008f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485185b36be7fd94864efc4b008f
+            is_playable: true
+            name: Legend (Deluxe Edition)
+            release_date: '1984-05-01'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:04VRfesff9bgDA2Q8J2oDo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 227333
+          explicit: false
+          external_ids:
+            isrc: USIR28000018
+          external_urls:
+            spotify: https://open.spotify.com/track/1wLsSKl5NAO7Dqpmfa8a8D
+          href: https://api.spotify.com/v1/tracks/1wLsSKl5NAO7Dqpmfa8a8D
+          id: 1wLsSKl5NAO7Dqpmfa8a8D
+          is_local: false
+          is_playable: true
+          name: Redemption Song
+          track_number: 12
+          type: track
+          uri: spotify:track:1wLsSKl5NAO7Dqpmfa8a8D
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj
+            href: https://api.spotify.com/v1/albums/2VbmXDBkPj34TiyMNYaboj
+            id: 2VbmXDBkPj34TiyMNYaboj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ef4e05f6dff96e307b43ecd8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ef4e05f6dff96e307b43ecd8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ef4e05f6dff96e307b43ecd8
+            is_playable: true
+            name: One Love (Original Motion Picture Soundtrack)
+            release_date: '2024-02-09'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2VbmXDBkPj34TiyMNYaboj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 227386
+          explicit: false
+          external_ids:
+            isrc: USIR28000018
+          external_urls:
+            spotify: https://open.spotify.com/track/5IrXnAOlnXNUiXmK993wpD
+          href: https://api.spotify.com/v1/tracks/5IrXnAOlnXNUiXmK993wpD
+          id: 5IrXnAOlnXNUiXmK993wpD
+          is_local: false
+          is_playable: true
+          name: Redemption Song
+          track_number: 14
+          type: track
+          uri: spotify:track:5IrXnAOlnXNUiXmK993wpD
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX
+            href: https://api.spotify.com/v1/albums/321q9p7PELvzcFAWxml7VX
+            id: 321q9p7PELvzcFAWxml7VX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731c40418d1c37d727e8e91b04
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511c40418d1c37d727e8e91b04
+            is_playable: true
+            name: Uprising
+            release_date: '1980-06-10'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:321q9p7PELvzcFAWxml7VX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 233560
+          explicit: false
+          external_ids:
+            isrc: USIR28000018
+          external_urls:
+            spotify: https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3
+          href: https://api.spotify.com/v1/tracks/26PwuMotZqcczKLHi4Htz3
+          id: 26PwuMotZqcczKLHi4Htz3
+          is_local: false
+          is_playable: true
+          name: Redemption Song
+          track_number: 10
+          type: track
+          uri: spotify:track:26PwuMotZqcczKLHi4Htz3
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5YM1qzF1T9JmbytXkbrGhA
+            href: https://api.spotify.com/v1/albums/5YM1qzF1T9JmbytXkbrGhA
+            id: 5YM1qzF1T9JmbytXkbrGhA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a845c83a45b344078be9b0ea
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a845c83a45b344078be9b0ea
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a845c83a45b344078be9b0ea
+            is_playable: true
+            name: NOW Acoustic Classics
+            release_date: '2020-03-20'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:5YM1qzF1T9JmbytXkbrGhA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 233560
+          explicit: false
+          external_ids:
+            isrc: USIR28000018
+          external_urls:
+            spotify: https://open.spotify.com/track/5KizJwTyCwNoYyiHSPDYsy
+          href: https://api.spotify.com/v1/tracks/5KizJwTyCwNoYyiHSPDYsy
+          id: 5KizJwTyCwNoYyiHSPDYsy
+          is_local: false
+          is_playable: true
+          name: Redemption Song
+          track_number: 6
+          type: track
+          uri: spotify:track:5KizJwTyCwNoYyiHSPDYsy
+    isrc: USIR28000018

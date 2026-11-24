@@ -58,3 +58,295 @@ mediaFileData:
   year: 2008
   duration: 245.34204081632652
   modTime: 2026-08-15 15:12:49.469501+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3qZJivosWgVyqiRtJ2Jllj
+    trackId: 3qZJivosWgVyqiRtJ2Jllj
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCM50800553&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSCM50800553&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3xWHL0pC8Zojf9KXg8TnUY
+              href: https://api.spotify.com/v1/artists/3xWHL0pC8Zojf9KXg8TnUY
+              id: 3xWHL0pC8Zojf9KXg8TnUY
+              name: Dudu
+              type: artist
+              uri: spotify:artist:3xWHL0pC8Zojf9KXg8TnUY
+            external_urls:
+              spotify: https://open.spotify.com/album/3hlmsAiMN3X8w1XrPofiRi
+            href: https://api.spotify.com/v1/albums/3hlmsAiMN3X8w1XrPofiRi
+            id: 3hlmsAiMN3X8w1XrPofiRi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27392ad6564bcd586d3622dcdde
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0292ad6564bcd586d3622dcdde
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485192ad6564bcd586d3622dcdde
+            is_playable: true
+            name: Amilli
+            release_date: '2024-07-13'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:3hlmsAiMN3X8w1XrPofiRi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3xWHL0pC8Zojf9KXg8TnUY
+            href: https://api.spotify.com/v1/artists/3xWHL0pC8Zojf9KXg8TnUY
+            id: 3xWHL0pC8Zojf9KXg8TnUY
+            name: Dudu
+            type: artist
+            uri: spotify:artist:3xWHL0pC8Zojf9KXg8TnUY
+          disc_number: 1
+          duration_ms: 224694
+          explicit: true
+          external_ids:
+            isrc: USCM50800553
+          external_urls:
+            spotify: https://open.spotify.com/track/3qZJivosWgVyqiRtJ2Jllj
+          href: https://api.spotify.com/v1/tracks/3qZJivosWgVyqiRtJ2Jllj
+          id: 3qZJivosWgVyqiRtJ2Jllj
+          is_local: false
+          is_playable: true
+          name: Amilli
+          track_number: 1
+          type: track
+          uri: spotify:track:3qZJivosWgVyqiRtJ2Jllj
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+              href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+              id: 55Aa2cqylxrFIXC767Z865
+              name: Lil Wayne
+              type: artist
+              uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk
+              href: https://api.spotify.com/v1/artists/5czbzNZZfWpyFgZyfT3Mkk
+              id: 5czbzNZZfWpyFgZyfT3Mkk
+              name: SIDEPIECE
+              type: artist
+              uri: spotify:artist:5czbzNZZfWpyFgZyfT3Mkk
+            external_urls:
+              spotify: https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS
+            href: https://api.spotify.com/v1/albums/2CElE4zRNvhLHuRSqdB1pS
+            id: 2CElE4zRNvhLHuRSqdB1pS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b9cd8cb926a8a454bccb854d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b9cd8cb926a8a454bccb854d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b9cd8cb926a8a454bccb854d
+            is_playable: true
+            name: A Milli (SIDEPIECE Remix)
+            release_date: '2023-01-13'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:2CElE4zRNvhLHuRSqdB1pS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+            href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+            id: 55Aa2cqylxrFIXC767Z865
+            name: Lil Wayne
+            type: artist
+            uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+          disc_number: 1
+          duration_ms: 221840
+          explicit: true
+          external_ids:
+            isrc: USCM50800553
+          external_urls:
+            spotify: https://open.spotify.com/track/4GcYFC84m3C3GOPDihk9mr
+          href: https://api.spotify.com/v1/tracks/4GcYFC84m3C3GOPDihk9mr
+          id: 4GcYFC84m3C3GOPDihk9mr
+          is_local: false
+          is_playable: true
+          name: A Milli - Re-Mastered 2008
+          track_number: 2
+          type: track
+          uri: spotify:track:4GcYFC84m3C3GOPDihk9mr
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+              href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+              id: 55Aa2cqylxrFIXC767Z865
+              name: Lil Wayne
+              type: artist
+              uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+            external_urls:
+              spotify: https://open.spotify.com/album/0Nur9t7M0miEBoAnQ3rPv2
+            href: https://api.spotify.com/v1/albums/0Nur9t7M0miEBoAnQ3rPv2
+            id: 0Nur9t7M0miEBoAnQ3rPv2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273038c6347f907a6fedc8e2f2a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02038c6347f907a6fedc8e2f2a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851038c6347f907a6fedc8e2f2a
+            is_playable: true
+            name: I Am Music
+            release_date: '2023-03-31'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0Nur9t7M0miEBoAnQ3rPv2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+            href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+            id: 55Aa2cqylxrFIXC767Z865
+            name: Lil Wayne
+            type: artist
+            uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+          disc_number: 1
+          duration_ms: 221840
+          explicit: true
+          external_ids:
+            isrc: USCM50800553
+          external_urls:
+            spotify: https://open.spotify.com/track/6KwXAr7vJfnSCHq7WwBQ8k
+          href: https://api.spotify.com/v1/tracks/6KwXAr7vJfnSCHq7WwBQ8k
+          id: 6KwXAr7vJfnSCHq7WwBQ8k
+          is_local: false
+          is_playable: true
+          name: A Milli - 2008 / Re-Mastered Version
+          track_number: 3
+          type: track
+          uri: spotify:track:6KwXAr7vJfnSCHq7WwBQ8k
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+              href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+              id: 55Aa2cqylxrFIXC767Z865
+              name: Lil Wayne
+              type: artist
+              uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+            external_urls:
+              spotify: https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP
+            href: https://api.spotify.com/v1/albums/5BGzOpea6At0Nd7tYtYZOP
+            id: 5BGzOpea6At0Nd7tYtYZOP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0233ebdffaa447ff19ce9f24bb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485133ebdffaa447ff19ce9f24bb
+            is_playable: true
+            name: Tha Carter III
+            release_date: '2008-06-10'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:5BGzOpea6At0Nd7tYtYZOP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+            href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+            id: 55Aa2cqylxrFIXC767Z865
+            name: Lil Wayne
+            type: artist
+            uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+          disc_number: 1
+          duration_ms: 221840
+          explicit: true
+          external_ids:
+            isrc: USCM50800553
+          external_urls:
+            spotify: https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt
+          href: https://api.spotify.com/v1/tracks/6ScJMrlpiLfZUGtWp4QIVt
+          id: 6ScJMrlpiLfZUGtWp4QIVt
+          is_local: false
+          is_playable: true
+          name: A Milli
+          track_number: 3
+          type: track
+          uri: spotify:track:6ScJMrlpiLfZUGtWp4QIVt
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+              href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+              id: 55Aa2cqylxrFIXC767Z865
+              name: Lil Wayne
+              type: artist
+              uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+            external_urls:
+              spotify: https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4
+            href: https://api.spotify.com/v1/albums/4fRZNOawjx1uzGLN3VhAZ4
+            id: 4fRZNOawjx1uzGLN3VhAZ4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27302a999c3a283b5392e57737d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0202a999c3a283b5392e57737d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485102a999c3a283b5392e57737d
+            is_playable: true
+            name: Tha Carter III (MTV Bonus Version)
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:4fRZNOawjx1uzGLN3VhAZ4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+            href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+            id: 55Aa2cqylxrFIXC767Z865
+            name: Lil Wayne
+            type: artist
+            uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+          disc_number: 1
+          duration_ms: 221813
+          explicit: true
+          external_ids:
+            isrc: USCM50800553
+          external_urls:
+            spotify: https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C
+          href: https://api.spotify.com/v1/tracks/1xPW9rS8dkuJP46WBTqU2C
+          id: 1xPW9rS8dkuJP46WBTqU2C
+          is_local: false
+          is_playable: true
+          name: A Milli
+          track_number: 3
+          type: track
+          uri: spotify:track:1xPW9rS8dkuJP46WBTqU2C
+    isrc: USCM50800553

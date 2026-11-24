@@ -37,3 +37,72 @@ mediaFileData:
   year: 1996
   duration: 189.9624375
   modTime: 2025-01-11 01:06:16.687654+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/42VVYm1oZcO7jzAQ6hkAC4
+    trackId: 42VVYm1oZcO7jzAQ6hkAC4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA29400375&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd
+              href: https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd
+              id: 5sD1ZLf2dGQ9gQ3YJl1eAd
+              name: Blind Melon
+              type: artist
+              uri: spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+            external_urls:
+              spotify: https://open.spotify.com/album/4C8B3OJzw31l90ujeqNkjF
+            href: https://api.spotify.com/v1/albums/4C8B3OJzw31l90ujeqNkjF
+            id: 4C8B3OJzw31l90ujeqNkjF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732d21b5bf9e35009f6da651aa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022d21b5bf9e35009f6da651aa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512d21b5bf9e35009f6da651aa
+            is_playable: true
+            name: Deep Cuts
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:4C8B3OJzw31l90ujeqNkjF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd
+            href: https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd
+            id: 5sD1ZLf2dGQ9gQ3YJl1eAd
+            name: Blind Melon
+            type: artist
+            uri: spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+          disc_number: 1
+          duration_ms: 192266
+          explicit: false
+          external_ids:
+            isrc: USCA29400375
+          external_urls:
+            spotify: https://open.spotify.com/track/42VVYm1oZcO7jzAQ6hkAC4
+          href: https://api.spotify.com/v1/tracks/42VVYm1oZcO7jzAQ6hkAC4
+          id: 42VVYm1oZcO7jzAQ6hkAC4
+          is_local: false
+          is_playable: true
+          name: Paper Scratcher - Live Acoustic
+          track_number: 4
+          type: track
+          uri: spotify:track:42VVYm1oZcO7jzAQ6hkAC4
+    isrc: USCA29400375

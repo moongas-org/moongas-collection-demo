@@ -34,3 +34,126 @@ mediaFileData:
   year: 2015
   duration: 233.016
   modTime: 2025-09-20 19:06:33.914685+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3TzLgFxVxvFXPdIdcKY81D
+    trackId: 3TzLgFxVxvFXPdIdcKY81D
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSYFZ1558912&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0
+              href: https://api.spotify.com/v1/artists/2JFljHPanIjYy2QqfNYvC0
+              id: 2JFljHPanIjYy2QqfNYvC0
+              name: Chon
+              type: artist
+              uri: spotify:artist:2JFljHPanIjYy2QqfNYvC0
+            external_urls:
+              spotify: https://open.spotify.com/album/5bI9DiiwHF4Knuwq4eqnSl
+            href: https://api.spotify.com/v1/albums/5bI9DiiwHF4Knuwq4eqnSl
+            id: 5bI9DiiwHF4Knuwq4eqnSl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730439f4421f81e97f2ae89249
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020439f4421f81e97f2ae89249
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510439f4421f81e97f2ae89249
+            is_playable: true
+            name: Grow
+            release_date: '2015-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5bI9DiiwHF4Knuwq4eqnSl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0
+            href: https://api.spotify.com/v1/artists/2JFljHPanIjYy2QqfNYvC0
+            id: 2JFljHPanIjYy2QqfNYvC0
+            name: Chon
+            type: artist
+            uri: spotify:artist:2JFljHPanIjYy2QqfNYvC0
+          disc_number: 1
+          duration_ms: 232987
+          explicit: false
+          external_ids:
+            isrc: USYFZ1558912
+          external_urls:
+            spotify: https://open.spotify.com/track/3TzLgFxVxvFXPdIdcKY81D
+          href: https://api.spotify.com/v1/tracks/3TzLgFxVxvFXPdIdcKY81D
+          id: 3TzLgFxVxvFXPdIdcKY81D
+          is_local: false
+          is_playable: true
+          name: But
+          track_number: 12
+          type: track
+          uri: spotify:track:3TzLgFxVxvFXPdIdcKY81D
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7DRHtObllF9lgsEPr8OwhZ
+            href: https://api.spotify.com/v1/albums/7DRHtObllF9lgsEPr8OwhZ
+            id: 7DRHtObllF9lgsEPr8OwhZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273918b36d21071c67e24957009
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02918b36d21071c67e24957009
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851918b36d21071c67e24957009
+            is_playable: true
+            name: 'Dearest :'
+            release_date: '2023-02-03'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:7DRHtObllF9lgsEPr8OwhZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0
+            href: https://api.spotify.com/v1/artists/2JFljHPanIjYy2QqfNYvC0
+            id: 2JFljHPanIjYy2QqfNYvC0
+            name: Chon
+            type: artist
+            uri: spotify:artist:2JFljHPanIjYy2QqfNYvC0
+          disc_number: 1
+          duration_ms: 232983
+          explicit: false
+          external_ids:
+            isrc: USYFZ1558912
+          external_urls:
+            spotify: https://open.spotify.com/track/3vjKtWCmu9C8NV5quoGG0v
+          href: https://api.spotify.com/v1/tracks/3vjKtWCmu9C8NV5quoGG0v
+          id: 3vjKtWCmu9C8NV5quoGG0v
+          is_local: false
+          is_playable: true
+          name: But
+          track_number: 13
+          type: track
+          uri: spotify:track:3vjKtWCmu9C8NV5quoGG0v
+    isrc: USYFZ1558912

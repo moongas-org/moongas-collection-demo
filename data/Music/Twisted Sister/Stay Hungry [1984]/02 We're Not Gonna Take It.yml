@@ -37,3 +37,72 @@ mediaFileData:
   year: 1984
   duration: 218.38367346938776
   modTime: 2023-12-27 02:35:17.253790+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Wnng9II4pdqDOoUHGOORr
+    trackId: 4Wnng9II4pdqDOoUHGOORr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11603217&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut
+              href: https://api.spotify.com/v1/artists/7b85ve82Sh36a3UAx74wut
+              id: 7b85ve82Sh36a3UAx74wut
+              name: Twisted Sister
+              type: artist
+              uri: spotify:artist:7b85ve82Sh36a3UAx74wut
+            external_urls:
+              spotify: https://open.spotify.com/album/5s4WCcy4fYImrFg1m8RMFI
+            href: https://api.spotify.com/v1/albums/5s4WCcy4fYImrFg1m8RMFI
+            id: 5s4WCcy4fYImrFg1m8RMFI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d998066264aa168b202640c1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d998066264aa168b202640c1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d998066264aa168b202640c1
+            is_playable: true
+            name: The Best of the Atlantic Years
+            release_date: '2016-08-26'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:5s4WCcy4fYImrFg1m8RMFI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut
+            href: https://api.spotify.com/v1/artists/7b85ve82Sh36a3UAx74wut
+            id: 7b85ve82Sh36a3UAx74wut
+            name: Twisted Sister
+            type: artist
+            uri: spotify:artist:7b85ve82Sh36a3UAx74wut
+          disc_number: 1
+          duration_ms: 218293
+          explicit: false
+          external_ids:
+            isrc: USRH11603217
+          external_urls:
+            spotify: https://open.spotify.com/track/4Wnng9II4pdqDOoUHGOORr
+          href: https://api.spotify.com/v1/tracks/4Wnng9II4pdqDOoUHGOORr
+          id: 4Wnng9II4pdqDOoUHGOORr
+          is_local: false
+          is_playable: true
+          name: We're Not Gonna Take It
+          track_number: 8
+          type: track
+          uri: spotify:track:4Wnng9II4pdqDOoUHGOORr
+    isrc: USRH11603217

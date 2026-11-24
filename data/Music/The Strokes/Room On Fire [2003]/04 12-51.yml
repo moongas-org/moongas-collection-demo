@@ -63,3 +63,126 @@ mediaFileData:
   year: 2001
   duration: 153.312625
   modTime: 2023-05-14 15:54:35.270000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6Yu1OL8I0D4vjOzYdsXYGK
+    trackId: 6Yu1OL8I0D4vjOzYdsXYGK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC10301489&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V
+              href: https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V
+              id: 0epOFNiUfyON9EYx7Tpr6V
+              name: The Strokes
+              type: artist
+              uri: spotify:artist:0epOFNiUfyON9EYx7Tpr6V
+            external_urls:
+              spotify: https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh
+            href: https://api.spotify.com/v1/albums/3HFbH1loOUbqCyPsLuHLLh
+            id: 3HFbH1loOUbqCyPsLuHLLh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020f35726025e0f025da4c688f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510f35726025e0f025da4c688f
+            is_playable: true
+            name: Room On Fire
+            release_date: '2003-10-28'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:3HFbH1loOUbqCyPsLuHLLh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V
+            href: https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V
+            id: 0epOFNiUfyON9EYx7Tpr6V
+            name: The Strokes
+            type: artist
+            uri: spotify:artist:0epOFNiUfyON9EYx7Tpr6V
+          disc_number: 1
+          duration_ms: 153133
+          explicit: true
+          external_ids:
+            isrc: USRC10301489
+          external_urls:
+            spotify: https://open.spotify.com/track/6Yu1OL8I0D4vjOzYdsXYGK
+          href: https://api.spotify.com/v1/tracks/6Yu1OL8I0D4vjOzYdsXYGK
+          id: 6Yu1OL8I0D4vjOzYdsXYGK
+          is_local: false
+          is_playable: true
+          name: 12:51
+          track_number: 4
+          type: track
+          uri: spotify:track:6Yu1OL8I0D4vjOzYdsXYGK
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V
+              href: https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V
+              id: 0epOFNiUfyON9EYx7Tpr6V
+              name: The Strokes
+              type: artist
+              uri: spotify:artist:0epOFNiUfyON9EYx7Tpr6V
+            external_urls:
+              spotify: https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ
+            href: https://api.spotify.com/v1/albums/2j5jqlI0NvqlXAy9C740pZ
+            id: 2j5jqlI0NvqlXAy9C740pZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f71abcb4d9ba0fbbc62fe867
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f71abcb4d9ba0fbbc62fe867
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f71abcb4d9ba0fbbc62fe867
+            is_playable: true
+            name: The Singles - Volume 01
+            release_date: '2023-02-24'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:2j5jqlI0NvqlXAy9C740pZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V
+            href: https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V
+            id: 0epOFNiUfyON9EYx7Tpr6V
+            name: The Strokes
+            type: artist
+            uri: spotify:artist:0epOFNiUfyON9EYx7Tpr6V
+          disc_number: 5
+          duration_ms: 146841
+          explicit: true
+          external_ids:
+            isrc: USRC10301489
+          external_urls:
+            spotify: https://open.spotify.com/track/2b4lQrOhcM7Sw49e0qG1nV
+          href: https://api.spotify.com/v1/tracks/2b4lQrOhcM7Sw49e0qG1nV
+          id: 2b4lQrOhcM7Sw49e0qG1nV
+          is_local: false
+          is_playable: true
+          name: 12:51
+          track_number: 1
+          type: track
+          uri: spotify:track:2b4lQrOhcM7Sw49e0qG1nV
+    isrc: USRC10301489

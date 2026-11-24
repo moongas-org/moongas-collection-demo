@@ -43,3 +43,72 @@ mediaFileData:
   year: 2015
   duration: 265.728
   modTime: 2023-07-22 22:08:58+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0BPKqNWOKQam19tKWoZQwu
+    trackId: 0BPKqNWOKQam19tKWoZQwu
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAHT1500384&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa
+              href: https://api.spotify.com/v1/artists/6FQqZYVfTNQ1pCqfkwVFEa
+              id: 6FQqZYVfTNQ1pCqfkwVFEa
+              name: Foals
+              type: artist
+              uri: spotify:artist:6FQqZYVfTNQ1pCqfkwVFEa
+            external_urls:
+              spotify: https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O
+            href: https://api.spotify.com/v1/albums/0RyCpIKlCV0kgEuzrmp73O
+            id: 0RyCpIKlCV0kgEuzrmp73O
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b036f68e97ce9f5372bfb350
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b036f68e97ce9f5372bfb350
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b036f68e97ce9f5372bfb350
+            is_playable: true
+            name: What Went Down
+            release_date: '2015-08-28'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0RyCpIKlCV0kgEuzrmp73O
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa
+            href: https://api.spotify.com/v1/artists/6FQqZYVfTNQ1pCqfkwVFEa
+            id: 6FQqZYVfTNQ1pCqfkwVFEa
+            name: Foals
+            type: artist
+            uri: spotify:artist:6FQqZYVfTNQ1pCqfkwVFEa
+          disc_number: 1
+          duration_ms: 261133
+          explicit: false
+          external_ids:
+            isrc: GBAHT1500384
+          external_urls:
+            spotify: https://open.spotify.com/track/0BPKqNWOKQam19tKWoZQwu
+          href: https://api.spotify.com/v1/tracks/0BPKqNWOKQam19tKWoZQwu
+          id: 0BPKqNWOKQam19tKWoZQwu
+          is_local: false
+          is_playable: true
+          name: Birch Tree
+          track_number: 3
+          type: track
+          uri: spotify:track:0BPKqNWOKQam19tKWoZQwu
+    isrc: GBAHT1500384

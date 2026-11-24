@@ -69,3 +69,288 @@ mediaFileData:
   year: 2006
   duration: 268.04245
   modTime: 2023-05-14 02:34:55.510000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2PhQIP0jxMQPWvuhuQEb7k
+    trackId: 2PhQIP0jxMQPWvuhuQEb7k
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM70600345&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBUM70600345&type=track
+        offset: 0
+        previous:
+        total: 12
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+              href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+              id: 3rIZMv9rysU7JkLzEaC5Jp
+              name: Snow Patrol
+              type: artist
+              uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+            external_urls:
+              spotify: https://open.spotify.com/album/1XpLoHBtwcJyTIV855skwc
+            href: https://api.spotify.com/v1/albums/1XpLoHBtwcJyTIV855skwc
+            id: 1XpLoHBtwcJyTIV855skwc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c6c43d4c3c4595babded82d9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c6c43d4c3c4595babded82d9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c6c43d4c3c4595babded82d9
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1XpLoHBtwcJyTIV855skwc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+            href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+            id: 3rIZMv9rysU7JkLzEaC5Jp
+            name: Snow Patrol
+            type: artist
+            uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+          disc_number: 1
+          duration_ms: 265813
+          explicit: false
+          external_ids:
+            isrc: GBUM70600345
+          external_urls:
+            spotify: https://open.spotify.com/track/2PhQIP0jxMQPWvuhuQEb7k
+          href: https://api.spotify.com/v1/tracks/2PhQIP0jxMQPWvuhuQEb7k
+          id: 2PhQIP0jxMQPWvuhuQEb7k
+          is_local: false
+          is_playable: true
+          name: Chasing Cars
+          track_number: 2
+          type: track
+          uri: spotify:track:2PhQIP0jxMQPWvuhuQEb7k
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+              href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+              id: 3rIZMv9rysU7JkLzEaC5Jp
+              name: Snow Patrol
+              type: artist
+              uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+            external_urls:
+              spotify: https://open.spotify.com/album/2YDBLlsC6og1bt9oIddktl
+            href: https://api.spotify.com/v1/albums/2YDBLlsC6og1bt9oIddktl
+            id: 2YDBLlsC6og1bt9oIddktl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27323020a3f1cf353ce1a50d0b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0223020a3f1cf353ce1a50d0b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485123020a3f1cf353ce1a50d0b3
+            is_playable: true
+            name: Eyes Open
+            release_date: '2006-05-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2YDBLlsC6og1bt9oIddktl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+            href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+            id: 3rIZMv9rysU7JkLzEaC5Jp
+            name: Snow Patrol
+            type: artist
+            uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+          disc_number: 1
+          duration_ms: 267960
+          explicit: false
+          external_ids:
+            isrc: GBUM70600345
+          external_urls:
+            spotify: https://open.spotify.com/track/11Rni0JK2FbiFEVC1iHj3O
+          href: https://api.spotify.com/v1/tracks/11Rni0JK2FbiFEVC1iHj3O
+          id: 11Rni0JK2FbiFEVC1iHj3O
+          is_local: false
+          is_playable: true
+          name: Chasing Cars
+          track_number: 3
+          type: track
+          uri: spotify:track:11Rni0JK2FbiFEVC1iHj3O
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6ckrkQmWQZhc8dX80L9MGb
+            href: https://api.spotify.com/v1/albums/6ckrkQmWQZhc8dX80L9MGb
+            id: 6ckrkQmWQZhc8dX80L9MGb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273459f89e9538f4f80dd9e2c2f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02459f89e9538f4f80dd9e2c2f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851459f89e9538f4f80dd9e2c2f
+            is_playable: true
+            name: Breakup Songs
+            release_date: '2019-06-21'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:6ckrkQmWQZhc8dX80L9MGb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+            href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+            id: 3rIZMv9rysU7JkLzEaC5Jp
+            name: Snow Patrol
+            type: artist
+            uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+          disc_number: 1
+          duration_ms: 267960
+          explicit: false
+          external_ids:
+            isrc: GBUM70600345
+          external_urls:
+            spotify: https://open.spotify.com/track/07753JNAvJgec2G9rlqtj7
+          href: https://api.spotify.com/v1/tracks/07753JNAvJgec2G9rlqtj7
+          id: 07753JNAvJgec2G9rlqtj7
+          is_local: false
+          is_playable: true
+          name: Chasing Cars
+          track_number: 10
+          type: track
+          uri: spotify:track:07753JNAvJgec2G9rlqtj7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+              href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+              id: 3rIZMv9rysU7JkLzEaC5Jp
+              name: Snow Patrol
+              type: artist
+              uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+            external_urls:
+              spotify: https://open.spotify.com/album/4mUt2ELNS2XhfqHEsaiDaN
+            href: https://api.spotify.com/v1/albums/4mUt2ELNS2XhfqHEsaiDaN
+            id: 4mUt2ELNS2XhfqHEsaiDaN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273caad0084857d839bc366450d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02caad0084857d839bc366450d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851caad0084857d839bc366450d
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:4mUt2ELNS2XhfqHEsaiDaN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+            href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+            id: 3rIZMv9rysU7JkLzEaC5Jp
+            name: Snow Patrol
+            type: artist
+            uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+          disc_number: 1
+          duration_ms: 265840
+          explicit: false
+          external_ids:
+            isrc: GBUM70600345
+          external_urls:
+            spotify: https://open.spotify.com/track/0W1jvQeXOJmvUUQMOPSVNx
+          href: https://api.spotify.com/v1/tracks/0W1jvQeXOJmvUUQMOPSVNx
+          id: 0W1jvQeXOJmvUUQMOPSVNx
+          is_local: false
+          is_playable: true
+          name: Chasing Cars
+          track_number: 2
+          type: track
+          uri: spotify:track:0W1jvQeXOJmvUUQMOPSVNx
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+              href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+              id: 3rIZMv9rysU7JkLzEaC5Jp
+              name: Snow Patrol
+              type: artist
+              uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+            external_urls:
+              spotify: https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3
+            href: https://api.spotify.com/v1/albums/3k7bXPw2u0C0SBKPMsgMS3
+            id: 3k7bXPw2u0C0SBKPMsgMS3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025da2756220da9b6f17924f8f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515da2756220da9b6f17924f8f
+            is_playable: true
+            name: Eyes Open
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:3k7bXPw2u0C0SBKPMsgMS3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp
+            href: https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp
+            id: 3rIZMv9rysU7JkLzEaC5Jp
+            name: Snow Patrol
+            type: artist
+            uri: spotify:artist:3rIZMv9rysU7JkLzEaC5Jp
+          disc_number: 1
+          duration_ms: 267960
+          explicit: false
+          external_ids:
+            isrc: GBUM70600345
+          external_urls:
+            spotify: https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6
+          href: https://api.spotify.com/v1/tracks/5hnyJvgoWiQUYZttV4wXy6
+          id: 5hnyJvgoWiQUYZttV4wXy6
+          is_local: false
+          is_playable: true
+          name: Chasing Cars
+          track_number: 3
+          type: track
+          uri: spotify:track:5hnyJvgoWiQUYZttV4wXy6
+    isrc: GBUM70600345

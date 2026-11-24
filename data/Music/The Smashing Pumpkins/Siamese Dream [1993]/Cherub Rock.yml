@@ -96,3 +96,72 @@ mediaFileData:
   year: 1993
   duration: 299.33714285714285
   modTime: 2023-05-06 14:08:28.630000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4N4LLHDJgfkQxrYP8Cn0I7
+    trackId: 4N4LLHDJgfkQxrYP8Cn0I7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSVI29300005&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i
+              href: https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i
+              id: 40Yq4vzPs9VNUrIBG5Jr2i
+              name: The Smashing Pumpkins
+              type: artist
+              uri: spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i
+            external_urls:
+              spotify: https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn
+            href: https://api.spotify.com/v1/albums/1cUnNrx2TxvrpwPRtvpGwn
+            id: 1cUnNrx2TxvrpwPRtvpGwn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c48f42fdafcffcedbdbce025
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c48f42fdafcffcedbdbce025
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c48f42fdafcffcedbdbce025
+            is_playable: true
+            name: (Rotten Apples) The Smashing Pumpkins Greatest Hits
+            release_date: '2001-01-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:1cUnNrx2TxvrpwPRtvpGwn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i
+            href: https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i
+            id: 40Yq4vzPs9VNUrIBG5Jr2i
+            name: The Smashing Pumpkins
+            type: artist
+            uri: spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i
+          disc_number: 1
+          duration_ms: 299293
+          explicit: false
+          external_ids:
+            isrc: USVI29300005
+          external_urls:
+            spotify: https://open.spotify.com/track/4N4LLHDJgfkQxrYP8Cn0I7
+          href: https://api.spotify.com/v1/tracks/4N4LLHDJgfkQxrYP8Cn0I7
+          id: 4N4LLHDJgfkQxrYP8Cn0I7
+          is_local: false
+          is_playable: true
+          name: Cherub Rock
+          track_number: 4
+          type: track
+          uri: spotify:track:4N4LLHDJgfkQxrYP8Cn0I7
+    isrc: USVI29300005

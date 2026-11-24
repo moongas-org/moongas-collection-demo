@@ -51,3 +51,126 @@ mediaFileData:
   year: 1978
   duration: 314.664
   modTime: 2024-11-04 00:56:21.490202+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3xFn0WS2VewLRgn9sA2P2U
+    trackId: 3xFn0WS2VewLRgn9sA2P2U
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB11304554&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+              href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+              id: 5M52tdBnJaKSvOpJGz8mfZ
+              name: Black Sabbath
+              type: artist
+              uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+            external_urls:
+              spotify: https://open.spotify.com/album/0B3iKYQdQ3M1WrSeWig1Ay
+            href: https://api.spotify.com/v1/albums/0B3iKYQdQ3M1WrSeWig1Ay
+            id: 0B3iKYQdQ3M1WrSeWig1Ay
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738e59c38df4cec1a9066fb9b0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028e59c38df4cec1a9066fb9b0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518e59c38df4cec1a9066fb9b0
+            is_playable: true
+            name: Complete Studio Albums 1970 - 1978
+            release_date: '2014-01-21'
+            release_date_precision: day
+            total_tracks: 64
+            type: album
+            uri: spotify:album:0B3iKYQdQ3M1WrSeWig1Ay
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+            href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+            id: 5M52tdBnJaKSvOpJGz8mfZ
+            name: Black Sabbath
+            type: artist
+            uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+          disc_number: 8
+          duration_ms: 314626
+          explicit: false
+          external_ids:
+            isrc: USWB11304554
+          external_urls:
+            spotify: https://open.spotify.com/track/3xFn0WS2VewLRgn9sA2P2U
+          href: https://api.spotify.com/v1/tracks/3xFn0WS2VewLRgn9sA2P2U
+          id: 3xFn0WS2VewLRgn9sA2P2U
+          is_local: false
+          is_playable: true
+          name: Shock Wave - 2014 Remaster
+          track_number: 5
+          type: track
+          uri: spotify:track:3xFn0WS2VewLRgn9sA2P2U
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+              href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+              id: 5M52tdBnJaKSvOpJGz8mfZ
+              name: Black Sabbath
+              type: artist
+              uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+            external_urls:
+              spotify: https://open.spotify.com/album/15R0gte5kP6Bcrqyaf0j3v
+            href: https://api.spotify.com/v1/albums/15R0gte5kP6Bcrqyaf0j3v
+            id: 15R0gte5kP6Bcrqyaf0j3v
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273674d2b3abe79d0d74f688168
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02674d2b3abe79d0d74f688168
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851674d2b3abe79d0d74f688168
+            is_playable: true
+            name: Never Say Die! (2013 Remaster)
+            release_date: '1978-09-28'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:15R0gte5kP6Bcrqyaf0j3v
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+            href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+            id: 5M52tdBnJaKSvOpJGz8mfZ
+            name: Black Sabbath
+            type: artist
+            uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+          disc_number: 1
+          duration_ms: 314626
+          explicit: false
+          external_ids:
+            isrc: USWB11304554
+          external_urls:
+            spotify: https://open.spotify.com/track/4PvbQGOnCibuFYIISzX9OT
+          href: https://api.spotify.com/v1/tracks/4PvbQGOnCibuFYIISzX9OT
+          id: 4PvbQGOnCibuFYIISzX9OT
+          is_local: false
+          is_playable: true
+          name: Shock Wave - 2014 Remaster
+          track_number: 5
+          type: track
+          uri: spotify:track:4PvbQGOnCibuFYIISzX9OT
+    isrc: USWB11304554

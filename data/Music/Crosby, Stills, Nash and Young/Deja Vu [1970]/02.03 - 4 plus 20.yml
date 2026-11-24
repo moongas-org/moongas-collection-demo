@@ -103,3 +103,72 @@ mediaFileData:
   year: 1970
   duration: 126.672
   modTime: 2024-02-18 21:19:34.677781+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2jZPEeW2ynykb2GkVqpOkJ
+    trackId: 2jZPEeW2ynykb2GkVqpOkJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20901936&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ
+              href: https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ
+              id: 1CYsQCypByMVgnv17qsSbQ
+              name: Crosby, Stills, Nash & Young
+              type: artist
+              uri: spotify:artist:1CYsQCypByMVgnv17qsSbQ
+            external_urls:
+              spotify: https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb
+            href: https://api.spotify.com/v1/albums/5bHkK1X4WEOzNvRhehvOcb
+            id: 5bHkK1X4WEOzNvRhehvOcb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27306e00756085191abc01e4cf0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0206e00756085191abc01e4cf0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485106e00756085191abc01e4cf0
+            is_playable: true
+            name: Deja Vu
+            release_date: '1970-03-11'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5bHkK1X4WEOzNvRhehvOcb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ
+            href: https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ
+            id: 1CYsQCypByMVgnv17qsSbQ
+            name: Crosby, Stills, Nash & Young
+            type: artist
+            uri: spotify:artist:1CYsQCypByMVgnv17qsSbQ
+          disc_number: 1
+          duration_ms: 126640
+          explicit: false
+          external_ids:
+            isrc: USAT20901936
+          external_urls:
+            spotify: https://open.spotify.com/track/2jZPEeW2ynykb2GkVqpOkJ
+          href: https://api.spotify.com/v1/tracks/2jZPEeW2ynykb2GkVqpOkJ
+          id: 2jZPEeW2ynykb2GkVqpOkJ
+          is_local: false
+          is_playable: true
+          name: 4 + 20
+          track_number: 8
+          type: track
+          uri: spotify:track:2jZPEeW2ynykb2GkVqpOkJ
+    isrc: USAT20901936

@@ -34,3 +34,126 @@ mediaFileData:
   year: 1985
   duration: 364.416
   modTime: 2025-08-30 23:41:51.310079+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2T09CCnTZWDRr0FG2Ly7lk
+    trackId: 2T09CCnTZWDRr0FG2Ly7lk
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA28500447&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC
+              href: https://api.spotify.com/v1/artists/5t06MTkDD3yr5LVs3YFLQC
+              id: 5t06MTkDD3yr5LVs3YFLQC
+              name: Divinyls
+              type: artist
+              uri: spotify:artist:5t06MTkDD3yr5LVs3YFLQC
+            external_urls:
+              spotify: https://open.spotify.com/album/1YgN7Aj8lRTqOJhxoSEIjT
+            href: https://api.spotify.com/v1/albums/1YgN7Aj8lRTqOJhxoSEIjT
+            id: 1YgN7Aj8lRTqOJhxoSEIjT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731a81a0bd441cb9e35c85fb6e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021a81a0bd441cb9e35c85fb6e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511a81a0bd441cb9e35c85fb6e
+            is_playable: true
+            name: What A Life!
+            release_date: '1985-05-20'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1YgN7Aj8lRTqOJhxoSEIjT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC
+            href: https://api.spotify.com/v1/artists/5t06MTkDD3yr5LVs3YFLQC
+            id: 5t06MTkDD3yr5LVs3YFLQC
+            name: Divinyls
+            type: artist
+            uri: spotify:artist:5t06MTkDD3yr5LVs3YFLQC
+          disc_number: 1
+          duration_ms: 364373
+          explicit: false
+          external_ids:
+            isrc: USCA28500447
+          external_urls:
+            spotify: https://open.spotify.com/track/2T09CCnTZWDRr0FG2Ly7lk
+          href: https://api.spotify.com/v1/tracks/2T09CCnTZWDRr0FG2Ly7lk
+          id: 2T09CCnTZWDRr0FG2Ly7lk
+          is_local: false
+          is_playable: true
+          name: Don't You Go Walking
+          track_number: 2
+          type: track
+          uri: spotify:track:2T09CCnTZWDRr0FG2Ly7lk
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC
+              href: https://api.spotify.com/v1/artists/5t06MTkDD3yr5LVs3YFLQC
+              id: 5t06MTkDD3yr5LVs3YFLQC
+              name: Divinyls
+              type: artist
+              uri: spotify:artist:5t06MTkDD3yr5LVs3YFLQC
+            external_urls:
+              spotify: https://open.spotify.com/album/4Yz03wMtt5EPE7J29PPB0l
+            href: https://api.spotify.com/v1/albums/4Yz03wMtt5EPE7J29PPB0l
+            id: 4Yz03wMtt5EPE7J29PPB0l
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739115764f90ac6f121eb897bc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029115764f90ac6f121eb897bc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519115764f90ac6f121eb897bc
+            is_playable: true
+            name: Essential
+            release_date: '1991-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4Yz03wMtt5EPE7J29PPB0l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC
+            href: https://api.spotify.com/v1/artists/5t06MTkDD3yr5LVs3YFLQC
+            id: 5t06MTkDD3yr5LVs3YFLQC
+            name: Divinyls
+            type: artist
+            uri: spotify:artist:5t06MTkDD3yr5LVs3YFLQC
+          disc_number: 1
+          duration_ms: 364066
+          explicit: false
+          external_ids:
+            isrc: USCA28500447
+          external_urls:
+            spotify: https://open.spotify.com/track/5f6djlg7eJvZ9hHZ065Uzx
+          href: https://api.spotify.com/v1/tracks/5f6djlg7eJvZ9hHZ065Uzx
+          id: 5f6djlg7eJvZ9hHZ065Uzx
+          is_local: false
+          is_playable: true
+          name: Don't You Go Walking
+          track_number: 6
+          type: track
+          uri: spotify:track:5f6djlg7eJvZ9hHZ065Uzx
+    isrc: USCA28500447

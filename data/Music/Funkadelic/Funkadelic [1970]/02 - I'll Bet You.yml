@@ -59,3 +59,126 @@ mediaFileData:
   year: 1970
   duration: 371.688
   modTime: 2025-01-09 21:52:10.856096+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6ZH83gixsdEgE0pTWhFPRT
+    trackId: 6ZH83gixsdEgE0pTWhFPRT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFMA2500038&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+              href: https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru
+              id: 450o9jw6AtiQlQkHCdH6Ru
+              name: Funkadelic
+              type: artist
+              uri: spotify:artist:450o9jw6AtiQlQkHCdH6Ru
+            external_urls:
+              spotify: https://open.spotify.com/album/0XiVN3lR0NihtjFwpMUTa2
+            href: https://api.spotify.com/v1/albums/0XiVN3lR0NihtjFwpMUTa2
+            id: 0XiVN3lR0NihtjFwpMUTa2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327950d91631be7fa1e1d93a5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227950d91631be7fa1e1d93a5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127950d91631be7fa1e1d93a5
+            is_playable: true
+            name: I Bet You (2025 Remastered)
+            release_date: '2025-06-26'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:0XiVN3lR0NihtjFwpMUTa2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+            href: https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru
+            id: 450o9jw6AtiQlQkHCdH6Ru
+            name: Funkadelic
+            type: artist
+            uri: spotify:artist:450o9jw6AtiQlQkHCdH6Ru
+          disc_number: 1
+          duration_ms: 373000
+          explicit: false
+          external_ids:
+            isrc: USFMA2500038
+          external_urls:
+            spotify: https://open.spotify.com/track/6ZH83gixsdEgE0pTWhFPRT
+          href: https://api.spotify.com/v1/tracks/6ZH83gixsdEgE0pTWhFPRT
+          id: 6ZH83gixsdEgE0pTWhFPRT
+          is_local: false
+          is_playable: true
+          name: I Bet You - 2025 Remastered
+          track_number: 1
+          type: track
+          uri: spotify:track:6ZH83gixsdEgE0pTWhFPRT
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+              href: https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru
+              id: 450o9jw6AtiQlQkHCdH6Ru
+              name: Funkadelic
+              type: artist
+              uri: spotify:artist:450o9jw6AtiQlQkHCdH6Ru
+            external_urls:
+              spotify: https://open.spotify.com/album/5Xgybk8IhbT2jEiPK1eYTl
+            href: https://api.spotify.com/v1/albums/5Xgybk8IhbT2jEiPK1eYTl
+            id: 5Xgybk8IhbT2jEiPK1eYTl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f7fb8724df0ed80b7fb9850d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f7fb8724df0ed80b7fb9850d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f7fb8724df0ed80b7fb9850d
+            is_playable: true
+            name: Funkadelic (2025 Remastered)
+            release_date: '2025-08-29'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:5Xgybk8IhbT2jEiPK1eYTl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+            href: https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru
+            id: 450o9jw6AtiQlQkHCdH6Ru
+            name: Funkadelic
+            type: artist
+            uri: spotify:artist:450o9jw6AtiQlQkHCdH6Ru
+          disc_number: 1
+          duration_ms: 373000
+          explicit: false
+          external_ids:
+            isrc: USFMA2500038
+          external_urls:
+            spotify: https://open.spotify.com/track/5z26u1S2yLlDso0WJgcbGW
+          href: https://api.spotify.com/v1/tracks/5z26u1S2yLlDso0WJgcbGW
+          id: 5z26u1S2yLlDso0WJgcbGW
+          is_local: false
+          is_playable: true
+          name: I Bet You - 2025 Remastered
+          track_number: 2
+          type: track
+          uri: spotify:track:5z26u1S2yLlDso0WJgcbGW
+    isrc: USFMA2500038

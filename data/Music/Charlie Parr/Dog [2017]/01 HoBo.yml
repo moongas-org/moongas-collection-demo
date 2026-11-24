@@ -34,3 +34,126 @@ mediaFileData:
   year: 2017
   duration: 245.55103125
   modTime: 2024-09-25 23:48:42.687443+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1QNEZWxicW0As0K0JEUjQ8
+    trackId: 1QNEZWxicW0As0K0JEUjQ8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRHR1730001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG
+              href: https://api.spotify.com/v1/artists/2OOAWkt15smEKXtNNLtaNG
+              id: 2OOAWkt15smEKXtNNLtaNG
+              name: Charlie Parr
+              type: artist
+              uri: spotify:artist:2OOAWkt15smEKXtNNLtaNG
+            external_urls:
+              spotify: https://open.spotify.com/album/2JDbKI7XN9gzK2bdOmgIXN
+            href: https://api.spotify.com/v1/albums/2JDbKI7XN9gzK2bdOmgIXN
+            id: 2JDbKI7XN9gzK2bdOmgIXN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27325da1336e1d3035fc313fbb6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0225da1336e1d3035fc313fbb6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485125da1336e1d3035fc313fbb6
+            is_playable: true
+            name: Dog
+            release_date: '2017-09-08'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2JDbKI7XN9gzK2bdOmgIXN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG
+            href: https://api.spotify.com/v1/artists/2OOAWkt15smEKXtNNLtaNG
+            id: 2OOAWkt15smEKXtNNLtaNG
+            name: Charlie Parr
+            type: artist
+            uri: spotify:artist:2OOAWkt15smEKXtNNLtaNG
+          disc_number: 1
+          duration_ms: 245491
+          explicit: false
+          external_ids:
+            isrc: USRHR1730001
+          external_urls:
+            spotify: https://open.spotify.com/track/1QNEZWxicW0As0K0JEUjQ8
+          href: https://api.spotify.com/v1/tracks/1QNEZWxicW0As0K0JEUjQ8
+          id: 1QNEZWxicW0As0K0JEUjQ8
+          is_local: false
+          is_playable: true
+          name: HoBo
+          track_number: 1
+          type: track
+          uri: spotify:track:1QNEZWxicW0As0K0JEUjQ8
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG
+              href: https://api.spotify.com/v1/artists/2OOAWkt15smEKXtNNLtaNG
+              id: 2OOAWkt15smEKXtNNLtaNG
+              name: Charlie Parr
+              type: artist
+              uri: spotify:artist:2OOAWkt15smEKXtNNLtaNG
+            external_urls:
+              spotify: https://open.spotify.com/album/4n52749e6WXmaUV0VT0TKc
+            href: https://api.spotify.com/v1/albums/4n52749e6WXmaUV0VT0TKc
+            id: 4n52749e6WXmaUV0VT0TKc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dafdfa7898404eba49e86d98
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dafdfa7898404eba49e86d98
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dafdfa7898404eba49e86d98
+            is_playable: true
+            name: Dog
+            release_date: '2017-09-08'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4n52749e6WXmaUV0VT0TKc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG
+            href: https://api.spotify.com/v1/artists/2OOAWkt15smEKXtNNLtaNG
+            id: 2OOAWkt15smEKXtNNLtaNG
+            name: Charlie Parr
+            type: artist
+            uri: spotify:artist:2OOAWkt15smEKXtNNLtaNG
+          disc_number: 1
+          duration_ms: 245491
+          explicit: false
+          external_ids:
+            isrc: USRHR1730001
+          external_urls:
+            spotify: https://open.spotify.com/track/3MRd6kTgQx52pQvazlIenp
+          href: https://api.spotify.com/v1/tracks/3MRd6kTgQx52pQvazlIenp
+          id: 3MRd6kTgQx52pQvazlIenp
+          is_local: false
+          is_playable: true
+          name: Hobo
+          track_number: 1
+          type: track
+          uri: spotify:track:3MRd6kTgQx52pQvazlIenp
+    isrc: USRHR1730001

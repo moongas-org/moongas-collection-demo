@@ -66,3 +66,180 @@ mediaFileData:
   year: 1979
   duration: 325.27673469387753
   modTime: 2022-12-12 23:41:03.560000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/65iMtkWGCjD7d5J1Of8eYw
+    trackId: 65iMtkWGCjD7d5J1Of8eYw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAZP9700052&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv
+              href: https://api.spotify.com/v1/artists/6SXZyMIzYNNfZ3NFQc3vtv
+              id: 6SXZyMIzYNNfZ3NFQc3vtv
+              name: Tubeway Army
+              type: artist
+              uri: spotify:artist:6SXZyMIzYNNfZ3NFQc3vtv
+            external_urls:
+              spotify: https://open.spotify.com/album/3ljjwJRH5Aab4boG4swgBG
+            href: https://api.spotify.com/v1/albums/3ljjwJRH5Aab4boG4swgBG
+            id: 3ljjwJRH5Aab4boG4swgBG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27349b0d00f08006bdb5f60e0e1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0249b0d00f08006bdb5f60e0e1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485149b0d00f08006bdb5f60e0e1
+            is_playable: true
+            name: Are 'Friends' Electric?
+            release_date: '1979-05-04'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:3ljjwJRH5Aab4boG4swgBG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv
+            href: https://api.spotify.com/v1/artists/6SXZyMIzYNNfZ3NFQc3vtv
+            id: 6SXZyMIzYNNfZ3NFQc3vtv
+            name: Tubeway Army
+            type: artist
+            uri: spotify:artist:6SXZyMIzYNNfZ3NFQc3vtv
+          disc_number: 1
+          duration_ms: 323133
+          explicit: false
+          external_ids:
+            isrc: GBAZP9700052
+          external_urls:
+            spotify: https://open.spotify.com/track/65iMtkWGCjD7d5J1Of8eYw
+          href: https://api.spotify.com/v1/tracks/65iMtkWGCjD7d5J1Of8eYw
+          id: 65iMtkWGCjD7d5J1Of8eYw
+          is_local: false
+          is_playable: true
+          name: Are 'Friends' Electric? - 1998 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:65iMtkWGCjD7d5J1Of8eYw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE
+              href: https://api.spotify.com/v1/artists/5KQMtyPE8DCQNUzoNqlEsE
+              id: 5KQMtyPE8DCQNUzoNqlEsE
+              name: Gary Numan
+              type: artist
+              uri: spotify:artist:5KQMtyPE8DCQNUzoNqlEsE
+            external_urls:
+              spotify: https://open.spotify.com/album/11xmqFLdgh7YEGcX7iYJ8E
+            href: https://api.spotify.com/v1/albums/11xmqFLdgh7YEGcX7iYJ8E
+            id: 11xmqFLdgh7YEGcX7iYJ8E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eacf91c5c445a1a9d1751e09
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eacf91c5c445a1a9d1751e09
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eacf91c5c445a1a9d1751e09
+            is_playable: true
+            name: Premier Hits
+            release_date: '1997-03-25'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:11xmqFLdgh7YEGcX7iYJ8E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv
+            href: https://api.spotify.com/v1/artists/6SXZyMIzYNNfZ3NFQc3vtv
+            id: 6SXZyMIzYNNfZ3NFQc3vtv
+            name: Tubeway Army
+            type: artist
+            uri: spotify:artist:6SXZyMIzYNNfZ3NFQc3vtv
+          disc_number: 1
+          duration_ms: 323133
+          explicit: false
+          external_ids:
+            isrc: GBAZP9700052
+          external_urls:
+            spotify: https://open.spotify.com/track/0DhG8xclMAts9C2vUXEvIm
+          href: https://api.spotify.com/v1/tracks/0DhG8xclMAts9C2vUXEvIm
+          id: 0DhG8xclMAts9C2vUXEvIm
+          is_local: false
+          is_playable: true
+          name: Are 'Friends' Electric? - 1998 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:0DhG8xclMAts9C2vUXEvIm
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv
+              href: https://api.spotify.com/v1/artists/6SXZyMIzYNNfZ3NFQc3vtv
+              id: 6SXZyMIzYNNfZ3NFQc3vtv
+              name: Tubeway Army
+              type: artist
+              uri: spotify:artist:6SXZyMIzYNNfZ3NFQc3vtv
+            external_urls:
+              spotify: https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz
+            href: https://api.spotify.com/v1/albums/14chsctrt7Rx38fQUbfqFz
+            id: 14chsctrt7Rx38fQUbfqFz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ee054e2ed150a33a2ad499a7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ee054e2ed150a33a2ad499a7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ee054e2ed150a33a2ad499a7
+            is_playable: true
+            name: Replicas (1998 Remaster)
+            release_date: '1979-04-06'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:14chsctrt7Rx38fQUbfqFz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv
+            href: https://api.spotify.com/v1/artists/6SXZyMIzYNNfZ3NFQc3vtv
+            id: 6SXZyMIzYNNfZ3NFQc3vtv
+            name: Tubeway Army
+            type: artist
+            uri: spotify:artist:6SXZyMIzYNNfZ3NFQc3vtv
+          disc_number: 1
+          duration_ms: 323133
+          explicit: false
+          external_ids:
+            isrc: GBAZP9700052
+          external_urls:
+            spotify: https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx
+          href: https://api.spotify.com/v1/tracks/3xfOF1wyjUZocifZ5WLeFx
+          id: 3xfOF1wyjUZocifZ5WLeFx
+          is_local: false
+          is_playable: true
+          name: Are 'Friends' Electric? - 1998 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:3xfOF1wyjUZocifZ5WLeFx
+    isrc: GBAZP9700052

@@ -57,3 +57,126 @@ mediaFileData:
   year: 1975
   duration: 209.76
   modTime: 2024-02-20 21:16:19.111289+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1txYXHPyoQTjBZGHJXaDHc
+    trackId: 1txYXHPyoQTjBZGHJXaDHc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH10722084&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0
+              href: https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0
+              id: 3iDD7bnsjL9J4fO298r0L0
+              name: Chicago
+              type: artist
+              uri: spotify:artist:3iDD7bnsjL9J4fO298r0L0
+            external_urls:
+              spotify: https://open.spotify.com/album/2jLCmSfdGbvZUWn6A5rAwy
+            href: https://api.spotify.com/v1/albums/2jLCmSfdGbvZUWn6A5rAwy
+            id: 2jLCmSfdGbvZUWn6A5rAwy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e183488f12f85c762ef6cd45
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e183488f12f85c762ef6cd45
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e183488f12f85c762ef6cd45
+            is_playable: true
+            name: 'Chicago IX: Greatest Hits Expanded'
+            release_date: '1975-11-10'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:2jLCmSfdGbvZUWn6A5rAwy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0
+            href: https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0
+            id: 3iDD7bnsjL9J4fO298r0L0
+            name: Chicago
+            type: artist
+            uri: spotify:artist:3iDD7bnsjL9J4fO298r0L0
+          disc_number: 1
+          duration_ms: 212080
+          explicit: false
+          external_ids:
+            isrc: USRH10722084
+          external_urls:
+            spotify: https://open.spotify.com/track/1txYXHPyoQTjBZGHJXaDHc
+          href: https://api.spotify.com/v1/tracks/1txYXHPyoQTjBZGHJXaDHc
+          id: 1txYXHPyoQTjBZGHJXaDHc
+          is_local: false
+          is_playable: true
+          name: Old Days - 2007 Remaster
+          track_number: 15
+          type: track
+          uri: spotify:track:1txYXHPyoQTjBZGHJXaDHc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0
+              href: https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0
+              id: 3iDD7bnsjL9J4fO298r0L0
+              name: Chicago
+              type: artist
+              uri: spotify:artist:3iDD7bnsjL9J4fO298r0L0
+            external_urls:
+              spotify: https://open.spotify.com/album/13etqTFFO9ZKGD3LeRMROL
+            href: https://api.spotify.com/v1/albums/13etqTFFO9ZKGD3LeRMROL
+            id: 13etqTFFO9ZKGD3LeRMROL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aeb259c3ab7fcbac58f3d799
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aeb259c3ab7fcbac58f3d799
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aeb259c3ab7fcbac58f3d799
+            is_playable: true
+            name: The Best of Chicago, 40th Anniversary Edition
+            release_date: '2007-10-01'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:13etqTFFO9ZKGD3LeRMROL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0
+            href: https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0
+            id: 3iDD7bnsjL9J4fO298r0L0
+            name: Chicago
+            type: artist
+            uri: spotify:artist:3iDD7bnsjL9J4fO298r0L0
+          disc_number: 1
+          duration_ms: 212080
+          explicit: false
+          external_ids:
+            isrc: USRH10722084
+          external_urls:
+            spotify: https://open.spotify.com/track/0c47dRSH1aL496UUGzsRYn
+          href: https://api.spotify.com/v1/tracks/0c47dRSH1aL496UUGzsRYn
+          id: 0c47dRSH1aL496UUGzsRYn
+          is_local: false
+          is_playable: true
+          name: Old Days - 2007 Remaster
+          track_number: 13
+          type: track
+          uri: spotify:track:0c47dRSH1aL496UUGzsRYn
+    isrc: USRH10722084

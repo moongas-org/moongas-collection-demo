@@ -75,3 +75,126 @@ mediaFileData:
   year: 1987
   duration: 240.9795918367347
   modTime: 2024-01-29 01:59:05.812885+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1iIEFL4mPr8w6aZmCfpQoT
+    trackId: 1iIEFL4mPr8w6aZmCfpQoT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAHT1100110&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs
+              href: https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs
+              id: 4rjlerN21ygkIhmUv55irs
+              name: The Jesus and Mary Chain
+              type: artist
+              uri: spotify:artist:4rjlerN21ygkIhmUv55irs
+            external_urls:
+              spotify: https://open.spotify.com/album/6FXw4lnTy6jlzXRBvCFK2B
+            href: https://api.spotify.com/v1/albums/6FXw4lnTy6jlzXRBvCFK2B
+            id: 6FXw4lnTy6jlzXRBvCFK2B
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27306f1386efdf81866a61b1385
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0206f1386efdf81866a61b1385
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485106f1386efdf81866a61b1385
+            is_playable: true
+            name: April Skies
+            release_date: '1987-04-01'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:6FXw4lnTy6jlzXRBvCFK2B
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs
+            href: https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs
+            id: 4rjlerN21ygkIhmUv55irs
+            name: The Jesus and Mary Chain
+            type: artist
+            uri: spotify:artist:4rjlerN21ygkIhmUv55irs
+          disc_number: 1
+          duration_ms: 240800
+          explicit: false
+          external_ids:
+            isrc: GBAHT1100110
+          external_urls:
+            spotify: https://open.spotify.com/track/1iIEFL4mPr8w6aZmCfpQoT
+          href: https://api.spotify.com/v1/tracks/1iIEFL4mPr8w6aZmCfpQoT
+          id: 1iIEFL4mPr8w6aZmCfpQoT
+          is_local: false
+          is_playable: true
+          name: April Skies
+          track_number: 1
+          type: track
+          uri: spotify:track:1iIEFL4mPr8w6aZmCfpQoT
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs
+              href: https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs
+              id: 4rjlerN21ygkIhmUv55irs
+              name: The Jesus and Mary Chain
+              type: artist
+              uri: spotify:artist:4rjlerN21ygkIhmUv55irs
+            external_urls:
+              spotify: https://open.spotify.com/album/7KLJM2KoVkWIaOpLzfyGHh
+            href: https://api.spotify.com/v1/albums/7KLJM2KoVkWIaOpLzfyGHh
+            id: 7KLJM2KoVkWIaOpLzfyGHh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273556aa85358cd423eec95d867
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02556aa85358cd423eec95d867
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851556aa85358cd423eec95d867
+            is_playable: true
+            name: Darklands
+            release_date: '1987-08-31'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7KLJM2KoVkWIaOpLzfyGHh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs
+            href: https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs
+            id: 4rjlerN21ygkIhmUv55irs
+            name: The Jesus and Mary Chain
+            type: artist
+            uri: spotify:artist:4rjlerN21ygkIhmUv55irs
+          disc_number: 1
+          duration_ms: 240800
+          explicit: false
+          external_ids:
+            isrc: GBAHT1100110
+          external_urls:
+            spotify: https://open.spotify.com/track/7BIsEOxWH7hpTgCV60vXv7
+          href: https://api.spotify.com/v1/tracks/7BIsEOxWH7hpTgCV60vXv7
+          id: 7BIsEOxWH7hpTgCV60vXv7
+          is_local: false
+          is_playable: true
+          name: April Skies
+          track_number: 6
+          type: track
+          uri: spotify:track:7BIsEOxWH7hpTgCV60vXv7
+    isrc: GBAHT1100110

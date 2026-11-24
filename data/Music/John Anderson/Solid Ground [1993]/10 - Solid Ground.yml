@@ -41,3 +41,234 @@ mediaFileData:
   year: 1993
   duration: 198.97469387755103
   modTime: 2026-04-14 16:24:31.675483+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1u7UZQ0OOyZGw1TW2xHsED
+    trackId: 1u7UZQ0OOyZGw1TW2xHsED
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBN19500066&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/0TXhDmx6IirtExAwsMj9e5
+            href: https://api.spotify.com/v1/albums/0TXhDmx6IirtExAwsMj9e5
+            id: 0TXhDmx6IirtExAwsMj9e5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733e47120f20f34e27fdcde135
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023e47120f20f34e27fdcde135
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513e47120f20f34e27fdcde135
+            is_playable: true
+            name: Solid Ground
+            release_date: '1993-06-22'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0TXhDmx6IirtExAwsMj9e5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 198866
+          explicit: false
+          external_ids:
+            isrc: USBN19500066
+          external_urls:
+            spotify: https://open.spotify.com/track/1u7UZQ0OOyZGw1TW2xHsED
+          href: https://api.spotify.com/v1/tracks/1u7UZQ0OOyZGw1TW2xHsED
+          id: 1u7UZQ0OOyZGw1TW2xHsED
+          is_local: false
+          is_playable: true
+          name: Solid Ground
+          track_number: 10
+          type: track
+          uri: spotify:track:1u7UZQ0OOyZGw1TW2xHsED
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/24FRJq7Bkjy11bJPF2atSI
+            href: https://api.spotify.com/v1/albums/24FRJq7Bkjy11bJPF2atSI
+            id: 24FRJq7Bkjy11bJPF2atSI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735742dd85366f33fc28117fa2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025742dd85366f33fc28117fa2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515742dd85366f33fc28117fa2
+            is_playable: true
+            name: Country Legends
+            release_date: '2002-09-09'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:24FRJq7Bkjy11bJPF2atSI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 197666
+          explicit: false
+          external_ids:
+            isrc: USBN19500066
+          external_urls:
+            spotify: https://open.spotify.com/track/69N0KNHyngZYRk4IpvgXvR
+          href: https://api.spotify.com/v1/tracks/69N0KNHyngZYRk4IpvgXvR
+          id: 69N0KNHyngZYRk4IpvgXvR
+          is_local: false
+          is_playable: true
+          name: Solid Ground
+          track_number: 12
+          type: track
+          uri: spotify:track:69N0KNHyngZYRk4IpvgXvR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/7hGU6F5YFQfmW5DhRU9hH7
+            href: https://api.spotify.com/v1/albums/7hGU6F5YFQfmW5DhRU9hH7
+            id: 7hGU6F5YFQfmW5DhRU9hH7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27368655bb8f7a3e6a8312ec9ea
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0268655bb8f7a3e6a8312ec9ea
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485168655bb8f7a3e6a8312ec9ea
+            is_playable: true
+            name: The Essential John Anderson
+            release_date: '1998-06-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7hGU6F5YFQfmW5DhRU9hH7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 198120
+          explicit: false
+          external_ids:
+            isrc: USBN19500066
+          external_urls:
+            spotify: https://open.spotify.com/track/40DGpnR8RorKUcWukCBJJv
+          href: https://api.spotify.com/v1/tracks/40DGpnR8RorKUcWukCBJJv
+          id: 40DGpnR8RorKUcWukCBJJv
+          is_local: false
+          is_playable: true
+          name: Solid Ground
+          track_number: 8
+          type: track
+          uri: spotify:track:40DGpnR8RorKUcWukCBJJv
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/4Q1ZPoZluiHV55ytvXJWXM
+            href: https://api.spotify.com/v1/albums/4Q1ZPoZluiHV55ytvXJWXM
+            id: 4Q1ZPoZluiHV55ytvXJWXM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732ec9e96739634e647146ef85
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022ec9e96739634e647146ef85
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512ec9e96739634e647146ef85
+            is_playable: true
+            name: Solid Ground
+            release_date: '1993-06-22'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4Q1ZPoZluiHV55ytvXJWXM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 198866
+          explicit: false
+          external_ids:
+            isrc: USBN19500066
+          external_urls:
+            spotify: https://open.spotify.com/track/4ecKjdgk7dKfQKahGkByeZ
+          href: https://api.spotify.com/v1/tracks/4ecKjdgk7dKfQKahGkByeZ
+          id: 4ecKjdgk7dKfQKahGkByeZ
+          is_local: false
+          is_playable: true
+          name: Solid Ground
+          track_number: 10
+          type: track
+          uri: spotify:track:4ecKjdgk7dKfQKahGkByeZ
+    isrc: USBN19500066

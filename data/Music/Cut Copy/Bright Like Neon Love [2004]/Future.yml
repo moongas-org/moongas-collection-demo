@@ -45,3 +45,180 @@ mediaFileData:
   year: 2004
   duration: 312.072
   modTime: 2025-01-11 01:02:02.417777+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy
+    trackId: 1L44XODDvPjK4Tl9airKLy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUMP00300035&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS
+              href: https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS
+              id: 4EENT7N7rCBwrddM3s0vFS
+              name: Cut Copy
+              type: artist
+              uri: spotify:artist:4EENT7N7rCBwrddM3s0vFS
+            external_urls:
+              spotify: https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4
+            href: https://api.spotify.com/v1/albums/4AyAxuQiwiloLye3qxuXq4
+            id: 4AyAxuQiwiloLye3qxuXq4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273748d430b0dddea4043a1a343
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02748d430b0dddea4043a1a343
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851748d430b0dddea4043a1a343
+            is_playable: true
+            name: Bright Like Neon Love
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4AyAxuQiwiloLye3qxuXq4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS
+            href: https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS
+            id: 4EENT7N7rCBwrddM3s0vFS
+            name: Cut Copy
+            type: artist
+            uri: spotify:artist:4EENT7N7rCBwrddM3s0vFS
+          disc_number: 1
+          duration_ms: 312040
+          explicit: false
+          external_ids:
+            isrc: AUMP00300035
+          external_urls:
+            spotify: https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy
+          href: https://api.spotify.com/v1/tracks/1L44XODDvPjK4Tl9airKLy
+          id: 1L44XODDvPjK4Tl9airKLy
+          is_local: false
+          is_playable: true
+          name: Future
+          track_number: 2
+          type: track
+          uri: spotify:track:1L44XODDvPjK4Tl9airKLy
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS
+              href: https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS
+              id: 4EENT7N7rCBwrddM3s0vFS
+              name: Cut Copy
+              type: artist
+              uri: spotify:artist:4EENT7N7rCBwrddM3s0vFS
+            external_urls:
+              spotify: https://open.spotify.com/album/2jbPuJGp7PYVXg9pqLsWay
+            href: https://api.spotify.com/v1/albums/2jbPuJGp7PYVXg9pqLsWay
+            id: 2jbPuJGp7PYVXg9pqLsWay
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e6c3ca38f5e9000e4357fb25
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e6c3ca38f5e9000e4357fb25
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e6c3ca38f5e9000e4357fb25
+            is_playable: true
+            name: Future
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:2jbPuJGp7PYVXg9pqLsWay
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS
+            href: https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS
+            id: 4EENT7N7rCBwrddM3s0vFS
+            name: Cut Copy
+            type: artist
+            uri: spotify:artist:4EENT7N7rCBwrddM3s0vFS
+          disc_number: 1
+          duration_ms: 312213
+          explicit: false
+          external_ids:
+            isrc: AUMP00300035
+          external_urls:
+            spotify: https://open.spotify.com/track/20pMRFsXHSuG9Vw6isbq7g
+          href: https://api.spotify.com/v1/tracks/20pMRFsXHSuG9Vw6isbq7g
+          id: 20pMRFsXHSuG9Vw6isbq7g
+          is_local: false
+          is_playable: true
+          name: Future
+          track_number: 1
+          type: track
+          uri: spotify:track:20pMRFsXHSuG9Vw6isbq7g
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/528uieHk0vYD4FtDN2sqEK
+            href: https://api.spotify.com/v1/albums/528uieHk0vYD4FtDN2sqEK
+            id: 528uieHk0vYD4FtDN2sqEK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735bb6b009cfc3dfc3e7c960e6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025bb6b009cfc3dfc3e7c960e6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515bb6b009cfc3dfc3e7c960e6
+            is_playable: true
+            name: Acaba Con El Insomnio
+            release_date: '2020-10-09'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:528uieHk0vYD4FtDN2sqEK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS
+            href: https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS
+            id: 4EENT7N7rCBwrddM3s0vFS
+            name: Cut Copy
+            type: artist
+            uri: spotify:artist:4EENT7N7rCBwrddM3s0vFS
+          disc_number: 1
+          duration_ms: 312040
+          explicit: false
+          external_ids:
+            isrc: AUMP00300035
+          external_urls:
+            spotify: https://open.spotify.com/track/6UgJNBKmVuHBhfcaBzXONt
+          href: https://api.spotify.com/v1/tracks/6UgJNBKmVuHBhfcaBzXONt
+          id: 6UgJNBKmVuHBhfcaBzXONt
+          is_local: false
+          is_playable: true
+          name: Future
+          track_number: 11
+          type: track
+          uri: spotify:track:6UgJNBKmVuHBhfcaBzXONt
+    isrc: AUMP00300035

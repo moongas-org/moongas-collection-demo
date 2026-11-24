@@ -157,3 +157,79 @@ mediaFileData:
   year: 1994
   duration: 470.9877551020408
   modTime: 2024-08-09 22:36:32.668205+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2Q7623UYgcnGCuMdECVK9E
+    trackId: 2Q7623UYgcnGCuMdECVK9E
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBBL9500002&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid
+              href: https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid
+              id: 6J7biCazzYhU3gM9j1wfid
+              name: Jamiroquai
+              type: artist
+              uri: spotify:artist:6J7biCazzYhU3gM9j1wfid
+            external_urls:
+              spotify: https://open.spotify.com/album/3NXIMneTqPpJOb0Bigq3fJ
+            href: https://api.spotify.com/v1/albums/3NXIMneTqPpJOb0Bigq3fJ
+            id: 3NXIMneTqPpJOb0Bigq3fJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736140467cde928604d9d6a004
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026140467cde928604d9d6a004
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516140467cde928604d9d6a004
+            is_playable: true
+            name: 'High Times: The Extras'
+            release_date: '2006-11-06'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3NXIMneTqPpJOb0Bigq3fJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid
+            href: https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid
+            id: 6J7biCazzYhU3gM9j1wfid
+            name: Jamiroquai
+            type: artist
+            uri: spotify:artist:6J7biCazzYhU3gM9j1wfid
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts
+            href: https://api.spotify.com/v1/artists/6CwQfN34JdGHfo0A752Lts
+            id: 6CwQfN34JdGHfo0A752Lts
+            name: David Morales
+            type: artist
+            uri: spotify:artist:6CwQfN34JdGHfo0A752Lts
+          disc_number: 1
+          duration_ms: 474026
+          explicit: true
+          external_ids:
+            isrc: GBBBL9500002
+          external_urls:
+            spotify: https://open.spotify.com/track/2Q7623UYgcnGCuMdECVK9E
+          href: https://api.spotify.com/v1/tracks/2Q7623UYgcnGCuMdECVK9E
+          id: 2Q7623UYgcnGCuMdECVK9E
+          is_local: false
+          is_playable: true
+          name: Space Cowboy - David Morales Classic Club Remix
+          track_number: 2
+          type: track
+          uri: spotify:track:2Q7623UYgcnGCuMdECVK9E
+    isrc: GBBBL9500002

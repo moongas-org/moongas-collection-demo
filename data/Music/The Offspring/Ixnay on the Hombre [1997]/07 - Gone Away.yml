@@ -173,3 +173,72 @@ mediaFileData:
   year: 1997
   duration: 269.856
   modTime: 2025-09-23 01:47:38.573057+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/49XpWZO5HVebXqtJIZdh1U
+    trackId: 49XpWZO5HVebXqtJIZdh1U
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10603026&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn
+              href: https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn
+              id: 2UZMlIwnkgAEDBsw1Rejkn
+              name: Tom Petty
+              type: artist
+              uri: spotify:artist:2UZMlIwnkgAEDBsw1Rejkn
+            external_urls:
+              spotify: https://open.spotify.com/album/1CvE8Bp9CDOArk2aL3NuC4
+            href: https://api.spotify.com/v1/albums/1CvE8Bp9CDOArk2aL3NuC4
+            id: 1CvE8Bp9CDOArk2aL3NuC4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27333ddc5c6cbcd5246b39fdac3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0233ddc5c6cbcd5246b39fdac3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485133ddc5c6cbcd5246b39fdac3
+            is_playable: true
+            name: Highway Companion
+            release_date: '2006-07-21'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1CvE8Bp9CDOArk2aL3NuC4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn
+            href: https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn
+            id: 2UZMlIwnkgAEDBsw1Rejkn
+            name: Tom Petty
+            type: artist
+            uri: spotify:artist:2UZMlIwnkgAEDBsw1Rejkn
+          disc_number: 1
+          duration_ms: 267346
+          explicit: false
+          external_ids:
+            isrc: USWB10603026
+          external_urls:
+            spotify: https://open.spotify.com/track/49XpWZO5HVebXqtJIZdh1U
+          href: https://api.spotify.com/v1/tracks/49XpWZO5HVebXqtJIZdh1U
+          id: 49XpWZO5HVebXqtJIZdh1U
+          is_local: false
+          is_playable: true
+          name: Night Driver
+          track_number: 8
+          type: track
+          uri: spotify:track:49XpWZO5HVebXqtJIZdh1U
+    isrc: USWB10603026

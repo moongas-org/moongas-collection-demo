@@ -69,3 +69,126 @@ mediaFileData:
   year: 1992
   duration: 262.50448979591835
   modTime: 2025-11-01 08:27:11.859637+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Vgsyg5ykagzYeY38UL3NT
+    trackId: 4Vgsyg5ykagzYeY38UL3NT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAR19700073&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB
+              href: https://api.spotify.com/v1/artists/6I3M904Y9IwgDjrQ9pANiB
+              id: 6I3M904Y9IwgDjrQ9pANiB
+              name: Kenny G
+              type: artist
+              uri: spotify:artist:6I3M904Y9IwgDjrQ9pANiB
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZlTqCfuj9zg9xuaMFnBjN
+            href: https://api.spotify.com/v1/albums/3ZlTqCfuj9zg9xuaMFnBjN
+            id: 3ZlTqCfuj9zg9xuaMFnBjN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ee2891e5c8149a653a35f7f0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ee2891e5c8149a653a35f7f0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ee2891e5c8149a653a35f7f0
+            is_playable: true
+            name: Six of Hearts EP
+            release_date: '1997-03-01'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:3ZlTqCfuj9zg9xuaMFnBjN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB
+            href: https://api.spotify.com/v1/artists/6I3M904Y9IwgDjrQ9pANiB
+            id: 6I3M904Y9IwgDjrQ9pANiB
+            name: Kenny G
+            type: artist
+            uri: spotify:artist:6I3M904Y9IwgDjrQ9pANiB
+          disc_number: 1
+          duration_ms: 259493
+          explicit: false
+          external_ids:
+            isrc: USAR19700073
+          external_urls:
+            spotify: https://open.spotify.com/track/4Vgsyg5ykagzYeY38UL3NT
+          href: https://api.spotify.com/v1/tracks/4Vgsyg5ykagzYeY38UL3NT
+          id: 4Vgsyg5ykagzYeY38UL3NT
+          is_local: false
+          is_playable: true
+          name: The Joy of Life
+          track_number: 1
+          type: track
+          uri: spotify:track:4Vgsyg5ykagzYeY38UL3NT
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB
+              href: https://api.spotify.com/v1/artists/6I3M904Y9IwgDjrQ9pANiB
+              id: 6I3M904Y9IwgDjrQ9pANiB
+              name: Kenny G
+              type: artist
+              uri: spotify:artist:6I3M904Y9IwgDjrQ9pANiB
+            external_urls:
+              spotify: https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy
+            href: https://api.spotify.com/v1/albums/4ZIOCYviEphLj1EpwXXvHy
+            id: 4ZIOCYviEphLj1EpwXXvHy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a96756810d2a144d1d40e820
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a96756810d2a144d1d40e820
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a96756810d2a144d1d40e820
+            is_playable: true
+            name: Breathless
+            release_date: '1992'
+            release_date_precision: year
+            total_tracks: 14
+            type: album
+            uri: spotify:album:4ZIOCYviEphLj1EpwXXvHy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB
+            href: https://api.spotify.com/v1/artists/6I3M904Y9IwgDjrQ9pANiB
+            id: 6I3M904Y9IwgDjrQ9pANiB
+            name: Kenny G
+            type: artist
+            uri: spotify:artist:6I3M904Y9IwgDjrQ9pANiB
+          disc_number: 1
+          duration_ms: 260760
+          explicit: false
+          external_ids:
+            isrc: USAR19700073
+          external_urls:
+            spotify: https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2
+          href: https://api.spotify.com/v1/tracks/5s5w2DYXBWAL1lX7KTCJY2
+          id: 5s5w2DYXBWAL1lX7KTCJY2
+          is_local: false
+          is_playable: true
+          name: The Joy of Life
+          track_number: 1
+          type: track
+          uri: spotify:track:5s5w2DYXBWAL1lX7KTCJY2
+    isrc: USAR19700073

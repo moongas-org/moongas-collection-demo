@@ -82,3 +82,126 @@ mediaFileData:
   year: 1997
   duration: 240.3526875
   modTime: 2023-07-17 00:37:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4jxzpzN0wqlEJvfBdB2UpU
+    trackId: 4jxzpzN0wqlEJvfBdB2UpU
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19300044&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY
+              href: https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY
+              id: 6ZLTlhejhndI4Rh53vYhrY
+              name: Ozzy Osbourne
+              type: artist
+              uri: spotify:artist:6ZLTlhejhndI4Rh53vYhrY
+            external_urls:
+              spotify: https://open.spotify.com/album/3gOY0Quz6Sli8UoPOc5nGi
+            href: https://api.spotify.com/v1/albums/3gOY0Quz6Sli8UoPOc5nGi
+            id: 3gOY0Quz6Sli8UoPOc5nGi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d0c71235675c9baee14b9d33
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d0c71235675c9baee14b9d33
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d0c71235675c9baee14b9d33
+            is_playable: true
+            name: LIVE & LOUD
+            release_date: '1993-06-23'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:3gOY0Quz6Sli8UoPOc5nGi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY
+            href: https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY
+            id: 6ZLTlhejhndI4Rh53vYhrY
+            name: Ozzy Osbourne
+            type: artist
+            uri: spotify:artist:6ZLTlhejhndI4Rh53vYhrY
+          disc_number: 1
+          duration_ms: 302760
+          explicit: true
+          external_ids:
+            isrc: USSM19300044
+          external_urls:
+            spotify: https://open.spotify.com/track/4jxzpzN0wqlEJvfBdB2UpU
+          href: https://api.spotify.com/v1/tracks/4jxzpzN0wqlEJvfBdB2UpU
+          id: 4jxzpzN0wqlEJvfBdB2UpU
+          is_local: false
+          is_playable: true
+          name: I Don't Want To Change The World - Live at Orlando Arena, Orlando, FL - August 1992
+          track_number: 3
+          type: track
+          uri: spotify:track:4jxzpzN0wqlEJvfBdB2UpU
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY
+              href: https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY
+              id: 6ZLTlhejhndI4Rh53vYhrY
+              name: Ozzy Osbourne
+              type: artist
+              uri: spotify:artist:6ZLTlhejhndI4Rh53vYhrY
+            external_urls:
+              spotify: https://open.spotify.com/album/6eyLkYlVShYcXYiAgKVnQt
+            href: https://api.spotify.com/v1/albums/6eyLkYlVShYcXYiAgKVnQt
+            id: 6eyLkYlVShYcXYiAgKVnQt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273698c9c30c686012b08bdbf71
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02698c9c30c686012b08bdbf71
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851698c9c30c686012b08bdbf71
+            is_playable: true
+            name: The Essential Ozzy Osbourne
+            release_date: '2003-02-11'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:6eyLkYlVShYcXYiAgKVnQt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY
+            href: https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY
+            id: 6ZLTlhejhndI4Rh53vYhrY
+            name: Ozzy Osbourne
+            type: artist
+            uri: spotify:artist:6ZLTlhejhndI4Rh53vYhrY
+          disc_number: 2
+          duration_ms: 246808
+          explicit: true
+          external_ids:
+            isrc: USSM19300044
+          external_urls:
+            spotify: https://open.spotify.com/track/4Ab3MAEvjmAMo1SJFrr8Fd
+          href: https://api.spotify.com/v1/tracks/4Ab3MAEvjmAMo1SJFrr8Fd
+          id: 4Ab3MAEvjmAMo1SJFrr8Fd
+          is_local: false
+          is_playable: true
+          name: I Don't Want To Change The World - Live at Orlando Arena, Orlando, FL - August 1992
+          track_number: 6
+          type: track
+          uri: spotify:track:4Ab3MAEvjmAMo1SJFrr8Fd
+    isrc: USSM19300044

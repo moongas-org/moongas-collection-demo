@@ -74,3 +74,126 @@ mediaFileData:
   year: 2008
   duration: 237.50533333333334
   modTime: 2023-09-25 00:51:06+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1wvpEWYyAP0KpFe7lwZhwi
+    trackId: 1wvpEWYyAP0KpFe7lwZhwi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS0800256&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+              href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+              id: 57dN52uHvrHOxijzpIgu3E
+              name: Ratatat
+              type: artist
+              uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+            external_urls:
+              spotify: https://open.spotify.com/album/0Yuglslo18GMI054gQci1n
+            href: https://api.spotify.com/v1/albums/0Yuglslo18GMI054gQci1n
+            id: 0Yuglslo18GMI054gQci1n
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27343b6e8caa5e6220c59850e63
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0243b6e8caa5e6220c59850e63
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485143b6e8caa5e6220c59850e63
+            is_playable: true
+            name: Shempi
+            release_date: '2008-09-23'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:0Yuglslo18GMI054gQci1n
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+            href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+            id: 57dN52uHvrHOxijzpIgu3E
+            name: Ratatat
+            type: artist
+            uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+          disc_number: 1
+          duration_ms: 237440
+          explicit: false
+          external_ids:
+            isrc: GBBKS0800256
+          external_urls:
+            spotify: https://open.spotify.com/track/1wvpEWYyAP0KpFe7lwZhwi
+          href: https://api.spotify.com/v1/tracks/1wvpEWYyAP0KpFe7lwZhwi
+          id: 1wvpEWYyAP0KpFe7lwZhwi
+          is_local: false
+          is_playable: true
+          name: Shempi
+          track_number: 1
+          type: track
+          uri: spotify:track:1wvpEWYyAP0KpFe7lwZhwi
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+              href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+              id: 57dN52uHvrHOxijzpIgu3E
+              name: Ratatat
+              type: artist
+              uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+            external_urls:
+              spotify: https://open.spotify.com/album/7x8uGjdDxBHUva8PUHRzJj
+            href: https://api.spotify.com/v1/albums/7x8uGjdDxBHUva8PUHRzJj
+            id: 7x8uGjdDxBHUva8PUHRzJj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739e6abf9b4da7777eb8ddd61e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029e6abf9b4da7777eb8ddd61e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519e6abf9b4da7777eb8ddd61e
+            is_playable: true
+            name: LP3
+            release_date: '2008-07-08'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7x8uGjdDxBHUva8PUHRzJj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+            href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+            id: 57dN52uHvrHOxijzpIgu3E
+            name: Ratatat
+            type: artist
+            uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+          disc_number: 1
+          duration_ms: 237440
+          explicit: false
+          external_ids:
+            isrc: GBBKS0800256
+          external_urls:
+            spotify: https://open.spotify.com/track/68SLqD6aztB8SXlcX58aFn
+          href: https://api.spotify.com/v1/tracks/68SLqD6aztB8SXlcX58aFn
+          id: 68SLqD6aztB8SXlcX58aFn
+          is_local: false
+          is_playable: true
+          name: Shempi
+          track_number: 7
+          type: track
+          uri: spotify:track:68SLqD6aztB8SXlcX58aFn
+    isrc: GBBKS0800256

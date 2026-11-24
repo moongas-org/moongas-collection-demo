@@ -34,3 +34,126 @@ mediaFileData:
   year: 2006
   duration: 327.00084375
   modTime: 2023-07-17 00:42:58+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/27at4rUb6uDZyiIraPwzqH
+    trackId: 27at4rUb6uDZyiIraPwzqH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10604722&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+              href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+              id: 4xac3zhHlBm5QDxbZeqgeR
+              name: Robert Randolph & The Family Band
+              type: artist
+              uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+            external_urls:
+              spotify: https://open.spotify.com/album/7lsD2fAcYKfTe4FKbeZIbj
+            href: https://api.spotify.com/v1/albums/7lsD2fAcYKfTe4FKbeZIbj
+            id: 7lsD2fAcYKfTe4FKbeZIbj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27356cd61cf54e174c956a1a2a0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0256cd61cf54e174c956a1a2a0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485156cd61cf54e174c956a1a2a0
+            is_playable: true
+            name: Colorblind (U.S. Version)
+            release_date: '2006-09-25'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7lsD2fAcYKfTe4FKbeZIbj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+            href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+            id: 4xac3zhHlBm5QDxbZeqgeR
+            name: Robert Randolph & The Family Band
+            type: artist
+            uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+          disc_number: 1
+          duration_ms: 325493
+          explicit: false
+          external_ids:
+            isrc: USWB10604722
+          external_urls:
+            spotify: https://open.spotify.com/track/27at4rUb6uDZyiIraPwzqH
+          href: https://api.spotify.com/v1/tracks/27at4rUb6uDZyiIraPwzqH
+          id: 27at4rUb6uDZyiIraPwzqH
+          is_local: false
+          is_playable: true
+          name: Jesus Is Just Alright (feat. Eric Clapton)
+          track_number: 5
+          type: track
+          uri: spotify:track:27at4rUb6uDZyiIraPwzqH
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+              href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+              id: 4xac3zhHlBm5QDxbZeqgeR
+              name: Robert Randolph & The Family Band
+              type: artist
+              uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+            external_urls:
+              spotify: https://open.spotify.com/album/4X1DfvXckQ2hl9QeMO4N2P
+            href: https://api.spotify.com/v1/albums/4X1DfvXckQ2hl9QeMO4N2P
+            id: 4X1DfvXckQ2hl9QeMO4N2P
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273349dd14aadac2ece063241b5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02349dd14aadac2ece063241b5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851349dd14aadac2ece063241b5
+            is_playable: true
+            name: Colorblind
+            release_date: '2006-09-25'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4X1DfvXckQ2hl9QeMO4N2P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+            href: https://api.spotify.com/v1/artists/4xac3zhHlBm5QDxbZeqgeR
+            id: 4xac3zhHlBm5QDxbZeqgeR
+            name: Robert Randolph & The Family Band
+            type: artist
+            uri: spotify:artist:4xac3zhHlBm5QDxbZeqgeR
+          disc_number: 1
+          duration_ms: 325493
+          explicit: false
+          external_ids:
+            isrc: USWB10604722
+          external_urls:
+            spotify: https://open.spotify.com/track/2d6XZTHQKBEHnehbGnUXK5
+          href: https://api.spotify.com/v1/tracks/2d6XZTHQKBEHnehbGnUXK5
+          id: 2d6XZTHQKBEHnehbGnUXK5
+          is_local: false
+          is_playable: true
+          name: Jesus Is Just Alright (feat. Eric Clapton)
+          track_number: 5
+          type: track
+          uri: spotify:track:2d6XZTHQKBEHnehbGnUXK5
+    isrc: USWB10604722

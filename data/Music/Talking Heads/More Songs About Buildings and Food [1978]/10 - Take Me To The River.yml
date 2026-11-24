@@ -58,3 +58,126 @@ mediaFileData:
   year: 1978
   duration: 302.94204081632654
   modTime: 2023-04-23 15:37:20.060000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/24sbjDTDDkW77L0xtREKzC
+    trackId: 24sbjDTDDkW77L0xtREKzC
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19900863&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/4ksJGDgtixAqJ390XWv0Ua
+            href: https://api.spotify.com/v1/albums/4ksJGDgtixAqJ390XWv0Ua
+            id: 4ksJGDgtixAqJ390XWv0Ua
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f704c874cd053dbac89591b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f704c874cd053dbac89591b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f704c874cd053dbac89591b3
+            is_playable: true
+            name: Popular Favorites 1976 - 1992 / Sand in the Vaseline
+            release_date: '1992-10-13'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:4ksJGDgtixAqJ390XWv0Ua
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 303533
+          explicit: false
+          external_ids:
+            isrc: USWB19900863
+          external_urls:
+            spotify: https://open.spotify.com/track/24sbjDTDDkW77L0xtREKzC
+          href: https://api.spotify.com/v1/tracks/24sbjDTDDkW77L0xtREKzC
+          id: 24sbjDTDDkW77L0xtREKzC
+          is_local: false
+          is_playable: true
+          name: Take Me to the River
+          track_number: 10
+          type: track
+          uri: spotify:track:24sbjDTDDkW77L0xtREKzC
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe
+            href: https://api.spotify.com/v1/albums/39jsLMRmrTpfdq2vE4TCUe
+            id: 39jsLMRmrTpfdq2vE4TCUe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27391237668384c4d646b30c05c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0291237668384c4d646b30c05c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485191237668384c4d646b30c05c
+            is_playable: true
+            name: More Songs About Buildings and Food
+            release_date: '1978-07-14'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:39jsLMRmrTpfdq2vE4TCUe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 302893
+          explicit: false
+          external_ids:
+            isrc: USWB19900863
+          external_urls:
+            spotify: https://open.spotify.com/track/1auuYcOrua5hrsGCS7idun
+          href: https://api.spotify.com/v1/tracks/1auuYcOrua5hrsGCS7idun
+          id: 1auuYcOrua5hrsGCS7idun
+          is_local: false
+          is_playable: true
+          name: Take Me to the River
+          track_number: 10
+          type: track
+          uri: spotify:track:1auuYcOrua5hrsGCS7idun
+    isrc: USWB19900863

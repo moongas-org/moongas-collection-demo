@@ -71,3 +71,180 @@ mediaFileData:
   year: 2001
   duration: 219.02666666666667
   modTime: 2024-11-09 19:38:59.256920+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7yhner30BgcXSmxanpvqDi
+    trackId: 7yhner30BgcXSmxanpvqDi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10107262&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6mWJAq9L9IHhqa4CmJ1fii
+            href: https://api.spotify.com/v1/albums/6mWJAq9L9IHhqa4CmJ1fii
+            id: 6mWJAq9L9IHhqa4CmJ1fii
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a2c63ada20f6fca1ce2edc76
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a2c63ada20f6fca1ce2edc76
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a2c63ada20f6fca1ce2edc76
+            is_playable: true
+            name: Nice 2000s
+            release_date: '2008-02-29'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:6mWJAq9L9IHhqa4CmJ1fii
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1
+            href: https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1
+            id: 5eAWCfyUhZtHHtBdNk56l1
+            name: System Of A Down
+            type: artist
+            uri: spotify:artist:5eAWCfyUhZtHHtBdNk56l1
+          disc_number: 1
+          duration_ms: 220306
+          explicit: false
+          external_ids:
+            isrc: USSM10107262
+          external_urls:
+            spotify: https://open.spotify.com/track/7yhner30BgcXSmxanpvqDi
+          href: https://api.spotify.com/v1/tracks/7yhner30BgcXSmxanpvqDi
+          id: 7yhner30BgcXSmxanpvqDi
+          is_local: false
+          is_playable: true
+          name: Toxicity
+          track_number: 15
+          type: track
+          uri: spotify:track:7yhner30BgcXSmxanpvqDi
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1
+              href: https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1
+              id: 5eAWCfyUhZtHHtBdNk56l1
+              name: System Of A Down
+              type: artist
+              uri: spotify:artist:5eAWCfyUhZtHHtBdNk56l1
+            external_urls:
+              spotify: https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh
+            href: https://api.spotify.com/v1/albums/6jWde94ln40epKIQCd8XUh
+            id: 6jWde94ln40epKIQCd8XUh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485107bc7d2a745636c356b4d0aa
+            is_playable: true
+            name: Toxicity
+            release_date: '2001-09-04'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:6jWde94ln40epKIQCd8XUh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1
+            href: https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1
+            id: 5eAWCfyUhZtHHtBdNk56l1
+            name: System Of A Down
+            type: artist
+            uri: spotify:artist:5eAWCfyUhZtHHtBdNk56l1
+          disc_number: 1
+          duration_ms: 218933
+          explicit: false
+          external_ids:
+            isrc: USSM10107262
+          external_urls:
+            spotify: https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn
+          href: https://api.spotify.com/v1/tracks/0snQkGI5qnAmohLE7jTsTn
+          id: 0snQkGI5qnAmohLE7jTsTn
+          is_local: false
+          is_playable: true
+          name: Toxicity
+          track_number: 12
+          type: track
+          uri: spotify:track:0snQkGI5qnAmohLE7jTsTn
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7LSb480ijrv0OAy60psIYv
+            href: https://api.spotify.com/v1/albums/7LSb480ijrv0OAy60psIYv
+            id: 7LSb480ijrv0OAy60psIYv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fee3ffd197f3c6e2b8d32dcd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fee3ffd197f3c6e2b8d32dcd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fee3ffd197f3c6e2b8d32dcd
+            is_playable: true
+            name: Rock Clássico
+            release_date: '2019-03-29'
+            release_date_precision: day
+            total_tracks: 70
+            type: album
+            uri: spotify:album:7LSb480ijrv0OAy60psIYv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1
+            href: https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1
+            id: 5eAWCfyUhZtHHtBdNk56l1
+            name: System Of A Down
+            type: artist
+            uri: spotify:artist:5eAWCfyUhZtHHtBdNk56l1
+          disc_number: 1
+          duration_ms: 218933
+          explicit: false
+          external_ids:
+            isrc: USSM10107262
+          external_urls:
+            spotify: https://open.spotify.com/track/53zgHulbmmv1kNosve59XQ
+          href: https://api.spotify.com/v1/tracks/53zgHulbmmv1kNosve59XQ
+          id: 53zgHulbmmv1kNosve59XQ
+          is_local: false
+          is_playable: true
+          name: Toxicity
+          track_number: 23
+          type: track
+          uri: spotify:track:53zgHulbmmv1kNosve59XQ
+    isrc: USSM10107262

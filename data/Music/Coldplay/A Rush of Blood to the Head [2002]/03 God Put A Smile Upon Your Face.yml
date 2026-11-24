@@ -168,3 +168,288 @@ mediaFileData:
   year: 2002
   duration: 299.46775
   modTime: 2026-10-23 21:08:35.804557+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V
+    trackId: 4hf0hL4kWyjWztZzVsM39V
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE0200775&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBAYE0200775&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+              href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+              id: 4gzpq5DPGxSnKTe4SA8HAU
+              name: Coldplay
+              type: artist
+              uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+            external_urls:
+              spotify: https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ
+            href: https://api.spotify.com/v1/albums/0RHX9XECH8IVI3LNgWDpmQ
+            id: 0RHX9XECH8IVI3LNgWDpmQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82
+            is_playable: true
+            name: A Rush of Blood to the Head
+            release_date: '2002-08-27'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0RHX9XECH8IVI3LNgWDpmQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 297306
+          explicit: false
+          external_ids:
+            isrc: GBAYE0200775
+          external_urls:
+            spotify: https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V
+          href: https://api.spotify.com/v1/tracks/4hf0hL4kWyjWztZzVsM39V
+          id: 4hf0hL4kWyjWztZzVsM39V
+          is_local: false
+          is_playable: true
+          name: God Put a Smile upon Your Face
+          track_number: 3
+          type: track
+          uri: spotify:track:4hf0hL4kWyjWztZzVsM39V
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+              href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+              id: 4gzpq5DPGxSnKTe4SA8HAU
+              name: Coldplay
+              type: artist
+              uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+            external_urls:
+              spotify: https://open.spotify.com/album/5ZHXwTzxonEauEvYWIgBfw
+            href: https://api.spotify.com/v1/albums/5ZHXwTzxonEauEvYWIgBfw
+            id: 5ZHXwTzxonEauEvYWIgBfw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739000ead49d3020ad6512735e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029000ead49d3020ad6512735e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519000ead49d3020ad6512735e
+            is_playable: true
+            name: God Put a Smile upon Your Face
+            release_date: '2003-07-07'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:5ZHXwTzxonEauEvYWIgBfw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 297306
+          explicit: false
+          external_ids:
+            isrc: GBAYE0200775
+          external_urls:
+            spotify: https://open.spotify.com/track/68g7rYVFesprisLiHLeIvo
+          href: https://api.spotify.com/v1/tracks/68g7rYVFesprisLiHLeIvo
+          id: 68g7rYVFesprisLiHLeIvo
+          is_local: false
+          is_playable: true
+          name: God Put a Smile upon Your Face
+          track_number: 1
+          type: track
+          uri: spotify:track:68g7rYVFesprisLiHLeIvo
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2xoDaTQ9J38puEd0ThBQq3
+            href: https://api.spotify.com/v1/albums/2xoDaTQ9J38puEd0ThBQq3
+            id: 2xoDaTQ9J38puEd0ThBQq3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273507b2fa1a5124bb2a830811c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02507b2fa1a5124bb2a830811c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851507b2fa1a5124bb2a830811c
+            is_playable: true
+            name: Sunday Pop
+            release_date: '2021-12-31'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2xoDaTQ9J38puEd0ThBQq3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 297306
+          explicit: false
+          external_ids:
+            isrc: GBAYE0200775
+          external_urls:
+            spotify: https://open.spotify.com/track/2Jc0MbLzRku20nVTtcmziQ
+          href: https://api.spotify.com/v1/tracks/2Jc0MbLzRku20nVTtcmziQ
+          id: 2Jc0MbLzRku20nVTtcmziQ
+          is_local: false
+          is_playable: true
+          name: God Put a Smile Upon Your Face
+          track_number: 5
+          type: track
+          uri: spotify:track:2Jc0MbLzRku20nVTtcmziQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6XE9oOrhmMnEBhMzIMY7la
+            href: https://api.spotify.com/v1/albums/6XE9oOrhmMnEBhMzIMY7la
+            id: 6XE9oOrhmMnEBhMzIMY7la
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734d17d24b2017aeeb2b6b699a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024d17d24b2017aeeb2b6b699a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514d17d24b2017aeeb2b6b699a
+            is_playable: true
+            name: Indie Giants
+            release_date: '2025-09-03'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:6XE9oOrhmMnEBhMzIMY7la
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 297306
+          explicit: false
+          external_ids:
+            isrc: GBAYE0200775
+          external_urls:
+            spotify: https://open.spotify.com/track/2nvjLnSXyziYIFsvPubtkz
+          href: https://api.spotify.com/v1/tracks/2nvjLnSXyziYIFsvPubtkz
+          id: 2nvjLnSXyziYIFsvPubtkz
+          is_local: false
+          is_playable: true
+          name: God Put a Smile Upon Your Face
+          track_number: 15
+          type: track
+          uri: spotify:track:2nvjLnSXyziYIFsvPubtkz
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5P6SBUcii0whDYadVrQjzs
+            href: https://api.spotify.com/v1/albums/5P6SBUcii0whDYadVrQjzs
+            id: 5P6SBUcii0whDYadVrQjzs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b8430f60c3b4ed780b7d90f9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b8430f60c3b4ed780b7d90f9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b8430f60c3b4ed780b7d90f9
+            is_playable: true
+            name: Indie Classics Collection
+            release_date: '2025-08-29'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:5P6SBUcii0whDYadVrQjzs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 297306
+          explicit: false
+          external_ids:
+            isrc: GBAYE0200775
+          external_urls:
+            spotify: https://open.spotify.com/track/33nVFfDOfQlKy8Hvm4vDQV
+          href: https://api.spotify.com/v1/tracks/33nVFfDOfQlKy8Hvm4vDQV
+          id: 33nVFfDOfQlKy8Hvm4vDQV
+          is_local: false
+          is_playable: true
+          name: God Put a Smile Upon Your Face
+          track_number: 18
+          type: track
+          uri: spotify:track:33nVFfDOfQlKy8Hvm4vDQV
+    isrc: GBAYE0200775

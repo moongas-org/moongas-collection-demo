@@ -110,3 +110,288 @@ mediaFileData:
   year: 1964
   duration: 129.48
   modTime: 2023-04-12 20:40:45.030000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6oaslGPGoMEB5ySn9iGeBJ
+    trackId: 6oaslGPGoMEB5ySn9iGeBJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC15405810&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRC15405810&type=track
+        offset: 0
+        previous:
+        total: 11
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+              href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+              id: 43ZHCT0cAZBISjO8DG9PnE
+              name: Elvis Presley
+              type: artist
+              uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+            external_urls:
+              spotify: https://open.spotify.com/album/7xTRLTNmw8geW9MXaDfyqI
+            href: https://api.spotify.com/v1/albums/7xTRLTNmw8geW9MXaDfyqI
+            id: 7xTRLTNmw8geW9MXaDfyqI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27393e72f84c00efd2b51e3ce4c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0293e72f84c00efd2b51e3ce4c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485193e72f84c00efd2b51e3ce4c
+            is_playable: true
+            name: "The King of Rock 'n' Roll: The Complete 50's Masters"
+            release_date: '1992-06-23'
+            release_date_precision: day
+            total_tracks: 140
+            type: album
+            uri: spotify:album:7xTRLTNmw8geW9MXaDfyqI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+            href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+            id: 43ZHCT0cAZBISjO8DG9PnE
+            name: Elvis Presley
+            type: artist
+            uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+          disc_number: 1
+          duration_ms: 115533
+          explicit: false
+          external_ids:
+            isrc: USRC15405810
+          external_urls:
+            spotify: https://open.spotify.com/track/6oaslGPGoMEB5ySn9iGeBJ
+          href: https://api.spotify.com/v1/tracks/6oaslGPGoMEB5ySn9iGeBJ
+          id: 6oaslGPGoMEB5ySn9iGeBJ
+          is_local: false
+          is_playable: true
+          name: That's All Right
+          track_number: 2
+          type: track
+          uri: spotify:track:6oaslGPGoMEB5ySn9iGeBJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+              href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+              id: 43ZHCT0cAZBISjO8DG9PnE
+              name: Elvis Presley
+              type: artist
+              uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+            external_urls:
+              spotify: https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD
+            href: https://api.spotify.com/v1/albums/0uJJdEZ8sRLNPoKEkjvqTD
+            id: 0uJJdEZ8sRLNPoKEkjvqTD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273da5c937f51454e0f0b04fe9c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02da5c937f51454e0f0b04fe9c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851da5c937f51454e0f0b04fe9c
+            is_playable: true
+            name: 'Elvis 30 #1 Hits (Expanded Edition)'
+            release_date: '2022-02-18'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:0uJJdEZ8sRLNPoKEkjvqTD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+            href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+            id: 43ZHCT0cAZBISjO8DG9PnE
+            name: Elvis Presley
+            type: artist
+            uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+          disc_number: 1
+          duration_ms: 119653
+          explicit: false
+          external_ids:
+            isrc: USRC15405810
+          external_urls:
+            spotify: https://open.spotify.com/track/7chFaRyJHV6q3kZdZpsYO3
+          href: https://api.spotify.com/v1/tracks/7chFaRyJHV6q3kZdZpsYO3
+          id: 7chFaRyJHV6q3kZdZpsYO3
+          is_local: false
+          is_playable: true
+          name: That's All Right (Bonus Track)
+          track_number: 32
+          type: track
+          uri: spotify:track:7chFaRyJHV6q3kZdZpsYO3
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+              href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+              id: 43ZHCT0cAZBISjO8DG9PnE
+              name: Elvis Presley
+              type: artist
+              uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+            external_urls:
+              spotify: https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU
+            href: https://api.spotify.com/v1/albums/1NVsMlJgD5GHf0CT1IewbU
+            id: 1NVsMlJgD5GHf0CT1IewbU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eea330670be8d9ace44f767f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eea330670be8d9ace44f767f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eea330670be8d9ace44f767f
+            is_playable: true
+            name: For LP Fans Only
+            release_date: '1959-01-23'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1NVsMlJgD5GHf0CT1IewbU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+            href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+            id: 43ZHCT0cAZBISjO8DG9PnE
+            name: Elvis Presley
+            type: artist
+            uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+          disc_number: 1
+          duration_ms: 118209
+          explicit: false
+          external_ids:
+            isrc: USRC15405810
+          external_urls:
+            spotify: https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA
+          href: https://api.spotify.com/v1/tracks/0tHcXWIYt99GY8BONrPIfA
+          id: 0tHcXWIYt99GY8BONrPIfA
+          is_local: false
+          is_playable: true
+          name: That's All Right
+          track_number: 1
+          type: track
+          uri: spotify:track:0tHcXWIYt99GY8BONrPIfA
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+              href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+              id: 43ZHCT0cAZBISjO8DG9PnE
+              name: Elvis Presley
+              type: artist
+              uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+            external_urls:
+              spotify: https://open.spotify.com/album/233FZJhNii3ABqiFv2sWvs
+            href: https://api.spotify.com/v1/albums/233FZJhNii3ABqiFv2sWvs
+            id: 233FZJhNii3ABqiFv2sWvs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27330ccf85b947c265c1d92ffdf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0230ccf85b947c265c1d92ffdf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485130ccf85b947c265c1d92ffdf
+            is_playable: true
+            name: The 50 Greatest Hits
+            release_date: '2020-04-03'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:233FZJhNii3ABqiFv2sWvs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+            href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+            id: 43ZHCT0cAZBISjO8DG9PnE
+            name: Elvis Presley
+            type: artist
+            uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+          disc_number: 1
+          duration_ms: 118209
+          explicit: false
+          external_ids:
+            isrc: USRC15405810
+          external_urls:
+            spotify: https://open.spotify.com/track/1l5LxX34FgwqlhvMb7BPXq
+          href: https://api.spotify.com/v1/tracks/1l5LxX34FgwqlhvMb7BPXq
+          id: 1l5LxX34FgwqlhvMb7BPXq
+          is_local: false
+          is_playable: true
+          name: That's All Right
+          track_number: 1
+          type: track
+          uri: spotify:track:1l5LxX34FgwqlhvMb7BPXq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+              href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+              id: 43ZHCT0cAZBISjO8DG9PnE
+              name: Elvis Presley
+              type: artist
+              uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+            external_urls:
+              spotify: https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI
+            href: https://api.spotify.com/v1/albums/1obc6uvzMsDUd6Q76MP1kI
+            id: 1obc6uvzMsDUd6Q76MP1kI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d1add16233889d677f7fa1ed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d1add16233889d677f7fa1ed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d1add16233889d677f7fa1ed
+            is_playable: true
+            name: 'A Boy From Tupelo: The Complete 1953-1955 Recordings'
+            release_date: '2017-07-28'
+            release_date_precision: day
+            total_tracks: 85
+            type: album
+            uri: spotify:album:1obc6uvzMsDUd6Q76MP1kI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+            href: https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE
+            id: 43ZHCT0cAZBISjO8DG9PnE
+            name: Elvis Presley
+            type: artist
+            uri: spotify:artist:43ZHCT0cAZBISjO8DG9PnE
+          disc_number: 1
+          duration_ms: 119653
+          explicit: false
+          external_ids:
+            isrc: USRC15405810
+          external_urls:
+            spotify: https://open.spotify.com/track/1mKhiITXCIpves7QbT4xo7
+          href: https://api.spotify.com/v1/tracks/1mKhiITXCIpves7QbT4xo7
+          id: 1mKhiITXCIpves7QbT4xo7
+          is_local: false
+          is_playable: true
+          name: That's All Right
+          track_number: 7
+          type: track
+          uri: spotify:track:1mKhiITXCIpves7QbT4xo7
+    isrc: USRC15405810

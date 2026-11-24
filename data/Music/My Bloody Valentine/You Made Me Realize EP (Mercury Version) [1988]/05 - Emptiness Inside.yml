@@ -44,3 +44,126 @@ mediaFileData:
   year: 1988
   duration: 170.34448979591838
   modTime: 2024-01-28 18:38:19.980124+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4c1IjyaETh7oM2tOZjy1vY
+    trackId: 4c1IjyaETh7oM2tOZjy1vY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBARL0800255&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+              href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+              id: 3G3Gdm0ZRAOxLrbyjfhii5
+              name: my bloody valentine
+              type: artist
+              uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+            external_urls:
+              spotify: https://open.spotify.com/album/3OKQrIvUbcJN9kcFLmycsk
+            href: https://api.spotify.com/v1/albums/3OKQrIvUbcJN9kcFLmycsk
+            id: 3OKQrIvUbcJN9kcFLmycsk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ccb61171c5b47b3a63a89321
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ccb61171c5b47b3a63a89321
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ccb61171c5b47b3a63a89321
+            is_playable: true
+            name: ep’s 1988-1991 and rare tracks
+            release_date: '2012-05-04'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:3OKQrIvUbcJN9kcFLmycsk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+            href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+            id: 3G3Gdm0ZRAOxLrbyjfhii5
+            name: my bloody valentine
+            type: artist
+            uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+          disc_number: 1
+          duration_ms: 170240
+          explicit: false
+          external_ids:
+            isrc: GBARL0800255
+          external_urls:
+            spotify: https://open.spotify.com/track/4c1IjyaETh7oM2tOZjy1vY
+          href: https://api.spotify.com/v1/tracks/4c1IjyaETh7oM2tOZjy1vY
+          id: 4c1IjyaETh7oM2tOZjy1vY
+          is_local: false
+          is_playable: true
+          name: emptiness inside
+          track_number: 8
+          type: track
+          uri: spotify:track:4c1IjyaETh7oM2tOZjy1vY
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+              href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+              id: 3G3Gdm0ZRAOxLrbyjfhii5
+              name: my bloody valentine
+              type: artist
+              uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+            external_urls:
+              spotify: https://open.spotify.com/album/32urJuNJoupcMIDo9FRoaD
+            href: https://api.spotify.com/v1/albums/32urJuNJoupcMIDo9FRoaD
+            id: 32urJuNJoupcMIDo9FRoaD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273594aac64863cf7e06f0a6b09
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02594aac64863cf7e06f0a6b09
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851594aac64863cf7e06f0a6b09
+            is_playable: true
+            name: feed me with your kiss
+            release_date: '1988-10-31'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:32urJuNJoupcMIDo9FRoaD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+            href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+            id: 3G3Gdm0ZRAOxLrbyjfhii5
+            name: my bloody valentine
+            type: artist
+            uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+          disc_number: 1
+          duration_ms: 170240
+          explicit: false
+          external_ids:
+            isrc: GBARL0800255
+          external_urls:
+            spotify: https://open.spotify.com/track/5Y1vsIHzNwzRwetpCLztDJ
+          href: https://api.spotify.com/v1/tracks/5Y1vsIHzNwzRwetpCLztDJ
+          id: 5Y1vsIHzNwzRwetpCLztDJ
+          is_local: false
+          is_playable: true
+          name: emptiness inside
+          track_number: 3
+          type: track
+          uri: spotify:track:5Y1vsIHzNwzRwetpCLztDJ
+    isrc: GBARL0800255

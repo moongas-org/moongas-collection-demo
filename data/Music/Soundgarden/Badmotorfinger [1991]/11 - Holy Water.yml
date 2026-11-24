@@ -41,3 +41,180 @@ mediaFileData:
   year: 1991
   duration: 307.536
   modTime: 2025-07-27 23:19:16.421400+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1U923vru93oEAFFFzqA7Pc
+    trackId: 1U923vru93oEAFFFzqA7Pc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAM10000177&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK
+              href: https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK
+              id: 5xUf6j4upBrXZPg6AI4MRK
+              name: Soundgarden
+              type: artist
+              uri: spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+            external_urls:
+              spotify: https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp
+            href: https://api.spotify.com/v1/albums/5o2p8FZAyEOSH7arjJLCJp
+            id: 5o2p8FZAyEOSH7arjJLCJp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731015292f80ce7ae79c79ea20
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021015292f80ce7ae79c79ea20
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511015292f80ce7ae79c79ea20
+            is_playable: true
+            name: Badmotorfinger (Super Deluxe Edition)
+            release_date: '2016-11-18'
+            release_date_precision: day
+            total_tracks: 47
+            type: album
+            uri: spotify:album:5o2p8FZAyEOSH7arjJLCJp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK
+            href: https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK
+            id: 5xUf6j4upBrXZPg6AI4MRK
+            name: Soundgarden
+            type: artist
+            uri: spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+          disc_number: 1
+          duration_ms: 307506
+          explicit: false
+          external_ids:
+            isrc: USAM10000177
+          external_urls:
+            spotify: https://open.spotify.com/track/1U923vru93oEAFFFzqA7Pc
+          href: https://api.spotify.com/v1/tracks/1U923vru93oEAFFFzqA7Pc
+          id: 1U923vru93oEAFFFzqA7Pc
+          is_local: false
+          is_playable: true
+          name: Holy Water - Remastered 2016
+          track_number: 11
+          type: track
+          uri: spotify:track:1U923vru93oEAFFFzqA7Pc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3cDwIl8FJYZTErzRsYxH0X
+            href: https://api.spotify.com/v1/albums/3cDwIl8FJYZTErzRsYxH0X
+            id: 3cDwIl8FJYZTErzRsYxH0X
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fc1c006d440292e51056e0b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fc1c006d440292e51056e0b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fc1c006d440292e51056e0b3
+            is_playable: true
+            name: 90s Grunge
+            release_date: '2019-08-16'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:3cDwIl8FJYZTErzRsYxH0X
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK
+            href: https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK
+            id: 5xUf6j4upBrXZPg6AI4MRK
+            name: Soundgarden
+            type: artist
+            uri: spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+          disc_number: 1
+          duration_ms: 307506
+          explicit: false
+          external_ids:
+            isrc: USAM10000177
+          external_urls:
+            spotify: https://open.spotify.com/track/4hnplmxHVNQHRcsOuw9KMh
+          href: https://api.spotify.com/v1/tracks/4hnplmxHVNQHRcsOuw9KMh
+          id: 4hnplmxHVNQHRcsOuw9KMh
+          is_local: false
+          is_playable: true
+          name: Holy Water
+          track_number: 19
+          type: track
+          uri: spotify:track:4hnplmxHVNQHRcsOuw9KMh
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK
+              href: https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK
+              id: 5xUf6j4upBrXZPg6AI4MRK
+              name: Soundgarden
+              type: artist
+              uri: spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+            external_urls:
+              spotify: https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3
+            href: https://api.spotify.com/v1/albums/2W6MaUiInBkna5DfBES4E3
+            id: 2W6MaUiInBkna5DfBES4E3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27386ea45263405a29c7f433d3d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0286ea45263405a29c7f433d3d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485186ea45263405a29c7f433d3d
+            is_playable: true
+            name: Badmotorfinger (25th Anniversary Remaster)
+            release_date: '1991-10-08'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2W6MaUiInBkna5DfBES4E3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK
+            href: https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK
+            id: 5xUf6j4upBrXZPg6AI4MRK
+            name: Soundgarden
+            type: artist
+            uri: spotify:artist:5xUf6j4upBrXZPg6AI4MRK
+          disc_number: 1
+          duration_ms: 307506
+          explicit: false
+          external_ids:
+            isrc: USAM10000177
+          external_urls:
+            spotify: https://open.spotify.com/track/79gz4gtaK0iewV0EWxtGyB
+          href: https://api.spotify.com/v1/tracks/79gz4gtaK0iewV0EWxtGyB
+          id: 79gz4gtaK0iewV0EWxtGyB
+          is_local: false
+          is_playable: true
+          name: Holy Water - Remastered 2016
+          track_number: 11
+          type: track
+          uri: spotify:track:79gz4gtaK0iewV0EWxtGyB
+    isrc: USAM10000177

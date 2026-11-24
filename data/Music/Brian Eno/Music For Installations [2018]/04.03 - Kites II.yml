@@ -41,3 +41,72 @@ mediaFileData:
   year: 2018
   duration: 435.0
   modTime: 2025-02-06 01:11:58.396802+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/307JJBGkN43CmWAtzPFTuT
+    trackId: 307JJBGkN43CmWAtzPFTuT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGB2DY1700328&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi
+              href: https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi
+              id: 7MSUfLeTdDEoZiJPDSBXgi
+              name: Brian Eno
+              type: artist
+              uri: spotify:artist:7MSUfLeTdDEoZiJPDSBXgi
+            external_urls:
+              spotify: https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq
+            href: https://api.spotify.com/v1/albums/3z6IlwN9dnSMNXDI2nMbfq
+            id: 3z6IlwN9dnSMNXDI2nMbfq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273df7d9a2a64aceb3dd84ab761
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02df7d9a2a64aceb3dd84ab761
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851df7d9a2a64aceb3dd84ab761
+            is_playable: true
+            name: Music For Installations
+            release_date: '2018-05-04'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:3z6IlwN9dnSMNXDI2nMbfq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi
+            href: https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi
+            id: 7MSUfLeTdDEoZiJPDSBXgi
+            name: Brian Eno
+            type: artist
+            uri: spotify:artist:7MSUfLeTdDEoZiJPDSBXgi
+          disc_number: 4
+          duration_ms: 435002
+          explicit: false
+          external_ids:
+            isrc: GB2DY1700328
+          external_urls:
+            spotify: https://open.spotify.com/track/307JJBGkN43CmWAtzPFTuT
+          href: https://api.spotify.com/v1/tracks/307JJBGkN43CmWAtzPFTuT
+          id: 307JJBGkN43CmWAtzPFTuT
+          is_local: false
+          is_playable: true
+          name: Kites II
+          track_number: 3
+          type: track
+          uri: spotify:track:307JJBGkN43CmWAtzPFTuT
+    isrc: GB2DY1700328

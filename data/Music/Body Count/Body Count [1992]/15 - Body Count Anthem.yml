@@ -34,3 +34,288 @@ mediaFileData:
   year: 1992
   duration: 166.4522448979592
   modTime: 2026-08-02 17:06:04.814952+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4aVuH8fjmekze2Nj0gsIjK
+    trackId: 4aVuH8fjmekze2Nj0gsIjK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10102392&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB10102392&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+              href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+              id: 5KCph1z3jaSwhtwPzoYp6i
+              name: Body Count
+              type: artist
+              uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+            external_urls:
+              spotify: https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J
+            href: https://api.spotify.com/v1/albums/2J5Lf1s0Q42e31xjSwVd8J
+            id: 2J5Lf1s0Q42e31xjSwVd8J
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f1483a1e7961f3ad472a099a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f1483a1e7961f3ad472a099a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f1483a1e7961f3ad472a099a
+            is_playable: true
+            name: Body Count
+            release_date: '1992-03-10'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2J5Lf1s0Q42e31xjSwVd8J
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 166400
+          explicit: true
+          external_ids:
+            isrc: USWB10102392
+          external_urls:
+            spotify: https://open.spotify.com/track/4aVuH8fjmekze2Nj0gsIjK
+          href: https://api.spotify.com/v1/tracks/4aVuH8fjmekze2Nj0gsIjK
+          id: 4aVuH8fjmekze2Nj0gsIjK
+          is_local: false
+          is_playable: true
+          name: Body Count Anthem
+          track_number: 15
+          type: track
+          uri: spotify:track:4aVuH8fjmekze2Nj0gsIjK
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4JtWHYm6zBCzjin7QzOtx8
+            href: https://api.spotify.com/v1/albums/4JtWHYm6zBCzjin7QzOtx8
+            id: 4JtWHYm6zBCzjin7QzOtx8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273724a3a2dcbc52c5adc4f2e81
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02724a3a2dcbc52c5adc4f2e81
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851724a3a2dcbc52c5adc4f2e81
+            is_playable: true
+            name: Metalcore Classics
+            release_date: '2021-11-05'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:4JtWHYm6zBCzjin7QzOtx8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 166400
+          explicit: true
+          external_ids:
+            isrc: USWB10102392
+          external_urls:
+            spotify: https://open.spotify.com/track/1JVMkLgwWuQTiaNIKMKynM
+          href: https://api.spotify.com/v1/tracks/1JVMkLgwWuQTiaNIKMKynM
+          id: 1JVMkLgwWuQTiaNIKMKynM
+          is_local: false
+          is_playable: true
+          name: Body Count Anthem
+          track_number: 15
+          type: track
+          uri: spotify:track:1JVMkLgwWuQTiaNIKMKynM
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6lxAOYzSL8limcY1cSrSbz
+            href: https://api.spotify.com/v1/albums/6lxAOYzSL8limcY1cSrSbz
+            id: 6lxAOYzSL8limcY1cSrSbz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c77b02ca8c87da3f7e7a5862
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c77b02ca8c87da3f7e7a5862
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c77b02ca8c87da3f7e7a5862
+            is_playable: true
+            name: 'Gaming Tracks: Hip Hop'
+            release_date: '2021-07-30'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:6lxAOYzSL8limcY1cSrSbz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 166400
+          explicit: true
+          external_ids:
+            isrc: USWB10102392
+          external_urls:
+            spotify: https://open.spotify.com/track/2t4yOXAAKizPuYqosYy1af
+          href: https://api.spotify.com/v1/tracks/2t4yOXAAKizPuYqosYy1af
+          id: 2t4yOXAAKizPuYqosYy1af
+          is_local: false
+          is_playable: true
+          name: Body Count Anthem
+          track_number: 12
+          type: track
+          uri: spotify:track:2t4yOXAAKizPuYqosYy1af
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2T6EHfJn5nntjbWjkrbv7n
+            href: https://api.spotify.com/v1/albums/2T6EHfJn5nntjbWjkrbv7n
+            id: 2T6EHfJn5nntjbWjkrbv7n
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b9815fa510fc702629018e04
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b9815fa510fc702629018e04
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b9815fa510fc702629018e04
+            is_playable: true
+            name: NU METAL HITS
+            release_date: '2023-07-07'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:2T6EHfJn5nntjbWjkrbv7n
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 166400
+          explicit: true
+          external_ids:
+            isrc: USWB10102392
+          external_urls:
+            spotify: https://open.spotify.com/track/16PEMthWg47tlEE1RXJuyG
+          href: https://api.spotify.com/v1/tracks/16PEMthWg47tlEE1RXJuyG
+          id: 16PEMthWg47tlEE1RXJuyG
+          is_local: false
+          is_playable: true
+          name: Body Count Anthem
+          track_number: 16
+          type: track
+          uri: spotify:track:16PEMthWg47tlEE1RXJuyG
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/71urWpF1z5wXuVC336DAsy
+            href: https://api.spotify.com/v1/albums/71urWpF1z5wXuVC336DAsy
+            id: 71urWpF1z5wXuVC336DAsy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fb0daaecbbde2dd46049a4d9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fb0daaecbbde2dd46049a4d9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fb0daaecbbde2dd46049a4d9
+            is_playable: true
+            name: NU METAL Masterpieces
+            release_date: '2023-08-18'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:71urWpF1z5wXuVC336DAsy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i
+            href: https://api.spotify.com/v1/artists/5KCph1z3jaSwhtwPzoYp6i
+            id: 5KCph1z3jaSwhtwPzoYp6i
+            name: Body Count
+            type: artist
+            uri: spotify:artist:5KCph1z3jaSwhtwPzoYp6i
+          disc_number: 1
+          duration_ms: 166400
+          explicit: true
+          external_ids:
+            isrc: USWB10102392
+          external_urls:
+            spotify: https://open.spotify.com/track/29oEkKfSEPZ3LdLW9EmPTg
+          href: https://api.spotify.com/v1/tracks/29oEkKfSEPZ3LdLW9EmPTg
+          id: 29oEkKfSEPZ3LdLW9EmPTg
+          is_local: false
+          is_playable: true
+          name: Body Count Anthem
+          track_number: 16
+          type: track
+          uri: spotify:track:29oEkKfSEPZ3LdLW9EmPTg
+    isrc: USWB10102392

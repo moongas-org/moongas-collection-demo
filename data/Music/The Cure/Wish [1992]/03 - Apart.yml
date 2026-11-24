@@ -57,3 +57,72 @@ mediaFileData:
   year: 1992
   duration: 398.952
   modTime: 2024-11-01 19:04:24.041398+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2iBxkkesvbAjeyUn2rLOoF
+    trackId: 2iBxkkesvbAjeyUn2rLOoF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10181115&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/2kvp7gVn5GL2r6B6w6piuc
+            href: https://api.spotify.com/v1/albums/2kvp7gVn5GL2r6B6w6piuc
+            id: 2kvp7gVn5GL2r6B6w6piuc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27337c1f82be36797ff519c072a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0237c1f82be36797ff519c072a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485137c1f82be36797ff519c072a
+            is_playable: true
+            name: Paris (Live)
+            release_date: '1993-10-25'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2kvp7gVn5GL2r6B6w6piuc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 397373
+          explicit: false
+          external_ids:
+            isrc: USEE10181115
+          external_urls:
+            spotify: https://open.spotify.com/track/2iBxkkesvbAjeyUn2rLOoF
+          href: https://api.spotify.com/v1/tracks/2iBxkkesvbAjeyUn2rLOoF
+          id: 2iBxkkesvbAjeyUn2rLOoF
+          is_local: false
+          is_playable: true
+          name: Apart - Live in Paris
+          track_number: 5
+          type: track
+          uri: spotify:track:2iBxkkesvbAjeyUn2rLOoF
+    isrc: USEE10181115

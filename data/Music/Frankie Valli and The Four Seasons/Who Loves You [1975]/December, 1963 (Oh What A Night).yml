@@ -434,3 +434,288 @@ mediaFileData:
   year: 1975
   duration: 212.064
   modTime: 2023-03-28 01:42:51.780000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0YiPBtbZWy2QEDF6pTPeLl
+    trackId: 0YiPBtbZWy2QEDF6pTPeLl
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH10802792&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRH10802792&type=track
+        offset: 0
+        previous:
+        total: 16
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2H4aZi6NPbgSkrAa0jTQHX
+            href: https://api.spotify.com/v1/albums/2H4aZi6NPbgSkrAa0jTQHX
+            id: 2H4aZi6NPbgSkrAa0jTQHX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27363e23d1ce546b9b4699855f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0263e23d1ce546b9b4699855f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485163e23d1ce546b9b4699855f5
+            is_playable: true
+            name: 70's Road Trip
+            release_date: '2025-01-29'
+            release_date_precision: day
+            total_tracks: 48
+            type: album
+            uri: spotify:album:2H4aZi6NPbgSkrAa0jTQHX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou
+            href: https://api.spotify.com/v1/artists/6mcrZQmgzFGRWf7C0SObou
+            id: 6mcrZQmgzFGRWf7C0SObou
+            name: Frankie Valli & The Four Seasons
+            type: artist
+            uri: spotify:artist:6mcrZQmgzFGRWf7C0SObou
+          disc_number: 1
+          duration_ms: 201093
+          explicit: false
+          external_ids:
+            isrc: USRH10802792
+          external_urls:
+            spotify: https://open.spotify.com/track/0YiPBtbZWy2QEDF6pTPeLl
+          href: https://api.spotify.com/v1/tracks/0YiPBtbZWy2QEDF6pTPeLl
+          id: 0YiPBtbZWy2QEDF6pTPeLl
+          is_local: false
+          is_playable: true
+          name: December, 1963 (Oh What a Night!)
+          track_number: 3
+          type: track
+          uri: spotify:track:0YiPBtbZWy2QEDF6pTPeLl
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7EZkBVHhtztqvLeLZYxdOT
+            href: https://api.spotify.com/v1/albums/7EZkBVHhtztqvLeLZYxdOT
+            id: 7EZkBVHhtztqvLeLZYxdOT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c4176220a19253943123df97
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c4176220a19253943123df97
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c4176220a19253943123df97
+            is_playable: true
+            name: Smooth 70's
+            release_date: '2018-09-21'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:7EZkBVHhtztqvLeLZYxdOT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou
+            href: https://api.spotify.com/v1/artists/6mcrZQmgzFGRWf7C0SObou
+            id: 6mcrZQmgzFGRWf7C0SObou
+            name: Frankie Valli & The Four Seasons
+            type: artist
+            uri: spotify:artist:6mcrZQmgzFGRWf7C0SObou
+          disc_number: 1
+          duration_ms: 201093
+          explicit: false
+          external_ids:
+            isrc: USRH10802792
+          external_urls:
+            spotify: https://open.spotify.com/track/7sMymH4wqXindKNFThfp1E
+          href: https://api.spotify.com/v1/tracks/7sMymH4wqXindKNFThfp1E
+          id: 7sMymH4wqXindKNFThfp1E
+          is_local: false
+          is_playable: true
+          name: December, 1963 (Oh What a Night!)
+          track_number: 2
+          type: track
+          uri: spotify:track:7sMymH4wqXindKNFThfp1E
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3zBPAIl5HcSj6n5NN472ss
+            href: https://api.spotify.com/v1/albums/3zBPAIl5HcSj6n5NN472ss
+            id: 3zBPAIl5HcSj6n5NN472ss
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cfab7dba85ec0d04e8e1c3c8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cfab7dba85ec0d04e8e1c3c8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cfab7dba85ec0d04e8e1c3c8
+            is_playable: true
+            name: 70s Radio Hits
+            release_date: '2020-03-13'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:3zBPAIl5HcSj6n5NN472ss
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou
+            href: https://api.spotify.com/v1/artists/6mcrZQmgzFGRWf7C0SObou
+            id: 6mcrZQmgzFGRWf7C0SObou
+            name: Frankie Valli & The Four Seasons
+            type: artist
+            uri: spotify:artist:6mcrZQmgzFGRWf7C0SObou
+          disc_number: 1
+          duration_ms: 201093
+          explicit: false
+          external_ids:
+            isrc: USRH10802792
+          external_urls:
+            spotify: https://open.spotify.com/track/6oOCKTYFWFeLOagFbUMKR7
+          href: https://api.spotify.com/v1/tracks/6oOCKTYFWFeLOagFbUMKR7
+          id: 6oOCKTYFWFeLOagFbUMKR7
+          is_local: false
+          is_playable: true
+          name: December, 1963 (Oh What a Night!)
+          track_number: 4
+          type: track
+          uri: spotify:track:6oOCKTYFWFeLOagFbUMKR7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6SRDfAmG8XTwYEZNSwaKTY
+            href: https://api.spotify.com/v1/albums/6SRDfAmG8XTwYEZNSwaKTY
+            id: 6SRDfAmG8XTwYEZNSwaKTY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273335eeb48328f2869c9799c65
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02335eeb48328f2869c9799c65
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851335eeb48328f2869c9799c65
+            is_playable: true
+            name: Seventies Hits
+            release_date: '2025-02-08'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:6SRDfAmG8XTwYEZNSwaKTY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou
+            href: https://api.spotify.com/v1/artists/6mcrZQmgzFGRWf7C0SObou
+            id: 6mcrZQmgzFGRWf7C0SObou
+            name: Frankie Valli & The Four Seasons
+            type: artist
+            uri: spotify:artist:6mcrZQmgzFGRWf7C0SObou
+          disc_number: 1
+          duration_ms: 201093
+          explicit: false
+          external_ids:
+            isrc: USRH10802792
+          external_urls:
+            spotify: https://open.spotify.com/track/6qyOFIwyWHlFk2VvuECFxx
+          href: https://api.spotify.com/v1/tracks/6qyOFIwyWHlFk2VvuECFxx
+          id: 6qyOFIwyWHlFk2VvuECFxx
+          is_local: false
+          is_playable: true
+          name: December, 1963 (Oh What a Night!)
+          track_number: 7
+          type: track
+          uri: spotify:track:6qyOFIwyWHlFk2VvuECFxx
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7yMU8gDGnFYMXzEJU2VWjS
+            href: https://api.spotify.com/v1/albums/7yMU8gDGnFYMXzEJU2VWjS
+            id: 7yMU8gDGnFYMXzEJU2VWjS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27359c941814d4537177e15c8e0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0259c941814d4537177e15c8e0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485159c941814d4537177e15c8e0
+            is_playable: true
+            name: anos 70 80 90
+            release_date: '2024-10-29'
+            release_date_precision: day
+            total_tracks: 75
+            type: album
+            uri: spotify:album:7yMU8gDGnFYMXzEJU2VWjS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou
+            href: https://api.spotify.com/v1/artists/6mcrZQmgzFGRWf7C0SObou
+            id: 6mcrZQmgzFGRWf7C0SObou
+            name: Frankie Valli & The Four Seasons
+            type: artist
+            uri: spotify:artist:6mcrZQmgzFGRWf7C0SObou
+          disc_number: 1
+          duration_ms: 201093
+          explicit: false
+          external_ids:
+            isrc: USRH10802792
+          external_urls:
+            spotify: https://open.spotify.com/track/6fTcmCGLKJrxHj5S3U3Mg8
+          href: https://api.spotify.com/v1/tracks/6fTcmCGLKJrxHj5S3U3Mg8
+          id: 6fTcmCGLKJrxHj5S3U3Mg8
+          is_local: false
+          is_playable: true
+          name: December, 1963 (Oh What a Night!)
+          track_number: 58
+          type: track
+          uri: spotify:track:6fTcmCGLKJrxHj5S3U3Mg8
+    isrc: USRH10802792

@@ -47,3 +47,126 @@ mediaFileData:
   year: 1973
   duration: 130.008
   modTime: 2025-01-31 02:10:58.534090+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1w3aoRxBfe5oc9QdkxNOzz
+    trackId: 1w3aoRxBfe5oc9QdkxNOzz
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE11300304&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/71GVQPtwzFchmtXK3SjMKa
+            href: https://api.spotify.com/v1/albums/71GVQPtwzFchmtXK3SjMKa
+            id: 71GVQPtwzFchmtXK3SjMKa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27302d8e0b39b6058ba1c0c48c9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0202d8e0b39b6058ba1c0c48c9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485102d8e0b39b6058ba1c0c48c9
+            is_playable: true
+            name: Legacy
+            release_date: '2018-11-02'
+            release_date_precision: day
+            total_tracks: 116
+            type: album
+            uri: spotify:album:71GVQPtwzFchmtXK3SjMKa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 2
+          duration_ms: 129975
+          explicit: false
+          external_ids:
+            isrc: USEE11300304
+          external_urls:
+            spotify: https://open.spotify.com/track/1w3aoRxBfe5oc9QdkxNOzz
+          href: https://api.spotify.com/v1/tracks/1w3aoRxBfe5oc9QdkxNOzz
+          id: 1w3aoRxBfe5oc9QdkxNOzz
+          is_local: false
+          is_playable: true
+          name: Twenty-One - 2013 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:1w3aoRxBfe5oc9QdkxNOzz
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+            href: https://api.spotify.com/v1/albums/09WBxbis5Sixt01FVMs8UM
+            id: 09WBxbis5Sixt01FVMs8UM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022d73b1bb77cee09f0278be04
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512d73b1bb77cee09f0278be04
+            is_playable: true
+            name: Desperado (2013 Remaster)
+            release_date: '1973-04-17'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:09WBxbis5Sixt01FVMs8UM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 1
+          duration_ms: 129975
+          explicit: false
+          external_ids:
+            isrc: USEE11300304
+          external_urls:
+            spotify: https://open.spotify.com/track/1t6SdlkWNFXiiNT0z8WcS3
+          href: https://api.spotify.com/v1/tracks/1t6SdlkWNFXiiNT0z8WcS3
+          id: 1t6SdlkWNFXiiNT0z8WcS3
+          is_local: false
+          is_playable: true
+          name: Twenty-One - 2013 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:1t6SdlkWNFXiiNT0z8WcS3
+    isrc: USEE11300304

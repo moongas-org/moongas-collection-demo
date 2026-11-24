@@ -61,3 +61,288 @@ mediaFileData:
   year: 1970
   duration: 248.74666666666667
   modTime: 2023-04-23 15:00:42.800000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw
+    trackId: 1Q5kgpp4pmyGqPwNBzkSrw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE19900375&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSEE19900375&type=track
+        offset: 0
+        previous:
+        total: 22
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+              href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+              id: 22WZ7M8sxp5THdruNY3gXt
+              name: The Doors
+              type: artist
+              uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+            external_urls:
+              spotify: https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX
+            href: https://api.spotify.com/v1/albums/6AFLOkpJjFF652jevcSOZX
+            id: 6AFLOkpJjFF652jevcSOZX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735a395a75b03347163aa8dab9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025a395a75b03347163aa8dab9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515a395a75b03347163aa8dab9
+            is_playable: true
+            name: Morrison Hotel
+            release_date: '1970-02-09'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6AFLOkpJjFF652jevcSOZX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+            href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+            id: 22WZ7M8sxp5THdruNY3gXt
+            name: The Doors
+            type: artist
+            uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+          disc_number: 1
+          duration_ms: 243826
+          explicit: false
+          external_ids:
+            isrc: USEE19900375
+          external_urls:
+            spotify: https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw
+          href: https://api.spotify.com/v1/tracks/1Q5kgpp4pmyGqPwNBzkSrw
+          id: 1Q5kgpp4pmyGqPwNBzkSrw
+          is_local: false
+          is_playable: true
+          name: Roadhouse Blues
+          track_number: 1
+          type: track
+          uri: spotify:track:1Q5kgpp4pmyGqPwNBzkSrw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/087anGdsMAEGvvQsRvHOuw
+            href: https://api.spotify.com/v1/albums/087anGdsMAEGvvQsRvHOuw
+            id: 087anGdsMAEGvvQsRvHOuw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734089fec59148ad309f56a7be
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024089fec59148ad309f56a7be
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514089fec59148ad309f56a7be
+            is_playable: true
+            name: Rock para la carretera
+            release_date: '2023-07-07'
+            release_date_precision: day
+            total_tracks: 38
+            type: album
+            uri: spotify:album:087anGdsMAEGvvQsRvHOuw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+            href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+            id: 22WZ7M8sxp5THdruNY3gXt
+            name: The Doors
+            type: artist
+            uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+          disc_number: 1
+          duration_ms: 243826
+          explicit: false
+          external_ids:
+            isrc: USEE19900375
+          external_urls:
+            spotify: https://open.spotify.com/track/03lr84rU0bPw6ANRjBKAAk
+          href: https://api.spotify.com/v1/tracks/03lr84rU0bPw6ANRjBKAAk
+          id: 03lr84rU0bPw6ANRjBKAAk
+          is_local: false
+          is_playable: true
+          name: Roadhouse Blues
+          track_number: 31
+          type: track
+          uri: spotify:track:03lr84rU0bPw6ANRjBKAAk
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0pY5OJxsnDBgJi1F9Hrcyg
+            href: https://api.spotify.com/v1/albums/0pY5OJxsnDBgJi1F9Hrcyg
+            id: 0pY5OJxsnDBgJi1F9Hrcyg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273291b8de3ddafc183b67ce8e5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02291b8de3ddafc183b67ce8e5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851291b8de3ddafc183b67ce8e5
+            is_playable: true
+            name: Amamos los 70
+            release_date: '2026-11-03'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:0pY5OJxsnDBgJi1F9Hrcyg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+            href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+            id: 22WZ7M8sxp5THdruNY3gXt
+            name: The Doors
+            type: artist
+            uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+          disc_number: 1
+          duration_ms: 243826
+          explicit: false
+          external_ids:
+            isrc: USEE19900375
+          external_urls:
+            spotify: https://open.spotify.com/track/3jAlqYVSRXS5erT3Eh7avN
+          href: https://api.spotify.com/v1/tracks/3jAlqYVSRXS5erT3Eh7avN
+          id: 3jAlqYVSRXS5erT3Eh7avN
+          is_local: false
+          is_playable: true
+          name: Roadhouse Blues
+          track_number: 7
+          type: track
+          uri: spotify:track:3jAlqYVSRXS5erT3Eh7avN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0oF7E2GGRQirUDl74GMiEg
+            href: https://api.spotify.com/v1/albums/0oF7E2GGRQirUDl74GMiEg
+            id: 0oF7E2GGRQirUDl74GMiEg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27343450bc088efec123aed2616
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0243450bc088efec123aed2616
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485143450bc088efec123aed2616
+            is_playable: true
+            name: mood power and sexy
+            release_date: '2024-04-05'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:0oF7E2GGRQirUDl74GMiEg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+            href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+            id: 22WZ7M8sxp5THdruNY3gXt
+            name: The Doors
+            type: artist
+            uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+          disc_number: 1
+          duration_ms: 243826
+          explicit: false
+          external_ids:
+            isrc: USEE19900375
+          external_urls:
+            spotify: https://open.spotify.com/track/34N3kgHjwPeFCZSl2bmLzr
+          href: https://api.spotify.com/v1/tracks/34N3kgHjwPeFCZSl2bmLzr
+          id: 34N3kgHjwPeFCZSl2bmLzr
+          is_local: false
+          is_playable: true
+          name: Roadhouse Blues
+          track_number: 26
+          type: track
+          uri: spotify:track:34N3kgHjwPeFCZSl2bmLzr
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5fCatoX6OzjrfFShtSgAPM
+            href: https://api.spotify.com/v1/albums/5fCatoX6OzjrfFShtSgAPM
+            id: 5fCatoX6OzjrfFShtSgAPM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730ebcdde64030e61c2ddcca27
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020ebcdde64030e61c2ddcca27
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510ebcdde64030e61c2ddcca27
+            is_playable: true
+            name: Biker Music Songs for the Open Road
+            release_date: '2023-08-11'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:5fCatoX6OzjrfFShtSgAPM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+            href: https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt
+            id: 22WZ7M8sxp5THdruNY3gXt
+            name: The Doors
+            type: artist
+            uri: spotify:artist:22WZ7M8sxp5THdruNY3gXt
+          disc_number: 1
+          duration_ms: 243826
+          explicit: false
+          external_ids:
+            isrc: USEE19900375
+          external_urls:
+            spotify: https://open.spotify.com/track/0h0lidBCwZ7olT20ep4Wp4
+          href: https://api.spotify.com/v1/tracks/0h0lidBCwZ7olT20ep4Wp4
+          id: 0h0lidBCwZ7olT20ep4Wp4
+          is_local: false
+          is_playable: true
+          name: Roadhouse Blues
+          track_number: 19
+          type: track
+          uri: spotify:track:0h0lidBCwZ7olT20ep4Wp4
+    isrc: USEE19900375

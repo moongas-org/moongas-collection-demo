@@ -41,3 +41,180 @@ mediaFileData:
   year: 1993
   duration: 208.77061224489796
   modTime: 2026-10-01 01:20:24.081692+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6iF4cMQNfjnKARbpSqEHny
+    trackId: 6iF4cMQNfjnKARbpSqEHny
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19303142&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX
+              href: https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX
+              id: 4P0dddbxPil35MNN9G2MEX
+              name: Cypress Hill
+              type: artist
+              uri: spotify:artist:4P0dddbxPil35MNN9G2MEX
+            external_urls:
+              spotify: https://open.spotify.com/album/5SXLE5mPRqoBXA8evJeZZ0
+            href: https://api.spotify.com/v1/albums/5SXLE5mPRqoBXA8evJeZZ0
+            id: 5SXLE5mPRqoBXA8evJeZZ0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a605b99fc6d638f11058a050
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a605b99fc6d638f11058a050
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a605b99fc6d638f11058a050
+            is_playable: true
+            name: Black Sunday (Deluxe)
+            release_date: '1993-07-20'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:5SXLE5mPRqoBXA8evJeZZ0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX
+            href: https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX
+            id: 4P0dddbxPil35MNN9G2MEX
+            name: Cypress Hill
+            type: artist
+            uri: spotify:artist:4P0dddbxPil35MNN9G2MEX
+          disc_number: 1
+          duration_ms: 207629
+          explicit: true
+          external_ids:
+            isrc: USSM19303142
+          external_urls:
+            spotify: https://open.spotify.com/track/6iF4cMQNfjnKARbpSqEHny
+          href: https://api.spotify.com/v1/tracks/6iF4cMQNfjnKARbpSqEHny
+          id: 6iF4cMQNfjnKARbpSqEHny
+          is_local: false
+          is_playable: true
+          name: A to the K
+          track_number: 12
+          type: track
+          uri: spotify:track:6iF4cMQNfjnKARbpSqEHny
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX
+              href: https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX
+              id: 4P0dddbxPil35MNN9G2MEX
+              name: Cypress Hill
+              type: artist
+              uri: spotify:artist:4P0dddbxPil35MNN9G2MEX
+            external_urls:
+              spotify: https://open.spotify.com/album/2WPS1YnbXiaX1Ekr1HNICt
+            href: https://api.spotify.com/v1/albums/2WPS1YnbXiaX1Ekr1HNICt
+            id: 2WPS1YnbXiaX1Ekr1HNICt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273298ac2d7ba7d96d010fcd88c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02298ac2d7ba7d96d010fcd88c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851298ac2d7ba7d96d010fcd88c
+            is_playable: true
+            name: The Essential Cypress Hill
+            release_date: '2014-10-14'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:2WPS1YnbXiaX1Ekr1HNICt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX
+            href: https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX
+            id: 4P0dddbxPil35MNN9G2MEX
+            name: Cypress Hill
+            type: artist
+            uri: spotify:artist:4P0dddbxPil35MNN9G2MEX
+          disc_number: 2
+          duration_ms: 208480
+          explicit: true
+          external_ids:
+            isrc: USSM19303142
+          external_urls:
+            spotify: https://open.spotify.com/track/3ryr1PyLD8YllkFO6rK7Ki
+          href: https://api.spotify.com/v1/tracks/3ryr1PyLD8YllkFO6rK7Ki
+          id: 3ryr1PyLD8YllkFO6rK7Ki
+          is_local: false
+          is_playable: true
+          name: A to the K
+          track_number: 10
+          type: track
+          uri: spotify:track:3ryr1PyLD8YllkFO6rK7Ki
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX
+              href: https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX
+              id: 4P0dddbxPil35MNN9G2MEX
+              name: Cypress Hill
+              type: artist
+              uri: spotify:artist:4P0dddbxPil35MNN9G2MEX
+            external_urls:
+              spotify: https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX
+            href: https://api.spotify.com/v1/albums/02lktkm4J7K7N8T63Gm7KX
+            id: 02lktkm4J7K7N8T63Gm7KX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c8d7445dbee75973efa970e8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c8d7445dbee75973efa970e8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c8d7445dbee75973efa970e8
+            is_playable: true
+            name: Black Sunday
+            release_date: '1993-07-20'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:02lktkm4J7K7N8T63Gm7KX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX
+            href: https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX
+            id: 4P0dddbxPil35MNN9G2MEX
+            name: Cypress Hill
+            type: artist
+            uri: spotify:artist:4P0dddbxPil35MNN9G2MEX
+          disc_number: 1
+          duration_ms: 207773
+          explicit: true
+          external_ids:
+            isrc: USSM19303142
+          external_urls:
+            spotify: https://open.spotify.com/track/3sE17RqhRgZ0chuYZshVqn
+          href: https://api.spotify.com/v1/tracks/3sE17RqhRgZ0chuYZshVqn
+          id: 3sE17RqhRgZ0chuYZshVqn
+          is_local: false
+          is_playable: true
+          name: A to the K
+          track_number: 12
+          type: track
+          uri: spotify:track:3sE17RqhRgZ0chuYZshVqn
+    isrc: USSM19303142

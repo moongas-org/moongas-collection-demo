@@ -78,3 +78,72 @@ mediaFileData:
   year: 1979
   duration: 252.7608163265306
   modTime: 2023-04-23 15:37:20.090000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0bTY6LgSGLZjV4lMRtRwzX
+    trackId: 0bTY6LgSGLZjV4lMRtRwzX
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10401583&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY
+            href: https://api.spotify.com/v1/albums/2WTDHjiVNCHY3ju9kmGNOY
+            id: 2WTDHjiVNCHY3ju9kmGNOY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739960508d99ed0825d33e9ea8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029960508d99ed0825d33e9ea8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519960508d99ed0825d33e9ea8
+            is_playable: true
+            name: The Name of This Band Is Talking Heads (Expanded 2004 Remaster)
+            release_date: '1982-03-24'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:2WTDHjiVNCHY3ju9kmGNOY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 295933
+          explicit: false
+          external_ids:
+            isrc: USWB10401583
+          external_urls:
+            spotify: https://open.spotify.com/track/0bTY6LgSGLZjV4lMRtRwzX
+          href: https://api.spotify.com/v1/tracks/0bTY6LgSGLZjV4lMRtRwzX
+          id: 0bTY6LgSGLZjV4lMRtRwzX
+          is_local: false
+          is_playable: true
+          name: Mind - Live at WBCN, Massachusetts
+          track_number: 13
+          type: track
+          uri: spotify:track:0bTY6LgSGLZjV4lMRtRwzX
+    isrc: USWB10401583

@@ -112,3 +112,288 @@ mediaFileData:
   year: 2002
   duration: 269.0649
   modTime: 2023-07-16 02:42:24+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4BcS4LomxUnQpzx4hCaJTs
+    trackId: 4BcS4LomxUnQpzx4hCaJTs
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10201694&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB10201694&type=track
+        offset: 0
+        previous:
+        total: 100
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/1jWKVgnHX8nwR551hQNx5K
+            href: https://api.spotify.com/v1/albums/1jWKVgnHX8nwR551hQNx5K
+            id: 1jWKVgnHX8nwR551hQNx5K
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fdbcee40748537ff80a7af70
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fdbcee40748537ff80a7af70
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fdbcee40748537ff80a7af70
+            is_playable: true
+            name: By the Way
+            release_date: '2002-07-09'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:1jWKVgnHX8nwR551hQNx5K
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 269000
+          explicit: false
+          external_ids:
+            isrc: USWB10201694
+          external_urls:
+            spotify: https://open.spotify.com/track/4BcS4LomxUnQpzx4hCaJTs
+          href: https://api.spotify.com/v1/tracks/4BcS4LomxUnQpzx4hCaJTs
+          id: 4BcS4LomxUnQpzx4hCaJTs
+          is_local: false
+          is_playable: true
+          name: Can't Stop
+          track_number: 7
+          type: track
+          uri: spotify:track:4BcS4LomxUnQpzx4hCaJTs
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5UXQXC4bPBBxaJk0dehwIg
+            href: https://api.spotify.com/v1/albums/5UXQXC4bPBBxaJk0dehwIg
+            id: 5UXQXC4bPBBxaJk0dehwIg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732ca1a0c9d2b819f6d99de45d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022ca1a0c9d2b819f6d99de45d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512ca1a0c9d2b819f6d99de45d
+            is_playable: true
+            name: 2000s Throwbacks - Top 100
+            release_date: '2024-10-04'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:5UXQXC4bPBBxaJk0dehwIg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 269000
+          explicit: false
+          external_ids:
+            isrc: USWB10201694
+          external_urls:
+            spotify: https://open.spotify.com/track/7of7YJQq2fFeFxpZ2CuXhj
+          href: https://api.spotify.com/v1/tracks/7of7YJQq2fFeFxpZ2CuXhj
+          id: 7of7YJQq2fFeFxpZ2CuXhj
+          is_local: false
+          is_playable: true
+          name: Can’t Stop
+          track_number: 6
+          type: track
+          uri: spotify:track:7of7YJQq2fFeFxpZ2CuXhj
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3CxU5Uny17ia0uMz4xXSwg
+            href: https://api.spotify.com/v1/albums/3CxU5Uny17ia0uMz4xXSwg
+            id: 3CxU5Uny17ia0uMz4xXSwg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d568199c968c40d1ba0a2722
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d568199c968c40d1ba0a2722
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d568199c968c40d1ba0a2722
+            is_playable: true
+            name: Divorced Dad Rock 2000s
+            release_date: '2025-06-18'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:3CxU5Uny17ia0uMz4xXSwg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 269000
+          explicit: false
+          external_ids:
+            isrc: USWB10201694
+          external_urls:
+            spotify: https://open.spotify.com/track/1HpS89aoqImDkscpaCdOVi
+          href: https://api.spotify.com/v1/tracks/1HpS89aoqImDkscpaCdOVi
+          id: 1HpS89aoqImDkscpaCdOVi
+          is_local: false
+          is_playable: true
+          name: Can’t Stop
+          track_number: 8
+          type: track
+          uri: spotify:track:1HpS89aoqImDkscpaCdOVi
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1
+            href: https://api.spotify.com/v1/albums/6deiaArbeoqp1xPEGdEKp1
+            id: 6deiaArbeoqp1xPEGdEKp1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02de1af2785a83cc660155a0c4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4
+            is_playable: true
+            name: By the Way (Deluxe Edition)
+            release_date: '2002-07-09'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:6deiaArbeoqp1xPEGdEKp1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 269000
+          explicit: false
+          external_ids:
+            isrc: USWB10201694
+          external_urls:
+            spotify: https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx
+          href: https://api.spotify.com/v1/tracks/3ZOEytgrvLwQaqXreDs2Jx
+          id: 3ZOEytgrvLwQaqXreDs2Jx
+          is_local: false
+          is_playable: true
+          name: Can't Stop
+          track_number: 7
+          type: track
+          uri: spotify:track:3ZOEytgrvLwQaqXreDs2Jx
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7aOFj1yM42sm2gzmlPidPP
+            href: https://api.spotify.com/v1/albums/7aOFj1yM42sm2gzmlPidPP
+            id: 7aOFj1yM42sm2gzmlPidPP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3686323bf737cb7ba3de792
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3686323bf737cb7ba3de792
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792
+            is_playable: true
+            name: The Studio Album Collection 1991 - 2011
+            release_date: '2014-12-12'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:7aOFj1yM42sm2gzmlPidPP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 4
+          duration_ms: 269000
+          explicit: false
+          external_ids:
+            isrc: USWB10201694
+          external_urls:
+            spotify: https://open.spotify.com/track/4Xnico9dISkx2mrN2OJ3qw
+          href: https://api.spotify.com/v1/tracks/4Xnico9dISkx2mrN2OJ3qw
+          id: 4Xnico9dISkx2mrN2OJ3qw
+          is_local: false
+          is_playable: true
+          name: Can't Stop
+          track_number: 7
+          type: track
+          uri: spotify:track:4Xnico9dISkx2mrN2OJ3qw
+    isrc: USWB10201694

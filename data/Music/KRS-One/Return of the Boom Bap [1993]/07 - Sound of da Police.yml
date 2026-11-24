@@ -62,3 +62,187 @@ mediaFileData:
   year: 1993
   duration: 253.1004081632653
   modTime: 2026-01-17 13:25:33.976557+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp
+    trackId: 3Y6XWs8xMlCngyIxNOFnsp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAHK9300100&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla
+              href: https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla
+              id: 2gINJ8xw86xawPyGvx1bla
+              name: KRS-One
+              type: artist
+              uri: spotify:artist:2gINJ8xw86xawPyGvx1bla
+            external_urls:
+              spotify: https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9
+            href: https://api.spotify.com/v1/albums/64ub4SfdC8wvPjdUXw8QY9
+            id: 64ub4SfdC8wvPjdUXw8QY9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273db6b0860c8fc65d67c76775f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02db6b0860c8fc65d67c76775f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851db6b0860c8fc65d67c76775f
+            is_playable: true
+            name: Return of the Boom Bap
+            release_date: '1993-09-03'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:64ub4SfdC8wvPjdUXw8QY9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla
+            href: https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla
+            id: 2gINJ8xw86xawPyGvx1bla
+            name: KRS-One
+            type: artist
+            uri: spotify:artist:2gINJ8xw86xawPyGvx1bla
+          disc_number: 1
+          duration_ms: 258506
+          explicit: false
+          external_ids:
+            isrc: GBAHK9300100
+          external_urls:
+            spotify: https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp
+          href: https://api.spotify.com/v1/tracks/3Y6XWs8xMlCngyIxNOFnsp
+          id: 3Y6XWs8xMlCngyIxNOFnsp
+          is_local: false
+          is_playable: true
+          name: Sound of da Police
+          track_number: 7
+          type: track
+          uri: spotify:track:3Y6XWs8xMlCngyIxNOFnsp
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA
+              href: https://api.spotify.com/v1/artists/4toEjJSZu1rbfX2hfVdZFA
+              id: 4toEjJSZu1rbfX2hfVdZFA
+              name: Boogie Down Productions
+              type: artist
+              uri: spotify:artist:4toEjJSZu1rbfX2hfVdZFA
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla
+              href: https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla
+              id: 2gINJ8xw86xawPyGvx1bla
+              name: KRS-One
+              type: artist
+              uri: spotify:artist:2gINJ8xw86xawPyGvx1bla
+            external_urls:
+              spotify: https://open.spotify.com/album/16nNpg9tlbPAzJA23wLChs
+            href: https://api.spotify.com/v1/albums/16nNpg9tlbPAzJA23wLChs
+            id: 16nNpg9tlbPAzJA23wLChs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ca20dacb47167839fcd12f54
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ca20dacb47167839fcd12f54
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ca20dacb47167839fcd12f54
+            is_playable: true
+            name: The Essential Boogie Down Productions / KRS-One
+            release_date: '2014-03-14'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:16nNpg9tlbPAzJA23wLChs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla
+            href: https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla
+            id: 2gINJ8xw86xawPyGvx1bla
+            name: KRS-One
+            type: artist
+            uri: spotify:artist:2gINJ8xw86xawPyGvx1bla
+          disc_number: 2
+          duration_ms: 258386
+          explicit: false
+          external_ids:
+            isrc: GBAHK9300100
+          external_urls:
+            spotify: https://open.spotify.com/track/0H7wdsHwWmKGPbGtBGS9DM
+          href: https://api.spotify.com/v1/tracks/0H7wdsHwWmKGPbGtBGS9DM
+          id: 0H7wdsHwWmKGPbGtBGS9DM
+          is_local: false
+          is_playable: true
+          name: Sound of da Police
+          track_number: 8
+          type: track
+          uri: spotify:track:0H7wdsHwWmKGPbGtBGS9DM
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla
+              href: https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla
+              id: 2gINJ8xw86xawPyGvx1bla
+              name: KRS-One
+              type: artist
+              uri: spotify:artist:2gINJ8xw86xawPyGvx1bla
+            external_urls:
+              spotify: https://open.spotify.com/album/7g08uG6sZa9YXtylmAHlxH
+            href: https://api.spotify.com/v1/albums/7g08uG6sZa9YXtylmAHlxH
+            id: 7g08uG6sZa9YXtylmAHlxH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273931d1eb7c6368d0653d5a0ec
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02931d1eb7c6368d0653d5a0ec
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851931d1eb7c6368d0653d5a0ec
+            is_playable: true
+            name: A Retrospective
+            release_date: '2000-08-22'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7g08uG6sZa9YXtylmAHlxH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla
+            href: https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla
+            id: 2gINJ8xw86xawPyGvx1bla
+            name: KRS-One
+            type: artist
+            uri: spotify:artist:2gINJ8xw86xawPyGvx1bla
+          disc_number: 1
+          duration_ms: 258533
+          explicit: false
+          external_ids:
+            isrc: GBAHK9300100
+          external_urls:
+            spotify: https://open.spotify.com/track/4LUSnrpxmybXlDNF8gb0Jm
+          href: https://api.spotify.com/v1/tracks/4LUSnrpxmybXlDNF8gb0Jm
+          id: 4LUSnrpxmybXlDNF8gb0Jm
+          is_local: false
+          is_playable: true
+          name: Sound of da Police
+          track_number: 4
+          type: track
+          uri: spotify:track:4LUSnrpxmybXlDNF8gb0Jm
+    isrc: GBAHK9300100

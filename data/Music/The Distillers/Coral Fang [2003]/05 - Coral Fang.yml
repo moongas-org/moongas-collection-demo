@@ -34,3 +34,288 @@ mediaFileData:
   year: 2003
   duration: 129.624
   modTime: 2025-03-26 19:46:15.734356+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1hqVh8yKX1BxFxX9732UUJ
+    trackId: 1hqVh8yKX1BxFxX9732UUJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE10301132&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRE10301132&type=track
+        offset: 0
+        previous:
+        total: 12
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+              href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+              id: 7MlyHuGRHi31yYlrttDqgT
+              name: The Distillers
+              type: artist
+              uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+            external_urls:
+              spotify: https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr
+            href: https://api.spotify.com/v1/albums/23MOdUJkZlG971DVuEINMr
+            id: 23MOdUJkZlG971DVuEINMr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27319fc1502fbef41e3e4840bb8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0219fc1502fbef41e3e4840bb8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485119fc1502fbef41e3e4840bb8
+            is_playable: true
+            name: Coral Fang (PA Version)
+            release_date: '2003-10-07'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:23MOdUJkZlG971DVuEINMr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+            href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+            id: 7MlyHuGRHi31yYlrttDqgT
+            name: The Distillers
+            type: artist
+            uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+          disc_number: 1
+          duration_ms: 129600
+          explicit: false
+          external_ids:
+            isrc: USRE10301132
+          external_urls:
+            spotify: https://open.spotify.com/track/1hqVh8yKX1BxFxX9732UUJ
+          href: https://api.spotify.com/v1/tracks/1hqVh8yKX1BxFxX9732UUJ
+          id: 1hqVh8yKX1BxFxX9732UUJ
+          is_local: false
+          is_playable: true
+          name: Coral Fang
+          track_number: 5
+          type: track
+          uri: spotify:track:1hqVh8yKX1BxFxX9732UUJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6nev5BRFI1D7ftwQgHag8x
+            href: https://api.spotify.com/v1/albums/6nev5BRFI1D7ftwQgHag8x
+            id: 6nev5BRFI1D7ftwQgHag8x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27363edc2ae9c3d06ee2fd37dd6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0263edc2ae9c3d06ee2fd37dd6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485163edc2ae9c3d06ee2fd37dd6
+            is_playable: true
+            name: Rock Bangers
+            release_date: '2020-09-04'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:6nev5BRFI1D7ftwQgHag8x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+            href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+            id: 7MlyHuGRHi31yYlrttDqgT
+            name: The Distillers
+            type: artist
+            uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+          disc_number: 1
+          duration_ms: 129600
+          explicit: false
+          external_ids:
+            isrc: USRE10301132
+          external_urls:
+            spotify: https://open.spotify.com/track/6ySjnUCbzIxgDlQ2CyhcdF
+          href: https://api.spotify.com/v1/tracks/6ySjnUCbzIxgDlQ2CyhcdF
+          id: 6ySjnUCbzIxgDlQ2CyhcdF
+          is_local: false
+          is_playable: true
+          name: Coral Fang
+          track_number: 5
+          type: track
+          uri: spotify:track:6ySjnUCbzIxgDlQ2CyhcdF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/12hRhr4X711xnudKuXHoXH
+            href: https://api.spotify.com/v1/albums/12hRhr4X711xnudKuXHoXH
+            id: 12hRhr4X711xnudKuXHoXH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327bd9cc98768943181b44202
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227bd9cc98768943181b44202
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127bd9cc98768943181b44202
+            is_playable: true
+            name: Rock & Metal - the highest level
+            release_date: '2025-05-07'
+            release_date_precision: day
+            total_tracks: 61
+            type: album
+            uri: spotify:album:12hRhr4X711xnudKuXHoXH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+            href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+            id: 7MlyHuGRHi31yYlrttDqgT
+            name: The Distillers
+            type: artist
+            uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+          disc_number: 1
+          duration_ms: 129600
+          explicit: false
+          external_ids:
+            isrc: USRE10301132
+          external_urls:
+            spotify: https://open.spotify.com/track/21CZNYn1F1dlErKgiype30
+          href: https://api.spotify.com/v1/tracks/21CZNYn1F1dlErKgiype30
+          id: 21CZNYn1F1dlErKgiype30
+          is_local: false
+          is_playable: true
+          name: Coral Fang
+          track_number: 47
+          type: track
+          uri: spotify:track:21CZNYn1F1dlErKgiype30
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0K7M7eYKelnk3AMEzknvH3
+            href: https://api.spotify.com/v1/albums/0K7M7eYKelnk3AMEzknvH3
+            id: 0K7M7eYKelnk3AMEzknvH3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27342cdcd239a7e0e7199bb05f2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0242cdcd239a7e0e7199bb05f2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485142cdcd239a7e0e7199bb05f2
+            is_playable: true
+            name: Rock Workout
+            release_date: '2022-07-01'
+            release_date_precision: day
+            total_tracks: 37
+            type: album
+            uri: spotify:album:0K7M7eYKelnk3AMEzknvH3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+            href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+            id: 7MlyHuGRHi31yYlrttDqgT
+            name: The Distillers
+            type: artist
+            uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+          disc_number: 1
+          duration_ms: 129600
+          explicit: false
+          external_ids:
+            isrc: USRE10301132
+          external_urls:
+            spotify: https://open.spotify.com/track/0rg4SEPp0VoWTdTCokpKHO
+          href: https://api.spotify.com/v1/tracks/0rg4SEPp0VoWTdTCokpKHO
+          id: 0rg4SEPp0VoWTdTCokpKHO
+          is_local: false
+          is_playable: true
+          name: Coral Fang
+          track_number: 12
+          type: track
+          uri: spotify:track:0rg4SEPp0VoWTdTCokpKHO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/74ifurCMpHrs11S0hj09ym
+            href: https://api.spotify.com/v1/albums/74ifurCMpHrs11S0hj09ym
+            id: 74ifurCMpHrs11S0hj09ym
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27338c0c5aba3c97994e15e244f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0238c0c5aba3c97994e15e244f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485138c0c5aba3c97994e15e244f
+            is_playable: true
+            name: American Screamo
+            release_date: '2018-05-11'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:74ifurCMpHrs11S0hj09ym
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+            href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+            id: 7MlyHuGRHi31yYlrttDqgT
+            name: The Distillers
+            type: artist
+            uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+          disc_number: 1
+          duration_ms: 129600
+          explicit: false
+          external_ids:
+            isrc: USRE10301132
+          external_urls:
+            spotify: https://open.spotify.com/track/7LT72wdM7PfuL2aazYkpkM
+          href: https://api.spotify.com/v1/tracks/7LT72wdM7PfuL2aazYkpkM
+          id: 7LT72wdM7PfuL2aazYkpkM
+          is_local: false
+          is_playable: true
+          name: Coral Fang
+          track_number: 8
+          type: track
+          uri: spotify:track:7LT72wdM7PfuL2aazYkpkM
+    isrc: USRE10301132

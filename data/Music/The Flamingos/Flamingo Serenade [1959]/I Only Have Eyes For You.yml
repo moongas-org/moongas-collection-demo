@@ -157,3 +157,288 @@ mediaFileData:
   year: 1959
   duration: 195.63102040816327
   modTime: 2025-01-11 02:27:03.285724+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6XjLQ7FJVhVFicBSfDoQdf
+    trackId: 6XjLQ7FJVhVFicBSfDoQdf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE0400308&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBAYE0400308&type=track
+        offset: 0
+        previous:
+        total: 71
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4oKi795TgAZRZpgPZTb6wq
+            href: https://api.spotify.com/v1/albums/4oKi795TgAZRZpgPZTb6wq
+            id: 4oKi795TgAZRZpgPZTb6wq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e21cb1324565f1433707d173
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e21cb1324565f1433707d173
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e21cb1324565f1433707d173
+            is_playable: true
+            name: Classic Oldies 100 Hits from the 50s & 60s
+            release_date: '2025-03-19'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:4oKi795TgAZRZpgPZTb6wq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6
+            href: https://api.spotify.com/v1/artists/6iygtKnPG7TRvDaTYcLOd6
+            id: 6iygtKnPG7TRvDaTYcLOd6
+            name: The Flamingos
+            type: artist
+            uri: spotify:artist:6iygtKnPG7TRvDaTYcLOd6
+          disc_number: 1
+          duration_ms: 200200
+          explicit: false
+          external_ids:
+            isrc: GBAYE0400308
+          external_urls:
+            spotify: https://open.spotify.com/track/6XjLQ7FJVhVFicBSfDoQdf
+          href: https://api.spotify.com/v1/tracks/6XjLQ7FJVhVFicBSfDoQdf
+          id: 6XjLQ7FJVhVFicBSfDoQdf
+          is_local: false
+          is_playable: true
+          name: I Only Have Eyes for You
+          track_number: 1
+          type: track
+          uri: spotify:track:6XjLQ7FJVhVFicBSfDoQdf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1VrravzsxruIeQf1cuE6zB
+            href: https://api.spotify.com/v1/albums/1VrravzsxruIeQf1cuE6zB
+            id: 1VrravzsxruIeQf1cuE6zB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27312dafc73ddff160e2a9e8b14
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0212dafc73ddff160e2a9e8b14
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485112dafc73ddff160e2a9e8b14
+            is_playable: true
+            name: Classic Oldies
+            release_date: '2022-08-19'
+            release_date_precision: day
+            total_tracks: 75
+            type: album
+            uri: spotify:album:1VrravzsxruIeQf1cuE6zB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6
+            href: https://api.spotify.com/v1/artists/6iygtKnPG7TRvDaTYcLOd6
+            id: 6iygtKnPG7TRvDaTYcLOd6
+            name: The Flamingos
+            type: artist
+            uri: spotify:artist:6iygtKnPG7TRvDaTYcLOd6
+          disc_number: 1
+          duration_ms: 200200
+          explicit: false
+          external_ids:
+            isrc: GBAYE0400308
+          external_urls:
+            spotify: https://open.spotify.com/track/5GWb4GOzOcvTvdnkc5yjcw
+          href: https://api.spotify.com/v1/tracks/5GWb4GOzOcvTvdnkc5yjcw
+          id: 5GWb4GOzOcvTvdnkc5yjcw
+          is_local: false
+          is_playable: true
+          name: I Only Have Eyes for You
+          track_number: 49
+          type: track
+          uri: spotify:track:5GWb4GOzOcvTvdnkc5yjcw
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4AJaYyIJjle9wo4pqGdUAl
+            href: https://api.spotify.com/v1/albums/4AJaYyIJjle9wo4pqGdUAl
+            id: 4AJaYyIJjle9wo4pqGdUAl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273272b59dc5dead5bc9fe96f10
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02272b59dc5dead5bc9fe96f10
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851272b59dc5dead5bc9fe96f10
+            is_playable: true
+            name: 50s Oldies
+            release_date: '2018-05-09'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:4AJaYyIJjle9wo4pqGdUAl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6
+            href: https://api.spotify.com/v1/artists/6iygtKnPG7TRvDaTYcLOd6
+            id: 6iygtKnPG7TRvDaTYcLOd6
+            name: The Flamingos
+            type: artist
+            uri: spotify:artist:6iygtKnPG7TRvDaTYcLOd6
+          disc_number: 1
+          duration_ms: 200200
+          explicit: false
+          external_ids:
+            isrc: GBAYE0400308
+          external_urls:
+            spotify: https://open.spotify.com/track/2KJKLlHwbb5HrrndSpeQNk
+          href: https://api.spotify.com/v1/tracks/2KJKLlHwbb5HrrndSpeQNk
+          id: 2KJKLlHwbb5HrrndSpeQNk
+          is_local: false
+          is_playable: true
+          name: I Only Have Eyes for You
+          track_number: 15
+          type: track
+          uri: spotify:track:2KJKLlHwbb5HrrndSpeQNk
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6
+              href: https://api.spotify.com/v1/artists/6iygtKnPG7TRvDaTYcLOd6
+              id: 6iygtKnPG7TRvDaTYcLOd6
+              name: The Flamingos
+              type: artist
+              uri: spotify:artist:6iygtKnPG7TRvDaTYcLOd6
+            external_urls:
+              spotify: https://open.spotify.com/album/2ZfclSJ0sHq2SON6KxAKUd
+            href: https://api.spotify.com/v1/albums/2ZfclSJ0sHq2SON6KxAKUd
+            id: 2ZfclSJ0sHq2SON6KxAKUd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273554d20be426f669d71596d4f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02554d20be426f669d71596d4f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851554d20be426f669d71596d4f
+            is_playable: true
+            name: I Only Have Eyes for You
+            release_date: '2018-05-28'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2ZfclSJ0sHq2SON6KxAKUd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6
+            href: https://api.spotify.com/v1/artists/6iygtKnPG7TRvDaTYcLOd6
+            id: 6iygtKnPG7TRvDaTYcLOd6
+            name: The Flamingos
+            type: artist
+            uri: spotify:artist:6iygtKnPG7TRvDaTYcLOd6
+          disc_number: 1
+          duration_ms: 200200
+          explicit: false
+          external_ids:
+            isrc: GBAYE0400308
+          external_urls:
+            spotify: https://open.spotify.com/track/4PAXtmaXMPHyO2DL9kMnSq
+          href: https://api.spotify.com/v1/tracks/4PAXtmaXMPHyO2DL9kMnSq
+          id: 4PAXtmaXMPHyO2DL9kMnSq
+          is_local: false
+          is_playable: true
+          name: I Only Have Eyes for You
+          track_number: 1
+          type: track
+          uri: spotify:track:4PAXtmaXMPHyO2DL9kMnSq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1zCkf6MRAu2BZ88z84aVrb
+            href: https://api.spotify.com/v1/albums/1zCkf6MRAu2BZ88z84aVrb
+            id: 1zCkf6MRAu2BZ88z84aVrb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cf366692f62b639ea2f393d7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cf366692f62b639ea2f393d7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cf366692f62b639ea2f393d7
+            is_playable: true
+            name: Doo Wop Golden Oldies
+            release_date: '2021-04-09'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:1zCkf6MRAu2BZ88z84aVrb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6
+            href: https://api.spotify.com/v1/artists/6iygtKnPG7TRvDaTYcLOd6
+            id: 6iygtKnPG7TRvDaTYcLOd6
+            name: The Flamingos
+            type: artist
+            uri: spotify:artist:6iygtKnPG7TRvDaTYcLOd6
+          disc_number: 1
+          duration_ms: 200200
+          explicit: false
+          external_ids:
+            isrc: GBAYE0400308
+          external_urls:
+            spotify: https://open.spotify.com/track/1IMLO7AVRtMGsuVqdp6O0E
+          href: https://api.spotify.com/v1/tracks/1IMLO7AVRtMGsuVqdp6O0E
+          id: 1IMLO7AVRtMGsuVqdp6O0E
+          is_local: false
+          is_playable: true
+          name: I Only Have Eyes for You
+          track_number: 2
+          type: track
+          uri: spotify:track:1IMLO7AVRtMGsuVqdp6O0E
+    isrc: GBAYE0400308

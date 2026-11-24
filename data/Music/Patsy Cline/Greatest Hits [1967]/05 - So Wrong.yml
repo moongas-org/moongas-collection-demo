@@ -118,3 +118,288 @@ mediaFileData:
   year: 1967
   duration: 181.0808125
   modTime: 2026-07-12 21:36:55.660504+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5zVF1nNcAp1LgwFrNkQGri
+    trackId: 5zVF1nNcAp1LgwFrNkQGri
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC16246426&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMC16246426&type=track
+        offset: 0
+        previous:
+        total: 7
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+              href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+              id: 7dNsHhGeGU5MV01r06O8gK
+              name: Patsy Cline
+              type: artist
+              uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+            external_urls:
+              spotify: https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em
+            href: https://api.spotify.com/v1/albums/3g5uyAp8sS8LnnCxh9y2em
+            id: 3g5uyAp8sS8LnnCxh9y2em
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731cbe12ef2db07031c4d822c0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021cbe12ef2db07031c4d822c0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511cbe12ef2db07031c4d822c0
+            is_playable: true
+            name: The Definitive Collection
+            release_date: '2004-06-22'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:3g5uyAp8sS8LnnCxh9y2em
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+            href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+            id: 7dNsHhGeGU5MV01r06O8gK
+            name: Patsy Cline
+            type: artist
+            uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+          disc_number: 1
+          duration_ms: 179986
+          explicit: false
+          external_ids:
+            isrc: USMC16246426
+          external_urls:
+            spotify: https://open.spotify.com/track/5zVF1nNcAp1LgwFrNkQGri
+          href: https://api.spotify.com/v1/tracks/5zVF1nNcAp1LgwFrNkQGri
+          id: 5zVF1nNcAp1LgwFrNkQGri
+          is_local: false
+          is_playable: true
+          name: So Wrong
+          track_number: 14
+          type: track
+          uri: spotify:track:5zVF1nNcAp1LgwFrNkQGri
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+              href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+              id: 7dNsHhGeGU5MV01r06O8gK
+              name: Patsy Cline
+              type: artist
+              uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+            external_urls:
+              spotify: https://open.spotify.com/album/2ratknOvJ5GgbqkuIRhLzD
+            href: https://api.spotify.com/v1/albums/2ratknOvJ5GgbqkuIRhLzD
+            id: 2ratknOvJ5GgbqkuIRhLzD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27394fbfe72846958e6faa9a672
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0294fbfe72846958e6faa9a672
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485194fbfe72846958e6faa9a672
+            is_playable: true
+            name: Gold
+            release_date: '2005-03-01'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:2ratknOvJ5GgbqkuIRhLzD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+            href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+            id: 7dNsHhGeGU5MV01r06O8gK
+            name: Patsy Cline
+            type: artist
+            uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+          disc_number: 2
+          duration_ms: 180133
+          explicit: false
+          external_ids:
+            isrc: USMC16246426
+          external_urls:
+            spotify: https://open.spotify.com/track/4bVU5dxtKlT5yHJCICoki9
+          href: https://api.spotify.com/v1/tracks/4bVU5dxtKlT5yHJCICoki9
+          id: 4bVU5dxtKlT5yHJCICoki9
+          is_local: false
+          is_playable: true
+          name: So Wrong - Single Version
+          track_number: 2
+          type: track
+          uri: spotify:track:4bVU5dxtKlT5yHJCICoki9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+              href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+              id: 7dNsHhGeGU5MV01r06O8gK
+              name: Patsy Cline
+              type: artist
+              uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+            external_urls:
+              spotify: https://open.spotify.com/album/5PqX6f7vuqNwV3nAox4U9Z
+            href: https://api.spotify.com/v1/albums/5PqX6f7vuqNwV3nAox4U9Z
+            id: 5PqX6f7vuqNwV3nAox4U9Z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730e573515f350c1cce3b8291b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020e573515f350c1cce3b8291b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510e573515f350c1cce3b8291b
+            is_playable: true
+            name: The Very Best Of Patsy Cline
+            release_date: '1996-06-24'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5PqX6f7vuqNwV3nAox4U9Z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+            href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+            id: 7dNsHhGeGU5MV01r06O8gK
+            name: Patsy Cline
+            type: artist
+            uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+          disc_number: 1
+          duration_ms: 181493
+          explicit: false
+          external_ids:
+            isrc: USMC16246426
+          external_urls:
+            spotify: https://open.spotify.com/track/5LDFdnLD9OHufieNtFiNME
+          href: https://api.spotify.com/v1/tracks/5LDFdnLD9OHufieNtFiNME
+          id: 5LDFdnLD9OHufieNtFiNME
+          is_local: false
+          is_playable: true
+          name: So Wrong
+          track_number: 11
+          type: track
+          uri: spotify:track:5LDFdnLD9OHufieNtFiNME
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+              href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+              id: 7dNsHhGeGU5MV01r06O8gK
+              name: Patsy Cline
+              type: artist
+              uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+            external_urls:
+              spotify: https://open.spotify.com/album/3iHskF7qovrsQGE282MDHe
+            href: https://api.spotify.com/v1/albums/3iHskF7qovrsQGE282MDHe
+            id: 3iHskF7qovrsQGE282MDHe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731105e24f38dafce3b8c299c6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021105e24f38dafce3b8c299c6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511105e24f38dafce3b8c299c6
+            is_playable: true
+            name: The Patsy Cline Story
+            release_date: '1963-06-10'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:3iHskF7qovrsQGE282MDHe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+            href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+            id: 7dNsHhGeGU5MV01r06O8gK
+            name: Patsy Cline
+            type: artist
+            uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+          disc_number: 1
+          duration_ms: 183000
+          explicit: false
+          external_ids:
+            isrc: USMC16246426
+          external_urls:
+            spotify: https://open.spotify.com/track/3I8NCHSf2PFVRRKUqyh8AE
+          href: https://api.spotify.com/v1/tracks/3I8NCHSf2PFVRRKUqyh8AE
+          id: 3I8NCHSf2PFVRRKUqyh8AE
+          is_local: false
+          is_playable: true
+          name: So Wrong - Single Version
+          track_number: 22
+          type: track
+          uri: spotify:track:3I8NCHSf2PFVRRKUqyh8AE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+              href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+              id: 7dNsHhGeGU5MV01r06O8gK
+              name: Patsy Cline
+              type: artist
+              uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+            external_urls:
+              spotify: https://open.spotify.com/album/2rUMmQejerLG03UodBUQxS
+            href: https://api.spotify.com/v1/albums/2rUMmQejerLG03UodBUQxS
+            id: 2rUMmQejerLG03UodBUQxS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731545c291adeea522ce055fcf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021545c291adeea522ce055fcf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511545c291adeea522ce055fcf
+            is_playable: true
+            name: Patsy Cline’s Greatest Hits
+            release_date: '1967-03-03'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2rUMmQejerLG03UodBUQxS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK
+            href: https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK
+            id: 7dNsHhGeGU5MV01r06O8gK
+            name: Patsy Cline
+            type: artist
+            uri: spotify:artist:7dNsHhGeGU5MV01r06O8gK
+          disc_number: 1
+          duration_ms: 181022
+          explicit: false
+          external_ids:
+            isrc: USMC16246426
+          external_urls:
+            spotify: https://open.spotify.com/track/2qRwjwIlooGvLwwsOH7gwr
+          href: https://api.spotify.com/v1/tracks/2qRwjwIlooGvLwwsOH7gwr
+          id: 2qRwjwIlooGvLwwsOH7gwr
+          is_local: false
+          is_playable: true
+          name: So Wrong - Single Version
+          track_number: 5
+          type: track
+          uri: spotify:track:2qRwjwIlooGvLwwsOH7gwr
+    isrc: USMC16246426

@@ -34,3 +34,72 @@ mediaFileData:
   year: 1993
   duration: 125.20489795918367
   modTime: 2023-09-07 00:38:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3pL0lhE7hHTpI0uVNBfkIZ
+    trackId: 3pL0lhE7hHTpI0uVNBfkIZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEP40316111&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB
+              href: https://api.spotify.com/v1/artists/6xTk3EK5T9UzudENVvu9YB
+              id: 6xTk3EK5T9UzudENVvu9YB
+              name: Rancid
+              type: artist
+              uri: spotify:artist:6xTk3EK5T9UzudENVvu9YB
+            external_urls:
+              spotify: https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr
+            href: https://api.spotify.com/v1/albums/0ELny42cJ5M3cjHAVeLVdr
+            id: 0ELny42cJ5M3cjHAVeLVdr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27380a7d98f833f2aa1b515c1cd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0280a7d98f833f2aa1b515c1cd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485180a7d98f833f2aa1b515c1cd
+            is_playable: true
+            name: Rancid
+            release_date: '1993-05-10'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:0ELny42cJ5M3cjHAVeLVdr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB
+            href: https://api.spotify.com/v1/artists/6xTk3EK5T9UzudENVvu9YB
+            id: 6xTk3EK5T9UzudENVvu9YB
+            name: Rancid
+            type: artist
+            uri: spotify:artist:6xTk3EK5T9UzudENVvu9YB
+          disc_number: 1
+          duration_ms: 124960
+          explicit: false
+          external_ids:
+            isrc: USEP40316111
+          external_urls:
+            spotify: https://open.spotify.com/track/3pL0lhE7hHTpI0uVNBfkIZ
+          href: https://api.spotify.com/v1/tracks/3pL0lhE7hHTpI0uVNBfkIZ
+          id: 3pL0lhE7hHTpI0uVNBfkIZ
+          is_local: false
+          is_playable: true
+          name: Climb In (The Bottle)
+          track_number: 11
+          type: track
+          uri: spotify:track:3pL0lhE7hHTpI0uVNBfkIZ
+    isrc: USEP40316111

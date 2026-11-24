@@ -45,3 +45,126 @@ mediaFileData:
   year: 1987
   duration: 527.784
   modTime: 2025-03-09 02:44:56.364815+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2hKbRNv3Kbk9rM6OJTFY0n
+    trackId: 2hKbRNv3Kbk9rM6OJTFY0n
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAR18700166&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+              href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+              id: 2m62cc253Xvd9qYQ8d2X3d
+              name: The Alan Parsons Project
+              type: artist
+              uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+            external_urls:
+              spotify: https://open.spotify.com/album/6H2wO09kRYiXUYKOFwOIO8
+            href: https://api.spotify.com/v1/albums/6H2wO09kRYiXUYKOFwOIO8
+            id: 6H2wO09kRYiXUYKOFwOIO8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f8219d0e1601104e9bf7389d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f8219d0e1601104e9bf7389d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f8219d0e1601104e9bf7389d
+            is_playable: true
+            name: Gaudi (Expanded Edition)
+            release_date: '1987'
+            release_date_precision: year
+            total_tracks: 14
+            type: album
+            uri: spotify:album:6H2wO09kRYiXUYKOFwOIO8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+            href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+            id: 2m62cc253Xvd9qYQ8d2X3d
+            name: The Alan Parsons Project
+            type: artist
+            uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+          disc_number: 1
+          duration_ms: 527746
+          explicit: false
+          external_ids:
+            isrc: USAR18700166
+          external_urls:
+            spotify: https://open.spotify.com/track/2hKbRNv3Kbk9rM6OJTFY0n
+          href: https://api.spotify.com/v1/tracks/2hKbRNv3Kbk9rM6OJTFY0n
+          id: 2hKbRNv3Kbk9rM6OJTFY0n
+          is_local: false
+          is_playable: true
+          name: La Sagrada Familia
+          track_number: 1
+          type: track
+          uri: spotify:track:2hKbRNv3Kbk9rM6OJTFY0n
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+              href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+              id: 2m62cc253Xvd9qYQ8d2X3d
+              name: The Alan Parsons Project
+              type: artist
+              uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+            external_urls:
+              spotify: https://open.spotify.com/album/3CM2TjRCh8jWgVJPvKxHR9
+            href: https://api.spotify.com/v1/albums/3CM2TjRCh8jWgVJPvKxHR9
+            id: 3CM2TjRCh8jWgVJPvKxHR9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27325aff903281a33023aa308d3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0225aff903281a33023aa308d3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485125aff903281a33023aa308d3
+            is_playable: true
+            name: The Essential Alan Parsons Project
+            release_date: '2007-01-22'
+            release_date_precision: day
+            total_tracks: 48
+            type: album
+            uri: spotify:album:3CM2TjRCh8jWgVJPvKxHR9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+            href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+            id: 2m62cc253Xvd9qYQ8d2X3d
+            name: The Alan Parsons Project
+            type: artist
+            uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+          disc_number: 3
+          duration_ms: 448653
+          explicit: false
+          external_ids:
+            isrc: USAR18700166
+          external_urls:
+            spotify: https://open.spotify.com/track/3MLDDlCoddIjh0SQRvBjna
+          href: https://api.spotify.com/v1/tracks/3MLDDlCoddIjh0SQRvBjna
+          id: 3MLDDlCoddIjh0SQRvBjna
+          is_local: false
+          is_playable: true
+          name: La Sagrada Familia
+          track_number: 11
+          type: track
+          uri: spotify:track:3MLDDlCoddIjh0SQRvBjna
+    isrc: USAR18700166

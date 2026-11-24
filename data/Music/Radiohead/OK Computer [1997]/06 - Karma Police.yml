@@ -78,3 +78,72 @@ mediaFileData:
   year: 1997
   duration: 264.096
   modTime: 2026-10-23 21:20:50.228483+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/70VjECXPkO7APS1bAj4wEN
+    trackId: 70VjECXPkO7APS1bAj4wEN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS1700112&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
+              href: https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb
+              id: 4Z8W4fKeB5YxbusRsdQVPb
+              name: Radiohead
+              type: artist
+              uri: spotify:artist:4Z8W4fKeB5YxbusRsdQVPb
+            external_urls:
+              spotify: https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ
+            href: https://api.spotify.com/v1/albums/0tzfI6NFJqcJkWb23R3lRZ
+            id: 0tzfI6NFJqcJkWb23R3lRZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ee58b8ce747da91d69a862cc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ee58b8ce747da91d69a862cc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ee58b8ce747da91d69a862cc
+            is_playable: true
+            name: OK Computer OKNOTOK 1997 2017
+            release_date: '2017-06-23'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:0tzfI6NFJqcJkWb23R3lRZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
+            href: https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb
+            id: 4Z8W4fKeB5YxbusRsdQVPb
+            name: Radiohead
+            type: artist
+            uri: spotify:artist:4Z8W4fKeB5YxbusRsdQVPb
+          disc_number: 1
+          duration_ms: 261426
+          explicit: false
+          external_ids:
+            isrc: GBBKS1700112
+          external_urls:
+            spotify: https://open.spotify.com/track/70VjECXPkO7APS1bAj4wEN
+          href: https://api.spotify.com/v1/tracks/70VjECXPkO7APS1bAj4wEN
+          id: 70VjECXPkO7APS1bAj4wEN
+          is_local: false
+          is_playable: true
+          name: Karma Police - Remastered
+          track_number: 6
+          type: track
+          uri: spotify:track:70VjECXPkO7APS1bAj4wEN
+    isrc: GBBKS1700112

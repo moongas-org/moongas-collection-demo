@@ -290,3 +290,126 @@ mediaFileData:
   year: 1966
   duration: 145.9374149659864
   modTime: 2023-09-17 02:33:24+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6XHoXBLed9O6zzUnxjITcP
+    trackId: 6XHoXBLed9O6zzUnxjITcP
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA29100536&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk
+              href: https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk
+              id: 6QtGlUje9TIkLrgPZrESuk
+              name: Steve Miller Band
+              type: artist
+              uri: spotify:artist:6QtGlUje9TIkLrgPZrESuk
+            external_urls:
+              spotify: https://open.spotify.com/album/35H8v0GoNPBJKu4rR5OwnK
+            href: https://api.spotify.com/v1/albums/35H8v0GoNPBJKu4rR5OwnK
+            id: 35H8v0GoNPBJKu4rR5OwnK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732f4e6bc94fe099006beca683
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022f4e6bc94fe099006beca683
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512f4e6bc94fe099006beca683
+            is_playable: true
+            name: 'J50: The Evolution Of The Joker (Deluxe)'
+            release_date: '2023-09-15'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:35H8v0GoNPBJKu4rR5OwnK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk
+            href: https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk
+            id: 6QtGlUje9TIkLrgPZrESuk
+            name: Steve Miller Band
+            type: artist
+            uri: spotify:artist:6QtGlUje9TIkLrgPZrESuk
+          disc_number: 1
+          duration_ms: 145560
+          explicit: false
+          external_ids:
+            isrc: USCA29100536
+          external_urls:
+            spotify: https://open.spotify.com/track/6XHoXBLed9O6zzUnxjITcP
+          href: https://api.spotify.com/v1/tracks/6XHoXBLed9O6zzUnxjITcP
+          id: 6XHoXBLed9O6zzUnxjITcP
+          is_local: false
+          is_playable: true
+          name: Mary Lou
+          track_number: 13
+          type: track
+          uri: spotify:track:6XHoXBLed9O6zzUnxjITcP
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk
+              href: https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk
+              id: 6QtGlUje9TIkLrgPZrESuk
+              name: Steve Miller Band
+              type: artist
+              uri: spotify:artist:6QtGlUje9TIkLrgPZrESuk
+            external_urls:
+              spotify: https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr
+            href: https://api.spotify.com/v1/albums/5uYNj1HkZrWKAkhEYcGmJr
+            id: 5uYNj1HkZrWKAkhEYcGmJr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02375445cc7a2aedff11361b51
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851375445cc7a2aedff11361b51
+            is_playable: true
+            name: The Joker
+            release_date: '1973-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:5uYNj1HkZrWKAkhEYcGmJr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk
+            href: https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk
+            id: 6QtGlUje9TIkLrgPZrESuk
+            name: Steve Miller Band
+            type: artist
+            uri: spotify:artist:6QtGlUje9TIkLrgPZrESuk
+          disc_number: 1
+          duration_ms: 144555
+          explicit: false
+          external_ids:
+            isrc: USCA29100536
+          external_urls:
+            spotify: https://open.spotify.com/track/5Vi50hs3BHjjHVC1UoVUBs
+          href: https://api.spotify.com/v1/tracks/5Vi50hs3BHjjHVC1UoVUBs
+          id: 5Vi50hs3BHjjHVC1UoVUBs
+          is_local: false
+          is_playable: true
+          name: Mary Lou
+          track_number: 2
+          type: track
+          uri: spotify:track:5Vi50hs3BHjjHVC1UoVUBs
+    isrc: USCA29100536

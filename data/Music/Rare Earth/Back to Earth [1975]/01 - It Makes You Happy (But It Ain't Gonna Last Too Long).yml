@@ -44,3 +44,72 @@ mediaFileData:
   year: 1975
   duration: 247.176
   modTime: 2025-01-06 20:47:55.277836+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6UzEYsKPSA9xrGpe65PNOc
+    trackId: 6UzEYsKPSA9xrGpe65PNOc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMO10500038&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF
+              href: https://api.spotify.com/v1/artists/6eEsIl4wosvhuWI0mfXxAF
+              id: 6eEsIl4wosvhuWI0mfXxAF
+              name: Rare Earth
+              type: artist
+              uri: spotify:artist:6eEsIl4wosvhuWI0mfXxAF
+            external_urls:
+              spotify: https://open.spotify.com/album/0LbO24CGWzJyJiJLAt7zto
+            href: https://api.spotify.com/v1/albums/0LbO24CGWzJyJiJLAt7zto
+            id: 0LbO24CGWzJyJiJLAt7zto
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738dd8aaa57b145d70d03ac037
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028dd8aaa57b145d70d03ac037
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518dd8aaa57b145d70d03ac037
+            is_playable: true
+            name: The Best Of Rare Earth
+            release_date: '1995-01-01'
+            release_date_precision: day
+            total_tracks: 36
+            type: album
+            uri: spotify:album:0LbO24CGWzJyJiJLAt7zto
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF
+            href: https://api.spotify.com/v1/artists/6eEsIl4wosvhuWI0mfXxAF
+            id: 6eEsIl4wosvhuWI0mfXxAF
+            name: Rare Earth
+            type: artist
+            uri: spotify:artist:6eEsIl4wosvhuWI0mfXxAF
+          disc_number: 2
+          duration_ms: 248533
+          explicit: false
+          external_ids:
+            isrc: USMO10500038
+          external_urls:
+            spotify: https://open.spotify.com/track/6UzEYsKPSA9xrGpe65PNOc
+          href: https://api.spotify.com/v1/tracks/6UzEYsKPSA9xrGpe65PNOc
+          id: 6UzEYsKPSA9xrGpe65PNOc
+          is_local: false
+          is_playable: true
+          name: It Makes You Happy (But It Ain't Gonna Last Too Long)
+          track_number: 9
+          type: track
+          uri: spotify:track:6UzEYsKPSA9xrGpe65PNOc
+    isrc: USMO10500038

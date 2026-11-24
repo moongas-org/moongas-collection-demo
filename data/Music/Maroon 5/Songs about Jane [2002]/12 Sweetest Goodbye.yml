@@ -112,3 +112,72 @@ mediaFileData:
   year: 2002
   duration: 270.7853
   modTime: 2023-09-27 21:59:44+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5yMUyvUZJex9vNPyFrFQJc
+    trackId: 5yMUyvUZJex9vNPyFrFQJc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC19901794&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N
+              href: https://api.spotify.com/v1/artists/2kreKea2n96dXjcyAU9j5N
+              id: 2kreKea2n96dXjcyAU9j5N
+              name: The Pointer Sisters
+              type: artist
+              uri: spotify:artist:2kreKea2n96dXjcyAU9j5N
+            external_urls:
+              spotify: https://open.spotify.com/album/6J8L7xuaAYvCWJGXGVhka4
+            href: https://api.spotify.com/v1/albums/6J8L7xuaAYvCWJGXGVhka4
+            id: 6J8L7xuaAYvCWJGXGVhka4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737da9435d2319778e315ebdd4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027da9435d2319778e315ebdd4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517da9435d2319778e315ebdd4
+            is_playable: true
+            name: The Best Of The Pointer Sisters
+            release_date: '2000-02-21'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:6J8L7xuaAYvCWJGXGVhka4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N
+            href: https://api.spotify.com/v1/artists/2kreKea2n96dXjcyAU9j5N
+            id: 2kreKea2n96dXjcyAU9j5N
+            name: The Pointer Sisters
+            type: artist
+            uri: spotify:artist:2kreKea2n96dXjcyAU9j5N
+          disc_number: 1
+          duration_ms: 263133
+          explicit: false
+          external_ids:
+            isrc: USRC19901794
+          external_urls:
+            spotify: https://open.spotify.com/track/5yMUyvUZJex9vNPyFrFQJc
+          href: https://api.spotify.com/v1/tracks/5yMUyvUZJex9vNPyFrFQJc
+          id: 5yMUyvUZJex9vNPyFrFQJc
+          is_local: false
+          is_playable: true
+          name: Jump (For My Love) - Re-EQ'd Version
+          track_number: 12
+          type: track
+          uri: spotify:track:5yMUyvUZJex9vNPyFrFQJc
+    isrc: USRC19901794

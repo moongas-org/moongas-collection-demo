@@ -45,3 +45,72 @@ mediaFileData:
   year: 2005
   duration: 196.33333333333334
   modTime: 2025-01-09 22:35:31.857497+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6AfihbGHOpCOyuf9WkmxXL
+    trackId: 6AfihbGHOpCOyuf9WkmxXL
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBPVV2400038&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ
+              href: https://api.spotify.com/v1/artists/3MM8mtgFzaEJsqbjZBSsHJ
+              id: 3MM8mtgFzaEJsqbjZBSsHJ
+              name: Bloc Party
+              type: artist
+              uri: spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ
+            external_urls:
+              spotify: https://open.spotify.com/album/3naSPzMIwV2R56R4CgvMhA
+            href: https://api.spotify.com/v1/albums/3naSPzMIwV2R56R4CgvMhA
+            id: 3naSPzMIwV2R56R4CgvMhA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d6ae311c8a13fd11c1166d51
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d6ae311c8a13fd11c1166d51
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d6ae311c8a13fd11c1166d51
+            is_playable: true
+            name: Little Thoughts EP
+            release_date: '2004'
+            release_date_precision: year
+            total_tracks: 6
+            type: album
+            uri: spotify:album:3naSPzMIwV2R56R4CgvMhA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ
+            href: https://api.spotify.com/v1/artists/3MM8mtgFzaEJsqbjZBSsHJ
+            id: 3MM8mtgFzaEJsqbjZBSsHJ
+            name: Bloc Party
+            type: artist
+            uri: spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ
+          disc_number: 1
+          duration_ms: 196653
+          explicit: false
+          external_ids:
+            isrc: GBPVV2400038
+          external_urls:
+            spotify: https://open.spotify.com/track/6AfihbGHOpCOyuf9WkmxXL
+          href: https://api.spotify.com/v1/tracks/6AfihbGHOpCOyuf9WkmxXL
+          id: 6AfihbGHOpCOyuf9WkmxXL
+          is_local: false
+          is_playable: true
+          name: Skeleton
+          track_number: 5
+          type: track
+          uri: spotify:track:6AfihbGHOpCOyuf9WkmxXL
+    isrc: GBPVV2400038

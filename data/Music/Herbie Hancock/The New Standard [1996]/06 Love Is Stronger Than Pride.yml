@@ -34,3 +34,126 @@ mediaFileData:
   year: 1996
   duration: 480.47021875
   modTime: 2023-08-13 21:34:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3X3bXuwfzB3KhHejDaEdR1
+    trackId: 3X3bXuwfzB3KhHejDaEdR1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSPR39507395&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW
+              href: https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW
+              id: 2ZvrvbQNrHKwjT7qfGFFUW
+              name: Herbie Hancock
+              type: artist
+              uri: spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW
+            external_urls:
+              spotify: https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd
+            href: https://api.spotify.com/v1/albums/15xN5nr2KFFScKLjVxwIgd
+            id: 15xN5nr2KFFScKLjVxwIgd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ebd5f2e53d6a316e9659d4f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ebd5f2e53d6a316e9659d4f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ebd5f2e53d6a316e9659d4f
+            is_playable: true
+            name: The New Standard
+            release_date: '1996-02-19'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:15xN5nr2KFFScKLjVxwIgd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW
+            href: https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW
+            id: 2ZvrvbQNrHKwjT7qfGFFUW
+            name: Herbie Hancock
+            type: artist
+            uri: spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW
+          disc_number: 1
+          duration_ms: 477693
+          explicit: false
+          external_ids:
+            isrc: USPR39507395
+          external_urls:
+            spotify: https://open.spotify.com/track/3X3bXuwfzB3KhHejDaEdR1
+          href: https://api.spotify.com/v1/tracks/3X3bXuwfzB3KhHejDaEdR1
+          id: 3X3bXuwfzB3KhHejDaEdR1
+          is_local: false
+          is_playable: true
+          name: Love Is Stronger Than Pride
+          track_number: 6
+          type: track
+          uri: spotify:track:3X3bXuwfzB3KhHejDaEdR1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3xUXH2fVAit4sk5Pki3Bqo
+            href: https://api.spotify.com/v1/albums/3xUXH2fVAit4sk5Pki3Bqo
+            id: 3xUXH2fVAit4sk5Pki3Bqo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273892cae82ab82f43cdbb0a3b4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02892cae82ab82f43cdbb0a3b4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851892cae82ab82f43cdbb0a3b4
+            is_playable: true
+            name: Smooth Jazz Music
+            release_date: '2020-05-01'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:3xUXH2fVAit4sk5Pki3Bqo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW
+            href: https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW
+            id: 2ZvrvbQNrHKwjT7qfGFFUW
+            name: Herbie Hancock
+            type: artist
+            uri: spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW
+          disc_number: 1
+          duration_ms: 480400
+          explicit: false
+          external_ids:
+            isrc: USPR39507395
+          external_urls:
+            spotify: https://open.spotify.com/track/1Wwb4fO777UxreuXI8IpWx
+          href: https://api.spotify.com/v1/tracks/1Wwb4fO777UxreuXI8IpWx
+          id: 1Wwb4fO777UxreuXI8IpWx
+          is_local: false
+          is_playable: true
+          name: Love Is Stronger Than Pride
+          track_number: 9
+          type: track
+          uri: spotify:track:1Wwb4fO777UxreuXI8IpWx
+    isrc: USPR39507395

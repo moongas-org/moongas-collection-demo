@@ -71,3 +71,288 @@ mediaFileData:
   year: 1968
   duration: 264.5942857142857
   modTime: 2024-02-18 22:16:16.442849+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5qMlWQvAJPXLJ1BUtAlv7p
+    trackId: 5qMlWQvAJPXLJ1BUtAlv7p
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBA176800030&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBA176800030&type=track
+        offset: 0
+        previous:
+        total: 10
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/1wQJqldAjmo4QgEXx0BTwU
+            href: https://api.spotify.com/v1/albums/1wQJqldAjmo4QgEXx0BTwU
+            id: 1wQJqldAjmo4QgEXx0BTwU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730f04fb31adf430679b9301d6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020f04fb31adf430679b9301d6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510f04fb31adf430679b9301d6
+            is_playable: true
+            name: Nights In White Satin
+            release_date: '2017-05-19'
+            release_date_precision: day
+            total_tracks: 51
+            type: album
+            uri: spotify:album:1wQJqldAjmo4QgEXx0BTwU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 219226
+          explicit: false
+          external_ids:
+            isrc: GBA176800030
+          external_urls:
+            spotify: https://open.spotify.com/track/5qMlWQvAJPXLJ1BUtAlv7p
+          href: https://api.spotify.com/v1/tracks/5qMlWQvAJPXLJ1BUtAlv7p
+          id: 5qMlWQvAJPXLJ1BUtAlv7p
+          is_local: false
+          is_playable: true
+          name: Ride My See-Saw
+          track_number: 11
+          type: track
+          uri: spotify:track:5qMlWQvAJPXLJ1BUtAlv7p
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/0sz0hfcCIwoWkI9BEuf9rR
+            href: https://api.spotify.com/v1/albums/0sz0hfcCIwoWkI9BEuf9rR
+            id: 0sz0hfcCIwoWkI9BEuf9rR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273753545801b33833dc035047d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02753545801b33833dc035047d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851753545801b33833dc035047d
+            is_playable: true
+            name: The Best Of The Moody Blues
+            release_date: '1996-01-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:0sz0hfcCIwoWkI9BEuf9rR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 222426
+          explicit: false
+          external_ids:
+            isrc: GBA176800030
+          external_urls:
+            spotify: https://open.spotify.com/track/6z5j68xyqSQDyXs0WAMlov
+          href: https://api.spotify.com/v1/tracks/6z5j68xyqSQDyXs0WAMlov
+          id: 6z5j68xyqSQDyXs0WAMlov
+          is_local: false
+          is_playable: true
+          name: Ride My See-Saw
+          track_number: 4
+          type: track
+          uri: spotify:track:6z5j68xyqSQDyXs0WAMlov
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/7uYhl6b5her41XQKFe2523
+            href: https://api.spotify.com/v1/albums/7uYhl6b5her41XQKFe2523
+            id: 7uYhl6b5her41XQKFe2523
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273747a08e85b20d5d7c7800078
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02747a08e85b20d5d7c7800078
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851747a08e85b20d5d7c7800078
+            is_playable: true
+            name: Gold
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:7uYhl6b5her41XQKFe2523
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 222026
+          explicit: false
+          external_ids:
+            isrc: GBA176800030
+          external_urls:
+            spotify: https://open.spotify.com/track/0IinPEO15U0Yp60VCbp3Y5
+          href: https://api.spotify.com/v1/tracks/0IinPEO15U0Yp60VCbp3Y5
+          id: 0IinPEO15U0Yp60VCbp3Y5
+          is_local: false
+          is_playable: true
+          name: Ride My See-Saw
+          track_number: 3
+          type: track
+          uri: spotify:track:0IinPEO15U0Yp60VCbp3Y5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZTNq36NEuAdPLwkey7z6C
+            href: https://api.spotify.com/v1/albums/3ZTNq36NEuAdPLwkey7z6C
+            id: 3ZTNq36NEuAdPLwkey7z6C
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bbb26699bc7cb61bf07a57fd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bbb26699bc7cb61bf07a57fd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bbb26699bc7cb61bf07a57fd
+            is_playable: true
+            name: In Search Of The Lost Chord
+            release_date: '1968-07-26'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:3ZTNq36NEuAdPLwkey7z6C
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 219226
+          explicit: false
+          external_ids:
+            isrc: GBA176800030
+          external_urls:
+            spotify: https://open.spotify.com/track/6tMNYGXJ1L6wjbSkAXWyHh
+          href: https://api.spotify.com/v1/tracks/6tMNYGXJ1L6wjbSkAXWyHh
+          id: 6tMNYGXJ1L6wjbSkAXWyHh
+          is_local: false
+          is_playable: true
+          name: Ride My See-Saw
+          track_number: 2
+          type: track
+          uri: spotify:track:6tMNYGXJ1L6wjbSkAXWyHh
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+              href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+              id: 5BcZ22XONcRoLhTbZRuME1
+              name: The Moody Blues
+              type: artist
+              uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+            external_urls:
+              spotify: https://open.spotify.com/album/0Rdx3jfi6h97W5VjQsuMOp
+            href: https://api.spotify.com/v1/albums/0Rdx3jfi6h97W5VjQsuMOp
+            id: 0Rdx3jfi6h97W5VjQsuMOp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eb560d250d2ef6b0f3d5ef04
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eb560d250d2ef6b0f3d5ef04
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eb560d250d2ef6b0f3d5ef04
+            is_playable: true
+            name: In Search Of The Lost Chord
+            release_date: '1968-07-26'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0Rdx3jfi6h97W5VjQsuMOp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1
+            href: https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1
+            id: 5BcZ22XONcRoLhTbZRuME1
+            name: The Moody Blues
+            type: artist
+            uri: spotify:artist:5BcZ22XONcRoLhTbZRuME1
+          disc_number: 1
+          duration_ms: 219226
+          explicit: false
+          external_ids:
+            isrc: GBA176800030
+          external_urls:
+            spotify: https://open.spotify.com/track/0wz5rqLVTrBNuxCW2rewoK
+          href: https://api.spotify.com/v1/tracks/0wz5rqLVTrBNuxCW2rewoK
+          id: 0wz5rqLVTrBNuxCW2rewoK
+          is_local: false
+          is_playable: true
+          name: Ride My See-Saw
+          track_number: 2
+          type: track
+          uri: spotify:track:0wz5rqLVTrBNuxCW2rewoK
+    isrc: GBA176800030

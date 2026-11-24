@@ -34,3 +34,288 @@ mediaFileData:
   year: 1992
   duration: 225.648
   modTime: 2024-02-04 16:00:38.682698+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1dsNGNwIGssPfzsnjy9EN1
+    trackId: 1dsNGNwIGssPfzsnjy9EN1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC19238622&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMC19238622&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+              href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+              id: 3IhWQSrLj8EJjdvjFTpCyo
+              name: Vince Gill
+              type: artist
+              uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+            external_urls:
+              spotify: https://open.spotify.com/album/0KuQ7ntjz6G4lGwnYZKHtL
+            href: https://api.spotify.com/v1/albums/0KuQ7ntjz6G4lGwnYZKHtL
+            id: 0KuQ7ntjz6G4lGwnYZKHtL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b4e202da6a094f3bc27d56fc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b4e202da6a094f3bc27d56fc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b4e202da6a094f3bc27d56fc
+            is_playable: true
+            name: '50 Years From Home: Secondhand Smoke'
+            release_date: '2025-11-14'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:0KuQ7ntjz6G4lGwnYZKHtL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 223826
+          explicit: false
+          external_ids:
+            isrc: USMC19238622
+          external_urls:
+            spotify: https://open.spotify.com/track/1dsNGNwIGssPfzsnjy9EN1
+          href: https://api.spotify.com/v1/tracks/1dsNGNwIGssPfzsnjy9EN1
+          id: 1dsNGNwIGssPfzsnjy9EN1
+          is_local: false
+          is_playable: true
+          name: Tryin' To Get Over You
+          track_number: 7
+          type: track
+          uri: spotify:track:1dsNGNwIGssPfzsnjy9EN1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+              href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+              id: 3IhWQSrLj8EJjdvjFTpCyo
+              name: Vince Gill
+              type: artist
+              uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+            external_urls:
+              spotify: https://open.spotify.com/album/47oTeTbDG0kWBHDhiSwGOZ
+            href: https://api.spotify.com/v1/albums/47oTeTbDG0kWBHDhiSwGOZ
+            id: 47oTeTbDG0kWBHDhiSwGOZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730c8c979c1b6babfa65a771a7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020c8c979c1b6babfa65a771a7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510c8c979c1b6babfa65a771a7
+            is_playable: true
+            name: Best Of
+            release_date: '2010-08-31'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:47oTeTbDG0kWBHDhiSwGOZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 223640
+          explicit: false
+          external_ids:
+            isrc: USMC19238622
+          external_urls:
+            spotify: https://open.spotify.com/track/4cpiLa6iZiOMWAHZgoUeO2
+          href: https://api.spotify.com/v1/tracks/4cpiLa6iZiOMWAHZgoUeO2
+          id: 4cpiLa6iZiOMWAHZgoUeO2
+          is_local: false
+          is_playable: true
+          name: Tryin' To Get Over You
+          track_number: 6
+          type: track
+          uri: spotify:track:4cpiLa6iZiOMWAHZgoUeO2
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+              href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+              id: 3IhWQSrLj8EJjdvjFTpCyo
+              name: Vince Gill
+              type: artist
+              uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+            external_urls:
+              spotify: https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM
+            href: https://api.spotify.com/v1/albums/1cudEt9ALkzUNCcGeQX9cM
+            id: 1cudEt9ALkzUNCcGeQX9cM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273660b4e8296145319f40aa4c6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02660b4e8296145319f40aa4c6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851660b4e8296145319f40aa4c6
+            is_playable: true
+            name: Souvenirs
+            release_date: '1995-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1cudEt9ALkzUNCcGeQX9cM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 223826
+          explicit: false
+          external_ids:
+            isrc: USMC19238622
+          external_urls:
+            spotify: https://open.spotify.com/track/1jSiivMsY3k7uYrf0yN9VE
+          href: https://api.spotify.com/v1/tracks/1jSiivMsY3k7uYrf0yN9VE
+          id: 1jSiivMsY3k7uYrf0yN9VE
+          is_local: false
+          is_playable: true
+          name: Tryin' To Get Over You
+          track_number: 12
+          type: track
+          uri: spotify:track:1jSiivMsY3k7uYrf0yN9VE
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+              href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+              id: 3IhWQSrLj8EJjdvjFTpCyo
+              name: Vince Gill
+              type: artist
+              uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+            external_urls:
+              spotify: https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS
+            href: https://api.spotify.com/v1/albums/6sp6iOY2DhnS0UAUbdZMfS
+            id: 6sp6iOY2DhnS0UAUbdZMfS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fc8c2507067028eea6494628
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fc8c2507067028eea6494628
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fc8c2507067028eea6494628
+            is_playable: true
+            name: I Still Believe In You
+            release_date: '1992-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6sp6iOY2DhnS0UAUbdZMfS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 225626
+          explicit: false
+          external_ids:
+            isrc: USMC19238622
+          external_urls:
+            spotify: https://open.spotify.com/track/2rKtSHDkql7aZuWKUdSylq
+          href: https://api.spotify.com/v1/tracks/2rKtSHDkql7aZuWKUdSylq
+          id: 2rKtSHDkql7aZuWKUdSylq
+          is_local: false
+          is_playable: true
+          name: Tryin' To Get Over You
+          track_number: 4
+          type: track
+          uri: spotify:track:2rKtSHDkql7aZuWKUdSylq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5V6SejxkTbEsP5r2MM3bNW
+            href: https://api.spotify.com/v1/albums/5V6SejxkTbEsP5r2MM3bNW
+            id: 5V6SejxkTbEsP5r2MM3bNW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d2866b2c886b9950f571d17c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d2866b2c886b9950f571d17c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d2866b2c886b9950f571d17c
+            is_playable: true
+            name: Otra Noche Lluviosa Llorando
+            release_date: '2024-12-20'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:5V6SejxkTbEsP5r2MM3bNW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo
+            href: https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo
+            id: 3IhWQSrLj8EJjdvjFTpCyo
+            name: Vince Gill
+            type: artist
+            uri: spotify:artist:3IhWQSrLj8EJjdvjFTpCyo
+          disc_number: 1
+          duration_ms: 223640
+          explicit: false
+          external_ids:
+            isrc: USMC19238622
+          external_urls:
+            spotify: https://open.spotify.com/track/0AaeE1TrxxrpR5sSP3Myuv
+          href: https://api.spotify.com/v1/tracks/0AaeE1TrxxrpR5sSP3Myuv
+          id: 0AaeE1TrxxrpR5sSP3Myuv
+          is_local: false
+          is_playable: true
+          name: Tryin' To Get Over You
+          track_number: 18
+          type: track
+          uri: spotify:track:0AaeE1TrxxrpR5sSP3Myuv
+    isrc: USMC19238622

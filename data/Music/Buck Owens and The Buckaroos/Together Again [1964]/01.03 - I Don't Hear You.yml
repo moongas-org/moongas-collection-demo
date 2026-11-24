@@ -48,3 +48,72 @@ mediaFileData:
   year: 1964
   duration: 176.856
   modTime: 2024-02-20 20:22:26.680382+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/78fS5shY5oVsh9lydHmp6h
+    trackId: 78fS5shY5oVsh9lydHmp6h
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCWY1100045&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu
+              href: https://api.spotify.com/v1/artists/2FMZn5P3WATd7Il6FgPJNu
+              id: 2FMZn5P3WATd7Il6FgPJNu
+              name: Buck Owens
+              type: artist
+              uri: spotify:artist:2FMZn5P3WATd7Il6FgPJNu
+            external_urls:
+              spotify: https://open.spotify.com/album/5B5n8ONbdQQmDlcTcVhggR
+            href: https://api.spotify.com/v1/albums/5B5n8ONbdQQmDlcTcVhggR
+            id: 5B5n8ONbdQQmDlcTcVhggR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f083fffc7868af88d9d39bbd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f083fffc7868af88d9d39bbd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f083fffc7868af88d9d39bbd
+            is_playable: true
+            name: Together Again / My Heart Skips a Beat
+            release_date: '1995-05-17'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5B5n8ONbdQQmDlcTcVhggR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu
+            href: https://api.spotify.com/v1/artists/2FMZn5P3WATd7Il6FgPJNu
+            id: 2FMZn5P3WATd7Il6FgPJNu
+            name: Buck Owens
+            type: artist
+            uri: spotify:artist:2FMZn5P3WATd7Il6FgPJNu
+          disc_number: 1
+          duration_ms: 179173
+          explicit: false
+          external_ids:
+            isrc: USCWY1100045
+          external_urls:
+            spotify: https://open.spotify.com/track/78fS5shY5oVsh9lydHmp6h
+          href: https://api.spotify.com/v1/tracks/78fS5shY5oVsh9lydHmp6h
+          id: 78fS5shY5oVsh9lydHmp6h
+          is_local: false
+          is_playable: true
+          name: I Don't Hear You
+          track_number: 3
+          type: track
+          uri: spotify:track:78fS5shY5oVsh9lydHmp6h
+    isrc: USCWY1100045

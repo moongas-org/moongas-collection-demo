@@ -110,3 +110,72 @@ mediaFileData:
   year: 1991
   duration: 258.24
   modTime: 2025-01-11 01:38:09.034805+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4AQrRZMo8yMNaeAkOnM2xm
+    trackId: 4AQrRZMo8yMNaeAkOnM2xm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10805338&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+              href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+              id: 1w5Kfo2jwwIPruYS2UWh56
+              name: Pearl Jam
+              type: artist
+              uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+            external_urls:
+              spotify: https://open.spotify.com/album/6a5n1Frj3nxGcyTqT1xfrg
+            href: https://api.spotify.com/v1/albums/6a5n1Frj3nxGcyTqT1xfrg
+            id: 6a5n1Frj3nxGcyTqT1xfrg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27391be38cf0e89ef98d83d9e65
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0291be38cf0e89ef98d83d9e65
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485191be38cf0e89ef98d83d9e65
+            is_playable: true
+            name: Ten Redux
+            release_date: '1991-08-27'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:6a5n1Frj3nxGcyTqT1xfrg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 1
+          duration_ms: 257684
+          explicit: false
+          external_ids:
+            isrc: USSM10805338
+          external_urls:
+            spotify: https://open.spotify.com/track/4AQrRZMo8yMNaeAkOnM2xm
+          href: https://api.spotify.com/v1/tracks/4AQrRZMo8yMNaeAkOnM2xm
+          id: 4AQrRZMo8yMNaeAkOnM2xm
+          is_local: false
+          is_playable: true
+          name: Deep - Brendan O'Brien Mix
+          track_number: 10
+          type: track
+          uri: spotify:track:4AQrRZMo8yMNaeAkOnM2xm
+    isrc: USSM10805338

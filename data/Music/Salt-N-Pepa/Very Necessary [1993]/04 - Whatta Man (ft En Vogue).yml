@@ -66,3 +66,201 @@ mediaFileData:
   year: 1993
   duration: 296.256
   modTime: 2025-07-19 14:44:16.135189+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/52FpkyImUt9LDI9mCWDryr
+    trackId: 52FpkyImUt9LDI9mCWDryr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEW19900156&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48
+              href: https://api.spotify.com/v1/artists/5fikk4h5qbEebqK2Fc6e48
+              id: 5fikk4h5qbEebqK2Fc6e48
+              name: En Vogue
+              type: artist
+              uri: spotify:artist:5fikk4h5qbEebqK2Fc6e48
+            external_urls:
+              spotify: https://open.spotify.com/album/6ABqEktNUuYULXWUubkHKg
+            href: https://api.spotify.com/v1/albums/6ABqEktNUuYULXWUubkHKg
+            id: 6ABqEktNUuYULXWUubkHKg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736d9875d0c8a6265c4ff40d26
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026d9875d0c8a6265c4ff40d26
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516d9875d0c8a6265c4ff40d26
+            is_playable: true
+            name: The Very Best of En Vogue
+            release_date: '2001-08-21'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:6ABqEktNUuYULXWUubkHKg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ
+            href: https://api.spotify.com/v1/artists/7wqtxqI3eo7Gn1P7SpP6cQ
+            id: 7wqtxqI3eo7Gn1P7SpP6cQ
+            name: Salt-N-Pepa
+            type: artist
+            uri: spotify:artist:7wqtxqI3eo7Gn1P7SpP6cQ
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48
+            href: https://api.spotify.com/v1/artists/5fikk4h5qbEebqK2Fc6e48
+            id: 5fikk4h5qbEebqK2Fc6e48
+            name: En Vogue
+            type: artist
+            uri: spotify:artist:5fikk4h5qbEebqK2Fc6e48
+          disc_number: 1
+          duration_ms: 296213
+          explicit: false
+          external_ids:
+            isrc: USEW19900156
+          external_urls:
+            spotify: https://open.spotify.com/track/52FpkyImUt9LDI9mCWDryr
+          href: https://api.spotify.com/v1/tracks/52FpkyImUt9LDI9mCWDryr
+          id: 52FpkyImUt9LDI9mCWDryr
+          is_local: false
+          is_playable: true
+          name: Whatta Man (feat. En Vogue) - EP Version
+          track_number: 6
+          type: track
+          uri: spotify:track:52FpkyImUt9LDI9mCWDryr
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48
+              href: https://api.spotify.com/v1/artists/5fikk4h5qbEebqK2Fc6e48
+              id: 5fikk4h5qbEebqK2Fc6e48
+              name: En Vogue
+              type: artist
+              uri: spotify:artist:5fikk4h5qbEebqK2Fc6e48
+            external_urls:
+              spotify: https://open.spotify.com/album/1tJvA3LsfbfsS0ih7fek6T
+            href: https://api.spotify.com/v1/albums/1tJvA3LsfbfsS0ih7fek6T
+            id: 1tJvA3LsfbfsS0ih7fek6T
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738a1e36263b51d86207628011
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028a1e36263b51d86207628011
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518a1e36263b51d86207628011
+            is_playable: true
+            name: Runaway Love
+            release_date: '1993-09-21'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:1tJvA3LsfbfsS0ih7fek6T
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ
+            href: https://api.spotify.com/v1/artists/7wqtxqI3eo7Gn1P7SpP6cQ
+            id: 7wqtxqI3eo7Gn1P7SpP6cQ
+            name: Salt-N-Pepa
+            type: artist
+            uri: spotify:artist:7wqtxqI3eo7Gn1P7SpP6cQ
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48
+            href: https://api.spotify.com/v1/artists/5fikk4h5qbEebqK2Fc6e48
+            id: 5fikk4h5qbEebqK2Fc6e48
+            name: En Vogue
+            type: artist
+            uri: spotify:artist:5fikk4h5qbEebqK2Fc6e48
+          disc_number: 1
+          duration_ms: 296213
+          explicit: false
+          external_ids:
+            isrc: USEW19900156
+          external_urls:
+            spotify: https://open.spotify.com/track/5UKGE3tI0s5Lq0Puf6Fn0S
+          href: https://api.spotify.com/v1/tracks/5UKGE3tI0s5Lq0Puf6Fn0S
+          id: 5UKGE3tI0s5Lq0Puf6Fn0S
+          is_local: false
+          is_playable: true
+          name: Whatta Man (feat. En Vogue) - EP Version
+          track_number: 2
+          type: track
+          uri: spotify:track:5UKGE3tI0s5Lq0Puf6Fn0S
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48
+              href: https://api.spotify.com/v1/artists/5fikk4h5qbEebqK2Fc6e48
+              id: 5fikk4h5qbEebqK2Fc6e48
+              name: En Vogue
+              type: artist
+              uri: spotify:artist:5fikk4h5qbEebqK2Fc6e48
+            external_urls:
+              spotify: https://open.spotify.com/album/1dVhczEhJUyJpao75GZkA2
+            href: https://api.spotify.com/v1/albums/1dVhczEhJUyJpao75GZkA2
+            id: 1dVhczEhJUyJpao75GZkA2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733cbf39c9120bcdddbdca756f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023cbf39c9120bcdddbdca756f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513cbf39c9120bcdddbdca756f
+            is_playable: true
+            name: Best Of
+            release_date: '1999-06-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1dVhczEhJUyJpao75GZkA2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4NXfZw8bOnaKCKf6WEgGRt
+            href: https://api.spotify.com/v1/artists/4NXfZw8bOnaKCKf6WEgGRt
+            id: 4NXfZw8bOnaKCKf6WEgGRt
+            name: Salt 'N' Pepa
+            type: artist
+            uri: spotify:artist:4NXfZw8bOnaKCKf6WEgGRt
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48
+            href: https://api.spotify.com/v1/artists/5fikk4h5qbEebqK2Fc6e48
+            id: 5fikk4h5qbEebqK2Fc6e48
+            name: En Vogue
+            type: artist
+            uri: spotify:artist:5fikk4h5qbEebqK2Fc6e48
+          disc_number: 1
+          duration_ms: 296213
+          explicit: false
+          external_ids:
+            isrc: USEW19900156
+          external_urls:
+            spotify: https://open.spotify.com/track/3qhbyiTszFjW4o5GDYwjMH
+          href: https://api.spotify.com/v1/tracks/3qhbyiTszFjW4o5GDYwjMH
+          id: 3qhbyiTszFjW4o5GDYwjMH
+          is_local: false
+          is_playable: true
+          name: Whatta Man (feat. En Vogue) - EP Version
+          track_number: 3
+          type: track
+          uri: spotify:track:3qhbyiTszFjW4o5GDYwjMH
+    isrc: USEW19900156

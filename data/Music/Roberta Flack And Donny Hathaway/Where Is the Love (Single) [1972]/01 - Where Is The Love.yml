@@ -99,3 +99,79 @@ mediaFileData:
   year: 1972
   duration: 164.112
   modTime: 2025-03-16 18:39:12.863394+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6GAlkKYm33aR6h4BrYdW6D
+    trackId: 6GAlkKYm33aR6h4BrYdW6D
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20507216&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA
+              href: https://api.spotify.com/v1/artists/0W498bDDNlJIrYMKXdpLHA
+              id: 0W498bDDNlJIrYMKXdpLHA
+              name: Roberta Flack
+              type: artist
+              uri: spotify:artist:0W498bDDNlJIrYMKXdpLHA
+            external_urls:
+              spotify: https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq
+            href: https://api.spotify.com/v1/albums/4zgWZypmvsNzjNSsDRqxQq
+            id: 4zgWZypmvsNzjNSsDRqxQq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273416aa48f5c6e2515bf8f3813
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02416aa48f5c6e2515bf8f3813
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851416aa48f5c6e2515bf8f3813
+            is_playable: true
+            name: The Very Best of Roberta Flack
+            release_date: '2006-02-07'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4zgWZypmvsNzjNSsDRqxQq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA
+            href: https://api.spotify.com/v1/artists/0W498bDDNlJIrYMKXdpLHA
+            id: 0W498bDDNlJIrYMKXdpLHA
+            name: Roberta Flack
+            type: artist
+            uri: spotify:artist:0W498bDDNlJIrYMKXdpLHA
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S
+            href: https://api.spotify.com/v1/artists/0HU0U9kdXEHZVxUNbuQe8S
+            id: 0HU0U9kdXEHZVxUNbuQe8S
+            name: Donny Hathaway
+            type: artist
+            uri: spotify:artist:0HU0U9kdXEHZVxUNbuQe8S
+          disc_number: 1
+          duration_ms: 163933
+          explicit: false
+          external_ids:
+            isrc: USAT20507216
+          external_urls:
+            spotify: https://open.spotify.com/track/6GAlkKYm33aR6h4BrYdW6D
+          href: https://api.spotify.com/v1/tracks/6GAlkKYm33aR6h4BrYdW6D
+          id: 6GAlkKYm33aR6h4BrYdW6D
+          is_local: false
+          is_playable: true
+          name: Where Is the Love - Remastered Version
+          track_number: 2
+          type: track
+          uri: spotify:track:6GAlkKYm33aR6h4BrYdW6D
+    isrc: USAT20507216

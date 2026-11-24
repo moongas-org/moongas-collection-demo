@@ -34,3 +34,72 @@ mediaFileData:
   year: 1979
   duration: 314.6187755102041
   modTime: 2025-12-28 19:11:05.362509+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6d6PvPZz6FnmC9D1iawxgE
+    trackId: 6d6PvPZz6FnmC9D1iawxgE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN11400315&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+              href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+              id: 6Sb8EHpZvyjSTT5KD9DjUZ
+              name: Ronnie Milsap
+              type: artist
+              uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+            external_urls:
+              spotify: https://open.spotify.com/album/0zUZBKfwBilx6BZLIcAtuN
+            href: https://api.spotify.com/v1/albums/0zUZBKfwBilx6BZLIcAtuN
+            id: 0zUZBKfwBilx6BZLIcAtuN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730db5bc9f0746a63abf03113b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020db5bc9f0746a63abf03113b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510db5bc9f0746a63abf03113b
+            is_playable: true
+            name: Images
+            release_date: '1979-04-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0zUZBKfwBilx6BZLIcAtuN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+            href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+            id: 6Sb8EHpZvyjSTT5KD9DjUZ
+            name: Ronnie Milsap
+            type: artist
+            uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+          disc_number: 1
+          duration_ms: 314466
+          explicit: false
+          external_ids:
+            isrc: USRN11400315
+          external_urls:
+            spotify: https://open.spotify.com/track/6d6PvPZz6FnmC9D1iawxgE
+          href: https://api.spotify.com/v1/tracks/6d6PvPZz6FnmC9D1iawxgE
+          id: 6d6PvPZz6FnmC9D1iawxgE
+          is_local: false
+          is_playable: true
+          name: You Don't Look For Love
+          track_number: 5
+          type: track
+          uri: spotify:track:6d6PvPZz6FnmC9D1iawxgE
+    isrc: USRN11400315

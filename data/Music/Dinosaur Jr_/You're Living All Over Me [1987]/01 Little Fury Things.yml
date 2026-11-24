@@ -42,3 +42,72 @@ mediaFileData:
   year: 1987
   duration: 188.00325
   modTime: 2023-10-01 16:19:14+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1DKTXW8RFn6c1yYRQAPlGP
+    trackId: 1DKTXW8RFn6c1yYRQAPlGP
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMRG0566013&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu
+            href: https://api.spotify.com/v1/albums/3peMqhMZ1HT8N4lvSS3GPu
+            id: 3peMqhMZ1HT8N4lvSS3GPu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d0440608c09e550faea0ef90
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d0440608c09e550faea0ef90
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d0440608c09e550faea0ef90
+            is_playable: true
+            name: You're Living All Over Me
+            release_date: '1987-12-14'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3peMqhMZ1HT8N4lvSS3GPu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 1
+          duration_ms: 186893
+          explicit: false
+          external_ids:
+            isrc: USMRG0566013
+          external_urls:
+            spotify: https://open.spotify.com/track/1DKTXW8RFn6c1yYRQAPlGP
+          href: https://api.spotify.com/v1/tracks/1DKTXW8RFn6c1yYRQAPlGP
+          id: 1DKTXW8RFn6c1yYRQAPlGP
+          is_local: false
+          is_playable: true
+          name: Little Fury Things
+          track_number: 1
+          type: track
+          uri: spotify:track:1DKTXW8RFn6c1yYRQAPlGP
+    isrc: USMRG0566013

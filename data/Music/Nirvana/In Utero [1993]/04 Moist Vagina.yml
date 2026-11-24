@@ -76,3 +76,72 @@ mediaFileData:
   year: 1993
   duration: 1751.652
   modTime: 2023-04-26 20:53:44.340000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1Y2UpuuPQsAS8P0wWieXQl
+    trackId: 1Y2UpuuPQsAS8P0wWieXQl
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS39N0703084&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP
+              href: https://api.spotify.com/v1/artists/3PqSrKPGZXefu4krgFCZSP
+              id: 3PqSrKPGZXefu4krgFCZSP
+              name: Richie Spice
+              type: artist
+              uri: spotify:artist:3PqSrKPGZXefu4krgFCZSP
+            external_urls:
+              spotify: https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5
+            href: https://api.spotify.com/v1/albums/7bSj7D86JEHSFEDIjvadn5
+            id: 7bSj7D86JEHSFEDIjvadn5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27387d7b5a943d342062f9269f8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0287d7b5a943d342062f9269f8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485187d7b5a943d342062f9269f8
+            is_playable: true
+            name: Spice In Your Life
+            release_date: '2006-06-06'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:7bSj7D86JEHSFEDIjvadn5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP
+            href: https://api.spotify.com/v1/artists/3PqSrKPGZXefu4krgFCZSP
+            id: 3PqSrKPGZXefu4krgFCZSP
+            name: Richie Spice
+            type: artist
+            uri: spotify:artist:3PqSrKPGZXefu4krgFCZSP
+          disc_number: 1
+          duration_ms: 215173
+          explicit: false
+          external_ids:
+            isrc: US39N0703084
+          external_urls:
+            spotify: https://open.spotify.com/track/1Y2UpuuPQsAS8P0wWieXQl
+          href: https://api.spotify.com/v1/tracks/1Y2UpuuPQsAS8P0wWieXQl
+          id: 1Y2UpuuPQsAS8P0wWieXQl
+          is_local: false
+          is_playable: true
+          name: Marijuana
+          track_number: 14
+          type: track
+          uri: spotify:track:1Y2UpuuPQsAS8P0wWieXQl
+    isrc: US39N0703084

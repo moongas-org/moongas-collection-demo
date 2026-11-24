@@ -87,3 +87,72 @@ mediaFileData:
   year: 1965
   duration: 148.87184375
   modTime: 2025-03-20 00:48:37.626140+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4gQKAsWNtTPatFlcmz9ds1
+    trackId: 4gQKAsWNtTPatFlcmz9ds1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM4221500067&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I
+              href: https://api.spotify.com/v1/artists/09L3cUdx0hq6qn5bKuJJ4I
+              id: 09L3cUdx0hq6qn5bKuJJ4I
+              name: Herb Alpert & The Tijuana Brass
+              type: artist
+              uri: spotify:artist:09L3cUdx0hq6qn5bKuJJ4I
+            external_urls:
+              spotify: https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP
+            href: https://api.spotify.com/v1/albums/7DxaerKtPdBxBZLwlgGcqP
+            id: 7DxaerKtPdBxBZLwlgGcqP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730a313a5fb83a11c119819ef3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020a313a5fb83a11c119819ef3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510a313a5fb83a11c119819ef3
+            is_playable: true
+            name: Whipped Cream & Other Delights
+            release_date: '1965-04-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:7DxaerKtPdBxBZLwlgGcqP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I
+            href: https://api.spotify.com/v1/artists/09L3cUdx0hq6qn5bKuJJ4I
+            id: 09L3cUdx0hq6qn5bKuJJ4I
+            name: Herb Alpert & The Tijuana Brass
+            type: artist
+            uri: spotify:artist:09L3cUdx0hq6qn5bKuJJ4I
+          disc_number: 1
+          duration_ms: 148813
+          explicit: false
+          external_ids:
+            isrc: QM4221500067
+          external_urls:
+            spotify: https://open.spotify.com/track/4gQKAsWNtTPatFlcmz9ds1
+          href: https://api.spotify.com/v1/tracks/4gQKAsWNtTPatFlcmz9ds1
+          id: 4gQKAsWNtTPatFlcmz9ds1
+          is_local: false
+          is_playable: true
+          name: Lollipops And Roses
+          track_number: 12
+          type: track
+          uri: spotify:track:4gQKAsWNtTPatFlcmz9ds1
+    isrc: QM4221500067

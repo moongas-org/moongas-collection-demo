@@ -56,3 +56,126 @@ mediaFileData:
   year: 1992
   duration: 221.448
   modTime: 2025-04-05 17:58:11.123428+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/064wRZsHDLuoCJYw65gh7N
+    trackId: 064wRZsHDLuoCJYw65gh7N
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBBM9202008&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx
+              href: https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx
+              id: 47zz7sob9NUcODy0BTDvKx
+              name: Sade
+              type: artist
+              uri: spotify:artist:47zz7sob9NUcODy0BTDvKx
+            external_urls:
+              spotify: https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK
+            href: https://api.spotify.com/v1/albums/3uSWaQxJAdm5MWKQkQJNoK
+            id: 3uSWaQxJAdm5MWKQkQJNoK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025e25e034e25258b356774c79
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515e25e034e25258b356774c79
+            is_playable: true
+            name: The Best of Sade
+            release_date: '1994-10-31'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:3uSWaQxJAdm5MWKQkQJNoK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx
+            href: https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx
+            id: 47zz7sob9NUcODy0BTDvKx
+            name: Sade
+            type: artist
+            uri: spotify:artist:47zz7sob9NUcODy0BTDvKx
+          disc_number: 1
+          duration_ms: 218426
+          explicit: false
+          external_ids:
+            isrc: GBBBM9202008
+          external_urls:
+            spotify: https://open.spotify.com/track/064wRZsHDLuoCJYw65gh7N
+          href: https://api.spotify.com/v1/tracks/064wRZsHDLuoCJYw65gh7N
+          id: 064wRZsHDLuoCJYw65gh7N
+          is_local: false
+          is_playable: true
+          name: Like a Tattoo
+          track_number: 12
+          type: track
+          uri: spotify:track:064wRZsHDLuoCJYw65gh7N
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx
+              href: https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx
+              id: 47zz7sob9NUcODy0BTDvKx
+              name: Sade
+              type: artist
+              uri: spotify:artist:47zz7sob9NUcODy0BTDvKx
+            external_urls:
+              spotify: https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG
+            href: https://api.spotify.com/v1/albums/2PfGKHtqEX58bHtkQxJnWG
+            id: 2PfGKHtqEX58bHtkQxJnWG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ee65bbd54f993b5f01d5c511
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ee65bbd54f993b5f01d5c511
+            is_playable: true
+            name: Love Deluxe
+            release_date: '1992-10-26'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:2PfGKHtqEX58bHtkQxJnWG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx
+            href: https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx
+            id: 47zz7sob9NUcODy0BTDvKx
+            name: Sade
+            type: artist
+            uri: spotify:artist:47zz7sob9NUcODy0BTDvKx
+          disc_number: 1
+          duration_ms: 218000
+          explicit: false
+          external_ids:
+            isrc: GBBBM9202008
+          external_urls:
+            spotify: https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg
+          href: https://api.spotify.com/v1/tracks/4PEGwWH4tL6H7dGl4uVSPg
+          id: 4PEGwWH4tL6H7dGl4uVSPg
+          is_local: false
+          is_playable: true
+          name: Like a Tattoo
+          track_number: 4
+          type: track
+          uri: spotify:track:4PEGwWH4tL6H7dGl4uVSPg
+    isrc: GBBBM9202008

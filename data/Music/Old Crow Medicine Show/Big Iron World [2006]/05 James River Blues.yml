@@ -34,3 +34,126 @@ mediaFileData:
   year: 2006
   duration: 186.77553125
   modTime: 2023-07-17 00:33:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2DgsBD4X7DS0L9Io9MY0rQ
+    trackId: 2DgsBD4X7DS0L9Io9MY0rQ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ACAN110600998&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi
+              href: https://api.spotify.com/v1/artists/4DBi4EYXgiqbkxvWUXUzMi
+              id: 4DBi4EYXgiqbkxvWUXUzMi
+              name: Old Crow Medicine Show
+              type: artist
+              uri: spotify:artist:4DBi4EYXgiqbkxvWUXUzMi
+            external_urls:
+              spotify: https://open.spotify.com/album/5yos3wDqXWGY3kIeY7gjRy
+            href: https://api.spotify.com/v1/albums/5yos3wDqXWGY3kIeY7gjRy
+            id: 5yos3wDqXWGY3kIeY7gjRy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273277c2914f50489a6897371c3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02277c2914f50489a6897371c3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851277c2914f50489a6897371c3
+            is_playable: true
+            name: Down Home Girl
+            release_date: '2006-05-22'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:5yos3wDqXWGY3kIeY7gjRy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi
+            href: https://api.spotify.com/v1/artists/4DBi4EYXgiqbkxvWUXUzMi
+            id: 4DBi4EYXgiqbkxvWUXUzMi
+            name: Old Crow Medicine Show
+            type: artist
+            uri: spotify:artist:4DBi4EYXgiqbkxvWUXUzMi
+          disc_number: 1
+          duration_ms: 186720
+          explicit: false
+          external_ids:
+            isrc: CAN110600998
+          external_urls:
+            spotify: https://open.spotify.com/track/2DgsBD4X7DS0L9Io9MY0rQ
+          href: https://api.spotify.com/v1/tracks/2DgsBD4X7DS0L9Io9MY0rQ
+          id: 2DgsBD4X7DS0L9Io9MY0rQ
+          is_local: false
+          is_playable: true
+          name: James River Blues
+          track_number: 2
+          type: track
+          uri: spotify:track:2DgsBD4X7DS0L9Io9MY0rQ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi
+              href: https://api.spotify.com/v1/artists/4DBi4EYXgiqbkxvWUXUzMi
+              id: 4DBi4EYXgiqbkxvWUXUzMi
+              name: Old Crow Medicine Show
+              type: artist
+              uri: spotify:artist:4DBi4EYXgiqbkxvWUXUzMi
+            external_urls:
+              spotify: https://open.spotify.com/album/5D4Wp73147rjz8UZ3acHRk
+            href: https://api.spotify.com/v1/albums/5D4Wp73147rjz8UZ3acHRk
+            id: 5D4Wp73147rjz8UZ3acHRk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27339484614dc65abb92fb4c869
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0239484614dc65abb92fb4c869
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485139484614dc65abb92fb4c869
+            is_playable: true
+            name: Big Iron World
+            release_date: '2006-08-29'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5D4Wp73147rjz8UZ3acHRk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi
+            href: https://api.spotify.com/v1/artists/4DBi4EYXgiqbkxvWUXUzMi
+            id: 4DBi4EYXgiqbkxvWUXUzMi
+            name: Old Crow Medicine Show
+            type: artist
+            uri: spotify:artist:4DBi4EYXgiqbkxvWUXUzMi
+          disc_number: 1
+          duration_ms: 186720
+          explicit: false
+          external_ids:
+            isrc: CAN110600998
+          external_urls:
+            spotify: https://open.spotify.com/track/6Y4ZKPjfuNvVi5OCtyIz73
+          href: https://api.spotify.com/v1/tracks/6Y4ZKPjfuNvVi5OCtyIz73
+          id: 6Y4ZKPjfuNvVi5OCtyIz73
+          is_local: false
+          is_playable: true
+          name: James River Blues
+          track_number: 5
+          type: track
+          uri: spotify:track:6Y4ZKPjfuNvVi5OCtyIz73
+    isrc: CAN110600998

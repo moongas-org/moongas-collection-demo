@@ -55,3 +55,288 @@ mediaFileData:
   year: 1978
   duration: 130.104
   modTime: 2025-01-31 01:01:41.966267+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9
+    trackId: 165NAtd2DRPKNQ6EVY0VG9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCH39800019&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSCH39800019&type=track
+        offset: 0
+        previous:
+        total: 11
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+              href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+              id: 4tpUmLEVLCGFr93o8hFFIB
+              name: Blondie
+              type: artist
+              uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+            external_urls:
+              spotify: https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b
+            href: https://api.spotify.com/v1/albums/0zkNOW8F8hcsEwIhulD67b
+            id: 0zkNOW8F8hcsEwIhulD67b
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732c240cf9bee7ac86cc272c92
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022c240cf9bee7ac86cc272c92
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512c240cf9bee7ac86cc272c92
+            is_playable: true
+            name: Tide Is High
+            release_date: '1980-10-01'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:0zkNOW8F8hcsEwIhulD67b
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+            href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+            id: 4tpUmLEVLCGFr93o8hFFIB
+            name: Blondie
+            type: artist
+            uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+          disc_number: 1
+          duration_ms: 233893
+          explicit: false
+          external_ids:
+            isrc: USCH39800019
+          external_urls:
+            spotify: https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9
+          href: https://api.spotify.com/v1/tracks/165NAtd2DRPKNQ6EVY0VG9
+          id: 165NAtd2DRPKNQ6EVY0VG9
+          is_local: false
+          is_playable: true
+          name: The Tide Is High - Edit
+          track_number: 1
+          type: track
+          uri: spotify:track:165NAtd2DRPKNQ6EVY0VG9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+              href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+              id: 4tpUmLEVLCGFr93o8hFFIB
+              name: Blondie
+              type: artist
+              uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+            external_urls:
+              spotify: https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW
+            href: https://api.spotify.com/v1/albums/25eZFwT2UvVK1kxC3wMoSW
+            id: 25eZFwT2UvVK1kxC3wMoSW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734a91996f05bcfcdbc2c88e0e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024a91996f05bcfcdbc2c88e0e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514a91996f05bcfcdbc2c88e0e
+            is_playable: true
+            name: 'Greatest Hits: Blondie'
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:25eZFwT2UvVK1kxC3wMoSW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+            href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+            id: 4tpUmLEVLCGFr93o8hFFIB
+            name: Blondie
+            type: artist
+            uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+          disc_number: 1
+          duration_ms: 232800
+          explicit: false
+          external_ids:
+            isrc: USCH39800019
+          external_urls:
+            spotify: https://open.spotify.com/track/4Wljbzc4Zg0Vxv4QAM3tYB
+          href: https://api.spotify.com/v1/tracks/4Wljbzc4Zg0Vxv4QAM3tYB
+          id: 4Wljbzc4Zg0Vxv4QAM3tYB
+          is_local: false
+          is_playable: true
+          name: The Tide Is High - Edit
+          track_number: 5
+          type: track
+          uri: spotify:track:4Wljbzc4Zg0Vxv4QAM3tYB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts
+            href: https://api.spotify.com/v1/albums/4Q95NiPxJUIr8sT7qRlZts
+            id: 4Q95NiPxJUIr8sT7qRlZts
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730050bcbbb218be2934cdb115
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020050bcbbb218be2934cdb115
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510050bcbbb218be2934cdb115
+            is_playable: true
+            name: Greatest Covers Ever
+            release_date: '2021-05-07'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:4Q95NiPxJUIr8sT7qRlZts
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+            href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+            id: 4tpUmLEVLCGFr93o8hFFIB
+            name: Blondie
+            type: artist
+            uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+          disc_number: 1
+          duration_ms: 232800
+          explicit: false
+          external_ids:
+            isrc: USCH39800019
+          external_urls:
+            spotify: https://open.spotify.com/track/5nkbjqDKAr7lr72ODttu2i
+          href: https://api.spotify.com/v1/tracks/5nkbjqDKAr7lr72ODttu2i
+          id: 5nkbjqDKAr7lr72ODttu2i
+          is_local: false
+          is_playable: true
+          name: The Tide Is High - Edit
+          track_number: 14
+          type: track
+          uri: spotify:track:5nkbjqDKAr7lr72ODttu2i
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/47KsZpubPUNipcC7cbywDA
+            href: https://api.spotify.com/v1/albums/47KsZpubPUNipcC7cbywDA
+            id: 47KsZpubPUNipcC7cbywDA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f278202dd64cc6fc68ac1a77
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f278202dd64cc6fc68ac1a77
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f278202dd64cc6fc68ac1a77
+            is_playable: true
+            name: Classic Covers
+            release_date: '2019-12-13'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:47KsZpubPUNipcC7cbywDA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+            href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+            id: 4tpUmLEVLCGFr93o8hFFIB
+            name: Blondie
+            type: artist
+            uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+          disc_number: 1
+          duration_ms: 284000
+          explicit: false
+          external_ids:
+            isrc: USCH39800019
+          external_urls:
+            spotify: https://open.spotify.com/track/3V3TxwGbeV9LtJVT7FqkYL
+          href: https://api.spotify.com/v1/tracks/3V3TxwGbeV9LtJVT7FqkYL
+          id: 3V3TxwGbeV9LtJVT7FqkYL
+          is_local: false
+          is_playable: true
+          name: The Tide Is High - Edit
+          track_number: 2
+          type: track
+          uri: spotify:track:3V3TxwGbeV9LtJVT7FqkYL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25FSgctnt9qMBbeprq8tAA
+              href: https://api.spotify.com/v1/artists/25FSgctnt9qMBbeprq8tAA
+              id: 25FSgctnt9qMBbeprq8tAA
+              name: ヴァリアス・アーティスト
+              type: artist
+              uri: spotify:artist:25FSgctnt9qMBbeprq8tAA
+            external_urls:
+              spotify: https://open.spotify.com/album/6A55dpYVU5DeKmoBPceCMo
+            href: https://api.spotify.com/v1/albums/6A55dpYVU5DeKmoBPceCMo
+            id: 6A55dpYVU5DeKmoBPceCMo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273284debbb3e56ee94d06d8aed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02284debbb3e56ee94d06d8aed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851284debbb3e56ee94d06d8aed
+            is_playable: true
+            name: ドライブが楽しくなる洋楽ヒッツ！80年代 HITS
+            release_date: '2026-04-17'
+            release_date_precision: day
+            total_tracks: 49
+            type: album
+            uri: spotify:album:6A55dpYVU5DeKmoBPceCMo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+            href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+            id: 4tpUmLEVLCGFr93o8hFFIB
+            name: Blondie
+            type: artist
+            uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+          disc_number: 1
+          duration_ms: 284000
+          explicit: false
+          external_ids:
+            isrc: USCH39800019
+          external_urls:
+            spotify: https://open.spotify.com/track/6bnRkxyN3Q4Le2ts0gIGuu
+          href: https://api.spotify.com/v1/tracks/6bnRkxyN3Q4Le2ts0gIGuu
+          id: 6bnRkxyN3Q4Le2ts0gIGuu
+          is_local: false
+          is_playable: true
+          name: The Tide Is High - Edit
+          track_number: 34
+          type: track
+          uri: spotify:track:6bnRkxyN3Q4Le2ts0gIGuu
+    isrc: USCH39800019

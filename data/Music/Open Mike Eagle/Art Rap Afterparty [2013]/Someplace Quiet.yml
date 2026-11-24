@@ -34,3 +34,72 @@ mediaFileData:
   year: 2013
   duration: 204.26666666666668
   modTime: 2023-08-08 18:39:58+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2wVEizjuCelTzvCRDuTrTZ
+    trackId: 2wVEizjuCelTzvCRDuTrTZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSJEJ1004903&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX
+              href: https://api.spotify.com/v1/artists/5CuU6SRJjbbZL926nSGGxX
+              id: 5CuU6SRJjbbZL926nSGGxX
+              name: Open Mike Eagle
+              type: artist
+              uri: spotify:artist:5CuU6SRJjbbZL926nSGGxX
+            external_urls:
+              spotify: https://open.spotify.com/album/7Mnf1DHqjqGdZSQxw8l1Vk
+            href: https://api.spotify.com/v1/albums/7Mnf1DHqjqGdZSQxw8l1Vk
+            id: 7Mnf1DHqjqGdZSQxw8l1Vk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7b797463b1975bdff917086
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7b797463b1975bdff917086
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7b797463b1975bdff917086
+            is_playable: true
+            name: Art Rap After Party
+            release_date: '2010-12-21'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:7Mnf1DHqjqGdZSQxw8l1Vk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX
+            href: https://api.spotify.com/v1/artists/5CuU6SRJjbbZL926nSGGxX
+            id: 5CuU6SRJjbbZL926nSGGxX
+            name: Open Mike Eagle
+            type: artist
+            uri: spotify:artist:5CuU6SRJjbbZL926nSGGxX
+          disc_number: 1
+          duration_ms: 204265
+          explicit: false
+          external_ids:
+            isrc: USJEJ1004903
+          external_urls:
+            spotify: https://open.spotify.com/track/2wVEizjuCelTzvCRDuTrTZ
+          href: https://api.spotify.com/v1/tracks/2wVEizjuCelTzvCRDuTrTZ
+          id: 2wVEizjuCelTzvCRDuTrTZ
+          is_local: false
+          is_playable: true
+          name: Someplace Quiet
+          track_number: 3
+          type: track
+          uri: spotify:track:2wVEizjuCelTzvCRDuTrTZ
+    isrc: USJEJ1004903

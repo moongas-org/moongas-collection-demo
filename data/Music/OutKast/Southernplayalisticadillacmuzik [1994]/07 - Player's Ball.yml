@@ -119,3 +119,288 @@ mediaFileData:
   year: 1994
   duration: 261.35510204081635
   modTime: 2024-03-05 01:37:52.752296+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE
+    trackId: 1RXEb6UTxJ05RffnAWfUOE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSLF29300117&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSLF29300117&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+              href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+              id: 1G9G7WwrXka3Z1r7aIDjI7
+              name: Outkast
+              type: artist
+              uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+            external_urls:
+              spotify: https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G
+            href: https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G
+            id: 3l5AwLKqQ42VJbc5lTuP8G
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64
+            is_playable: true
+            name: Southernplayalisticadillacmuzik
+            release_date: '1994-04-26'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:3l5AwLKqQ42VJbc5lTuP8G
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 261266
+          explicit: true
+          external_ids:
+            isrc: USLF29300117
+          external_urls:
+            spotify: https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE
+          href: https://api.spotify.com/v1/tracks/1RXEb6UTxJ05RffnAWfUOE
+          id: 1RXEb6UTxJ05RffnAWfUOE
+          is_local: false
+          is_playable: true
+          name: Player's Ball
+          track_number: 7
+          type: track
+          uri: spotify:track:1RXEb6UTxJ05RffnAWfUOE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+              href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+              id: 1G9G7WwrXka3Z1r7aIDjI7
+              name: Outkast
+              type: artist
+              uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+            external_urls:
+              spotify: https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It
+            href: https://api.spotify.com/v1/albums/5OJKj1KGQEM1pnHtuvY0It
+            id: 5OJKj1KGQEM1pnHtuvY0It
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273787b3136ceb1aff5e6baa737
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02787b3136ceb1aff5e6baa737
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851787b3136ceb1aff5e6baa737
+            is_playable: true
+            name: Big Boi & Dre Present...OutKast
+            release_date: '2001-10-04'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:5OJKj1KGQEM1pnHtuvY0It
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 263186
+          explicit: true
+          external_ids:
+            isrc: USLF29300117
+          external_urls:
+            spotify: https://open.spotify.com/track/2k4OgCBD10B1cMKjEBjUFH
+          href: https://api.spotify.com/v1/tracks/2k4OgCBD10B1cMKjEBjUFH
+          id: 2k4OgCBD10B1cMKjEBjUFH
+          is_local: false
+          is_playable: true
+          name: Player's Ball
+          track_number: 12
+          type: track
+          uri: spotify:track:2k4OgCBD10B1cMKjEBjUFH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4fzsNfn7gbyM2CiDF5vigi
+            href: https://api.spotify.com/v1/albums/4fzsNfn7gbyM2CiDF5vigi
+            id: 4fzsNfn7gbyM2CiDF5vigi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a1dd4714fca42824de9d7fc3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a1dd4714fca42824de9d7fc3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a1dd4714fca42824de9d7fc3
+            is_playable: true
+            name: A Laface Family Christmas
+            release_date: '1993-11-08'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4fzsNfn7gbyM2CiDF5vigi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 262400
+          explicit: true
+          external_ids:
+            isrc: USLF29300117
+          external_urls:
+            spotify: https://open.spotify.com/track/7LZDnTeLZK2OXnLsr8t8Tx
+          href: https://api.spotify.com/v1/tracks/7LZDnTeLZK2OXnLsr8t8Tx
+          id: 7LZDnTeLZK2OXnLsr8t8Tx
+          is_local: false
+          is_playable: true
+          name: Player's Ball
+          track_number: 4
+          type: track
+          uri: spotify:track:7LZDnTeLZK2OXnLsr8t8Tx
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4G1NuAf7qRUQLmcKNZUfff
+            href: https://api.spotify.com/v1/albums/4G1NuAf7qRUQLmcKNZUfff
+            id: 4G1NuAf7qRUQLmcKNZUfff
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a682e8a683e37c4832e444ca
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a682e8a683e37c4832e444ca
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a682e8a683e37c4832e444ca
+            is_playable: true
+            name: Gaming Radio Hits
+            release_date: '2026-11-19'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:4G1NuAf7qRUQLmcKNZUfff
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 264320
+          explicit: true
+          external_ids:
+            isrc: USLF29300117
+          external_urls:
+            spotify: https://open.spotify.com/track/2fesYsxtUWhKX0dh1DfTNI
+          href: https://api.spotify.com/v1/tracks/2fesYsxtUWhKX0dh1DfTNI
+          id: 2fesYsxtUWhKX0dh1DfTNI
+          is_local: false
+          is_playable: true
+          name: Player's Ball
+          track_number: 35
+          type: track
+          uri: spotify:track:2fesYsxtUWhKX0dh1DfTNI
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4smcApcad0BZ0188l7DOWw
+            href: https://api.spotify.com/v1/albums/4smcApcad0BZ0188l7DOWw
+            id: 4smcApcad0BZ0188l7DOWw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a0d48f37e394475f34b073c6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a0d48f37e394475f34b073c6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a0d48f37e394475f34b073c6
+            is_playable: true
+            name: Grand Theft Radio
+            release_date: '2026-11-19'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:4smcApcad0BZ0188l7DOWw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+            href: https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7
+            id: 1G9G7WwrXka3Z1r7aIDjI7
+            name: Outkast
+            type: artist
+            uri: spotify:artist:1G9G7WwrXka3Z1r7aIDjI7
+          disc_number: 1
+          duration_ms: 264320
+          explicit: true
+          external_ids:
+            isrc: USLF29300117
+          external_urls:
+            spotify: https://open.spotify.com/track/5u3hN5uaIwkMXfthMWuwVB
+          href: https://api.spotify.com/v1/tracks/5u3hN5uaIwkMXfthMWuwVB
+          id: 5u3hN5uaIwkMXfthMWuwVB
+          is_local: false
+          is_playable: true
+          name: Player's Ball
+          track_number: 28
+          type: track
+          uri: spotify:track:5u3hN5uaIwkMXfthMWuwVB
+    isrc: USLF29300117

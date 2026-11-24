@@ -38,3 +38,126 @@ mediaFileData:
   year: 1995
   duration: 215.59727891156462
   modTime: 2023-05-01 01:07:07.640000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2Po83ClXlCvDbILOKpFVck
+    trackId: 2Po83ClXlCvDbILOKpFVck
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMV20000055&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH
+              href: https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH
+              id: 6Ghvu1VvMGScGpOUJBAHNH
+              name: Deftones
+              type: artist
+              uri: spotify:artist:6Ghvu1VvMGScGpOUJBAHNH
+            external_urls:
+              spotify: https://open.spotify.com/album/75YWnu6p1XBiKVKBjfsUq8
+            href: https://api.spotify.com/v1/albums/75YWnu6p1XBiKVKBjfsUq8
+            id: 75YWnu6p1XBiKVKBjfsUq8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0273efcc27c1611c2ca389c8fd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485173efcc27c1611c2ca389c8fd
+            is_playable: true
+            name: The Studio Album Collection
+            release_date: '2016-04-07'
+            release_date_precision: day
+            total_tracks: 78
+            type: album
+            uri: spotify:album:75YWnu6p1XBiKVKBjfsUq8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH
+            href: https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH
+            id: 6Ghvu1VvMGScGpOUJBAHNH
+            name: Deftones
+            type: artist
+            uri: spotify:artist:6Ghvu1VvMGScGpOUJBAHNH
+          disc_number: 1
+          duration_ms: 215280
+          explicit: false
+          external_ids:
+            isrc: USMV20000055
+          external_urls:
+            spotify: https://open.spotify.com/track/2Po83ClXlCvDbILOKpFVck
+          href: https://api.spotify.com/v1/tracks/2Po83ClXlCvDbILOKpFVck
+          id: 2Po83ClXlCvDbILOKpFVck
+          is_local: false
+          is_playable: true
+          name: Fist
+          track_number: 11
+          type: track
+          uri: spotify:track:2Po83ClXlCvDbILOKpFVck
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH
+              href: https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH
+              id: 6Ghvu1VvMGScGpOUJBAHNH
+              name: Deftones
+              type: artist
+              uri: spotify:artist:6Ghvu1VvMGScGpOUJBAHNH
+            external_urls:
+              spotify: https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG
+            href: https://api.spotify.com/v1/albums/30YN03R4Bjl8Qwz8wPRoXG
+            id: 30YN03R4Bjl8Qwz8wPRoXG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e0aa988082afc4ea586ab8dc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e0aa988082afc4ea586ab8dc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e0aa988082afc4ea586ab8dc
+            is_playable: true
+            name: Adrenaline
+            release_date: '1995'
+            release_date_precision: year
+            total_tracks: 11
+            type: album
+            uri: spotify:album:30YN03R4Bjl8Qwz8wPRoXG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH
+            href: https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH
+            id: 6Ghvu1VvMGScGpOUJBAHNH
+            name: Deftones
+            type: artist
+            uri: spotify:artist:6Ghvu1VvMGScGpOUJBAHNH
+          disc_number: 1
+          duration_ms: 215280
+          explicit: false
+          external_ids:
+            isrc: USMV20000055
+          external_urls:
+            spotify: https://open.spotify.com/track/1Oii7zshrI6ihftpguVoj8
+          href: https://api.spotify.com/v1/tracks/1Oii7zshrI6ihftpguVoj8
+          id: 1Oii7zshrI6ihftpguVoj8
+          is_local: false
+          is_playable: true
+          name: Fist
+          track_number: 11
+          type: track
+          uri: spotify:track:1Oii7zshrI6ihftpguVoj8
+    isrc: USMV20000055

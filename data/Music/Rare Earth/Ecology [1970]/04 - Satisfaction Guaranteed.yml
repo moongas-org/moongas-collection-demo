@@ -34,3 +34,180 @@ mediaFileData:
   year: 1970
   duration: 273.912
   modTime: 2024-02-16 01:31:58.015416+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2CdgQoR0nhRU8KuizGbDjg
+    trackId: 2CdgQoR0nhRU8KuizGbDjg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMO17000279&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF
+              href: https://api.spotify.com/v1/artists/6eEsIl4wosvhuWI0mfXxAF
+              id: 6eEsIl4wosvhuWI0mfXxAF
+              name: Rare Earth
+              type: artist
+              uri: spotify:artist:6eEsIl4wosvhuWI0mfXxAF
+            external_urls:
+              spotify: https://open.spotify.com/album/2mE465V1hxCpCeaBzzQf1O
+            href: https://api.spotify.com/v1/albums/2mE465V1hxCpCeaBzzQf1O
+            id: 2mE465V1hxCpCeaBzzQf1O
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737aef61cc9f2863e4bd2aec96
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027aef61cc9f2863e4bd2aec96
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517aef61cc9f2863e4bd2aec96
+            is_playable: true
+            name: Ecology
+            release_date: '1970-01-01'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:2mE465V1hxCpCeaBzzQf1O
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF
+            href: https://api.spotify.com/v1/artists/6eEsIl4wosvhuWI0mfXxAF
+            id: 6eEsIl4wosvhuWI0mfXxAF
+            name: Rare Earth
+            type: artist
+            uri: spotify:artist:6eEsIl4wosvhuWI0mfXxAF
+          disc_number: 1
+          duration_ms: 273653
+          explicit: false
+          external_ids:
+            isrc: USMO17000279
+          external_urls:
+            spotify: https://open.spotify.com/track/2CdgQoR0nhRU8KuizGbDjg
+          href: https://api.spotify.com/v1/tracks/2CdgQoR0nhRU8KuizGbDjg
+          id: 2CdgQoR0nhRU8KuizGbDjg
+          is_local: false
+          is_playable: true
+          name: Satisfaction Guaranteed
+          track_number: 4
+          type: track
+          uri: spotify:track:2CdgQoR0nhRU8KuizGbDjg
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF
+              href: https://api.spotify.com/v1/artists/6eEsIl4wosvhuWI0mfXxAF
+              id: 6eEsIl4wosvhuWI0mfXxAF
+              name: Rare Earth
+              type: artist
+              uri: spotify:artist:6eEsIl4wosvhuWI0mfXxAF
+            external_urls:
+              spotify: https://open.spotify.com/album/4hQkBc4Nq3fOYpie0WhK2s
+            href: https://api.spotify.com/v1/albums/4hQkBc4Nq3fOYpie0WhK2s
+            id: 4hQkBc4Nq3fOYpie0WhK2s
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27326dc46a22c69c108a9f18c4b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0226dc46a22c69c108a9f18c4b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485126dc46a22c69c108a9f18c4b
+            is_playable: true
+            name: 'Fill Your Head: The Studio Albums 1969-1974'
+            release_date: '2005-01-07'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:4hQkBc4Nq3fOYpie0WhK2s
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF
+            href: https://api.spotify.com/v1/artists/6eEsIl4wosvhuWI0mfXxAF
+            id: 6eEsIl4wosvhuWI0mfXxAF
+            name: Rare Earth
+            type: artist
+            uri: spotify:artist:6eEsIl4wosvhuWI0mfXxAF
+          disc_number: 2
+          duration_ms: 273480
+          explicit: false
+          external_ids:
+            isrc: USMO17000279
+          external_urls:
+            spotify: https://open.spotify.com/track/6tx4w1EQ4fML6nGpcqABPB
+          href: https://api.spotify.com/v1/tracks/6tx4w1EQ4fML6nGpcqABPB
+          id: 6tx4w1EQ4fML6nGpcqABPB
+          is_local: false
+          is_playable: true
+          name: Satisfaction Guaranteed
+          track_number: 4
+          type: track
+          uri: spotify:track:6tx4w1EQ4fML6nGpcqABPB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF
+              href: https://api.spotify.com/v1/artists/6eEsIl4wosvhuWI0mfXxAF
+              id: 6eEsIl4wosvhuWI0mfXxAF
+              name: Rare Earth
+              type: artist
+              uri: spotify:artist:6eEsIl4wosvhuWI0mfXxAF
+            external_urls:
+              spotify: https://open.spotify.com/album/2NLFgrajUzDL84yiwG2GFZ
+            href: https://api.spotify.com/v1/albums/2NLFgrajUzDL84yiwG2GFZ
+            id: 2NLFgrajUzDL84yiwG2GFZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fbcb3b7a16812be35f9e9902
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fbcb3b7a16812be35f9e9902
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fbcb3b7a16812be35f9e9902
+            is_playable: true
+            name: 'Earth Tones: The Essential Rare Earth'
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:2NLFgrajUzDL84yiwG2GFZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF
+            href: https://api.spotify.com/v1/artists/6eEsIl4wosvhuWI0mfXxAF
+            id: 6eEsIl4wosvhuWI0mfXxAF
+            name: Rare Earth
+            type: artist
+            uri: spotify:artist:6eEsIl4wosvhuWI0mfXxAF
+          disc_number: 1
+          duration_ms: 277506
+          explicit: false
+          external_ids:
+            isrc: USMO17000279
+          external_urls:
+            spotify: https://open.spotify.com/track/6xHFryeguFRynK3zxCS6fv
+          href: https://api.spotify.com/v1/tracks/6xHFryeguFRynK3zxCS6fv
+          id: 6xHFryeguFRynK3zxCS6fv
+          is_local: false
+          is_playable: true
+          name: Satisfaction Guaranteed
+          track_number: 4
+          type: track
+          uri: spotify:track:6xHFryeguFRynK3zxCS6fv
+    isrc: USMO17000279

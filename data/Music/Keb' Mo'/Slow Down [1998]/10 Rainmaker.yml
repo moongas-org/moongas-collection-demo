@@ -34,3 +34,72 @@ mediaFileData:
   year: 1998
   duration: 254.955125
   modTime: 2023-07-17 00:05:32+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7moXCtDybke4s11VGVHSnh
+    trackId: 7moXCtDybke4s11VGVHSnh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19801164&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F
+              href: https://api.spotify.com/v1/artists/6iDaoPZVgxrTkndDCisX8F
+              id: 6iDaoPZVgxrTkndDCisX8F
+              name: Keb' Mo'
+              type: artist
+              uri: spotify:artist:6iDaoPZVgxrTkndDCisX8F
+            external_urls:
+              spotify: https://open.spotify.com/album/1yJvSzjbvZLTwjZyS01113
+            href: https://api.spotify.com/v1/albums/1yJvSzjbvZLTwjZyS01113
+            id: 1yJvSzjbvZLTwjZyS01113
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aff39a0e68b98fa96109fbb7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aff39a0e68b98fa96109fbb7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aff39a0e68b98fa96109fbb7
+            is_playable: true
+            name: Slow Down
+            release_date: '1998-08-17'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:1yJvSzjbvZLTwjZyS01113
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F
+            href: https://api.spotify.com/v1/artists/6iDaoPZVgxrTkndDCisX8F
+            id: 6iDaoPZVgxrTkndDCisX8F
+            name: Keb' Mo'
+            type: artist
+            uri: spotify:artist:6iDaoPZVgxrTkndDCisX8F
+          disc_number: 1
+          duration_ms: 254826
+          explicit: false
+          external_ids:
+            isrc: USSM19801164
+          external_urls:
+            spotify: https://open.spotify.com/track/7moXCtDybke4s11VGVHSnh
+          href: https://api.spotify.com/v1/tracks/7moXCtDybke4s11VGVHSnh
+          id: 7moXCtDybke4s11VGVHSnh
+          is_local: false
+          is_playable: true
+          name: Rainmaker
+          track_number: 10
+          type: track
+          uri: spotify:track:7moXCtDybke4s11VGVHSnh
+    isrc: USSM19801164

@@ -42,3 +42,126 @@ mediaFileData:
   year: 1989
   duration: 190.24979591836734
   modTime: 2026-02-01 21:26:53.886240+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3I0EsQKLuphJCAuySDME5R
+    trackId: 3I0EsQKLuphJCAuySDME5R
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAZP8900036&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+              href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+              id: 6WoTvA9qinpHtSRJuldYh6
+              name: The Fall
+              type: artist
+              uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+            external_urls:
+              spotify: https://open.spotify.com/album/57IvLgd452nhKUFZZD9gjp
+            href: https://api.spotify.com/v1/albums/57IvLgd452nhKUFZZD9gjp
+            id: 57IvLgd452nhKUFZZD9gjp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27334a412c61497c9f576783ba5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0234a412c61497c9f576783ba5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485134a412c61497c9f576783ba5
+            is_playable: true
+            name: Cab It Up
+            release_date: '1989-06-12'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:57IvLgd452nhKUFZZD9gjp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+            href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+            id: 6WoTvA9qinpHtSRJuldYh6
+            name: The Fall
+            type: artist
+            uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+          disc_number: 1
+          duration_ms: 190160
+          explicit: false
+          external_ids:
+            isrc: GBAZP8900036
+          external_urls:
+            spotify: https://open.spotify.com/track/3I0EsQKLuphJCAuySDME5R
+          href: https://api.spotify.com/v1/tracks/3I0EsQKLuphJCAuySDME5R
+          id: 3I0EsQKLuphJCAuySDME5R
+          is_local: false
+          is_playable: true
+          name: Hit the North - Live in Edinburgh, August '88
+          track_number: 4
+          type: track
+          uri: spotify:track:3I0EsQKLuphJCAuySDME5R
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+              href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+              id: 6WoTvA9qinpHtSRJuldYh6
+              name: The Fall
+              type: artist
+              uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+            external_urls:
+              spotify: https://open.spotify.com/album/26ScLv7U0l4iOTmVPnRPSG
+            href: https://api.spotify.com/v1/albums/26ScLv7U0l4iOTmVPnRPSG
+            id: 26ScLv7U0l4iOTmVPnRPSG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273547e1428b0ecbaa9486644ef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02547e1428b0ecbaa9486644ef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851547e1428b0ecbaa9486644ef
+            is_playable: true
+            name: '45 84 89 : B Sides'
+            release_date: '1990-12-10'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:26ScLv7U0l4iOTmVPnRPSG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+            href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+            id: 6WoTvA9qinpHtSRJuldYh6
+            name: The Fall
+            type: artist
+            uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+          disc_number: 2
+          duration_ms: 190160
+          explicit: false
+          external_ids:
+            isrc: GBAZP8900036
+          external_urls:
+            spotify: https://open.spotify.com/track/3QDG16ijyEFyT7BBWue0pR
+          href: https://api.spotify.com/v1/tracks/3QDG16ijyEFyT7BBWue0pR
+          id: 3QDG16ijyEFyT7BBWue0pR
+          is_local: false
+          is_playable: true
+          name: Hit the North - Live in Edinburgh, August '88
+          track_number: 17
+          type: track
+          uri: spotify:track:3QDG16ijyEFyT7BBWue0pR
+    isrc: GBAZP8900036

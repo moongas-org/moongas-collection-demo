@@ -167,3 +167,126 @@ mediaFileData:
   year: 1997
   duration: 200.232
   modTime: 2025-07-19 15:36:05.158113+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1BMpV3Ij1NOXAZRzF1Ezxl
+    trackId: 1BMpV3Ij1NOXAZRzF1Ezxl
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMR19889022&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/43npIuNdhgSEoW0jcntaDG
+            href: https://api.spotify.com/v1/albums/43npIuNdhgSEoW0jcntaDG
+            id: 43npIuNdhgSEoW0jcntaDG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dfe1380a0d0d6cbc97c280a2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dfe1380a0d0d6cbc97c280a2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dfe1380a0d0d6cbc97c280a2
+            is_playable: true
+            name: Happy Valentine's Day 2023
+            release_date: '2023-01-17'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:43npIuNdhgSEoW0jcntaDG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL
+            href: https://api.spotify.com/v1/artists/5e4Dhzv426EvQe3aDb64jL
+            id: 5e4Dhzv426EvQe3aDb64jL
+            name: Shania Twain
+            type: artist
+            uri: spotify:artist:5e4Dhzv426EvQe3aDb64jL
+          disc_number: 1
+          duration_ms: 194973
+          explicit: false
+          external_ids:
+            isrc: USMR19889022
+          external_urls:
+            spotify: https://open.spotify.com/track/1BMpV3Ij1NOXAZRzF1Ezxl
+          href: https://api.spotify.com/v1/tracks/1BMpV3Ij1NOXAZRzF1Ezxl
+          id: 1BMpV3Ij1NOXAZRzF1Ezxl
+          is_local: false
+          is_playable: true
+          name: You're Still The One
+          track_number: 2
+          type: track
+          uri: spotify:track:1BMpV3Ij1NOXAZRzF1Ezxl
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5WLOHXBqdjDjcvVA9cXxgV
+            href: https://api.spotify.com/v1/albums/5WLOHXBqdjDjcvVA9cXxgV
+            id: 5WLOHXBqdjDjcvVA9cXxgV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c721cf305f2effda318127f9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c721cf305f2effda318127f9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c721cf305f2effda318127f9
+            is_playable: true
+            name: Will You Be My Country Valentine
+            release_date: '2021-02-06'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:5WLOHXBqdjDjcvVA9cXxgV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL
+            href: https://api.spotify.com/v1/artists/5e4Dhzv426EvQe3aDb64jL
+            id: 5e4Dhzv426EvQe3aDb64jL
+            name: Shania Twain
+            type: artist
+            uri: spotify:artist:5e4Dhzv426EvQe3aDb64jL
+          disc_number: 1
+          duration_ms: 194973
+          explicit: false
+          external_ids:
+            isrc: USMR19889022
+          external_urls:
+            spotify: https://open.spotify.com/track/2INWvbSQvFzuh50fStA6Y7
+          href: https://api.spotify.com/v1/tracks/2INWvbSQvFzuh50fStA6Y7
+          id: 2INWvbSQvFzuh50fStA6Y7
+          is_local: false
+          is_playable: true
+          name: You're Still The One
+          track_number: 4
+          type: track
+          uri: spotify:track:2INWvbSQvFzuh50fStA6Y7
+    isrc: USMR19889022

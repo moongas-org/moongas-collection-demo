@@ -34,3 +34,72 @@ mediaFileData:
   year: 1940
   duration: 631.8666666666667
   modTime: 2022-06-08 16:57:20.470000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3SP7Dq3YgVOt8p48MJvCkI
+    trackId: 3SP7Dq3YgVOt8p48MJvCkI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRO28804210&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1
+              href: https://api.spotify.com/v1/artists/4rAgFKtlTr66ic18YZZyF1
+              id: 4rAgFKtlTr66ic18YZZyF1
+              name: Woody Guthrie
+              type: artist
+              uri: spotify:artist:4rAgFKtlTr66ic18YZZyF1
+            external_urls:
+              spotify: https://open.spotify.com/album/4iivcPAy7rSv4eY2PKOIfz
+            href: https://api.spotify.com/v1/albums/4iivcPAy7rSv4eY2PKOIfz
+            id: 4iivcPAy7rSv4eY2PKOIfz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735824ca94a2a9b1cb6eda0832
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025824ca94a2a9b1cb6eda0832
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515824ca94a2a9b1cb6eda0832
+            is_playable: true
+            name: Library Of Congress Recordings
+            release_date: '1988-01-01'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:4iivcPAy7rSv4eY2PKOIfz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1
+            href: https://api.spotify.com/v1/artists/4rAgFKtlTr66ic18YZZyF1
+            id: 4rAgFKtlTr66ic18YZZyF1
+            name: Woody Guthrie
+            type: artist
+            uri: spotify:artist:4rAgFKtlTr66ic18YZZyF1
+          disc_number: 2
+          duration_ms: 631866
+          explicit: false
+          external_ids:
+            isrc: USRO28804210
+          external_urls:
+            spotify: https://open.spotify.com/track/3SP7Dq3YgVOt8p48MJvCkI
+          href: https://api.spotify.com/v1/tracks/3SP7Dq3YgVOt8p48MJvCkI
+          id: 3SP7Dq3YgVOt8p48MJvCkI
+          is_local: false
+          is_playable: true
+          name: Walking Down That Railroad Line
+          track_number: 10
+          type: track
+          uri: spotify:track:3SP7Dq3YgVOt8p48MJvCkI
+    isrc: USRO28804210

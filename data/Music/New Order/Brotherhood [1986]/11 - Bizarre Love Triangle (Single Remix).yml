@@ -49,3 +49,288 @@ mediaFileData:
   year: 1986
   duration: 224.9142857142857
   modTime: 2026-08-16 15:20:38.517227+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2MLmsjPySK89NiEPYQTcTz
+    trackId: 2MLmsjPySK89NiEPYQTcTz
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAAP1500073&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBAAP1500073&type=track
+        offset: 0
+        previous:
+        total: 11
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5MMtjXdGTVjvZ2peTX4Bfv
+            href: https://api.spotify.com/v1/albums/5MMtjXdGTVjvZ2peTX4Bfv
+            id: 5MMtjXdGTVjvZ2peTX4Bfv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cec43f765df226d5b947640e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cec43f765df226d5b947640e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cec43f765df226d5b947640e
+            is_playable: true
+            name: Dance-A-Thon
+            release_date: '2020-02-28'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:5MMtjXdGTVjvZ2peTX4Bfv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+            href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+            id: 0yNLKJebCb8Aueb54LYya3
+            name: New Order
+            type: artist
+            uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+          disc_number: 1
+          duration_ms: 225173
+          explicit: false
+          external_ids:
+            isrc: GBAAP1500073
+          external_urls:
+            spotify: https://open.spotify.com/track/2MLmsjPySK89NiEPYQTcTz
+          href: https://api.spotify.com/v1/tracks/2MLmsjPySK89NiEPYQTcTz
+          id: 2MLmsjPySK89NiEPYQTcTz
+          is_local: false
+          is_playable: true
+          name: Bizarre Love Triangle - 7" Remix
+          track_number: 8
+          type: track
+          uri: spotify:track:2MLmsjPySK89NiEPYQTcTz
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+              href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+              id: 0yNLKJebCb8Aueb54LYya3
+              name: New Order
+              type: artist
+              uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+            external_urls:
+              spotify: https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6
+            href: https://api.spotify.com/v1/albums/2ODAEaYlqS88SU4ZZu1bI6
+            id: 2ODAEaYlqS88SU4ZZu1bI6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f142205e336ec0af3e1a4eb0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f142205e336ec0af3e1a4eb0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f142205e336ec0af3e1a4eb0
+            is_playable: true
+            name: Singles (2016 Remaster)
+            release_date: '2005-09-30'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:2ODAEaYlqS88SU4ZZu1bI6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+            href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+            id: 0yNLKJebCb8Aueb54LYya3
+            name: New Order
+            type: artist
+            uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+          disc_number: 1
+          duration_ms: 225173
+          explicit: false
+          external_ids:
+            isrc: GBAAP1500073
+          external_urls:
+            spotify: https://open.spotify.com/track/1lDzg2JUvcQSPgIfzMWmFe
+          href: https://api.spotify.com/v1/tracks/1lDzg2JUvcQSPgIfzMWmFe
+          id: 1lDzg2JUvcQSPgIfzMWmFe
+          is_local: false
+          is_playable: true
+          name: Bizarre Love Triangle - 7" Remix Edit; 2015 Remaster
+          track_number: 12
+          type: track
+          uri: spotify:track:1lDzg2JUvcQSPgIfzMWmFe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3AyfqhfEVF8hiqDFYsEPFc
+            href: https://api.spotify.com/v1/albums/3AyfqhfEVF8hiqDFYsEPFc
+            id: 3AyfqhfEVF8hiqDFYsEPFc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27342bbd87cda5d50d9b36aee50
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0242bbd87cda5d50d9b36aee50
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485142bbd87cda5d50d9b36aee50
+            is_playable: true
+            name: College Rock
+            release_date: '2023-08-16'
+            release_date_precision: day
+            total_tracks: 64
+            type: album
+            uri: spotify:album:3AyfqhfEVF8hiqDFYsEPFc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+            href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+            id: 0yNLKJebCb8Aueb54LYya3
+            name: New Order
+            type: artist
+            uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+          disc_number: 1
+          duration_ms: 225173
+          explicit: false
+          external_ids:
+            isrc: GBAAP1500073
+          external_urls:
+            spotify: https://open.spotify.com/track/33jyGhU1nw4rrSaSwBpuC1
+          href: https://api.spotify.com/v1/tracks/33jyGhU1nw4rrSaSwBpuC1
+          id: 33jyGhU1nw4rrSaSwBpuC1
+          is_local: false
+          is_playable: true
+          name: Bizarre Love Triangle - 7" Remix
+          track_number: 22
+          type: track
+          uri: spotify:track:33jyGhU1nw4rrSaSwBpuC1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6s21Bcx69m57eOmsZc6Atq
+            href: https://api.spotify.com/v1/albums/6s21Bcx69m57eOmsZc6Atq
+            id: 6s21Bcx69m57eOmsZc6Atq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e686e29149eaae2eb5f77d76
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e686e29149eaae2eb5f77d76
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e686e29149eaae2eb5f77d76
+            is_playable: true
+            name: timeless retro bops
+            release_date: '2026-04-05'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:6s21Bcx69m57eOmsZc6Atq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+            href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+            id: 0yNLKJebCb8Aueb54LYya3
+            name: New Order
+            type: artist
+            uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+          disc_number: 1
+          duration_ms: 225173
+          explicit: false
+          external_ids:
+            isrc: GBAAP1500073
+          external_urls:
+            spotify: https://open.spotify.com/track/1qbu9if6fI4QgxzimAdaEE
+          href: https://api.spotify.com/v1/tracks/1qbu9if6fI4QgxzimAdaEE
+          id: 1qbu9if6fI4QgxzimAdaEE
+          is_local: false
+          is_playable: true
+          name: Bizarre Love Triangle - 7" Remix
+          track_number: 23
+          type: track
+          uri: spotify:track:1qbu9if6fI4QgxzimAdaEE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5XHdHAy1y1Drs6OU8NVly8
+            href: https://api.spotify.com/v1/albums/5XHdHAy1y1Drs6OU8NVly8
+            id: 5XHdHAy1y1Drs6OU8NVly8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273903091882aca6868ae21ff6a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02903091882aca6868ae21ff6a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851903091882aca6868ae21ff6a
+            is_playable: true
+            name: Indie Dancefloor
+            release_date: '2024-01-19'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5XHdHAy1y1Drs6OU8NVly8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+            href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+            id: 0yNLKJebCb8Aueb54LYya3
+            name: New Order
+            type: artist
+            uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+          disc_number: 1
+          duration_ms: 225173
+          explicit: false
+          external_ids:
+            isrc: GBAAP1500073
+          external_urls:
+            spotify: https://open.spotify.com/track/6DdDhkhfhEfUdfEwIjXTle
+          href: https://api.spotify.com/v1/tracks/6DdDhkhfhEfUdfEwIjXTle
+          id: 6DdDhkhfhEfUdfEwIjXTle
+          is_local: false
+          is_playable: true
+          name: Bizarre Love Triangle - 7" Remix
+          track_number: 1
+          type: track
+          uri: spotify:track:6DdDhkhfhEfUdfEwIjXTle
+    isrc: GBAAP1500073

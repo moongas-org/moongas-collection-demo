@@ -45,3 +45,72 @@ mediaFileData:
   year: 2020
   duration: 131.352
   modTime: 2024-07-01 01:09:48.248156+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H
+    trackId: 68UU9oaQtMDnh6PRlW842H
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS23A1502010&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL
+              href: https://api.spotify.com/v1/artists/6lay1nwbE6hTx1jivysUAL
+              id: 6lay1nwbE6hTx1jivysUAL
+              name: Princess Nokia
+              type: artist
+              uri: spotify:artist:6lay1nwbE6hTx1jivysUAL
+            external_urls:
+              spotify: https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF
+            href: https://api.spotify.com/v1/albums/6JP1xbkFnacGAvrIWW5pzF
+            id: 6JP1xbkFnacGAvrIWW5pzF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f830902bc6e8ee64d4140ca3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f830902bc6e8ee64d4140ca3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f830902bc6e8ee64d4140ca3
+            is_playable: true
+            name: Everything Sucks
+            release_date: '2020-02-26'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6JP1xbkFnacGAvrIWW5pzF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL
+            href: https://api.spotify.com/v1/artists/6lay1nwbE6hTx1jivysUAL
+            id: 6lay1nwbE6hTx1jivysUAL
+            name: Princess Nokia
+            type: artist
+            uri: spotify:artist:6lay1nwbE6hTx1jivysUAL
+          disc_number: 1
+          duration_ms: 132453
+          explicit: true
+          external_ids:
+            isrc: US23A1502010
+          external_urls:
+            spotify: https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H
+          href: https://api.spotify.com/v1/tracks/68UU9oaQtMDnh6PRlW842H
+          id: 68UU9oaQtMDnh6PRlW842H
+          is_local: false
+          is_playable: true
+          name: I Like Him
+          track_number: 6
+          type: track
+          uri: spotify:track:68UU9oaQtMDnh6PRlW842H
+    isrc: US23A1502010

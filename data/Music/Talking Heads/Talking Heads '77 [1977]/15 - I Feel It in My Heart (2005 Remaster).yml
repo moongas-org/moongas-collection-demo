@@ -67,3 +67,126 @@ mediaFileData:
   year: 1977
   duration: 193.48897959183674
   modTime: 2023-04-23 15:38:38.250000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6045c6TON8gWDtxYNz7FGV
+    trackId: 6045c6TON8gWDtxYNz7FGV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10502513&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6OikRhQaLEFXHsLgpbw2JP
+            href: https://api.spotify.com/v1/albums/6OikRhQaLEFXHsLgpbw2JP
+            id: 6OikRhQaLEFXHsLgpbw2JP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731c892c76e5ae43a0068abe2e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021c892c76e5ae43a0068abe2e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511c892c76e5ae43a0068abe2e
+            is_playable: true
+            name: 70s Soft Rock 100 Classic Songs
+            release_date: '2024-08-21'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:6OikRhQaLEFXHsLgpbw2JP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 193453
+          explicit: false
+          external_ids:
+            isrc: USWB10502513
+          external_urls:
+            spotify: https://open.spotify.com/track/6045c6TON8gWDtxYNz7FGV
+          href: https://api.spotify.com/v1/tracks/6045c6TON8gWDtxYNz7FGV
+          id: 6045c6TON8gWDtxYNz7FGV
+          is_local: false
+          is_playable: true
+          name: I Feel It in My Heart
+          track_number: 65
+          type: track
+          uri: spotify:track:6045c6TON8gWDtxYNz7FGV
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1PxNzAfnZwKx1YbXIsdyL3
+            href: https://api.spotify.com/v1/albums/1PxNzAfnZwKx1YbXIsdyL3
+            id: 1PxNzAfnZwKx1YbXIsdyL3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f54a4e974d675e6e0acb544f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f54a4e974d675e6e0acb544f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f54a4e974d675e6e0acb544f
+            is_playable: true
+            name: Seventies Soft Rock
+            release_date: '2024-07-21'
+            release_date_precision: day
+            total_tracks: 75
+            type: album
+            uri: spotify:album:1PxNzAfnZwKx1YbXIsdyL3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 193453
+          explicit: false
+          external_ids:
+            isrc: USWB10502513
+          external_urls:
+            spotify: https://open.spotify.com/track/2zFPKgKvhdduB4BP2uF6zH
+          href: https://api.spotify.com/v1/tracks/2zFPKgKvhdduB4BP2uF6zH
+          id: 2zFPKgKvhdduB4BP2uF6zH
+          is_local: false
+          is_playable: true
+          name: I Feel It in My Heart - Remastered Album Version
+          track_number: 37
+          type: track
+          uri: spotify:track:2zFPKgKvhdduB4BP2uF6zH
+    isrc: USWB10502513

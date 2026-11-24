@@ -66,3 +66,126 @@ mediaFileData:
   year: 1990
   duration: 280.08
   modTime: 2025-06-09 16:03:10.550270+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7M5JbGs85W87AekrLt8eYn
+    trackId: 7M5JbGs85W87AekrLt8eYn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAR10301402&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H
+              href: https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H
+              id: 77tT1kLj6mCWtFNqiOmP9H
+              name: Daryl Hall & John Oates
+              type: artist
+              uri: spotify:artist:77tT1kLj6mCWtFNqiOmP9H
+            external_urls:
+              spotify: https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI
+            href: https://api.spotify.com/v1/albums/0gCDvloPR42pZRZhmbGYVI
+            id: 0gCDvloPR42pZRZhmbGYVI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e49b4b79f376c0bc6e0c079b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e49b4b79f376c0bc6e0c079b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e49b4b79f376c0bc6e0c079b
+            is_playable: true
+            name: The Essential Daryl Hall & John Oates
+            release_date: '2005-04-25'
+            release_date_precision: day
+            total_tracks: 37
+            type: album
+            uri: spotify:album:0gCDvloPR42pZRZhmbGYVI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H
+            href: https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H
+            id: 77tT1kLj6mCWtFNqiOmP9H
+            name: Daryl Hall & John Oates
+            type: artist
+            uri: spotify:artist:77tT1kLj6mCWtFNqiOmP9H
+          disc_number: 2
+          duration_ms: 280040
+          explicit: false
+          external_ids:
+            isrc: USAR10301402
+          external_urls:
+            spotify: https://open.spotify.com/track/7M5JbGs85W87AekrLt8eYn
+          href: https://api.spotify.com/v1/tracks/7M5JbGs85W87AekrLt8eYn
+          id: 7M5JbGs85W87AekrLt8eYn
+          is_local: false
+          is_playable: true
+          name: So Close
+          track_number: 13
+          type: track
+          uri: spotify:track:7M5JbGs85W87AekrLt8eYn
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H
+              href: https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H
+              id: 77tT1kLj6mCWtFNqiOmP9H
+              name: Daryl Hall & John Oates
+              type: artist
+              uri: spotify:artist:77tT1kLj6mCWtFNqiOmP9H
+            external_urls:
+              spotify: https://open.spotify.com/album/6kbDhcPqFi4WlAyYd4CHvQ
+            href: https://api.spotify.com/v1/albums/6kbDhcPqFi4WlAyYd4CHvQ
+            id: 6kbDhcPqFi4WlAyYd4CHvQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273df30efb8aaa253e3abd76593
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02df30efb8aaa253e3abd76593
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851df30efb8aaa253e3abd76593
+            is_playable: true
+            name: Ultimate Daryl Hall & John Oates
+            release_date: '2003-03-22'
+            release_date_precision: day
+            total_tracks: 37
+            type: album
+            uri: spotify:album:6kbDhcPqFi4WlAyYd4CHvQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H
+            href: https://api.spotify.com/v1/artists/77tT1kLj6mCWtFNqiOmP9H
+            id: 77tT1kLj6mCWtFNqiOmP9H
+            name: Daryl Hall & John Oates
+            type: artist
+            uri: spotify:artist:77tT1kLj6mCWtFNqiOmP9H
+          disc_number: 2
+          duration_ms: 280040
+          explicit: false
+          external_ids:
+            isrc: USAR10301402
+          external_urls:
+            spotify: https://open.spotify.com/track/4u6X5eAJSBy3HlPOX168Th
+          href: https://api.spotify.com/v1/tracks/4u6X5eAJSBy3HlPOX168Th
+          id: 4u6X5eAJSBy3HlPOX168Th
+          is_local: false
+          is_playable: true
+          name: So Close
+          track_number: 13
+          type: track
+          uri: spotify:track:4u6X5eAJSBy3HlPOX168Th
+    isrc: USAR10301402

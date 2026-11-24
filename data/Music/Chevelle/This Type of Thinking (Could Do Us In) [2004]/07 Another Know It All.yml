@@ -45,3 +45,72 @@ mediaFileData:
   year: 2004
   duration: 260.0865
   modTime: 2023-04-28 18:26:52.980000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1y2AbBO03UMLucF65eZl31
+    trackId: 1y2AbBO03UMLucF65eZl31
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10410128&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw
+              href: https://api.spotify.com/v1/artists/56dO9zeHKuU5Gvfc2kxHNw
+              id: 56dO9zeHKuU5Gvfc2kxHNw
+              name: Chevelle
+              type: artist
+              uri: spotify:artist:56dO9zeHKuU5Gvfc2kxHNw
+            external_urls:
+              spotify: https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB
+            href: https://api.spotify.com/v1/albums/3zuIMH8P0GKtV5LR6zwGLB
+            id: 3zuIMH8P0GKtV5LR6zwGLB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27307fbe8ce8e4a75f1c34ff87e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0207fbe8ce8e4a75f1c34ff87e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485107fbe8ce8e4a75f1c34ff87e
+            is_playable: true
+            name: This Type Of Thinking (Could Do Us In)
+            release_date: '2004-09-21'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:3zuIMH8P0GKtV5LR6zwGLB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw
+            href: https://api.spotify.com/v1/artists/56dO9zeHKuU5Gvfc2kxHNw
+            id: 56dO9zeHKuU5Gvfc2kxHNw
+            name: Chevelle
+            type: artist
+            uri: spotify:artist:56dO9zeHKuU5Gvfc2kxHNw
+          disc_number: 1
+          duration_ms: 258786
+          explicit: false
+          external_ids:
+            isrc: USSM10410128
+          external_urls:
+            spotify: https://open.spotify.com/track/1y2AbBO03UMLucF65eZl31
+          href: https://api.spotify.com/v1/tracks/1y2AbBO03UMLucF65eZl31
+          id: 1y2AbBO03UMLucF65eZl31
+          is_local: false
+          is_playable: true
+          name: Another Know It All
+          track_number: 7
+          type: track
+          uri: spotify:track:1y2AbBO03UMLucF65eZl31
+    isrc: USSM10410128

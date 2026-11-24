@@ -61,3 +61,180 @@ mediaFileData:
   year: 1995
   duration: 210.651375
   modTime: 2023-09-24 09:41:30+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4a8SeChPtrs6tBv3wNooZW
+    trackId: 4a8SeChPtrs6tBv3wNooZW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10181194&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/3WnjEBtJCOmR08RYhQGOc3
+            href: https://api.spotify.com/v1/albums/3WnjEBtJCOmR08RYhQGOc3
+            id: 3WnjEBtJCOmR08RYhQGOc3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739c8d768c9a6565b559e21eb6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029c8d768c9a6565b559e21eb6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519c8d768c9a6565b559e21eb6
+            is_playable: true
+            name: Green Machine
+            release_date: '2018-04-27'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:3WnjEBtJCOmR08RYhQGOc3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 210733
+          explicit: true
+          external_ids:
+            isrc: USEE10181194
+          external_urls:
+            spotify: https://open.spotify.com/track/4a8SeChPtrs6tBv3wNooZW
+          href: https://api.spotify.com/v1/tracks/4a8SeChPtrs6tBv3wNooZW
+          id: 4a8SeChPtrs6tBv3wNooZW
+          is_local: false
+          is_playable: true
+          name: One Inch Man
+          track_number: 10
+          type: track
+          uri: spotify:track:4a8SeChPtrs6tBv3wNooZW
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9
+            href: https://api.spotify.com/v1/albums/6O5lhr0v3ci9fMEIK5g5a9
+            id: 6O5lhr0v3ci9fMEIK5g5a9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735ae43c9ed3c8e26d670ad73b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025ae43c9ed3c8e26d670ad73b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515ae43c9ed3c8e26d670ad73b
+            is_playable: true
+            name: '...And the Circus Leaves Town'
+            release_date: '1995-05-30'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6O5lhr0v3ci9fMEIK5g5a9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 210733
+          explicit: true
+          external_ids:
+            isrc: USEE10181194
+          external_urls:
+            spotify: https://open.spotify.com/track/1WPAQR4AGJq9LmZOI6KEax
+          href: https://api.spotify.com/v1/tracks/1WPAQR4AGJq9LmZOI6KEax
+          id: 1WPAQR4AGJq9LmZOI6KEax
+          is_local: false
+          is_playable: true
+          name: One Inch Man
+          track_number: 2
+          type: track
+          uri: spotify:track:1WPAQR4AGJq9LmZOI6KEax
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6jXTyOb40EnJCU4V6C7Sg2
+            href: https://api.spotify.com/v1/albums/6jXTyOb40EnJCU4V6C7Sg2
+            id: 6jXTyOb40EnJCU4V6C7Sg2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738b90a6de056553cfbe95810e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028b90a6de056553cfbe95810e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518b90a6de056553cfbe95810e
+            is_playable: true
+            name: Home Rock
+            release_date: '2026-07-20'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:6jXTyOb40EnJCU4V6C7Sg2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 210733
+          explicit: true
+          external_ids:
+            isrc: USEE10181194
+          external_urls:
+            spotify: https://open.spotify.com/track/0frNYlfEG3BG4WIwpTUDrP
+          href: https://api.spotify.com/v1/tracks/0frNYlfEG3BG4WIwpTUDrP
+          id: 0frNYlfEG3BG4WIwpTUDrP
+          is_local: false
+          is_playable: true
+          name: One Inch Man
+          track_number: 4
+          type: track
+          uri: spotify:track:0frNYlfEG3BG4WIwpTUDrP
+    isrc: USEE10181194

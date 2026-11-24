@@ -34,3 +34,234 @@ mediaFileData:
   year: 1995
   duration: 345.93958333333336
   modTime: 2022-01-29 18:45:16.260000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3FcjR9MHChTfJd5HCbnMW2
+    trackId: 3FcjR9MHChTfJd5HCbnMW2
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10103275&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+              href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+              id: 08GQAI4eElDnROBrJRGE0X
+              name: Fleetwood Mac
+              type: artist
+              uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+            external_urls:
+              spotify: https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV
+            href: https://api.spotify.com/v1/albums/2efkPPuJQ7JrTloWk4lhiV
+            id: 2efkPPuJQ7JrTloWk4lhiV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b48386aa4c58f02bc8cd9333
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b48386aa4c58f02bc8cd9333
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b48386aa4c58f02bc8cd9333
+            is_playable: true
+            name: Time
+            release_date: '1995-10-10'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2efkPPuJQ7JrTloWk4lhiV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 345880
+          explicit: false
+          external_ids:
+            isrc: USWB10103275
+          external_urls:
+            spotify: https://open.spotify.com/track/3FcjR9MHChTfJd5HCbnMW2
+          href: https://api.spotify.com/v1/tracks/3FcjR9MHChTfJd5HCbnMW2
+          id: 3FcjR9MHChTfJd5HCbnMW2
+          is_local: false
+          is_playable: true
+          name: Hollywood (Some Other Kind of Town)
+          track_number: 2
+          type: track
+          uri: spotify:track:3FcjR9MHChTfJd5HCbnMW2
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5UnX11CbNfd1J6mmDMHmZi
+            href: https://api.spotify.com/v1/albums/5UnX11CbNfd1J6mmDMHmZi
+            id: 5UnX11CbNfd1J6mmDMHmZi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b321fd9db27d11a6e2bc6f05
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b321fd9db27d11a6e2bc6f05
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b321fd9db27d11a6e2bc6f05
+            is_playable: true
+            name: Hottest 90s
+            release_date: '2025-03-12'
+            release_date_precision: day
+            total_tracks: 65
+            type: album
+            uri: spotify:album:5UnX11CbNfd1J6mmDMHmZi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 345880
+          explicit: false
+          external_ids:
+            isrc: USWB10103275
+          external_urls:
+            spotify: https://open.spotify.com/track/16uQGEUK6W4NczlJQ27QOp
+          href: https://api.spotify.com/v1/tracks/16uQGEUK6W4NczlJQ27QOp
+          id: 16uQGEUK6W4NczlJQ27QOp
+          is_local: false
+          is_playable: true
+          name: Hollywood (Some Other Kind of Town)
+          track_number: 39
+          type: track
+          uri: spotify:track:16uQGEUK6W4NczlJQ27QOp
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2fVFeHdxv4rZhIBdGfAxlk
+            href: https://api.spotify.com/v1/albums/2fVFeHdxv4rZhIBdGfAxlk
+            id: 2fVFeHdxv4rZhIBdGfAxlk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739c8b38b36def6374a91437c4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029c8b38b36def6374a91437c4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519c8b38b36def6374a91437c4
+            is_playable: true
+            name: wake me up to 90s music
+            release_date: '2025-08-08'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:2fVFeHdxv4rZhIBdGfAxlk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 345880
+          explicit: false
+          external_ids:
+            isrc: USWB10103275
+          external_urls:
+            spotify: https://open.spotify.com/track/5buk3IxPnvZ2GOg6CfFiLS
+          href: https://api.spotify.com/v1/tracks/5buk3IxPnvZ2GOg6CfFiLS
+          id: 5buk3IxPnvZ2GOg6CfFiLS
+          is_local: false
+          is_playable: true
+          name: Hollywood (Some Other Kind of Town)
+          track_number: 46
+          type: track
+          uri: spotify:track:5buk3IxPnvZ2GOg6CfFiLS
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0Kue6xr7TqkmfuvU7i80w6
+            href: https://api.spotify.com/v1/albums/0Kue6xr7TqkmfuvU7i80w6
+            id: 0Kue6xr7TqkmfuvU7i80w6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735090c10fb2085cc41eddd86c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025090c10fb2085cc41eddd86c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515090c10fb2085cc41eddd86c
+            is_playable: true
+            name: Pop Music the 90's
+            release_date: '2024-02-14'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:0Kue6xr7TqkmfuvU7i80w6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 345880
+          explicit: false
+          external_ids:
+            isrc: USWB10103275
+          external_urls:
+            spotify: https://open.spotify.com/track/57aQPXOQMEBvwCFUH3g7tK
+          href: https://api.spotify.com/v1/tracks/57aQPXOQMEBvwCFUH3g7tK
+          id: 57aQPXOQMEBvwCFUH3g7tK
+          is_local: false
+          is_playable: true
+          name: Hollywood (Some Other Kind of Town)
+          track_number: 26
+          type: track
+          uri: spotify:track:57aQPXOQMEBvwCFUH3g7tK
+    isrc: USWB10103275

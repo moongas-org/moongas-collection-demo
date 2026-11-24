@@ -226,3 +226,126 @@ mediaFileData:
   year: 1967
   duration: 169.90666666666667
   modTime: 2024-02-12 00:27:20.496304+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5JuWW30txLevVRyPIeNIkV
+    trackId: 5JuWW30txLevVRyPIeNIkV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ANLF050490304&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw
+              href: https://api.spotify.com/v1/artists/74oJ4qxwOZvX6oSsu1DGnw
+              id: 74oJ4qxwOZvX6oSsu1DGnw
+              name: Cream
+              type: artist
+              uri: spotify:artist:74oJ4qxwOZvX6oSsu1DGnw
+            external_urls:
+              spotify: https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4
+            href: https://api.spotify.com/v1/albums/3W6CI0Lw7lElAPID2Fd3B4
+            id: 3W6CI0Lw7lElAPID2Fd3B4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273db1fb2dede292908e86d94d7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02db1fb2dede292908e86d94d7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851db1fb2dede292908e86d94d7
+            is_playable: true
+            name: Disraeli Gears (Deluxe Edition)
+            release_date: 1967-11
+            release_date_precision: month
+            total_tracks: 40
+            type: album
+            uri: spotify:album:3W6CI0Lw7lElAPID2Fd3B4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw
+            href: https://api.spotify.com/v1/artists/74oJ4qxwOZvX6oSsu1DGnw
+            id: 74oJ4qxwOZvX6oSsu1DGnw
+            name: Cream
+            type: artist
+            uri: spotify:artist:74oJ4qxwOZvX6oSsu1DGnw
+          disc_number: 2
+          duration_ms: 168333
+          explicit: false
+          external_ids:
+            isrc: NLF050490304
+          external_urls:
+            spotify: https://open.spotify.com/track/5JuWW30txLevVRyPIeNIkV
+          href: https://api.spotify.com/v1/tracks/5JuWW30txLevVRyPIeNIkV
+          id: 5JuWW30txLevVRyPIeNIkV
+          is_local: false
+          is_playable: true
+          name: Strange Brew - Mono version
+          track_number: 1
+          type: track
+          uri: spotify:track:5JuWW30txLevVRyPIeNIkV
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2UewN8ejNxZTOLHrPfh25T
+            href: https://api.spotify.com/v1/albums/2UewN8ejNxZTOLHrPfh25T
+            id: 2UewN8ejNxZTOLHrPfh25T
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739886a30cd478bc2dbcbf1e87
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029886a30cd478bc2dbcbf1e87
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519886a30cd478bc2dbcbf1e87
+            is_playable: true
+            name: Rockin' Blues
+            release_date: '2018-08-17'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:2UewN8ejNxZTOLHrPfh25T
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw
+            href: https://api.spotify.com/v1/artists/74oJ4qxwOZvX6oSsu1DGnw
+            id: 74oJ4qxwOZvX6oSsu1DGnw
+            name: Cream
+            type: artist
+            uri: spotify:artist:74oJ4qxwOZvX6oSsu1DGnw
+          disc_number: 1
+          duration_ms: 168333
+          explicit: false
+          external_ids:
+            isrc: NLF050490304
+          external_urls:
+            spotify: https://open.spotify.com/track/4ZEScvbEN5V17rpgR3Nyzh
+          href: https://api.spotify.com/v1/tracks/4ZEScvbEN5V17rpgR3Nyzh
+          id: 4ZEScvbEN5V17rpgR3Nyzh
+          is_local: false
+          is_playable: true
+          name: Strange Brew - Mono version
+          track_number: 15
+          type: track
+          uri: spotify:track:4ZEScvbEN5V17rpgR3Nyzh
+    isrc: NLF050490304

@@ -42,3 +42,72 @@ mediaFileData:
   year: 2004
   duration: 117.096
   modTime: 2025-04-17 00:57:32.761834+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Y0jMvqsWjQ8fYpZFC3gwm
+    trackId: 3Y0jMvqsWjQ8fYpZFC3gwm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS2S70499014&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU
+              href: https://api.spotify.com/v1/artists/2aoFQUeHD1U7pL098lRsDU
+              id: 2aoFQUeHD1U7pL098lRsDU
+              name: Madvillain
+              type: artist
+              uri: spotify:artist:2aoFQUeHD1U7pL098lRsDU
+            external_urls:
+              spotify: https://open.spotify.com/album/12Ul3nb1lU4EJN8ZFSMHGn
+            href: https://api.spotify.com/v1/albums/12Ul3nb1lU4EJN8ZFSMHGn
+            id: 12Ul3nb1lU4EJN8ZFSMHGn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dd44998dd389259620f384c8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dd44998dd389259620f384c8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dd44998dd389259620f384c8
+            is_playable: true
+            name: Madvillainy Instrumentals
+            release_date: '2004-12-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:12Ul3nb1lU4EJN8ZFSMHGn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU
+            href: https://api.spotify.com/v1/artists/2aoFQUeHD1U7pL098lRsDU
+            id: 2aoFQUeHD1U7pL098lRsDU
+            name: Madvillain
+            type: artist
+            uri: spotify:artist:2aoFQUeHD1U7pL098lRsDU
+          disc_number: 1
+          duration_ms: 120426
+          explicit: false
+          external_ids:
+            isrc: US2S70499014
+          external_urls:
+            spotify: https://open.spotify.com/track/3Y0jMvqsWjQ8fYpZFC3gwm
+          href: https://api.spotify.com/v1/tracks/3Y0jMvqsWjQ8fYpZFC3gwm
+          id: 3Y0jMvqsWjQ8fYpZFC3gwm
+          is_local: false
+          is_playable: true
+          name: Eye (Instrumental)
+          track_number: 14
+          type: track
+          uri: spotify:track:3Y0jMvqsWjQ8fYpZFC3gwm
+    isrc: US2S70499014

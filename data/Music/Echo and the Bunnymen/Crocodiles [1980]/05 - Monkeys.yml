@@ -34,3 +34,126 @@ mediaFileData:
   year: 1980
   duration: 169.37795918367348
   modTime: 2026-05-17 20:19:26.062701+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0c0lIYAiBu8D9Q5lW0pKiZ
+    trackId: 0c0lIYAiBu8D9Q5lW0pKiZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAHT0108586&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+              href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+              id: 0fgYKF9Avljex0L9Wt5b8Z
+              name: Echo & the Bunnymen
+              type: artist
+              uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+            external_urls:
+              spotify: https://open.spotify.com/album/44aVVevMGKS4q6nWXbELpP
+            href: https://api.spotify.com/v1/albums/44aVVevMGKS4q6nWXbELpP
+            id: 44aVVevMGKS4q6nWXbELpP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27371986935dc2bcc026f03026a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0271986935dc2bcc026f03026a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485171986935dc2bcc026f03026a
+            is_playable: true
+            name: Crocodiles
+            release_date: '1980-07-18'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:44aVVevMGKS4q6nWXbELpP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+            href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+            id: 0fgYKF9Avljex0L9Wt5b8Z
+            name: Echo & the Bunnymen
+            type: artist
+            uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+          disc_number: 1
+          duration_ms: 170133
+          explicit: false
+          external_ids:
+            isrc: GBAHT0108586
+          external_urls:
+            spotify: https://open.spotify.com/track/0c0lIYAiBu8D9Q5lW0pKiZ
+          href: https://api.spotify.com/v1/tracks/0c0lIYAiBu8D9Q5lW0pKiZ
+          id: 0c0lIYAiBu8D9Q5lW0pKiZ
+          is_local: false
+          is_playable: true
+          name: Monkeys
+          track_number: 5
+          type: track
+          uri: spotify:track:0c0lIYAiBu8D9Q5lW0pKiZ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+              href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+              id: 0fgYKF9Avljex0L9Wt5b8Z
+              name: Echo & the Bunnymen
+              type: artist
+              uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+            external_urls:
+              spotify: https://open.spotify.com/album/0TXcd8jwKkHP3IamgFHeRJ
+            href: https://api.spotify.com/v1/albums/0TXcd8jwKkHP3IamgFHeRJ
+            id: 0TXcd8jwKkHP3IamgFHeRJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733bd77b6b6b09c2fd932c7e50
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023bd77b6b6b09c2fd932c7e50
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513bd77b6b6b09c2fd932c7e50
+            is_playable: true
+            name: Crocodiles (Expanded; 2007 Remaster)
+            release_date: '1980-07-18'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0TXcd8jwKkHP3IamgFHeRJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+            href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+            id: 0fgYKF9Avljex0L9Wt5b8Z
+            name: Echo & the Bunnymen
+            type: artist
+            uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+          disc_number: 1
+          duration_ms: 169370
+          explicit: false
+          external_ids:
+            isrc: GBAHT0108586
+          external_urls:
+            spotify: https://open.spotify.com/track/3UFhqKwz6g2NBybgnRtQ5q
+          href: https://api.spotify.com/v1/tracks/3UFhqKwz6g2NBybgnRtQ5q
+          id: 3UFhqKwz6g2NBybgnRtQ5q
+          is_local: false
+          is_playable: true
+          name: Monkeys
+          track_number: 4
+          type: track
+          uri: spotify:track:3UFhqKwz6g2NBybgnRtQ5q
+    isrc: GBAHT0108586

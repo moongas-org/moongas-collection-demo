@@ -34,3 +34,180 @@ mediaFileData:
   year: 1994
   duration: 288.862
   modTime: 2023-09-24 09:41:32+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2os8gzWQBPgRTJzBFLqpcT
+    trackId: 2os8gzWQBPgRTJzBFLqpcT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10301958&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/3WnjEBtJCOmR08RYhQGOc3
+            href: https://api.spotify.com/v1/albums/3WnjEBtJCOmR08RYhQGOc3
+            id: 3WnjEBtJCOmR08RYhQGOc3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739c8d768c9a6565b559e21eb6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029c8d768c9a6565b559e21eb6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519c8d768c9a6565b559e21eb6
+            is_playable: true
+            name: Green Machine
+            release_date: '2018-04-27'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:3WnjEBtJCOmR08RYhQGOc3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 288933
+          explicit: false
+          external_ids:
+            isrc: USEE10301958
+          external_urls:
+            spotify: https://open.spotify.com/track/2os8gzWQBPgRTJzBFLqpcT
+          href: https://api.spotify.com/v1/tracks/2os8gzWQBPgRTJzBFLqpcT
+          id: 2os8gzWQBPgRTJzBFLqpcT
+          is_local: false
+          is_playable: true
+          name: Asteroid
+          track_number: 9
+          type: track
+          uri: spotify:track:2os8gzWQBPgRTJzBFLqpcT
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq
+            href: https://api.spotify.com/v1/albums/2NU3mpjBFtZPUYjjT9pJoq
+            id: 2NU3mpjBFtZPUYjjT9pJoq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733ee0cb43203040fe0cad47ef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023ee0cb43203040fe0cad47ef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513ee0cb43203040fe0cad47ef
+            is_playable: true
+            name: Welcome to Sky Valley
+            release_date: '1994-06-07'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2NU3mpjBFtZPUYjjT9pJoq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 288933
+          explicit: false
+          external_ids:
+            isrc: USEE10301958
+          external_urls:
+            spotify: https://open.spotify.com/track/4yScRxolqurMrlENa2Q0XN
+          href: https://api.spotify.com/v1/tracks/4yScRxolqurMrlENa2Q0XN
+          id: 4yScRxolqurMrlENa2Q0XN
+          is_local: false
+          is_playable: true
+          name: Asteroid
+          track_number: 2
+          type: track
+          uri: spotify:track:4yScRxolqurMrlENa2Q0XN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4U4MtTKDrmKrXDm1kQRj1P
+            href: https://api.spotify.com/v1/albums/4U4MtTKDrmKrXDm1kQRj1P
+            id: 4U4MtTKDrmKrXDm1kQRj1P
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273af94af0756e9c42d4db1c766
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02af94af0756e9c42d4db1c766
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851af94af0756e9c42d4db1c766
+            is_playable: true
+            name: So Heavy 90s
+            release_date: '2021-09-10'
+            release_date_precision: day
+            total_tracks: 41
+            type: album
+            uri: spotify:album:4U4MtTKDrmKrXDm1kQRj1P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 288933
+          explicit: false
+          external_ids:
+            isrc: USEE10301958
+          external_urls:
+            spotify: https://open.spotify.com/track/5Z6E88L99PQTQAg0K8c5Sx
+          href: https://api.spotify.com/v1/tracks/5Z6E88L99PQTQAg0K8c5Sx
+          id: 5Z6E88L99PQTQAg0K8c5Sx
+          is_local: false
+          is_playable: true
+          name: Asteroid
+          track_number: 9
+          type: track
+          uri: spotify:track:5Z6E88L99PQTQAg0K8c5Sx
+    isrc: USEE10301958

@@ -74,3 +74,180 @@ mediaFileData:
   year: 1997
   duration: 214.224
   modTime: 2024-09-11 22:48:58.389477+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2ZAE3NUH2gI9XzBVKhecTt
+    trackId: 2ZAE3NUH2gI9XzBVKhecTt
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19700114&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+              href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+              id: 3NRFinRTEqUCfaTTZmk8ek
+              name: Savage Garden
+              type: artist
+              uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+            external_urls:
+              spotify: https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb
+            href: https://api.spotify.com/v1/albums/5S4ycMpNlcTpLaO7u6mkkb
+            id: 5S4ycMpNlcTpLaO7u6mkkb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a391cbd6757a78fb4ea222ba
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a391cbd6757a78fb4ea222ba
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a391cbd6757a78fb4ea222ba
+            is_playable: true
+            name: Truly Madly Completely - The Best of Savage Garden
+            release_date: '2005-11-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:5S4ycMpNlcTpLaO7u6mkkb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+            href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+            id: 3NRFinRTEqUCfaTTZmk8ek
+            name: Savage Garden
+            type: artist
+            uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+          disc_number: 1
+          duration_ms: 216853
+          explicit: false
+          external_ids:
+            isrc: USSM19700114
+          external_urls:
+            spotify: https://open.spotify.com/track/2ZAE3NUH2gI9XzBVKhecTt
+          href: https://api.spotify.com/v1/tracks/2ZAE3NUH2gI9XzBVKhecTt
+          id: 2ZAE3NUH2gI9XzBVKhecTt
+          is_local: false
+          is_playable: true
+          name: Santa Monica
+          track_number: 5
+          type: track
+          uri: spotify:track:2ZAE3NUH2gI9XzBVKhecTt
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+              href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+              id: 3NRFinRTEqUCfaTTZmk8ek
+              name: Savage Garden
+              type: artist
+              uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+            external_urls:
+              spotify: https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4
+            href: https://api.spotify.com/v1/albums/64peTvbTLBDeSBu0GsCRE4
+            id: 64peTvbTLBDeSBu0GsCRE4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27384fef39a9a8293c86796599f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0284fef39a9a8293c86796599f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485184fef39a9a8293c86796599f
+            is_playable: true
+            name: Savage Garden
+            release_date: '1997-03-04'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:64peTvbTLBDeSBu0GsCRE4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+            href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+            id: 3NRFinRTEqUCfaTTZmk8ek
+            name: Savage Garden
+            type: artist
+            uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+          disc_number: 1
+          duration_ms: 214200
+          explicit: false
+          external_ids:
+            isrc: USSM19700114
+          external_urls:
+            spotify: https://open.spotify.com/track/2008eq0EFxWor0C9IhbgAZ
+          href: https://api.spotify.com/v1/tracks/2008eq0EFxWor0C9IhbgAZ
+          id: 2008eq0EFxWor0C9IhbgAZ
+          is_local: false
+          is_playable: true
+          name: Santa Monica
+          track_number: 11
+          type: track
+          uri: spotify:track:2008eq0EFxWor0C9IhbgAZ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+              href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+              id: 3NRFinRTEqUCfaTTZmk8ek
+              name: Savage Garden
+              type: artist
+              uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+            external_urls:
+              spotify: https://open.spotify.com/album/14JCVMAbCs1MlE5n59m0t6
+            href: https://api.spotify.com/v1/albums/14JCVMAbCs1MlE5n59m0t6
+            id: 14JCVMAbCs1MlE5n59m0t6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cbea6691b0951f6acd3c73b4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cbea6691b0951f6acd3c73b4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cbea6691b0951f6acd3c73b4
+            is_playable: true
+            name: Savage Garden - The Singles
+            release_date: '2015-06-12'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:14JCVMAbCs1MlE5n59m0t6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+            href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+            id: 3NRFinRTEqUCfaTTZmk8ek
+            name: Savage Garden
+            type: artist
+            uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+          disc_number: 1
+          duration_ms: 216494
+          explicit: false
+          external_ids:
+            isrc: USSM19700114
+          external_urls:
+            spotify: https://open.spotify.com/track/3O2s6I49QfAJR8pluHxxuT
+          href: https://api.spotify.com/v1/tracks/3O2s6I49QfAJR8pluHxxuT
+          id: 3O2s6I49QfAJR8pluHxxuT
+          is_local: false
+          is_playable: true
+          name: Santa Monica
+          track_number: 7
+          type: track
+          uri: spotify:track:3O2s6I49QfAJR8pluHxxuT
+    isrc: USSM19700114

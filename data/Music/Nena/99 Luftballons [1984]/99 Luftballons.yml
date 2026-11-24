@@ -44,3 +44,72 @@ mediaFileData:
   year: 1984
   duration: 234.192
   modTime: 2025-01-11 01:51:17.717988+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3NM2GsEUdDq2QYqXOMXZZW
+    trackId: 3NM2GsEUdDq2QYqXOMXZZW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADELV42400964&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV
+              href: https://api.spotify.com/v1/artists/6Tz0QRoe083BcOo2YbG9lV
+              id: 6Tz0QRoe083BcOo2YbG9lV
+              name: Nena
+              type: artist
+              uri: spotify:artist:6Tz0QRoe083BcOo2YbG9lV
+            external_urls:
+              spotify: https://open.spotify.com/album/5OhSZi1hTPDWarLDiUT3Si
+            href: https://api.spotify.com/v1/albums/5OhSZi1hTPDWarLDiUT3Si
+            id: 5OhSZi1hTPDWarLDiUT3Si
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aad6c8766ffd364454df5465
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aad6c8766ffd364454df5465
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aad6c8766ffd364454df5465
+            is_playable: true
+            name: NENA (Remastered & Selected Works)
+            release_date: '2024-11-01'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:5OhSZi1hTPDWarLDiUT3Si
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV
+            href: https://api.spotify.com/v1/artists/6Tz0QRoe083BcOo2YbG9lV
+            id: 6Tz0QRoe083BcOo2YbG9lV
+            name: Nena
+            type: artist
+            uri: spotify:artist:6Tz0QRoe083BcOo2YbG9lV
+          disc_number: 1
+          duration_ms: 233294
+          explicit: false
+          external_ids:
+            isrc: DELV42400964
+          external_urls:
+            spotify: https://open.spotify.com/track/3NM2GsEUdDq2QYqXOMXZZW
+          href: https://api.spotify.com/v1/tracks/3NM2GsEUdDq2QYqXOMXZZW
+          id: 3NM2GsEUdDq2QYqXOMXZZW
+          is_local: false
+          is_playable: true
+          name: 99 Luftballons - Remastered 2024
+          track_number: 6
+          type: track
+          uri: spotify:track:3NM2GsEUdDq2QYqXOMXZZW
+    isrc: DELV42400964

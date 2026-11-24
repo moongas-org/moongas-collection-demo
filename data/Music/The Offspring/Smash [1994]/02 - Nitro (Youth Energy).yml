@@ -42,3 +42,72 @@ mediaFileData:
   year: 1994
   duration: 147.04326530612244
   modTime: 2025-09-23 01:44:59.378260+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV
+    trackId: 6LjDGj9Hn5ERX3uhrT9LGV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEP40312202&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x
+            href: https://api.spotify.com/v1/albums/7IDywTRaCI8qzS3X8tNU3x
+            id: 7IDywTRaCI8qzS3X8tNU3x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730158cbde70672dd821972907
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020158cbde70672dd821972907
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907
+            is_playable: true
+            name: Smash
+            release_date: '1994-04-08'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:7IDywTRaCI8qzS3X8tNU3x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 146960
+          explicit: false
+          external_ids:
+            isrc: USEP40312202
+          external_urls:
+            spotify: https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV
+          href: https://api.spotify.com/v1/tracks/6LjDGj9Hn5ERX3uhrT9LGV
+          id: 6LjDGj9Hn5ERX3uhrT9LGV
+          is_local: false
+          is_playable: true
+          name: Nitro (Youth Energy)
+          track_number: 2
+          type: track
+          uri: spotify:track:6LjDGj9Hn5ERX3uhrT9LGV
+    isrc: USEP40312202

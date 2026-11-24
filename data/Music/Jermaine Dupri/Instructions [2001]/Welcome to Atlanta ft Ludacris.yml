@@ -68,3 +68,323 @@ mediaFileData:
   year: 2001
   duration: 200.664
   modTime: 2023-08-13 21:08:16+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh
+    trackId: 19VTqucnxJuH6kilNdweTh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10109175&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6
+              href: https://api.spotify.com/v1/artists/6nfYGe7IIuuP5bMY1jkJP6
+              id: 6nfYGe7IIuuP5bMY1jkJP6
+              name: Jermaine Dupri
+              type: artist
+              uri: spotify:artist:6nfYGe7IIuuP5bMY1jkJP6
+            external_urls:
+              spotify: https://open.spotify.com/album/3ssplToLM7k3pX7wCyMSht
+            href: https://api.spotify.com/v1/albums/3ssplToLM7k3pX7wCyMSht
+            id: 3ssplToLM7k3pX7wCyMSht
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736b5be01dc9df0523f75f0f88
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026b5be01dc9df0523f75f0f88
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516b5be01dc9df0523f75f0f88
+            is_playable: true
+            name: Instructions (Explicit Version)
+            release_date: '2001-10-30'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:3ssplToLM7k3pX7wCyMSht
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6
+            href: https://api.spotify.com/v1/artists/6nfYGe7IIuuP5bMY1jkJP6
+            id: 6nfYGe7IIuuP5bMY1jkJP6
+            name: Jermaine Dupri
+            type: artist
+            uri: spotify:artist:6nfYGe7IIuuP5bMY1jkJP6
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi
+            href: https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi
+            id: 3ipn9JLAPI5GUEo4y4jcoi
+            name: Ludacris
+            type: artist
+            uri: spotify:artist:3ipn9JLAPI5GUEo4y4jcoi
+          disc_number: 1
+          duration_ms: 200840
+          explicit: true
+          external_ids:
+            isrc: USSM10109175
+          external_urls:
+            spotify: https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh
+          href: https://api.spotify.com/v1/tracks/19VTqucnxJuH6kilNdweTh
+          id: 19VTqucnxJuH6kilNdweTh
+          is_local: false
+          is_playable: true
+          name: Welcome to Atlanta (feat. Ludacris)
+          track_number: 2
+          type: track
+          uri: spotify:track:19VTqucnxJuH6kilNdweTh
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4YZgTs4i1r2gSkP0fbUHgs
+            href: https://api.spotify.com/v1/albums/4YZgTs4i1r2gSkP0fbUHgs
+            id: 4YZgTs4i1r2gSkP0fbUHgs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273734511d2aebddaba12813a99
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02734511d2aebddaba12813a99
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851734511d2aebddaba12813a99
+            is_playable: true
+            name: Clássicos do Hip-Hop - Anos 2000 (Top Hits de 1999 a 2009)
+            release_date: '2025-02-24'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:4YZgTs4i1r2gSkP0fbUHgs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6
+            href: https://api.spotify.com/v1/artists/6nfYGe7IIuuP5bMY1jkJP6
+            id: 6nfYGe7IIuuP5bMY1jkJP6
+            name: Jermaine Dupri
+            type: artist
+            uri: spotify:artist:6nfYGe7IIuuP5bMY1jkJP6
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi
+            href: https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi
+            id: 3ipn9JLAPI5GUEo4y4jcoi
+            name: Ludacris
+            type: artist
+            uri: spotify:artist:3ipn9JLAPI5GUEo4y4jcoi
+          disc_number: 1
+          duration_ms: 200840
+          explicit: true
+          external_ids:
+            isrc: USSM10109175
+          external_urls:
+            spotify: https://open.spotify.com/track/01DHw39ZUNCJZ59FpyRXuB
+          href: https://api.spotify.com/v1/tracks/01DHw39ZUNCJZ59FpyRXuB
+          id: 01DHw39ZUNCJZ59FpyRXuB
+          is_local: false
+          is_playable: true
+          name: Welcome to Atlanta (feat. Ludacris)
+          track_number: 14
+          type: track
+          uri: spotify:track:01DHw39ZUNCJZ59FpyRXuB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6LZrTAeLH9m3xGyc7y7ukD
+            href: https://api.spotify.com/v1/albums/6LZrTAeLH9m3xGyc7y7ukD
+            id: 6LZrTAeLH9m3xGyc7y7ukD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27351e13f853935148d311bacd1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0251e13f853935148d311bacd1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485151e13f853935148d311bacd1
+            is_playable: true
+            name: 2000s Hip-Hop Classics - Top Hip-Hop Tracks From 1999-2009
+            release_date: '2025-01-17'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:6LZrTAeLH9m3xGyc7y7ukD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6
+            href: https://api.spotify.com/v1/artists/6nfYGe7IIuuP5bMY1jkJP6
+            id: 6nfYGe7IIuuP5bMY1jkJP6
+            name: Jermaine Dupri
+            type: artist
+            uri: spotify:artist:6nfYGe7IIuuP5bMY1jkJP6
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi
+            href: https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi
+            id: 3ipn9JLAPI5GUEo4y4jcoi
+            name: Ludacris
+            type: artist
+            uri: spotify:artist:3ipn9JLAPI5GUEo4y4jcoi
+          disc_number: 1
+          duration_ms: 200840
+          explicit: true
+          external_ids:
+            isrc: USSM10109175
+          external_urls:
+            spotify: https://open.spotify.com/track/69dgSWZyASqwKINgudpITt
+          href: https://api.spotify.com/v1/tracks/69dgSWZyASqwKINgudpITt
+          id: 69dgSWZyASqwKINgudpITt
+          is_local: false
+          is_playable: true
+          name: Welcome to Atlanta (feat. Ludacris)
+          track_number: 14
+          type: track
+          uri: spotify:track:69dgSWZyASqwKINgudpITt
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/07Om1nY4IKAZKUBxgKHTkN
+            href: https://api.spotify.com/v1/albums/07Om1nY4IKAZKUBxgKHTkN
+            id: 07Om1nY4IKAZKUBxgKHTkN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c5360aedbf0db1853a855207
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c5360aedbf0db1853a855207
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c5360aedbf0db1853a855207
+            is_playable: true
+            name: Y2K Hip Hop & Rap Hits
+            release_date: '2025-01-17'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:07Om1nY4IKAZKUBxgKHTkN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6
+            href: https://api.spotify.com/v1/artists/6nfYGe7IIuuP5bMY1jkJP6
+            id: 6nfYGe7IIuuP5bMY1jkJP6
+            name: Jermaine Dupri
+            type: artist
+            uri: spotify:artist:6nfYGe7IIuuP5bMY1jkJP6
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi
+            href: https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi
+            id: 3ipn9JLAPI5GUEo4y4jcoi
+            name: Ludacris
+            type: artist
+            uri: spotify:artist:3ipn9JLAPI5GUEo4y4jcoi
+          disc_number: 1
+          duration_ms: 200840
+          explicit: true
+          external_ids:
+            isrc: USSM10109175
+          external_urls:
+            spotify: https://open.spotify.com/track/3UZGTo0LJsdgM5cRv2Ue92
+          href: https://api.spotify.com/v1/tracks/3UZGTo0LJsdgM5cRv2Ue92
+          id: 3UZGTo0LJsdgM5cRv2Ue92
+          is_local: false
+          is_playable: true
+          name: Welcome to Atlanta (feat. Ludacris)
+          track_number: 6
+          type: track
+          uri: spotify:track:3UZGTo0LJsdgM5cRv2Ue92
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3rcQghGkbUS0em1jIMJmfE
+            href: https://api.spotify.com/v1/albums/3rcQghGkbUS0em1jIMJmfE
+            id: 3rcQghGkbUS0em1jIMJmfE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27326d72779ae6c66e6a6f4dc17
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0226d72779ae6c66e6a6f4dc17
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485126d72779ae6c66e6a6f4dc17
+            is_playable: true
+            name: Hits Y2K - Hip Hop & Rap
+            release_date: '2025-02-24'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:3rcQghGkbUS0em1jIMJmfE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6
+            href: https://api.spotify.com/v1/artists/6nfYGe7IIuuP5bMY1jkJP6
+            id: 6nfYGe7IIuuP5bMY1jkJP6
+            name: Jermaine Dupri
+            type: artist
+            uri: spotify:artist:6nfYGe7IIuuP5bMY1jkJP6
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi
+            href: https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi
+            id: 3ipn9JLAPI5GUEo4y4jcoi
+            name: Ludacris
+            type: artist
+            uri: spotify:artist:3ipn9JLAPI5GUEo4y4jcoi
+          disc_number: 1
+          duration_ms: 200840
+          explicit: true
+          external_ids:
+            isrc: USSM10109175
+          external_urls:
+            spotify: https://open.spotify.com/track/2LhuKWpmBsYP6UbxT3lSIl
+          href: https://api.spotify.com/v1/tracks/2LhuKWpmBsYP6UbxT3lSIl
+          id: 2LhuKWpmBsYP6UbxT3lSIl
+          is_local: false
+          is_playable: true
+          name: Welcome to Atlanta (feat. Ludacris)
+          track_number: 6
+          type: track
+          uri: spotify:track:2LhuKWpmBsYP6UbxT3lSIl
+    isrc: USSM10109175

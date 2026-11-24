@@ -34,3 +34,72 @@ mediaFileData:
   year: 2018
   duration: 214.68
   modTime: 2024-10-27 19:31:54.121789+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1rJaiv1oQkEL0DdBoKarPA
+    trackId: 1rJaiv1oQkEL0DdBoKarPA
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS4M31608367&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7
+              href: https://api.spotify.com/v1/artists/5qnkHpjyS6CUxH1UUy82B7
+              id: 5qnkHpjyS6CUxH1UUy82B7
+              name: Tommy Guerrero
+              type: artist
+              uri: spotify:artist:5qnkHpjyS6CUxH1UUy82B7
+            external_urls:
+              spotify: https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh
+            href: https://api.spotify.com/v1/albums/5XNcBTBDka0LqtQ7FYJlVh
+            id: 5XNcBTBDka0LqtQ7FYJlVh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d81cf5ffa7eb516a55e71ea3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d81cf5ffa7eb516a55e71ea3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d81cf5ffa7eb516a55e71ea3
+            is_playable: true
+            name: Road to Knowhere
+            release_date: '2018-10-26'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5XNcBTBDka0LqtQ7FYJlVh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7
+            href: https://api.spotify.com/v1/artists/5qnkHpjyS6CUxH1UUy82B7
+            id: 5qnkHpjyS6CUxH1UUy82B7
+            name: Tommy Guerrero
+            type: artist
+            uri: spotify:artist:5qnkHpjyS6CUxH1UUy82B7
+          disc_number: 1
+          duration_ms: 214647
+          explicit: false
+          external_ids:
+            isrc: US4M31608367
+          external_urls:
+            spotify: https://open.spotify.com/track/1rJaiv1oQkEL0DdBoKarPA
+          href: https://api.spotify.com/v1/tracks/1rJaiv1oQkEL0DdBoKarPA
+          id: 1rJaiv1oQkEL0DdBoKarPA
+          is_local: false
+          is_playable: true
+          name: Highway Hustle
+          track_number: 3
+          type: track
+          uri: spotify:track:1rJaiv1oQkEL0DdBoKarPA
+    isrc: US4M31608367

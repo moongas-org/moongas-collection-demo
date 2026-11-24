@@ -199,3 +199,234 @@ mediaFileData:
   year: 1969
   duration: 188.66666666666666
   modTime: 2023-05-14 14:19:33.520000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6o75MNpNn0sXFsUFFZ9dUX
+    trackId: 6o75MNpNn0sXFsUFFZ9dUX
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM16900953&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+              href: https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC
+              id: 4NgfOZCL9Ml67xzM0xzIvC
+              name: Janis Joplin
+              type: artist
+              uri: spotify:artist:4NgfOZCL9Ml67xzM0xzIvC
+            external_urls:
+              spotify: https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4
+            href: https://api.spotify.com/v1/albums/6U1PifBvvskUGjsJGeKGp4
+            id: 6U1PifBvvskUGjsJGeKGp4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735192ac445e6fc8efca2f6500
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025192ac445e6fc8efca2f6500
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515192ac445e6fc8efca2f6500
+            is_playable: true
+            name: 'Janis Joplin: The Woodstock Experience'
+            release_date: '2009-06-30'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:6U1PifBvvskUGjsJGeKGp4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+            href: https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC
+            id: 4NgfOZCL9Ml67xzM0xzIvC
+            name: Janis Joplin
+            type: artist
+            uri: spotify:artist:4NgfOZCL9Ml67xzM0xzIvC
+          disc_number: 1
+          duration_ms: 396066
+          explicit: false
+          external_ids:
+            isrc: USSM16900953
+          external_urls:
+            spotify: https://open.spotify.com/track/6o75MNpNn0sXFsUFFZ9dUX
+          href: https://api.spotify.com/v1/tracks/6o75MNpNn0sXFsUFFZ9dUX
+          id: 6o75MNpNn0sXFsUFFZ9dUX
+          is_local: false
+          is_playable: true
+          name: Work Me, Lord
+          track_number: 8
+          type: track
+          uri: spotify:track:6o75MNpNn0sXFsUFFZ9dUX
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+              href: https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC
+              id: 4NgfOZCL9Ml67xzM0xzIvC
+              name: Janis Joplin
+              type: artist
+              uri: spotify:artist:4NgfOZCL9Ml67xzM0xzIvC
+            external_urls:
+              spotify: https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A
+            href: https://api.spotify.com/v1/albums/5rFRfDq52l2l5RtS5kxA9A
+            id: 5rFRfDq52l2l5RtS5kxA9A
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730e961713a8d74d74e83c347f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020e961713a8d74d74e83c347f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510e961713a8d74d74e83c347f
+            is_playable: true
+            name: I Got Dem Ol' Kozmic Blues Again Mama!
+            release_date: '1969-09-11'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:5rFRfDq52l2l5RtS5kxA9A
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+            href: https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC
+            id: 4NgfOZCL9Ml67xzM0xzIvC
+            name: Janis Joplin
+            type: artist
+            uri: spotify:artist:4NgfOZCL9Ml67xzM0xzIvC
+          disc_number: 1
+          duration_ms: 395278
+          explicit: false
+          external_ids:
+            isrc: USSM16900953
+          external_urls:
+            spotify: https://open.spotify.com/track/6WkRgfJb0t4WIWqadhxJj1
+          href: https://api.spotify.com/v1/tracks/6WkRgfJb0t4WIWqadhxJj1
+          id: 6WkRgfJb0t4WIWqadhxJj1
+          is_local: false
+          is_playable: true
+          name: Work Me, Lord
+          track_number: 8
+          type: track
+          uri: spotify:track:6WkRgfJb0t4WIWqadhxJj1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+              href: https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC
+              id: 4NgfOZCL9Ml67xzM0xzIvC
+              name: Janis Joplin
+              type: artist
+              uri: spotify:artist:4NgfOZCL9Ml67xzM0xzIvC
+            external_urls:
+              spotify: https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X
+            href: https://api.spotify.com/v1/albums/3sR7NJMeadiOYLFl94uj0X
+            id: 3sR7NJMeadiOYLFl94uj0X
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c6589d7714f8c11ad9d8dd8e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c6589d7714f8c11ad9d8dd8e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c6589d7714f8c11ad9d8dd8e
+            is_playable: true
+            name: The Essential Janis Joplin
+            release_date: '2003-01-14'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:3sR7NJMeadiOYLFl94uj0X
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+            href: https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC
+            id: 4NgfOZCL9Ml67xzM0xzIvC
+            name: Janis Joplin
+            type: artist
+            uri: spotify:artist:4NgfOZCL9Ml67xzM0xzIvC
+          disc_number: 2
+          duration_ms: 395960
+          explicit: false
+          external_ids:
+            isrc: USSM16900953
+          external_urls:
+            spotify: https://open.spotify.com/track/0hCS2RPAGVwt7ROn9a6AZZ
+          href: https://api.spotify.com/v1/tracks/0hCS2RPAGVwt7ROn9a6AZZ
+          id: 0hCS2RPAGVwt7ROn9a6AZZ
+          is_local: false
+          is_playable: true
+          name: Work Me, Lord
+          track_number: 5
+          type: track
+          uri: spotify:track:0hCS2RPAGVwt7ROn9a6AZZ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+              href: https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC
+              id: 4NgfOZCL9Ml67xzM0xzIvC
+              name: Janis Joplin
+              type: artist
+              uri: spotify:artist:4NgfOZCL9Ml67xzM0xzIvC
+            external_urls:
+              spotify: https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR
+            href: https://api.spotify.com/v1/albums/2uEM5GPliifxJ0llkQ59oR
+            id: 2uEM5GPliifxJ0llkQ59oR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739c3c9a199b867758ffe57976
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029c3c9a199b867758ffe57976
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519c3c9a199b867758ffe57976
+            is_playable: true
+            name: Box Of Pearls
+            release_date: '1999-08-23'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:2uEM5GPliifxJ0llkQ59oR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+            href: https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC
+            id: 4NgfOZCL9Ml67xzM0xzIvC
+            name: Janis Joplin
+            type: artist
+            uri: spotify:artist:4NgfOZCL9Ml67xzM0xzIvC
+          disc_number: 3
+          duration_ms: 396200
+          explicit: false
+          external_ids:
+            isrc: USSM16900953
+          external_urls:
+            spotify: https://open.spotify.com/track/2xfF8cLyleXmKZuXBYmBCH
+          href: https://api.spotify.com/v1/tracks/2xfF8cLyleXmKZuXBYmBCH
+          id: 2xfF8cLyleXmKZuXBYmBCH
+          is_local: false
+          is_playable: true
+          name: Work Me, Lord
+          track_number: 8
+          type: track
+          uri: spotify:track:2xfF8cLyleXmKZuXBYmBCH
+    isrc: USSM16900953

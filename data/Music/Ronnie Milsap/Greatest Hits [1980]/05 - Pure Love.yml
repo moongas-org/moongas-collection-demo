@@ -70,3 +70,72 @@ mediaFileData:
   year: 1980
   duration: 141.24408163265306
   modTime: 2025-12-28 19:09:31.094107+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Z1YZPFplhVpeEBHfiikiV
+    trackId: 3Z1YZPFplhVpeEBHfiikiV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN11400318&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+              href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+              id: 6Sb8EHpZvyjSTT5KD9DjUZ
+              name: Ronnie Milsap
+              type: artist
+              uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+            external_urls:
+              spotify: https://open.spotify.com/album/0zUZBKfwBilx6BZLIcAtuN
+            href: https://api.spotify.com/v1/albums/0zUZBKfwBilx6BZLIcAtuN
+            id: 0zUZBKfwBilx6BZLIcAtuN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730db5bc9f0746a63abf03113b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020db5bc9f0746a63abf03113b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510db5bc9f0746a63abf03113b
+            is_playable: true
+            name: Images
+            release_date: '1979-04-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0zUZBKfwBilx6BZLIcAtuN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+            href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+            id: 6Sb8EHpZvyjSTT5KD9DjUZ
+            name: Ronnie Milsap
+            type: artist
+            uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+          disc_number: 1
+          duration_ms: 161306
+          explicit: false
+          external_ids:
+            isrc: USRN11400318
+          external_urls:
+            spotify: https://open.spotify.com/track/3Z1YZPFplhVpeEBHfiikiV
+          href: https://api.spotify.com/v1/tracks/3Z1YZPFplhVpeEBHfiikiV
+          id: 3Z1YZPFplhVpeEBHfiikiV
+          is_local: false
+          is_playable: true
+          name: Delta Queen
+          track_number: 8
+          type: track
+          uri: spotify:track:3Z1YZPFplhVpeEBHfiikiV
+    isrc: USRN11400318

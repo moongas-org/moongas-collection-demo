@@ -63,3 +63,126 @@ mediaFileData:
   year: 1979
   duration: 312.168
   modTime: 2025-01-05 23:35:41.018374+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1OWp0Ngu2Y6Qsymac1EryG
+    trackId: 1OWp0Ngu2Y6Qsymac1EryG
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19801922&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+              href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+              id: 0PFtn5NtBbbUNbU9EAmIWF
+              name: TOTO
+              type: artist
+              uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+            external_urls:
+              spotify: https://open.spotify.com/album/5QB4Ykf95muHSKHmc4oOL3
+            href: https://api.spotify.com/v1/albums/5QB4Ykf95muHSKHmc4oOL3
+            id: 5QB4Ykf95muHSKHmc4oOL3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27352cc0969572e48332f0bf982
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0252cc0969572e48332f0bf982
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485152cc0969572e48332f0bf982
+            is_playable: true
+            name: The Essential Toto
+            release_date: '2014-06-23'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:5QB4Ykf95muHSKHmc4oOL3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+            href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+            id: 0PFtn5NtBbbUNbU9EAmIWF
+            name: TOTO
+            type: artist
+            uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+          disc_number: 1
+          duration_ms: 312440
+          explicit: false
+          external_ids:
+            isrc: USSM19801922
+          external_urls:
+            spotify: https://open.spotify.com/track/1OWp0Ngu2Y6Qsymac1EryG
+          href: https://api.spotify.com/v1/tracks/1OWp0Ngu2Y6Qsymac1EryG
+          id: 1OWp0Ngu2Y6Qsymac1EryG
+          is_local: false
+          is_playable: true
+          name: Mama
+          track_number: 6
+          type: track
+          uri: spotify:track:1OWp0Ngu2Y6Qsymac1EryG
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+              href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+              id: 0PFtn5NtBbbUNbU9EAmIWF
+              name: TOTO
+              type: artist
+              uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+            external_urls:
+              spotify: https://open.spotify.com/album/3dPZH0a4kjtjq6Hm53BS9S
+            href: https://api.spotify.com/v1/albums/3dPZH0a4kjtjq6Hm53BS9S
+            id: 3dPZH0a4kjtjq6Hm53BS9S
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273801ed6b1316f1bbbc41ac3f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02801ed6b1316f1bbbc41ac3f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851801ed6b1316f1bbbc41ac3f5
+            is_playable: true
+            name: Hydra
+            release_date: '1979-10-01'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:3dPZH0a4kjtjq6Hm53BS9S
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
+            href: https://api.spotify.com/v1/artists/0PFtn5NtBbbUNbU9EAmIWF
+            id: 0PFtn5NtBbbUNbU9EAmIWF
+            name: TOTO
+            type: artist
+            uri: spotify:artist:0PFtn5NtBbbUNbU9EAmIWF
+          disc_number: 1
+          duration_ms: 311877
+          explicit: false
+          external_ids:
+            isrc: USSM19801922
+          external_urls:
+            spotify: https://open.spotify.com/track/28OuNlvyzOkibbCZwBEKRn
+          href: https://api.spotify.com/v1/tracks/28OuNlvyzOkibbCZwBEKRn
+          id: 28OuNlvyzOkibbCZwBEKRn
+          is_local: false
+          is_playable: true
+          name: Mama
+          track_number: 6
+          type: track
+          uri: spotify:track:28OuNlvyzOkibbCZwBEKRn
+    isrc: USSM19801922

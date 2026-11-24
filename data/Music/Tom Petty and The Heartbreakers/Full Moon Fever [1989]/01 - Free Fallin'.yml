@@ -164,3 +164,126 @@ mediaFileData:
   year: 1989
   duration: 256.16
   modTime: 2025-07-19 16:11:29.657543+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3UW5EboJdkNgQiYrdK9QhO
+    trackId: 3UW5EboJdkNgQiYrdK9QhO
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN10100033&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj
+              href: https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj
+              id: 3P33qFNGBVXl86yQYWspFj
+              name: Martina McBride
+              type: artist
+              uri: spotify:artist:3P33qFNGBVXl86yQYWspFj
+            external_urls:
+              spotify: https://open.spotify.com/album/0HiQVsQdNpLarQJN3RgOhU
+            href: https://api.spotify.com/v1/albums/0HiQVsQdNpLarQJN3RgOhU
+            id: 0HiQVsQdNpLarQJN3RgOhU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738b4eb13e638a4ebfe4386532
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028b4eb13e638a4ebfe4386532
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518b4eb13e638a4ebfe4386532
+            is_playable: true
+            name: The Essential Martina McBride
+            release_date: '2012-10-23'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:0HiQVsQdNpLarQJN3RgOhU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj
+            href: https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj
+            id: 3P33qFNGBVXl86yQYWspFj
+            name: Martina McBride
+            type: artist
+            uri: spotify:artist:3P33qFNGBVXl86yQYWspFj
+          disc_number: 2
+          duration_ms: 251453
+          explicit: false
+          external_ids:
+            isrc: USRN10100033
+          external_urls:
+            spotify: https://open.spotify.com/track/3UW5EboJdkNgQiYrdK9QhO
+          href: https://api.spotify.com/v1/tracks/3UW5EboJdkNgQiYrdK9QhO
+          id: 3UW5EboJdkNgQiYrdK9QhO
+          is_local: false
+          is_playable: true
+          name: Concrete Angel
+          track_number: 3
+          type: track
+          uri: spotify:track:3UW5EboJdkNgQiYrdK9QhO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj
+              href: https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj
+              id: 3P33qFNGBVXl86yQYWspFj
+              name: Martina McBride
+              type: artist
+              uri: spotify:artist:3P33qFNGBVXl86yQYWspFj
+            external_urls:
+              spotify: https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi
+            href: https://api.spotify.com/v1/albums/467Cag6qid9mjW2hpnIcFi
+            id: 467Cag6qid9mjW2hpnIcFi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273399bd97600df8951a63c2cdc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02399bd97600df8951a63c2cdc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851399bd97600df8951a63c2cdc
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2001-09-17'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:467Cag6qid9mjW2hpnIcFi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj
+            href: https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj
+            id: 3P33qFNGBVXl86yQYWspFj
+            name: Martina McBride
+            type: artist
+            uri: spotify:artist:3P33qFNGBVXl86yQYWspFj
+          disc_number: 1
+          duration_ms: 253000
+          explicit: false
+          external_ids:
+            isrc: USRN10100033
+          external_urls:
+            spotify: https://open.spotify.com/track/2LLcI3oU4CedCQDV5tJ1SK
+          href: https://api.spotify.com/v1/tracks/2LLcI3oU4CedCQDV5tJ1SK
+          id: 2LLcI3oU4CedCQDV5tJ1SK
+          is_local: false
+          is_playable: true
+          name: Concrete Angel
+          track_number: 18
+          type: track
+          uri: spotify:track:2LLcI3oU4CedCQDV5tJ1SK
+    isrc: USRN10100033

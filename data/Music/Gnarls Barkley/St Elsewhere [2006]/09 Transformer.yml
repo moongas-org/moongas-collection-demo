@@ -54,3 +54,100 @@ mediaFileData:
   year: 2006
   duration: 138.00490625
   modTime: 2023-07-16 22:52:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3Ufcl91rF8dhwnpIXkqlBn
+    trackId: 3Ufcl91rF8dhwnpIXkqlBn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20611587&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH
+              href: https://api.spotify.com/v1/artists/5SbkVQYYzlw1kte75QIabH
+              id: 5SbkVQYYzlw1kte75QIabH
+              name: Gnarls Barkley
+              type: artist
+              uri: spotify:artist:5SbkVQYYzlw1kte75QIabH
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8
+              href: https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8
+              id: 5nLYd9ST4Cnwy6NHaCxbj8
+              name: CeeLo Green
+              type: artist
+              uri: spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf
+              href: https://api.spotify.com/v1/artists/2dBj3prW7gP9bCCOIQeDUf
+              id: 2dBj3prW7gP9bCCOIQeDUf
+              name: Danger Mouse
+              type: artist
+              uri: spotify:artist:2dBj3prW7gP9bCCOIQeDUf
+            external_urls:
+              spotify: https://open.spotify.com/album/2NQH7gYB2buQCbdvHBNRif
+            href: https://api.spotify.com/v1/albums/2NQH7gYB2buQCbdvHBNRif
+            id: 2NQH7gYB2buQCbdvHBNRif
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ab051a2c680f39c0d9827706
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ab051a2c680f39c0d9827706
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ab051a2c680f39c0d9827706
+            is_playable: true
+            name: St. Elsewhere
+            release_date: '2006'
+            release_date_precision: year
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2NQH7gYB2buQCbdvHBNRif
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH
+            href: https://api.spotify.com/v1/artists/5SbkVQYYzlw1kte75QIabH
+            id: 5SbkVQYYzlw1kte75QIabH
+            name: Gnarls Barkley
+            type: artist
+            uri: spotify:artist:5SbkVQYYzlw1kte75QIabH
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8
+            href: https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8
+            id: 5nLYd9ST4Cnwy6NHaCxbj8
+            name: CeeLo Green
+            type: artist
+            uri: spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf
+            href: https://api.spotify.com/v1/artists/2dBj3prW7gP9bCCOIQeDUf
+            id: 2dBj3prW7gP9bCCOIQeDUf
+            name: Danger Mouse
+            type: artist
+            uri: spotify:artist:2dBj3prW7gP9bCCOIQeDUf
+          disc_number: 1
+          duration_ms: 137933
+          explicit: false
+          external_ids:
+            isrc: USAT20611587
+          external_urls:
+            spotify: https://open.spotify.com/track/3Ufcl91rF8dhwnpIXkqlBn
+          href: https://api.spotify.com/v1/tracks/3Ufcl91rF8dhwnpIXkqlBn
+          id: 3Ufcl91rF8dhwnpIXkqlBn
+          is_local: false
+          is_playable: true
+          name: Transformer
+          track_number: 9
+          type: track
+          uri: spotify:track:3Ufcl91rF8dhwnpIXkqlBn
+    isrc: USAT20611587

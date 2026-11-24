@@ -72,3 +72,234 @@ mediaFileData:
   year: 1991
   duration: 293.6
   modTime: 2025-01-11 01:38:09.160155+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei
+    trackId: 6QewNVIDKdSl8Y3ycuHIei
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19100673&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+              href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+              id: 1w5Kfo2jwwIPruYS2UWh56
+              name: Pearl Jam
+              type: artist
+              uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+            external_urls:
+              spotify: https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a
+            href: https://api.spotify.com/v1/albums/5B4PYA7wNN4WdEXdIJu58a
+            id: 5B4PYA7wNN4WdEXdIJu58a
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732d0e5ab5bd2e234fbcffa3e0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022d0e5ab5bd2e234fbcffa3e0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512d0e5ab5bd2e234fbcffa3e0
+            is_playable: true
+            name: Ten
+            release_date: '1991-08-27'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5B4PYA7wNN4WdEXdIJu58a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 1
+          duration_ms: 292579
+          explicit: true
+          external_ids:
+            isrc: USSM19100673
+          external_urls:
+            spotify: https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei
+          href: https://api.spotify.com/v1/tracks/6QewNVIDKdSl8Y3ycuHIei
+          id: 6QewNVIDKdSl8Y3ycuHIei
+          is_local: false
+          is_playable: true
+          name: Even Flow
+          track_number: 2
+          type: track
+          uri: spotify:track:6QewNVIDKdSl8Y3ycuHIei
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+            href: https://api.spotify.com/v1/albums/71WupOKqXgSrgg0CivZDHS
+            id: 71WupOKqXgSrgg0CivZDHS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f010bf246e94ea6c9452c758
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f010bf246e94ea6c9452c758
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f010bf246e94ea6c9452c758
+            is_playable: true
+            name: 90 Sweet 90s Hits!
+            release_date: '2014-06-10'
+            release_date_precision: day
+            total_tracks: 90
+            type: album
+            uri: spotify:album:71WupOKqXgSrgg0CivZDHS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 1
+          duration_ms: 292573
+          explicit: true
+          external_ids:
+            isrc: USSM19100673
+          external_urls:
+            spotify: https://open.spotify.com/track/0fG05JGcqIoOl314BelRb1
+          href: https://api.spotify.com/v1/tracks/0fG05JGcqIoOl314BelRb1
+          id: 0fG05JGcqIoOl314BelRb1
+          is_local: false
+          is_playable: true
+          name: Even Flow
+          track_number: 16
+          type: track
+          uri: spotify:track:0fG05JGcqIoOl314BelRb1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/445ANDJMhc3Lp68R7s7Bmg
+            href: https://api.spotify.com/v1/albums/445ANDJMhc3Lp68R7s7Bmg
+            id: 445ANDJMhc3Lp68R7s7Bmg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734c429301c2bebb80b59d70ed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024c429301c2bebb80b59d70ed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514c429301c2bebb80b59d70ed
+            is_playable: true
+            name: Only The Brave (Music From And Inspired By The Film)
+            release_date: '2017-10-20'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:445ANDJMhc3Lp68R7s7Bmg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 1
+          duration_ms: 293608
+          explicit: false
+          external_ids:
+            isrc: USSM19100673
+          external_urls:
+            spotify: https://open.spotify.com/track/2Rfktp3TXuYnQzzXXVJOcc
+          href: https://api.spotify.com/v1/tracks/2Rfktp3TXuYnQzzXXVJOcc
+          id: 2Rfktp3TXuYnQzzXXVJOcc
+          is_local: false
+          is_playable: true
+          name: Even Flow
+          track_number: 7
+          type: track
+          uri: spotify:track:2Rfktp3TXuYnQzzXXVJOcc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7LSb480ijrv0OAy60psIYv
+            href: https://api.spotify.com/v1/albums/7LSb480ijrv0OAy60psIYv
+            id: 7LSb480ijrv0OAy60psIYv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fee3ffd197f3c6e2b8d32dcd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fee3ffd197f3c6e2b8d32dcd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fee3ffd197f3c6e2b8d32dcd
+            is_playable: true
+            name: Rock Clássico
+            release_date: '2019-03-29'
+            release_date_precision: day
+            total_tracks: 70
+            type: album
+            uri: spotify:album:7LSb480ijrv0OAy60psIYv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 1
+          duration_ms: 293640
+          explicit: true
+          external_ids:
+            isrc: USSM19100673
+          external_urls:
+            spotify: https://open.spotify.com/track/2kvIxONOYAzKWggoJh3ak7
+          href: https://api.spotify.com/v1/tracks/2kvIxONOYAzKWggoJh3ak7
+          id: 2kvIxONOYAzKWggoJh3ak7
+          is_local: false
+          is_playable: true
+          name: Even Flow
+          track_number: 18
+          type: track
+          uri: spotify:track:2kvIxONOYAzKWggoJh3ak7
+    isrc: USSM19100673

@@ -52,3 +52,72 @@ mediaFileData:
   year: 1995
   duration: 183.08
   modTime: 2023-05-15 21:55:38+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is
+    trackId: 5fKfzL3IVXqilKqFu1E8is
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSKRS1052303&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+              href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+              id: 2ApaG60P4r0yhBoDCGD8YG
+              name: Elliott Smith
+              type: artist
+              uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+            external_urls:
+              spotify: https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck
+            href: https://api.spotify.com/v1/albums/6zbWzjBUvXvF16tg98OYck
+            id: 6zbWzjBUvXvF16tg98OYck
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d2150632ff88f15db0f3ceeb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d2150632ff88f15db0f3ceeb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d2150632ff88f15db0f3ceeb
+            is_playable: true
+            name: Roman Candle
+            release_date: '1994-07-14'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6zbWzjBUvXvF16tg98OYck
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 183053
+          explicit: false
+          external_ids:
+            isrc: USKRS1052303
+          external_urls:
+            spotify: https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is
+          href: https://api.spotify.com/v1/tracks/5fKfzL3IVXqilKqFu1E8is
+          id: 5fKfzL3IVXqilKqFu1E8is
+          is_local: false
+          is_playable: true
+          name: 'No Name #1'
+          track_number: 3
+          type: track
+          uri: spotify:track:5fKfzL3IVXqilKqFu1E8is
+    isrc: USKRS1052303

@@ -34,3 +34,79 @@ mediaFileData:
   year: 2021
   duration: 296.1240816326531
   modTime: 2025-12-29 19:35:31.497953+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/23UkIfzimLgWfiHb2XBKoY
+    trackId: 23UkIfzimLgWfiHb2XBKoY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM3T32100013&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P
+              href: https://api.spotify.com/v1/artists/1EJWNhiYbOyeUHbsS7Kp1P
+              id: 1EJWNhiYbOyeUHbsS7Kp1P
+              name: Sneaker Pimps
+              type: artist
+              uri: spotify:artist:1EJWNhiYbOyeUHbsS7Kp1P
+            external_urls:
+              spotify: https://open.spotify.com/album/0npeEzm8BfqZ1YwnzlvfA7
+            href: https://api.spotify.com/v1/albums/0npeEzm8BfqZ1YwnzlvfA7
+            id: 0npeEzm8BfqZ1YwnzlvfA7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27306f1cb3b78f59c4d704e7868
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0206f1cb3b78f59c4d704e7868
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485106f1cb3b78f59c4d704e7868
+            is_playable: true
+            name: Squaring The Circle
+            release_date: '2021-09-10'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:0npeEzm8BfqZ1YwnzlvfA7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P
+            href: https://api.spotify.com/v1/artists/1EJWNhiYbOyeUHbsS7Kp1P
+            id: 1EJWNhiYbOyeUHbsS7Kp1P
+            name: Sneaker Pimps
+            type: artist
+            uri: spotify:artist:1EJWNhiYbOyeUHbsS7Kp1P
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0dMXglEw2nK3tkOH2hakyx
+            href: https://api.spotify.com/v1/artists/0dMXglEw2nK3tkOH2hakyx
+            id: 0dMXglEw2nK3tkOH2hakyx
+            name: Simonne Jones
+            type: artist
+            uri: spotify:artist:0dMXglEw2nK3tkOH2hakyx
+          disc_number: 1
+          duration_ms: 297619
+          explicit: false
+          external_ids:
+            isrc: QM3T32100013
+          external_urls:
+            spotify: https://open.spotify.com/track/23UkIfzimLgWfiHb2XBKoY
+          href: https://api.spotify.com/v1/tracks/23UkIfzimLgWfiHb2XBKoY
+          id: 23UkIfzimLgWfiHb2XBKoY
+          is_local: false
+          is_playable: true
+          name: Love Me Stupid
+          track_number: 12
+          type: track
+          uri: spotify:track:23UkIfzimLgWfiHb2XBKoY
+    isrc: QM3T32100013

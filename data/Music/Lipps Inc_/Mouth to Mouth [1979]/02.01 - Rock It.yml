@@ -56,3 +56,72 @@ mediaFileData:
   year: 1979
   duration: 340.56
   modTime: 2024-02-27 01:09:36.609322+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6pYLturmXItPrUUuxL4lzf
+    trackId: 6pYLturmXItPrUUuxL4lzf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71206356&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ
+              href: https://api.spotify.com/v1/artists/0lwRI7lvmlRY5DiA5Xa6wQ
+              id: 0lwRI7lvmlRY5DiA5Xa6wQ
+              name: Lipps Inc.
+              type: artist
+              uri: spotify:artist:0lwRI7lvmlRY5DiA5Xa6wQ
+            external_urls:
+              spotify: https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh
+            href: https://api.spotify.com/v1/albums/1SMBOCE8CFqxr2EB92Asqh
+            id: 1SMBOCE8CFqxr2EB92Asqh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a5296d028b3e255aec56fc3c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a5296d028b3e255aec56fc3c
+            is_playable: true
+            name: Mouth To Mouth
+            release_date: '1979-11-01'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:1SMBOCE8CFqxr2EB92Asqh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ
+            href: https://api.spotify.com/v1/artists/0lwRI7lvmlRY5DiA5Xa6wQ
+            id: 0lwRI7lvmlRY5DiA5Xa6wQ
+            name: Lipps Inc.
+            type: artist
+            uri: spotify:artist:0lwRI7lvmlRY5DiA5Xa6wQ
+          disc_number: 1
+          duration_ms: 340533
+          explicit: false
+          external_ids:
+            isrc: USUM71206356
+          external_urls:
+            spotify: https://open.spotify.com/track/6pYLturmXItPrUUuxL4lzf
+          href: https://api.spotify.com/v1/tracks/6pYLturmXItPrUUuxL4lzf
+          id: 6pYLturmXItPrUUuxL4lzf
+          is_local: false
+          is_playable: true
+          name: Rock It
+          track_number: 3
+          type: track
+          uri: spotify:track:6pYLturmXItPrUUuxL4lzf
+    isrc: USUM71206356

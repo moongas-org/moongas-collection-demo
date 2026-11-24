@@ -42,3 +42,126 @@ mediaFileData:
   year: 2014
   duration: 203.5461224489796
   modTime: 2024-05-23 19:56:22.936521+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6FVRNdQc0ANqwiWMGBBBx9
+    trackId: 6FVRNdQc0ANqwiWMGBBBx9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71414227&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L
+              href: https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L
+              id: 4xRYI6VqpkE3UwrDrAZL8L
+              name: Logic
+              type: artist
+              uri: spotify:artist:4xRYI6VqpkE3UwrDrAZL8L
+            external_urls:
+              spotify: https://open.spotify.com/album/6n72BUQfMg8yo0rlWQibFl
+            href: https://api.spotify.com/v1/albums/6n72BUQfMg8yo0rlWQibFl
+            id: 6n72BUQfMg8yo0rlWQibFl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f64676710375da8246cf6d86
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f64676710375da8246cf6d86
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f64676710375da8246cf6d86
+            is_playable: true
+            name: Under Pressure (Deluxe)
+            release_date: '2014-10-21'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:6n72BUQfMg8yo0rlWQibFl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L
+            href: https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L
+            id: 4xRYI6VqpkE3UwrDrAZL8L
+            name: Logic
+            type: artist
+            uri: spotify:artist:4xRYI6VqpkE3UwrDrAZL8L
+          disc_number: 1
+          duration_ms: 203506
+          explicit: false
+          external_ids:
+            isrc: USUM71414227
+          external_urls:
+            spotify: https://open.spotify.com/track/6FVRNdQc0ANqwiWMGBBBx9
+          href: https://api.spotify.com/v1/tracks/6FVRNdQc0ANqwiWMGBBBx9
+          id: 6FVRNdQc0ANqwiWMGBBBx9
+          is_local: false
+          is_playable: true
+          name: Nikki
+          track_number: 10
+          type: track
+          uri: spotify:track:6FVRNdQc0ANqwiWMGBBBx9
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L
+              href: https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L
+              id: 4xRYI6VqpkE3UwrDrAZL8L
+              name: Logic
+              type: artist
+              uri: spotify:artist:4xRYI6VqpkE3UwrDrAZL8L
+            external_urls:
+              spotify: https://open.spotify.com/album/32tY0jyvipJKiINGEbvSD1
+            href: https://api.spotify.com/v1/albums/32tY0jyvipJKiINGEbvSD1
+            id: 32tY0jyvipJKiINGEbvSD1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273337181f6bc875b34bc8960b1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02337181f6bc875b34bc8960b1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851337181f6bc875b34bc8960b1
+            is_playable: true
+            name: Under Pressure
+            release_date: '2014-10-21'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:32tY0jyvipJKiINGEbvSD1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L
+            href: https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L
+            id: 4xRYI6VqpkE3UwrDrAZL8L
+            name: Logic
+            type: artist
+            uri: spotify:artist:4xRYI6VqpkE3UwrDrAZL8L
+          disc_number: 1
+          duration_ms: 203506
+          explicit: false
+          external_ids:
+            isrc: USUM71414227
+          external_urls:
+            spotify: https://open.spotify.com/track/3km6dgJiHiYMrcLjxKPxt8
+          href: https://api.spotify.com/v1/tracks/3km6dgJiHiYMrcLjxKPxt8
+          id: 3km6dgJiHiYMrcLjxKPxt8
+          is_local: false
+          is_playable: true
+          name: Nikki
+          track_number: 10
+          type: track
+          uri: spotify:track:3km6dgJiHiYMrcLjxKPxt8
+    isrc: USUM71414227

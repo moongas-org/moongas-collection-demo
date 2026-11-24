@@ -91,3 +91,288 @@ mediaFileData:
   year: 1999
   duration: 205.6070625
   modTime: 2024-02-21 20:16:56.947492+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8
+    trackId: 1wsRitfRRtWyEapl0q22o8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19919500&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSSM19919500&type=track
+        offset: 0
+        previous:
+        total: 10
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj
+              href: https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj
+              id: 2d0hyoQ5ynDBnkvAbJKORj
+              name: Rage Against The Machine
+              type: artist
+              uri: spotify:artist:2d0hyoQ5ynDBnkvAbJKORj
+            external_urls:
+              spotify: https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX
+            href: https://api.spotify.com/v1/albums/2eia0myWFgoHuttJytCxgX
+            id: 2eia0myWFgoHuttJytCxgX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023c2579a4f8cacd5b95b8fa68
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513c2579a4f8cacd5b95b8fa68
+            is_playable: true
+            name: The Battle Of Los Angeles
+            release_date: '1999-11-02'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2eia0myWFgoHuttJytCxgX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj
+            href: https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj
+            id: 2d0hyoQ5ynDBnkvAbJKORj
+            name: Rage Against The Machine
+            type: artist
+            uri: spotify:artist:2d0hyoQ5ynDBnkvAbJKORj
+          disc_number: 1
+          duration_ms: 206200
+          explicit: true
+          external_ids:
+            isrc: USSM19919500
+          external_urls:
+            spotify: https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8
+          href: https://api.spotify.com/v1/tracks/1wsRitfRRtWyEapl0q22o8
+          id: 1wsRitfRRtWyEapl0q22o8
+          is_local: false
+          is_playable: true
+          name: Guerrilla Radio
+          track_number: 2
+          type: track
+          uri: spotify:track:1wsRitfRRtWyEapl0q22o8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4TolSIc0n1yb3G9hfxsrZe
+            href: https://api.spotify.com/v1/albums/4TolSIc0n1yb3G9hfxsrZe
+            id: 4TolSIc0n1yb3G9hfxsrZe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27361a9ac8dc4b06655f37b6bd7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0261a9ac8dc4b06655f37b6bd7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485161a9ac8dc4b06655f37b6bd7
+            is_playable: true
+            name: 90s Hits / Top 100 Songs
+            release_date: '2023-06-13'
+            release_date_precision: day
+            total_tracks: 84
+            type: album
+            uri: spotify:album:4TolSIc0n1yb3G9hfxsrZe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj
+            href: https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj
+            id: 2d0hyoQ5ynDBnkvAbJKORj
+            name: Rage Against The Machine
+            type: artist
+            uri: spotify:artist:2d0hyoQ5ynDBnkvAbJKORj
+          disc_number: 1
+          duration_ms: 206200
+          explicit: true
+          external_ids:
+            isrc: USSM19919500
+          external_urls:
+            spotify: https://open.spotify.com/track/4AmXAT38BtbzRwTklfD1o4
+          href: https://api.spotify.com/v1/tracks/4AmXAT38BtbzRwTklfD1o4
+          id: 4AmXAT38BtbzRwTklfD1o4
+          is_local: false
+          is_playable: true
+          name: Guerrilla Radio
+          track_number: 81
+          type: track
+          uri: spotify:track:4AmXAT38BtbzRwTklfD1o4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5A4KeAKeWZbwVOHI6PkkTP
+            href: https://api.spotify.com/v1/albums/5A4KeAKeWZbwVOHI6PkkTP
+            id: 5A4KeAKeWZbwVOHI6PkkTP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d8358a54467cf5d47fa02037
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d8358a54467cf5d47fa02037
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d8358a54467cf5d47fa02037
+            is_playable: true
+            name: 2000 Pop Punk Anthems
+            release_date: '2025-01-17'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:5A4KeAKeWZbwVOHI6PkkTP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj
+            href: https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj
+            id: 2d0hyoQ5ynDBnkvAbJKORj
+            name: Rage Against The Machine
+            type: artist
+            uri: spotify:artist:2d0hyoQ5ynDBnkvAbJKORj
+          disc_number: 1
+          duration_ms: 206200
+          explicit: true
+          external_ids:
+            isrc: USSM19919500
+          external_urls:
+            spotify: https://open.spotify.com/track/6rWggob1tTX2i63uYwq04N
+          href: https://api.spotify.com/v1/tracks/6rWggob1tTX2i63uYwq04N
+          id: 6rWggob1tTX2i63uYwq04N
+          is_local: false
+          is_playable: true
+          name: Guerrilla Radio
+          track_number: 2
+          type: track
+          uri: spotify:track:6rWggob1tTX2i63uYwq04N
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5MYyhtULiZGAy41yLRIGo9
+            href: https://api.spotify.com/v1/albums/5MYyhtULiZGAy41yLRIGo9
+            id: 5MYyhtULiZGAy41yLRIGo9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cfe81ebc3be7e7ffb29ec182
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cfe81ebc3be7e7ffb29ec182
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cfe81ebc3be7e7ffb29ec182
+            is_playable: true
+            name: 80s Hits / Top 100 Songs
+            release_date: '2023-06-13'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:5MYyhtULiZGAy41yLRIGo9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj
+            href: https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj
+            id: 2d0hyoQ5ynDBnkvAbJKORj
+            name: Rage Against The Machine
+            type: artist
+            uri: spotify:artist:2d0hyoQ5ynDBnkvAbJKORj
+          disc_number: 1
+          duration_ms: 206200
+          explicit: true
+          external_ids:
+            isrc: USSM19919500
+          external_urls:
+            spotify: https://open.spotify.com/track/1qEL0BhCPWnCkzwLP09zov
+          href: https://api.spotify.com/v1/tracks/1qEL0BhCPWnCkzwLP09zov
+          id: 1qEL0BhCPWnCkzwLP09zov
+          is_local: false
+          is_playable: true
+          name: Guerrilla Radio
+          track_number: 43
+          type: track
+          uri: spotify:track:1qEL0BhCPWnCkzwLP09zov
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6yjJVxrfSV2NehxmQ1wT6z
+            href: https://api.spotify.com/v1/albums/6yjJVxrfSV2NehxmQ1wT6z
+            id: 6yjJVxrfSV2NehxmQ1wT6z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738398fbc1edd2209d5a8e0132
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028398fbc1edd2209d5a8e0132
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518398fbc1edd2209d5a8e0132
+            is_playable: true
+            name: Y2K Alt Rock Hits
+            release_date: '2025-01-17'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:6yjJVxrfSV2NehxmQ1wT6z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj
+            href: https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj
+            id: 2d0hyoQ5ynDBnkvAbJKORj
+            name: Rage Against The Machine
+            type: artist
+            uri: spotify:artist:2d0hyoQ5ynDBnkvAbJKORj
+          disc_number: 1
+          duration_ms: 206200
+          explicit: true
+          external_ids:
+            isrc: USSM19919500
+          external_urls:
+            spotify: https://open.spotify.com/track/0D7o0QhWsn4L0nP1fUHA7r
+          href: https://api.spotify.com/v1/tracks/0D7o0QhWsn4L0nP1fUHA7r
+          id: 0D7o0QhWsn4L0nP1fUHA7r
+          is_local: false
+          is_playable: true
+          name: Guerrilla Radio
+          track_number: 11
+          type: track
+          uri: spotify:track:0D7o0QhWsn4L0nP1fUHA7r
+    isrc: USSM19919500

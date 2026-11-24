@@ -94,3 +94,72 @@ mediaFileData:
   year: 1950
   duration: 153.3897
   modTime: 2022-12-10 02:07:02.960000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN
+    trackId: 2cwGK6ZYfiZ1EZva2VEKSN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19913557&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP
+              href: https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP
+              id: 5sAg1HZePcFfhrs0G8A8OP
+              name: Ray Price
+              type: artist
+              uri: spotify:artist:5sAg1HZePcFfhrs0G8A8OP
+            external_urls:
+              spotify: https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX
+            href: https://api.spotify.com/v1/albums/1iIdCS3AKg1XSovy1KsfXX
+            id: 1iIdCS3AKg1XSovy1KsfXX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736b3ff291369cd9bd6c2258cd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026b3ff291369cd9bd6c2258cd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516b3ff291369cd9bd6c2258cd
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1987-04-07'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1iIdCS3AKg1XSovy1KsfXX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP
+            href: https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP
+            id: 5sAg1HZePcFfhrs0G8A8OP
+            name: Ray Price
+            type: artist
+            uri: spotify:artist:5sAg1HZePcFfhrs0G8A8OP
+          disc_number: 1
+          duration_ms: 152906
+          explicit: false
+          external_ids:
+            isrc: USSM19913557
+          external_urls:
+            spotify: https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN
+          href: https://api.spotify.com/v1/tracks/2cwGK6ZYfiZ1EZva2VEKSN
+          id: 2cwGK6ZYfiZ1EZva2VEKSN
+          is_local: false
+          is_playable: true
+          name: Crazy Arms
+          track_number: 1
+          type: track
+          uri: spotify:track:2cwGK6ZYfiZ1EZva2VEKSN
+    isrc: USSM19913557

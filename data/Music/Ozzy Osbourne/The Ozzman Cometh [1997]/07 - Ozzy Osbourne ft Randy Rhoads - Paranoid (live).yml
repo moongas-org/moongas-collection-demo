@@ -108,3 +108,126 @@ mediaFileData:
   year: 1997
   duration: 173.36
   modTime: 2023-07-17 00:37:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6hXXWtLQvIW8Ba3z86C0Mi
+    trackId: 6hXXWtLQvIW8Ba3z86C0Mi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM18700028&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY
+              href: https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY
+              id: 6ZLTlhejhndI4Rh53vYhrY
+              name: Ozzy Osbourne
+              type: artist
+              uri: spotify:artist:6ZLTlhejhndI4Rh53vYhrY
+            external_urls:
+              spotify: https://open.spotify.com/album/5d47ow5T5G4UqZBS4g61dH
+            href: https://api.spotify.com/v1/albums/5d47ow5T5G4UqZBS4g61dH
+            id: 5d47ow5T5G4UqZBS4g61dH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b64f1b5e27a8501dfd13ac1f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b64f1b5e27a8501dfd13ac1f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b64f1b5e27a8501dfd13ac1f
+            is_playable: true
+            name: Tribute
+            release_date: '1987-03-19'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5d47ow5T5G4UqZBS4g61dH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY
+            href: https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY
+            id: 6ZLTlhejhndI4Rh53vYhrY
+            name: Ozzy Osbourne
+            type: artist
+            uri: spotify:artist:6ZLTlhejhndI4Rh53vYhrY
+          disc_number: 1
+          duration_ms: 180197
+          explicit: false
+          external_ids:
+            isrc: USSM18700028
+          external_urls:
+            spotify: https://open.spotify.com/track/6hXXWtLQvIW8Ba3z86C0Mi
+          href: https://api.spotify.com/v1/tracks/6hXXWtLQvIW8Ba3z86C0Mi
+          id: 6hXXWtLQvIW8Ba3z86C0Mi
+          is_local: false
+          is_playable: true
+          name: Paranoid - Live 1981
+          track_number: 11
+          type: track
+          uri: spotify:track:6hXXWtLQvIW8Ba3z86C0Mi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY
+              href: https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY
+              id: 6ZLTlhejhndI4Rh53vYhrY
+              name: Ozzy Osbourne
+              type: artist
+              uri: spotify:artist:6ZLTlhejhndI4Rh53vYhrY
+            external_urls:
+              spotify: https://open.spotify.com/album/6eyLkYlVShYcXYiAgKVnQt
+            href: https://api.spotify.com/v1/albums/6eyLkYlVShYcXYiAgKVnQt
+            id: 6eyLkYlVShYcXYiAgKVnQt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273698c9c30c686012b08bdbf71
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02698c9c30c686012b08bdbf71
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851698c9c30c686012b08bdbf71
+            is_playable: true
+            name: The Essential Ozzy Osbourne
+            release_date: '2003-02-11'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:6eyLkYlVShYcXYiAgKVnQt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY
+            href: https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY
+            id: 6ZLTlhejhndI4Rh53vYhrY
+            name: Ozzy Osbourne
+            type: artist
+            uri: spotify:artist:6ZLTlhejhndI4Rh53vYhrY
+          disc_number: 1
+          duration_ms: 181425
+          explicit: false
+          external_ids:
+            isrc: USSM18700028
+          external_urls:
+            spotify: https://open.spotify.com/track/6msAMjIe3WbLXEpXv2V870
+          href: https://api.spotify.com/v1/tracks/6msAMjIe3WbLXEpXv2V870
+          id: 6msAMjIe3WbLXEpXv2V870
+          is_local: false
+          is_playable: true
+          name: Paranoid - Live 1981
+          track_number: 9
+          type: track
+          uri: spotify:track:6msAMjIe3WbLXEpXv2V870
+    isrc: USSM18700028

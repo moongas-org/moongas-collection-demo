@@ -83,3 +83,72 @@ mediaFileData:
   year: 1972
   duration: 247.3497
   modTime: 2023-09-27 21:39:50+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ZmyyPpsBYt7q4SqQd8HO0
+    trackId: 1ZmyyPpsBYt7q4SqQd8HO0
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE12200585&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm
+              href: https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm
+              id: 6v8FB84lnmJs434UJf2Mrm
+              name: Neil Young
+              type: artist
+              uri: spotify:artist:6v8FB84lnmJs434UJf2Mrm
+            external_urls:
+              spotify: https://open.spotify.com/album/2LOpi63tYGh0Suy8eLJDVQ
+            href: https://api.spotify.com/v1/albums/2LOpi63tYGh0Suy8eLJDVQ
+            id: 2LOpi63tYGh0Suy8eLJDVQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dd19d44cf651a37e3532a945
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dd19d44cf651a37e3532a945
+            is_playable: true
+            name: Harvest (50th Anniversary Edition)
+            release_date: '1972-02-01'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:2LOpi63tYGh0Suy8eLJDVQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm
+            href: https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm
+            id: 6v8FB84lnmJs434UJf2Mrm
+            name: Neil Young
+            type: artist
+            uri: spotify:artist:6v8FB84lnmJs434UJf2Mrm
+          disc_number: 1
+          duration_ms: 245221
+          explicit: false
+          external_ids:
+            isrc: USRE12200585
+          external_urls:
+            spotify: https://open.spotify.com/track/1ZmyyPpsBYt7q4SqQd8HO0
+          href: https://api.spotify.com/v1/tracks/1ZmyyPpsBYt7q4SqQd8HO0
+          id: 1ZmyyPpsBYt7q4SqQd8HO0
+          is_local: false
+          is_playable: true
+          name: A Man Needs a Maid
+          track_number: 3
+          type: track
+          uri: spotify:track:1ZmyyPpsBYt7q4SqQd8HO0
+    isrc: USRE12200585

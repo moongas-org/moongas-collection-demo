@@ -34,3 +34,72 @@ mediaFileData:
   year: 2021
   duration: 10.8
   modTime: 2025-03-10 23:03:09.830318+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5BqYTiAVEoYYokpmLTtsVq
+    trackId: 5BqYTiAVEoYYokpmLTtsVq
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM5WW1500878&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3
+              href: https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3
+              id: 6aVjo0xHSiuW5hkasoYSR3
+              name: Melvins
+              type: artist
+              uri: spotify:artist:6aVjo0xHSiuW5hkasoYSR3
+            external_urls:
+              spotify: https://open.spotify.com/album/6DopY1dcG1KjVJwNluUaGp
+            href: https://api.spotify.com/v1/albums/6DopY1dcG1KjVJwNluUaGp
+            id: 6DopY1dcG1KjVJwNluUaGp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739d1ab3a1ec8c1e48920c75a8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029d1ab3a1ec8c1e48920c75a8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519d1ab3a1ec8c1e48920c75a8
+            is_playable: true
+            name: Working With God
+            release_date: '2021-02-26'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:6DopY1dcG1KjVJwNluUaGp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3
+            href: https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3
+            id: 6aVjo0xHSiuW5hkasoYSR3
+            name: Melvins
+            type: artist
+            uri: spotify:artist:6aVjo0xHSiuW5hkasoYSR3
+          disc_number: 1
+          duration_ms: 10760
+          explicit: true
+          external_ids:
+            isrc: QM5WW1500878
+          external_urls:
+            spotify: https://open.spotify.com/track/5BqYTiAVEoYYokpmLTtsVq
+          href: https://api.spotify.com/v1/tracks/5BqYTiAVEoYYokpmLTtsVq
+          id: 5BqYTiAVEoYYokpmLTtsVq
+          is_local: false
+          is_playable: true
+          name: Fuck You
+          track_number: 9
+          type: track
+          uri: spotify:track:5BqYTiAVEoYYokpmLTtsVq
+    isrc: QM5WW1500878

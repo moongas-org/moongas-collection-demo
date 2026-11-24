@@ -34,3 +34,72 @@ mediaFileData:
   year: 2018
   duration: 164.208
   modTime: 2025-01-01 20:34:01.110410+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/26UinddFbmPE2woBqQ246S
+    trackId: 26UinddFbmPE2woBqQ246S
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCVZ1700227&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k
+              href: https://api.spotify.com/v1/artists/23NIwARd4vPbxt3wwNnJ6k
+              id: 23NIwARd4vPbxt3wwNnJ6k
+              name: Parquet Courts
+              type: artist
+              uri: spotify:artist:23NIwARd4vPbxt3wwNnJ6k
+            external_urls:
+              spotify: https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ
+            href: https://api.spotify.com/v1/albums/6NTaxSEZsDR5RlGyBzKNmZ
+            id: 6NTaxSEZsDR5RlGyBzKNmZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273108838d197c9a7bc9cb61b6b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02108838d197c9a7bc9cb61b6b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851108838d197c9a7bc9cb61b6b
+            is_playable: true
+            name: Wide Awake!
+            release_date: '2018-05-18'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:6NTaxSEZsDR5RlGyBzKNmZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k
+            href: https://api.spotify.com/v1/artists/23NIwARd4vPbxt3wwNnJ6k
+            id: 23NIwARd4vPbxt3wwNnJ6k
+            name: Parquet Courts
+            type: artist
+            uri: spotify:artist:23NIwARd4vPbxt3wwNnJ6k
+          disc_number: 1
+          duration_ms: 158906
+          explicit: false
+          external_ids:
+            isrc: GBCVZ1700227
+          external_urls:
+            spotify: https://open.spotify.com/track/26UinddFbmPE2woBqQ246S
+          href: https://api.spotify.com/v1/tracks/26UinddFbmPE2woBqQ246S
+          id: 26UinddFbmPE2woBqQ246S
+          is_local: false
+          is_playable: true
+          name: Wide Awake
+          track_number: 9
+          type: track
+          uri: spotify:track:26UinddFbmPE2woBqQ246S
+    isrc: GBCVZ1700227

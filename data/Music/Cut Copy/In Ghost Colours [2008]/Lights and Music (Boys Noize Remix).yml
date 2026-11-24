@@ -49,3 +49,86 @@ mediaFileData:
   year: 2008
   duration: 317.2049
   modTime: 2025-01-11 01:02:02.353041+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6wOtHyAj0LL274rX3qmhhd
+    trackId: 6wOtHyAj0LL274rX3qmhhd
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEDU21700023&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv
+              href: https://api.spotify.com/v1/artists/62k5LKMhymqlDNo2DWOvvv
+              id: 62k5LKMhymqlDNo2DWOvvv
+              name: Boys Noize
+              type: artist
+              uri: spotify:artist:62k5LKMhymqlDNo2DWOvvv
+            external_urls:
+              spotify: https://open.spotify.com/album/6Q3OvmdQHWwlV6p0JbtgOk
+            href: https://api.spotify.com/v1/albums/6Q3OvmdQHWwlV6p0JbtgOk
+            id: 6Q3OvmdQHWwlV6p0JbtgOk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734e6d536b23ae40e2794aaedc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024e6d536b23ae40e2794aaedc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514e6d536b23ae40e2794aaedc
+            is_playable: true
+            name: Mayday Remixes, Pt. 1
+            release_date: '2017-03-03'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:6Q3OvmdQHWwlV6p0JbtgOk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv
+            href: https://api.spotify.com/v1/artists/62k5LKMhymqlDNo2DWOvvv
+            id: 62k5LKMhymqlDNo2DWOvvv
+            name: Boys Noize
+            type: artist
+            uri: spotify:artist:62k5LKMhymqlDNo2DWOvvv
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb
+            href: https://api.spotify.com/v1/artists/6olWbKW2VLhFCHfOi0iEDb
+            id: 6olWbKW2VLhFCHfOi0iEDb
+            name: Hudson Mohawke
+            type: artist
+            uri: spotify:artist:6olWbKW2VLhFCHfOi0iEDb
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2
+            href: https://api.spotify.com/v1/artists/1LcLsIWOl1Z8vo1wl6bxg2
+            id: 1LcLsIWOl1Z8vo1wl6bxg2
+            name: Spank Rock
+            type: artist
+            uri: spotify:artist:1LcLsIWOl1Z8vo1wl6bxg2
+          disc_number: 1
+          duration_ms: 316421
+          explicit: false
+          external_ids:
+            isrc: DEDU21700023
+          external_urls:
+            spotify: https://open.spotify.com/track/6wOtHyAj0LL274rX3qmhhd
+          href: https://api.spotify.com/v1/tracks/6wOtHyAj0LL274rX3qmhhd
+          id: 6wOtHyAj0LL274rX3qmhhd
+          is_local: false
+          is_playable: true
+          name: Birthday - Rockwell Remix
+          track_number: 7
+          type: track
+          uri: spotify:track:6wOtHyAj0LL274rX3qmhhd
+    isrc: DEDU21700023

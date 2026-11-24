@@ -34,3 +34,72 @@ mediaFileData:
   year: 2025
   duration: 294.81795918367345
   modTime: 2026-02-19 03:03:12.436794+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2uG0P2hmV3lzhNn9wxkRGM
+    trackId: 2uG0P2hmV3lzhNn9wxkRGM
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMRSZ2500434&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw
+              href: https://api.spotify.com/v1/artists/56dO9zeHKuU5Gvfc2kxHNw
+              id: 56dO9zeHKuU5Gvfc2kxHNw
+              name: Chevelle
+              type: artist
+              uri: spotify:artist:56dO9zeHKuU5Gvfc2kxHNw
+            external_urls:
+              spotify: https://open.spotify.com/album/4UfWCai5kezrUuom68hwHt
+            href: https://api.spotify.com/v1/albums/4UfWCai5kezrUuom68hwHt
+            id: 4UfWCai5kezrUuom68hwHt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bf8e2fa7cc941431d276ff2c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bf8e2fa7cc941431d276ff2c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bf8e2fa7cc941431d276ff2c
+            is_playable: true
+            name: Bright as Blasphemy
+            release_date: '2025-08-15'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:4UfWCai5kezrUuom68hwHt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw
+            href: https://api.spotify.com/v1/artists/56dO9zeHKuU5Gvfc2kxHNw
+            id: 56dO9zeHKuU5Gvfc2kxHNw
+            name: Chevelle
+            type: artist
+            uri: spotify:artist:56dO9zeHKuU5Gvfc2kxHNw
+          disc_number: 1
+          duration_ms: 295000
+          explicit: false
+          external_ids:
+            isrc: QMRSZ2500434
+          external_urls:
+            spotify: https://open.spotify.com/track/2uG0P2hmV3lzhNn9wxkRGM
+          href: https://api.spotify.com/v1/tracks/2uG0P2hmV3lzhNn9wxkRGM
+          id: 2uG0P2hmV3lzhNn9wxkRGM
+          is_local: false
+          is_playable: true
+          name: Shocked at the end of the world
+          track_number: 9
+          type: track
+          uri: spotify:track:2uG0P2hmV3lzhNn9wxkRGM
+    isrc: QMRSZ2500434

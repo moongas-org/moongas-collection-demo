@@ -52,3 +52,126 @@ mediaFileData:
   year: 1997
   duration: 164.592
   modTime: 2024-10-23 23:22:55.706515+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0wrjNnj3QP3K8JuCy91zWB
+    trackId: 0wrjNnj3QP3K8JuCy91zWB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBDUW0600003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
+              href: https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi
+              id: 4tZwfgrHOc3mvqYlEYSvVi
+              name: Daft Punk
+              type: artist
+              uri: spotify:artist:4tZwfgrHOc3mvqYlEYSvVi
+            external_urls:
+              spotify: https://open.spotify.com/album/6JRaPcrT3cMBEmkgSqEPhI
+            href: https://api.spotify.com/v1/albums/6JRaPcrT3cMBEmkgSqEPhI
+            id: 6JRaPcrT3cMBEmkgSqEPhI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27387aa91b6ba6b4fded7bf3293
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0287aa91b6ba6b4fded7bf3293
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485187aa91b6ba6b4fded7bf3293
+            is_playable: true
+            name: Homework (25th Anniversary Edition)
+            release_date: '1997-01-20'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:6JRaPcrT3cMBEmkgSqEPhI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
+            href: https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi
+            id: 4tZwfgrHOc3mvqYlEYSvVi
+            name: Daft Punk
+            type: artist
+            uri: spotify:artist:4tZwfgrHOc3mvqYlEYSvVi
+          disc_number: 1
+          duration_ms: 164560
+          explicit: false
+          external_ids:
+            isrc: GBDUW0600003
+          external_urls:
+            spotify: https://open.spotify.com/track/0wrjNnj3QP3K8JuCy91zWB
+          href: https://api.spotify.com/v1/tracks/0wrjNnj3QP3K8JuCy91zWB
+          id: 0wrjNnj3QP3K8JuCy91zWB
+          is_local: false
+          is_playable: true
+          name: Daftendirekt
+          track_number: 1
+          type: track
+          uri: spotify:track:0wrjNnj3QP3K8JuCy91zWB
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
+              href: https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi
+              id: 4tZwfgrHOc3mvqYlEYSvVi
+              name: Daft Punk
+              type: artist
+              uri: spotify:artist:4tZwfgrHOc3mvqYlEYSvVi
+            external_urls:
+              spotify: https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y
+            href: https://api.spotify.com/v1/albums/5uRdvUR7xCnHmUW8n64n9y
+            id: 5uRdvUR7xCnHmUW8n64n9y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ac778cc7d88779f74d33311
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ac778cc7d88779f74d33311
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ac778cc7d88779f74d33311
+            is_playable: true
+            name: Homework
+            release_date: '1997-01-17'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:5uRdvUR7xCnHmUW8n64n9y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
+            href: https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi
+            id: 4tZwfgrHOc3mvqYlEYSvVi
+            name: Daft Punk
+            type: artist
+            uri: spotify:artist:4tZwfgrHOc3mvqYlEYSvVi
+          disc_number: 1
+          duration_ms: 164560
+          explicit: false
+          external_ids:
+            isrc: GBDUW0600003
+          external_urls:
+            spotify: https://open.spotify.com/track/7fYIXtdOUl8WqXAqQGyIHQ
+          href: https://api.spotify.com/v1/tracks/7fYIXtdOUl8WqXAqQGyIHQ
+          id: 7fYIXtdOUl8WqXAqQGyIHQ
+          is_local: false
+          is_playable: true
+          name: Daftendirekt
+          track_number: 1
+          type: track
+          uri: spotify:track:7fYIXtdOUl8WqXAqQGyIHQ
+    isrc: GBDUW0600003

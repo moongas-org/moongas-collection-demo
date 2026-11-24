@@ -96,3 +96,79 @@ mediaFileData:
   year: 1986
   duration: 205.54046875
   modTime: 2023-05-14 00:18:46.270000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4N42ow0h4JoK68OQwOzsQn
+    trackId: 4N42ow0h4JoK68OQwOzsQn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCRL1100212&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+              href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+              id: 0yNLKJebCb8Aueb54LYya3
+              name: New Order
+              type: artist
+              uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+            - external_urls:
+                spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+              href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+              id: 432R46LaYsJZV2Gmc4jUV5
+              name: Joy Division
+              type: artist
+              uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+            external_urls:
+              spotify: https://open.spotify.com/album/3rPC5Y8e9S6dGGkWvRYPRD
+            href: https://api.spotify.com/v1/albums/3rPC5Y8e9S6dGGkWvRYPRD
+            id: 3rPC5Y8e9S6dGGkWvRYPRD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737b2ed55c469487b2be37cac0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027b2ed55c469487b2be37cac0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517b2ed55c469487b2be37cac0
+            is_playable: true
+            name: TOTAL
+            release_date: '2011-06-03'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:3rPC5Y8e9S6dGGkWvRYPRD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+            href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+            id: 432R46LaYsJZV2Gmc4jUV5
+            name: Joy Division
+            type: artist
+            uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+          disc_number: 1
+          duration_ms: 206226
+          explicit: false
+          external_ids:
+            isrc: GBCRL1100212
+          external_urls:
+            spotify: https://open.spotify.com/track/4N42ow0h4JoK68OQwOzsQn
+          href: https://api.spotify.com/v1/tracks/4N42ow0h4JoK68OQwOzsQn
+          id: 4N42ow0h4JoK68OQwOzsQn
+          is_local: false
+          is_playable: true
+          name: Love Will Tear Us Apart
+          track_number: 2
+          type: track
+          uri: spotify:track:4N42ow0h4JoK68OQwOzsQn
+    isrc: GBCRL1100212

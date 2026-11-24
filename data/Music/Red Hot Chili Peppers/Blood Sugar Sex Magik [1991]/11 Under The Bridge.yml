@@ -149,3 +149,288 @@ mediaFileData:
   year: 1991
   duration: 264.4767346938776
   modTime: 2023-05-14 16:04:04.420000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5PclxRY6shIQzSKxxbdZso
+    trackId: 5PclxRY6shIQzSKxxbdZso
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901576&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB19901576&type=track
+        offset: 0
+        previous:
+        total: 100
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/1DCI2yWmV4UI7Aga71yx9B
+            href: https://api.spotify.com/v1/albums/1DCI2yWmV4UI7Aga71yx9B
+            id: 1DCI2yWmV4UI7Aga71yx9B
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e7957730bc48a85ee53657fd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e7957730bc48a85ee53657fd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e7957730bc48a85ee53657fd
+            is_playable: true
+            name: Blood Sugar Sex Magik
+            release_date: '1991-09-24'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:1DCI2yWmV4UI7Aga71yx9B
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 264306
+          explicit: false
+          external_ids:
+            isrc: USWB19901576
+          external_urls:
+            spotify: https://open.spotify.com/track/5PclxRY6shIQzSKxxbdZso
+          href: https://api.spotify.com/v1/tracks/5PclxRY6shIQzSKxxbdZso
+          id: 5PclxRY6shIQzSKxxbdZso
+          is_local: false
+          is_playable: true
+          name: Under the Bridge
+          track_number: 11
+          type: track
+          uri: spotify:track:5PclxRY6shIQzSKxxbdZso
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC
+            href: https://api.spotify.com/v1/albums/53tvjWbVNZKd3CvpENkzOC
+            id: 53tvjWbVNZKd3CvpENkzOC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735590b4ee88187cb06a5b102d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025590b4ee88187cb06a5b102d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515590b4ee88187cb06a5b102d
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2003-11-18'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:53tvjWbVNZKd3CvpENkzOC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 265506
+          explicit: false
+          external_ids:
+            isrc: USWB19901576
+          external_urls:
+            spotify: https://open.spotify.com/track/23NPGXlSaIqWzvxIRhM2oG
+          href: https://api.spotify.com/v1/tracks/23NPGXlSaIqWzvxIRhM2oG
+          id: 23NPGXlSaIqWzvxIRhM2oG
+          is_local: false
+          is_playable: true
+          name: Under the Bridge
+          track_number: 1
+          type: track
+          uri: spotify:track:23NPGXlSaIqWzvxIRhM2oG
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5TeAaeaUTh4SrvDJ7aKnOV
+            href: https://api.spotify.com/v1/albums/5TeAaeaUTh4SrvDJ7aKnOV
+            id: 5TeAaeaUTh4SrvDJ7aKnOV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c0ce2f4480c131ad37f01451
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c0ce2f4480c131ad37f01451
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c0ce2f4480c131ad37f01451
+            is_playable: true
+            name: Classic Rock Songs - 60s, 70s, 80s, 90s, 00s
+            release_date: '2025-01-28'
+            release_date_precision: day
+            total_tracks: 39
+            type: album
+            uri: spotify:album:5TeAaeaUTh4SrvDJ7aKnOV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 264306
+          explicit: false
+          external_ids:
+            isrc: USWB19901576
+          external_urls:
+            spotify: https://open.spotify.com/track/0WqeGLYP6qQqpt9qoXHhNF
+          href: https://api.spotify.com/v1/tracks/0WqeGLYP6qQqpt9qoXHhNF
+          id: 0WqeGLYP6qQqpt9qoXHhNF
+          is_local: false
+          is_playable: true
+          name: Under the Bridge
+          track_number: 18
+          type: track
+          uri: spotify:track:0WqeGLYP6qQqpt9qoXHhNF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/6kLm0YrEESYq7yszohzkA1
+            href: https://api.spotify.com/v1/albums/6kLm0YrEESYq7yszohzkA1
+            id: 6kLm0YrEESYq7yszohzkA1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7c5d13d9e92bd1704de0a6f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7c5d13d9e92bd1704de0a6f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7c5d13d9e92bd1704de0a6f
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2003-11-18'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:6kLm0YrEESYq7yszohzkA1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 265506
+          explicit: false
+          external_ids:
+            isrc: USWB19901576
+          external_urls:
+            spotify: https://open.spotify.com/track/4zkzkEQGjfzmq0tVzpsMdM
+          href: https://api.spotify.com/v1/tracks/4zkzkEQGjfzmq0tVzpsMdM
+          id: 4zkzkEQGjfzmq0tVzpsMdM
+          is_local: false
+          is_playable: true
+          name: Under the Bridge
+          track_number: 1
+          type: track
+          uri: spotify:track:4zkzkEQGjfzmq0tVzpsMdM
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg
+            href: https://api.spotify.com/v1/albums/30Perjew8HyGkdSmqguYyg
+            id: 30Perjew8HyGkdSmqguYyg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273153d79816d853f2694b2cc70
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851153d79816d853f2694b2cc70
+            is_playable: true
+            name: Blood Sugar Sex Magik (Deluxe Edition)
+            release_date: '1991-09-24'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:30Perjew8HyGkdSmqguYyg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 264306
+          explicit: false
+          external_ids:
+            isrc: USWB19901576
+          external_urls:
+            spotify: https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0
+          href: https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0
+          id: 3d9DChrdc6BOeFsbrZ3Is0
+          is_local: false
+          is_playable: true
+          name: Under the Bridge
+          track_number: 11
+          type: track
+          uri: spotify:track:3d9DChrdc6BOeFsbrZ3Is0
+    isrc: USWB19901576

@@ -127,3 +127,288 @@ mediaFileData:
   year: 1994
   duration: 217.632
   modTime: 2024-10-27 19:03:21.506267+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3X414ZlCf5U7pcpIaIcUkT
+    trackId: 3X414ZlCf5U7pcpIaIcUkT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBB40581290&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSBB40581290&type=track
+        offset: 0
+        previous:
+        total: 24
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf
+              href: https://api.spotify.com/v1/artists/4akj4uteQQrrGxhX9Rjuyf
+              id: 4akj4uteQQrrGxhX9Rjuyf
+              name: Craig Mack
+              type: artist
+              uri: spotify:artist:4akj4uteQQrrGxhX9Rjuyf
+            external_urls:
+              spotify: https://open.spotify.com/album/6BtFnL80q39q0OcSBroqwy
+            href: https://api.spotify.com/v1/albums/6BtFnL80q39q0OcSBroqwy
+            id: 6BtFnL80q39q0OcSBroqwy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27382dfc4648957b8e88c1fc497
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0282dfc4648957b8e88c1fc497
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485182dfc4648957b8e88c1fc497
+            is_playable: true
+            name: 'Project: Funk Da World'
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6BtFnL80q39q0OcSBroqwy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf
+            href: https://api.spotify.com/v1/artists/4akj4uteQQrrGxhX9Rjuyf
+            id: 4akj4uteQQrrGxhX9Rjuyf
+            name: Craig Mack
+            type: artist
+            uri: spotify:artist:4akj4uteQQrrGxhX9Rjuyf
+          disc_number: 1
+          duration_ms: 217466
+          explicit: true
+          external_ids:
+            isrc: USBB40581290
+          external_urls:
+            spotify: https://open.spotify.com/track/3X414ZlCf5U7pcpIaIcUkT
+          href: https://api.spotify.com/v1/tracks/3X414ZlCf5U7pcpIaIcUkT
+          id: 3X414ZlCf5U7pcpIaIcUkT
+          is_local: false
+          is_playable: true
+          name: Flava in Ya Ear
+          track_number: 5
+          type: track
+          uri: spotify:track:3X414ZlCf5U7pcpIaIcUkT
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6UoOvv3vBdrY6qzZdLNsuU
+            href: https://api.spotify.com/v1/albums/6UoOvv3vBdrY6qzZdLNsuU
+            id: 6UoOvv3vBdrY6qzZdLNsuU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27323c0c3be77b160984fcc4c9f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0223c0c3be77b160984fcc4c9f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485123c0c3be77b160984fcc4c9f
+            is_playable: true
+            name: Rap Essentials
+            release_date: '2022-07-22'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:6UoOvv3vBdrY6qzZdLNsuU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf
+            href: https://api.spotify.com/v1/artists/4akj4uteQQrrGxhX9Rjuyf
+            id: 4akj4uteQQrrGxhX9Rjuyf
+            name: Craig Mack
+            type: artist
+            uri: spotify:artist:4akj4uteQQrrGxhX9Rjuyf
+          disc_number: 1
+          duration_ms: 217466
+          explicit: true
+          external_ids:
+            isrc: USBB40581290
+          external_urls:
+            spotify: https://open.spotify.com/track/0MRqdm9PWYblkYgK6tdvjJ
+          href: https://api.spotify.com/v1/tracks/0MRqdm9PWYblkYgK6tdvjJ
+          id: 0MRqdm9PWYblkYgK6tdvjJ
+          is_local: false
+          is_playable: true
+          name: Flava In Ya Ear
+          track_number: 7
+          type: track
+          uri: spotify:track:0MRqdm9PWYblkYgK6tdvjJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2sMLFM6jyjoINJMH9iRDVF
+            href: https://api.spotify.com/v1/albums/2sMLFM6jyjoINJMH9iRDVF
+            id: 2sMLFM6jyjoINJMH9iRDVF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273daa0e7bf306256cde48078b4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02daa0e7bf306256cde48078b4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851daa0e7bf306256cde48078b4
+            is_playable: true
+            name: '1994'
+            release_date: '2017-05-19'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2sMLFM6jyjoINJMH9iRDVF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf
+            href: https://api.spotify.com/v1/artists/4akj4uteQQrrGxhX9Rjuyf
+            id: 4akj4uteQQrrGxhX9Rjuyf
+            name: Craig Mack
+            type: artist
+            uri: spotify:artist:4akj4uteQQrrGxhX9Rjuyf
+          disc_number: 1
+          duration_ms: 217466
+          explicit: false
+          external_ids:
+            isrc: USBB40581290
+          external_urls:
+            spotify: https://open.spotify.com/track/7zXC94jVfr9d4QijRN3DBa
+          href: https://api.spotify.com/v1/tracks/7zXC94jVfr9d4QijRN3DBa
+          id: 7zXC94jVfr9d4QijRN3DBa
+          is_local: false
+          is_playable: true
+          name: Flava In Ya Ear
+          track_number: 10
+          type: track
+          uri: spotify:track:7zXC94jVfr9d4QijRN3DBa
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/57gr1r8fQJj5HzC9tWjJYn
+            href: https://api.spotify.com/v1/albums/57gr1r8fQJj5HzC9tWjJYn
+            id: 57gr1r8fQJj5HzC9tWjJYn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730727a60e25ab2aa7f74d2a42
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020727a60e25ab2aa7f74d2a42
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510727a60e25ab2aa7f74d2a42
+            is_playable: true
+            name: Boom Bap Bangers
+            release_date: '2021-10-15'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:57gr1r8fQJj5HzC9tWjJYn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf
+            href: https://api.spotify.com/v1/artists/4akj4uteQQrrGxhX9Rjuyf
+            id: 4akj4uteQQrrGxhX9Rjuyf
+            name: Craig Mack
+            type: artist
+            uri: spotify:artist:4akj4uteQQrrGxhX9Rjuyf
+          disc_number: 1
+          duration_ms: 217466
+          explicit: true
+          external_ids:
+            isrc: USBB40581290
+          external_urls:
+            spotify: https://open.spotify.com/track/61MNdJWWzx1hY83NlKCKKl
+          href: https://api.spotify.com/v1/tracks/61MNdJWWzx1hY83NlKCKKl
+          id: 61MNdJWWzx1hY83NlKCKKl
+          is_local: false
+          is_playable: true
+          name: Flava In Ya Ear
+          track_number: 6
+          type: track
+          uri: spotify:track:61MNdJWWzx1hY83NlKCKKl
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4VEHcs1rBs2m0CeCwcwjCG
+            href: https://api.spotify.com/v1/albums/4VEHcs1rBs2m0CeCwcwjCG
+            id: 4VEHcs1rBs2m0CeCwcwjCG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739dabfe5e761d2739ae3ad871
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029dabfe5e761d2739ae3ad871
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519dabfe5e761d2739ae3ad871
+            is_playable: true
+            name: Hip Hop Originals 90s
+            release_date: '2019-06-07'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:4VEHcs1rBs2m0CeCwcwjCG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf
+            href: https://api.spotify.com/v1/artists/4akj4uteQQrrGxhX9Rjuyf
+            id: 4akj4uteQQrrGxhX9Rjuyf
+            name: Craig Mack
+            type: artist
+            uri: spotify:artist:4akj4uteQQrrGxhX9Rjuyf
+          disc_number: 1
+          duration_ms: 217466
+          explicit: true
+          external_ids:
+            isrc: USBB40581290
+          external_urls:
+            spotify: https://open.spotify.com/track/4Rop81nYLowGrc6JslxOqf
+          href: https://api.spotify.com/v1/tracks/4Rop81nYLowGrc6JslxOqf
+          id: 4Rop81nYLowGrc6JslxOqf
+          is_local: false
+          is_playable: true
+          name: Flava In Ya Ear
+          track_number: 2
+          type: track
+          uri: spotify:track:4Rop81nYLowGrc6JslxOqf
+    isrc: USBB40581290

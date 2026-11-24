@@ -117,3 +117,288 @@ mediaFileData:
   year: 1977
   duration: 200.12408163265306
   modTime: 2023-09-16 12:01:00+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195
+    trackId: 6ui6l3ZNvlrGQZArwo8195
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB17700045&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB17700045&type=track
+        offset: 0
+        previous:
+        total: 14
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR
+              href: https://api.spotify.com/v1/artists/1u7kkVrr14iBvrpYnZILJR
+              id: 1u7kkVrr14iBvrpYnZILJR
+              name: Sex Pistols
+              type: artist
+              uri: spotify:artist:1u7kkVrr14iBvrpYnZILJR
+            external_urls:
+              spotify: https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2
+            href: https://api.spotify.com/v1/albums/5fxYu3rqjCNTSPKN8mtEl2
+            id: 5fxYu3rqjCNTSPKN8mtEl2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d0f19de33459c832e50d6ecd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d0f19de33459c832e50d6ecd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d0f19de33459c832e50d6ecd
+            is_playable: true
+            name: Never Mind The Bollocks, Here's The Sex Pistols
+            release_date: '1977-10-27'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5fxYu3rqjCNTSPKN8mtEl2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR
+            href: https://api.spotify.com/v1/artists/1u7kkVrr14iBvrpYnZILJR
+            id: 1u7kkVrr14iBvrpYnZILJR
+            name: Sex Pistols
+            type: artist
+            uri: spotify:artist:1u7kkVrr14iBvrpYnZILJR
+          disc_number: 1
+          duration_ms: 200080
+          explicit: false
+          external_ids:
+            isrc: USWB17700045
+          external_urls:
+            spotify: https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195
+          href: https://api.spotify.com/v1/tracks/6ui6l3ZNvlrGQZArwo8195
+          id: 6ui6l3ZNvlrGQZArwo8195
+          is_local: false
+          is_playable: true
+          name: God Save the Queen
+          track_number: 6
+          type: track
+          uri: spotify:track:6ui6l3ZNvlrGQZArwo8195
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5TmYQSSXVV80f9qD6yZGKU
+            href: https://api.spotify.com/v1/albums/5TmYQSSXVV80f9qD6yZGKU
+            id: 5TmYQSSXVV80f9qD6yZGKU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737dbee55e14ccaa2af175a842
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027dbee55e14ccaa2af175a842
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517dbee55e14ccaa2af175a842
+            is_playable: true
+            name: 70s Rock
+            release_date: '2020-03-20'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:5TmYQSSXVV80f9qD6yZGKU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR
+            href: https://api.spotify.com/v1/artists/1u7kkVrr14iBvrpYnZILJR
+            id: 1u7kkVrr14iBvrpYnZILJR
+            name: Sex Pistols
+            type: artist
+            uri: spotify:artist:1u7kkVrr14iBvrpYnZILJR
+          disc_number: 1
+          duration_ms: 200080
+          explicit: false
+          external_ids:
+            isrc: USWB17700045
+          external_urls:
+            spotify: https://open.spotify.com/track/3nAkNtkJasp0kDGXLkObOF
+          href: https://api.spotify.com/v1/tracks/3nAkNtkJasp0kDGXLkObOF
+          id: 3nAkNtkJasp0kDGXLkObOF
+          is_local: false
+          is_playable: true
+          name: God Save the Queen
+          track_number: 9
+          type: track
+          uri: spotify:track:3nAkNtkJasp0kDGXLkObOF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5KYru8cZMO9BknpE03aR02
+            href: https://api.spotify.com/v1/albums/5KYru8cZMO9BknpE03aR02
+            id: 5KYru8cZMO9BknpE03aR02
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a319b4c08e5ca79c09df5813
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a319b4c08e5ca79c09df5813
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a319b4c08e5ca79c09df5813
+            is_playable: true
+            name: 100 Epic Rock Classics
+            release_date: '2025-02-22'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:5KYru8cZMO9BknpE03aR02
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR
+            href: https://api.spotify.com/v1/artists/1u7kkVrr14iBvrpYnZILJR
+            id: 1u7kkVrr14iBvrpYnZILJR
+            name: Sex Pistols
+            type: artist
+            uri: spotify:artist:1u7kkVrr14iBvrpYnZILJR
+          disc_number: 1
+          duration_ms: 200080
+          explicit: false
+          external_ids:
+            isrc: USWB17700045
+          external_urls:
+            spotify: https://open.spotify.com/track/0mi4Ri382aqs8OnYXR6EEX
+          href: https://api.spotify.com/v1/tracks/0mi4Ri382aqs8OnYXR6EEX
+          id: 0mi4Ri382aqs8OnYXR6EEX
+          is_local: false
+          is_playable: true
+          name: God Save the Queen
+          track_number: 27
+          type: track
+          uri: spotify:track:0mi4Ri382aqs8OnYXR6EEX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3mjRDLd34b1SzX2uCceKQb
+            href: https://api.spotify.com/v1/albums/3mjRDLd34b1SzX2uCceKQb
+            id: 3mjRDLd34b1SzX2uCceKQb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734ce9e3630d2f6bc31a5caced
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024ce9e3630d2f6bc31a5caced
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514ce9e3630d2f6bc31a5caced
+            is_playable: true
+            name: Essential New Wave
+            release_date: '2023-09-01'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:3mjRDLd34b1SzX2uCceKQb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR
+            href: https://api.spotify.com/v1/artists/1u7kkVrr14iBvrpYnZILJR
+            id: 1u7kkVrr14iBvrpYnZILJR
+            name: Sex Pistols
+            type: artist
+            uri: spotify:artist:1u7kkVrr14iBvrpYnZILJR
+          disc_number: 1
+          duration_ms: 200080
+          explicit: false
+          external_ids:
+            isrc: USWB17700045
+          external_urls:
+            spotify: https://open.spotify.com/track/1reTvPj5Gq8xEZkwBpztlN
+          href: https://api.spotify.com/v1/tracks/1reTvPj5Gq8xEZkwBpztlN
+          id: 1reTvPj5Gq8xEZkwBpztlN
+          is_local: false
+          is_playable: true
+          name: God Save the Queen
+          track_number: 13
+          type: track
+          uri: spotify:track:1reTvPj5Gq8xEZkwBpztlN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1QduZAxxLtGKyNuRVMd7cz
+            href: https://api.spotify.com/v1/albums/1QduZAxxLtGKyNuRVMd7cz
+            id: 1QduZAxxLtGKyNuRVMd7cz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736e351a7c65eb91d3d8aab2d4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026e351a7c65eb91d3d8aab2d4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516e351a7c65eb91d3d8aab2d4
+            is_playable: true
+            name: 'Punk Riot: UK'
+            release_date: '2020-06-26'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:1QduZAxxLtGKyNuRVMd7cz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR
+            href: https://api.spotify.com/v1/artists/1u7kkVrr14iBvrpYnZILJR
+            id: 1u7kkVrr14iBvrpYnZILJR
+            name: Sex Pistols
+            type: artist
+            uri: spotify:artist:1u7kkVrr14iBvrpYnZILJR
+          disc_number: 1
+          duration_ms: 200080
+          explicit: false
+          external_ids:
+            isrc: USWB17700045
+          external_urls:
+            spotify: https://open.spotify.com/track/3IGHcHOVwHV6lgS8FVK1TT
+          href: https://api.spotify.com/v1/tracks/3IGHcHOVwHV6lgS8FVK1TT
+          id: 3IGHcHOVwHV6lgS8FVK1TT
+          is_local: false
+          is_playable: true
+          name: God Save the Queen
+          track_number: 1
+          type: track
+          uri: spotify:track:3IGHcHOVwHV6lgS8FVK1TT
+    isrc: USWB17700045

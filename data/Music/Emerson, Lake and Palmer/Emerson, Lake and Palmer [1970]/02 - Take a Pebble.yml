@@ -95,3 +95,288 @@ mediaFileData:
   year: 1970
   duration: 754.0
   modTime: 2024-10-23 20:08:08.783177+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4l9YnKeHKlmX8oR8ipZ1EM
+    trackId: 4l9YnKeHKlmX8oR8ipZ1EM
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAJE0610472&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+              href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+              id: 0nCiidE5GgDrc5kWN3NZgZ
+              name: Emerson, Lake & Palmer
+              type: artist
+              uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+            external_urls:
+              spotify: https://open.spotify.com/album/7tEXiqB5HHoF3zIPQIq0Fs
+            href: https://api.spotify.com/v1/albums/7tEXiqB5HHoF3zIPQIq0Fs
+            id: 7tEXiqB5HHoF3zIPQIq0Fs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273553b9533e1c504cd3699256d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02553b9533e1c504cd3699256d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851553b9533e1c504cd3699256d
+            is_playable: true
+            name: The Best of Emerson Lake & Palmer
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7tEXiqB5HHoF3zIPQIq0Fs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+            href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+            id: 0nCiidE5GgDrc5kWN3NZgZ
+            name: Emerson, Lake & Palmer
+            type: artist
+            uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+          disc_number: 1
+          duration_ms: 751640
+          explicit: false
+          external_ids:
+            isrc: GBAJE0610472
+          external_urls:
+            spotify: https://open.spotify.com/track/4l9YnKeHKlmX8oR8ipZ1EM
+          href: https://api.spotify.com/v1/tracks/4l9YnKeHKlmX8oR8ipZ1EM
+          id: 4l9YnKeHKlmX8oR8ipZ1EM
+          is_local: false
+          is_playable: true
+          name: Take a Pebble - 2012 Remaster
+          track_number: 10
+          type: track
+          uri: spotify:track:4l9YnKeHKlmX8oR8ipZ1EM
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+              href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+              id: 0nCiidE5GgDrc5kWN3NZgZ
+              name: Emerson, Lake & Palmer
+              type: artist
+              uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+            external_urls:
+              spotify: https://open.spotify.com/album/2zuFHj6QWDITCoyqI1Pq6g
+            href: https://api.spotify.com/v1/albums/2zuFHj6QWDITCoyqI1Pq6g
+            id: 2zuFHj6QWDITCoyqI1Pq6g
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27336125d6dee2b8373711b1189
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0236125d6dee2b8373711b1189
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485136125d6dee2b8373711b1189
+            is_playable: true
+            name: Emerson, Lake & Palmer (Deluxe)
+            release_date: '1970-11-20'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:2zuFHj6QWDITCoyqI1Pq6g
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+            href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+            id: 0nCiidE5GgDrc5kWN3NZgZ
+            name: Emerson, Lake & Palmer
+            type: artist
+            uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+          disc_number: 1
+          duration_ms: 751799
+          explicit: false
+          external_ids:
+            isrc: GBAJE0610472
+          external_urls:
+            spotify: https://open.spotify.com/track/5eOQRQATdELa16j2AbTE5x
+          href: https://api.spotify.com/v1/tracks/5eOQRQATdELa16j2AbTE5x
+          id: 5eOQRQATdELa16j2AbTE5x
+          is_local: false
+          is_playable: true
+          name: Take a Pebble - 2012 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:5eOQRQATdELa16j2AbTE5x
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+              href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+              id: 0nCiidE5GgDrc5kWN3NZgZ
+              name: Emerson, Lake & Palmer
+              type: artist
+              uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+            external_urls:
+              spotify: https://open.spotify.com/album/5A3JOh1ushS67m2JZ0QF6b
+            href: https://api.spotify.com/v1/albums/5A3JOh1ushS67m2JZ0QF6b
+            id: 5A3JOh1ushS67m2JZ0QF6b
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27399fa44c27dfac9beda628082
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0299fa44c27dfac9beda628082
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485199fa44c27dfac9beda628082
+            is_playable: true
+            name: Emerson, Lake & Palmer
+            release_date: '1970-10-01'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:5A3JOh1ushS67m2JZ0QF6b
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+            href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+            id: 0nCiidE5GgDrc5kWN3NZgZ
+            name: Emerson, Lake & Palmer
+            type: artist
+            uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+          disc_number: 1
+          duration_ms: 753893
+          explicit: false
+          external_ids:
+            isrc: GBAJE0610472
+          external_urls:
+            spotify: https://open.spotify.com/track/72iTpFnzm7N5uWkPGfp1MU
+          href: https://api.spotify.com/v1/tracks/72iTpFnzm7N5uWkPGfp1MU
+          id: 72iTpFnzm7N5uWkPGfp1MU
+          is_local: false
+          is_playable: true
+          name: Take a Pebble - 2012 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:72iTpFnzm7N5uWkPGfp1MU
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+              href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+              id: 0nCiidE5GgDrc5kWN3NZgZ
+              name: Emerson, Lake & Palmer
+              type: artist
+              uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+            external_urls:
+              spotify: https://open.spotify.com/album/5o67LLIKvKri5aoL3eJXn7
+            href: https://api.spotify.com/v1/albums/5o67LLIKvKri5aoL3eJXn7
+            id: 5o67LLIKvKri5aoL3eJXn7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c3351fc3073f66688624dae8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c3351fc3073f66688624dae8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c3351fc3073f66688624dae8
+            is_playable: true
+            name: The Anthology (Special Edition)
+            release_date: '2016-07-29'
+            release_date_precision: day
+            total_tracks: 41
+            type: album
+            uri: spotify:album:5o67LLIKvKri5aoL3eJXn7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+            href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+            id: 0nCiidE5GgDrc5kWN3NZgZ
+            name: Emerson, Lake & Palmer
+            type: artist
+            uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+          disc_number: 1
+          duration_ms: 751799
+          explicit: false
+          external_ids:
+            isrc: GBAJE0610472
+          external_urls:
+            spotify: https://open.spotify.com/track/7xVZtiUNJzk9cxId3bMdNm
+          href: https://api.spotify.com/v1/tracks/7xVZtiUNJzk9cxId3bMdNm
+          id: 7xVZtiUNJzk9cxId3bMdNm
+          is_local: false
+          is_playable: true
+          name: Take a Pebble - 2012 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:7xVZtiUNJzk9cxId3bMdNm
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+              href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+              id: 0nCiidE5GgDrc5kWN3NZgZ
+              name: Emerson, Lake & Palmer
+              type: artist
+              uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+            external_urls:
+              spotify: https://open.spotify.com/album/5tDV9G7UUwzq9pBCxofxC6
+            href: https://api.spotify.com/v1/albums/5tDV9G7UUwzq9pBCxofxC6
+            id: 5tDV9G7UUwzq9pBCxofxC6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b339a57c5b7a55052a5a4640
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b339a57c5b7a55052a5a4640
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b339a57c5b7a55052a5a4640
+            is_playable: true
+            name: The Anthology
+            release_date: '2016-07-29'
+            release_date_precision: day
+            total_tracks: 39
+            type: album
+            uri: spotify:album:5tDV9G7UUwzq9pBCxofxC6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ
+            href: https://api.spotify.com/v1/artists/0nCiidE5GgDrc5kWN3NZgZ
+            id: 0nCiidE5GgDrc5kWN3NZgZ
+            name: Emerson, Lake & Palmer
+            type: artist
+            uri: spotify:artist:0nCiidE5GgDrc5kWN3NZgZ
+          disc_number: 1
+          duration_ms: 751800
+          explicit: false
+          external_ids:
+            isrc: GBAJE0610472
+          external_urls:
+            spotify: https://open.spotify.com/track/03Rs5wFeKKrsTdbNm1isvq
+          href: https://api.spotify.com/v1/tracks/03Rs5wFeKKrsTdbNm1isvq
+          id: 03Rs5wFeKKrsTdbNm1isvq
+          is_local: false
+          is_playable: true
+          name: Take a Pebble (2012 - Remaster)
+          track_number: 2
+          type: track
+          uri: spotify:track:03Rs5wFeKKrsTdbNm1isvq
+    isrc: GBAJE0610472

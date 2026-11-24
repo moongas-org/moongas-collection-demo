@@ -63,3 +63,180 @@ mediaFileData:
   year: 1983
   duration: 185.112
   modTime: 2025-04-05 00:48:03.262791+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2UtaV50NTIwGFggQtVzG0U
+    trackId: 2UtaV50NTIwGFggQtVzG0U
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWWW0128822&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+              href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+              id: 4KWTAlx2RvbpseOGMEmROg
+              name: R.E.M.
+              type: artist
+              uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+            external_urls:
+              spotify: https://open.spotify.com/album/6N5Dxm9bMAsRah2tLX2AmK
+            href: https://api.spotify.com/v1/albums/6N5Dxm9bMAsRah2tLX2AmK
+            id: 6N5Dxm9bMAsRah2tLX2AmK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d117381727dc24f19a87fdf8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d117381727dc24f19a87fdf8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d117381727dc24f19a87fdf8
+            is_playable: true
+            name: Murmur - Deluxe Edition
+            release_date: '1983-04-12'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:6N5Dxm9bMAsRah2tLX2AmK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 183493
+          explicit: false
+          external_ids:
+            isrc: USWWW0128822
+          external_urls:
+            spotify: https://open.spotify.com/track/2UtaV50NTIwGFggQtVzG0U
+          href: https://api.spotify.com/v1/tracks/2UtaV50NTIwGFggQtVzG0U
+          id: 2UtaV50NTIwGFggQtVzG0U
+          is_local: false
+          is_playable: true
+          name: 9-9
+          track_number: 9
+          type: track
+          uri: spotify:track:2UtaV50NTIwGFggQtVzG0U
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+              href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+              id: 4KWTAlx2RvbpseOGMEmROg
+              name: R.E.M.
+              type: artist
+              uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+            external_urls:
+              spotify: https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q
+            href: https://api.spotify.com/v1/albums/4Mw9Gcu1LT7JaipXdwrq1Q
+            id: 4Mw9Gcu1LT7JaipXdwrq1Q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fe05afa9ef05c2ba87e0e860
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fe05afa9ef05c2ba87e0e860
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fe05afa9ef05c2ba87e0e860
+            is_playable: true
+            name: Murmur
+            release_date: '1983-04-12'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4Mw9Gcu1LT7JaipXdwrq1Q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 185066
+          explicit: false
+          external_ids:
+            isrc: USWWW0128822
+          external_urls:
+            spotify: https://open.spotify.com/track/0QJsNy58IM4VgEmD3sTaLc
+          href: https://api.spotify.com/v1/tracks/0QJsNy58IM4VgEmD3sTaLc
+          id: 0QJsNy58IM4VgEmD3sTaLc
+          is_local: false
+          is_playable: true
+          name: 9-9
+          track_number: 9
+          type: track
+          uri: spotify:track:0QJsNy58IM4VgEmD3sTaLc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2ic8zAkl4y10Tx72DjJReE
+            href: https://api.spotify.com/v1/albums/2ic8zAkl4y10Tx72DjJReE
+            id: 2ic8zAkl4y10Tx72DjJReE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e4734428d79ab7160fb2f9a4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e4734428d79ab7160fb2f9a4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e4734428d79ab7160fb2f9a4
+            is_playable: true
+            name: Rock 70s y 80s
+            release_date: '2026-02-20'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:2ic8zAkl4y10Tx72DjJReE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 185066
+          explicit: false
+          external_ids:
+            isrc: USWWW0128822
+          external_urls:
+            spotify: https://open.spotify.com/track/77KksiKyaVHacpQPpHITyJ
+          href: https://api.spotify.com/v1/tracks/77KksiKyaVHacpQPpHITyJ
+          id: 77KksiKyaVHacpQPpHITyJ
+          is_local: false
+          is_playable: true
+          name: 9-9
+          track_number: 6
+          type: track
+          uri: spotify:track:77KksiKyaVHacpQPpHITyJ
+    isrc: USWWW0128822

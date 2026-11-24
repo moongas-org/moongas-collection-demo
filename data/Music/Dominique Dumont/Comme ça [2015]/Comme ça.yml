@@ -42,3 +42,126 @@ mediaFileData:
   year: 2015
   duration: 227.184
   modTime: 2023-07-16 22:32:34+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0VCWi4FUOumziLknRtcDcy
+    trackId: 0VCWi4FUOumziLknRtcDcy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRX451538003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf
+              href: https://api.spotify.com/v1/artists/6kNluNBHa4sh5BKIvyiDgf
+              id: 6kNluNBHa4sh5BKIvyiDgf
+              name: Domenique Dumont
+              type: artist
+              uri: spotify:artist:6kNluNBHa4sh5BKIvyiDgf
+            external_urls:
+              spotify: https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t
+            href: https://api.spotify.com/v1/albums/55YrEqkp3Qrnue9WXHXo8t
+            id: 55YrEqkp3Qrnue9WXHXo8t
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739b16a23ab35f9e4c6547019d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029b16a23ab35f9e4c6547019d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519b16a23ab35f9e4c6547019d
+            is_playable: true
+            name: Comme ça
+            release_date: '2015-06-22'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:55YrEqkp3Qrnue9WXHXo8t
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf
+            href: https://api.spotify.com/v1/artists/6kNluNBHa4sh5BKIvyiDgf
+            id: 6kNluNBHa4sh5BKIvyiDgf
+            name: Domenique Dumont
+            type: artist
+            uri: spotify:artist:6kNluNBHa4sh5BKIvyiDgf
+          disc_number: 1
+          duration_ms: 227156
+          explicit: false
+          external_ids:
+            isrc: FRX451538003
+          external_urls:
+            spotify: https://open.spotify.com/track/0VCWi4FUOumziLknRtcDcy
+          href: https://api.spotify.com/v1/tracks/0VCWi4FUOumziLknRtcDcy
+          id: 0VCWi4FUOumziLknRtcDcy
+          is_local: false
+          is_playable: true
+          name: Comme ça
+          track_number: 1
+          type: track
+          uri: spotify:track:0VCWi4FUOumziLknRtcDcy
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5sh7T7w5RyEH00J82L03hZ
+            href: https://api.spotify.com/v1/albums/5sh7T7w5RyEH00J82L03hZ
+            id: 5sh7T7w5RyEH00J82L03hZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27376657a49573c5453b6200c1a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0276657a49573c5453b6200c1a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485176657a49573c5453b6200c1a
+            is_playable: true
+            name: Nova - Haute musique II
+            release_date: '2017-11-24'
+            release_date_precision: day
+            total_tracks: 81
+            type: album
+            uri: spotify:album:5sh7T7w5RyEH00J82L03hZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf
+            href: https://api.spotify.com/v1/artists/6kNluNBHa4sh5BKIvyiDgf
+            id: 6kNluNBHa4sh5BKIvyiDgf
+            name: Domenique Dumont
+            type: artist
+            uri: spotify:artist:6kNluNBHa4sh5BKIvyiDgf
+          disc_number: 4
+          duration_ms: 224480
+          explicit: false
+          external_ids:
+            isrc: FRX451538003
+          external_urls:
+            spotify: https://open.spotify.com/track/14UAhzqQTfl47rJpGM8yNS
+          href: https://api.spotify.com/v1/tracks/14UAhzqQTfl47rJpGM8yNS
+          id: 14UAhzqQTfl47rJpGM8yNS
+          is_local: false
+          is_playable: true
+          name: Comme ça
+          track_number: 2
+          type: track
+          uri: spotify:track:14UAhzqQTfl47rJpGM8yNS
+    isrc: FRX451538003

@@ -45,3 +45,72 @@ mediaFileData:
   year: 1973
   duration: 250.403
   modTime: 2025-01-11 01:13:05.959833+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2SyWiL9QhlcJ3JM3Timmvn
+    trackId: 2SyWiL9QhlcJ3JM3Timmvn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901380&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+              href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+              id: 08GQAI4eElDnROBrJRGE0X
+              name: Fleetwood Mac
+              type: artist
+              uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+            external_urls:
+              spotify: https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5
+            href: https://api.spotify.com/v1/albums/7MprjyJe4SD8Sq9Nn7oYD5
+            id: 7MprjyJe4SD8Sq9Nn7oYD5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fe5dc4f72fc5587fe59f665b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fe5dc4f72fc5587fe59f665b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fe5dc4f72fc5587fe59f665b
+            is_playable: true
+            name: Mystery to Me
+            release_date: '1973-10-15'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:7MprjyJe4SD8Sq9Nn7oYD5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 251026
+          explicit: false
+          external_ids:
+            isrc: USWB19901380
+          external_urls:
+            spotify: https://open.spotify.com/track/2SyWiL9QhlcJ3JM3Timmvn
+          href: https://api.spotify.com/v1/tracks/2SyWiL9QhlcJ3JM3Timmvn
+          id: 2SyWiL9QhlcJ3JM3Timmvn
+          is_local: false
+          is_playable: true
+          name: Believe Me
+          track_number: 2
+          type: track
+          uri: spotify:track:2SyWiL9QhlcJ3JM3Timmvn
+    isrc: USWB19901380

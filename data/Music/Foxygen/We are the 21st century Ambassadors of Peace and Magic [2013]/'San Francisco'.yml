@@ -34,3 +34,72 @@ mediaFileData:
   year: 2013
   duration: 250.35755102040815
   modTime: 2023-07-16 22:36:08+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy
+    trackId: 0J7Zv3nJki2SBTvidhMDZy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS38Y1322704&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4
+              href: https://api.spotify.com/v1/artists/55LHFEtIplWhsfyWZUwkf4
+              id: 55LHFEtIplWhsfyWZUwkf4
+              name: Foxygen
+              type: artist
+              uri: spotify:artist:55LHFEtIplWhsfyWZUwkf4
+            external_urls:
+              spotify: https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf
+            href: https://api.spotify.com/v1/albums/7FfiN9ztbjLNPWhuhFHaWf
+            id: 7FfiN9ztbjLNPWhuhFHaWf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27340404a50cc12e75859d1dcc0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0240404a50cc12e75859d1dcc0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485140404a50cc12e75859d1dcc0
+            is_playable: true
+            name: We Are the 21st Century Ambassadors of Peace & Magic
+            release_date: '2013-01-22'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:7FfiN9ztbjLNPWhuhFHaWf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4
+            href: https://api.spotify.com/v1/artists/55LHFEtIplWhsfyWZUwkf4
+            id: 55LHFEtIplWhsfyWZUwkf4
+            name: Foxygen
+            type: artist
+            uri: spotify:artist:55LHFEtIplWhsfyWZUwkf4
+          disc_number: 1
+          duration_ms: 227906
+          explicit: false
+          external_ids:
+            isrc: US38Y1322704
+          external_urls:
+            spotify: https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy
+          href: https://api.spotify.com/v1/tracks/0J7Zv3nJki2SBTvidhMDZy
+          id: 0J7Zv3nJki2SBTvidhMDZy
+          is_local: false
+          is_playable: true
+          name: San Francisco
+          track_number: 4
+          type: track
+          uri: spotify:track:0J7Zv3nJki2SBTvidhMDZy
+    isrc: US38Y1322704

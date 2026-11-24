@@ -176,3 +176,288 @@ mediaFileData:
   year: 1971
   duration: 321.696
   modTime: 2025-01-09 01:59:32.490126+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6EydY3DiK1th0nE7TuxKco
+    trackId: 6EydY3DiK1th0nE7TuxKco
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSPR37170012&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSPR37170012&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+              href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+              id: 4wQ3PyMz3WwJGI5uEqHUVR
+              name: Allman Brothers Band
+              type: artist
+              uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+            external_urls:
+              spotify: https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy
+            href: https://api.spotify.com/v1/albums/0Y5Wlv2OJKaW0uDJ5HnUfy
+            id: 0Y5Wlv2OJKaW0uDJ5HnUfy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730e18e033b73488ca08a89b5b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020e18e033b73488ca08a89b5b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510e18e033b73488ca08a89b5b
+            is_playable: true
+            name: At Fillmore East
+            release_date: '1971-07-01'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:0Y5Wlv2OJKaW0uDJ5HnUfy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+            href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+            id: 4wQ3PyMz3WwJGI5uEqHUVR
+            name: Allman Brothers Band
+            type: artist
+            uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+          disc_number: 1
+          duration_ms: 321658
+          explicit: false
+          external_ids:
+            isrc: USPR37170012
+          external_urls:
+            spotify: https://open.spotify.com/track/6EydY3DiK1th0nE7TuxKco
+          href: https://api.spotify.com/v1/tracks/6EydY3DiK1th0nE7TuxKco
+          id: 6EydY3DiK1th0nE7TuxKco
+          is_local: false
+          is_playable: true
+          name: Hot 'Lanta - Live At Fillmore East, March 13, 1971
+          track_number: 5
+          type: track
+          uri: spotify:track:6EydY3DiK1th0nE7TuxKco
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+              href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+              id: 4wQ3PyMz3WwJGI5uEqHUVR
+              name: Allman Brothers Band
+              type: artist
+              uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+            external_urls:
+              spotify: https://open.spotify.com/album/34j4HRcfqYXL3d6YLL12dG
+            href: https://api.spotify.com/v1/albums/34j4HRcfqYXL3d6YLL12dG
+            id: 34j4HRcfqYXL3d6YLL12dG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ed1a8256220c99c14a580db7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ed1a8256220c99c14a580db7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ed1a8256220c99c14a580db7
+            is_playable: true
+            name: At Fillmore East (Deluxe Edition)
+            release_date: '1971-07-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:34j4HRcfqYXL3d6YLL12dG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+            href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+            id: 4wQ3PyMz3WwJGI5uEqHUVR
+            name: Allman Brothers Band
+            type: artist
+            uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+          disc_number: 2
+          duration_ms: 320026
+          explicit: false
+          external_ids:
+            isrc: USPR37170012
+          external_urls:
+            spotify: https://open.spotify.com/track/4tzNqiWiKmojM4bwoturrr
+          href: https://api.spotify.com/v1/tracks/4tzNqiWiKmojM4bwoturrr
+          id: 4tzNqiWiKmojM4bwoturrr
+          is_local: false
+          is_playable: true
+          name: Hot 'Lanta - Live At Fillmore East, March 13, 1971
+          track_number: 1
+          type: track
+          uri: spotify:track:4tzNqiWiKmojM4bwoturrr
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+              href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+              id: 4wQ3PyMz3WwJGI5uEqHUVR
+              name: Allman Brothers Band
+              type: artist
+              uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+            external_urls:
+              spotify: https://open.spotify.com/album/5Fk98C255zupZ17srJxary
+            href: https://api.spotify.com/v1/albums/5Fk98C255zupZ17srJxary
+            id: 5Fk98C255zupZ17srJxary
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739437ed1c5b1cb130fea73c6b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029437ed1c5b1cb130fea73c6b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519437ed1c5b1cb130fea73c6b
+            is_playable: true
+            name: At Fillmore East
+            release_date: '1971-07-01'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:5Fk98C255zupZ17srJxary
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+            href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+            id: 4wQ3PyMz3WwJGI5uEqHUVR
+            name: Allman Brothers Band
+            type: artist
+            uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+          disc_number: 1
+          duration_ms: 321658
+          explicit: false
+          external_ids:
+            isrc: USPR37170012
+          external_urls:
+            spotify: https://open.spotify.com/track/1DESy9s3YbHRaoq4Lr6gVK
+          href: https://api.spotify.com/v1/tracks/1DESy9s3YbHRaoq4Lr6gVK
+          id: 1DESy9s3YbHRaoq4Lr6gVK
+          is_local: false
+          is_playable: true
+          name: Hot 'Lanta - Live At Fillmore East, March 13, 1971
+          track_number: 5
+          type: track
+          uri: spotify:track:1DESy9s3YbHRaoq4Lr6gVK
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+              href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+              id: 4wQ3PyMz3WwJGI5uEqHUVR
+              name: Allman Brothers Band
+              type: artist
+              uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+            external_urls:
+              spotify: https://open.spotify.com/album/41qYYEbMjqof0lG6GDN2SJ
+            href: https://api.spotify.com/v1/albums/41qYYEbMjqof0lG6GDN2SJ
+            id: 41qYYEbMjqof0lG6GDN2SJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3a36517f0db8b6566a2a9bf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3a36517f0db8b6566a2a9bf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3a36517f0db8b6566a2a9bf
+            is_playable: true
+            name: '20th Century Masters: The Millennium Collection: The Best Of The Allman Brothers'
+            release_date: '2000-01-25'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:41qYYEbMjqof0lG6GDN2SJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+            href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+            id: 4wQ3PyMz3WwJGI5uEqHUVR
+            name: Allman Brothers Band
+            type: artist
+            uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+          disc_number: 1
+          duration_ms: 322826
+          explicit: false
+          external_ids:
+            isrc: USPR37170012
+          external_urls:
+            spotify: https://open.spotify.com/track/1G78EfLBGxJ55QE69e5R3r
+          href: https://api.spotify.com/v1/tracks/1G78EfLBGxJ55QE69e5R3r
+          id: 1G78EfLBGxJ55QE69e5R3r
+          is_local: false
+          is_playable: true
+          name: Hot 'Lanta - Live
+          track_number: 5
+          type: track
+          uri: spotify:track:1G78EfLBGxJ55QE69e5R3r
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+              href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+              id: 4wQ3PyMz3WwJGI5uEqHUVR
+              name: Allman Brothers Band
+              type: artist
+              uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+            external_urls:
+              spotify: https://open.spotify.com/album/5cGAOMIsRiYRAzHogBjIl4
+            href: https://api.spotify.com/v1/albums/5cGAOMIsRiYRAzHogBjIl4
+            id: 5cGAOMIsRiYRAzHogBjIl4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27396b7de885d449fea742d149f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0296b7de885d449fea742d149f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485196b7de885d449fea742d149f
+            is_playable: true
+            name: Legendary Hits
+            release_date: '1995-07-25'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5cGAOMIsRiYRAzHogBjIl4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+            href: https://api.spotify.com/v1/artists/4wQ3PyMz3WwJGI5uEqHUVR
+            id: 4wQ3PyMz3WwJGI5uEqHUVR
+            name: Allman Brothers Band
+            type: artist
+            uri: spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR
+          disc_number: 1
+          duration_ms: 319733
+          explicit: false
+          external_ids:
+            isrc: USPR37170012
+          external_urls:
+            spotify: https://open.spotify.com/track/71jEOG2tSq9tLbuqwrW63H
+          href: https://api.spotify.com/v1/tracks/71jEOG2tSq9tLbuqwrW63H
+          id: 71jEOG2tSq9tLbuqwrW63H
+          is_local: false
+          is_playable: true
+          name: Hot 'Lanta - Live At The Fillmore East
+          track_number: 11
+          type: track
+          uri: spotify:track:71jEOG2tSq9tLbuqwrW63H
+    isrc: USPR37170012

@@ -70,3 +70,126 @@ mediaFileData:
   year: 1984
   duration: 215.57333333333332
   modTime: 2024-02-11 15:17:45.208186+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/57HcTllb8jZx6EJxCLSOOa
+    trackId: 57HcTllb8jZx6EJxCLSOOa
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCRL0800365&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+              href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+              id: 3yY2gUcIsjMr8hjo51PoJ8
+              name: The Smiths
+              type: artist
+              uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+            external_urls:
+              spotify: https://open.spotify.com/album/30g571JKoxs8AnsgAViV2J
+            href: https://api.spotify.com/v1/albums/30g571JKoxs8AnsgAViV2J
+            id: 30g571JKoxs8AnsgAViV2J
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27340daee72081df5b8fdc754af
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0240daee72081df5b8fdc754af
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485140daee72081df5b8fdc754af
+            is_playable: true
+            name: Complete
+            release_date: '2011-09-26'
+            release_date_precision: day
+            total_tracks: 106
+            type: album
+            uri: spotify:album:30g571JKoxs8AnsgAViV2J
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+            href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+            id: 3yY2gUcIsjMr8hjo51PoJ8
+            name: The Smiths
+            type: artist
+            uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+          disc_number: 1
+          duration_ms: 215413
+          explicit: false
+          external_ids:
+            isrc: GBCRL0800365
+          external_urls:
+            spotify: https://open.spotify.com/track/57HcTllb8jZx6EJxCLSOOa
+          href: https://api.spotify.com/v1/tracks/57HcTllb8jZx6EJxCLSOOa
+          id: 57HcTllb8jZx6EJxCLSOOa
+          is_local: false
+          is_playable: true
+          name: Pretty Girls Make Graves - Troy Tate Version; 2008 Remaster
+          track_number: 103
+          type: track
+          uri: spotify:track:57HcTllb8jZx6EJxCLSOOa
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+              href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+              id: 3yY2gUcIsjMr8hjo51PoJ8
+              name: The Smiths
+              type: artist
+              uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+            external_urls:
+              spotify: https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55
+            href: https://api.spotify.com/v1/albums/59gl3QDzCgH4GXzXLEwe55
+            id: 59gl3QDzCgH4GXzXLEwe55
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738c755b653e9d84e08004f881
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028c755b653e9d84e08004f881
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518c755b653e9d84e08004f881
+            is_playable: true
+            name: The Sound of the Smiths (Deluxe; 2008 Remaster)
+            release_date: '2008-11-11'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:59gl3QDzCgH4GXzXLEwe55
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8
+            href: https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8
+            id: 3yY2gUcIsjMr8hjo51PoJ8
+            name: The Smiths
+            type: artist
+            uri: spotify:artist:3yY2gUcIsjMr8hjo51PoJ8
+          disc_number: 1
+          duration_ms: 215413
+          explicit: false
+          external_ids:
+            isrc: GBCRL0800365
+          external_urls:
+            spotify: https://open.spotify.com/track/76v8qAMpCWQiXfURhMXMBt
+          href: https://api.spotify.com/v1/tracks/76v8qAMpCWQiXfURhMXMBt
+          id: 76v8qAMpCWQiXfURhMXMBt
+          is_local: false
+          is_playable: true
+          name: Pretty Girls Make Graves - Troy Tate Version; 2008 Remaster
+          track_number: 42
+          type: track
+          uri: spotify:track:76v8qAMpCWQiXfURhMXMBt
+    isrc: GBCRL0800365

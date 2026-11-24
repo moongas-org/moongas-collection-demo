@@ -34,3 +34,72 @@ mediaFileData:
   year: 2011
   duration: 181.52489795918368
   modTime: 2024-07-19 23:37:03.169625+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2B4n4JimD65WsqbLE8Jw3U
+    trackId: 2B4n4JimD65WsqbLE8Jw3U
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSESL1117704&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+              href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+              id: 25KNo5GDS6ZpLkjasaecA3
+              name: Thievery Corporation
+              type: artist
+              uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+            external_urls:
+              spotify: https://open.spotify.com/album/5J42c2vWzK8k8oNKWFbtwo
+            href: https://api.spotify.com/v1/albums/5J42c2vWzK8k8oNKWFbtwo
+            id: 5J42c2vWzK8k8oNKWFbtwo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a8e878349302c16d5d65ba24
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a8e878349302c16d5d65ba24
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a8e878349302c16d5d65ba24
+            is_playable: true
+            name: Culture Of Fear
+            release_date: '2011-06-28'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5J42c2vWzK8k8oNKWFbtwo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+            href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+            id: 25KNo5GDS6ZpLkjasaecA3
+            name: Thievery Corporation
+            type: artist
+            uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+          disc_number: 1
+          duration_ms: 181400
+          explicit: false
+          external_ids:
+            isrc: USESL1117704
+          external_urls:
+            spotify: https://open.spotify.com/track/2B4n4JimD65WsqbLE8Jw3U
+          href: https://api.spotify.com/v1/tracks/2B4n4JimD65WsqbLE8Jw3U
+          id: 2B4n4JimD65WsqbLE8Jw3U
+          is_local: false
+          is_playable: true
+          name: Light Flares
+          track_number: 4
+          type: track
+          uri: spotify:track:2B4n4JimD65WsqbLE8Jw3U
+    isrc: USESL1117704

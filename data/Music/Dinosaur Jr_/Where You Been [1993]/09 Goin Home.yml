@@ -35,3 +35,126 @@ mediaFileData:
   year: 1993
   duration: 260.2579583333333
   modTime: 2023-05-14 17:04:46.240000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1F4LYbGRz6lTw1GyrvPhkt
+    trackId: 1F4LYbGRz6lTw1GyrvPhkt
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBLY1903601&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/7gX1wrd8ZCX5bmEPDYs56Y
+            href: https://api.spotify.com/v1/albums/7gX1wrd8ZCX5bmEPDYs56Y
+            id: 7gX1wrd8ZCX5bmEPDYs56Y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27340039bed60896c222b7be172
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0240039bed60896c222b7be172
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485140039bed60896c222b7be172
+            is_playable: true
+            name: Where You Been (2019 Expanded & Remastered Edition)
+            release_date: '1993-02-09'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:7gX1wrd8ZCX5bmEPDYs56Y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 1
+          duration_ms: 256266
+          explicit: false
+          external_ids:
+            isrc: GBBLY1903601
+          external_urls:
+            spotify: https://open.spotify.com/track/1F4LYbGRz6lTw1GyrvPhkt
+          href: https://api.spotify.com/v1/tracks/1F4LYbGRz6lTw1GyrvPhkt
+          id: 1F4LYbGRz6lTw1GyrvPhkt
+          is_local: false
+          is_playable: true
+          name: Goin Home - 2019 Remaster
+          track_number: 9
+          type: track
+          uri: spotify:track:1F4LYbGRz6lTw1GyrvPhkt
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/4eZ76irqXk1wvH7yPnMxtc
+            href: https://api.spotify.com/v1/albums/4eZ76irqXk1wvH7yPnMxtc
+            id: 4eZ76irqXk1wvH7yPnMxtc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cb6032b635bdcf7afba27e22
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cb6032b635bdcf7afba27e22
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cb6032b635bdcf7afba27e22
+            is_playable: true
+            name: 'Puke + Cry: The Sire Years 1990-1997'
+            release_date: '2024-09-06'
+            release_date_precision: day
+            total_tracks: 71
+            type: album
+            uri: spotify:album:4eZ76irqXk1wvH7yPnMxtc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 2
+          duration_ms: 256266
+          explicit: false
+          external_ids:
+            isrc: GBBLY1903601
+          external_urls:
+            spotify: https://open.spotify.com/track/7yIfAzwsxnh08irwEXlcBr
+          href: https://api.spotify.com/v1/tracks/7yIfAzwsxnh08irwEXlcBr
+          id: 7yIfAzwsxnh08irwEXlcBr
+          is_local: false
+          is_playable: true
+          name: Goin Home - 2019 Remaster
+          track_number: 9
+          type: track
+          uri: spotify:track:7yIfAzwsxnh08irwEXlcBr
+    isrc: GBBLY1903601

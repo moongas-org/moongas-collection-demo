@@ -34,3 +34,86 @@ mediaFileData:
   year: 2015
   duration: 248.76408163265307
   modTime: 2023-07-17 01:05:46+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0jN4B1dliv8ypd2DMsqclK
+    trackId: 0jN4B1dliv8ypd2DMsqclK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM8RL1400088&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5nv99ug8cFmIVQsspcHej8
+            href: https://api.spotify.com/v1/albums/5nv99ug8cFmIVQsspcHej8
+            id: 5nv99ug8cFmIVQsspcHej8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f7e468e8d1e25dfea66fdaac
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f7e468e8d1e25dfea66fdaac
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f7e468e8d1e25dfea66fdaac
+            is_playable: true
+            name: The Alchemist and Oh No Present Welcome to Los Santos
+            release_date: '2015-04-25'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5nv99ug8cFmIVQsspcHej8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9
+            href: https://api.spotify.com/v1/artists/3and7uje1nuMnKJczCKox9
+            id: 3and7uje1nuMnKJczCKox9
+            name: Tunde Adebimpe
+            type: artist
+            uri: spotify:artist:3and7uje1nuMnKJczCKox9
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0hXudO6F44dVAOCDie3iY9
+            href: https://api.spotify.com/v1/artists/0hXudO6F44dVAOCDie3iY9
+            id: 0hXudO6F44dVAOCDie3iY9
+            name: Sal P
+            type: artist
+            uri: spotify:artist:0hXudO6F44dVAOCDie3iY9
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w
+            href: https://api.spotify.com/v1/artists/0ip3L7jX2aq8T1VTJRFZ9w
+            id: 0ip3L7jX2aq8T1VTJRFZ9w
+            name: Sinkane
+            type: artist
+            uri: spotify:artist:0ip3L7jX2aq8T1VTJRFZ9w
+          disc_number: 1
+          duration_ms: 250213
+          explicit: true
+          external_ids:
+            isrc: QM8RL1400088
+          external_urls:
+            spotify: https://open.spotify.com/track/0jN4B1dliv8ypd2DMsqclK
+          href: https://api.spotify.com/v1/tracks/0jN4B1dliv8ypd2DMsqclK
+          id: 0jN4B1dliv8ypd2DMsqclK
+          is_local: false
+          is_playable: true
+          name: Speedline Miracle Masterpiece
+          track_number: 3
+          type: track
+          uri: spotify:track:0jN4B1dliv8ypd2DMsqclK
+    isrc: QM8RL1400088

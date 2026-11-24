@@ -52,3 +52,72 @@ mediaFileData:
   year: 1996
   duration: 219.4808163265306
   modTime: 2025-12-09 03:04:06.099445+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5J27jwHsL1LYMMz9rOdHuw
+    trackId: 5J27jwHsL1LYMMz9rOdHuw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19602918&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD
+              href: https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD
+              id: 3RNrq3jvMZxD9ZyoOZbQOD
+              name: Korn
+              type: artist
+              uri: spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD
+            external_urls:
+              spotify: https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH
+            href: https://api.spotify.com/v1/albums/2b813fSxxzp9lcOfnLrrTH
+            id: 2b813fSxxzp9lcOfnLrrTH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273520aad97cf61c2590659e79f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02520aad97cf61c2590659e79f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851520aad97cf61c2590659e79f
+            is_playable: true
+            name: Life Is Peachy
+            release_date: '1996-10-15'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2b813fSxxzp9lcOfnLrrTH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD
+            href: https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD
+            id: 3RNrq3jvMZxD9ZyoOZbQOD
+            name: Korn
+            type: artist
+            uri: spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD
+          disc_number: 1
+          duration_ms: 219410
+          explicit: true
+          external_ids:
+            isrc: USSM19602918
+          external_urls:
+            spotify: https://open.spotify.com/track/5J27jwHsL1LYMMz9rOdHuw
+          href: https://api.spotify.com/v1/tracks/5J27jwHsL1LYMMz9rOdHuw
+          id: 5J27jwHsL1LYMMz9rOdHuw
+          is_local: false
+          is_playable: true
+          name: Ass Itch
+          track_number: 13
+          type: track
+          uri: spotify:track:5J27jwHsL1LYMMz9rOdHuw
+    isrc: USSM19602918

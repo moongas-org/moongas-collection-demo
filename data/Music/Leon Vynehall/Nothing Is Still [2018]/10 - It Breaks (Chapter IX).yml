@@ -48,3 +48,126 @@ mediaFileData:
   year: 2018
   duration: 137.22122448979593
   modTime: 2024-06-16 18:30:05.237036+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0y74fR4rvN0GN0pNYJeyme
+    trackId: 0y74fR4rvN0GN0pNYJeyme
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCFB1700572&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU
+              href: https://api.spotify.com/v1/artists/2o7L9DNcmzocYll1o0GGTU
+              id: 2o7L9DNcmzocYll1o0GGTU
+              name: Leon Vynehall
+              type: artist
+              uri: spotify:artist:2o7L9DNcmzocYll1o0GGTU
+            external_urls:
+              spotify: https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr
+            href: https://api.spotify.com/v1/albums/6WeIO0CpDMiMXTglv0KuLr
+            id: 6WeIO0CpDMiMXTglv0KuLr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02db1083f417644e3e1cf47543
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851db1083f417644e3e1cf47543
+            is_playable: true
+            name: Nothing Is Still
+            release_date: '2018-06-15'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6WeIO0CpDMiMXTglv0KuLr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU
+            href: https://api.spotify.com/v1/artists/2o7L9DNcmzocYll1o0GGTU
+            id: 2o7L9DNcmzocYll1o0GGTU
+            name: Leon Vynehall
+            type: artist
+            uri: spotify:artist:2o7L9DNcmzocYll1o0GGTU
+          disc_number: 1
+          duration_ms: 137133
+          explicit: false
+          external_ids:
+            isrc: GBCFB1700572
+          external_urls:
+            spotify: https://open.spotify.com/track/0y74fR4rvN0GN0pNYJeyme
+          href: https://api.spotify.com/v1/tracks/0y74fR4rvN0GN0pNYJeyme
+          id: 0y74fR4rvN0GN0pNYJeyme
+          is_local: false
+          is_playable: true
+          name: It Breaks (Chapter IX)
+          track_number: 10
+          type: track
+          uri: spotify:track:0y74fR4rvN0GN0pNYJeyme
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3nXuGKslVGaWBSAA8QJq8V
+            href: https://api.spotify.com/v1/albums/3nXuGKslVGaWBSAA8QJq8V
+            id: 3nXuGKslVGaWBSAA8QJq8V
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bd964a4434d22825a74298fb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bd964a4434d22825a74298fb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bd964a4434d22825a74298fb
+            is_playable: true
+            name: Nova la nuit
+            release_date: '2018-11-02'
+            release_date_precision: day
+            total_tracks: 85
+            type: album
+            uri: spotify:album:3nXuGKslVGaWBSAA8QJq8V
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU
+            href: https://api.spotify.com/v1/artists/2o7L9DNcmzocYll1o0GGTU
+            id: 2o7L9DNcmzocYll1o0GGTU
+            name: Leon Vynehall
+            type: artist
+            uri: spotify:artist:2o7L9DNcmzocYll1o0GGTU
+          disc_number: 5
+          duration_ms: 132186
+          explicit: false
+          external_ids:
+            isrc: GBCFB1700572
+          external_urls:
+            spotify: https://open.spotify.com/track/6F593Q6T1mHcjKcyVvZLcP
+          href: https://api.spotify.com/v1/tracks/6F593Q6T1mHcjKcyVvZLcP
+          id: 6F593Q6T1mHcjKcyVvZLcP
+          is_local: false
+          is_playable: true
+          name: It Breaks
+          track_number: 16
+          type: track
+          uri: spotify:track:6F593Q6T1mHcjKcyVvZLcP
+    isrc: GBCFB1700572

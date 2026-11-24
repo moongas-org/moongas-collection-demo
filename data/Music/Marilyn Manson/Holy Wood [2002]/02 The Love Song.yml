@@ -48,3 +48,180 @@ mediaFileData:
   year: 2000
   duration: 196.6033560090703
   modTime: 2022-06-04 18:44:57.910000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2barAkB14QEbVMu2UissPP
+    trackId: 2barAkB14QEbVMu2UissPP
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR10001298&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+              href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+              id: 2VYQTNDsvvKN9wmU5W7xpj
+              name: Marilyn Manson
+              type: artist
+              uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+            external_urls:
+              spotify: https://open.spotify.com/album/2Khzdnk8lWz360nq4jdO1H
+            href: https://api.spotify.com/v1/albums/2Khzdnk8lWz360nq4jdO1H
+            id: 2Khzdnk8lWz360nq4jdO1H
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735ccbdfb7de111ef9df160100
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025ccbdfb7de111ef9df160100
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515ccbdfb7de111ef9df160100
+            is_playable: true
+            name: The Marilyn Manson Collection
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 135
+            type: album
+            uri: spotify:album:2Khzdnk8lWz360nq4jdO1H
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+            href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+            id: 2VYQTNDsvvKN9wmU5W7xpj
+            name: Marilyn Manson
+            type: artist
+            uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+          disc_number: 3
+          duration_ms: 196533
+          explicit: true
+          external_ids:
+            isrc: USIR10001298
+          external_urls:
+            spotify: https://open.spotify.com/track/2barAkB14QEbVMu2UissPP
+          href: https://api.spotify.com/v1/tracks/2barAkB14QEbVMu2UissPP
+          id: 2barAkB14QEbVMu2UissPP
+          is_local: false
+          is_playable: true
+          name: The Love Song
+          track_number: 2
+          type: track
+          uri: spotify:track:2barAkB14QEbVMu2UissPP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+              href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+              id: 2VYQTNDsvvKN9wmU5W7xpj
+              name: Marilyn Manson
+              type: artist
+              uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+            external_urls:
+              spotify: https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S
+            href: https://api.spotify.com/v1/albums/7fmOTYDQn9DIXCy1YDrl4S
+            id: 7fmOTYDQn9DIXCy1YDrl4S
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eabdb4fe7c535b5f40171eb4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eabdb4fe7c535b5f40171eb4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eabdb4fe7c535b5f40171eb4
+            is_playable: true
+            name: Lest We Forget - The Best Of
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:7fmOTYDQn9DIXCy1YDrl4S
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+            href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+            id: 2VYQTNDsvvKN9wmU5W7xpj
+            name: Marilyn Manson
+            type: artist
+            uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+          disc_number: 1
+          duration_ms: 185426
+          explicit: true
+          external_ids:
+            isrc: USIR10001298
+          external_urls:
+            spotify: https://open.spotify.com/track/6ZpEpeiG1OyfgAdkbs8pfH
+          href: https://api.spotify.com/v1/tracks/6ZpEpeiG1OyfgAdkbs8pfH
+          id: 6ZpEpeiG1OyfgAdkbs8pfH
+          is_local: false
+          is_playable: true
+          name: The Love Song
+          track_number: 1
+          type: track
+          uri: spotify:track:6ZpEpeiG1OyfgAdkbs8pfH
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+              href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+              id: 2VYQTNDsvvKN9wmU5W7xpj
+              name: Marilyn Manson
+              type: artist
+              uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+            external_urls:
+              spotify: https://open.spotify.com/album/3stFLIWyYH4a8u0bdxDopt
+            href: https://api.spotify.com/v1/albums/3stFLIWyYH4a8u0bdxDopt
+            id: 3stFLIWyYH4a8u0bdxDopt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27397ce10b4cfeb26d2a93cc409
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0297ce10b4cfeb26d2a93cc409
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485197ce10b4cfeb26d2a93cc409
+            is_playable: true
+            name: Holy Wood
+            release_date: '2000-11-11'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3stFLIWyYH4a8u0bdxDopt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj
+            href: https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj
+            id: 2VYQTNDsvvKN9wmU5W7xpj
+            name: Marilyn Manson
+            type: artist
+            uri: spotify:artist:2VYQTNDsvvKN9wmU5W7xpj
+          disc_number: 1
+          duration_ms: 196533
+          explicit: true
+          external_ids:
+            isrc: USIR10001298
+          external_urls:
+            spotify: https://open.spotify.com/track/3jzAsTL0I2OMebMOSDJSKx
+          href: https://api.spotify.com/v1/tracks/3jzAsTL0I2OMebMOSDJSKx
+          id: 3jzAsTL0I2OMebMOSDJSKx
+          is_local: false
+          is_playable: true
+          name: The Love Song
+          track_number: 2
+          type: track
+          uri: spotify:track:3jzAsTL0I2OMebMOSDJSKx
+    isrc: USIR10001298

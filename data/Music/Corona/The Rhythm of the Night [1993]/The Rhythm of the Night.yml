@@ -510,3 +510,288 @@ mediaFileData:
   year: 1993
   duration: 264.336
   modTime: 2023-10-18 18:15:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3uLHXElZiJ2ItY7DzpS25A
+    trackId: 3uLHXElZiJ2ItY7DzpS25A
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR19902530&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSIR19902530&type=track
+        offset: 0
+        previous:
+        total: 52
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+              href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+              id: 6nDLku5uL3ou60kvCGZorh
+              name: Bloodhound Gang
+              type: artist
+              uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+            external_urls:
+              spotify: https://open.spotify.com/album/7eMaqH9HjWg8TrAmStW5OK
+            href: https://api.spotify.com/v1/albums/7eMaqH9HjWg8TrAmStW5OK
+            id: 7eMaqH9HjWg8TrAmStW5OK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27340858c0064cfcbcde770a356
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0240858c0064cfcbcde770a356
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485140858c0064cfcbcde770a356
+            is_playable: true
+            name: Hooray For Boobies (Expanded Edition)
+            release_date: '1999-10-04'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:7eMaqH9HjWg8TrAmStW5OK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+            href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+            id: 6nDLku5uL3ou60kvCGZorh
+            name: Bloodhound Gang
+            type: artist
+            uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+          disc_number: 1
+          duration_ms: 260480
+          explicit: true
+          external_ids:
+            isrc: USIR19902530
+          external_urls:
+            spotify: https://open.spotify.com/track/3uLHXElZiJ2ItY7DzpS25A
+          href: https://api.spotify.com/v1/tracks/3uLHXElZiJ2ItY7DzpS25A
+          id: 3uLHXElZiJ2ItY7DzpS25A
+          is_local: false
+          is_playable: true
+          name: The Bad Touch
+          track_number: 10
+          type: track
+          uri: spotify:track:3uLHXElZiJ2ItY7DzpS25A
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+              href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+              id: 6nDLku5uL3ou60kvCGZorh
+              name: Bloodhound Gang
+              type: artist
+              uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+            external_urls:
+              spotify: https://open.spotify.com/album/44GtO5zD20DcGPZmS2s3yU
+            href: https://api.spotify.com/v1/albums/44GtO5zD20DcGPZmS2s3yU
+            id: 44GtO5zD20DcGPZmS2s3yU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27314feb699e08e00d5bb6ca1b4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0214feb699e08e00d5bb6ca1b4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485114feb699e08e00d5bb6ca1b4
+            is_playable: true
+            name: The Bad Touch
+            release_date: '2011-01-01'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:44GtO5zD20DcGPZmS2s3yU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+            href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+            id: 6nDLku5uL3ou60kvCGZorh
+            name: Bloodhound Gang
+            type: artist
+            uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+          disc_number: 1
+          duration_ms: 260653
+          explicit: true
+          external_ids:
+            isrc: USIR19902530
+          external_urls:
+            spotify: https://open.spotify.com/track/76VTn8C3IOI3xTezagsjbF
+          href: https://api.spotify.com/v1/tracks/76VTn8C3IOI3xTezagsjbF
+          id: 76VTn8C3IOI3xTezagsjbF
+          is_local: false
+          is_playable: true
+          name: The Bad Touch
+          track_number: 1
+          type: track
+          uri: spotify:track:76VTn8C3IOI3xTezagsjbF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+              href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+              id: 6nDLku5uL3ou60kvCGZorh
+              name: Bloodhound Gang
+              type: artist
+              uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+            external_urls:
+              spotify: https://open.spotify.com/album/2KnfEWU4cEvUNeOBCWgHgJ
+            href: https://api.spotify.com/v1/albums/2KnfEWU4cEvUNeOBCWgHgJ
+            id: 2KnfEWU4cEvUNeOBCWgHgJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f89558ac397ce8423675f84d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f89558ac397ce8423675f84d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f89558ac397ce8423675f84d
+            is_playable: true
+            name: Show Us Your Hits
+            release_date: '2010-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2KnfEWU4cEvUNeOBCWgHgJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+            href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+            id: 6nDLku5uL3ou60kvCGZorh
+            name: Bloodhound Gang
+            type: artist
+            uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+          disc_number: 1
+          duration_ms: 259839
+          explicit: true
+          external_ids:
+            isrc: USIR19902530
+          external_urls:
+            spotify: https://open.spotify.com/track/1UskRFse4ay6ttkIH4HfvR
+          href: https://api.spotify.com/v1/tracks/1UskRFse4ay6ttkIH4HfvR
+          id: 1UskRFse4ay6ttkIH4HfvR
+          is_local: false
+          is_playable: true
+          name: The Bad Touch
+          track_number: 5
+          type: track
+          uri: spotify:track:1UskRFse4ay6ttkIH4HfvR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/54VeuILXLcZMmJe6YG1X06
+            href: https://api.spotify.com/v1/albums/54VeuILXLcZMmJe6YG1X06
+            id: 54VeuILXLcZMmJe6YG1X06
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739bfb44a4fdd39e0f984c96a0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029bfb44a4fdd39e0f984c96a0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519bfb44a4fdd39e0f984c96a0
+            is_playable: true
+            name: Teenage Dirtbag Skate Rock
+            release_date: '2019-07-12'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:54VeuILXLcZMmJe6YG1X06
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+            href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+            id: 6nDLku5uL3ou60kvCGZorh
+            name: Bloodhound Gang
+            type: artist
+            uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+          disc_number: 1
+          duration_ms: 260480
+          explicit: true
+          external_ids:
+            isrc: USIR19902530
+          external_urls:
+            spotify: https://open.spotify.com/track/4FcfV0mimUniM4OLETzRoo
+          href: https://api.spotify.com/v1/tracks/4FcfV0mimUniM4OLETzRoo
+          id: 4FcfV0mimUniM4OLETzRoo
+          is_local: false
+          is_playable: true
+          name: The Bad Touch
+          track_number: 22
+          type: track
+          uri: spotify:track:4FcfV0mimUniM4OLETzRoo
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+              href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+              id: 6nDLku5uL3ou60kvCGZorh
+              name: Bloodhound Gang
+              type: artist
+              uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+            external_urls:
+              spotify: https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh
+            href: https://api.spotify.com/v1/albums/7BuCGZPiQkZpyn0Wj8rxIh
+            id: 7BuCGZPiQkZpyn0Wj8rxIh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d6d86be2779b5b6b4980feb9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d6d86be2779b5b6b4980feb9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d6d86be2779b5b6b4980feb9
+            is_playable: true
+            name: Hooray For Boobies
+            release_date: '1999-10-04'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:7BuCGZPiQkZpyn0Wj8rxIh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh
+            href: https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh
+            id: 6nDLku5uL3ou60kvCGZorh
+            name: Bloodhound Gang
+            type: artist
+            uri: spotify:artist:6nDLku5uL3ou60kvCGZorh
+          disc_number: 1
+          duration_ms: 260506
+          explicit: true
+          external_ids:
+            isrc: USIR19902530
+          external_urls:
+            spotify: https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG
+          href: https://api.spotify.com/v1/tracks/5EYdTPdJD74r9EVZBztqGG
+          id: 5EYdTPdJD74r9EVZBztqGG
+          is_local: false
+          is_playable: true
+          name: The Bad Touch
+          track_number: 10
+          type: track
+          uri: spotify:track:5EYdTPdJD74r9EVZBztqGG
+    isrc: USIR19902530

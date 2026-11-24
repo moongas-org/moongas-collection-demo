@@ -74,3 +74,126 @@ mediaFileData:
   year: 2020
   duration: 203.256
   modTime: 2023-03-26 18:32:17+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3nA3gSFyHptpWrE8GpHGfn
+    trackId: 3nA3gSFyHptpWrE8GpHGfn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUG12003586&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+              href: https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ
+              id: 1Xyo4u8uXC1ZmMpatF05PJ
+              name: The Weeknd
+              type: artist
+              uri: spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+            external_urls:
+              spotify: https://open.spotify.com/album/3sL9Myf7JF1k9TbrXE46ou
+            href: https://api.spotify.com/v1/albums/3sL9Myf7JF1k9TbrXE46ou
+            id: 3sL9Myf7JF1k9TbrXE46ou
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a3eff72f62782fb589a492f9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a3eff72f62782fb589a492f9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a3eff72f62782fb589a492f9
+            is_playable: true
+            name: Blinding Lights
+            release_date: '2020-09-11'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:3sL9Myf7JF1k9TbrXE46ou
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+            href: https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ
+            id: 1Xyo4u8uXC1ZmMpatF05PJ
+            name: The Weeknd
+            type: artist
+            uri: spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+          disc_number: 1
+          duration_ms: 202104
+          explicit: false
+          external_ids:
+            isrc: USUG12003586
+          external_urls:
+            spotify: https://open.spotify.com/track/3nA3gSFyHptpWrE8GpHGfn
+          href: https://api.spotify.com/v1/tracks/3nA3gSFyHptpWrE8GpHGfn
+          id: 3nA3gSFyHptpWrE8GpHGfn
+          is_local: false
+          is_playable: true
+          name: Blinding Lights - Instrumental
+          track_number: 4
+          type: track
+          uri: spotify:track:3nA3gSFyHptpWrE8GpHGfn
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+              href: https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ
+              id: 1Xyo4u8uXC1ZmMpatF05PJ
+              name: The Weeknd
+              type: artist
+              uri: spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+            external_urls:
+              spotify: https://open.spotify.com/album/1z3fFEPcCWT4KLaOf0ptb0
+            href: https://api.spotify.com/v1/albums/1z3fFEPcCWT4KLaOf0ptb0
+            id: 1z3fFEPcCWT4KLaOf0ptb0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730e4ad806fa4c8ebfdbc4187c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020e4ad806fa4c8ebfdbc4187c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510e4ad806fa4c8ebfdbc4187c
+            is_playable: true
+            name: Blinding Lights (Instrumental)
+            release_date: '2020-09-11'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:1z3fFEPcCWT4KLaOf0ptb0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+            href: https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ
+            id: 1Xyo4u8uXC1ZmMpatF05PJ
+            name: The Weeknd
+            type: artist
+            uri: spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+          disc_number: 1
+          duration_ms: 202104
+          explicit: false
+          external_ids:
+            isrc: USUG12003586
+          external_urls:
+            spotify: https://open.spotify.com/track/6zaxxZxxjUJ0I3AYkzp2WA
+          href: https://api.spotify.com/v1/tracks/6zaxxZxxjUJ0I3AYkzp2WA
+          id: 6zaxxZxxjUJ0I3AYkzp2WA
+          is_local: false
+          is_playable: true
+          name: Blinding Lights - Instrumental
+          track_number: 1
+          type: track
+          uri: spotify:track:6zaxxZxxjUJ0I3AYkzp2WA
+    isrc: USUG12003586

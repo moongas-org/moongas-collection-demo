@@ -67,3 +67,79 @@ mediaFileData:
   year: 2019
   duration: 157.656
   modTime: 2025-03-09 17:44:06.767039+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Gs9fsGQZ2TeNnTEVHu3uf
+    trackId: 0Gs9fsGQZ2TeNnTEVHu3uf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEN2000042&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev
+              href: https://api.spotify.com/v1/artists/4ofCBoyEiGSePFAG500xev
+              id: 4ofCBoyEiGSePFAG500xev
+              name: Regard
+              type: artist
+              uri: spotify:artist:4ofCBoyEiGSePFAG500xev
+            external_urls:
+              spotify: https://open.spotify.com/album/5AnbMK160pGlJf2645jHu5
+            href: https://api.spotify.com/v1/albums/5AnbMK160pGlJf2645jHu5
+            id: 5AnbMK160pGlJf2645jHu5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738e309443f712786659ad68b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028e309443f712786659ad68b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518e309443f712786659ad68b3
+            is_playable: true
+            name: Ride It (Remixes)
+            release_date: '2020-04-10'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:5AnbMK160pGlJf2645jHu5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev
+            href: https://api.spotify.com/v1/artists/4ofCBoyEiGSePFAG500xev
+            id: 4ofCBoyEiGSePFAG500xev
+            name: Regard
+            type: artist
+            uri: spotify:artist:4ofCBoyEiGSePFAG500xev
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v
+            href: https://api.spotify.com/v1/artists/4gSsv9FQDyXx0GUkZYha7v
+            id: 4gSsv9FQDyXx0GUkZYha7v
+            name: David Puentez
+            type: artist
+            uri: spotify:artist:4gSsv9FQDyXx0GUkZYha7v
+          disc_number: 1
+          duration_ms: 158709
+          explicit: false
+          external_ids:
+            isrc: GBCEN2000042
+          external_urls:
+            spotify: https://open.spotify.com/track/0Gs9fsGQZ2TeNnTEVHu3uf
+          href: https://api.spotify.com/v1/tracks/0Gs9fsGQZ2TeNnTEVHu3uf
+          id: 0Gs9fsGQZ2TeNnTEVHu3uf
+          is_local: false
+          is_playable: true
+          name: Ride It - David Puentez Remix
+          track_number: 4
+          type: track
+          uri: spotify:track:0Gs9fsGQZ2TeNnTEVHu3uf
+    isrc: GBCEN2000042

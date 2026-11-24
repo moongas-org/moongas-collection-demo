@@ -34,3 +34,72 @@ mediaFileData:
   year: 1998
   duration: 223.62666666666667
   modTime: 2023-12-02 20:32:48.791326+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4K4HPgBAHah5NBdE1d3gO0
+    trackId: 4K4HPgBAHah5NBdE1d3gO0
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC19858311&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd
+              href: https://api.spotify.com/v1/artists/0Grjlu7ncIuCaSYvCs9fcd
+              id: 0Grjlu7ncIuCaSYvCs9fcd
+              name: New Radicals
+              type: artist
+              uri: spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+            external_urls:
+              spotify: https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR
+            href: https://api.spotify.com/v1/albums/13btXEnBerpA1UjIVtsMAR
+            id: 13btXEnBerpA1UjIVtsMAR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dfdedd4553b40bbaab342dae
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dfdedd4553b40bbaab342dae
+            is_playable: true
+            name: Maybe You've Been Brainwashed Too
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:13btXEnBerpA1UjIVtsMAR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd
+            href: https://api.spotify.com/v1/artists/0Grjlu7ncIuCaSYvCs9fcd
+            id: 0Grjlu7ncIuCaSYvCs9fcd
+            name: New Radicals
+            type: artist
+            uri: spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+          disc_number: 1
+          duration_ms: 223626
+          explicit: false
+          external_ids:
+            isrc: USMC19858311
+          external_urls:
+            spotify: https://open.spotify.com/track/4K4HPgBAHah5NBdE1d3gO0
+          href: https://api.spotify.com/v1/tracks/4K4HPgBAHah5NBdE1d3gO0
+          id: 4K4HPgBAHah5NBdE1d3gO0
+          is_local: false
+          is_playable: true
+          name: Technicolor Lover
+          track_number: 10
+          type: track
+          uri: spotify:track:4K4HPgBAHah5NBdE1d3gO0
+    isrc: USMC19858311

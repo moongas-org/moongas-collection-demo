@@ -69,3 +69,72 @@ mediaFileData:
   year: 1995
   duration: 185.15591666666666
   modTime: 2025-01-11 01:06:17.012523+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2foK0Ul12uDDUiuuSVAEI0
+    trackId: 2foK0Ul12uDDUiuuSVAEI0
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA20500860&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd
+              href: https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd
+              id: 5sD1ZLf2dGQ9gQ3YJl1eAd
+              name: Blind Melon
+              type: artist
+              uri: spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+            external_urls:
+              spotify: https://open.spotify.com/album/1lNRm11fUAquKAOOvV3h5n
+            href: https://api.spotify.com/v1/albums/1lNRm11fUAquKAOOvV3h5n
+            id: 1lNRm11fUAquKAOOvV3h5n
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27331975d51236c2d516d8f2980
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0231975d51236c2d516d8f2980
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485131975d51236c2d516d8f2980
+            is_playable: true
+            name: Live At The Palace
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1lNRm11fUAquKAOOvV3h5n
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd
+            href: https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd
+            id: 5sD1ZLf2dGQ9gQ3YJl1eAd
+            name: Blind Melon
+            type: artist
+            uri: spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+          disc_number: 1
+          duration_ms: 189386
+          explicit: false
+          external_ids:
+            isrc: USCA20500860
+          external_urls:
+            spotify: https://open.spotify.com/track/2foK0Ul12uDDUiuuSVAEI0
+          href: https://api.spotify.com/v1/tracks/2foK0Ul12uDDUiuuSVAEI0
+          id: 2foK0Ul12uDDUiuuSVAEI0
+          is_local: false
+          is_playable: true
+          name: Toes Across The Floor - Live
+          track_number: 2
+          type: track
+          uri: spotify:track:2foK0Ul12uDDUiuuSVAEI0
+    isrc: USCA20500860

@@ -59,3 +59,79 @@ mediaFileData:
   year: 2009
   duration: 271.77795
   modTime: 2026-09-01 01:03:54.623165+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7eETnhsHh5oZ2v2WD5VsBk
+    trackId: 7eETnhsHh5oZ2v2WD5VsBk
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFR9W10701521&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi
+              href: https://api.spotify.com/v1/artists/2o3U0ld93tHYowkoari4Vi
+              id: 2o3U0ld93tHYowkoari4Vi
+              name: Danger
+              type: artist
+              uri: spotify:artist:2o3U0ld93tHYowkoari4Vi
+            external_urls:
+              spotify: https://open.spotify.com/album/4mUw8uTQUtT1fLIfilo14s
+            href: https://api.spotify.com/v1/albums/4mUw8uTQUtT1fLIfilo14s
+            id: 4mUw8uTQUtT1fLIfilo14s
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dab29030cdd6706a6b90f27b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dab29030cdd6706a6b90f27b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dab29030cdd6706a6b90f27b
+            is_playable: true
+            name: 09/14 2007
+            release_date: '2007-11-19'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:4mUw8uTQUtT1fLIfilo14s
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi
+            href: https://api.spotify.com/v1/artists/2o3U0ld93tHYowkoari4Vi
+            id: 2o3U0ld93tHYowkoari4Vi
+            name: Danger
+            type: artist
+            uri: spotify:artist:2o3U0ld93tHYowkoari4Vi
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7LfAo4bOnVcNEG7L3XRiyZ
+            href: https://api.spotify.com/v1/artists/7LfAo4bOnVcNEG7L3XRiyZ
+            id: 7LfAo4bOnVcNEG7L3XRiyZ
+            name: datA
+            type: artist
+            uri: spotify:artist:7LfAo4bOnVcNEG7L3XRiyZ
+          disc_number: 1
+          duration_ms: 271720
+          explicit: false
+          external_ids:
+            isrc: FR9W10701521
+          external_urls:
+            spotify: https://open.spotify.com/track/7eETnhsHh5oZ2v2WD5VsBk
+          href: https://api.spotify.com/v1/tracks/7eETnhsHh5oZ2v2WD5VsBk
+          id: 7eETnhsHh5oZ2v2WD5VsBk
+          is_local: false
+          is_playable: true
+          name: 11:30 (datA Remix)
+          track_number: 2
+          type: track
+          uri: spotify:track:7eETnhsHh5oZ2v2WD5VsBk
+    isrc: FR9W10701521

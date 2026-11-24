@@ -45,3 +45,126 @@ mediaFileData:
   year: 2004
   duration: 265.896
   modTime: 2024-11-02 21:50:54.306335+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5jHvESZy5dOSxE5pVnYsN1
+    trackId: 5jHvESZy5dOSxE5pVnYsN1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBALB8700009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/0Be9aR7uSUhQII8AC404TP
+            href: https://api.spotify.com/v1/albums/0Be9aR7uSUhQII8AC404TP
+            id: 0Be9aR7uSUhQII8AC404TP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ceabdc183cc52bc24ae82cb3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ceabdc183cc52bc24ae82cb3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ceabdc183cc52bc24ae82cb3
+            is_playable: true
+            name: 'Join the Dots: B-Sides and Rarities, 1978-2001 (The Fiction Years)'
+            release_date: '2005-02-08'
+            release_date_precision: day
+            total_tracks: 70
+            type: album
+            uri: spotify:album:0Be9aR7uSUhQII8AC404TP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 265866
+          explicit: false
+          external_ids:
+            isrc: GBALB8700009
+          external_urls:
+            spotify: https://open.spotify.com/track/5jHvESZy5dOSxE5pVnYsN1
+          href: https://api.spotify.com/v1/tracks/5jHvESZy5dOSxE5pVnYsN1
+          id: 5jHvESZy5dOSxE5pVnYsN1
+          is_local: false
+          is_playable: true
+          name: How Beautiful You Are
+          track_number: 30
+          type: track
+          uri: spotify:track:5jHvESZy5dOSxE5pVnYsN1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/49K8RruT5DYuV26Kv6X8P7
+            href: https://api.spotify.com/v1/albums/49K8RruT5DYuV26Kv6X8P7
+            id: 49K8RruT5DYuV26Kv6X8P7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731c5403179fecdb3842785e29
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021c5403179fecdb3842785e29
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511c5403179fecdb3842785e29
+            is_playable: true
+            name: BORN IN THE YEAR 1984 Vol. 1
+            release_date: '2024-04-18'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:49K8RruT5DYuV26Kv6X8P7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 265866
+          explicit: false
+          external_ids:
+            isrc: GBALB8700009
+          external_urls:
+            spotify: https://open.spotify.com/track/3H8B5Jey4zz4vHPuYEkM2b
+          href: https://api.spotify.com/v1/tracks/3H8B5Jey4zz4vHPuYEkM2b
+          id: 3H8B5Jey4zz4vHPuYEkM2b
+          is_local: false
+          is_playable: true
+          name: How Beautiful You Are
+          track_number: 6
+          type: track
+          uri: spotify:track:3H8B5Jey4zz4vHPuYEkM2b
+    isrc: GBALB8700009

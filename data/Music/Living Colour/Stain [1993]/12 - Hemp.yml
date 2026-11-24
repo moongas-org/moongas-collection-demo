@@ -41,3 +41,126 @@ mediaFileData:
   year: 1993
   duration: 95.6
   modTime: 2024-12-19 19:00:40.729352+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/40AjxrpxKlOpGfRHehqk11
+    trackId: 40AjxrpxKlOpGfRHehqk11
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10025660&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de
+              href: https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de
+              id: 6Uhp7WA6sjm5ZL6Xz561de
+              name: Living Colour
+              type: artist
+              uri: spotify:artist:6Uhp7WA6sjm5ZL6Xz561de
+            external_urls:
+              spotify: https://open.spotify.com/album/1Co7Q6yzEFiPQDcOAcdbHW
+            href: https://api.spotify.com/v1/albums/1Co7Q6yzEFiPQDcOAcdbHW
+            id: 1Co7Q6yzEFiPQDcOAcdbHW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a9dd6953bd4adb51e8c1aaac
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a9dd6953bd4adb51e8c1aaac
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a9dd6953bd4adb51e8c1aaac
+            is_playable: true
+            name: Stain
+            release_date: '1993-02-18'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1Co7Q6yzEFiPQDcOAcdbHW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de
+            href: https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de
+            id: 6Uhp7WA6sjm5ZL6Xz561de
+            name: Living Colour
+            type: artist
+            uri: spotify:artist:6Uhp7WA6sjm5ZL6Xz561de
+          disc_number: 1
+          duration_ms: 95560
+          explicit: false
+          external_ids:
+            isrc: USSM10025660
+          external_urls:
+            spotify: https://open.spotify.com/track/40AjxrpxKlOpGfRHehqk11
+          href: https://api.spotify.com/v1/tracks/40AjxrpxKlOpGfRHehqk11
+          id: 40AjxrpxKlOpGfRHehqk11
+          is_local: false
+          is_playable: true
+          name: Hemp
+          track_number: 12
+          type: track
+          uri: spotify:track:40AjxrpxKlOpGfRHehqk11
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de
+              href: https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de
+              id: 6Uhp7WA6sjm5ZL6Xz561de
+              name: Living Colour
+              type: artist
+              uri: spotify:artist:6Uhp7WA6sjm5ZL6Xz561de
+            external_urls:
+              spotify: https://open.spotify.com/album/7DFb9QZJG2Dxu1HaCHjRsq
+            href: https://api.spotify.com/v1/albums/7DFb9QZJG2Dxu1HaCHjRsq
+            id: 7DFb9QZJG2Dxu1HaCHjRsq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739f683aa6f67618536531202e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029f683aa6f67618536531202e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519f683aa6f67618536531202e
+            is_playable: true
+            name: Stain
+            release_date: '1993-02-10'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7DFb9QZJG2Dxu1HaCHjRsq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de
+            href: https://api.spotify.com/v1/artists/6Uhp7WA6sjm5ZL6Xz561de
+            id: 6Uhp7WA6sjm5ZL6Xz561de
+            name: Living Colour
+            type: artist
+            uri: spotify:artist:6Uhp7WA6sjm5ZL6Xz561de
+          disc_number: 1
+          duration_ms: 95573
+          explicit: false
+          external_ids:
+            isrc: USSM10025660
+          external_urls:
+            spotify: https://open.spotify.com/track/1zrolxFOhKU62W9OzyDYSn
+          href: https://api.spotify.com/v1/tracks/1zrolxFOhKU62W9OzyDYSn
+          id: 1zrolxFOhKU62W9OzyDYSn
+          is_local: false
+          is_playable: true
+          name: Hemp
+          track_number: 12
+          type: track
+          uri: spotify:track:1zrolxFOhKU62W9OzyDYSn
+    isrc: USSM10025660

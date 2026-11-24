@@ -169,3 +169,288 @@ mediaFileData:
   year: 1999
   duration: 238.15541666666667
   modTime: 2023-09-24 10:56:16+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1Y6DGcTCuMAtw8KB3h4W3q
+    trackId: 1Y6DGcTCuMAtw8KB3h4W3q
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19900687&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB19900687&type=track
+        offset: 0
+        previous:
+        total: 8
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD
+            href: https://api.spotify.com/v1/albums/0fLhefnjlIV3pGNF9Wo8CD
+            id: 0fLhefnjlIV3pGNF9Wo8CD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a9249ebb15ca7a5b75f16a90
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a9249ebb15ca7a5b75f16a90
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a9249ebb15ca7a5b75f16a90
+            is_playable: true
+            name: Californication
+            release_date: '1999-06-08'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:0fLhefnjlIV3pGNF9Wo8CD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 239213
+          explicit: true
+          external_ids:
+            isrc: USWB19900687
+          external_urls:
+            spotify: https://open.spotify.com/track/1Y6DGcTCuMAtw8KB3h4W3q
+          href: https://api.spotify.com/v1/tracks/1Y6DGcTCuMAtw8KB3h4W3q
+          id: 1Y6DGcTCuMAtw8KB3h4W3q
+          is_local: false
+          is_playable: true
+          name: Around the World
+          track_number: 1
+          type: track
+          uri: spotify:track:1Y6DGcTCuMAtw8KB3h4W3q
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7aOFj1yM42sm2gzmlPidPP
+            href: https://api.spotify.com/v1/albums/7aOFj1yM42sm2gzmlPidPP
+            id: 7aOFj1yM42sm2gzmlPidPP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3686323bf737cb7ba3de792
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3686323bf737cb7ba3de792
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792
+            is_playable: true
+            name: The Studio Album Collection 1991 - 2011
+            release_date: '2014-12-12'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:7aOFj1yM42sm2gzmlPidPP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 3
+          duration_ms: 240200
+          explicit: true
+          external_ids:
+            isrc: USWB19900687
+          external_urls:
+            spotify: https://open.spotify.com/track/2GPsLljvlsoT229xgJ2AdT
+          href: https://api.spotify.com/v1/tracks/2GPsLljvlsoT229xgJ2AdT
+          id: 2GPsLljvlsoT229xgJ2AdT
+          is_local: false
+          is_playable: true
+          name: Around the World
+          track_number: 1
+          type: track
+          uri: spotify:track:2GPsLljvlsoT229xgJ2AdT
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi
+            href: https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi
+            id: 2Y9IRtehByVkegoD7TcLfi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595
+            is_playable: true
+            name: Californication (Deluxe Edition)
+            release_date: '1999-06-08'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:2Y9IRtehByVkegoD7TcLfi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 238733
+          explicit: true
+          external_ids:
+            isrc: USWB19900687
+          external_urls:
+            spotify: https://open.spotify.com/track/0aGQHMr7bc23Y9Ts84ffop
+          href: https://api.spotify.com/v1/tracks/0aGQHMr7bc23Y9Ts84ffop
+          id: 0aGQHMr7bc23Y9Ts84ffop
+          is_local: false
+          is_playable: true
+          name: Around the World
+          track_number: 1
+          type: track
+          uri: spotify:track:0aGQHMr7bc23Y9Ts84ffop
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6DHbqj8YxKXxFOvEztJmXM
+            href: https://api.spotify.com/v1/albums/6DHbqj8YxKXxFOvEztJmXM
+            id: 6DHbqj8YxKXxFOvEztJmXM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27384f1b0f66162b953a384a22f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0284f1b0f66162b953a384a22f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485184f1b0f66162b953a384a22f
+            is_playable: true
+            name: Arriba el ánimo
+            release_date: '2024-04-19'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:6DHbqj8YxKXxFOvEztJmXM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 238733
+          explicit: false
+          external_ids:
+            isrc: USWB19900687
+          external_urls:
+            spotify: https://open.spotify.com/track/5hlNg0lbeaTXFjiYXyXG5q
+          href: https://api.spotify.com/v1/tracks/5hlNg0lbeaTXFjiYXyXG5q
+          id: 5hlNg0lbeaTXFjiYXyXG5q
+          is_local: false
+          is_playable: true
+          name: Around the World
+          track_number: 42
+          type: track
+          uri: spotify:track:5hlNg0lbeaTXFjiYXyXG5q
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1LOpEZ0J282kl28aoOGKKw
+            href: https://api.spotify.com/v1/albums/1LOpEZ0J282kl28aoOGKKw
+            id: 1LOpEZ0J282kl28aoOGKKw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730573af492b94bce538383e47
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020573af492b94bce538383e47
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510573af492b94bce538383e47
+            is_playable: true
+            name: Sternenhimmel der Liebe 2025
+            release_date: '2025-03-28'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:1LOpEZ0J282kl28aoOGKKw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 238733
+          explicit: false
+          external_ids:
+            isrc: USWB19900687
+          external_urls:
+            spotify: https://open.spotify.com/track/3s0Qz2O3631FZv3Z6VaaaI
+          href: https://api.spotify.com/v1/tracks/3s0Qz2O3631FZv3Z6VaaaI
+          id: 3s0Qz2O3631FZv3Z6VaaaI
+          is_local: false
+          is_playable: true
+          name: Around the World
+          track_number: 7
+          type: track
+          uri: spotify:track:3s0Qz2O3631FZv3Z6VaaaI
+    isrc: USWB19900687

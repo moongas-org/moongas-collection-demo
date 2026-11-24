@@ -55,3 +55,234 @@ mediaFileData:
   year: 1977
   duration: 188.088
   modTime: 2024-02-18 20:10:16.332525+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM
+    trackId: 2ULRNZ4FbMQj4FVpFkUmNM
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR27700009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/655KljKIXl42fiNDMKivbY
+            href: https://api.spotify.com/v1/albums/655KljKIXl42fiNDMKivbY
+            id: 655KljKIXl42fiNDMKivbY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7f3e4d143c198d3542a775d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7f3e4d143c198d3542a775d
+            is_playable: true
+            name: Exodus
+            release_date: '1977-06-03'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:655KljKIXl42fiNDMKivbY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 188026
+          explicit: false
+          external_ids:
+            isrc: USIR27700009
+          external_urls:
+            spotify: https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM
+          href: https://api.spotify.com/v1/tracks/2ULRNZ4FbMQj4FVpFkUmNM
+          id: 2ULRNZ4FbMQj4FVpFkUmNM
+          is_local: false
+          is_playable: true
+          name: So Much Things To Say
+          track_number: 2
+          type: track
+          uri: spotify:track:2ULRNZ4FbMQj4FVpFkUmNM
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/3lxHj7xzLBkPpg98eJ7G8B
+            href: https://api.spotify.com/v1/albums/3lxHj7xzLBkPpg98eJ7G8B
+            id: 3lxHj7xzLBkPpg98eJ7G8B
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739fb7dd2aae3f1b15e5a37f64
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029fb7dd2aae3f1b15e5a37f64
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519fb7dd2aae3f1b15e5a37f64
+            is_playable: true
+            name: Exodus 40
+            release_date: '2017-06-02'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3lxHj7xzLBkPpg98eJ7G8B
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 191946
+          explicit: false
+          external_ids:
+            isrc: USIR27700009
+          external_urls:
+            spotify: https://open.spotify.com/track/19v8GtZqBauIvoRFiTptih
+          href: https://api.spotify.com/v1/tracks/19v8GtZqBauIvoRFiTptih
+          id: 19v8GtZqBauIvoRFiTptih
+          is_local: false
+          is_playable: true
+          name: So Much Things To Say
+          track_number: 10
+          type: track
+          uri: spotify:track:19v8GtZqBauIvoRFiTptih
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/2BGBKhA5Oo3MMg7VccWeae
+            href: https://api.spotify.com/v1/albums/2BGBKhA5Oo3MMg7VccWeae
+            id: 2BGBKhA5Oo3MMg7VccWeae
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733225207c8e7305bd76cfa710
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023225207c8e7305bd76cfa710
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513225207c8e7305bd76cfa710
+            is_playable: true
+            name: Exodus (Deluxe Edition)
+            release_date: '2022-06-24'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:2BGBKhA5Oo3MMg7VccWeae
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 187412
+          explicit: false
+          external_ids:
+            isrc: USIR27700009
+          external_urls:
+            spotify: https://open.spotify.com/track/6U3F8zBwIv45uGkUsng1Ey
+          href: https://api.spotify.com/v1/tracks/6U3F8zBwIv45uGkUsng1Ey
+          id: 6U3F8zBwIv45uGkUsng1Ey
+          is_local: false
+          is_playable: true
+          name: So Much Things To Say
+          track_number: 2
+          type: track
+          uri: spotify:track:6U3F8zBwIv45uGkUsng1Ey
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/0t7epGcMFSPS98X9t9atfk
+            href: https://api.spotify.com/v1/albums/0t7epGcMFSPS98X9t9atfk
+            id: 0t7epGcMFSPS98X9t9atfk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fb6f5453a8a7b527dd6b130b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fb6f5453a8a7b527dd6b130b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fb6f5453a8a7b527dd6b130b
+            is_playable: true
+            name: Exodus 30th Anniversary Edition
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0t7epGcMFSPS98X9t9atfk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 188093
+          explicit: false
+          external_ids:
+            isrc: USIR27700009
+          external_urls:
+            spotify: https://open.spotify.com/track/46Xh0VhLMSnatvhbbBzhDN
+          href: https://api.spotify.com/v1/tracks/46Xh0VhLMSnatvhbbBzhDN
+          id: 46Xh0VhLMSnatvhbbBzhDN
+          is_local: false
+          is_playable: true
+          name: So Much Things To Say
+          track_number: 2
+          type: track
+          uri: spotify:track:46Xh0VhLMSnatvhbbBzhDN
+    isrc: USIR27700009

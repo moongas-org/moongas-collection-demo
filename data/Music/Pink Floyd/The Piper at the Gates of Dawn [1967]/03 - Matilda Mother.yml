@@ -180,3 +180,72 @@ mediaFileData:
   year: 1967
   duration: 188.63020408163266
   modTime: 2026-10-19 15:53:31.238556+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6SlI8JYwFaESqre47wrQZz
+    trackId: 6SlI8JYwFaESqre47wrQZz
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBN9Y1100003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+              href: https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9
+              id: 0k17h0D3J5VfsdmQ1iZtE9
+              name: Pink Floyd
+              type: artist
+              uri: spotify:artist:0k17h0D3J5VfsdmQ1iZtE9
+            external_urls:
+              spotify: https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC
+            href: https://api.spotify.com/v1/albums/2Se4ZylF9NkFGD92yv1aZC
+            id: 2Se4ZylF9NkFGD92yv1aZC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ea452b06164855e4d164235
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ea452b06164855e4d164235
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ea452b06164855e4d164235
+            is_playable: true
+            name: The Piper at the Gates of Dawn
+            release_date: '1967-08-05'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:2Se4ZylF9NkFGD92yv1aZC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+            href: https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9
+            id: 0k17h0D3J5VfsdmQ1iZtE9
+            name: Pink Floyd
+            type: artist
+            uri: spotify:artist:0k17h0D3J5VfsdmQ1iZtE9
+          disc_number: 1
+          duration_ms: 188480
+          explicit: false
+          external_ids:
+            isrc: GBN9Y1100003
+          external_urls:
+            spotify: https://open.spotify.com/track/6SlI8JYwFaESqre47wrQZz
+          href: https://api.spotify.com/v1/tracks/6SlI8JYwFaESqre47wrQZz
+          id: 6SlI8JYwFaESqre47wrQZz
+          is_local: false
+          is_playable: true
+          name: Matilda Mother
+          track_number: 3
+          type: track
+          uri: spotify:track:6SlI8JYwFaESqre47wrQZz
+    isrc: GBN9Y1100003

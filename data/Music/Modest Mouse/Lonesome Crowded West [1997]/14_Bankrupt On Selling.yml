@@ -45,3 +45,126 @@ mediaFileData:
   year: 1997
   duration: 1376.443
   modTime: 2023-05-13 21:01:13.850000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/09t6ruEl0cyPKGKE5yBLnA
+    trackId: 09t6ruEl0cyPKGKE5yBLnA
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFP71444614&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/4huGLolzxkNmDYYYW0enLq
+            href: https://api.spotify.com/v1/albums/4huGLolzxkNmDYYYW0enLq
+            id: 4huGLolzxkNmDYYYW0enLq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27358c120054933c3761e28cc34
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0258c120054933c3761e28cc34
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485158c120054933c3761e28cc34
+            is_playable: true
+            name: The Lonesome Crowded West
+            release_date: '1997-11-18'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4huGLolzxkNmDYYYW0enLq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 173773
+          explicit: false
+          external_ids:
+            isrc: USFP71444614
+          external_urls:
+            spotify: https://open.spotify.com/track/09t6ruEl0cyPKGKE5yBLnA
+          href: https://api.spotify.com/v1/tracks/09t6ruEl0cyPKGKE5yBLnA
+          id: 09t6ruEl0cyPKGKE5yBLnA
+          is_local: false
+          is_playable: true
+          name: Bankrupt On Selling
+          track_number: 14
+          type: track
+          uri: spotify:track:09t6ruEl0cyPKGKE5yBLnA
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj
+            href: https://api.spotify.com/v1/albums/5mvHTVy1iUIkAflIufoOpj
+            id: 5mvHTVy1iUIkAflIufoOpj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736d36f5f881bb591a529e259b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026d36f5f881bb591a529e259b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516d36f5f881bb591a529e259b
+            is_playable: true
+            name: The Lonesome Crowded West
+            release_date: '1997-11-18'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:5mvHTVy1iUIkAflIufoOpj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 173773
+          explicit: false
+          external_ids:
+            isrc: USFP71444614
+          external_urls:
+            spotify: https://open.spotify.com/track/6DTFmTnazxFGo6SdwSICwv
+          href: https://api.spotify.com/v1/tracks/6DTFmTnazxFGo6SdwSICwv
+          id: 6DTFmTnazxFGo6SdwSICwv
+          is_local: false
+          is_playable: true
+          name: Bankrupt On Selling
+          track_number: 14
+          type: track
+          uri: spotify:track:6DTFmTnazxFGo6SdwSICwv
+    isrc: USFP71444614

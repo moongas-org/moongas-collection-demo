@@ -237,3 +237,72 @@ mediaFileData:
   year: 1968
   duration: 303.06666666666666
   modTime: 2023-08-16 22:30:12+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/53gYYcxaq0B0W71FaeCynr
+    trackId: 53gYYcxaq0B0W71FaeCynr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10026370&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7dXeJ8kAqTqtvNWQNV3sdU
+              href: https://api.spotify.com/v1/artists/7dXeJ8kAqTqtvNWQNV3sdU
+              id: 7dXeJ8kAqTqtvNWQNV3sdU
+              name: Surface
+              type: artist
+              uri: spotify:artist:7dXeJ8kAqTqtvNWQNV3sdU
+            external_urls:
+              spotify: https://open.spotify.com/album/4RzZ6XUkzv3yQPstb4tcHN
+            href: https://api.spotify.com/v1/albums/4RzZ6XUkzv3yQPstb4tcHN
+            id: 4RzZ6XUkzv3yQPstb4tcHN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27395cf89cf64d3f1c6100acdcb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0295cf89cf64d3f1c6100acdcb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485195cf89cf64d3f1c6100acdcb
+            is_playable: true
+            name: 2nd Wave (Expanded Edition)
+            release_date: '1988'
+            release_date_precision: year
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4RzZ6XUkzv3yQPstb4tcHN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7dXeJ8kAqTqtvNWQNV3sdU
+            href: https://api.spotify.com/v1/artists/7dXeJ8kAqTqtvNWQNV3sdU
+            id: 7dXeJ8kAqTqtvNWQNV3sdU
+            name: Surface
+            type: artist
+            uri: spotify:artist:7dXeJ8kAqTqtvNWQNV3sdU
+          disc_number: 1
+          duration_ms: 299760
+          explicit: false
+          external_ids:
+            isrc: USSM10026370
+          external_urls:
+            spotify: https://open.spotify.com/track/53gYYcxaq0B0W71FaeCynr
+          href: https://api.spotify.com/v1/tracks/53gYYcxaq0B0W71FaeCynr
+          id: 53gYYcxaq0B0W71FaeCynr
+          is_local: false
+          is_playable: true
+          name: Black Shades
+          track_number: 6
+          type: track
+          uri: spotify:track:53gYYcxaq0B0W71FaeCynr
+    isrc: USSM10026370

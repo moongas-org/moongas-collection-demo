@@ -56,3 +56,72 @@ mediaFileData:
   year: 2002
   duration: 36.702041666666666
   modTime: 2025-01-11 00:54:01.557655+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7b3xVrjua0LwrqeRmxon8p
+    trackId: 7b3xVrjua0LwrqeRmxon8p
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCTX2100269&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+              href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+              id: 7M1FPw29m5FbicYzS2xdpi
+              name: King Crimson
+              type: artist
+              uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+            external_urls:
+              spotify: https://open.spotify.com/album/25BDt81fxFdJh8jVmA9Top
+            href: https://api.spotify.com/v1/albums/25BDt81fxFdJh8jVmA9Top
+            id: 25BDt81fxFdJh8jVmA9Top
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730895fab8d67fb54171a7bd9f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020895fab8d67fb54171a7bd9f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510895fab8d67fb54171a7bd9f
+            is_playable: true
+            name: Happy With What You Have To Be Happy With / Level Five / Elektrik
+            release_date: '2021-12-17'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:25BDt81fxFdJh8jVmA9Top
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+            href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+            id: 7M1FPw29m5FbicYzS2xdpi
+            name: King Crimson
+            type: artist
+            uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+          disc_number: 1
+          duration_ms: 40080
+          explicit: false
+          external_ids:
+            isrc: GBCTX2100269
+          external_urls:
+            spotify: https://open.spotify.com/track/7b3xVrjua0LwrqeRmxon8p
+          href: https://api.spotify.com/v1/tracks/7b3xVrjua0LwrqeRmxon8p
+          id: 7b3xVrjua0LwrqeRmxon8p
+          is_local: false
+          is_playable: true
+          name: I Ran
+          track_number: 8
+          type: track
+          uri: spotify:track:7b3xVrjua0LwrqeRmxon8p
+    isrc: GBCTX2100269

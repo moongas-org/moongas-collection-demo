@@ -52,3 +52,180 @@ mediaFileData:
   year: 2005
   duration: 253.536
   modTime: 2024-06-18 21:22:42.824564+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1v3PC56bvvXZQuisOSLTBj
+    trackId: 1v3PC56bvvXZQuisOSLTBj
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR10500112&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+              href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+              id: 4pejUc4iciQfgdX6OKulQn
+              name: Queens of the Stone Age
+              type: artist
+              uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+            external_urls:
+              spotify: https://open.spotify.com/album/460EWtezo0HqvJ70ASJe3M
+            href: https://api.spotify.com/v1/albums/460EWtezo0HqvJ70ASJe3M
+            id: 460EWtezo0HqvJ70ASJe3M
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c9d9216dbca3eafb2e200a89
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c9d9216dbca3eafb2e200a89
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c9d9216dbca3eafb2e200a89
+            is_playable: true
+            name: Lullabies To Paralyze
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:460EWtezo0HqvJ70ASJe3M
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+            href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+            id: 4pejUc4iciQfgdX6OKulQn
+            name: Queens of the Stone Age
+            type: artist
+            uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+          disc_number: 1
+          duration_ms: 253493
+          explicit: false
+          external_ids:
+            isrc: USIR10500112
+          external_urls:
+            spotify: https://open.spotify.com/track/1v3PC56bvvXZQuisOSLTBj
+          href: https://api.spotify.com/v1/tracks/1v3PC56bvvXZQuisOSLTBj
+          id: 1v3PC56bvvXZQuisOSLTBj
+          is_local: false
+          is_playable: true
+          name: Tangled Up In Plaid
+          track_number: 4
+          type: track
+          uri: spotify:track:1v3PC56bvvXZQuisOSLTBj
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+              href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+              id: 4pejUc4iciQfgdX6OKulQn
+              name: Queens of the Stone Age
+              type: artist
+              uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+            external_urls:
+              spotify: https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF
+            href: https://api.spotify.com/v1/albums/2OMdsA2I4RxrHCyogwKGvF
+            id: 2OMdsA2I4RxrHCyogwKGvF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739fbc395aa3944da173e69fda
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029fbc395aa3944da173e69fda
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519fbc395aa3944da173e69fda
+            is_playable: true
+            name: Lullabies To Paralyze
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2OMdsA2I4RxrHCyogwKGvF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+            href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+            id: 4pejUc4iciQfgdX6OKulQn
+            name: Queens of the Stone Age
+            type: artist
+            uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+          disc_number: 1
+          duration_ms: 253493
+          explicit: false
+          external_ids:
+            isrc: USIR10500112
+          external_urls:
+            spotify: https://open.spotify.com/track/1D6eNTsC5ixYBTzBxBx0gL
+          href: https://api.spotify.com/v1/tracks/1D6eNTsC5ixYBTzBxBx0gL
+          id: 1D6eNTsC5ixYBTzBxBx0gL
+          is_local: false
+          is_playable: true
+          name: Tangled Up In Plaid
+          track_number: 4
+          type: track
+          uri: spotify:track:1D6eNTsC5ixYBTzBxBx0gL
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+              href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+              id: 4pejUc4iciQfgdX6OKulQn
+              name: Queens of the Stone Age
+              type: artist
+              uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+            external_urls:
+              spotify: https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8
+            href: https://api.spotify.com/v1/albums/68ZycIjwlQ0fvtaxVXmgn8
+            id: 68ZycIjwlQ0fvtaxVXmgn8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ab1aaed1d2f9019183390a98
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ab1aaed1d2f9019183390a98
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ab1aaed1d2f9019183390a98
+            is_playable: true
+            name: Lullabies To Paralyze (Deluxe Edition)
+            release_date: '2005-03-21'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:68ZycIjwlQ0fvtaxVXmgn8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+            href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+            id: 4pejUc4iciQfgdX6OKulQn
+            name: Queens of the Stone Age
+            type: artist
+            uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+          disc_number: 1
+          duration_ms: 253493
+          explicit: false
+          external_ids:
+            isrc: USIR10500112
+          external_urls:
+            spotify: https://open.spotify.com/track/68rbW0UQA8glH74VMRgbKb
+          href: https://api.spotify.com/v1/tracks/68rbW0UQA8glH74VMRgbKb
+          id: 68rbW0UQA8glH74VMRgbKb
+          is_local: false
+          is_playable: true
+          name: Tangled Up In Plaid
+          track_number: 4
+          type: track
+          uri: spotify:track:68rbW0UQA8glH74VMRgbKb
+    isrc: USIR10500112

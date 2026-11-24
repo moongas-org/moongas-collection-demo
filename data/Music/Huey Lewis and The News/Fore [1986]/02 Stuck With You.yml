@@ -545,3 +545,72 @@ mediaFileData:
   year: 1986
   duration: 269.6359375
   modTime: 2023-07-16 22:54:46+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3u9dY0p6YCAUpoDh79TAwl
+    trackId: 3u9dY0p6YCAUpoDh79TAwl
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSNPD0600196&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6
+              href: https://api.spotify.com/v1/artists/7A9yZMTrFZcgEWAX2kBfK6
+              id: 7A9yZMTrFZcgEWAX2kBfK6
+              name: Huey Lewis & The News
+              type: artist
+              uri: spotify:artist:7A9yZMTrFZcgEWAX2kBfK6
+            external_urls:
+              spotify: https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj
+            href: https://api.spotify.com/v1/albums/0u34k1ANjgZ47uQfG9yaLj
+            id: 0u34k1ANjgZ47uQfG9yaLj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735306ed42ae78f317258c51bb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025306ed42ae78f317258c51bb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515306ed42ae78f317258c51bb
+            is_playable: true
+            name: 'Greatest Hits: Huey Lewis And The News'
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:0u34k1ANjgZ47uQfG9yaLj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6
+            href: https://api.spotify.com/v1/artists/7A9yZMTrFZcgEWAX2kBfK6
+            id: 7A9yZMTrFZcgEWAX2kBfK6
+            name: Huey Lewis & The News
+            type: artist
+            uri: spotify:artist:7A9yZMTrFZcgEWAX2kBfK6
+          disc_number: 1
+          duration_ms: 172533
+          explicit: false
+          external_ids:
+            isrc: USNPD0600196
+          external_urls:
+            spotify: https://open.spotify.com/track/3u9dY0p6YCAUpoDh79TAwl
+          href: https://api.spotify.com/v1/tracks/3u9dY0p6YCAUpoDh79TAwl
+          id: 3u9dY0p6YCAUpoDh79TAwl
+          is_local: false
+          is_playable: true
+          name: But It's Alright
+          track_number: 18
+          type: track
+          uri: spotify:track:3u9dY0p6YCAUpoDh79TAwl
+    isrc: USNPD0600196

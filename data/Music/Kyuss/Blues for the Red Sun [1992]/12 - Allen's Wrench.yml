@@ -45,3 +45,72 @@ mediaFileData:
   year: 1992
   duration: 164.519125
   modTime: 2023-09-24 09:41:32+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5Ifvup5EBJ76HrDwQ1645K
+    trackId: 5Ifvup5EBJ76HrDwQ1645K
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10181170&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+              href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+              id: 3HCpwNmFp2rvjkdjTs4uxs
+              name: Kyuss
+              type: artist
+              uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+            external_urls:
+              spotify: https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f
+            href: https://api.spotify.com/v1/albums/7wXj8GxTkGAUU99DXR7n2f
+            id: 7wXj8GxTkGAUU99DXR7n2f
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738f7519cd69450a1f8b6a4fa3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028f7519cd69450a1f8b6a4fa3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518f7519cd69450a1f8b6a4fa3
+            is_playable: true
+            name: Blues for the Red Sun
+            release_date: '1992-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:7wXj8GxTkGAUU99DXR7n2f
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs
+            href: https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs
+            id: 3HCpwNmFp2rvjkdjTs4uxs
+            name: Kyuss
+            type: artist
+            uri: spotify:artist:3HCpwNmFp2rvjkdjTs4uxs
+          disc_number: 1
+          duration_ms: 164466
+          explicit: false
+          external_ids:
+            isrc: USEE10181170
+          external_urls:
+            spotify: https://open.spotify.com/track/5Ifvup5EBJ76HrDwQ1645K
+          href: https://api.spotify.com/v1/tracks/5Ifvup5EBJ76HrDwQ1645K
+          id: 5Ifvup5EBJ76HrDwQ1645K
+          is_local: false
+          is_playable: true
+          name: Allen's Wrench
+          track_number: 12
+          type: track
+          uri: spotify:track:5Ifvup5EBJ76HrDwQ1645K
+    isrc: USEE10181170

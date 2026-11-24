@@ -45,3 +45,72 @@ mediaFileData:
   year: 1968
   duration: 472.56
   modTime: 2023-11-27 16:24:25.095503+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4NIVOpr7orsMDliPo5dACi
+    trackId: 4NIVOpr7orsMDliPo5dACi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10303756&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN
+              href: https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN
+              id: 4PDpGtF16XpqvXxsrFwQnN
+              name: Thelonious Monk
+              type: artist
+              uri: spotify:artist:4PDpGtF16XpqvXxsrFwQnN
+            external_urls:
+              spotify: https://open.spotify.com/album/116rRaG64kw2fwQFrUfeAY
+            href: https://api.spotify.com/v1/albums/116rRaG64kw2fwQFrUfeAY
+            id: 116rRaG64kw2fwQFrUfeAY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736e82fcebd85ebb11c149f7c2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026e82fcebd85ebb11c149f7c2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516e82fcebd85ebb11c149f7c2
+            is_playable: true
+            name: Always Know
+            release_date: '1979-10-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:116rRaG64kw2fwQFrUfeAY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN
+            href: https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN
+            id: 4PDpGtF16XpqvXxsrFwQnN
+            name: Thelonious Monk
+            type: artist
+            uri: spotify:artist:4PDpGtF16XpqvXxsrFwQnN
+          disc_number: 2
+          duration_ms: 471894
+          explicit: false
+          external_ids:
+            isrc: USSM10303756
+          external_urls:
+            spotify: https://open.spotify.com/track/4NIVOpr7orsMDliPo5dACi
+          href: https://api.spotify.com/v1/tracks/4NIVOpr7orsMDliPo5dACi
+          id: 4NIVOpr7orsMDliPo5dACi
+          is_local: false
+          is_playable: true
+          name: Easy Street
+          track_number: 4
+          type: track
+          uri: spotify:track:4NIVOpr7orsMDliPo5dACi
+    isrc: USSM10303756

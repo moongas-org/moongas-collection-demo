@@ -178,3 +178,288 @@ mediaFileData:
   year: 1983
   duration: 220.7869387755102
   modTime: 2023-03-28 00:55:18.930000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4F5JPUODHSEaVZVVL79R2d
+    trackId: 4F5JPUODHSEaVZVVL79R2d
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA28500452&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSCA28500452&type=track
+        offset: 0
+        previous:
+        total: 100
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/532Mjm779v5gYPhLgbyp9D
+            href: https://api.spotify.com/v1/albums/532Mjm779v5gYPhLgbyp9D
+            id: 532Mjm779v5gYPhLgbyp9D
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372eefc0b2afed4da0d4618c0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272eefc0b2afed4da0d4618c0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172eefc0b2afed4da0d4618c0
+            is_playable: true
+            name: 80s Summer
+            release_date: '2019-06-28'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:532Mjm779v5gYPhLgbyp9D
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3
+            href: https://api.spotify.com/v1/artists/2TzHIUhVpeeDxyJPpQfnV3
+            id: 2TzHIUhVpeeDxyJPpQfnV3
+            name: Katrina & The Waves
+            type: artist
+            uri: spotify:artist:2TzHIUhVpeeDxyJPpQfnV3
+          disc_number: 1
+          duration_ms: 221333
+          explicit: false
+          external_ids:
+            isrc: USCA28500452
+          external_urls:
+            spotify: https://open.spotify.com/track/4F5JPUODHSEaVZVVL79R2d
+          href: https://api.spotify.com/v1/tracks/4F5JPUODHSEaVZVVL79R2d
+          id: 4F5JPUODHSEaVZVVL79R2d
+          is_local: false
+          is_playable: true
+          name: Walking On Sunshine
+          track_number: 19
+          type: track
+          uri: spotify:track:4F5JPUODHSEaVZVVL79R2d
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3
+              href: https://api.spotify.com/v1/artists/2TzHIUhVpeeDxyJPpQfnV3
+              id: 2TzHIUhVpeeDxyJPpQfnV3
+              name: Katrina & The Waves
+              type: artist
+              uri: spotify:artist:2TzHIUhVpeeDxyJPpQfnV3
+            external_urls:
+              spotify: https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7
+            href: https://api.spotify.com/v1/albums/1UQG78YJjaBySRMh0A8Uw7
+            id: 1UQG78YJjaBySRMh0A8Uw7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eafaf556eda644a745d0144d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eafaf556eda644a745d0144d
+            is_playable: true
+            name: Katrina & The Waves
+            release_date: '1985'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1UQG78YJjaBySRMh0A8Uw7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3
+            href: https://api.spotify.com/v1/artists/2TzHIUhVpeeDxyJPpQfnV3
+            id: 2TzHIUhVpeeDxyJPpQfnV3
+            name: Katrina & The Waves
+            type: artist
+            uri: spotify:artist:2TzHIUhVpeeDxyJPpQfnV3
+          disc_number: 1
+          duration_ms: 238733
+          explicit: false
+          external_ids:
+            isrc: USCA28500452
+          external_urls:
+            spotify: https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0
+          href: https://api.spotify.com/v1/tracks/05wIrZSwuaVWhcv5FfqeH0
+          id: 05wIrZSwuaVWhcv5FfqeH0
+          is_local: false
+          is_playable: true
+          name: Walking On Sunshine
+          track_number: 6
+          type: track
+          uri: spotify:track:05wIrZSwuaVWhcv5FfqeH0
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4ETtYJYxSzlEodoRIzvsYW
+            href: https://api.spotify.com/v1/albums/4ETtYJYxSzlEodoRIzvsYW
+            id: 4ETtYJYxSzlEodoRIzvsYW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732fa73604a0f1f00bcb8ae3a4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022fa73604a0f1f00bcb8ae3a4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512fa73604a0f1f00bcb8ae3a4
+            is_playable: true
+            name: Awesome 80’s Hits
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4ETtYJYxSzlEodoRIzvsYW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3
+            href: https://api.spotify.com/v1/artists/2TzHIUhVpeeDxyJPpQfnV3
+            id: 2TzHIUhVpeeDxyJPpQfnV3
+            name: Katrina & The Waves
+            type: artist
+            uri: spotify:artist:2TzHIUhVpeeDxyJPpQfnV3
+          disc_number: 1
+          duration_ms: 239026
+          explicit: false
+          external_ids:
+            isrc: USCA28500452
+          external_urls:
+            spotify: https://open.spotify.com/track/2NynOElNo3XKrYILRLHnJL
+          href: https://api.spotify.com/v1/tracks/2NynOElNo3XKrYILRLHnJL
+          id: 2NynOElNo3XKrYILRLHnJL
+          is_local: false
+          is_playable: true
+          name: Walking On Sunshine
+          track_number: 15
+          type: track
+          uri: spotify:track:2NynOElNo3XKrYILRLHnJL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2Vmmdjk779YbuQoenlcQnY
+            href: https://api.spotify.com/v1/albums/2Vmmdjk779YbuQoenlcQnY
+            id: 2Vmmdjk779YbuQoenlcQnY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cda5ac05d612a5d31a80b2a7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cda5ac05d612a5d31a80b2a7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cda5ac05d612a5d31a80b2a7
+            is_playable: true
+            name: BBQ Summer
+            release_date: '2019-07-05'
+            release_date_precision: day
+            total_tracks: 44
+            type: album
+            uri: spotify:album:2Vmmdjk779YbuQoenlcQnY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3
+            href: https://api.spotify.com/v1/artists/2TzHIUhVpeeDxyJPpQfnV3
+            id: 2TzHIUhVpeeDxyJPpQfnV3
+            name: Katrina & The Waves
+            type: artist
+            uri: spotify:artist:2TzHIUhVpeeDxyJPpQfnV3
+          disc_number: 1
+          duration_ms: 221333
+          explicit: false
+          external_ids:
+            isrc: USCA28500452
+          external_urls:
+            spotify: https://open.spotify.com/track/3j7lmHizanb95DkiRjULqe
+          href: https://api.spotify.com/v1/tracks/3j7lmHizanb95DkiRjULqe
+          id: 3j7lmHizanb95DkiRjULqe
+          is_local: false
+          is_playable: true
+          name: Walking On Sunshine
+          track_number: 3
+          type: track
+          uri: spotify:track:3j7lmHizanb95DkiRjULqe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3
+              href: https://api.spotify.com/v1/artists/2TzHIUhVpeeDxyJPpQfnV3
+              id: 2TzHIUhVpeeDxyJPpQfnV3
+              name: Katrina & The Waves
+              type: artist
+              uri: spotify:artist:2TzHIUhVpeeDxyJPpQfnV3
+            external_urls:
+              spotify: https://open.spotify.com/album/5IFGCNXdAhnYq6EwR7TGZM
+            href: https://api.spotify.com/v1/albums/5IFGCNXdAhnYq6EwR7TGZM
+            id: 5IFGCNXdAhnYq6EwR7TGZM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738841af43339b84cca1d2512c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028841af43339b84cca1d2512c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518841af43339b84cca1d2512c
+            is_playable: true
+            name: Anthology
+            release_date: '1995'
+            release_date_precision: year
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5IFGCNXdAhnYq6EwR7TGZM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3
+            href: https://api.spotify.com/v1/artists/2TzHIUhVpeeDxyJPpQfnV3
+            id: 2TzHIUhVpeeDxyJPpQfnV3
+            name: Katrina & The Waves
+            type: artist
+            uri: spotify:artist:2TzHIUhVpeeDxyJPpQfnV3
+          disc_number: 1
+          duration_ms: 241426
+          explicit: false
+          external_ids:
+            isrc: USCA28500452
+          external_urls:
+            spotify: https://open.spotify.com/track/1R6sDs5ovdcweZlFzGxQVD
+          href: https://api.spotify.com/v1/tracks/1R6sDs5ovdcweZlFzGxQVD
+          id: 1R6sDs5ovdcweZlFzGxQVD
+          is_local: false
+          is_playable: true
+          name: Walking On Sunshine
+          track_number: 1
+          type: track
+          uri: spotify:track:1R6sDs5ovdcweZlFzGxQVD
+    isrc: USCA28500452

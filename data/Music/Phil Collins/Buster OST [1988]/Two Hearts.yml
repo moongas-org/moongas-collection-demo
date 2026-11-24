@@ -99,3 +99,72 @@ mediaFileData:
   year: 1988
   duration: 210.10285714285715
   modTime: 2024-01-05 19:28:38.019824+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/25wEmZPL5I6TjFqKO8sdkf
+    trackId: 25wEmZPL5I6TjFqKO8sdkf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11803847&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+              href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+              id: 4lxfqrEsLX6N1N4OCSkILp
+              name: Phil Collins
+              type: artist
+              uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+            external_urls:
+              spotify: https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV
+            href: https://api.spotify.com/v1/albums/3YhgdRfaZrVIOORGK9SNiV
+            id: 3YhgdRfaZrVIOORGK9SNiV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e8fe890f469bf1e284df58aa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e8fe890f469bf1e284df58aa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e8fe890f469bf1e284df58aa
+            is_playable: true
+            name: Serious Hits...Live! (2019 Remaster)
+            release_date: '1990-07-15'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:3YhgdRfaZrVIOORGK9SNiV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp
+            href: https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp
+            id: 4lxfqrEsLX6N1N4OCSkILp
+            name: Phil Collins
+            type: artist
+            uri: spotify:artist:4lxfqrEsLX6N1N4OCSkILp
+          disc_number: 1
+          duration_ms: 187640
+          explicit: false
+          external_ids:
+            isrc: USRH11803847
+          external_urls:
+            spotify: https://open.spotify.com/track/25wEmZPL5I6TjFqKO8sdkf
+          href: https://api.spotify.com/v1/tracks/25wEmZPL5I6TjFqKO8sdkf
+          id: 25wEmZPL5I6TjFqKO8sdkf
+          is_local: false
+          is_playable: true
+          name: Two Hearts - Live from the Serious Tour 1990; 2019 Remaster
+          track_number: 11
+          type: track
+          uri: spotify:track:25wEmZPL5I6TjFqKO8sdkf
+    isrc: USRH11803847

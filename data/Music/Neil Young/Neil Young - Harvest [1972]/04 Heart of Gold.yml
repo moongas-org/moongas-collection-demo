@@ -151,3 +151,126 @@ mediaFileData:
   year: 1972
   duration: 188.9901
   modTime: 2023-09-27 21:39:50+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3QV4Ywr4QOSnwsFAgfJ8bt
+    trackId: 3QV4Ywr4QOSnwsFAgfJ8bt
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUG10400003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e
+              href: https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e
+              id: 4tX2TplrkIP4v05BNC903e
+              name: Tom Petty and the Heartbreakers
+              type: artist
+              uri: spotify:artist:4tX2TplrkIP4v05BNC903e
+            external_urls:
+              spotify: https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y
+            href: https://api.spotify.com/v1/albums/3q6Bz38jmqRDkXI7j5Hb9Y
+            id: 3q6Bz38jmqRDkXI7j5Hb9Y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730c3a1b46b6b846dfdfbc6a7d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020c3a1b46b6b846dfdfbc6a7d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510c3a1b46b6b846dfdfbc6a7d
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2008-05-20'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:3q6Bz38jmqRDkXI7j5Hb9Y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e
+            href: https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e
+            id: 4tX2TplrkIP4v05BNC903e
+            name: Tom Petty and the Heartbreakers
+            type: artist
+            uri: spotify:artist:4tX2TplrkIP4v05BNC903e
+          disc_number: 1
+          duration_ms: 183093
+          explicit: false
+          external_ids:
+            isrc: USUG10400003
+          external_urls:
+            spotify: https://open.spotify.com/track/3QV4Ywr4QOSnwsFAgfJ8bt
+          href: https://api.spotify.com/v1/tracks/3QV4Ywr4QOSnwsFAgfJ8bt
+          id: 3QV4Ywr4QOSnwsFAgfJ8bt
+          is_local: false
+          is_playable: true
+          name: Listen To Her Heart
+          track_number: 3
+          type: track
+          uri: spotify:track:3QV4Ywr4QOSnwsFAgfJ8bt
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3pRBxXeEkapuU5aAkObhAS
+            href: https://api.spotify.com/v1/albums/3pRBxXeEkapuU5aAkObhAS
+            id: 3pRBxXeEkapuU5aAkObhAS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7c405d05be99c1d0645a298
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7c405d05be99c1d0645a298
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7c405d05be99c1d0645a298
+            is_playable: true
+            name: Rockeros Enamorados
+            release_date: '2025-02-14'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:3pRBxXeEkapuU5aAkObhAS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e
+            href: https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e
+            id: 4tX2TplrkIP4v05BNC903e
+            name: Tom Petty and the Heartbreakers
+            type: artist
+            uri: spotify:artist:4tX2TplrkIP4v05BNC903e
+          disc_number: 1
+          duration_ms: 183093
+          explicit: false
+          external_ids:
+            isrc: USUG10400003
+          external_urls:
+            spotify: https://open.spotify.com/track/0OSXVQeiCjFo7rGYIx9PVe
+          href: https://api.spotify.com/v1/tracks/0OSXVQeiCjFo7rGYIx9PVe
+          id: 0OSXVQeiCjFo7rGYIx9PVe
+          is_local: false
+          is_playable: true
+          name: Listen To Her Heart
+          track_number: 28
+          type: track
+          uri: spotify:track:0OSXVQeiCjFo7rGYIx9PVe
+    isrc: USUG10400003

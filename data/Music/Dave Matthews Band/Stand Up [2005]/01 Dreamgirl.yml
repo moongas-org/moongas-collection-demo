@@ -45,3 +45,72 @@ mediaFileData:
   year: 2005
   duration: 238.82603174603176
   modTime: 2023-05-13 23:53:28.550000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3wKpAmt4dWefApt5KPbJeg
+    trackId: 3wKpAmt4dWefApt5KPbJeg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC10501381&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L
+              href: https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L
+              id: 2TI7qyDE0QfyOlnbtfDo7L
+              name: Dave Matthews Band
+              type: artist
+              uri: spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+            external_urls:
+              spotify: https://open.spotify.com/album/3lFy1aunkP0yXaoI6aCSrI
+            href: https://api.spotify.com/v1/albums/3lFy1aunkP0yXaoI6aCSrI
+            id: 3lFy1aunkP0yXaoI6aCSrI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c7ad813c468c37e113bcee4f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c7ad813c468c37e113bcee4f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c7ad813c468c37e113bcee4f
+            is_playable: true
+            name: Stand Up
+            release_date: '2005-05-10'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:3lFy1aunkP0yXaoI6aCSrI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L
+            href: https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L
+            id: 2TI7qyDE0QfyOlnbtfDo7L
+            name: Dave Matthews Band
+            type: artist
+            uri: spotify:artist:2TI7qyDE0QfyOlnbtfDo7L
+          disc_number: 1
+          duration_ms: 239666
+          explicit: false
+          external_ids:
+            isrc: USRC10501381
+          external_urls:
+            spotify: https://open.spotify.com/track/3wKpAmt4dWefApt5KPbJeg
+          href: https://api.spotify.com/v1/tracks/3wKpAmt4dWefApt5KPbJeg
+          id: 3wKpAmt4dWefApt5KPbJeg
+          is_local: false
+          is_playable: true
+          name: Dreamgirl
+          track_number: 1
+          type: track
+          uri: spotify:track:3wKpAmt4dWefApt5KPbJeg
+    isrc: USRC10501381

@@ -66,3 +66,79 @@ mediaFileData:
   year: 1785
   duration: 112.50935
   modTime: 2023-07-16 22:51:42+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3nE9s0DHiMNXM3kkqi2mxb
+    trackId: 3nE9s0DHiMNXM3kkqi2mxb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM11202236&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP
+              href: https://api.spotify.com/v1/artists/13dkPjqmbcchm8cXjEJQeP
+              id: 13dkPjqmbcchm8cXjEJQeP
+              name: Glenn Gould
+              type: artist
+              uri: spotify:artist:13dkPjqmbcchm8cXjEJQeP
+            external_urls:
+              spotify: https://open.spotify.com/album/23N3SPvuS558Vo3eb843ht
+            href: https://api.spotify.com/v1/albums/23N3SPvuS558Vo3eb843ht
+            id: 23N3SPvuS558Vo3eb843ht
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27350669c4bc3e147bd72cd7cc5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0250669c4bc3e147bd72cd7cc5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485150669c4bc3e147bd72cd7cc5
+            is_playable: true
+            name: Glenn Gould - The Acoustic Orchestrations - Works by Scriabin and Sibelius
+            release_date: '2012-09-21'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:23N3SPvuS558Vo3eb843ht
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr
+            href: https://api.spotify.com/v1/artists/7jzR5qj8vFnSu5JHaXgFEr
+            id: 7jzR5qj8vFnSu5JHaXgFEr
+            name: Jean Sibelius
+            type: artist
+            uri: spotify:artist:7jzR5qj8vFnSu5JHaXgFEr
+          - external_urls:
+              spotify: https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP
+            href: https://api.spotify.com/v1/artists/13dkPjqmbcchm8cXjEJQeP
+            id: 13dkPjqmbcchm8cXjEJQeP
+            name: Glenn Gould
+            type: artist
+            uri: spotify:artist:13dkPjqmbcchm8cXjEJQeP
+          disc_number: 1
+          duration_ms: 100813
+          explicit: false
+          external_ids:
+            isrc: USSM11202236
+          external_urls:
+            spotify: https://open.spotify.com/track/3nE9s0DHiMNXM3kkqi2mxb
+          href: https://api.spotify.com/v1/tracks/3nE9s0DHiMNXM3kkqi2mxb
+          id: 3nE9s0DHiMNXM3kkqi2mxb
+          is_local: false
+          is_playable: true
+          name: 'Sonatina for Piano in E, Op. 67 No. 2: III. Allegro'
+          track_number: 9
+          type: track
+          uri: spotify:track:3nE9s0DHiMNXM3kkqi2mxb
+    isrc: USSM11202236

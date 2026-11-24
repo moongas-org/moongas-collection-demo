@@ -48,3 +48,72 @@ mediaFileData:
   year: 1985
   duration: 326.424
   modTime: 2025-04-05 18:08:55.131102+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5EmE1rGJJzgWuqUv5ZQGGB
+    trackId: 5EmE1rGJJzgWuqUv5ZQGGB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBBM0002022&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx
+              href: https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx
+              id: 47zz7sob9NUcODy0BTDvKx
+              name: Sade
+              type: artist
+              uri: spotify:artist:47zz7sob9NUcODy0BTDvKx
+            external_urls:
+              spotify: https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae
+            href: https://api.spotify.com/v1/albums/4wCvCNsMJJvyeX5mGO40ae
+            id: 4wCvCNsMJJvyeX5mGO40ae
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02584302fee10c0d0a12c40c97
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851584302fee10c0d0a12c40c97
+            is_playable: true
+            name: Promise
+            release_date: '1985-11-04'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4wCvCNsMJJvyeX5mGO40ae
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx
+            href: https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx
+            id: 47zz7sob9NUcODy0BTDvKx
+            name: Sade
+            type: artist
+            uri: spotify:artist:47zz7sob9NUcODy0BTDvKx
+          disc_number: 1
+          duration_ms: 325600
+          explicit: false
+          external_ids:
+            isrc: GBBBM0002022
+          external_urls:
+            spotify: https://open.spotify.com/track/5EmE1rGJJzgWuqUv5ZQGGB
+          href: https://api.spotify.com/v1/tracks/5EmE1rGJJzgWuqUv5ZQGGB
+          id: 5EmE1rGJJzgWuqUv5ZQGGB
+          is_local: false
+          is_playable: true
+          name: Punch Drunk
+          track_number: 7
+          type: track
+          uri: spotify:track:5EmE1rGJJzgWuqUv5ZQGGB
+    isrc: GBBBM0002022

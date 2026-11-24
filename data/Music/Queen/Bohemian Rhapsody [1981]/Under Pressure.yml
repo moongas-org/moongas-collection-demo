@@ -171,3 +171,126 @@ mediaFileData:
   year: 1981
   duration: 253.1265306122449
   modTime: 2023-01-28 02:40:23.910000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2azWOogNx36guwUvsK6KWn
+    trackId: 2azWOogNx36guwUvsK6KWn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMO19190023&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp
+              href: https://api.spotify.com/v1/artists/6O74knDqdv3XaWtkII7Xjp
+              id: 6O74knDqdv3XaWtkII7Xjp
+              name: Boyz II Men
+              type: artist
+              uri: spotify:artist:6O74knDqdv3XaWtkII7Xjp
+            external_urls:
+              spotify: https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO
+            href: https://api.spotify.com/v1/albums/3jknvlUSe6D9Oyn2E3JBLO
+            id: 3jknvlUSe6D9Oyn2E3JBLO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27373d0d8625dcf1e48043cfbf9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0273d0d8625dcf1e48043cfbf9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485173d0d8625dcf1e48043cfbf9
+            is_playable: true
+            name: Cooleyhighharmony (Bonus Tracks Version)
+            release_date: '1991-04-30'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:3jknvlUSe6D9Oyn2E3JBLO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp
+            href: https://api.spotify.com/v1/artists/6O74knDqdv3XaWtkII7Xjp
+            id: 6O74knDqdv3XaWtkII7Xjp
+            name: Boyz II Men
+            type: artist
+            uri: spotify:artist:6O74knDqdv3XaWtkII7Xjp
+          disc_number: 1
+          duration_ms: 253893
+          explicit: false
+          external_ids:
+            isrc: USMO19190023
+          external_urls:
+            spotify: https://open.spotify.com/track/2azWOogNx36guwUvsK6KWn
+          href: https://api.spotify.com/v1/tracks/2azWOogNx36guwUvsK6KWn
+          id: 2azWOogNx36guwUvsK6KWn
+          is_local: false
+          is_playable: true
+          name: Under Pressure
+          track_number: 9
+          type: track
+          uri: spotify:track:2azWOogNx36guwUvsK6KWn
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp
+              href: https://api.spotify.com/v1/artists/6O74knDqdv3XaWtkII7Xjp
+              id: 6O74knDqdv3XaWtkII7Xjp
+              name: Boyz II Men
+              type: artist
+              uri: spotify:artist:6O74knDqdv3XaWtkII7Xjp
+            external_urls:
+              spotify: https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO
+            href: https://api.spotify.com/v1/albums/7JnLsJWNUf50DGZ5JhBgbO
+            id: 7JnLsJWNUf50DGZ5JhBgbO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732dbec54a62a50d1f6d703576
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022dbec54a62a50d1f6d703576
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512dbec54a62a50d1f6d703576
+            is_playable: true
+            name: Cooleyhighharmony (Expanded Edition)
+            release_date: '1991-04-30'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:7JnLsJWNUf50DGZ5JhBgbO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp
+            href: https://api.spotify.com/v1/artists/6O74knDqdv3XaWtkII7Xjp
+            id: 6O74knDqdv3XaWtkII7Xjp
+            name: Boyz II Men
+            type: artist
+            uri: spotify:artist:6O74knDqdv3XaWtkII7Xjp
+          disc_number: 1
+          duration_ms: 253800
+          explicit: false
+          external_ids:
+            isrc: USMO19190023
+          external_urls:
+            spotify: https://open.spotify.com/track/3mcbFloFZLeAWJYFR0HITA
+          href: https://api.spotify.com/v1/tracks/3mcbFloFZLeAWJYFR0HITA
+          id: 3mcbFloFZLeAWJYFR0HITA
+          is_local: false
+          is_playable: true
+          name: Under Pressure
+          track_number: 7
+          type: track
+          uri: spotify:track:3mcbFloFZLeAWJYFR0HITA
+    isrc: USMO19190023

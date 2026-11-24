@@ -45,3 +45,79 @@ mediaFileData:
   year: 1990
   duration: 130.752
   modTime: 2025-01-09 21:23:51.297638+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/53rV8ViOYJ02LtjgEiheIe
+    trackId: 53rV8ViOYJ02LtjgEiheIe
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSPO19000011&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA
+              href: https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA
+              id: 3Mcii5XWf6E0lrY3Uky4cA
+              name: Ice Cube
+              type: artist
+              uri: spotify:artist:3Mcii5XWf6E0lrY3Uky4cA
+            external_urls:
+              spotify: https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc
+            href: https://api.spotify.com/v1/albums/3AI5kAUjgNtZBwFRi6opDc
+            id: 3AI5kAUjgNtZBwFRi6opDc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737579fb3388d72153c49375e9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027579fb3388d72153c49375e9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517579fb3388d72153c49375e9
+            is_playable: true
+            name: AmeriKKKa's Most Wanted
+            release_date: '1990-03-16'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:3AI5kAUjgNtZBwFRi6opDc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA
+            href: https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA
+            id: 3Mcii5XWf6E0lrY3Uky4cA
+            name: Ice Cube
+            type: artist
+            uri: spotify:artist:3Mcii5XWf6E0lrY3Uky4cA
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7Bzd9B4YO9HFqNVM2P7MPX
+            href: https://api.spotify.com/v1/artists/7Bzd9B4YO9HFqNVM2P7MPX
+            id: 7Bzd9B4YO9HFqNVM2P7MPX
+            name: Flavor Flav
+            type: artist
+            uri: spotify:artist:7Bzd9B4YO9HFqNVM2P7MPX
+          disc_number: 1
+          duration_ms: 130706
+          explicit: true
+          external_ids:
+            isrc: USPO19000011
+          external_urls:
+            spotify: https://open.spotify.com/track/53rV8ViOYJ02LtjgEiheIe
+          href: https://api.spotify.com/v1/tracks/53rV8ViOYJ02LtjgEiheIe
+          id: 53rV8ViOYJ02LtjgEiheIe
+          is_local: false
+          is_playable: true
+          name: I'm Only Out For One Thang
+          track_number: 10
+          type: track
+          uri: spotify:track:53rV8ViOYJ02LtjgEiheIe
+    isrc: USPO19000011

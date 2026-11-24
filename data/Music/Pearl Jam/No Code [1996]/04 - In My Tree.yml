@@ -48,3 +48,72 @@ mediaFileData:
   year: 1996
   duration: 240.384
   modTime: 2025-08-09 19:45:52.389535+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2LVgdv5CFLEsFEh7BlRuDO
+    trackId: 2LVgdv5CFLEsFEh7BlRuDO
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19601755&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+              href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+              id: 1w5Kfo2jwwIPruYS2UWh56
+              name: Pearl Jam
+              type: artist
+              uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+            external_urls:
+              spotify: https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0
+            href: https://api.spotify.com/v1/albums/3FKhxgSZdtJBIjdHsjbxI0
+            id: 3FKhxgSZdtJBIjdHsjbxI0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730ebb30b4d3285b3017cc225b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020ebb30b4d3285b3017cc225b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510ebb30b4d3285b3017cc225b
+            is_playable: true
+            name: No Code
+            release_date: '1996-08-27'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3FKhxgSZdtJBIjdHsjbxI0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 1
+          duration_ms: 238787
+          explicit: false
+          external_ids:
+            isrc: USSM19601755
+          external_urls:
+            spotify: https://open.spotify.com/track/2LVgdv5CFLEsFEh7BlRuDO
+          href: https://api.spotify.com/v1/tracks/2LVgdv5CFLEsFEh7BlRuDO
+          id: 2LVgdv5CFLEsFEh7BlRuDO
+          is_local: false
+          is_playable: true
+          name: In My Tree
+          track_number: 4
+          type: track
+          uri: spotify:track:2LVgdv5CFLEsFEh7BlRuDO
+    isrc: USSM19601755

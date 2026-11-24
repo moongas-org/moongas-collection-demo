@@ -37,3 +37,126 @@ mediaFileData:
   year: 1985
   duration: 177.6
   modTime: 2024-09-14 06:57:28.983322+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/74HFSNZWJ7dDku27hViqSp
+    trackId: 74HFSNZWJ7dDku27hViqSp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFR98E8500090&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4boY3fDYvqcujNmLZpQdbc
+              href: https://api.spotify.com/v1/artists/4boY3fDYvqcujNmLZpQdbc
+              id: 4boY3fDYvqcujNmLZpQdbc
+              name: Bérurier Noir
+              type: artist
+              uri: spotify:artist:4boY3fDYvqcujNmLZpQdbc
+            external_urls:
+              spotify: https://open.spotify.com/album/1j1tdCPQJoA7GxlKDfNVhq
+            href: https://api.spotify.com/v1/albums/1j1tdCPQJoA7GxlKDfNVhq
+            id: 1j1tdCPQJoA7GxlKDfNVhq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27344e92ba7af56869cc0d65fe8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0244e92ba7af56869cc0d65fe8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485144e92ba7af56869cc0d65fe8
+            is_playable: true
+            name: Concerto Pour Détraqués
+            release_date: '1985-03-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1j1tdCPQJoA7GxlKDfNVhq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4boY3fDYvqcujNmLZpQdbc
+            href: https://api.spotify.com/v1/artists/4boY3fDYvqcujNmLZpQdbc
+            id: 4boY3fDYvqcujNmLZpQdbc
+            name: Bérurier Noir
+            type: artist
+            uri: spotify:artist:4boY3fDYvqcujNmLZpQdbc
+          disc_number: 1
+          duration_ms: 177573
+          explicit: false
+          external_ids:
+            isrc: FR98E8500090
+          external_urls:
+            spotify: https://open.spotify.com/track/74HFSNZWJ7dDku27hViqSp
+          href: https://api.spotify.com/v1/tracks/74HFSNZWJ7dDku27hViqSp
+          id: 74HFSNZWJ7dDku27hViqSp
+          is_local: false
+          is_playable: true
+          name: Fils de
+          track_number: 9
+          type: track
+          uri: spotify:track:74HFSNZWJ7dDku27hViqSp
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4boY3fDYvqcujNmLZpQdbc
+              href: https://api.spotify.com/v1/artists/4boY3fDYvqcujNmLZpQdbc
+              id: 4boY3fDYvqcujNmLZpQdbc
+              name: Bérurier Noir
+              type: artist
+              uri: spotify:artist:4boY3fDYvqcujNmLZpQdbc
+            external_urls:
+              spotify: https://open.spotify.com/album/44zBddzhwjy9njnsg0AyE3
+            href: https://api.spotify.com/v1/albums/44zBddzhwjy9njnsg0AyE3
+            id: 44zBddzhwjy9njnsg0AyE3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733d56288cd0210899ae30d716
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023d56288cd0210899ae30d716
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513d56288cd0210899ae30d716
+            is_playable: true
+            name: Enfoncez L'Clown
+            release_date: '1999-11-02'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:44zBddzhwjy9njnsg0AyE3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4boY3fDYvqcujNmLZpQdbc
+            href: https://api.spotify.com/v1/artists/4boY3fDYvqcujNmLZpQdbc
+            id: 4boY3fDYvqcujNmLZpQdbc
+            name: Bérurier Noir
+            type: artist
+            uri: spotify:artist:4boY3fDYvqcujNmLZpQdbc
+          disc_number: 1
+          duration_ms: 177573
+          explicit: false
+          external_ids:
+            isrc: FR98E8500090
+          external_urls:
+            spotify: https://open.spotify.com/track/6MoYuIQ6TUCNHZCPC08vwg
+          href: https://api.spotify.com/v1/tracks/6MoYuIQ6TUCNHZCPC08vwg
+          id: 6MoYuIQ6TUCNHZCPC08vwg
+          is_local: false
+          is_playable: true
+          name: Fils de
+          track_number: 4
+          type: track
+          uri: spotify:track:6MoYuIQ6TUCNHZCPC08vwg
+    isrc: FR98E8500090

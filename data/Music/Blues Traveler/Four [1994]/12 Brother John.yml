@@ -34,3 +34,126 @@ mediaFileData:
   year: 1994
   duration: 398.15840625
   modTime: 2025-04-11 18:37:37.900058+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2uPgHqTZotNvcMVWuwkf5s
+    trackId: 2uPgHqTZotNvcMVWuwkf5s
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAM19400307&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+              href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+              id: 3pHeBYl1yujXcZqqfF1UyQ
+              name: Blues Traveler
+              type: artist
+              uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+            external_urls:
+              spotify: https://open.spotify.com/album/5nNeSC4KNxT50MnliLuGRa
+            href: https://api.spotify.com/v1/albums/5nNeSC4KNxT50MnliLuGRa
+            id: 5nNeSC4KNxT50MnliLuGRa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734e2e887ee7656310cfa244f6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024e2e887ee7656310cfa244f6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514e2e887ee7656310cfa244f6
+            is_playable: true
+            name: Four
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5nNeSC4KNxT50MnliLuGRa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+            href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+            id: 3pHeBYl1yujXcZqqfF1UyQ
+            name: Blues Traveler
+            type: artist
+            uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+          disc_number: 1
+          duration_ms: 398093
+          explicit: false
+          external_ids:
+            isrc: USAM19400307
+          external_urls:
+            spotify: https://open.spotify.com/track/2uPgHqTZotNvcMVWuwkf5s
+          href: https://api.spotify.com/v1/tracks/2uPgHqTZotNvcMVWuwkf5s
+          id: 2uPgHqTZotNvcMVWuwkf5s
+          is_local: false
+          is_playable: true
+          name: Brother John
+          track_number: 12
+          type: track
+          uri: spotify:track:2uPgHqTZotNvcMVWuwkf5s
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+              href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+              id: 3pHeBYl1yujXcZqqfF1UyQ
+              name: Blues Traveler
+              type: artist
+              uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+            external_urls:
+              spotify: https://open.spotify.com/album/6aCROVk7gpB8rzEGsy6rLn
+            href: https://api.spotify.com/v1/albums/6aCROVk7gpB8rzEGsy6rLn
+            id: 6aCROVk7gpB8rzEGsy6rLn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b9036150c90c55c01e11881a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b9036150c90c55c01e11881a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b9036150c90c55c01e11881a
+            is_playable: true
+            name: 1,000,000 People Can't Be Wrong
+            release_date: '1995-01-01'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:6aCROVk7gpB8rzEGsy6rLn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ
+            href: https://api.spotify.com/v1/artists/3pHeBYl1yujXcZqqfF1UyQ
+            id: 3pHeBYl1yujXcZqqfF1UyQ
+            name: Blues Traveler
+            type: artist
+            uri: spotify:artist:3pHeBYl1yujXcZqqfF1UyQ
+          disc_number: 1
+          duration_ms: 398093
+          explicit: false
+          external_ids:
+            isrc: USAM19400307
+          external_urls:
+            spotify: https://open.spotify.com/track/2qUpDuK7XXQNPeUV0HQB9f
+          href: https://api.spotify.com/v1/tracks/2qUpDuK7XXQNPeUV0HQB9f
+          id: 2qUpDuK7XXQNPeUV0HQB9f
+          is_local: false
+          is_playable: true
+          name: Brother John
+          track_number: 12
+          type: track
+          uri: spotify:track:2qUpDuK7XXQNPeUV0HQB9f
+    isrc: USAM19400307

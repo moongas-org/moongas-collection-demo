@@ -61,3 +61,126 @@ mediaFileData:
   year: 1995
   duration: 187.13333333333333
   modTime: 2023-05-14 16:24:11.060000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3NfLSMOVWDKfYDE0WAm7uf
+    trackId: 3NfLSMOVWDKfYDE0WAm7uf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA29500712&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd
+              href: https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd
+              id: 5sD1ZLf2dGQ9gQ3YJl1eAd
+              name: Blind Melon
+              type: artist
+              uri: spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+            external_urls:
+              spotify: https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO
+            href: https://api.spotify.com/v1/albums/1oFb2lITfburNYlKeyGnMO
+            id: 1oFb2lITfburNYlKeyGnMO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736bfb013eeeb7040dfe761315
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026bfb013eeeb7040dfe761315
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516bfb013eeeb7040dfe761315
+            is_playable: true
+            name: Soup
+            release_date: '1995-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1oFb2lITfburNYlKeyGnMO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd
+            href: https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd
+            id: 5sD1ZLf2dGQ9gQ3YJl1eAd
+            name: Blind Melon
+            type: artist
+            uri: spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+          disc_number: 1
+          duration_ms: 187133
+          explicit: false
+          external_ids:
+            isrc: USCA29500712
+          external_urls:
+            spotify: https://open.spotify.com/track/3NfLSMOVWDKfYDE0WAm7uf
+          href: https://api.spotify.com/v1/tracks/3NfLSMOVWDKfYDE0WAm7uf
+          id: 3NfLSMOVWDKfYDE0WAm7uf
+          is_local: false
+          is_playable: true
+          name: Toes Across The Floor
+          track_number: 5
+          type: track
+          uri: spotify:track:3NfLSMOVWDKfYDE0WAm7uf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7tdP0am5s1xzYOMsp93pr0
+            href: https://api.spotify.com/v1/albums/7tdP0am5s1xzYOMsp93pr0
+            id: 7tdP0am5s1xzYOMsp93pr0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27357ca4b620363a0387a2013d4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0257ca4b620363a0387a2013d4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485157ca4b620363a0387a2013d4
+            is_playable: true
+            name: Solo Rock 90s
+            release_date: '2025-09-26'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:7tdP0am5s1xzYOMsp93pr0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd
+            href: https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd
+            id: 5sD1ZLf2dGQ9gQ3YJl1eAd
+            name: Blind Melon
+            type: artist
+            uri: spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd
+          disc_number: 1
+          duration_ms: 187133
+          explicit: false
+          external_ids:
+            isrc: USCA29500712
+          external_urls:
+            spotify: https://open.spotify.com/track/0nDsF7wzVj0G9b76CuuAVD
+          href: https://api.spotify.com/v1/tracks/0nDsF7wzVj0G9b76CuuAVD
+          id: 0nDsF7wzVj0G9b76CuuAVD
+          is_local: false
+          is_playable: true
+          name: Toes Across The Floor
+          track_number: 27
+          type: track
+          uri: spotify:track:0nDsF7wzVj0G9b76CuuAVD
+    isrc: USCA29500712

@@ -41,3 +41,72 @@ mediaFileData:
   year: 2002
   duration: 221.309375
   modTime: 2023-07-17 00:51:14+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3FqxznQfFqnm3aBzd3LyKi
+    trackId: 3FqxznQfFqnm3aBzd3LyKi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS3R40200069&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0GUAlx0AH7yqFXg2U6nzQU
+              href: https://api.spotify.com/v1/artists/0GUAlx0AH7yqFXg2U6nzQU
+              id: 0GUAlx0AH7yqFXg2U6nzQU
+              name: Sunday's Best
+              type: artist
+              uri: spotify:artist:0GUAlx0AH7yqFXg2U6nzQU
+            external_urls:
+              spotify: https://open.spotify.com/album/1VJuCfQLiJmV06tZsSkMjN
+            href: https://api.spotify.com/v1/albums/1VJuCfQLiJmV06tZsSkMjN
+            id: 1VJuCfQLiJmV06tZsSkMjN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c8b143fa69cd42754f8dea35
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c8b143fa69cd42754f8dea35
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c8b143fa69cd42754f8dea35
+            is_playable: true
+            name: The Californian
+            release_date: '2002-05-14'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1VJuCfQLiJmV06tZsSkMjN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0GUAlx0AH7yqFXg2U6nzQU
+            href: https://api.spotify.com/v1/artists/0GUAlx0AH7yqFXg2U6nzQU
+            id: 0GUAlx0AH7yqFXg2U6nzQU
+            name: Sunday's Best
+            type: artist
+            uri: spotify:artist:0GUAlx0AH7yqFXg2U6nzQU
+          disc_number: 1
+          duration_ms: 221266
+          explicit: false
+          external_ids:
+            isrc: US3R40200069
+          external_urls:
+            spotify: https://open.spotify.com/track/3FqxznQfFqnm3aBzd3LyKi
+          href: https://api.spotify.com/v1/tracks/3FqxznQfFqnm3aBzd3LyKi
+          id: 3FqxznQfFqnm3aBzd3LyKi
+          is_local: false
+          is_playable: true
+          name: The Salt Mines of Santa Monica
+          track_number: 4
+          type: track
+          uri: spotify:track:3FqxznQfFqnm3aBzd3LyKi
+    isrc: US3R40200069

@@ -60,3 +60,288 @@ mediaFileData:
   year: 2006
   duration: 334.69242630385486
   modTime: 2023-04-23 21:27:26.280000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6fgbQt13JlpN59PytgTMsA
+    trackId: 6fgbQt13JlpN59PytgTMsA
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10601591&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB10601591&type=track
+        offset: 0
+        previous:
+        total: 100
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/45AEwWiI7JPZolwc2Xwaoc
+            href: https://api.spotify.com/v1/albums/45AEwWiI7JPZolwc2Xwaoc
+            id: 45AEwWiI7JPZolwc2Xwaoc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737056328c4d7eee31b3677e98
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027056328c4d7eee31b3677e98
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517056328c4d7eee31b3677e98
+            is_playable: true
+            name: Snow (Hey Oh)
+            release_date: '2006-12-19'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:45AEwWiI7JPZolwc2Xwaoc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 334666
+          explicit: false
+          external_ids:
+            isrc: USWB10601591
+          external_urls:
+            spotify: https://open.spotify.com/track/6fgbQt13JlpN59PytgTMsA
+          href: https://api.spotify.com/v1/tracks/6fgbQt13JlpN59PytgTMsA
+          id: 6fgbQt13JlpN59PytgTMsA
+          is_local: false
+          is_playable: true
+          name: Snow (Hey Oh)
+          track_number: 1
+          type: track
+          uri: spotify:track:6fgbQt13JlpN59PytgTMsA
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0Ayf3OU9LKp5dfJ6NYwJh0
+            href: https://api.spotify.com/v1/albums/0Ayf3OU9LKp5dfJ6NYwJh0
+            id: 0Ayf3OU9LKp5dfJ6NYwJh0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b839c2295195b6f709213057
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b839c2295195b6f709213057
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b839c2295195b6f709213057
+            is_playable: true
+            name: Trailrunning - Ultrarunning Focus
+            release_date: '2023-11-04'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:0Ayf3OU9LKp5dfJ6NYwJh0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 334666
+          explicit: false
+          external_ids:
+            isrc: USWB10601591
+          external_urls:
+            spotify: https://open.spotify.com/track/4Y5sKkSTa5IipqCggVwDmj
+          href: https://api.spotify.com/v1/tracks/4Y5sKkSTa5IipqCggVwDmj
+          id: 4Y5sKkSTa5IipqCggVwDmj
+          is_local: false
+          is_playable: true
+          name: Snow (Hey Oh)
+          track_number: 18
+          type: track
+          uri: spotify:track:4Y5sKkSTa5IipqCggVwDmj
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1fH5SAL3jkS1minIvnuNYe
+            href: https://api.spotify.com/v1/albums/1fH5SAL3jkS1minIvnuNYe
+            id: 1fH5SAL3jkS1minIvnuNYe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735346421755414390cfbbeccc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025346421755414390cfbbeccc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515346421755414390cfbbeccc
+            is_playable: true
+            name: Summer Pop Party 2023
+            release_date: '2024-05-22'
+            release_date_precision: day
+            total_tracks: 39
+            type: album
+            uri: spotify:album:1fH5SAL3jkS1minIvnuNYe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 334666
+          explicit: false
+          external_ids:
+            isrc: USWB10601591
+          external_urls:
+            spotify: https://open.spotify.com/track/00jzmHqAPzZOgEVt4HFiZa
+          href: https://api.spotify.com/v1/tracks/00jzmHqAPzZOgEVt4HFiZa
+          id: 00jzmHqAPzZOgEVt4HFiZa
+          is_local: false
+          is_playable: true
+          name: Snow (Hey Oh)
+          track_number: 25
+          type: track
+          uri: spotify:track:00jzmHqAPzZOgEVt4HFiZa
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ
+            href: https://api.spotify.com/v1/albums/7xl50xr9NDkd3i2kBbzsNZ
+            id: 7xl50xr9NDkd3i2kBbzsNZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517
+            is_playable: true
+            name: Stadium Arcadium
+            release_date: '2006-05-09'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:7xl50xr9NDkd3i2kBbzsNZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 334666
+          explicit: false
+          external_ids:
+            isrc: USWB10601591
+          external_urls:
+            spotify: https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO
+          href: https://api.spotify.com/v1/tracks/2aibwv5hGXSgw7Yru8IYTO
+          id: 2aibwv5hGXSgw7Yru8IYTO
+          is_local: false
+          is_playable: true
+          name: Snow (Hey Oh)
+          track_number: 2
+          type: track
+          uri: spotify:track:2aibwv5hGXSgw7Yru8IYTO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7aOFj1yM42sm2gzmlPidPP
+            href: https://api.spotify.com/v1/albums/7aOFj1yM42sm2gzmlPidPP
+            id: 7aOFj1yM42sm2gzmlPidPP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3686323bf737cb7ba3de792
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3686323bf737cb7ba3de792
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792
+            is_playable: true
+            name: The Studio Album Collection 1991 - 2011
+            release_date: '2014-12-12'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:7aOFj1yM42sm2gzmlPidPP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 5
+          duration_ms: 335066
+          explicit: false
+          external_ids:
+            isrc: USWB10601591
+          external_urls:
+            spotify: https://open.spotify.com/track/4rqQk2yfh3xU9iPwEPnTp1
+          href: https://api.spotify.com/v1/tracks/4rqQk2yfh3xU9iPwEPnTp1
+          id: 4rqQk2yfh3xU9iPwEPnTp1
+          is_local: false
+          is_playable: true
+          name: Snow (Hey Oh)
+          track_number: 2
+          type: track
+          uri: spotify:track:4rqQk2yfh3xU9iPwEPnTp1
+    isrc: USWB10601591

@@ -57,3 +57,126 @@ mediaFileData:
   year: 1988
   duration: 336.96
   modTime: 2024-03-03 14:05:34.529033+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7GFhZyaN8ui6nOVE0GpWSa
+    trackId: 7GFhZyaN8ui6nOVE0GpWSa
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSPO19600006&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay
+              href: https://api.spotify.com/v1/artists/4EnEZVjo3w1cwcQYePccay
+              id: 4EnEZVjo3w1cwcQYePccay
+              name: N.W.A.
+              type: artist
+              uri: spotify:artist:4EnEZVjo3w1cwcQYePccay
+            external_urls:
+              spotify: https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr
+            href: https://api.spotify.com/v1/albums/2k4SKTM0a5FVN37VvFbxpr
+            id: 2k4SKTM0a5FVN37VvFbxpr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273374a967dda0cd404061b0607
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02374a967dda0cd404061b0607
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851374a967dda0cd404061b0607
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1996-07-02'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:2k4SKTM0a5FVN37VvFbxpr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay
+            href: https://api.spotify.com/v1/artists/4EnEZVjo3w1cwcQYePccay
+            id: 4EnEZVjo3w1cwcQYePccay
+            name: N.W.A.
+            type: artist
+            uri: spotify:artist:4EnEZVjo3w1cwcQYePccay
+          disc_number: 1
+          duration_ms: 329840
+          explicit: true
+          external_ids:
+            isrc: USPO19600006
+          external_urls:
+            spotify: https://open.spotify.com/track/7GFhZyaN8ui6nOVE0GpWSa
+          href: https://api.spotify.com/v1/tracks/7GFhZyaN8ui6nOVE0GpWSa
+          id: 7GFhZyaN8ui6nOVE0GpWSa
+          is_local: false
+          is_playable: true
+          name: Gangsta Gangsta
+          track_number: 3
+          type: track
+          uri: spotify:track:7GFhZyaN8ui6nOVE0GpWSa
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1Y2JyohhVP6NK65CP0MqKj
+            href: https://api.spotify.com/v1/albums/1Y2JyohhVP6NK65CP0MqKj
+            id: 1Y2JyohhVP6NK65CP0MqKj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273373daf053bf3c24872772446
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02373daf053bf3c24872772446
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851373daf053bf3c24872772446
+            is_playable: true
+            name: Maquina Del Tiempo Ochentera
+            release_date: '2024-10-11'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:1Y2JyohhVP6NK65CP0MqKj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay
+            href: https://api.spotify.com/v1/artists/4EnEZVjo3w1cwcQYePccay
+            id: 4EnEZVjo3w1cwcQYePccay
+            name: N.W.A.
+            type: artist
+            uri: spotify:artist:4EnEZVjo3w1cwcQYePccay
+          disc_number: 1
+          duration_ms: 329840
+          explicit: true
+          external_ids:
+            isrc: USPO19600006
+          external_urls:
+            spotify: https://open.spotify.com/track/4P4IIMap9Kvee5cZbAeyZJ
+          href: https://api.spotify.com/v1/tracks/4P4IIMap9Kvee5cZbAeyZJ
+          id: 4P4IIMap9Kvee5cZbAeyZJ
+          is_local: false
+          is_playable: true
+          name: Gangsta Gangsta
+          track_number: 17
+          type: track
+          uri: spotify:track:4P4IIMap9Kvee5cZbAeyZJ
+    isrc: USPO19600006

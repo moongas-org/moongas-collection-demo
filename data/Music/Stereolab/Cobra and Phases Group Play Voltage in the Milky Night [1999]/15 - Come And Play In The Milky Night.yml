@@ -56,3 +56,180 @@ mediaFileData:
   year: 1999
   duration: 278.712
   modTime: 2024-12-26 01:27:28.819819+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/71D8Nc9zbSb4qpxaZMXnTR
+    trackId: 71D8Nc9zbSb4qpxaZMXnTR
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE19900400&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt
+              href: https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt
+              id: 3Rj0tDHoX7C5NFq5DKIpHt
+              name: Stereolab
+              type: artist
+              uri: spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt
+            external_urls:
+              spotify: https://open.spotify.com/album/32mm0YyS6KtSPtblsnhyjE
+            href: https://api.spotify.com/v1/albums/32mm0YyS6KtSPtblsnhyjE
+            id: 32mm0YyS6KtSPtblsnhyjE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739fe47b5e4509006ecb65e23d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029fe47b5e4509006ecb65e23d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519fe47b5e4509006ecb65e23d
+            is_playable: true
+            name: Come And Play In The Milky Night
+            release_date: '2019-09-05'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:32mm0YyS6KtSPtblsnhyjE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt
+            href: https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt
+            id: 3Rj0tDHoX7C5NFq5DKIpHt
+            name: Stereolab
+            type: artist
+            uri: spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt
+          disc_number: 1
+          duration_ms: 278667
+          explicit: false
+          external_ids:
+            isrc: USEE19900400
+          external_urls:
+            spotify: https://open.spotify.com/track/71D8Nc9zbSb4qpxaZMXnTR
+          href: https://api.spotify.com/v1/tracks/71D8Nc9zbSb4qpxaZMXnTR
+          id: 71D8Nc9zbSb4qpxaZMXnTR
+          is_local: false
+          is_playable: true
+          name: Come And Play In The Milky Night
+          track_number: 1
+          type: track
+          uri: spotify:track:71D8Nc9zbSb4qpxaZMXnTR
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt
+              href: https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt
+              id: 3Rj0tDHoX7C5NFq5DKIpHt
+              name: Stereolab
+              type: artist
+              uri: spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt
+            external_urls:
+              spotify: https://open.spotify.com/album/1gms4h0YufnUpmF7oGSydq
+            href: https://api.spotify.com/v1/albums/1gms4h0YufnUpmF7oGSydq
+            id: 1gms4h0YufnUpmF7oGSydq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736c29518c2946401001fb6760
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026c29518c2946401001fb6760
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516c29518c2946401001fb6760
+            is_playable: true
+            name: Cobra And Phases Group Play Voltage In The Milky Night
+            release_date: '1999-09-21'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1gms4h0YufnUpmF7oGSydq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt
+            href: https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt
+            id: 3Rj0tDHoX7C5NFq5DKIpHt
+            name: Stereolab
+            type: artist
+            uri: spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt
+          disc_number: 1
+          duration_ms: 278667
+          explicit: false
+          external_ids:
+            isrc: USEE19900400
+          external_urls:
+            spotify: https://open.spotify.com/track/76hjQITXYTSZMjMhHr6uX0
+          href: https://api.spotify.com/v1/tracks/76hjQITXYTSZMjMhHr6uX0
+          id: 76hjQITXYTSZMjMhHr6uX0
+          is_local: false
+          is_playable: true
+          name: Come And Play In The Milky Night
+          track_number: 15
+          type: track
+          uri: spotify:track:76hjQITXYTSZMjMhHr6uX0
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt
+              href: https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt
+              id: 3Rj0tDHoX7C5NFq5DKIpHt
+              name: Stereolab
+              type: artist
+              uri: spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt
+            external_urls:
+              spotify: https://open.spotify.com/album/4Amgy7JIX58geZLD6Wrz2r
+            href: https://api.spotify.com/v1/albums/4Amgy7JIX58geZLD6Wrz2r
+            id: 4Amgy7JIX58geZLD6Wrz2r
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3e12f23c488f36105a86cb5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3e12f23c488f36105a86cb5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3e12f23c488f36105a86cb5
+            is_playable: true
+            name: Cobra And Phases Group Play Voltage In The Milky Night (Expanded Edition)
+            release_date: '1999'
+            release_date_precision: year
+            total_tracks: 32
+            type: album
+            uri: spotify:album:4Amgy7JIX58geZLD6Wrz2r
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt
+            href: https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt
+            id: 3Rj0tDHoX7C5NFq5DKIpHt
+            name: Stereolab
+            type: artist
+            uri: spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt
+          disc_number: 1
+          duration_ms: 278667
+          explicit: false
+          external_ids:
+            isrc: USEE19900400
+          external_urls:
+            spotify: https://open.spotify.com/track/1UuYnDfAji9CYbwPEYIswL
+          href: https://api.spotify.com/v1/tracks/1UuYnDfAji9CYbwPEYIswL
+          id: 1UuYnDfAji9CYbwPEYIswL
+          is_local: false
+          is_playable: true
+          name: Come And Play In The Milky Night
+          track_number: 15
+          type: track
+          uri: spotify:track:1UuYnDfAji9CYbwPEYIswL
+    isrc: USEE19900400

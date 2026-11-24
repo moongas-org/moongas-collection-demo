@@ -45,3 +45,288 @@ mediaFileData:
   year: 1974
   duration: 241.728
   modTime: 2025-01-05 20:50:40.629162+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5xA1mq2MUzqcyLnLqxLUy9
+    trackId: 5xA1mq2MUzqcyLnLqxLUy9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE10102437&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRE10102437&type=track
+        offset: 0
+        previous:
+        total: 7
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+              href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+              id: 2JRvXPGWiINrnJljNJhG5s
+              name: The Meters
+              type: artist
+              uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+            external_urls:
+              spotify: https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW
+            href: https://api.spotify.com/v1/albums/3OoFKxuziLv3B3NxhEJwOW
+            id: 3OoFKxuziLv3B3NxhEJwOW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dc6b1a7c9f5a7049c01926bc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dc6b1a7c9f5a7049c01926bc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dc6b1a7c9f5a7049c01926bc
+            is_playable: true
+            name: Rejuvenation
+            release_date: '1974'
+            release_date_precision: year
+            total_tracks: 9
+            type: album
+            uri: spotify:album:3OoFKxuziLv3B3NxhEJwOW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 241493
+          explicit: false
+          external_ids:
+            isrc: USRE10102437
+          external_urls:
+            spotify: https://open.spotify.com/track/5xA1mq2MUzqcyLnLqxLUy9
+          href: https://api.spotify.com/v1/tracks/5xA1mq2MUzqcyLnLqxLUy9
+          id: 5xA1mq2MUzqcyLnLqxLUy9
+          is_local: false
+          is_playable: true
+          name: Africa
+          track_number: 9
+          type: track
+          uri: spotify:track:5xA1mq2MUzqcyLnLqxLUy9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+              href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+              id: 2JRvXPGWiINrnJljNJhG5s
+              name: The Meters
+              type: artist
+              uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+            external_urls:
+              spotify: https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz
+            href: https://api.spotify.com/v1/albums/40VWlphQtyDSj3ldPNhDvz
+            id: 40VWlphQtyDSj3ldPNhDvz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738d268dd59763553a5f89b67c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028d268dd59763553a5f89b67c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518d268dd59763553a5f89b67c
+            is_playable: true
+            name: 'Funkify Your Life: The Meters Anthology'
+            release_date: '1995'
+            release_date_precision: year
+            total_tracks: 43
+            type: album
+            uri: spotify:album:40VWlphQtyDSj3ldPNhDvz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 238213
+          explicit: false
+          external_ids:
+            isrc: USRE10102437
+          external_urls:
+            spotify: https://open.spotify.com/track/356i5Jj3yIojEb7WZWIh2w
+          href: https://api.spotify.com/v1/tracks/356i5Jj3yIojEb7WZWIh2w
+          id: 356i5Jj3yIojEb7WZWIh2w
+          is_local: false
+          is_playable: true
+          name: Africa
+          track_number: 33
+          type: track
+          uri: spotify:track:356i5Jj3yIojEb7WZWIh2w
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+              href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+              id: 2JRvXPGWiINrnJljNJhG5s
+              name: The Meters
+              type: artist
+              uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+            external_urls:
+              spotify: https://open.spotify.com/album/4LfeNUdXr7g21cdnrFPIuD
+            href: https://api.spotify.com/v1/albums/4LfeNUdXr7g21cdnrFPIuD
+            id: 4LfeNUdXr7g21cdnrFPIuD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f679e710b37b7491472d86f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f679e710b37b7491472d86f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f679e710b37b7491472d86f5
+            is_playable: true
+            name: Cissy Strut
+            release_date: '2016-12-22'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:4LfeNUdXr7g21cdnrFPIuD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 241493
+          explicit: false
+          external_ids:
+            isrc: USRE10102437
+          external_urls:
+            spotify: https://open.spotify.com/track/6ymhnbwc9UFEjpNSWCAPlE
+          href: https://api.spotify.com/v1/tracks/6ymhnbwc9UFEjpNSWCAPlE
+          id: 6ymhnbwc9UFEjpNSWCAPlE
+          is_local: false
+          is_playable: true
+          name: Africa
+          track_number: 8
+          type: track
+          uri: spotify:track:6ymhnbwc9UFEjpNSWCAPlE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+              href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+              id: 2JRvXPGWiINrnJljNJhG5s
+              name: The Meters
+              type: artist
+              uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+            external_urls:
+              spotify: https://open.spotify.com/album/6MihaqaaCdWh0RazjRdyA5
+            href: https://api.spotify.com/v1/albums/6MihaqaaCdWh0RazjRdyA5
+            id: 6MihaqaaCdWh0RazjRdyA5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27356ef5693122c06b8dc49c461
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0256ef5693122c06b8dc49c461
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485156ef5693122c06b8dc49c461
+            is_playable: true
+            name: The Complete Albums 1969-1977
+            release_date: '2019-05-24'
+            release_date_precision: day
+            total_tracks: 87
+            type: album
+            uri: spotify:album:6MihaqaaCdWh0RazjRdyA5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 241493
+          explicit: false
+          external_ids:
+            isrc: USRE10102437
+          external_urls:
+            spotify: https://open.spotify.com/track/4rBBAMjlAbmFGrCOcAmxKk
+          href: https://api.spotify.com/v1/tracks/4rBBAMjlAbmFGrCOcAmxKk
+          id: 4rBBAMjlAbmFGrCOcAmxKk
+          is_local: false
+          is_playable: true
+          name: Africa
+          track_number: 57
+          type: track
+          uri: spotify:track:4rBBAMjlAbmFGrCOcAmxKk
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+              href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+              id: 2JRvXPGWiINrnJljNJhG5s
+              name: The Meters
+              type: artist
+              uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+            external_urls:
+              spotify: https://open.spotify.com/album/5Z78Vqw6GHUtxhulhZPAGY
+            href: https://api.spotify.com/v1/albums/5Z78Vqw6GHUtxhulhZPAGY
+            id: 5Z78Vqw6GHUtxhulhZPAGY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273144248d0d61c994f69e7aacc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02144248d0d61c994f69e7aacc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851144248d0d61c994f69e7aacc
+            is_playable: true
+            name: "Gettin' Funkier All the Time: The Complete Josie, Reprise and Warner Recordings 1968-1977"
+            release_date: '2020-04-03'
+            release_date_precision: day
+            total_tracks: 116
+            type: album
+            uri: spotify:album:5Z78Vqw6GHUtxhulhZPAGY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 241493
+          explicit: false
+          external_ids:
+            isrc: USRE10102437
+          external_urls:
+            spotify: https://open.spotify.com/track/2z1Fbscy4KT6P5HhS1Tuol
+          href: https://api.spotify.com/v1/tracks/2z1Fbscy4KT6P5HhS1Tuol
+          id: 2z1Fbscy4KT6P5HhS1Tuol
+          is_local: false
+          is_playable: true
+          name: Africa
+          track_number: 71
+          type: track
+          uri: spotify:track:2z1Fbscy4KT6P5HhS1Tuol
+    isrc: USRE10102437

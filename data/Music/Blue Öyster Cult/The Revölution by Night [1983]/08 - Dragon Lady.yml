@@ -48,3 +48,126 @@ mediaFileData:
   year: 1983
   duration: 248.57333333333332
   modTime: 2024-08-05 22:56:33.599504+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3sGnCwlpoQZ4RF9ifIgDbq
+    trackId: 3sGnCwlpoQZ4RF9ifIgDbq
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19917781&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/7jQs5baTMHitYnJJX6JJMU
+            href: https://api.spotify.com/v1/albums/7jQs5baTMHitYnJJX6JJMU
+            id: 7jQs5baTMHitYnJJX6JJMU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27382838651adcf7f14d4616874
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0282838651adcf7f14d4616874
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485182838651adcf7f14d4616874
+            is_playable: true
+            name: The Revolution By Night
+            release_date: '1983'
+            release_date_precision: year
+            total_tracks: 9
+            type: album
+            uri: spotify:album:7jQs5baTMHitYnJJX6JJMU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 1
+          duration_ms: 248638
+          explicit: false
+          external_ids:
+            isrc: USSM19917781
+          external_urls:
+            spotify: https://open.spotify.com/track/3sGnCwlpoQZ4RF9ifIgDbq
+          href: https://api.spotify.com/v1/tracks/3sGnCwlpoQZ4RF9ifIgDbq
+          id: 3sGnCwlpoQZ4RF9ifIgDbq
+          is_local: false
+          is_playable: true
+          name: Dragon Lady
+          track_number: 8
+          type: track
+          uri: spotify:track:3sGnCwlpoQZ4RF9ifIgDbq
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/7IHADr3kp0zaRKj66o7WHo
+            href: https://api.spotify.com/v1/albums/7IHADr3kp0zaRKj66o7WHo
+            id: 7IHADr3kp0zaRKj66o7WHo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c0a6e1d692eacd9e7d52f43f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c0a6e1d692eacd9e7d52f43f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c0a6e1d692eacd9e7d52f43f
+            is_playable: true
+            name: The Revolution By Night
+            release_date: '1983'
+            release_date_precision: year
+            total_tracks: 9
+            type: album
+            uri: spotify:album:7IHADr3kp0zaRKj66o7WHo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 1
+          duration_ms: 248638
+          explicit: false
+          external_ids:
+            isrc: USSM19917781
+          external_urls:
+            spotify: https://open.spotify.com/track/65cHdsdcms3XiVwyjgg2HK
+          href: https://api.spotify.com/v1/tracks/65cHdsdcms3XiVwyjgg2HK
+          id: 65cHdsdcms3XiVwyjgg2HK
+          is_local: false
+          is_playable: true
+          name: Dragon Lady
+          track_number: 8
+          type: track
+          uri: spotify:track:65cHdsdcms3XiVwyjgg2HK
+    isrc: USSM19917781

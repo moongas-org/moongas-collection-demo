@@ -66,3 +66,180 @@ mediaFileData:
   year: 1989
   duration: 185.62666666666667
   modTime: 2024-08-12 20:16:51.109666+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2ZS3jFe6p8UoVyrY5jWBlF
+    trackId: 2ZS3jFe6p8UoVyrY5jWBlF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC18925674&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn
+              href: https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn
+              id: 2UZMlIwnkgAEDBsw1Rejkn
+              name: Tom Petty
+              type: artist
+              uri: spotify:artist:2UZMlIwnkgAEDBsw1Rejkn
+            external_urls:
+              spotify: https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093
+            href: https://api.spotify.com/v1/albums/5d71Imt5CIb7LpQwDMQ093
+            id: 5d71Imt5CIb7LpQwDMQ093
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0236572e6726714544f5bed456
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485136572e6726714544f5bed456
+            is_playable: true
+            name: Full Moon Fever
+            release_date: '1989-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5d71Imt5CIb7LpQwDMQ093
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn
+            href: https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn
+            id: 2UZMlIwnkgAEDBsw1Rejkn
+            name: Tom Petty
+            type: artist
+            uri: spotify:artist:2UZMlIwnkgAEDBsw1Rejkn
+          disc_number: 1
+          duration_ms: 185666
+          explicit: false
+          external_ids:
+            isrc: USMC18925674
+          external_urls:
+            spotify: https://open.spotify.com/track/2ZS3jFe6p8UoVyrY5jWBlF
+          href: https://api.spotify.com/v1/tracks/2ZS3jFe6p8UoVyrY5jWBlF
+          id: 2ZS3jFe6p8UoVyrY5jWBlF
+          is_local: false
+          is_playable: true
+          name: Yer So Bad
+          track_number: 7
+          type: track
+          uri: spotify:track:2ZS3jFe6p8UoVyrY5jWBlF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/03Kv32wx1NN3CSNUkeqtXD
+            href: https://api.spotify.com/v1/albums/03Kv32wx1NN3CSNUkeqtXD
+            id: 03Kv32wx1NN3CSNUkeqtXD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273da304cd0d0be2e8a516856ed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02da304cd0d0be2e8a516856ed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851da304cd0d0be2e8a516856ed
+            is_playable: true
+            name: Full 80s
+            release_date: '2025-04-11'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:03Kv32wx1NN3CSNUkeqtXD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn
+            href: https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn
+            id: 2UZMlIwnkgAEDBsw1Rejkn
+            name: Tom Petty
+            type: artist
+            uri: spotify:artist:2UZMlIwnkgAEDBsw1Rejkn
+          disc_number: 1
+          duration_ms: 185666
+          explicit: false
+          external_ids:
+            isrc: USMC18925674
+          external_urls:
+            spotify: https://open.spotify.com/track/4p7JCpyLqL7bGDWpqZkzY0
+          href: https://api.spotify.com/v1/tracks/4p7JCpyLqL7bGDWpqZkzY0
+          id: 4p7JCpyLqL7bGDWpqZkzY0
+          is_local: false
+          is_playable: true
+          name: Yer So Bad
+          track_number: 27
+          type: track
+          uri: spotify:track:4p7JCpyLqL7bGDWpqZkzY0
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6Y9tSI0nMt329IrHH0fEko
+            href: https://api.spotify.com/v1/albums/6Y9tSI0nMt329IrHH0fEko
+            id: 6Y9tSI0nMt329IrHH0fEko
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736670b08ab748e6afb455b0cd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026670b08ab748e6afb455b0cd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516670b08ab748e6afb455b0cd
+            is_playable: true
+            name: Rolitas para Caminar
+            release_date: '2025-12-12'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:6Y9tSI0nMt329IrHH0fEko
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn
+            href: https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn
+            id: 2UZMlIwnkgAEDBsw1Rejkn
+            name: Tom Petty
+            type: artist
+            uri: spotify:artist:2UZMlIwnkgAEDBsw1Rejkn
+          disc_number: 1
+          duration_ms: 185666
+          explicit: false
+          external_ids:
+            isrc: USMC18925674
+          external_urls:
+            spotify: https://open.spotify.com/track/1ota0kjhIyGxh6V8NS6EXH
+          href: https://api.spotify.com/v1/tracks/1ota0kjhIyGxh6V8NS6EXH
+          id: 1ota0kjhIyGxh6V8NS6EXH
+          is_local: false
+          is_playable: true
+          name: Yer So Bad
+          track_number: 29
+          type: track
+          uri: spotify:track:1ota0kjhIyGxh6V8NS6EXH
+    isrc: USMC18925674

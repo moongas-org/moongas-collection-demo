@@ -49,3 +49,72 @@ mediaFileData:
   year: 1992
   duration: 165.744
   modTime: 2025-09-23 01:41:13.940870+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7ASXw6TA3SZk5bO4ZYHIAx
+    trackId: 7ASXw6TA3SZk5bO4ZYHIAx
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEP40709110&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+              href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+              id: 5LfGQac0EIXyAN8aUwmNAQ
+              name: The Offspring
+              type: artist
+              uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+            external_urls:
+              spotify: https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF
+            href: https://api.spotify.com/v1/albums/5AT58tLypuZu3nVlFQObyF
+            id: 5AT58tLypuZu3nVlFQObyF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27364af5b8ea1d0eaedcf5aa24d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0264af5b8ea1d0eaedcf5aa24d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485164af5b8ea1d0eaedcf5aa24d
+            is_playable: true
+            name: Ignition (2008 Remaster)
+            release_date: '1992-10-16'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5AT58tLypuZu3nVlFQObyF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ
+            href: https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ
+            id: 5LfGQac0EIXyAN8aUwmNAQ
+            name: The Offspring
+            type: artist
+            uri: spotify:artist:5LfGQac0EIXyAN8aUwmNAQ
+          disc_number: 1
+          duration_ms: 165533
+          explicit: true
+          external_ids:
+            isrc: USEP40709110
+          external_urls:
+            spotify: https://open.spotify.com/track/7ASXw6TA3SZk5bO4ZYHIAx
+          href: https://api.spotify.com/v1/tracks/7ASXw6TA3SZk5bO4ZYHIAx
+          id: 7ASXw6TA3SZk5bO4ZYHIAx
+          is_local: false
+          is_playable: true
+          name: L.A.P.D. - 2008 Remaster
+          track_number: 10
+          type: track
+          uri: spotify:track:7ASXw6TA3SZk5bO4ZYHIAx
+    isrc: USEP40709110

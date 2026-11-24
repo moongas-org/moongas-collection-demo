@@ -52,3 +52,126 @@ mediaFileData:
   year: 1978
   duration: 280.0065306122449
   modTime: 2024-08-14 20:35:45.209573+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5Apk5PAfQt4LWSIdcBWEXf
+    trackId: 5Apk5PAfQt4LWSIdcBWEXf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10017650&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/2rU0StMaZfnpKIsHI7I8Kf
+            href: https://api.spotify.com/v1/albums/2rU0StMaZfnpKIsHI7I8Kf
+            id: 2rU0StMaZfnpKIsHI7I8Kf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273262f05f8bf39526152ce5b82
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02262f05f8bf39526152ce5b82
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851262f05f8bf39526152ce5b82
+            is_playable: true
+            name: Some Enchanted Evening (Live)
+            release_date: '1978'
+            release_date_precision: year
+            total_tracks: 7
+            type: album
+            uri: spotify:album:2rU0StMaZfnpKIsHI7I8Kf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 1
+          duration_ms: 279697
+          explicit: false
+          external_ids:
+            isrc: USSM10017650
+          external_urls:
+            spotify: https://open.spotify.com/track/5Apk5PAfQt4LWSIdcBWEXf
+          href: https://api.spotify.com/v1/tracks/5Apk5PAfQt4LWSIdcBWEXf
+          id: 5Apk5PAfQt4LWSIdcBWEXf
+          is_local: false
+          is_playable: true
+          name: We Gotta Get out of This Place - Live at Newcastle City Hall, Newcastle, UK - June 1978
+          track_number: 7
+          type: track
+          uri: spotify:track:5Apk5PAfQt4LWSIdcBWEXf
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+              href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+              id: 00tVTdpEhQQw1bqdu8RCx2
+              name: Blue Öyster Cult
+              type: artist
+              uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+            external_urls:
+              spotify: https://open.spotify.com/album/6fTMuqk1hfxgh9kCJutyV3
+            href: https://api.spotify.com/v1/albums/6fTMuqk1hfxgh9kCJutyV3
+            id: 6fTMuqk1hfxgh9kCJutyV3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b90565ae5c2d7841bd8b175d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b90565ae5c2d7841bd8b175d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b90565ae5c2d7841bd8b175d
+            is_playable: true
+            name: Some Enchanted Evening (Live)
+            release_date: '1978'
+            release_date_precision: year
+            total_tracks: 7
+            type: album
+            uri: spotify:album:6fTMuqk1hfxgh9kCJutyV3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2
+            href: https://api.spotify.com/v1/artists/00tVTdpEhQQw1bqdu8RCx2
+            id: 00tVTdpEhQQw1bqdu8RCx2
+            name: Blue Öyster Cult
+            type: artist
+            uri: spotify:artist:00tVTdpEhQQw1bqdu8RCx2
+          disc_number: 1
+          duration_ms: 279697
+          explicit: false
+          external_ids:
+            isrc: USSM10017650
+          external_urls:
+            spotify: https://open.spotify.com/track/7M6FZR7KyHmaGx7HOWq8cN
+          href: https://api.spotify.com/v1/tracks/7M6FZR7KyHmaGx7HOWq8cN
+          id: 7M6FZR7KyHmaGx7HOWq8cN
+          is_local: false
+          is_playable: true
+          name: We Gotta Get out of This Place - Live at Newcastle City Hall, Newcastle, UK - June 1978
+          track_number: 7
+          type: track
+          uri: spotify:track:7M6FZR7KyHmaGx7HOWq8cN
+    isrc: USSM10017650

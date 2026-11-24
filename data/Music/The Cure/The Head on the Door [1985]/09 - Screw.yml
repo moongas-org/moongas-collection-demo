@@ -50,3 +50,126 @@ mediaFileData:
   year: 1985
   duration: 158.064
   modTime: 2024-11-01 19:04:24.234257+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4cA7vJxcMe9atgrKsvGwHo
+    trackId: 4cA7vJxcMe9atgrKsvGwHo
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10608875&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw
+            href: https://api.spotify.com/v1/albums/6HhpmJekzDCRu2K64ZbWqw
+            id: 6HhpmJekzDCRu2K64ZbWqw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731b54add5c2a3a337e512941b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021b54add5c2a3a337e512941b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511b54add5c2a3a337e512941b
+            is_playable: true
+            name: The Head on the Door
+            release_date: '1985-08-26'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6HhpmJekzDCRu2K64ZbWqw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 158040
+          explicit: false
+          external_ids:
+            isrc: USEE10608875
+          external_urls:
+            spotify: https://open.spotify.com/track/4cA7vJxcMe9atgrKsvGwHo
+          href: https://api.spotify.com/v1/tracks/4cA7vJxcMe9atgrKsvGwHo
+          id: 4cA7vJxcMe9atgrKsvGwHo
+          is_local: false
+          is_playable: true
+          name: Screw - 2006 Remaster
+          track_number: 9
+          type: track
+          uri: spotify:track:4cA7vJxcMe9atgrKsvGwHo
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk
+            href: https://api.spotify.com/v1/albums/4Uq47onfCEj5en94jpHovk
+            id: 4Uq47onfCEj5en94jpHovk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27396e854c582f5213d51793cc2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0296e854c582f5213d51793cc2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485196e854c582f5213d51793cc2
+            is_playable: true
+            name: The Head on the Door (Deluxed Edition)
+            release_date: '1985-08-26'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:4Uq47onfCEj5en94jpHovk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 158040
+          explicit: false
+          external_ids:
+            isrc: USEE10608875
+          external_urls:
+            spotify: https://open.spotify.com/track/6CItiZhsd69GAgCF4d2T8h
+          href: https://api.spotify.com/v1/tracks/6CItiZhsd69GAgCF4d2T8h
+          id: 6CItiZhsd69GAgCF4d2T8h
+          is_local: false
+          is_playable: true
+          name: Screw - 2006 Remaster
+          track_number: 9
+          type: track
+          uri: spotify:track:6CItiZhsd69GAgCF4d2T8h
+    isrc: USEE10608875

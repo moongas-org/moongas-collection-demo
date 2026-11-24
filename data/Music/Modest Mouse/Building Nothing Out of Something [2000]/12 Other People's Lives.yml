@@ -34,3 +34,126 @@ mediaFileData:
   year: 2000
   duration: 430.4195833333333
   modTime: 2023-02-23 00:36:47.230000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/372GZxWtQXMyvF6MnDrPVv
+    trackId: 372GZxWtQXMyvF6MnDrPVv
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFP71444412&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/4KtGDTwb8IfgGB9PzdXFqf
+            href: https://api.spotify.com/v1/albums/4KtGDTwb8IfgGB9PzdXFqf
+            id: 4KtGDTwb8IfgGB9PzdXFqf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27301884e077b4399b7ba04cce4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0201884e077b4399b7ba04cce4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485101884e077b4399b7ba04cce4
+            is_playable: true
+            name: Building Nothing Out of Something
+            release_date: '2000-01-18'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4KtGDTwb8IfgGB9PzdXFqf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 430360
+          explicit: false
+          external_ids:
+            isrc: USFP71444412
+          external_urls:
+            spotify: https://open.spotify.com/track/372GZxWtQXMyvF6MnDrPVv
+          href: https://api.spotify.com/v1/tracks/372GZxWtQXMyvF6MnDrPVv
+          id: 372GZxWtQXMyvF6MnDrPVv
+          is_local: false
+          is_playable: true
+          name: Other People's Lives
+          track_number: 12
+          type: track
+          uri: spotify:track:372GZxWtQXMyvF6MnDrPVv
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/2fzFo9ypJRRla1N2IYOoQP
+            href: https://api.spotify.com/v1/albums/2fzFo9ypJRRla1N2IYOoQP
+            id: 2fzFo9ypJRRla1N2IYOoQP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737bbcb94c9c076a133188bdbd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027bbcb94c9c076a133188bdbd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517bbcb94c9c076a133188bdbd
+            is_playable: true
+            name: Building Nothing Out of Something
+            release_date: '2000-01-18'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2fzFo9ypJRRla1N2IYOoQP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 430360
+          explicit: false
+          external_ids:
+            isrc: USFP71444412
+          external_urls:
+            spotify: https://open.spotify.com/track/1l0DNDAeXrmOngEEDyRW51
+          href: https://api.spotify.com/v1/tracks/1l0DNDAeXrmOngEEDyRW51
+          id: 1l0DNDAeXrmOngEEDyRW51
+          is_local: false
+          is_playable: true
+          name: Other People's Lives
+          track_number: 12
+          type: track
+          uri: spotify:track:1l0DNDAeXrmOngEEDyRW51
+    isrc: USFP71444412

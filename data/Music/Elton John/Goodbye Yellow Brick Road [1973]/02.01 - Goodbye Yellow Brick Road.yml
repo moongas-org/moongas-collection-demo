@@ -165,3 +165,126 @@ mediaFileData:
   year: 1973
   duration: 194.3248979591837
   modTime: 2024-02-25 21:52:34.543079+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2ZaQOa64ir1OUSkX4M4gWm
+    trackId: 2ZaQOa64ir1OUSkX4M4gWm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN10100386&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj
+              href: https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj
+              id: 3P33qFNGBVXl86yQYWspFj
+              name: Martina McBride
+              type: artist
+              uri: spotify:artist:3P33qFNGBVXl86yQYWspFj
+            external_urls:
+              spotify: https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d
+            href: https://api.spotify.com/v1/albums/4E9bN3hTA7ZN4ECVfevF7d
+            id: 4E9bN3hTA7ZN4ECVfevF7d
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bfc053859e5116c5eeca9843
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bfc053859e5116c5eeca9843
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bfc053859e5116c5eeca9843
+            is_playable: true
+            name: The Way That I Am
+            release_date: '1993-09-12'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4E9bN3hTA7ZN4ECVfevF7d
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj
+            href: https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj
+            id: 3P33qFNGBVXl86yQYWspFj
+            name: Martina McBride
+            type: artist
+            uri: spotify:artist:3P33qFNGBVXl86yQYWspFj
+          disc_number: 1
+          duration_ms: 201360
+          explicit: false
+          external_ids:
+            isrc: USRN10100386
+          external_urls:
+            spotify: https://open.spotify.com/track/2ZaQOa64ir1OUSkX4M4gWm
+          href: https://api.spotify.com/v1/tracks/2ZaQOa64ir1OUSkX4M4gWm
+          id: 2ZaQOa64ir1OUSkX4M4gWm
+          is_local: false
+          is_playable: true
+          name: Strangers
+          track_number: 9
+          type: track
+          uri: spotify:track:2ZaQOa64ir1OUSkX4M4gWm
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj
+              href: https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj
+              id: 3P33qFNGBVXl86yQYWspFj
+              name: Martina McBride
+              type: artist
+              uri: spotify:artist:3P33qFNGBVXl86yQYWspFj
+            external_urls:
+              spotify: https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi
+            href: https://api.spotify.com/v1/albums/467Cag6qid9mjW2hpnIcFi
+            id: 467Cag6qid9mjW2hpnIcFi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273399bd97600df8951a63c2cdc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02399bd97600df8951a63c2cdc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851399bd97600df8951a63c2cdc
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2001-09-17'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:467Cag6qid9mjW2hpnIcFi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj
+            href: https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj
+            id: 3P33qFNGBVXl86yQYWspFj
+            name: Martina McBride
+            type: artist
+            uri: spotify:artist:3P33qFNGBVXl86yQYWspFj
+          disc_number: 1
+          duration_ms: 202506
+          explicit: false
+          external_ids:
+            isrc: USRN10100386
+          external_urls:
+            spotify: https://open.spotify.com/track/0juGdIZmepFdfTGufb59UD
+          href: https://api.spotify.com/v1/tracks/0juGdIZmepFdfTGufb59UD
+          id: 0juGdIZmepFdfTGufb59UD
+          is_local: false
+          is_playable: true
+          name: Strangers
+          track_number: 4
+          type: track
+          uri: spotify:track:0juGdIZmepFdfTGufb59UD
+    isrc: USRN10100386

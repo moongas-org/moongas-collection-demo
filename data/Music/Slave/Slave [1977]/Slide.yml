@@ -80,3 +80,133 @@ mediaFileData:
   year: 1977
   duration: 413.712
   modTime: 2023-09-22 18:37:06+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5LfV7wPGUXPtUoMrhkEJyO
+    trackId: 5LfV7wPGUXPtUoMrhkEJyO
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20616129&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e
+              href: https://api.spotify.com/v1/artists/5mtKpqeeaFavW15yIX4h5e
+              id: 5mtKpqeeaFavW15yIX4h5e
+              name: Slave
+              type: artist
+              uri: spotify:artist:5mtKpqeeaFavW15yIX4h5e
+            external_urls:
+              spotify: https://open.spotify.com/album/1qpyKenj02tO8xZsg3I5Cp
+            href: https://api.spotify.com/v1/albums/1qpyKenj02tO8xZsg3I5Cp
+            id: 1qpyKenj02tO8xZsg3I5Cp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738477d88457aa8e8c78040584
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028477d88457aa8e8c78040584
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518477d88457aa8e8c78040584
+            is_playable: true
+            name: 'Definitive Groove: Slave'
+            release_date: '2007-04-02'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:1qpyKenj02tO8xZsg3I5Cp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e
+            href: https://api.spotify.com/v1/artists/5mtKpqeeaFavW15yIX4h5e
+            id: 5mtKpqeeaFavW15yIX4h5e
+            name: Slave
+            type: artist
+            uri: spotify:artist:5mtKpqeeaFavW15yIX4h5e
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2kLF5OqO9KpxWZl9bPy8hj
+            href: https://api.spotify.com/v1/artists/2kLF5OqO9KpxWZl9bPy8hj
+            id: 2kLF5OqO9KpxWZl9bPy8hj
+            name: Jimmy Douglas
+            type: artist
+            uri: spotify:artist:2kLF5OqO9KpxWZl9bPy8hj
+          disc_number: 1
+          duration_ms: 407386
+          explicit: false
+          external_ids:
+            isrc: USAT20616129
+          external_urls:
+            spotify: https://open.spotify.com/track/5LfV7wPGUXPtUoMrhkEJyO
+          href: https://api.spotify.com/v1/tracks/5LfV7wPGUXPtUoMrhkEJyO
+          id: 5LfV7wPGUXPtUoMrhkEJyO
+          is_local: false
+          is_playable: true
+          name: Slide - 2006 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:5LfV7wPGUXPtUoMrhkEJyO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3GF85EFxLkShCnNsdZBuIb
+            href: https://api.spotify.com/v1/albums/3GF85EFxLkShCnNsdZBuIb
+            id: 3GF85EFxLkShCnNsdZBuIb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ad48e1dbb7ac63dcb9c268af
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ad48e1dbb7ac63dcb9c268af
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ad48e1dbb7ac63dcb9c268af
+            is_playable: true
+            name: I Love My 70's Funk
+            release_date: '2021-05-07'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:3GF85EFxLkShCnNsdZBuIb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e
+            href: https://api.spotify.com/v1/artists/5mtKpqeeaFavW15yIX4h5e
+            id: 5mtKpqeeaFavW15yIX4h5e
+            name: Slave
+            type: artist
+            uri: spotify:artist:5mtKpqeeaFavW15yIX4h5e
+          disc_number: 1
+          duration_ms: 407386
+          explicit: false
+          external_ids:
+            isrc: USAT20616129
+          external_urls:
+            spotify: https://open.spotify.com/track/0kmSsqsCLUXTWVqek9yqFC
+          href: https://api.spotify.com/v1/tracks/0kmSsqsCLUXTWVqek9yqFC
+          id: 0kmSsqsCLUXTWVqek9yqFC
+          is_local: false
+          is_playable: true
+          name: Slide
+          track_number: 40
+          type: track
+          uri: spotify:track:0kmSsqsCLUXTWVqek9yqFC
+    isrc: USAT20616129

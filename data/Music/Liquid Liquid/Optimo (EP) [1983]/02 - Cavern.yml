@@ -68,3 +68,126 @@ mediaFileData:
   year: 1983
   duration: 321.5934693877551
   modTime: 2026-03-02 22:39:22.573414+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6j30w4gm3Wlfpb0T32UYDs
+    trackId: 6j30w4gm3Wlfpb0T32UYDs
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL0800079&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx
+              href: https://api.spotify.com/v1/artists/4LIRWeEa6WgyAzH1mjYAPx
+              id: 4LIRWeEa6WgyAzH1mjYAPx
+              name: Liquid Liquid
+              type: artist
+              uri: spotify:artist:4LIRWeEa6WgyAzH1mjYAPx
+            external_urls:
+              spotify: https://open.spotify.com/album/41UH0BgBejGCPoWhmN6LZL
+            href: https://api.spotify.com/v1/albums/41UH0BgBejGCPoWhmN6LZL
+            id: 41UH0BgBejGCPoWhmN6LZL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739234688c6ff52d67649cae6f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029234688c6ff52d67649cae6f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519234688c6ff52d67649cae6f
+            is_playable: true
+            name: Optimo
+            release_date: '1983-01-01'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:41UH0BgBejGCPoWhmN6LZL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx
+            href: https://api.spotify.com/v1/artists/4LIRWeEa6WgyAzH1mjYAPx
+            id: 4LIRWeEa6WgyAzH1mjYAPx
+            name: Liquid Liquid
+            type: artist
+            uri: spotify:artist:4LIRWeEa6WgyAzH1mjYAPx
+          disc_number: 1
+          duration_ms: 321493
+          explicit: false
+          external_ids:
+            isrc: GBCEL0800079
+          external_urls:
+            spotify: https://open.spotify.com/track/6j30w4gm3Wlfpb0T32UYDs
+          href: https://api.spotify.com/v1/tracks/6j30w4gm3Wlfpb0T32UYDs
+          id: 6j30w4gm3Wlfpb0T32UYDs
+          is_local: false
+          is_playable: true
+          name: Cavern
+          track_number: 2
+          type: track
+          uri: spotify:track:6j30w4gm3Wlfpb0T32UYDs
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx
+              href: https://api.spotify.com/v1/artists/4LIRWeEa6WgyAzH1mjYAPx
+              id: 4LIRWeEa6WgyAzH1mjYAPx
+              name: Liquid Liquid
+              type: artist
+              uri: spotify:artist:4LIRWeEa6WgyAzH1mjYAPx
+            external_urls:
+              spotify: https://open.spotify.com/album/37ecsp8BcvEzPmMkZet7rP
+            href: https://api.spotify.com/v1/albums/37ecsp8BcvEzPmMkZet7rP
+            id: 37ecsp8BcvEzPmMkZet7rP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27392fb983b0f6f75c145d7c82f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0292fb983b0f6f75c145d7c82f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485192fb983b0f6f75c145d7c82f
+            is_playable: true
+            name: Slip In And Out Of Phenomenon
+            release_date: '2008-05-19'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:37ecsp8BcvEzPmMkZet7rP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx
+            href: https://api.spotify.com/v1/artists/4LIRWeEa6WgyAzH1mjYAPx
+            id: 4LIRWeEa6WgyAzH1mjYAPx
+            name: Liquid Liquid
+            type: artist
+            uri: spotify:artist:4LIRWeEa6WgyAzH1mjYAPx
+          disc_number: 1
+          duration_ms: 323493
+          explicit: false
+          external_ids:
+            isrc: GBCEL0800079
+          external_urls:
+            spotify: https://open.spotify.com/track/3vS2tjkjD5GSt1ZHOWkQq8
+          href: https://api.spotify.com/v1/tracks/3vS2tjkjD5GSt1ZHOWkQq8
+          id: 3vS2tjkjD5GSt1ZHOWkQq8
+          is_local: false
+          is_playable: true
+          name: Cavern
+          track_number: 14
+          type: track
+          uri: spotify:track:3vS2tjkjD5GSt1ZHOWkQq8
+    isrc: GBCEL0800079

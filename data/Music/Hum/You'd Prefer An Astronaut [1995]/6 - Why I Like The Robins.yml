@@ -34,3 +34,72 @@ mediaFileData:
   year: 1995
   duration: 297.14285714285717
   modTime: 2026-01-18 18:41:25.720926+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0LlASmgBDotmig07p6j0YZ
+    trackId: 0LlASmgBDotmig07p6j0YZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC19401476&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX
+              href: https://api.spotify.com/v1/artists/6sM2JCBjZprP7JLMTZZSxX
+              id: 6sM2JCBjZprP7JLMTZZSxX
+              name: Hum
+              type: artist
+              uri: spotify:artist:6sM2JCBjZprP7JLMTZZSxX
+            external_urls:
+              spotify: https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o
+            href: https://api.spotify.com/v1/albums/2qx0YtBEDcbpclLlqzRi2o
+            id: 2qx0YtBEDcbpclLlqzRi2o
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f2237ba7c0eb6326738ad6ad
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f2237ba7c0eb6326738ad6ad
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f2237ba7c0eb6326738ad6ad
+            is_playable: true
+            name: You'd Prefer An Astronaut
+            release_date: '1995-04-11'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:2qx0YtBEDcbpclLlqzRi2o
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX
+            href: https://api.spotify.com/v1/artists/6sM2JCBjZprP7JLMTZZSxX
+            id: 6sM2JCBjZprP7JLMTZZSxX
+            name: Hum
+            type: artist
+            uri: spotify:artist:6sM2JCBjZprP7JLMTZZSxX
+          disc_number: 1
+          duration_ms: 297040
+          explicit: false
+          external_ids:
+            isrc: USRC19401476
+          external_urls:
+            spotify: https://open.spotify.com/track/0LlASmgBDotmig07p6j0YZ
+          href: https://api.spotify.com/v1/tracks/0LlASmgBDotmig07p6j0YZ
+          id: 0LlASmgBDotmig07p6j0YZ
+          is_local: false
+          is_playable: true
+          name: Why I Like The Robins
+          track_number: 6
+          type: track
+          uri: spotify:track:0LlASmgBDotmig07p6j0YZ
+    isrc: USRC19401476

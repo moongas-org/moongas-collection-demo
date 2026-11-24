@@ -52,3 +52,126 @@ mediaFileData:
   year: 1983
   duration: 249.36
   modTime: 2025-05-19 00:05:40.095603+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/05G0dFsADyEtohotzyyKBm
+    trackId: 05G0dFsADyEtohotzyyKBm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10011811&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3
+              href: https://api.spotify.com/v1/artists/1dLWg6m8RRhizsdqJbhyj3
+              id: 1dLWg6m8RRhizsdqJbhyj3
+              name: Quiet Riot
+              type: artist
+              uri: spotify:artist:1dLWg6m8RRhizsdqJbhyj3
+            external_urls:
+              spotify: https://open.spotify.com/album/75XCa6WWOkGdnZRCmZ6SNC
+            href: https://api.spotify.com/v1/albums/75XCa6WWOkGdnZRCmZ6SNC
+            id: 75XCa6WWOkGdnZRCmZ6SNC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733bccb5c42588b77a54b88113
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023bccb5c42588b77a54b88113
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513bccb5c42588b77a54b88113
+            is_playable: true
+            name: Metal Health
+            release_date: '1983-03-11'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:75XCa6WWOkGdnZRCmZ6SNC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3
+            href: https://api.spotify.com/v1/artists/1dLWg6m8RRhizsdqJbhyj3
+            id: 1dLWg6m8RRhizsdqJbhyj3
+            name: Quiet Riot
+            type: artist
+            uri: spotify:artist:1dLWg6m8RRhizsdqJbhyj3
+          disc_number: 1
+          duration_ms: 249324
+          explicit: false
+          external_ids:
+            isrc: USSM10011811
+          external_urls:
+            spotify: https://open.spotify.com/track/05G0dFsADyEtohotzyyKBm
+          href: https://api.spotify.com/v1/tracks/05G0dFsADyEtohotzyyKBm
+          id: 05G0dFsADyEtohotzyyKBm
+          is_local: false
+          is_playable: true
+          name: Love's a Bitch
+          track_number: 5
+          type: track
+          uri: spotify:track:05G0dFsADyEtohotzyyKBm
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3
+              href: https://api.spotify.com/v1/artists/1dLWg6m8RRhizsdqJbhyj3
+              id: 1dLWg6m8RRhizsdqJbhyj3
+              name: Quiet Riot
+              type: artist
+              uri: spotify:artist:1dLWg6m8RRhizsdqJbhyj3
+            external_urls:
+              spotify: https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK
+            href: https://api.spotify.com/v1/albums/3Q3rQ8FK1e9Fd9Gv9xm3CK
+            id: 3Q3rQ8FK1e9Fd9Gv9xm3CK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27321fbdd09672c5f8bcfd66165
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0221fbdd09672c5f8bcfd66165
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485121fbdd09672c5f8bcfd66165
+            is_playable: true
+            name: Metal Health
+            release_date: '1983'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3Q3rQ8FK1e9Fd9Gv9xm3CK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3
+            href: https://api.spotify.com/v1/artists/1dLWg6m8RRhizsdqJbhyj3
+            id: 1dLWg6m8RRhizsdqJbhyj3
+            name: Quiet Riot
+            type: artist
+            uri: spotify:artist:1dLWg6m8RRhizsdqJbhyj3
+          disc_number: 1
+          duration_ms: 250413
+          explicit: false
+          external_ids:
+            isrc: USSM10011811
+          external_urls:
+            spotify: https://open.spotify.com/track/5I7WE1CnWsTE4DXWWbh2Nx
+          href: https://api.spotify.com/v1/tracks/5I7WE1CnWsTE4DXWWbh2Nx
+          id: 5I7WE1CnWsTE4DXWWbh2Nx
+          is_local: false
+          is_playable: true
+          name: Love's a Bitch
+          track_number: 5
+          type: track
+          uri: spotify:track:5I7WE1CnWsTE4DXWWbh2Nx
+    isrc: USSM10011811

@@ -100,3 +100,180 @@ mediaFileData:
   year: 1985
   duration: 391.992
   modTime: 2024-01-31 01:35:16.329252+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1IEjT3g6nZzM6Q615bNaum
+    trackId: 1IEjT3g6nZzM6Q615bNaum
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBF088500676&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T
+              href: https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T
+              id: 0WwSkZ7LtFUFjGjMZBMt6T
+              name: Dire Straits
+              type: artist
+              uri: spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+            external_urls:
+              spotify: https://open.spotify.com/album/2ThFpTuEBC9aQfTDaDoYJa
+            href: https://api.spotify.com/v1/albums/2ThFpTuEBC9aQfTDaDoYJa
+            id: 2ThFpTuEBC9aQfTDaDoYJa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734de946cd346b48d54b6e4ac7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024de946cd346b48d54b6e4ac7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514de946cd346b48d54b6e4ac7
+            is_playable: true
+            name: Brothers in Arms (40th Anniversary)
+            release_date: '1985-05-13'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:2ThFpTuEBC9aQfTDaDoYJa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T
+            href: https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T
+            id: 0WwSkZ7LtFUFjGjMZBMt6T
+            name: Dire Straits
+            type: artist
+            uri: spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+          disc_number: 1
+          duration_ms: 393866
+          explicit: false
+          external_ids:
+            isrc: GBF088500676
+          external_urls:
+            spotify: https://open.spotify.com/track/1IEjT3g6nZzM6Q615bNaum
+          href: https://api.spotify.com/v1/tracks/1IEjT3g6nZzM6Q615bNaum
+          id: 1IEjT3g6nZzM6Q615bNaum
+          is_local: false
+          is_playable: true
+          name: Your Latest Trick
+          track_number: 4
+          type: track
+          uri: spotify:track:1IEjT3g6nZzM6Q615bNaum
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T
+              href: https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T
+              id: 0WwSkZ7LtFUFjGjMZBMt6T
+              name: Dire Straits
+              type: artist
+              uri: spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+            external_urls:
+              spotify: https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s
+            href: https://api.spotify.com/v1/albums/7jvcSnCnugLcisBCNBm60s
+            id: 7jvcSnCnugLcisBCNBm60s
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fb995d2871f084b34afae3b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fb995d2871f084b34afae3b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fb995d2871f084b34afae3b3
+            is_playable: true
+            name: Brothers in Arms
+            release_date: '1985-05-13'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:7jvcSnCnugLcisBCNBm60s
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T
+            href: https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T
+            id: 0WwSkZ7LtFUFjGjMZBMt6T
+            name: Dire Straits
+            type: artist
+            uri: spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+          disc_number: 1
+          duration_ms: 393866
+          explicit: false
+          external_ids:
+            isrc: GBF088500676
+          external_urls:
+            spotify: https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5
+          href: https://api.spotify.com/v1/tracks/4UK1g9Z1lWedkmIQuSyCe5
+          id: 4UK1g9Z1lWedkmIQuSyCe5
+          is_local: false
+          is_playable: true
+          name: Your Latest Trick
+          track_number: 4
+          type: track
+          uri: spotify:track:4UK1g9Z1lWedkmIQuSyCe5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7jnG0C5eZjongHlprMEves
+            href: https://api.spotify.com/v1/albums/7jnG0C5eZjongHlprMEves
+            id: 7jnG0C5eZjongHlprMEves
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730fecd0adb0ccfa09445ed920
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020fecd0adb0ccfa09445ed920
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510fecd0adb0ccfa09445ed920
+            is_playable: true
+            name: Love
+            release_date: '2023-06-02'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:7jnG0C5eZjongHlprMEves
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T
+            href: https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T
+            id: 0WwSkZ7LtFUFjGjMZBMt6T
+            name: Dire Straits
+            type: artist
+            uri: spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+          disc_number: 1
+          duration_ms: 393866
+          explicit: false
+          external_ids:
+            isrc: GBF088500676
+          external_urls:
+            spotify: https://open.spotify.com/track/4ZsTpf9Tji3Szwko1Xa5kg
+          href: https://api.spotify.com/v1/tracks/4ZsTpf9Tji3Szwko1Xa5kg
+          id: 4ZsTpf9Tji3Szwko1Xa5kg
+          is_local: false
+          is_playable: true
+          name: Your Latest Trick
+          track_number: 28
+          type: track
+          uri: spotify:track:4ZsTpf9Tji3Szwko1Xa5kg
+    isrc: GBF088500676

@@ -59,3 +59,126 @@ mediaFileData:
   year: 2003
   duration: 176.69225
   modTime: 2025-12-09 03:02:11.251379+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3ARb2dxpeDRtgWPbUM7gt7
+    trackId: 3ARb2dxpeDRtgWPbUM7gt7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBS50310287&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx
+              href: https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx
+              id: 0YrtvWJMgSdVrk3SfNjTbx
+              name: Death Cab for Cutie
+              type: artist
+              uri: spotify:artist:0YrtvWJMgSdVrk3SfNjTbx
+            external_urls:
+              spotify: https://open.spotify.com/album/7jwLAtPHF7TW7dtELtayOd
+            href: https://api.spotify.com/v1/albums/7jwLAtPHF7TW7dtELtayOd
+            id: 7jwLAtPHF7TW7dtELtayOd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ac5899ddc449d1e54a1b8880
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ac5899ddc449d1e54a1b8880
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ac5899ddc449d1e54a1b8880
+            is_playable: true
+            name: Transatlanticism
+            release_date: '2003-10-07'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7jwLAtPHF7TW7dtELtayOd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx
+            href: https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx
+            id: 0YrtvWJMgSdVrk3SfNjTbx
+            name: Death Cab for Cutie
+            type: artist
+            uri: spotify:artist:0YrtvWJMgSdVrk3SfNjTbx
+          disc_number: 1
+          duration_ms: 176626
+          explicit: false
+          external_ids:
+            isrc: USBS50310287
+          external_urls:
+            spotify: https://open.spotify.com/track/3ARb2dxpeDRtgWPbUM7gt7
+          href: https://api.spotify.com/v1/tracks/3ARb2dxpeDRtgWPbUM7gt7
+          id: 3ARb2dxpeDRtgWPbUM7gt7
+          is_local: false
+          is_playable: true
+          name: Death of an Interior Decorator
+          track_number: 9
+          type: track
+          uri: spotify:track:3ARb2dxpeDRtgWPbUM7gt7
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx
+              href: https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx
+              id: 0YrtvWJMgSdVrk3SfNjTbx
+              name: Death Cab for Cutie
+              type: artist
+              uri: spotify:artist:0YrtvWJMgSdVrk3SfNjTbx
+            external_urls:
+              spotify: https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe
+            href: https://api.spotify.com/v1/albums/5UKAhD2VmFAuThgq4OQyEe
+            id: 5UKAhD2VmFAuThgq4OQyEe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c988bbfb15aca7928323d2ff
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c988bbfb15aca7928323d2ff
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c988bbfb15aca7928323d2ff
+            is_playable: true
+            name: Transatlanticism (10th Anniversary Edition)
+            release_date: '2003'
+            release_date_precision: year
+            total_tracks: 22
+            type: album
+            uri: spotify:album:5UKAhD2VmFAuThgq4OQyEe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx
+            href: https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx
+            id: 0YrtvWJMgSdVrk3SfNjTbx
+            name: Death Cab for Cutie
+            type: artist
+            uri: spotify:artist:0YrtvWJMgSdVrk3SfNjTbx
+          disc_number: 1
+          duration_ms: 176626
+          explicit: false
+          external_ids:
+            isrc: USBS50310287
+          external_urls:
+            spotify: https://open.spotify.com/track/7Mz3VVOc2T9sjm0lcI1SZe
+          href: https://api.spotify.com/v1/tracks/7Mz3VVOc2T9sjm0lcI1SZe
+          id: 7Mz3VVOc2T9sjm0lcI1SZe
+          is_local: false
+          is_playable: true
+          name: Death of an Interior Decorator
+          track_number: 9
+          type: track
+          uri: spotify:track:7Mz3VVOc2T9sjm0lcI1SZe
+    isrc: USBS50310287

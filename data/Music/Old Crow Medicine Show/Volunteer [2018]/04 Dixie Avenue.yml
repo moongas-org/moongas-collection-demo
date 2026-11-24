@@ -34,3 +34,72 @@ mediaFileData:
   year: 2018
   duration: 155.5591875
   modTime: 2023-07-17 00:33:48+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1zOVEJ16YD8QjiZSBWdblb
+    trackId: 1zOVEJ16YD8QjiZSBWdblb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS6XF1700216&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi
+              href: https://api.spotify.com/v1/artists/4DBi4EYXgiqbkxvWUXUzMi
+              id: 4DBi4EYXgiqbkxvWUXUzMi
+              name: Old Crow Medicine Show
+              type: artist
+              uri: spotify:artist:4DBi4EYXgiqbkxvWUXUzMi
+            external_urls:
+              spotify: https://open.spotify.com/album/1hSUUe3NM9HWTSMRWPZK6l
+            href: https://api.spotify.com/v1/albums/1hSUUe3NM9HWTSMRWPZK6l
+            id: 1hSUUe3NM9HWTSMRWPZK6l
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27392d5da73047beaad41678f84
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0292d5da73047beaad41678f84
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485192d5da73047beaad41678f84
+            is_playable: true
+            name: Volunteer
+            release_date: '2018-04-20'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1hSUUe3NM9HWTSMRWPZK6l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi
+            href: https://api.spotify.com/v1/artists/4DBi4EYXgiqbkxvWUXUzMi
+            id: 4DBi4EYXgiqbkxvWUXUzMi
+            name: Old Crow Medicine Show
+            type: artist
+            uri: spotify:artist:4DBi4EYXgiqbkxvWUXUzMi
+          disc_number: 1
+          duration_ms: 155493
+          explicit: false
+          external_ids:
+            isrc: US6XF1700216
+          external_urls:
+            spotify: https://open.spotify.com/track/1zOVEJ16YD8QjiZSBWdblb
+          href: https://api.spotify.com/v1/tracks/1zOVEJ16YD8QjiZSBWdblb
+          id: 1zOVEJ16YD8QjiZSBWdblb
+          is_local: false
+          is_playable: true
+          name: Dixie Avenue
+          track_number: 4
+          type: track
+          uri: spotify:track:1zOVEJ16YD8QjiZSBWdblb
+    isrc: US6XF1700216

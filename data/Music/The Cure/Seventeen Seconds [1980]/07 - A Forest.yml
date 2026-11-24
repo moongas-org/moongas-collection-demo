@@ -70,3 +70,288 @@ mediaFileData:
   year: 1980
   duration: 354.96
   modTime: 2024-11-01 19:04:24.612580+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH
+    trackId: 3O4TPMOgChXOerSdB5WENH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10500788&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSEE10500788&type=track
+        offset: 0
+        previous:
+        total: 7
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj
+            href: https://api.spotify.com/v1/albums/1T7A6Dt7KktX7pOw4I4Jzj
+            id: 1T7A6Dt7KktX7pOw4I4Jzj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27399027d2948260fdb37436d5d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0299027d2948260fdb37436d5d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485199027d2948260fdb37436d5d
+            is_playable: true
+            name: Seventeen Seconds (Deluxe Edition)
+            release_date: '1980-04-18'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:1T7A6Dt7KktX7pOw4I4Jzj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 354933
+          explicit: false
+          external_ids:
+            isrc: USEE10500788
+          external_urls:
+            spotify: https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH
+          href: https://api.spotify.com/v1/tracks/3O4TPMOgChXOerSdB5WENH
+          id: 3O4TPMOgChXOerSdB5WENH
+          is_local: false
+          is_playable: true
+          name: A Forest - 2006 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:3O4TPMOgChXOerSdB5WENH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5nduYbbr8TtDCZogyiz78z
+            href: https://api.spotify.com/v1/albums/5nduYbbr8TtDCZogyiz78z
+            id: 5nduYbbr8TtDCZogyiz78z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ecdd1f0a0f52aff31a1a30e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ecdd1f0a0f52aff31a1a30e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ecdd1f0a0f52aff31a1a30e
+            is_playable: true
+            name: Cozy Autumn
+            release_date: '2024-10-03'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:5nduYbbr8TtDCZogyiz78z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 354933
+          explicit: false
+          external_ids:
+            isrc: USEE10500788
+          external_urls:
+            spotify: https://open.spotify.com/track/1pmHO7ee17711JOsGX1mik
+          href: https://api.spotify.com/v1/tracks/1pmHO7ee17711JOsGX1mik
+          id: 1pmHO7ee17711JOsGX1mik
+          is_local: false
+          is_playable: true
+          name: A Forest
+          track_number: 16
+          type: track
+          uri: spotify:track:1pmHO7ee17711JOsGX1mik
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva
+            href: https://api.spotify.com/v1/albums/2KWHRfKSRpgsxNGIl2nQva
+            id: 2KWHRfKSRpgsxNGIl2nQva
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27329935216b69c7721582eab4c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0229935216b69c7721582eab4c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485129935216b69c7721582eab4c
+            is_playable: true
+            name: Seventeen Seconds
+            release_date: '1980-04-18'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2KWHRfKSRpgsxNGIl2nQva
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 354933
+          explicit: false
+          external_ids:
+            isrc: USEE10500788
+          external_urls:
+            spotify: https://open.spotify.com/track/4Ud8b4RuD5NGQOdK2AGAUJ
+          href: https://api.spotify.com/v1/tracks/4Ud8b4RuD5NGQOdK2AGAUJ
+          id: 4Ud8b4RuD5NGQOdK2AGAUJ
+          is_local: false
+          is_playable: true
+          name: A Forest - 2006 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:4Ud8b4RuD5NGQOdK2AGAUJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1H4O4RMVEbsIEd68QoguDR
+            href: https://api.spotify.com/v1/albums/1H4O4RMVEbsIEd68QoguDR
+            id: 1H4O4RMVEbsIEd68QoguDR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c9b2ee93bd1b691899f0e96a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c9b2ee93bd1b691899f0e96a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c9b2ee93bd1b691899f0e96a
+            is_playable: true
+            name: New Wave Pop Hits
+            release_date: '2021-02-12'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:1H4O4RMVEbsIEd68QoguDR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 354933
+          explicit: false
+          external_ids:
+            isrc: USEE10500788
+          external_urls:
+            spotify: https://open.spotify.com/track/5kw9KkeBlF6XK2ngmu88Q8
+          href: https://api.spotify.com/v1/tracks/5kw9KkeBlF6XK2ngmu88Q8
+          id: 5kw9KkeBlF6XK2ngmu88Q8
+          is_local: false
+          is_playable: true
+          name: A Forest
+          track_number: 10
+          type: track
+          uri: spotify:track:5kw9KkeBlF6XK2ngmu88Q8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0bkmwScLOGKuowZlCxEZGN
+            href: https://api.spotify.com/v1/albums/0bkmwScLOGKuowZlCxEZGN
+            id: 0bkmwScLOGKuowZlCxEZGN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739c35e59005d80a3ad8aa8fc7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029c35e59005d80a3ad8aa8fc7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519c35e59005d80a3ad8aa8fc7
+            is_playable: true
+            name: fall favorites
+            release_date: '2024-10-03'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:0bkmwScLOGKuowZlCxEZGN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 354933
+          explicit: false
+          external_ids:
+            isrc: USEE10500788
+          external_urls:
+            spotify: https://open.spotify.com/track/5E7Hyn0UPVxwL5tbJojZ1h
+          href: https://api.spotify.com/v1/tracks/5E7Hyn0UPVxwL5tbJojZ1h
+          id: 5E7Hyn0UPVxwL5tbJojZ1h
+          is_local: false
+          is_playable: true
+          name: A Forest
+          track_number: 2
+          type: track
+          uri: spotify:track:5E7Hyn0UPVxwL5tbJojZ1h
+    isrc: USEE10500788

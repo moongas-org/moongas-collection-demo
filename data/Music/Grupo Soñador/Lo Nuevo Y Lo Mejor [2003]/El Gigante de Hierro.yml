@@ -34,3 +34,126 @@ mediaFileData:
   year: 2003
   duration: 213.816
   modTime: 2023-09-22 17:56:36+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub
+    trackId: 4HswuCNDyzUiRFfb8DH5Ub
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMHUY1452432&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF
+              href: https://api.spotify.com/v1/artists/2EliUhznUrwHp1yJvhlHQF
+              id: 2EliUhznUrwHp1yJvhlHQF
+              name: Grupo Soñador
+              type: artist
+              uri: spotify:artist:2EliUhznUrwHp1yJvhlHQF
+            external_urls:
+              spotify: https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ
+            href: https://api.spotify.com/v1/albums/7qIY0P5qM0LzI1SYx9r8dZ
+            id: 7qIY0P5qM0LzI1SYx9r8dZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273de2cc0f6da8a19f32684c2f9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02de2cc0f6da8a19f32684c2f9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851de2cc0f6da8a19f32684c2f9
+            is_playable: true
+            name: Lo Nuevo Y…Lo Mejor
+            release_date: '2003-02-25'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7qIY0P5qM0LzI1SYx9r8dZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF
+            href: https://api.spotify.com/v1/artists/2EliUhznUrwHp1yJvhlHQF
+            id: 2EliUhznUrwHp1yJvhlHQF
+            name: Grupo Soñador
+            type: artist
+            uri: spotify:artist:2EliUhznUrwHp1yJvhlHQF
+          disc_number: 1
+          duration_ms: 216346
+          explicit: false
+          external_ids:
+            isrc: QMHUY1452432
+          external_urls:
+            spotify: https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub
+          href: https://api.spotify.com/v1/tracks/4HswuCNDyzUiRFfb8DH5Ub
+          id: 4HswuCNDyzUiRFfb8DH5Ub
+          is_local: false
+          is_playable: true
+          name: El Gigante De Hierro
+          track_number: 1
+          type: track
+          uri: spotify:track:4HswuCNDyzUiRFfb8DH5Ub
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF
+              href: https://api.spotify.com/v1/artists/2EliUhznUrwHp1yJvhlHQF
+              id: 2EliUhznUrwHp1yJvhlHQF
+              name: Grupo Soñador
+              type: artist
+              uri: spotify:artist:2EliUhznUrwHp1yJvhlHQF
+            external_urls:
+              spotify: https://open.spotify.com/album/13rJhr0lQ0LiCV1hyM3kiD
+            href: https://api.spotify.com/v1/albums/13rJhr0lQ0LiCV1hyM3kiD
+            id: 13rJhr0lQ0LiCV1hyM3kiD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736ad94407d99467a56e00c5b5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026ad94407d99467a56e00c5b5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516ad94407d99467a56e00c5b5
+            is_playable: true
+            name: Lo Nuevo Y... Lo Mejor
+            release_date: '2002-12-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:13rJhr0lQ0LiCV1hyM3kiD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF
+            href: https://api.spotify.com/v1/artists/2EliUhznUrwHp1yJvhlHQF
+            id: 2EliUhznUrwHp1yJvhlHQF
+            name: Grupo Soñador
+            type: artist
+            uri: spotify:artist:2EliUhznUrwHp1yJvhlHQF
+          disc_number: 1
+          duration_ms: 216409
+          explicit: false
+          external_ids:
+            isrc: QMHUY1452432
+          external_urls:
+            spotify: https://open.spotify.com/track/2OO8v3oKEDNvOfQkXWkNtM
+          href: https://api.spotify.com/v1/tracks/2OO8v3oKEDNvOfQkXWkNtM
+          id: 2OO8v3oKEDNvOfQkXWkNtM
+          is_local: false
+          is_playable: true
+          name: El Gigante de Hierro
+          track_number: 1
+          type: track
+          uri: spotify:track:2OO8v3oKEDNvOfQkXWkNtM
+    isrc: QMHUY1452432

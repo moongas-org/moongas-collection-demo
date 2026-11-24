@@ -34,3 +34,72 @@ mediaFileData:
   year: 1994
   duration: 116.48
   modTime: 2024-10-03 02:03:50.034054+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2skKFKQfp55tHysdLjzkoy
+    trackId: 2skKFKQfp55tHysdLjzkoy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMDA71488281&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy
+              href: https://api.spotify.com/v1/artists/30uiS1n3uIGXJEYFR1GVDy
+              id: 30uiS1n3uIGXJEYFR1GVDy
+              name: The Brian Jonestown Massacre
+              type: artist
+              uri: spotify:artist:30uiS1n3uIGXJEYFR1GVDy
+            external_urls:
+              spotify: https://open.spotify.com/album/0kbjBNZg5JZiKfq2jHeXe1
+            href: https://api.spotify.com/v1/albums/0kbjBNZg5JZiKfq2jHeXe1
+            id: 0kbjBNZg5JZiKfq2jHeXe1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e16d9104ce82f425635914eb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e16d9104ce82f425635914eb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e16d9104ce82f425635914eb
+            is_playable: true
+            name: Revelation
+            release_date: '2014-05-19'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0kbjBNZg5JZiKfq2jHeXe1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy
+            href: https://api.spotify.com/v1/artists/30uiS1n3uIGXJEYFR1GVDy
+            id: 30uiS1n3uIGXJEYFR1GVDy
+            name: The Brian Jonestown Massacre
+            type: artist
+            uri: spotify:artist:30uiS1n3uIGXJEYFR1GVDy
+          disc_number: 1
+          duration_ms: 116440
+          explicit: false
+          external_ids:
+            isrc: QMDA71488281
+          external_urls:
+            spotify: https://open.spotify.com/track/2skKFKQfp55tHysdLjzkoy
+          href: https://api.spotify.com/v1/tracks/2skKFKQfp55tHysdLjzkoy
+          id: 2skKFKQfp55tHysdLjzkoy
+          is_local: false
+          is_playable: true
+          name: Unknown
+          track_number: 3
+          type: track
+          uri: spotify:track:2skKFKQfp55tHysdLjzkoy
+    isrc: QMDA71488281

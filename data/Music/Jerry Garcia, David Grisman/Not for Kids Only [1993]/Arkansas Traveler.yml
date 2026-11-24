@@ -41,3 +41,154 @@ mediaFileData:
   year: 1993
   duration: 208.872
   modTime: 2023-11-27 16:33:24.039100+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5ZwMLAujEqW9z5KKNm4iQr
+    trackId: 5ZwMLAujEqW9z5KKNm4iQr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAD49900435&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN
+              href: https://api.spotify.com/v1/artists/3QDaXfnxfQqqJQK5lSdjLN
+              id: 3QDaXfnxfQqqJQK5lSdjLN
+              name: Jerry Garcia
+              type: artist
+              uri: spotify:artist:3QDaXfnxfQqqJQK5lSdjLN
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O
+              href: https://api.spotify.com/v1/artists/5udgy2xk333j33hKnwDz8O
+              id: 5udgy2xk333j33hKnwDz8O
+              name: David Grisman
+              type: artist
+              uri: spotify:artist:5udgy2xk333j33hKnwDz8O
+            external_urls:
+              spotify: https://open.spotify.com/album/4X0Cs5eEzNclatI4AAzPWI
+            href: https://api.spotify.com/v1/albums/4X0Cs5eEzNclatI4AAzPWI
+            id: 4X0Cs5eEzNclatI4AAzPWI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27312f58a898f525f2b1bf093e7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0212f58a898f525f2b1bf093e7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485112f58a898f525f2b1bf093e7
+            is_playable: true
+            name: Not For Kids Only
+            release_date: '1993-10-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4X0Cs5eEzNclatI4AAzPWI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN
+            href: https://api.spotify.com/v1/artists/3QDaXfnxfQqqJQK5lSdjLN
+            id: 3QDaXfnxfQqqJQK5lSdjLN
+            name: Jerry Garcia
+            type: artist
+            uri: spotify:artist:3QDaXfnxfQqqJQK5lSdjLN
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O
+            href: https://api.spotify.com/v1/artists/5udgy2xk333j33hKnwDz8O
+            id: 5udgy2xk333j33hKnwDz8O
+            name: David Grisman
+            type: artist
+            uri: spotify:artist:5udgy2xk333j33hKnwDz8O
+          disc_number: 1
+          duration_ms: 208840
+          explicit: false
+          external_ids:
+            isrc: USAD49900435
+          external_urls:
+            spotify: https://open.spotify.com/track/5ZwMLAujEqW9z5KKNm4iQr
+          href: https://api.spotify.com/v1/tracks/5ZwMLAujEqW9z5KKNm4iQr
+          id: 5ZwMLAujEqW9z5KKNm4iQr
+          is_local: false
+          is_playable: true
+          name: Arkansas Traveler
+          track_number: 6
+          type: track
+          uri: spotify:track:5ZwMLAujEqW9z5KKNm4iQr
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN
+              href: https://api.spotify.com/v1/artists/3QDaXfnxfQqqJQK5lSdjLN
+              id: 3QDaXfnxfQqqJQK5lSdjLN
+              name: Jerry Garcia
+              type: artist
+              uri: spotify:artist:3QDaXfnxfQqqJQK5lSdjLN
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O
+              href: https://api.spotify.com/v1/artists/5udgy2xk333j33hKnwDz8O
+              id: 5udgy2xk333j33hKnwDz8O
+              name: David Grisman
+              type: artist
+              uri: spotify:artist:5udgy2xk333j33hKnwDz8O
+            external_urls:
+              spotify: https://open.spotify.com/album/5PALucW8pi5lOh1s2nahon
+            href: https://api.spotify.com/v1/albums/5PALucW8pi5lOh1s2nahon
+            id: 5PALucW8pi5lOh1s2nahon
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27390adfc80be1ede91c512d986
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0290adfc80be1ede91c512d986
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485190adfc80be1ede91c512d986
+            is_playable: true
+            name: Not For Kids Only (Deluxe Edition)
+            release_date: '2025-11-21'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:5PALucW8pi5lOh1s2nahon
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN
+            href: https://api.spotify.com/v1/artists/3QDaXfnxfQqqJQK5lSdjLN
+            id: 3QDaXfnxfQqqJQK5lSdjLN
+            name: Jerry Garcia
+            type: artist
+            uri: spotify:artist:3QDaXfnxfQqqJQK5lSdjLN
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O
+            href: https://api.spotify.com/v1/artists/5udgy2xk333j33hKnwDz8O
+            id: 5udgy2xk333j33hKnwDz8O
+            name: David Grisman
+            type: artist
+            uri: spotify:artist:5udgy2xk333j33hKnwDz8O
+          disc_number: 1
+          duration_ms: 207990
+          explicit: false
+          external_ids:
+            isrc: USAD49900435
+          external_urls:
+            spotify: https://open.spotify.com/track/3EDAJaDTQvcEQ129Lsf1Mo
+          href: https://api.spotify.com/v1/tracks/3EDAJaDTQvcEQ129Lsf1Mo
+          id: 3EDAJaDTQvcEQ129Lsf1Mo
+          is_local: false
+          is_playable: true
+          name: Arkansas Traveler
+          track_number: 6
+          type: track
+          uri: spotify:track:3EDAJaDTQvcEQ129Lsf1Mo
+    isrc: USAD49900435

@@ -34,3 +34,126 @@ mediaFileData:
   year: 2009
   duration: 169.5869387755102
   modTime: 2026-09-01 01:03:54.766777+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0efOcwHeuAb6wQKEhxY6Kw
+    trackId: 0efOcwHeuAb6wQKEhxY6Kw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ACAN110801239&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k
+              href: https://api.spotify.com/v1/artists/4foARo5aSfuIuDLupoxK4k
+              id: 4foARo5aSfuIuDLupoxK4k
+              name: Datarock
+              type: artist
+              uri: spotify:artist:4foARo5aSfuIuDLupoxK4k
+            external_urls:
+              spotify: https://open.spotify.com/album/1gDAyA3zu3oi7EYdG3c2LY
+            href: https://api.spotify.com/v1/albums/1gDAyA3zu3oi7EYdG3c2LY
+            id: 1gDAyA3zu3oi7EYdG3c2LY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730fa67b3d5658022a250578f3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020fa67b3d5658022a250578f3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510fa67b3d5658022a250578f3
+            is_playable: true
+            name: Red
+            release_date: '2009-06-08'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:1gDAyA3zu3oi7EYdG3c2LY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k
+            href: https://api.spotify.com/v1/artists/4foARo5aSfuIuDLupoxK4k
+            id: 4foARo5aSfuIuDLupoxK4k
+            name: Datarock
+            type: artist
+            uri: spotify:artist:4foARo5aSfuIuDLupoxK4k
+          disc_number: 1
+          duration_ms: 169519
+          explicit: false
+          external_ids:
+            isrc: CAN110801239
+          external_urls:
+            spotify: https://open.spotify.com/track/0efOcwHeuAb6wQKEhxY6Kw
+          href: https://api.spotify.com/v1/tracks/0efOcwHeuAb6wQKEhxY6Kw
+          id: 0efOcwHeuAb6wQKEhxY6Kw
+          is_local: false
+          is_playable: true
+          name: True Stories
+          track_number: 3
+          type: track
+          uri: spotify:track:0efOcwHeuAb6wQKEhxY6Kw
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k
+              href: https://api.spotify.com/v1/artists/4foARo5aSfuIuDLupoxK4k
+              id: 4foARo5aSfuIuDLupoxK4k
+              name: Datarock
+              type: artist
+              uri: spotify:artist:4foARo5aSfuIuDLupoxK4k
+            external_urls:
+              spotify: https://open.spotify.com/album/1Lo47wVW3zYf0B8LTbuukG
+            href: https://api.spotify.com/v1/albums/1Lo47wVW3zYf0B8LTbuukG
+            id: 1Lo47wVW3zYf0B8LTbuukG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734730e6389d024b7bb6eb602d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024730e6389d024b7bb6eb602d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514730e6389d024b7bb6eb602d
+            is_playable: true
+            name: True Stories
+            release_date: '2009-08-14'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:1Lo47wVW3zYf0B8LTbuukG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k
+            href: https://api.spotify.com/v1/artists/4foARo5aSfuIuDLupoxK4k
+            id: 4foARo5aSfuIuDLupoxK4k
+            name: Datarock
+            type: artist
+            uri: spotify:artist:4foARo5aSfuIuDLupoxK4k
+          disc_number: 1
+          duration_ms: 169519
+          explicit: false
+          external_ids:
+            isrc: CAN110801239
+          external_urls:
+            spotify: https://open.spotify.com/track/6nyrBGON6kWl2ZKU0kyB6N
+          href: https://api.spotify.com/v1/tracks/6nyrBGON6kWl2ZKU0kyB6N
+          id: 6nyrBGON6kWl2ZKU0kyB6N
+          is_local: false
+          is_playable: true
+          name: True Stories
+          track_number: 1
+          type: track
+          uri: spotify:track:6nyrBGON6kWl2ZKU0kyB6N
+    isrc: CAN110801239

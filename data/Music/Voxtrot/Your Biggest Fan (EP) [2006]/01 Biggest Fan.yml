@@ -34,3 +34,126 @@ mediaFileData:
   year: 2006
   duration: 240.4
   modTime: 2023-06-24 01:53:44+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2rcDm99cPBRn6HcxAQ9u0G
+    trackId: 2rcDm99cPBRn6HcxAQ9u0G
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKU0600049&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW
+              href: https://api.spotify.com/v1/artists/7b697TI9p2abLzSo3eJTKW
+              id: 7b697TI9p2abLzSo3eJTKW
+              name: Voxtrot
+              type: artist
+              uri: spotify:artist:7b697TI9p2abLzSo3eJTKW
+            external_urls:
+              spotify: https://open.spotify.com/album/5fVDkpzkAz2ijlREAJjrNL
+            href: https://api.spotify.com/v1/albums/5fVDkpzkAz2ijlREAJjrNL
+            id: 5fVDkpzkAz2ijlREAJjrNL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fe4bcb3c9e2b824fc6e8da2f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fe4bcb3c9e2b824fc6e8da2f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fe4bcb3c9e2b824fc6e8da2f
+            is_playable: true
+            name: Your Biggest Fan
+            release_date: '2006-11-07'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:5fVDkpzkAz2ijlREAJjrNL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW
+            href: https://api.spotify.com/v1/artists/7b697TI9p2abLzSo3eJTKW
+            id: 7b697TI9p2abLzSo3eJTKW
+            name: Voxtrot
+            type: artist
+            uri: spotify:artist:7b697TI9p2abLzSo3eJTKW
+          disc_number: 1
+          duration_ms: 238466
+          explicit: false
+          external_ids:
+            isrc: GBBKU0600049
+          external_urls:
+            spotify: https://open.spotify.com/track/2rcDm99cPBRn6HcxAQ9u0G
+          href: https://api.spotify.com/v1/tracks/2rcDm99cPBRn6HcxAQ9u0G
+          id: 2rcDm99cPBRn6HcxAQ9u0G
+          is_local: false
+          is_playable: true
+          name: Your Biggest Fan
+          track_number: 1
+          type: track
+          uri: spotify:track:2rcDm99cPBRn6HcxAQ9u0G
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW
+              href: https://api.spotify.com/v1/artists/7b697TI9p2abLzSo3eJTKW
+              id: 7b697TI9p2abLzSo3eJTKW
+              name: Voxtrot
+              type: artist
+              uri: spotify:artist:7b697TI9p2abLzSo3eJTKW
+            external_urls:
+              spotify: https://open.spotify.com/album/5Gcf4ESGXJg8gdMrmlNFVj
+            href: https://api.spotify.com/v1/albums/5Gcf4ESGXJg8gdMrmlNFVj
+            id: 5Gcf4ESGXJg8gdMrmlNFVj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a33bb7b0a4dac114317fa22f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a33bb7b0a4dac114317fa22f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a33bb7b0a4dac114317fa22f
+            is_playable: true
+            name: Trouble
+            release_date: '2007-02-26'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:5Gcf4ESGXJg8gdMrmlNFVj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW
+            href: https://api.spotify.com/v1/artists/7b697TI9p2abLzSo3eJTKW
+            id: 7b697TI9p2abLzSo3eJTKW
+            name: Voxtrot
+            type: artist
+            uri: spotify:artist:7b697TI9p2abLzSo3eJTKW
+          disc_number: 1
+          duration_ms: 238466
+          explicit: false
+          external_ids:
+            isrc: GBBKU0600049
+          external_urls:
+            spotify: https://open.spotify.com/track/4o4Swjmn37zcCfT4pn8Tto
+          href: https://api.spotify.com/v1/tracks/4o4Swjmn37zcCfT4pn8Tto
+          id: 4o4Swjmn37zcCfT4pn8Tto
+          is_local: false
+          is_playable: true
+          name: Your Biggest Fan
+          track_number: 2
+          type: track
+          uri: spotify:track:4o4Swjmn37zcCfT4pn8Tto
+    isrc: GBBKU0600049

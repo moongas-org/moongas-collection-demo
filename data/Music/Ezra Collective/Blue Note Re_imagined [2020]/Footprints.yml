@@ -34,3 +34,288 @@ mediaFileData:
   year: 2020
   duration: 381.83183673469387
   modTime: 2024-07-28 23:00:33.013041+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1Y1R4GVtxibyf4E4SX2Q3y
+    trackId: 1Y1R4GVtxibyf4E4SX2Q3y
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71907086&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBUM71907086&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W
+              href: https://api.spotify.com/v1/artists/5BRAUN0yN8557PLRZIr02W
+              id: 5BRAUN0yN8557PLRZIr02W
+              name: Ezra Collective
+              type: artist
+              uri: spotify:artist:5BRAUN0yN8557PLRZIr02W
+            external_urls:
+              spotify: https://open.spotify.com/album/4K02gs1yPH1O21lNGSx0HY
+            href: https://api.spotify.com/v1/albums/4K02gs1yPH1O21lNGSx0HY
+            id: 4K02gs1yPH1O21lNGSx0HY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27302b2d29996f34d0658e416fa
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0202b2d29996f34d0658e416fa
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485102b2d29996f34d0658e416fa
+            is_playable: true
+            name: Footprints
+            release_date: '2020-06-19'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:4K02gs1yPH1O21lNGSx0HY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W
+            href: https://api.spotify.com/v1/artists/5BRAUN0yN8557PLRZIr02W
+            id: 5BRAUN0yN8557PLRZIr02W
+            name: Ezra Collective
+            type: artist
+            uri: spotify:artist:5BRAUN0yN8557PLRZIr02W
+          disc_number: 1
+          duration_ms: 381093
+          explicit: false
+          external_ids:
+            isrc: GBUM71907086
+          external_urls:
+            spotify: https://open.spotify.com/track/1Y1R4GVtxibyf4E4SX2Q3y
+          href: https://api.spotify.com/v1/tracks/1Y1R4GVtxibyf4E4SX2Q3y
+          id: 1Y1R4GVtxibyf4E4SX2Q3y
+          is_local: false
+          is_playable: true
+          name: Footprints
+          track_number: 1
+          type: track
+          uri: spotify:track:1Y1R4GVtxibyf4E4SX2Q3y
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5afRcZQsR5aBGltG3kIM34
+            href: https://api.spotify.com/v1/albums/5afRcZQsR5aBGltG3kIM34
+            id: 5afRcZQsR5aBGltG3kIM34
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c83a30e7361a5957baf0bd64
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c83a30e7361a5957baf0bd64
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c83a30e7361a5957baf0bd64
+            is_playable: true
+            name: Blue Note Re:imagined
+            release_date: '2020-10-16'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:5afRcZQsR5aBGltG3kIM34
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W
+            href: https://api.spotify.com/v1/artists/5BRAUN0yN8557PLRZIr02W
+            id: 5BRAUN0yN8557PLRZIr02W
+            name: Ezra Collective
+            type: artist
+            uri: spotify:artist:5BRAUN0yN8557PLRZIr02W
+          disc_number: 1
+          duration_ms: 380746
+          explicit: false
+          external_ids:
+            isrc: GBUM71907086
+          external_urls:
+            spotify: https://open.spotify.com/track/5IKKbHUHrwTAABFfsNyurq
+          href: https://api.spotify.com/v1/tracks/5IKKbHUHrwTAABFfsNyurq
+          id: 5IKKbHUHrwTAABFfsNyurq
+          is_local: false
+          is_playable: true
+          name: Footprints
+          track_number: 2
+          type: track
+          uri: spotify:track:5IKKbHUHrwTAABFfsNyurq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1ywovqr8hiy3xdfdROB1GI
+            href: https://api.spotify.com/v1/albums/1ywovqr8hiy3xdfdROB1GI
+            id: 1ywovqr8hiy3xdfdROB1GI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273af8dcf8d5cc5d8aac1a8b48a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02af8dcf8d5cc5d8aac1a8b48a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851af8dcf8d5cc5d8aac1a8b48a
+            is_playable: true
+            name: When Jazz Meets Hip-Hop
+            release_date: '2023-04-30'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1ywovqr8hiy3xdfdROB1GI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W
+            href: https://api.spotify.com/v1/artists/5BRAUN0yN8557PLRZIr02W
+            id: 5BRAUN0yN8557PLRZIr02W
+            name: Ezra Collective
+            type: artist
+            uri: spotify:artist:5BRAUN0yN8557PLRZIr02W
+          disc_number: 1
+          duration_ms: 380746
+          explicit: false
+          external_ids:
+            isrc: GBUM71907086
+          external_urls:
+            spotify: https://open.spotify.com/track/1zxVFfdimerFqaC4j5PJU1
+          href: https://api.spotify.com/v1/tracks/1zxVFfdimerFqaC4j5PJU1
+          id: 1zxVFfdimerFqaC4j5PJU1
+          is_local: false
+          is_playable: true
+          name: Footprints
+          track_number: 2
+          type: track
+          uri: spotify:track:1zxVFfdimerFqaC4j5PJU1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5Y9VOvhwjSlwWvI4IVT49L
+            href: https://api.spotify.com/v1/albums/5Y9VOvhwjSlwWvI4IVT49L
+            id: 5Y9VOvhwjSlwWvI4IVT49L
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a6cc2847208f4833ff25b1b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a6cc2847208f4833ff25b1b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a6cc2847208f4833ff25b1b3
+            is_playable: true
+            name: Jazz with a Beat
+            release_date: '2025-11-29'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5Y9VOvhwjSlwWvI4IVT49L
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W
+            href: https://api.spotify.com/v1/artists/5BRAUN0yN8557PLRZIr02W
+            id: 5BRAUN0yN8557PLRZIr02W
+            name: Ezra Collective
+            type: artist
+            uri: spotify:artist:5BRAUN0yN8557PLRZIr02W
+          disc_number: 1
+          duration_ms: 380746
+          explicit: false
+          external_ids:
+            isrc: GBUM71907086
+          external_urls:
+            spotify: https://open.spotify.com/track/3nk85w9RabXNZrQjdcFI8Y
+          href: https://api.spotify.com/v1/tracks/3nk85w9RabXNZrQjdcFI8Y
+          id: 3nk85w9RabXNZrQjdcFI8Y
+          is_local: false
+          is_playable: true
+          name: Footprints
+          track_number: 3
+          type: track
+          uri: spotify:track:3nk85w9RabXNZrQjdcFI8Y
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5H6SK69bVpnKuWXiChaDU8
+            href: https://api.spotify.com/v1/albums/5H6SK69bVpnKuWXiChaDU8
+            id: 5H6SK69bVpnKuWXiChaDU8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731e99973c02db4f126454a64a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021e99973c02db4f126454a64a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511e99973c02db4f126454a64a
+            is_playable: true
+            name: 'Hip-Hop 50: Jazz x Hip-Hop'
+            release_date: '2023-09-13'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:5H6SK69bVpnKuWXiChaDU8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W
+            href: https://api.spotify.com/v1/artists/5BRAUN0yN8557PLRZIr02W
+            id: 5BRAUN0yN8557PLRZIr02W
+            name: Ezra Collective
+            type: artist
+            uri: spotify:artist:5BRAUN0yN8557PLRZIr02W
+          disc_number: 1
+          duration_ms: 380746
+          explicit: false
+          external_ids:
+            isrc: GBUM71907086
+          external_urls:
+            spotify: https://open.spotify.com/track/5buRFPxtVhnpBESPwQzFug
+          href: https://api.spotify.com/v1/tracks/5buRFPxtVhnpBESPwQzFug
+          id: 5buRFPxtVhnpBESPwQzFug
+          is_local: false
+          is_playable: true
+          name: Footprints
+          track_number: 14
+          type: track
+          uri: spotify:track:5buRFPxtVhnpBESPwQzFug
+    isrc: GBUM71907086

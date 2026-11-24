@@ -80,3 +80,72 @@ mediaFileData:
   year: 1976
   duration: 274.08
   modTime: 2024-10-07 21:03:26.514516+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7HfEI1saDVDwDkPIzkZAPW
+    trackId: 7HfEI1saDVDwDkPIzkZAPW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCH38800009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV
+              href: https://api.spotify.com/v1/artists/43mhFhQ4JAknA7Ik1bOZuV
+              id: 43mhFhQ4JAknA7Ik1bOZuV
+              name: Pat Benatar
+              type: artist
+              uri: spotify:artist:43mhFhQ4JAknA7Ik1bOZuV
+            external_urls:
+              spotify: https://open.spotify.com/album/3Nrz0eEXlIM0Nbtak7PFcH
+            href: https://api.spotify.com/v1/albums/3Nrz0eEXlIM0Nbtak7PFcH
+            id: 3Nrz0eEXlIM0Nbtak7PFcH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a40eb36757206bcf8d600c32
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a40eb36757206bcf8d600c32
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a40eb36757206bcf8d600c32
+            is_playable: true
+            name: Ultimate Collection
+            release_date: '2008-01-01'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:3Nrz0eEXlIM0Nbtak7PFcH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV
+            href: https://api.spotify.com/v1/artists/43mhFhQ4JAknA7Ik1bOZuV
+            id: 43mhFhQ4JAknA7Ik1bOZuV
+            name: Pat Benatar
+            type: artist
+            uri: spotify:artist:43mhFhQ4JAknA7Ik1bOZuV
+          disc_number: 2
+          duration_ms: 250682
+          explicit: false
+          external_ids:
+            isrc: USCH38800009
+          external_urls:
+            spotify: https://open.spotify.com/track/7HfEI1saDVDwDkPIzkZAPW
+          href: https://api.spotify.com/v1/tracks/7HfEI1saDVDwDkPIzkZAPW
+          id: 7HfEI1saDVDwDkPIzkZAPW
+          is_local: false
+          is_playable: true
+          name: All Fired Up - Single Version
+          track_number: 9
+          type: track
+          uri: spotify:track:7HfEI1saDVDwDkPIzkZAPW
+    isrc: USCH38800009

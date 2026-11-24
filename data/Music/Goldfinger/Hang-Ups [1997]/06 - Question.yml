@@ -34,3 +34,72 @@ mediaFileData:
   year: 1996
   duration: 178.392
   modTime: 2025-01-09 02:47:15.119445+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/54fZzxsreRmmE0O5QerG0A
+    trackId: 54fZzxsreRmmE0O5QerG0A
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMJ19700136&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM
+              href: https://api.spotify.com/v1/artists/7sVQKNtdP2NylxMgbNOJMM
+              id: 7sVQKNtdP2NylxMgbNOJMM
+              name: Goldfinger
+              type: artist
+              uri: spotify:artist:7sVQKNtdP2NylxMgbNOJMM
+            external_urls:
+              spotify: https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56
+            href: https://api.spotify.com/v1/albums/3htGAnJ90pQHse0tRzxC56
+            id: 3htGAnJ90pQHse0tRzxC56
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735e25d83362d98523fb82fc0d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025e25d83362d98523fb82fc0d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515e25d83362d98523fb82fc0d
+            is_playable: true
+            name: Hang-Ups
+            release_date: '1998-06-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:3htGAnJ90pQHse0tRzxC56
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM
+            href: https://api.spotify.com/v1/artists/7sVQKNtdP2NylxMgbNOJMM
+            id: 7sVQKNtdP2NylxMgbNOJMM
+            name: Goldfinger
+            type: artist
+            uri: spotify:artist:7sVQKNtdP2NylxMgbNOJMM
+          disc_number: 1
+          duration_ms: 178360
+          explicit: false
+          external_ids:
+            isrc: USMJ19700136
+          external_urls:
+            spotify: https://open.spotify.com/track/54fZzxsreRmmE0O5QerG0A
+          href: https://api.spotify.com/v1/tracks/54fZzxsreRmmE0O5QerG0A
+          id: 54fZzxsreRmmE0O5QerG0A
+          is_local: false
+          is_playable: true
+          name: Question
+          track_number: 6
+          type: track
+          uri: spotify:track:54fZzxsreRmmE0O5QerG0A
+    isrc: USMJ19700136

@@ -62,3 +62,72 @@ mediaFileData:
   year: 1994
   duration: 198.81795
   modTime: 2023-09-24 10:57:22+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/33W60IwzSxvHUUZQCjWYtV
+    trackId: 33W60IwzSxvHUUZQCjWYtV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEM30200324&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/186UL3Mfl8caFwMUTFiICc
+            href: https://api.spotify.com/v1/albums/186UL3Mfl8caFwMUTFiICc
+            id: 186UL3Mfl8caFwMUTFiICc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273064a421f8b68c9d8cd798161
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02064a421f8b68c9d8cd798161
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851064a421f8b68c9d8cd798161
+            is_playable: true
+            name: Mother's Milk
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:186UL3Mfl8caFwMUTFiICc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 199946
+          explicit: true
+          external_ids:
+            isrc: USEM30200324
+          external_urls:
+            spotify: https://open.spotify.com/track/33W60IwzSxvHUUZQCjWYtV
+          href: https://api.spotify.com/v1/tracks/33W60IwzSxvHUUZQCjWYtV
+          id: 33W60IwzSxvHUUZQCjWYtV
+          is_local: false
+          is_playable: true
+          name: Castles Made of Sand - Live
+          track_number: 18
+          type: track
+          uri: spotify:track:33W60IwzSxvHUUZQCjWYtV
+    isrc: USEM30200324

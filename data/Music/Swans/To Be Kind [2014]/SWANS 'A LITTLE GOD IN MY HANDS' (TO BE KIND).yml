@@ -45,3 +45,126 @@ mediaFileData:
   year: 2014
   duration: 428.25142857142856
   modTime: 2023-04-03 00:28:09.140000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2wFhPq645NVD2eouKwldOa
+    trackId: 2wFhPq645NVD2eouKwldOa
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAST1462303&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA
+              href: https://api.spotify.com/v1/artists/79S80ZWgVhIPMCHuvl6SkA
+              id: 79S80ZWgVhIPMCHuvl6SkA
+              name: Swans
+              type: artist
+              uri: spotify:artist:79S80ZWgVhIPMCHuvl6SkA
+            external_urls:
+              spotify: https://open.spotify.com/album/4IC5QJN7m0SWd1R7dfFpQo
+            href: https://api.spotify.com/v1/albums/4IC5QJN7m0SWd1R7dfFpQo
+            id: 4IC5QJN7m0SWd1R7dfFpQo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a3f4e85954f746fec10eeb04
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a3f4e85954f746fec10eeb04
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a3f4e85954f746fec10eeb04
+            is_playable: true
+            name: A Little God In My Hands
+            release_date: '2014-03-31'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:4IC5QJN7m0SWd1R7dfFpQo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA
+            href: https://api.spotify.com/v1/artists/79S80ZWgVhIPMCHuvl6SkA
+            id: 79S80ZWgVhIPMCHuvl6SkA
+            name: Swans
+            type: artist
+            uri: spotify:artist:79S80ZWgVhIPMCHuvl6SkA
+          disc_number: 1
+          duration_ms: 428173
+          explicit: false
+          external_ids:
+            isrc: USAST1462303
+          external_urls:
+            spotify: https://open.spotify.com/track/2wFhPq645NVD2eouKwldOa
+          href: https://api.spotify.com/v1/tracks/2wFhPq645NVD2eouKwldOa
+          id: 2wFhPq645NVD2eouKwldOa
+          is_local: false
+          is_playable: true
+          name: A Little God In My Hands
+          track_number: 1
+          type: track
+          uri: spotify:track:2wFhPq645NVD2eouKwldOa
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA
+              href: https://api.spotify.com/v1/artists/79S80ZWgVhIPMCHuvl6SkA
+              id: 79S80ZWgVhIPMCHuvl6SkA
+              name: Swans
+              type: artist
+              uri: spotify:artist:79S80ZWgVhIPMCHuvl6SkA
+            external_urls:
+              spotify: https://open.spotify.com/album/4dq7JNcHKrnozzFQg5bpmn
+            href: https://api.spotify.com/v1/albums/4dq7JNcHKrnozzFQg5bpmn
+            id: 4dq7JNcHKrnozzFQg5bpmn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a18843206ad1d8a98d1487ef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a18843206ad1d8a98d1487ef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a18843206ad1d8a98d1487ef
+            is_playable: true
+            name: To Be Kind
+            release_date: '2014-05-13'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4dq7JNcHKrnozzFQg5bpmn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA
+            href: https://api.spotify.com/v1/artists/79S80ZWgVhIPMCHuvl6SkA
+            id: 79S80ZWgVhIPMCHuvl6SkA
+            name: Swans
+            type: artist
+            uri: spotify:artist:79S80ZWgVhIPMCHuvl6SkA
+          disc_number: 1
+          duration_ms: 428173
+          explicit: false
+          external_ids:
+            isrc: USAST1462303
+          external_urls:
+            spotify: https://open.spotify.com/track/0Tvwpko17Jh8sXIh9h4vth
+          href: https://api.spotify.com/v1/tracks/0Tvwpko17Jh8sXIh9h4vth
+          id: 0Tvwpko17Jh8sXIh9h4vth
+          is_local: false
+          is_playable: true
+          name: A Little God In My Hands
+          track_number: 3
+          type: track
+          uri: spotify:track:0Tvwpko17Jh8sXIh9h4vth
+    isrc: USAST1462303

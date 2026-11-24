@@ -45,3 +45,126 @@ mediaFileData:
   year: 1994
   duration: 233.586925
   modTime: 2023-05-14 00:55:16.460000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4eXiMlObvVfbMMZ21rJsQv
+    trackId: 4eXiMlObvVfbMMZ21rJsQv
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD9407905&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/0AvxX8zXHu408xmPqRd0mN
+            href: https://api.spotify.com/v1/albums/0AvxX8zXHu408xmPqRd0mN
+            id: 0AvxX8zXHu408xmPqRd0mN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c18dadb01139540f67835d30
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c18dadb01139540f67835d30
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c18dadb01139540f67835d30
+            is_playable: true
+            name: "Crooked Rain, Crooked Rain: LA's Desert Origins"
+            release_date: '2004-10-26'
+            release_date_precision: day
+            total_tracks: 49
+            type: album
+            uri: spotify:album:0AvxX8zXHu408xmPqRd0mN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 233706
+          explicit: false
+          external_ids:
+            isrc: USMTD9407905
+          external_urls:
+            spotify: https://open.spotify.com/track/4eXiMlObvVfbMMZ21rJsQv
+          href: https://api.spotify.com/v1/tracks/4eXiMlObvVfbMMZ21rJsQv
+          id: 4eXiMlObvVfbMMZ21rJsQv
+          is_local: false
+          is_playable: true
+          name: Newark Wilder
+          track_number: 5
+          type: track
+          uri: spotify:track:4eXiMlObvVfbMMZ21rJsQv
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP
+            href: https://api.spotify.com/v1/albums/1XFNz6KIvLyIsLFOiLRKqP
+            id: 1XFNz6KIvLyIsLFOiLRKqP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b893831d1a12d3d4024a5867
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b893831d1a12d3d4024a5867
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b893831d1a12d3d4024a5867
+            is_playable: true
+            name: Crooked Rain, Crooked Rain
+            release_date: '1994-02-14'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1XFNz6KIvLyIsLFOiLRKqP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 233706
+          explicit: false
+          external_ids:
+            isrc: USMTD9407905
+          external_urls:
+            spotify: https://open.spotify.com/track/2jbmKdUnKuAoNhWDZwmz9u
+          href: https://api.spotify.com/v1/tracks/2jbmKdUnKuAoNhWDZwmz9u
+          id: 2jbmKdUnKuAoNhWDZwmz9u
+          is_local: false
+          is_playable: true
+          name: Newark Wilder
+          track_number: 5
+          type: track
+          uri: spotify:track:2jbmKdUnKuAoNhWDZwmz9u
+    isrc: USMTD9407905

@@ -52,3 +52,126 @@ mediaFileData:
   year: 1973
   duration: 118.6743125
   modTime: 2023-07-17 00:13:28+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7po4gngSAUkvNAGspwucVe
+    trackId: 7po4gngSAUkvNAGspwucVe
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM17200742&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO
+              href: https://api.spotify.com/v1/artists/3Ao7NH7lRyQAeKQg2mlTcO
+              id: 3Ao7NH7lRyQAeKQg2mlTcO
+              name: Mahavishnu Orchestra
+              type: artist
+              uri: spotify:artist:3Ao7NH7lRyQAeKQg2mlTcO
+            external_urls:
+              spotify: https://open.spotify.com/album/6SLknspfGod3v3TyWawl8J
+            href: https://api.spotify.com/v1/albums/6SLknspfGod3v3TyWawl8J
+            id: 6SLknspfGod3v3TyWawl8J
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a0edf8119d8326ed45b45bdc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a0edf8119d8326ed45b45bdc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a0edf8119d8326ed45b45bdc
+            is_playable: true
+            name: Birds Of Fire
+            release_date: '1973-03-26'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6SLknspfGod3v3TyWawl8J
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO
+            href: https://api.spotify.com/v1/artists/3Ao7NH7lRyQAeKQg2mlTcO
+            id: 3Ao7NH7lRyQAeKQg2mlTcO
+            name: Mahavishnu Orchestra
+            type: artist
+            uri: spotify:artist:3Ao7NH7lRyQAeKQg2mlTcO
+          disc_number: 1
+          duration_ms: 115200
+          explicit: false
+          external_ids:
+            isrc: USSM17200742
+          external_urls:
+            spotify: https://open.spotify.com/track/7po4gngSAUkvNAGspwucVe
+          href: https://api.spotify.com/v1/tracks/7po4gngSAUkvNAGspwucVe
+          id: 7po4gngSAUkvNAGspwucVe
+          is_local: false
+          is_playable: true
+          name: Hope
+          track_number: 6
+          type: track
+          uri: spotify:track:7po4gngSAUkvNAGspwucVe
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO
+              href: https://api.spotify.com/v1/artists/3Ao7NH7lRyQAeKQg2mlTcO
+              id: 3Ao7NH7lRyQAeKQg2mlTcO
+              name: Mahavishnu Orchestra
+              type: artist
+              uri: spotify:artist:3Ao7NH7lRyQAeKQg2mlTcO
+            external_urls:
+              spotify: https://open.spotify.com/album/7EyCwHZotmHlLK9IvKswJ4
+            href: https://api.spotify.com/v1/albums/7EyCwHZotmHlLK9IvKswJ4
+            id: 7EyCwHZotmHlLK9IvKswJ4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27374c8a307ae024f78a126ad73
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0274c8a307ae024f78a126ad73
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485174c8a307ae024f78a126ad73
+            is_playable: true
+            name: The Essential Mahavishnu Orchestra with John McLaughlin (with John McLaughlin)
+            release_date: '2013-09-03'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:7EyCwHZotmHlLK9IvKswJ4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO
+            href: https://api.spotify.com/v1/artists/3Ao7NH7lRyQAeKQg2mlTcO
+            id: 3Ao7NH7lRyQAeKQg2mlTcO
+            name: Mahavishnu Orchestra
+            type: artist
+            uri: spotify:artist:3Ao7NH7lRyQAeKQg2mlTcO
+          disc_number: 1
+          duration_ms: 116133
+          explicit: false
+          external_ids:
+            isrc: USSM17200742
+          external_urls:
+            spotify: https://open.spotify.com/track/0hwrBdOrxtzqQMp9dmMjLX
+          href: https://api.spotify.com/v1/tracks/0hwrBdOrxtzqQMp9dmMjLX
+          id: 0hwrBdOrxtzqQMp9dmMjLX
+          is_local: false
+          is_playable: true
+          name: Hope
+          track_number: 11
+          type: track
+          uri: spotify:track:0hwrBdOrxtzqQMp9dmMjLX
+    isrc: USSM17200742

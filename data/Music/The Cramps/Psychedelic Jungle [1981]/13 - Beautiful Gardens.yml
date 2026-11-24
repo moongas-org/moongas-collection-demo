@@ -34,3 +34,72 @@ mediaFileData:
   year: 1981
   duration: 239.4
   modTime: 2025-04-07 23:54:27.738189+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3UStYGrS9pTMLlVvrHfdWp
+    trackId: 3UStYGrS9pTMLlVvrHfdWp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA28100209&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+              href: https://api.spotify.com/v1/artists/4lYtGx5NZQJHsMyhHc5iz3
+              id: 4lYtGx5NZQJHsMyhHc5iz3
+              name: The Cramps
+              type: artist
+              uri: spotify:artist:4lYtGx5NZQJHsMyhHc5iz3
+            external_urls:
+              spotify: https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn
+            href: https://api.spotify.com/v1/albums/111E8uRgwGQo9YJJBvpALn
+            id: 111E8uRgwGQo9YJJBvpALn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273133d663963bdaa99891a5cee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02133d663963bdaa99891a5cee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851133d663963bdaa99891a5cee
+            is_playable: true
+            name: Psychedelic Jungle
+            release_date: '1981-05-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:111E8uRgwGQo9YJJBvpALn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+            href: https://api.spotify.com/v1/artists/4lYtGx5NZQJHsMyhHc5iz3
+            id: 4lYtGx5NZQJHsMyhHc5iz3
+            name: The Cramps
+            type: artist
+            uri: spotify:artist:4lYtGx5NZQJHsMyhHc5iz3
+          disc_number: 1
+          duration_ms: 239360
+          explicit: false
+          external_ids:
+            isrc: USCA28100209
+          external_urls:
+            spotify: https://open.spotify.com/track/3UStYGrS9pTMLlVvrHfdWp
+          href: https://api.spotify.com/v1/tracks/3UStYGrS9pTMLlVvrHfdWp
+          id: 3UStYGrS9pTMLlVvrHfdWp
+          is_local: false
+          is_playable: true
+          name: Beautiful Gardens
+          track_number: 13
+          type: track
+          uri: spotify:track:3UStYGrS9pTMLlVvrHfdWp
+    isrc: USCA28100209

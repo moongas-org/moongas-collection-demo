@@ -34,3 +34,126 @@ mediaFileData:
   year: 1999
   duration: 152.9208163265306
   modTime: 2024-07-18 02:13:49.772137+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1tx6e1MsqKdTMFZf8v3JyN
+    trackId: 1tx6e1MsqKdTMFZf8v3JyN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC19808386&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp
+              href: https://api.spotify.com/v1/artists/5mgr0FFpvy267wKVAYg8qp
+              id: 5mgr0FFpvy267wKVAYg8qp
+              name: Lit
+              type: artist
+              uri: spotify:artist:5mgr0FFpvy267wKVAYg8qp
+            external_urls:
+              spotify: https://open.spotify.com/album/0Vh9SNxMazLwic6KtOtVQv
+            href: https://api.spotify.com/v1/albums/0Vh9SNxMazLwic6KtOtVQv
+            id: 0Vh9SNxMazLwic6KtOtVQv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27336e80e6dd0c18a9a2c838219
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0236e80e6dd0c18a9a2c838219
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485136e80e6dd0c18a9a2c838219
+            is_playable: true
+            name: A Place In the Sun (Expanded Edition)
+            release_date: '2020-04-10'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:0Vh9SNxMazLwic6KtOtVQv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp
+            href: https://api.spotify.com/v1/artists/5mgr0FFpvy267wKVAYg8qp
+            id: 5mgr0FFpvy267wKVAYg8qp
+            name: Lit
+            type: artist
+            uri: spotify:artist:5mgr0FFpvy267wKVAYg8qp
+          disc_number: 1
+          duration_ms: 152960
+          explicit: false
+          external_ids:
+            isrc: USRC19808386
+          external_urls:
+            spotify: https://open.spotify.com/track/1tx6e1MsqKdTMFZf8v3JyN
+          href: https://api.spotify.com/v1/tracks/1tx6e1MsqKdTMFZf8v3JyN
+          id: 1tx6e1MsqKdTMFZf8v3JyN
+          is_local: false
+          is_playable: true
+          name: No Big Thing
+          track_number: 5
+          type: track
+          uri: spotify:track:1tx6e1MsqKdTMFZf8v3JyN
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp
+              href: https://api.spotify.com/v1/artists/5mgr0FFpvy267wKVAYg8qp
+              id: 5mgr0FFpvy267wKVAYg8qp
+              name: Lit
+              type: artist
+              uri: spotify:artist:5mgr0FFpvy267wKVAYg8qp
+            external_urls:
+              spotify: https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp
+            href: https://api.spotify.com/v1/albums/3w5Uz3q4SJze14P60ZChsp
+            id: 3w5Uz3q4SJze14P60ZChsp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027b40b2abdbcb8520874f29ed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517b40b2abdbcb8520874f29ed
+            is_playable: true
+            name: A Place In The Sun
+            release_date: '1999-02-22'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3w5Uz3q4SJze14P60ZChsp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp
+            href: https://api.spotify.com/v1/artists/5mgr0FFpvy267wKVAYg8qp
+            id: 5mgr0FFpvy267wKVAYg8qp
+            name: Lit
+            type: artist
+            uri: spotify:artist:5mgr0FFpvy267wKVAYg8qp
+          disc_number: 1
+          duration_ms: 152840
+          explicit: false
+          external_ids:
+            isrc: USRC19808386
+          external_urls:
+            spotify: https://open.spotify.com/track/7r6jNZIWHsBkbg2ZVh18OH
+          href: https://api.spotify.com/v1/tracks/7r6jNZIWHsBkbg2ZVh18OH
+          id: 7r6jNZIWHsBkbg2ZVh18OH
+          is_local: false
+          is_playable: true
+          name: No Big Thing
+          track_number: 5
+          type: track
+          uri: spotify:track:7r6jNZIWHsBkbg2ZVh18OH
+    isrc: USRC19808386

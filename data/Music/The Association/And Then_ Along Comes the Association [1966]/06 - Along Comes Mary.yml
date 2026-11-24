@@ -106,3 +106,288 @@ mediaFileData:
   year: 1966
   duration: 166.152
   modTime: 2024-10-11 21:56:32.136654+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5wGP7PflDIVJtgQXIzYXZB
+    trackId: 5wGP7PflDIVJtgQXIzYXZB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901620&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB19901620&type=track
+        offset: 0
+        previous:
+        total: 15
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3nxoh30lHkzflRFOIgmMqG
+            href: https://api.spotify.com/v1/albums/3nxoh30lHkzflRFOIgmMqG
+            id: 3nxoh30lHkzflRFOIgmMqG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dcbd6d033cd014eb86fb79bc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dcbd6d033cd014eb86fb79bc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dcbd6d033cd014eb86fb79bc
+            is_playable: true
+            name: 60s Rock Hits
+            release_date: '2016-11-11'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:3nxoh30lHkzflRFOIgmMqG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS
+            href: https://api.spotify.com/v1/artists/2kuNswDC82PL9xRbfaZJaS
+            id: 2kuNswDC82PL9xRbfaZJaS
+            name: The Association
+            type: artist
+            uri: spotify:artist:2kuNswDC82PL9xRbfaZJaS
+          disc_number: 1
+          duration_ms: 171000
+          explicit: false
+          external_ids:
+            isrc: USWB19901620
+          external_urls:
+            spotify: https://open.spotify.com/track/5wGP7PflDIVJtgQXIzYXZB
+          href: https://api.spotify.com/v1/tracks/5wGP7PflDIVJtgQXIzYXZB
+          id: 5wGP7PflDIVJtgQXIzYXZB
+          is_local: false
+          is_playable: true
+          name: Along Comes Mary
+          track_number: 4
+          type: track
+          uri: spotify:track:5wGP7PflDIVJtgQXIzYXZB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS
+              href: https://api.spotify.com/v1/artists/2kuNswDC82PL9xRbfaZJaS
+              id: 2kuNswDC82PL9xRbfaZJaS
+              name: The Association
+              type: artist
+              uri: spotify:artist:2kuNswDC82PL9xRbfaZJaS
+            external_urls:
+              spotify: https://open.spotify.com/album/5uLfogUTD4gfj2md4mrJwv
+            href: https://api.spotify.com/v1/albums/5uLfogUTD4gfj2md4mrJwv
+            id: 5uLfogUTD4gfj2md4mrJwv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27328df3cbd977204a35be31ddf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0228df3cbd977204a35be31ddf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485128df3cbd977204a35be31ddf
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1968-11-26'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5uLfogUTD4gfj2md4mrJwv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS
+            href: https://api.spotify.com/v1/artists/2kuNswDC82PL9xRbfaZJaS
+            id: 2kuNswDC82PL9xRbfaZJaS
+            name: The Association
+            type: artist
+            uri: spotify:artist:2kuNswDC82PL9xRbfaZJaS
+          disc_number: 1
+          duration_ms: 171000
+          explicit: false
+          external_ids:
+            isrc: USWB19901620
+          external_urls:
+            spotify: https://open.spotify.com/track/5uKicxW4RaLDnFsDTbhW8s
+          href: https://api.spotify.com/v1/tracks/5uKicxW4RaLDnFsDTbhW8s
+          id: 5uKicxW4RaLDnFsDTbhW8s
+          is_local: false
+          is_playable: true
+          name: Along Comes Mary
+          track_number: 6
+          type: track
+          uri: spotify:track:5uKicxW4RaLDnFsDTbhW8s
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS
+              href: https://api.spotify.com/v1/artists/2kuNswDC82PL9xRbfaZJaS
+              id: 2kuNswDC82PL9xRbfaZJaS
+              name: The Association
+              type: artist
+              uri: spotify:artist:2kuNswDC82PL9xRbfaZJaS
+            external_urls:
+              spotify: https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f
+            href: https://api.spotify.com/v1/albums/6NDt4G1QiGzMNnri4kxq6f
+            id: 6NDt4G1QiGzMNnri4kxq6f
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27318e944ae35659c4d9637465e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0218e944ae35659c4d9637465e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485118e944ae35659c4d9637465e
+            is_playable: true
+            name: And Then...Along Comes
+            release_date: '1966'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:6NDt4G1QiGzMNnri4kxq6f
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS
+            href: https://api.spotify.com/v1/artists/2kuNswDC82PL9xRbfaZJaS
+            id: 2kuNswDC82PL9xRbfaZJaS
+            name: The Association
+            type: artist
+            uri: spotify:artist:2kuNswDC82PL9xRbfaZJaS
+          disc_number: 1
+          duration_ms: 171000
+          explicit: false
+          external_ids:
+            isrc: USWB19901620
+          external_urls:
+            spotify: https://open.spotify.com/track/3Zje70mXjYyMuzge8j24L9
+          href: https://api.spotify.com/v1/tracks/3Zje70mXjYyMuzge8j24L9
+          id: 3Zje70mXjYyMuzge8j24L9
+          is_local: false
+          is_playable: true
+          name: Along Comes Mary
+          track_number: 6
+          type: track
+          uri: spotify:track:3Zje70mXjYyMuzge8j24L9
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4vb57OuFdikpkOGzWwKW8x
+            href: https://api.spotify.com/v1/albums/4vb57OuFdikpkOGzWwKW8x
+            id: 4vb57OuFdikpkOGzWwKW8x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735b5ad06cc4b8e62e08749244
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025b5ad06cc4b8e62e08749244
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515b5ad06cc4b8e62e08749244
+            is_playable: true
+            name: fall, autumn vibes
+            release_date: '2025-07-31'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:4vb57OuFdikpkOGzWwKW8x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS
+            href: https://api.spotify.com/v1/artists/2kuNswDC82PL9xRbfaZJaS
+            id: 2kuNswDC82PL9xRbfaZJaS
+            name: The Association
+            type: artist
+            uri: spotify:artist:2kuNswDC82PL9xRbfaZJaS
+          disc_number: 1
+          duration_ms: 171000
+          explicit: false
+          external_ids:
+            isrc: USWB19901620
+          external_urls:
+            spotify: https://open.spotify.com/track/6Imks7k4jsBYYiZnmHErvi
+          href: https://api.spotify.com/v1/tracks/6Imks7k4jsBYYiZnmHErvi
+          id: 6Imks7k4jsBYYiZnmHErvi
+          is_local: false
+          is_playable: true
+          name: Along Comes Mary
+          track_number: 8
+          type: track
+          uri: spotify:track:6Imks7k4jsBYYiZnmHErvi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3QHo5jkKcZuWmmisnM1E8e
+            href: https://api.spotify.com/v1/albums/3QHo5jkKcZuWmmisnM1E8e
+            id: 3QHo5jkKcZuWmmisnM1E8e
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734fd38fd4740862a99d8a3820
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024fd38fd4740862a99d8a3820
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514fd38fd4740862a99d8a3820
+            is_playable: true
+            name: Hits of the 1960s
+            release_date: '2017-03-30'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:3QHo5jkKcZuWmmisnM1E8e
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS
+            href: https://api.spotify.com/v1/artists/2kuNswDC82PL9xRbfaZJaS
+            id: 2kuNswDC82PL9xRbfaZJaS
+            name: The Association
+            type: artist
+            uri: spotify:artist:2kuNswDC82PL9xRbfaZJaS
+          disc_number: 1
+          duration_ms: 171000
+          explicit: false
+          external_ids:
+            isrc: USWB19901620
+          external_urls:
+            spotify: https://open.spotify.com/track/2HCuKjpYLsF2iSU5g33GsP
+          href: https://api.spotify.com/v1/tracks/2HCuKjpYLsF2iSU5g33GsP
+          id: 2HCuKjpYLsF2iSU5g33GsP
+          is_local: false
+          is_playable: true
+          name: Along Comes Mary
+          track_number: 16
+          type: track
+          uri: spotify:track:2HCuKjpYLsF2iSU5g33GsP
+    isrc: USWB19901620

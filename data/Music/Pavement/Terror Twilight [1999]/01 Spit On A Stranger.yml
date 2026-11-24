@@ -51,3 +51,126 @@ mediaFileData:
   year: 1999
   duration: 184.4506
   modTime: 2023-04-23 23:43:42.690000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2c5olLMo5YfFpedLEJpCiL
+    trackId: 2c5olLMo5YfFpedLEJpCiL
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD9926001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/7wYuelr68pEOsEsevothUC
+            href: https://api.spotify.com/v1/albums/7wYuelr68pEOsEsevothUC
+            id: 7wYuelr68pEOsEsevothUC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bea0f6fa6b430ef3d810abb5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bea0f6fa6b430ef3d810abb5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bea0f6fa6b430ef3d810abb5
+            is_playable: true
+            name: Spit on a Stranger
+            release_date: '1999'
+            release_date_precision: year
+            total_tracks: 6
+            type: album
+            uri: spotify:album:7wYuelr68pEOsEsevothUC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 184293
+          explicit: false
+          external_ids:
+            isrc: USMTD9926001
+          external_urls:
+            spotify: https://open.spotify.com/track/2c5olLMo5YfFpedLEJpCiL
+          href: https://api.spotify.com/v1/tracks/2c5olLMo5YfFpedLEJpCiL
+          id: 2c5olLMo5YfFpedLEJpCiL
+          is_local: false
+          is_playable: true
+          name: Spit on a Stranger
+          track_number: 1
+          type: track
+          uri: spotify:track:2c5olLMo5YfFpedLEJpCiL
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/6LvzAzZDazPb9hKNjj1JRN
+            href: https://api.spotify.com/v1/albums/6LvzAzZDazPb9hKNjj1JRN
+            id: 6LvzAzZDazPb9hKNjj1JRN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738dd01f5c9071f55fd7c7471b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028dd01f5c9071f55fd7c7471b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518dd01f5c9071f55fd7c7471b
+            is_playable: true
+            name: Terror Twilight
+            release_date: '1999-06-08'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6LvzAzZDazPb9hKNjj1JRN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 184293
+          explicit: false
+          external_ids:
+            isrc: USMTD9926001
+          external_urls:
+            spotify: https://open.spotify.com/track/6qmFqZpBMbPEDw4vniOdMv
+          href: https://api.spotify.com/v1/tracks/6qmFqZpBMbPEDw4vniOdMv
+          id: 6qmFqZpBMbPEDw4vniOdMv
+          is_local: false
+          is_playable: true
+          name: Spit on a Stranger
+          track_number: 1
+          type: track
+          uri: spotify:track:6qmFqZpBMbPEDw4vniOdMv
+    isrc: USMTD9926001

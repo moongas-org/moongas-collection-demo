@@ -66,3 +66,72 @@ mediaFileData:
   year: 1985
   duration: 233.37333333333333
   modTime: 2023-04-23 15:22:01.560000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7DXwddg2Y22oQfpOdRspuc
+    trackId: 7DXwddg2Y22oQfpOdRspuc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11600364&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp
+              href: https://api.spotify.com/v1/artists/6DCIj8jNaNpBz8e5oKFPtp
+              id: 6DCIj8jNaNpBz8e5oKFPtp
+              name: The Cars
+              type: artist
+              uri: spotify:artist:6DCIj8jNaNpBz8e5oKFPtp
+            external_urls:
+              spotify: https://open.spotify.com/album/61VgqzJ9CpZv0eGIqAMWOW
+            href: https://api.spotify.com/v1/albums/61VgqzJ9CpZv0eGIqAMWOW
+            id: 61VgqzJ9CpZv0eGIqAMWOW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273af632b521c9a4161427c8189
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02af632b521c9a4161427c8189
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851af632b521c9a4161427c8189
+            is_playable: true
+            name: 'Moving in Stereo: The Best of The Cars'
+            release_date: '2016-05-06'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:61VgqzJ9CpZv0eGIqAMWOW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp
+            href: https://api.spotify.com/v1/artists/6DCIj8jNaNpBz8e5oKFPtp
+            id: 6DCIj8jNaNpBz8e5oKFPtp
+            name: The Cars
+            type: artist
+            uri: spotify:artist:6DCIj8jNaNpBz8e5oKFPtp
+          disc_number: 1
+          duration_ms: 233346
+          explicit: false
+          external_ids:
+            isrc: USRH11600364
+          external_urls:
+            spotify: https://open.spotify.com/track/7DXwddg2Y22oQfpOdRspuc
+          href: https://api.spotify.com/v1/tracks/7DXwddg2Y22oQfpOdRspuc
+          id: 7DXwddg2Y22oQfpOdRspuc
+          is_local: false
+          is_playable: true
+          name: Tonight She Comes - 2016 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:7DXwddg2Y22oQfpOdRspuc
+    isrc: USRH11600364

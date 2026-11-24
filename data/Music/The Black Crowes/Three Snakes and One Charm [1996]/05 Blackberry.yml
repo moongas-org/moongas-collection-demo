@@ -35,3 +35,180 @@ mediaFileData:
   year: 1996
   duration: 207.38615625
   modTime: 2023-04-23 15:29:20.870000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3fGMDGVlAbJfy9SAI9IWPW
+    trackId: 3fGMDGVlAbJfy9SAI9IWPW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19605650&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+              href: https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC
+              id: 5krkohEVJYw0qoB5VWwxaC
+              name: The Black Crowes
+              type: artist
+              uri: spotify:artist:5krkohEVJYw0qoB5VWwxaC
+            external_urls:
+              spotify: https://open.spotify.com/album/0Zqo73zKt2voAD0CO15Sle
+            href: https://api.spotify.com/v1/albums/0Zqo73zKt2voAD0CO15Sle
+            id: 0Zqo73zKt2voAD0CO15Sle
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731ca07e1f32f032bc87fbbf8a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021ca07e1f32f032bc87fbbf8a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511ca07e1f32f032bc87fbbf8a
+            is_playable: true
+            name: Blackberry
+            release_date: '1996-01-01'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:0Zqo73zKt2voAD0CO15Sle
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+            href: https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC
+            id: 5krkohEVJYw0qoB5VWwxaC
+            name: The Black Crowes
+            type: artist
+            uri: spotify:artist:5krkohEVJYw0qoB5VWwxaC
+          disc_number: 1
+          duration_ms: 206573
+          explicit: false
+          external_ids:
+            isrc: USSM19605650
+          external_urls:
+            spotify: https://open.spotify.com/track/3fGMDGVlAbJfy9SAI9IWPW
+          href: https://api.spotify.com/v1/tracks/3fGMDGVlAbJfy9SAI9IWPW
+          id: 3fGMDGVlAbJfy9SAI9IWPW
+          is_local: false
+          is_playable: true
+          name: Blackberry
+          track_number: 1
+          type: track
+          uri: spotify:track:3fGMDGVlAbJfy9SAI9IWPW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+              href: https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC
+              id: 5krkohEVJYw0qoB5VWwxaC
+              name: The Black Crowes
+              type: artist
+              uri: spotify:artist:5krkohEVJYw0qoB5VWwxaC
+            external_urls:
+              spotify: https://open.spotify.com/album/7tiq4kb8CdZxmEDdm03chh
+            href: https://api.spotify.com/v1/albums/7tiq4kb8CdZxmEDdm03chh
+            id: 7tiq4kb8CdZxmEDdm03chh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734e9b1dd300822f97b31b3b0c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024e9b1dd300822f97b31b3b0c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514e9b1dd300822f97b31b3b0c
+            is_playable: true
+            name: 'Greatest Hits 1990-1999: A Tribute To A Work In Progress...'
+            release_date: '2000-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7tiq4kb8CdZxmEDdm03chh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+            href: https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC
+            id: 5krkohEVJYw0qoB5VWwxaC
+            name: The Black Crowes
+            type: artist
+            uri: spotify:artist:5krkohEVJYw0qoB5VWwxaC
+          disc_number: 1
+          duration_ms: 206866
+          explicit: false
+          external_ids:
+            isrc: USSM19605650
+          external_urls:
+            spotify: https://open.spotify.com/track/1tmrYhjVbLysofybWCkyxF
+          href: https://api.spotify.com/v1/tracks/1tmrYhjVbLysofybWCkyxF
+          id: 1tmrYhjVbLysofybWCkyxF
+          is_local: false
+          is_playable: true
+          name: Blackberry
+          track_number: 12
+          type: track
+          uri: spotify:track:1tmrYhjVbLysofybWCkyxF
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+              href: https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC
+              id: 5krkohEVJYw0qoB5VWwxaC
+              name: The Black Crowes
+              type: artist
+              uri: spotify:artist:5krkohEVJYw0qoB5VWwxaC
+            external_urls:
+              spotify: https://open.spotify.com/album/5KEqZXp6Aw2LF6J5bjelbf
+            href: https://api.spotify.com/v1/albums/5KEqZXp6Aw2LF6J5bjelbf
+            id: 5KEqZXp6Aw2LF6J5bjelbf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273db14993f832e52c04173497c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02db14993f832e52c04173497c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851db14993f832e52c04173497c
+            is_playable: true
+            name: Three Snakes And One Charm
+            release_date: '1996-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:5KEqZXp6Aw2LF6J5bjelbf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+            href: https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC
+            id: 5krkohEVJYw0qoB5VWwxaC
+            name: The Black Crowes
+            type: artist
+            uri: spotify:artist:5krkohEVJYw0qoB5VWwxaC
+          disc_number: 1
+          duration_ms: 205560
+          explicit: false
+          external_ids:
+            isrc: USSM19605650
+          external_urls:
+            spotify: https://open.spotify.com/track/06pvneTNSW9G30Rod8nbne
+          href: https://api.spotify.com/v1/tracks/06pvneTNSW9G30Rod8nbne
+          id: 06pvneTNSW9G30Rod8nbne
+          is_local: false
+          is_playable: true
+          name: Blackberry
+          track_number: 5
+          type: track
+          uri: spotify:track:06pvneTNSW9G30Rod8nbne
+    isrc: USSM19605650

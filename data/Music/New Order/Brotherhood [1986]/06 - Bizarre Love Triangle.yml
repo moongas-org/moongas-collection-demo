@@ -144,3 +144,126 @@ mediaFileData:
   year: 1986
   duration: 261.48571428571427
   modTime: 2026-08-16 15:20:12.018916+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0CUVML3unVd8H2kHMHj6sb
+    trackId: 0CUVML3unVd8H2kHMHj6sb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCRL2500119&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+              href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+              id: 0yNLKJebCb8Aueb54LYya3
+              name: New Order
+              type: artist
+              uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+            external_urls:
+              spotify: https://open.spotify.com/album/56S29JETFjax87rEgJiOhM
+            href: https://api.spotify.com/v1/albums/56S29JETFjax87rEgJiOhM
+            id: 56S29JETFjax87rEgJiOhM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739bf3c57b680e91ddec8ac58f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029bf3c57b680e91ddec8ac58f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519bf3c57b680e91ddec8ac58f
+            is_playable: true
+            name: (The Best of & The Rest of) New Order
+            release_date: '2026-07-17'
+            release_date_precision: day
+            total_tracks: 47
+            type: album
+            uri: spotify:album:56S29JETFjax87rEgJiOhM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+            href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+            id: 0yNLKJebCb8Aueb54LYya3
+            name: New Order
+            type: artist
+            uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+          disc_number: 1
+          duration_ms: 234066
+          explicit: false
+          external_ids:
+            isrc: GBCRL2500119
+          external_urls:
+            spotify: https://open.spotify.com/track/0CUVML3unVd8H2kHMHj6sb
+          href: https://api.spotify.com/v1/tracks/0CUVML3unVd8H2kHMHj6sb
+          id: 0CUVML3unVd8H2kHMHj6sb
+          is_local: false
+          is_playable: true
+          name: Bizarre Love Triangle-94 - 2025 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:0CUVML3unVd8H2kHMHj6sb
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+              href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+              id: 0yNLKJebCb8Aueb54LYya3
+              name: New Order
+              type: artist
+              uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+            external_urls:
+              spotify: https://open.spotify.com/album/0Mf8od4ZnfhXnPCCw9qCdv
+            href: https://api.spotify.com/v1/albums/0Mf8od4ZnfhXnPCCw9qCdv
+            id: 0Mf8od4ZnfhXnPCCw9qCdv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739ea3b547859c2b5d065f272b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029ea3b547859c2b5d065f272b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519ea3b547859c2b5d065f272b
+            is_playable: true
+            name: The Best of New Order (2025 Remaster)
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:0Mf8od4ZnfhXnPCCw9qCdv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
+            href: https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3
+            id: 0yNLKJebCb8Aueb54LYya3
+            name: New Order
+            type: artist
+            uri: spotify:artist:0yNLKJebCb8Aueb54LYya3
+          disc_number: 1
+          duration_ms: 234066
+          explicit: false
+          external_ids:
+            isrc: GBCRL2500119
+          external_urls:
+            spotify: https://open.spotify.com/track/0ncr6q4C0vpx0bUMi4qYad
+          href: https://api.spotify.com/v1/tracks/0ncr6q4C0vpx0bUMi4qYad
+          id: 0ncr6q4C0vpx0bUMi4qYad
+          is_local: false
+          is_playable: true
+          name: Bizarre Love Triangle-94 - 2025 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:0ncr6q4C0vpx0bUMi4qYad
+    isrc: GBCRL2500119

@@ -52,3 +52,72 @@ mediaFileData:
   year: 1974
   duration: 375.58859375
   modTime: 2024-09-26 00:26:51.159989+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/29UO1XEcMSvDrguR7vpYXK
+    trackId: 29UO1XEcMSvDrguR7vpYXK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10804624&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+              href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+              id: 0ZIwOAzDuGPspzK7yiTc4S
+              name: Little Feat
+              type: artist
+              uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+            external_urls:
+              spotify: https://open.spotify.com/album/2psE581f6hnekzNMNcHpQV
+            href: https://api.spotify.com/v1/albums/2psE581f6hnekzNMNcHpQV
+            id: 2psE581f6hnekzNMNcHpQV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273af05c66978e23f0e691c1bdb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02af05c66978e23f0e691c1bdb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851af05c66978e23f0e691c1bdb
+            is_playable: true
+            name: Hoy-Hoy!
+            release_date: '2008-08-12'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:2psE581f6hnekzNMNcHpQV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 1
+          duration_ms: 375533
+          explicit: false
+          external_ids:
+            isrc: USWB10804624
+          external_urls:
+            spotify: https://open.spotify.com/track/29UO1XEcMSvDrguR7vpYXK
+          href: https://api.spotify.com/v1/tracks/29UO1XEcMSvDrguR7vpYXK
+          id: 29UO1XEcMSvDrguR7vpYXK
+          is_local: false
+          is_playable: true
+          name: The Fan
+          track_number: 8
+          type: track
+          uri: spotify:track:29UO1XEcMSvDrguR7vpYXK
+    isrc: USWB10804624

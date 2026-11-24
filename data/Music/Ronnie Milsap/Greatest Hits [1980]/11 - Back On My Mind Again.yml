@@ -52,3 +52,126 @@ mediaFileData:
   year: 1980
   duration: 197.06775510204082
   modTime: 2025-12-28 19:08:37.731879+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2OBexkCMzDYsmwH1BG3J1G
+    trackId: 2OBexkCMzDYsmwH1BG3J1G
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRN11400303&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+              href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+              id: 6Sb8EHpZvyjSTT5KD9DjUZ
+              name: Ronnie Milsap
+              type: artist
+              uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+            external_urls:
+              spotify: https://open.spotify.com/album/69xdV3PGsGhHOR4Q3cpS6E
+            href: https://api.spotify.com/v1/albums/69xdV3PGsGhHOR4Q3cpS6E
+            id: 69xdV3PGsGhHOR4Q3cpS6E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738f210565156030098b50f09d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028f210565156030098b50f09d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518f210565156030098b50f09d
+            is_playable: true
+            name: Only One Love In My Life
+            release_date: '1978-05-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:69xdV3PGsGhHOR4Q3cpS6E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+            href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+            id: 6Sb8EHpZvyjSTT5KD9DjUZ
+            name: Ronnie Milsap
+            type: artist
+            uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+          disc_number: 1
+          duration_ms: 195253
+          explicit: false
+          external_ids:
+            isrc: USRN11400303
+          external_urls:
+            spotify: https://open.spotify.com/track/2OBexkCMzDYsmwH1BG3J1G
+          href: https://api.spotify.com/v1/tracks/2OBexkCMzDYsmwH1BG3J1G
+          id: 2OBexkCMzDYsmwH1BG3J1G
+          is_local: false
+          is_playable: true
+          name: Back On My Mind Again
+          track_number: 2
+          type: track
+          uri: spotify:track:2OBexkCMzDYsmwH1BG3J1G
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+              href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+              id: 6Sb8EHpZvyjSTT5KD9DjUZ
+              name: Ronnie Milsap
+              type: artist
+              uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+            external_urls:
+              spotify: https://open.spotify.com/album/5FNgaiODQJlncq1BFkuKsm
+            href: https://api.spotify.com/v1/albums/5FNgaiODQJlncq1BFkuKsm
+            id: 5FNgaiODQJlncq1BFkuKsm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bd5a235c4a987034e1972506
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bd5a235c4a987034e1972506
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bd5a235c4a987034e1972506
+            is_playable: true
+            name: Reflections
+            release_date: '2024-12-27'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5FNgaiODQJlncq1BFkuKsm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ
+            href: https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ
+            id: 6Sb8EHpZvyjSTT5KD9DjUZ
+            name: Ronnie Milsap
+            type: artist
+            uri: spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ
+          disc_number: 1
+          duration_ms: 195253
+          explicit: false
+          external_ids:
+            isrc: USRN11400303
+          external_urls:
+            spotify: https://open.spotify.com/track/3kVwR0ZS9CtCW6Q1XPiZKV
+          href: https://api.spotify.com/v1/tracks/3kVwR0ZS9CtCW6Q1XPiZKV
+          id: 3kVwR0ZS9CtCW6Q1XPiZKV
+          is_local: false
+          is_playable: true
+          name: Back On My Mind Again
+          track_number: 6
+          type: track
+          uri: spotify:track:3kVwR0ZS9CtCW6Q1XPiZKV
+    isrc: USRN11400303

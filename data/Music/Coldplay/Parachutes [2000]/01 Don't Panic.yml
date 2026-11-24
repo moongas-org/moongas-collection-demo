@@ -126,3 +126,72 @@ mediaFileData:
   year: 2000
   duration: 153.0253125
   modTime: 2026-10-23 21:09:15.141216+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0MbCcvzLYu3xq6OgEkSbhC
+    trackId: 0MbCcvzLYu3xq6OgEkSbhC
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE9901816&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+              href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+              id: 4gzpq5DPGxSnKTe4SA8HAU
+              name: Coldplay
+              type: artist
+              uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+            external_urls:
+              spotify: https://open.spotify.com/album/3MVb2CWB36x7VwYo5sZmf2
+            href: https://api.spotify.com/v1/albums/3MVb2CWB36x7VwYo5sZmf2
+            id: 3MVb2CWB36x7VwYo5sZmf2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273124a7215716375bcff8d6ecd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02124a7215716375bcff8d6ecd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851124a7215716375bcff8d6ecd
+            is_playable: true
+            name: The Blue Room
+            release_date: '1999-10-11'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:3MVb2CWB36x7VwYo5sZmf2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 158426
+          explicit: false
+          external_ids:
+            isrc: GBAYE9901816
+          external_urls:
+            spotify: https://open.spotify.com/track/0MbCcvzLYu3xq6OgEkSbhC
+          href: https://api.spotify.com/v1/tracks/0MbCcvzLYu3xq6OgEkSbhC
+          id: 0MbCcvzLYu3xq6OgEkSbhC
+          is_local: false
+          is_playable: true
+          name: Don't Panic
+          track_number: 2
+          type: track
+          uri: spotify:track:0MbCcvzLYu3xq6OgEkSbhC
+    isrc: GBAYE9901816

@@ -90,3 +90,288 @@ mediaFileData:
   year: 1972
   duration: 226.769
   modTime: 2023-07-16 22:17:54+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6BPvC5Fp6XA2ACg3zh13s1
+    trackId: 6BPvC5Fp6XA2ACg3zh13s1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20301263&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSAT20301263&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+              href: https://api.spotify.com/v1/artists/5fbhwqYYh4YwUoEs582mq5
+              id: 5fbhwqYYh4YwUoEs582mq5
+              name: The Spinners
+              type: artist
+              uri: spotify:artist:5fbhwqYYh4YwUoEs582mq5
+            external_urls:
+              spotify: https://open.spotify.com/album/69mwYIdGUeSEBVxLDIVCZC
+            href: https://api.spotify.com/v1/albums/69mwYIdGUeSEBVxLDIVCZC
+            id: 69mwYIdGUeSEBVxLDIVCZC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c1f8204b5385712d8f11d767
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c1f8204b5385712d8f11d767
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c1f8204b5385712d8f11d767
+            is_playable: true
+            name: Essentials
+            release_date: '2007-06-26'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:69mwYIdGUeSEBVxLDIVCZC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+            href: https://api.spotify.com/v1/artists/5fbhwqYYh4YwUoEs582mq5
+            id: 5fbhwqYYh4YwUoEs582mq5
+            name: The Spinners
+            type: artist
+            uri: spotify:artist:5fbhwqYYh4YwUoEs582mq5
+          disc_number: 1
+          duration_ms: 227426
+          explicit: false
+          external_ids:
+            isrc: USAT20301263
+          external_urls:
+            spotify: https://open.spotify.com/track/6BPvC5Fp6XA2ACg3zh13s1
+          href: https://api.spotify.com/v1/tracks/6BPvC5Fp6XA2ACg3zh13s1
+          id: 6BPvC5Fp6XA2ACg3zh13s1
+          is_local: false
+          is_playable: true
+          name: How Could I Let You Get Away - 2003 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:6BPvC5Fp6XA2ACg3zh13s1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+              href: https://api.spotify.com/v1/artists/5fbhwqYYh4YwUoEs582mq5
+              id: 5fbhwqYYh4YwUoEs582mq5
+              name: The Spinners
+              type: artist
+              uri: spotify:artist:5fbhwqYYh4YwUoEs582mq5
+            external_urls:
+              spotify: https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9
+            href: https://api.spotify.com/v1/albums/4Njh8ZQ1VG46bOo8YBF2L9
+            id: 4Njh8ZQ1VG46bOo8YBF2L9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27364ad0588998c7bb16749f6e8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0264ad0588998c7bb16749f6e8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485164ad0588998c7bb16749f6e8
+            is_playable: true
+            name: 'Definitive Soul: Spinners'
+            release_date: '2007-04-02'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:4Njh8ZQ1VG46bOo8YBF2L9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+            href: https://api.spotify.com/v1/artists/5fbhwqYYh4YwUoEs582mq5
+            id: 5fbhwqYYh4YwUoEs582mq5
+            name: The Spinners
+            type: artist
+            uri: spotify:artist:5fbhwqYYh4YwUoEs582mq5
+          disc_number: 1
+          duration_ms: 227426
+          explicit: false
+          external_ids:
+            isrc: USAT20301263
+          external_urls:
+            spotify: https://open.spotify.com/track/2M61PeRMTXE5eSiDoTxw4m
+          href: https://api.spotify.com/v1/tracks/2M61PeRMTXE5eSiDoTxw4m
+          id: 2M61PeRMTXE5eSiDoTxw4m
+          is_local: false
+          is_playable: true
+          name: How Could I Let You Get Away - 2003 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:2M61PeRMTXE5eSiDoTxw4m
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1vIZFmTFuFyfTsnkcpgSAE
+            href: https://api.spotify.com/v1/albums/1vIZFmTFuFyfTsnkcpgSAE
+            id: 1vIZFmTFuFyfTsnkcpgSAE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273623b46d44232bc00dee58c46
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02623b46d44232bc00dee58c46
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851623b46d44232bc00dee58c46
+            is_playable: true
+            name: Heartbreaking Soul
+            release_date: '2021-05-14'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:1vIZFmTFuFyfTsnkcpgSAE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+            href: https://api.spotify.com/v1/artists/5fbhwqYYh4YwUoEs582mq5
+            id: 5fbhwqYYh4YwUoEs582mq5
+            name: The Spinners
+            type: artist
+            uri: spotify:artist:5fbhwqYYh4YwUoEs582mq5
+          disc_number: 1
+          duration_ms: 227426
+          explicit: false
+          external_ids:
+            isrc: USAT20301263
+          external_urls:
+            spotify: https://open.spotify.com/track/0tepvIzUHy9DI1CajOyA2B
+          href: https://api.spotify.com/v1/tracks/0tepvIzUHy9DI1CajOyA2B
+          id: 0tepvIzUHy9DI1CajOyA2B
+          is_local: false
+          is_playable: true
+          name: How Could I Let You Get Away
+          track_number: 14
+          type: track
+          uri: spotify:track:0tepvIzUHy9DI1CajOyA2B
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7bIEFwUInSKKswmbTqbaRn
+            href: https://api.spotify.com/v1/albums/7bIEFwUInSKKswmbTqbaRn
+            id: 7bIEFwUInSKKswmbTqbaRn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c36f599a9ffab0d4019112d8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c36f599a9ffab0d4019112d8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c36f599a9ffab0d4019112d8
+            is_playable: true
+            name: Atlantic Soul Classics
+            release_date: '2020-05-15'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:7bIEFwUInSKKswmbTqbaRn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+            href: https://api.spotify.com/v1/artists/5fbhwqYYh4YwUoEs582mq5
+            id: 5fbhwqYYh4YwUoEs582mq5
+            name: The Spinners
+            type: artist
+            uri: spotify:artist:5fbhwqYYh4YwUoEs582mq5
+          disc_number: 1
+          duration_ms: 227426
+          explicit: false
+          external_ids:
+            isrc: USAT20301263
+          external_urls:
+            spotify: https://open.spotify.com/track/3NzXMujgyZE7EXRiogGw4R
+          href: https://api.spotify.com/v1/tracks/3NzXMujgyZE7EXRiogGw4R
+          id: 3NzXMujgyZE7EXRiogGw4R
+          is_local: false
+          is_playable: true
+          name: How Could I Let You Get Away
+          track_number: 24
+          type: track
+          uri: spotify:track:3NzXMujgyZE7EXRiogGw4R
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6ApLLt62puhUbpb4ysvLQC
+            href: https://api.spotify.com/v1/albums/6ApLLt62puhUbpb4ysvLQC
+            id: 6ApLLt62puhUbpb4ysvLQC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730c4e89896019c2c00e384a0e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020c4e89896019c2c00e384a0e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510c4e89896019c2c00e384a0e
+            is_playable: true
+            name: Soul Serenades
+            release_date: '2021-01-02'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:6ApLLt62puhUbpb4ysvLQC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+            href: https://api.spotify.com/v1/artists/5fbhwqYYh4YwUoEs582mq5
+            id: 5fbhwqYYh4YwUoEs582mq5
+            name: The Spinners
+            type: artist
+            uri: spotify:artist:5fbhwqYYh4YwUoEs582mq5
+          disc_number: 1
+          duration_ms: 227426
+          explicit: false
+          external_ids:
+            isrc: USAT20301263
+          external_urls:
+            spotify: https://open.spotify.com/track/4rkkQ5HzNt0vcYDY4YsYgz
+          href: https://api.spotify.com/v1/tracks/4rkkQ5HzNt0vcYDY4YsYgz
+          id: 4rkkQ5HzNt0vcYDY4YsYgz
+          is_local: false
+          is_playable: true
+          name: How Could I Let You Get Away
+          track_number: 7
+          type: track
+          uri: spotify:track:4rkkQ5HzNt0vcYDY4YsYgz
+    isrc: USAT20301263

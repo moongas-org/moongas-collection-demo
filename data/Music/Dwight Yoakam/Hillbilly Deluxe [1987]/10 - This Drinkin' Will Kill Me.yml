@@ -41,3 +41,126 @@ mediaFileData:
   year: 1987
   duration: 153.264
   modTime: 2025-03-31 19:27:30.986964+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/63TkpDFVBDTcrMqxfMEPzH
+    trackId: 63TkpDFVBDTcrMqxfMEPzH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE19900869&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW
+              href: https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW
+              id: 2sxmKe3CUrWnx7eoXMhOlW
+              name: Dwight Yoakam
+              type: artist
+              uri: spotify:artist:2sxmKe3CUrWnx7eoXMhOlW
+            external_urls:
+              spotify: https://open.spotify.com/album/6fMeNf5w9wbUcK3wBoDyzH
+            href: https://api.spotify.com/v1/albums/6fMeNf5w9wbUcK3wBoDyzH
+            id: 6fMeNf5w9wbUcK3wBoDyzH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273216cd9098f1e2ced0330e74d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02216cd9098f1e2ced0330e74d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851216cd9098f1e2ced0330e74d
+            is_playable: true
+            name: Hillbilly Deluxe
+            release_date: '1987-04-15'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6fMeNf5w9wbUcK3wBoDyzH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW
+            href: https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW
+            id: 2sxmKe3CUrWnx7eoXMhOlW
+            name: Dwight Yoakam
+            type: artist
+            uri: spotify:artist:2sxmKe3CUrWnx7eoXMhOlW
+          disc_number: 1
+          duration_ms: 153226
+          explicit: false
+          external_ids:
+            isrc: USRE19900869
+          external_urls:
+            spotify: https://open.spotify.com/track/63TkpDFVBDTcrMqxfMEPzH
+          href: https://api.spotify.com/v1/tracks/63TkpDFVBDTcrMqxfMEPzH
+          id: 63TkpDFVBDTcrMqxfMEPzH
+          is_local: false
+          is_playable: true
+          name: This Drinkin' Will Kill Me
+          track_number: 10
+          type: track
+          uri: spotify:track:63TkpDFVBDTcrMqxfMEPzH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2sUJcCykZKD757zJzxbn0l
+            href: https://api.spotify.com/v1/albums/2sUJcCykZKD757zJzxbn0l
+            id: 2sUJcCykZKD757zJzxbn0l
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c41e9c8212ad3d2eb6de248c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c41e9c8212ad3d2eb6de248c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c41e9c8212ad3d2eb6de248c
+            is_playable: true
+            name: Country Drinking Songs
+            release_date: '2021-02-26'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2sUJcCykZKD757zJzxbn0l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW
+            href: https://api.spotify.com/v1/artists/2sxmKe3CUrWnx7eoXMhOlW
+            id: 2sxmKe3CUrWnx7eoXMhOlW
+            name: Dwight Yoakam
+            type: artist
+            uri: spotify:artist:2sxmKe3CUrWnx7eoXMhOlW
+          disc_number: 1
+          duration_ms: 153226
+          explicit: false
+          external_ids:
+            isrc: USRE19900869
+          external_urls:
+            spotify: https://open.spotify.com/track/0pMnoNIqBlbTWGoZraO29z
+          href: https://api.spotify.com/v1/tracks/0pMnoNIqBlbTWGoZraO29z
+          id: 0pMnoNIqBlbTWGoZraO29z
+          is_local: false
+          is_playable: true
+          name: This Drinkin' Will Kill Me
+          track_number: 2
+          type: track
+          uri: spotify:track:0pMnoNIqBlbTWGoZraO29z
+    isrc: USRE19900869

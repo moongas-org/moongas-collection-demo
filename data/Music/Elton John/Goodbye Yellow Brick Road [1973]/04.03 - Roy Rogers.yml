@@ -79,3 +79,126 @@ mediaFileData:
   year: 1973
   duration: 247.44
   modTime: 2024-02-25 21:52:34.407953+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3GBST0z8KTg1T5KFO9RCC4
+    trackId: 3GBST0z8KTg1T5KFO9RCC4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71304967&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b
+              href: https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b
+              id: 3PhoLpVuITZKcymswpck5b
+              name: Elton John
+              type: artist
+              uri: spotify:artist:3PhoLpVuITZKcymswpck5b
+            external_urls:
+              spotify: https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN
+            href: https://api.spotify.com/v1/albums/5u5AXYtYIxnIs4S7K3xHAN
+            id: 5u5AXYtYIxnIs4S7K3xHAN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734d005d6881d80313c1127580
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024d005d6881d80313c1127580
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514d005d6881d80313c1127580
+            is_playable: true
+            name: Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)
+            release_date: '1973-10-05'
+            release_date_precision: day
+            total_tracks: 52
+            type: album
+            uri: spotify:album:5u5AXYtYIxnIs4S7K3xHAN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b
+            href: https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b
+            id: 3PhoLpVuITZKcymswpck5b
+            name: Elton John
+            type: artist
+            uri: spotify:artist:3PhoLpVuITZKcymswpck5b
+          disc_number: 1
+          duration_ms: 247413
+          explicit: false
+          external_ids:
+            isrc: GBUM71304967
+          external_urls:
+            spotify: https://open.spotify.com/track/3GBST0z8KTg1T5KFO9RCC4
+          href: https://api.spotify.com/v1/tracks/3GBST0z8KTg1T5KFO9RCC4
+          id: 3GBST0z8KTg1T5KFO9RCC4
+          is_local: false
+          is_playable: true
+          name: Roy Rogers - Remastered 2014
+          track_number: 15
+          type: track
+          uri: spotify:track:3GBST0z8KTg1T5KFO9RCC4
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b
+              href: https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b
+              id: 3PhoLpVuITZKcymswpck5b
+              name: Elton John
+              type: artist
+              uri: spotify:artist:3PhoLpVuITZKcymswpck5b
+            external_urls:
+              spotify: https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun
+            href: https://api.spotify.com/v1/albums/5WupqgR68HfuHt3BMJtgun
+            id: 5WupqgR68HfuHt3BMJtgun
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f72f1e38e9bd48f18a17ed9b
+            is_playable: true
+            name: Goodbye Yellow Brick Road (Remastered)
+            release_date: '1973-10-05'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:5WupqgR68HfuHt3BMJtgun
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b
+            href: https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b
+            id: 3PhoLpVuITZKcymswpck5b
+            name: Elton John
+            type: artist
+            uri: spotify:artist:3PhoLpVuITZKcymswpck5b
+          disc_number: 1
+          duration_ms: 247413
+          explicit: false
+          external_ids:
+            isrc: GBUM71304967
+          external_urls:
+            spotify: https://open.spotify.com/track/6DlqxXju2H2mb0NcwgAFRM
+          href: https://api.spotify.com/v1/tracks/6DlqxXju2H2mb0NcwgAFRM
+          id: 6DlqxXju2H2mb0NcwgAFRM
+          is_local: false
+          is_playable: true
+          name: Roy Rogers - Remastered 2014
+          track_number: 15
+          type: track
+          uri: spotify:track:6DlqxXju2H2mb0NcwgAFRM
+    isrc: GBUM71304967

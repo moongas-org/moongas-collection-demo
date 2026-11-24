@@ -37,3 +37,126 @@ mediaFileData:
   year: 2007
   duration: 320.4440816326531
   modTime: 2024-10-24 01:19:11.934695+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5t5APjlpMcpwCaWeu8MZF6
+    trackId: 5t5APjlpMcpwCaWeu8MZF6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM70734875&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+              href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+              id: 4pejUc4iciQfgdX6OKulQn
+              name: Queens of the Stone Age
+              type: artist
+              uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+            external_urls:
+              spotify: https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL
+            href: https://api.spotify.com/v1/albums/64SL0QEXxulD2QgwJmJbUL
+            id: 64SL0QEXxulD2QgwJmJbUL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273170bbe9daed62431944dbbb7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02170bbe9daed62431944dbbb7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851170bbe9daed62431944dbbb7
+            is_playable: true
+            name: Era Vulgaris
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:64SL0QEXxulD2QgwJmJbUL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+            href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+            id: 4pejUc4iciQfgdX6OKulQn
+            name: Queens of the Stone Age
+            type: artist
+            uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+          disc_number: 1
+          duration_ms: 320360
+          explicit: false
+          external_ids:
+            isrc: USUM70734875
+          external_urls:
+            spotify: https://open.spotify.com/track/5t5APjlpMcpwCaWeu8MZF6
+          href: https://api.spotify.com/v1/tracks/5t5APjlpMcpwCaWeu8MZF6
+          id: 5t5APjlpMcpwCaWeu8MZF6
+          is_local: false
+          is_playable: true
+          name: Turnin On The Screw
+          track_number: 1
+          type: track
+          uri: spotify:track:5t5APjlpMcpwCaWeu8MZF6
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+              href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+              id: 4pejUc4iciQfgdX6OKulQn
+              name: Queens of the Stone Age
+              type: artist
+              uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+            external_urls:
+              spotify: https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca
+            href: https://api.spotify.com/v1/albums/1w71aBHYJ1zTOsSsmr2Fca
+            id: 1w71aBHYJ1zTOsSsmr2Fca
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27301b7dc44ae31364925b4eadc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0201b7dc44ae31364925b4eadc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485101b7dc44ae31364925b4eadc
+            is_playable: true
+            name: Era Vulgaris
+            release_date: '2007-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1w71aBHYJ1zTOsSsmr2Fca
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+            href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+            id: 4pejUc4iciQfgdX6OKulQn
+            name: Queens of the Stone Age
+            type: artist
+            uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+          disc_number: 1
+          duration_ms: 317413
+          explicit: false
+          external_ids:
+            isrc: USUM70734875
+          external_urls:
+            spotify: https://open.spotify.com/track/23GhH0GUzYH7YpkTYUYkO4
+          href: https://api.spotify.com/v1/tracks/23GhH0GUzYH7YpkTYUYkO4
+          id: 23GhH0GUzYH7YpkTYUYkO4
+          is_local: false
+          is_playable: true
+          name: Turnin On The Screw
+          track_number: 1
+          type: track
+          uri: spotify:track:23GhH0GUzYH7YpkTYUYkO4
+    isrc: USUM70734875

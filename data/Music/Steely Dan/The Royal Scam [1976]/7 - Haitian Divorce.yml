@@ -59,3 +59,180 @@ mediaFileData:
   year: 1976
   duration: 351.2685714285714
   modTime: 2024-07-12 23:20:38.272458+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5wqNmvrUWG8Li5K6jWkgWB
+    trackId: 5wqNmvrUWG8Li5K6jWkgWB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC17547224&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/13uQy10krUEHsHAh42gvFP
+            href: https://api.spotify.com/v1/albums/13uQy10krUEHsHAh42gvFP
+            id: 13uQy10krUEHsHAh42gvFP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735d640518db0adf2dc0e4e46e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025d640518db0adf2dc0e4e46e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515d640518db0adf2dc0e4e46e
+            is_playable: true
+            name: 'Showbiz Kids: The Steely Dan Story 1972 - 1980'
+            release_date: '2000-01-01'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:13uQy10krUEHsHAh42gvFP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 2
+          duration_ms: 351160
+          explicit: false
+          external_ids:
+            isrc: USMC17547224
+          external_urls:
+            spotify: https://open.spotify.com/track/5wqNmvrUWG8Li5K6jWkgWB
+          href: https://api.spotify.com/v1/tracks/5wqNmvrUWG8Li5K6jWkgWB
+          id: 5wqNmvrUWG8Li5K6jWkgWB
+          is_local: false
+          is_playable: true
+          name: Haitian Divorce
+          track_number: 3
+          type: track
+          uri: spotify:track:5wqNmvrUWG8Li5K6jWkgWB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/5bpFfYgL1au22XwLG4KOnq
+            href: https://api.spotify.com/v1/albums/5bpFfYgL1au22XwLG4KOnq
+            id: 5bpFfYgL1au22XwLG4KOnq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f802651f718fbf0b155a5c02
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f802651f718fbf0b155a5c02
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f802651f718fbf0b155a5c02
+            is_playable: true
+            name: Citizen 1972-1980
+            release_date: '1993-12-15'
+            release_date_precision: day
+            total_tracks: 66
+            type: album
+            uri: spotify:album:5bpFfYgL1au22XwLG4KOnq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 3
+          duration_ms: 348866
+          explicit: false
+          external_ids:
+            isrc: USMC17547224
+          external_urls:
+            spotify: https://open.spotify.com/track/6Ge7OzdDv5KREVBzNrPk1e
+          href: https://api.spotify.com/v1/tracks/6Ge7OzdDv5KREVBzNrPk1e
+          id: 6Ge7OzdDv5KREVBzNrPk1e
+          is_local: false
+          is_playable: true
+          name: Haitian Divorce
+          track_number: 10
+          type: track
+          uri: spotify:track:6Ge7OzdDv5KREVBzNrPk1e
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/13l9IPYL1qpMSTD5olr7ZP
+            href: https://api.spotify.com/v1/albums/13l9IPYL1qpMSTD5olr7ZP
+            id: 13l9IPYL1qpMSTD5olr7ZP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273934a94c1dbbfc78b8c67e5fe
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02934a94c1dbbfc78b8c67e5fe
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851934a94c1dbbfc78b8c67e5fe
+            is_playable: true
+            name: The Royal Scam (2025 Remaster)
+            release_date: '1976-05-31'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:13l9IPYL1qpMSTD5olr7ZP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 347204
+          explicit: false
+          external_ids:
+            isrc: USMC17547224
+          external_urls:
+            spotify: https://open.spotify.com/track/4AFqxJ15cIwxvXbVrV3Kyk
+          href: https://api.spotify.com/v1/tracks/4AFqxJ15cIwxvXbVrV3Kyk
+          id: 4AFqxJ15cIwxvXbVrV3Kyk
+          is_local: false
+          is_playable: true
+          name: Haitian Divorce - 2025 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:4AFqxJ15cIwxvXbVrV3Kyk
+    isrc: USMC17547224

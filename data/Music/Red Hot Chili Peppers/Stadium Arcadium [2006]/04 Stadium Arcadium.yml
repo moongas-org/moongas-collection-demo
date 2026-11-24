@@ -76,3 +76,234 @@ mediaFileData:
   year: 2006
   duration: 315.675283446712
   modTime: 2023-04-23 21:27:26.290000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4y84ILALZSa4LyP6H7NVjR
+    trackId: 4y84ILALZSa4LyP6H7NVjR
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10601593&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ
+            href: https://api.spotify.com/v1/albums/7xl50xr9NDkd3i2kBbzsNZ
+            id: 7xl50xr9NDkd3i2kBbzsNZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485109fd83d32aee93dceba78517
+            is_playable: true
+            name: Stadium Arcadium
+            release_date: '2006-05-09'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:7xl50xr9NDkd3i2kBbzsNZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 314773
+          explicit: false
+          external_ids:
+            isrc: USWB10601593
+          external_urls:
+            spotify: https://open.spotify.com/track/4y84ILALZSa4LyP6H7NVjR
+          href: https://api.spotify.com/v1/tracks/4y84ILALZSa4LyP6H7NVjR
+          id: 4y84ILALZSa4LyP6H7NVjR
+          is_local: false
+          is_playable: true
+          name: Stadium Arcadium
+          track_number: 4
+          type: track
+          uri: spotify:track:4y84ILALZSa4LyP6H7NVjR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+              href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+              id: 0L8ExT028jH3ddEcZwqJJ5
+              name: Red Hot Chili Peppers
+              type: artist
+              uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+            external_urls:
+              spotify: https://open.spotify.com/album/7aOFj1yM42sm2gzmlPidPP
+            href: https://api.spotify.com/v1/albums/7aOFj1yM42sm2gzmlPidPP
+            id: 7aOFj1yM42sm2gzmlPidPP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3686323bf737cb7ba3de792
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3686323bf737cb7ba3de792
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3686323bf737cb7ba3de792
+            is_playable: true
+            name: The Studio Album Collection 1991 - 2011
+            release_date: '2014-12-12'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:7aOFj1yM42sm2gzmlPidPP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 5
+          duration_ms: 314773
+          explicit: false
+          external_ids:
+            isrc: USWB10601593
+          external_urls:
+            spotify: https://open.spotify.com/track/3YCeAGJm1SQnnJmsBWikAU
+          href: https://api.spotify.com/v1/tracks/3YCeAGJm1SQnnJmsBWikAU
+          id: 3YCeAGJm1SQnnJmsBWikAU
+          is_local: false
+          is_playable: true
+          name: Stadium Arcadium
+          track_number: 4
+          type: track
+          uri: spotify:track:3YCeAGJm1SQnnJmsBWikAU
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3jWXL8p8zQIuVITYULBNYc
+            href: https://api.spotify.com/v1/albums/3jWXL8p8zQIuVITYULBNYc
+            id: 3jWXL8p8zQIuVITYULBNYc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273669efc9c083032f41f4eb3ed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02669efc9c083032f41f4eb3ed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851669efc9c083032f41f4eb3ed
+            is_playable: true
+            name: noughties rock fifty bangers
+            release_date: '2023-11-11'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:3jWXL8p8zQIuVITYULBNYc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 314773
+          explicit: false
+          external_ids:
+            isrc: USWB10601593
+          external_urls:
+            spotify: https://open.spotify.com/track/5ywA6keJ4vRUZuLhHcj74z
+          href: https://api.spotify.com/v1/tracks/5ywA6keJ4vRUZuLhHcj74z
+          id: 5ywA6keJ4vRUZuLhHcj74z
+          is_local: false
+          is_playable: true
+          name: Stadium Arcadium
+          track_number: 39
+          type: track
+          uri: spotify:track:5ywA6keJ4vRUZuLhHcj74z
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0F7bJN94xcd8tDqNfH86zS
+            href: https://api.spotify.com/v1/albums/0F7bJN94xcd8tDqNfH86zS
+            id: 0F7bJN94xcd8tDqNfH86zS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734f0c767c76853290fa2ad686
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024f0c767c76853290fa2ad686
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514f0c767c76853290fa2ad686
+            is_playable: true
+            name: songs for red wine and good food
+            release_date: '2026-02-28'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:0F7bJN94xcd8tDqNfH86zS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+            href: https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5
+            id: 0L8ExT028jH3ddEcZwqJJ5
+            name: Red Hot Chili Peppers
+            type: artist
+            uri: spotify:artist:0L8ExT028jH3ddEcZwqJJ5
+          disc_number: 1
+          duration_ms: 314773
+          explicit: false
+          external_ids:
+            isrc: USWB10601593
+          external_urls:
+            spotify: https://open.spotify.com/track/3xBYcY0g2rde22YvTUbzb8
+          href: https://api.spotify.com/v1/tracks/3xBYcY0g2rde22YvTUbzb8
+          id: 3xBYcY0g2rde22YvTUbzb8
+          is_local: false
+          is_playable: true
+          name: Stadium Arcadium
+          track_number: 52
+          type: track
+          uri: spotify:track:3xBYcY0g2rde22YvTUbzb8
+    isrc: USWB10601593

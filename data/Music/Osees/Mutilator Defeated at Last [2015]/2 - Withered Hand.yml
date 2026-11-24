@@ -34,3 +34,72 @@ mediaFileData:
   year: 2015
   duration: 210.48
   modTime: 2025-06-10 22:24:23.997901+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6JUbhPcOABPeJknaLxka31
+    trackId: 6JUbhPcOABPeJknaLxka31
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSA2Z1510354&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh
+              href: https://api.spotify.com/v1/artists/3qYfqdVwX0fil71onLpLkh
+              id: 3qYfqdVwX0fil71onLpLkh
+              name: Thee Oh Sees
+              type: artist
+              uri: spotify:artist:3qYfqdVwX0fil71onLpLkh
+            external_urls:
+              spotify: https://open.spotify.com/album/31e4Yq05lmd00H8Iardp17
+            href: https://api.spotify.com/v1/albums/31e4Yq05lmd00H8Iardp17
+            id: 31e4Yq05lmd00H8Iardp17
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c901c8b6c819d24b6089fd53
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c901c8b6c819d24b6089fd53
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c901c8b6c819d24b6089fd53
+            is_playable: true
+            name: Mutilator Defeated at Last
+            release_date: '2015-05-26'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:31e4Yq05lmd00H8Iardp17
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh
+            href: https://api.spotify.com/v1/artists/3qYfqdVwX0fil71onLpLkh
+            id: 3qYfqdVwX0fil71onLpLkh
+            name: Thee Oh Sees
+            type: artist
+            uri: spotify:artist:3qYfqdVwX0fil71onLpLkh
+          disc_number: 1
+          duration_ms: 210440
+          explicit: false
+          external_ids:
+            isrc: USA2Z1510354
+          external_urls:
+            spotify: https://open.spotify.com/track/6JUbhPcOABPeJknaLxka31
+          href: https://api.spotify.com/v1/tracks/6JUbhPcOABPeJknaLxka31
+          id: 6JUbhPcOABPeJknaLxka31
+          is_local: false
+          is_playable: true
+          name: Withered Hand
+          track_number: 2
+          type: track
+          uri: spotify:track:6JUbhPcOABPeJknaLxka31
+    isrc: USA2Z1510354

@@ -66,3 +66,126 @@ mediaFileData:
   year: 1997
   duration: 305.26691666666665
   modTime: 2023-09-24 09:42:04+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/75ppqd2u2NGmXeZZal7tc5
+    trackId: 75ppqd2u2NGmXeZZal7tc5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCEL1001096&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+              href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+              id: 4pejUc4iciQfgdX6OKulQn
+              name: Queens of the Stone Age
+              type: artist
+              uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+            external_urls:
+              spotify: https://open.spotify.com/album/54gexkFvg7FE3JcbntQViI
+            href: https://api.spotify.com/v1/albums/54gexkFvg7FE3JcbntQViI
+            id: 54gexkFvg7FE3JcbntQViI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e46287c93e481c478b75d45b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e46287c93e481c478b75d45b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e46287c93e481c478b75d45b
+            is_playable: true
+            name: Queens of the Stone Age (1998 Version)
+            release_date: '1998-09-22'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:54gexkFvg7FE3JcbntQViI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+            href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+            id: 4pejUc4iciQfgdX6OKulQn
+            name: Queens of the Stone Age
+            type: artist
+            uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+          disc_number: 1
+          duration_ms: 302293
+          explicit: false
+          external_ids:
+            isrc: GBCEL1001096
+          external_urls:
+            spotify: https://open.spotify.com/track/75ppqd2u2NGmXeZZal7tc5
+          href: https://api.spotify.com/v1/tracks/75ppqd2u2NGmXeZZal7tc5
+          id: 75ppqd2u2NGmXeZZal7tc5
+          is_local: false
+          is_playable: true
+          name: I Was a Teenage Hand Model
+          track_number: 11
+          type: track
+          uri: spotify:track:75ppqd2u2NGmXeZZal7tc5
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+              href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+              id: 4pejUc4iciQfgdX6OKulQn
+              name: Queens of the Stone Age
+              type: artist
+              uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+            external_urls:
+              spotify: https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp
+            href: https://api.spotify.com/v1/albums/0PSTqZ8cInMb1Wr68Uqdwp
+            id: 0PSTqZ8cInMb1Wr68Uqdwp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739092d41ad0fc7ed16068efe2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029092d41ad0fc7ed16068efe2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519092d41ad0fc7ed16068efe2
+            is_playable: true
+            name: Queens of the Stone Age
+            release_date: '1998-09-22'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:0PSTqZ8cInMb1Wr68Uqdwp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+            href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+            id: 4pejUc4iciQfgdX6OKulQn
+            name: Queens of the Stone Age
+            type: artist
+            uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+          disc_number: 1
+          duration_ms: 302293
+          explicit: false
+          external_ids:
+            isrc: GBCEL1001096
+          external_urls:
+            spotify: https://open.spotify.com/track/58UC8YjPyQGldwvsK58YKl
+          href: https://api.spotify.com/v1/tracks/58UC8YjPyQGldwvsK58YKl
+          id: 58UC8YjPyQGldwvsK58YKl
+          is_local: false
+          is_playable: true
+          name: I Was a Teenage Hand Model
+          track_number: 14
+          type: track
+          uri: spotify:track:58UC8YjPyQGldwvsK58YKl
+    isrc: GBCEL1001096

@@ -108,3 +108,288 @@ mediaFileData:
   year: 1983
   duration: 233.88
   modTime: 2023-12-27 18:11:41.961782+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/24MBCdoij2BOYRfBJnRL5V
+    trackId: 24MBCdoij2BOYRfBJnRL5V
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAHT8302297&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBAHT8302297&type=track
+        offset: 0
+        previous:
+        total: 15
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+              href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+              id: 0fgYKF9Avljex0L9Wt5b8Z
+              name: Echo & the Bunnymen
+              type: artist
+              uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+            external_urls:
+              spotify: https://open.spotify.com/album/0KJWnz3i4TZXzWQMSnKzSv
+            href: https://api.spotify.com/v1/albums/0KJWnz3i4TZXzWQMSnKzSv
+            id: 0KJWnz3i4TZXzWQMSnKzSv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273363d56ae937777f93b3bbfa8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02363d56ae937777f93b3bbfa8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851363d56ae937777f93b3bbfa8
+            is_playable: true
+            name: The Best of Echo & The Bunnymen
+            release_date: '2006-09-11'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:0KJWnz3i4TZXzWQMSnKzSv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+            href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+            id: 0fgYKF9Avljex0L9Wt5b8Z
+            name: Echo & the Bunnymen
+            type: artist
+            uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+          disc_number: 1
+          duration_ms: 232746
+          explicit: false
+          external_ids:
+            isrc: GBAHT8302297
+          external_urls:
+            spotify: https://open.spotify.com/track/24MBCdoij2BOYRfBJnRL5V
+          href: https://api.spotify.com/v1/tracks/24MBCdoij2BOYRfBJnRL5V
+          id: 24MBCdoij2BOYRfBJnRL5V
+          is_local: false
+          is_playable: true
+          name: The Cutter
+          track_number: 1
+          type: track
+          uri: spotify:track:24MBCdoij2BOYRfBJnRL5V
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+              href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+              id: 0fgYKF9Avljex0L9Wt5b8Z
+              name: Echo & the Bunnymen
+              type: artist
+              uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+            external_urls:
+              spotify: https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC
+            href: https://api.spotify.com/v1/albums/4brJ6hWYqPj1sccgk390dC
+            id: 4brJ6hWYqPj1sccgk390dC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27345edc8619870211a90daa4a7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0245edc8619870211a90daa4a7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485145edc8619870211a90daa4a7
+            is_playable: true
+            name: Porcupine (Expanded; 2004 Remaster)
+            release_date: '1983-02-04'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:4brJ6hWYqPj1sccgk390dC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+            href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+            id: 0fgYKF9Avljex0L9Wt5b8Z
+            name: Echo & the Bunnymen
+            type: artist
+            uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+          disc_number: 1
+          duration_ms: 232746
+          explicit: false
+          external_ids:
+            isrc: GBAHT8302297
+          external_urls:
+            spotify: https://open.spotify.com/track/617ahruubznvqzv7Nas3QX
+          href: https://api.spotify.com/v1/tracks/617ahruubznvqzv7Nas3QX
+          id: 617ahruubznvqzv7Nas3QX
+          is_local: false
+          is_playable: true
+          name: The Cutter
+          track_number: 1
+          type: track
+          uri: spotify:track:617ahruubznvqzv7Nas3QX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3HnqK56Z3UuERrUJnrQ3HN
+            href: https://api.spotify.com/v1/albums/3HnqK56Z3UuERrUJnrQ3HN
+            id: 3HnqK56Z3UuERrUJnrQ3HN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734919b4bc0330979018d805dd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024919b4bc0330979018d805dd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514919b4bc0330979018d805dd
+            is_playable: true
+            name: 80s Alternative Music
+            release_date: '2025-04-16'
+            release_date_precision: day
+            total_tracks: 90
+            type: album
+            uri: spotify:album:3HnqK56Z3UuERrUJnrQ3HN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+            href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+            id: 0fgYKF9Avljex0L9Wt5b8Z
+            name: Echo & the Bunnymen
+            type: artist
+            uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+          disc_number: 1
+          duration_ms: 232746
+          explicit: false
+          external_ids:
+            isrc: GBAHT8302297
+          external_urls:
+            spotify: https://open.spotify.com/track/050vwP8I4SNed77U4Tx0pq
+          href: https://api.spotify.com/v1/tracks/050vwP8I4SNed77U4Tx0pq
+          id: 050vwP8I4SNed77U4Tx0pq
+          is_local: false
+          is_playable: true
+          name: The Cutter
+          track_number: 47
+          type: track
+          uri: spotify:track:050vwP8I4SNed77U4Tx0pq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+              href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+              id: 0fgYKF9Avljex0L9Wt5b8Z
+              name: Echo & the Bunnymen
+              type: artist
+              uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+            external_urls:
+              spotify: https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb
+            href: https://api.spotify.com/v1/albums/0VYyqjM5H2sXj6z8ocAyjb
+            id: 0VYyqjM5H2sXj6z8ocAyjb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738c3bd313f076150e2d9299c2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028c3bd313f076150e2d9299c2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518c3bd313f076150e2d9299c2
+            is_playable: true
+            name: Songs to Learn & Sing
+            release_date: '1985-11-11'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0VYyqjM5H2sXj6z8ocAyjb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+            href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+            id: 0fgYKF9Avljex0L9Wt5b8Z
+            name: Echo & the Bunnymen
+            type: artist
+            uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+          disc_number: 1
+          duration_ms: 232746
+          explicit: false
+          external_ids:
+            isrc: GBAHT8302297
+          external_urls:
+            spotify: https://open.spotify.com/track/1uquUeoieXGKOyuHfjWWdS
+          href: https://api.spotify.com/v1/tracks/1uquUeoieXGKOyuHfjWWdS
+          id: 1uquUeoieXGKOyuHfjWWdS
+          is_local: false
+          is_playable: true
+          name: The Cutter
+          track_number: 6
+          type: track
+          uri: spotify:track:1uquUeoieXGKOyuHfjWWdS
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/65FbZX69i79OBEBXZXnqv3
+            href: https://api.spotify.com/v1/albums/65FbZX69i79OBEBXZXnqv3
+            id: 65FbZX69i79OBEBXZXnqv3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27323d331a793a1c5bbcad0056b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0223d331a793a1c5bbcad0056b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485123d331a793a1c5bbcad0056b
+            is_playable: true
+            name: Synth Pop Party
+            release_date: '2018-02-07'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:65FbZX69i79OBEBXZXnqv3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z
+            href: https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z
+            id: 0fgYKF9Avljex0L9Wt5b8Z
+            name: Echo & the Bunnymen
+            type: artist
+            uri: spotify:artist:0fgYKF9Avljex0L9Wt5b8Z
+          disc_number: 1
+          duration_ms: 232746
+          explicit: false
+          external_ids:
+            isrc: GBAHT8302297
+          external_urls:
+            spotify: https://open.spotify.com/track/3507jaDwSzy6Z9QBpYvlSn
+          href: https://api.spotify.com/v1/tracks/3507jaDwSzy6Z9QBpYvlSn
+          id: 3507jaDwSzy6Z9QBpYvlSn
+          is_local: false
+          is_playable: true
+          name: The Cutter
+          track_number: 27
+          type: track
+          uri: spotify:track:3507jaDwSzy6Z9QBpYvlSn
+    isrc: GBAHT8302297

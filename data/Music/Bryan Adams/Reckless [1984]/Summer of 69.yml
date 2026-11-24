@@ -41,3 +41,72 @@ mediaFileData:
   year: 1984
   duration: 248.592
   modTime: 2023-01-28 02:45:17.070000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/42d9sfUZggsE1RTKcsF4Eb
+    trackId: 42d9sfUZggsE1RTKcsF4Eb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS23A1515535&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc
+              href: https://api.spotify.com/v1/artists/3Z02hBLubJxuFJfhacLSDc
+              id: 3Z02hBLubJxuFJfhacLSDc
+              name: Bryan Adams
+              type: artist
+              uri: spotify:artist:3Z02hBLubJxuFJfhacLSDc
+            external_urls:
+              spotify: https://open.spotify.com/album/2k9TcXLgG2Yvstj1ibEhuL
+            href: https://api.spotify.com/v1/albums/2k9TcXLgG2Yvstj1ibEhuL
+            id: 2k9TcXLgG2Yvstj1ibEhuL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738acfd0b8a5d1af55fff4149b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028acfd0b8a5d1af55fff4149b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518acfd0b8a5d1af55fff4149b
+            is_playable: true
+            name: Classic
+            release_date: '2022-04-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:2k9TcXLgG2Yvstj1ibEhuL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc
+            href: https://api.spotify.com/v1/artists/3Z02hBLubJxuFJfhacLSDc
+            id: 3Z02hBLubJxuFJfhacLSDc
+            name: Bryan Adams
+            type: artist
+            uri: spotify:artist:3Z02hBLubJxuFJfhacLSDc
+          disc_number: 1
+          duration_ms: 248551
+          explicit: false
+          external_ids:
+            isrc: US23A1515535
+          external_urls:
+            spotify: https://open.spotify.com/track/42d9sfUZggsE1RTKcsF4Eb
+          href: https://api.spotify.com/v1/tracks/42d9sfUZggsE1RTKcsF4Eb
+          id: 42d9sfUZggsE1RTKcsF4Eb
+          is_local: false
+          is_playable: true
+          name: Summer of 69 (Classic Version)
+          track_number: 1
+          type: track
+          uri: spotify:track:42d9sfUZggsE1RTKcsF4Eb
+    isrc: US23A1515535

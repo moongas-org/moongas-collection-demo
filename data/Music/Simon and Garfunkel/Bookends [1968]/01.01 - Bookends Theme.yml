@@ -36,3 +36,126 @@ mediaFileData:
   year: 1968
   duration: 231.912
   modTime: 2024-02-20 17:30:43.548067+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4D1H3Pl6foeR6fTUvXG3uK
+    trackId: 4D1H3Pl6foeR6fTUvXG3uK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM16801386&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE
+              href: https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE
+              id: 70cRZdQywnSFp9pnc2WTCE
+              name: Simon & Garfunkel
+              type: artist
+              uri: spotify:artist:70cRZdQywnSFp9pnc2WTCE
+            external_urls:
+              spotify: https://open.spotify.com/album/08KZ5fbzYRYPu4ZRPi60MT
+            href: https://api.spotify.com/v1/albums/08KZ5fbzYRYPu4ZRPi60MT
+            id: 08KZ5fbzYRYPu4ZRPi60MT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f9f24364f5ed9d0ed39307c9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f9f24364f5ed9d0ed39307c9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f9f24364f5ed9d0ed39307c9
+            is_playable: true
+            name: The Essential Simon & Garfunkel
+            release_date: '2003-10-14'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:08KZ5fbzYRYPu4ZRPi60MT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE
+            href: https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE
+            id: 70cRZdQywnSFp9pnc2WTCE
+            name: Simon & Garfunkel
+            type: artist
+            uri: spotify:artist:70cRZdQywnSFp9pnc2WTCE
+          disc_number: 2
+          duration_ms: 155640
+          explicit: false
+          external_ids:
+            isrc: USSM16801386
+          external_urls:
+            spotify: https://open.spotify.com/track/4D1H3Pl6foeR6fTUvXG3uK
+          href: https://api.spotify.com/v1/tracks/4D1H3Pl6foeR6fTUvXG3uK
+          id: 4D1H3Pl6foeR6fTUvXG3uK
+          is_local: false
+          is_playable: true
+          name: Old Friends
+          track_number: 3
+          type: track
+          uri: spotify:track:4D1H3Pl6foeR6fTUvXG3uK
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE
+              href: https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE
+              id: 70cRZdQywnSFp9pnc2WTCE
+              name: Simon & Garfunkel
+              type: artist
+              uri: spotify:artist:70cRZdQywnSFp9pnc2WTCE
+            external_urls:
+              spotify: https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2
+            href: https://api.spotify.com/v1/albums/3bzgbgiytguTDnwzflAZr2
+            id: 3bzgbgiytguTDnwzflAZr2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e67cbc6061edcdaa6f0cf570
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e67cbc6061edcdaa6f0cf570
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e67cbc6061edcdaa6f0cf570
+            is_playable: true
+            name: Bookends
+            release_date: '1968-04-03'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3bzgbgiytguTDnwzflAZr2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE
+            href: https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE
+            id: 70cRZdQywnSFp9pnc2WTCE
+            name: Simon & Garfunkel
+            type: artist
+            uri: spotify:artist:70cRZdQywnSFp9pnc2WTCE
+          disc_number: 1
+          duration_ms: 155370
+          explicit: false
+          external_ids:
+            isrc: USSM16801386
+          external_urls:
+            spotify: https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul
+          href: https://api.spotify.com/v1/tracks/7vJRHZP1PuNwjUcoCsWlul
+          id: 7vJRHZP1PuNwjUcoCsWlul
+          is_local: false
+          is_playable: true
+          name: Old Friends
+          track_number: 6
+          type: track
+          uri: spotify:track:7vJRHZP1PuNwjUcoCsWlul
+    isrc: USSM16801386

@@ -37,3 +37,180 @@ mediaFileData:
   year: 1988
   duration: 198.94857142857143
   modTime: 2026-07-22 21:54:34.423319+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2emmlzr9mAdzJdotPGyuq7
+    trackId: 2emmlzr9mAdzJdotPGyuq7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDJ28800027&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+              href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+              id: 6Mo9PoU6svvhgEum7wh2Nd
+              name: Public Enemy
+              type: artist
+              uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+            external_urls:
+              spotify: https://open.spotify.com/album/1Rj1daFzMlYzLv7lJl14hz
+            href: https://api.spotify.com/v1/albums/1Rj1daFzMlYzLv7lJl14hz
+            id: 1Rj1daFzMlYzLv7lJl14hz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c713ac7a7e884bed1b068d95
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c713ac7a7e884bed1b068d95
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c713ac7a7e884bed1b068d95
+            is_playable: true
+            name: It Takes A Nation Of Millions To Hold Us Back
+            release_date: '1988-06-28'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:1Rj1daFzMlYzLv7lJl14hz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+            href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+            id: 6Mo9PoU6svvhgEum7wh2Nd
+            name: Public Enemy
+            type: artist
+            uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+          disc_number: 1
+          duration_ms: 198906
+          explicit: false
+          external_ids:
+            isrc: USDJ28800027
+          external_urls:
+            spotify: https://open.spotify.com/track/2emmlzr9mAdzJdotPGyuq7
+          href: https://api.spotify.com/v1/tracks/2emmlzr9mAdzJdotPGyuq7
+          id: 2emmlzr9mAdzJdotPGyuq7
+          is_local: false
+          is_playable: true
+          name: Prophets Of Rage
+          track_number: 15
+          type: track
+          uri: spotify:track:2emmlzr9mAdzJdotPGyuq7
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+              href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+              id: 6Mo9PoU6svvhgEum7wh2Nd
+              name: Public Enemy
+              type: artist
+              uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+            external_urls:
+              spotify: https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ
+            href: https://api.spotify.com/v1/albums/3PxXiYU3PjymOEE22PewGZ
+            id: 3PxXiYU3PjymOEE22PewGZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c3cb4969e8a8e9c9d604bf89
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c3cb4969e8a8e9c9d604bf89
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c3cb4969e8a8e9c9d604bf89
+            is_playable: true
+            name: It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)
+            release_date: '1988-06-28'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:3PxXiYU3PjymOEE22PewGZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+            href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+            id: 6Mo9PoU6svvhgEum7wh2Nd
+            name: Public Enemy
+            type: artist
+            uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+          disc_number: 1
+          duration_ms: 198906
+          explicit: false
+          external_ids:
+            isrc: USDJ28800027
+          external_urls:
+            spotify: https://open.spotify.com/track/3s3n2yEQrRFIZDrKnpHJvV
+          href: https://api.spotify.com/v1/tracks/3s3n2yEQrRFIZDrKnpHJvV
+          id: 3s3n2yEQrRFIZDrKnpHJvV
+          is_local: false
+          is_playable: true
+          name: Prophets Of Rage
+          track_number: 15
+          type: track
+          uri: spotify:track:3s3n2yEQrRFIZDrKnpHJvV
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+              href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+              id: 6Mo9PoU6svvhgEum7wh2Nd
+              name: Public Enemy
+              type: artist
+              uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+            external_urls:
+              spotify: https://open.spotify.com/album/3LUzSl2Semr3SElS31PPtC
+            href: https://api.spotify.com/v1/albums/3LUzSl2Semr3SElS31PPtC
+            id: 3LUzSl2Semr3SElS31PPtC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27398413253a0ee1b9c5d3eaa62
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0298413253a0ee1b9c5d3eaa62
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485198413253a0ee1b9c5d3eaa62
+            is_playable: true
+            name: Power To The People And The Beats - Public Enemy's Greatest Hits
+            release_date: '2005-08-02'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:3LUzSl2Semr3SElS31PPtC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+            href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+            id: 6Mo9PoU6svvhgEum7wh2Nd
+            name: Public Enemy
+            type: artist
+            uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+          disc_number: 1
+          duration_ms: 198960
+          explicit: false
+          external_ids:
+            isrc: USDJ28800027
+          external_urls:
+            spotify: https://open.spotify.com/track/6AcDCfC1ntLaVS0ZBPRgvV
+          href: https://api.spotify.com/v1/tracks/6AcDCfC1ntLaVS0ZBPRgvV
+          id: 6AcDCfC1ntLaVS0ZBPRgvV
+          is_local: false
+          is_playable: true
+          name: Prophets Of Rage
+          track_number: 6
+          type: track
+          uri: spotify:track:6AcDCfC1ntLaVS0ZBPRgvV
+    isrc: USDJ28800027

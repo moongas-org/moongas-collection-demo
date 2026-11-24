@@ -59,3 +59,72 @@ mediaFileData:
   year: 2009
   duration: 182.56979591836733
   modTime: 2024-08-14 21:14:30.810152+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4sXXwDfCFOKr5qa3dnyDIT
+    trackId: 4sXXwDfCFOKr5qa3dnyDIT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AKRA381208636&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7
+              href: https://api.spotify.com/v1/artists/2GEPtT5RDxrmdi0A4mbDi7
+              id: 2GEPtT5RDxrmdi0A4mbDi7
+              name: Brown Eyed Girls
+              type: artist
+              uri: spotify:artist:2GEPtT5RDxrmdi0A4mbDi7
+            external_urls:
+              spotify: https://open.spotify.com/album/1fWB16PyP4CaM1mjaZtJD3
+            href: https://api.spotify.com/v1/albums/1fWB16PyP4CaM1mjaZtJD3
+            id: 1fWB16PyP4CaM1mjaZtJD3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bd582c52bd6495397c2a10c2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bd582c52bd6495397c2a10c2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bd582c52bd6495397c2a10c2
+            is_playable: true
+            name: Brown Eyed Girls BEST - Special Moments
+            release_date: '2014-08-08'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:1fWB16PyP4CaM1mjaZtJD3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7
+            href: https://api.spotify.com/v1/artists/2GEPtT5RDxrmdi0A4mbDi7
+            id: 2GEPtT5RDxrmdi0A4mbDi7
+            name: Brown Eyed Girls
+            type: artist
+            uri: spotify:artist:2GEPtT5RDxrmdi0A4mbDi7
+          disc_number: 1
+          duration_ms: 182405
+          explicit: false
+          external_ids:
+            isrc: KRA381208636
+          external_urls:
+            spotify: https://open.spotify.com/track/4sXXwDfCFOKr5qa3dnyDIT
+          href: https://api.spotify.com/v1/tracks/4sXXwDfCFOKr5qa3dnyDIT
+          id: 4sXXwDfCFOKr5qa3dnyDIT
+          is_local: false
+          is_playable: true
+          name: Abracadabra
+          track_number: 1
+          type: track
+          uri: spotify:track:4sXXwDfCFOKr5qa3dnyDIT
+    isrc: KRA381208636

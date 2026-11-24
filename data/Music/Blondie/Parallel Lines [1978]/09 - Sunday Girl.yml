@@ -67,3 +67,187 @@ mediaFileData:
   year: 1978
   duration: 186.816
   modTime: 2025-01-31 01:01:42.178547+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3pklBKA3tQ9o4dnW6cABKn
+    trackId: 3pklBKA3tQ9o4dnW6cABKn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCH38500022&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+              href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+              id: 4tpUmLEVLCGFr93o8hFFIB
+              name: Blondie
+              type: artist
+              uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl
+              href: https://api.spotify.com/v1/artists/7FxMjqH6DH056sdsstGeVl
+              id: 7FxMjqH6DH056sdsstGeVl
+              name: Debbie Harry
+              type: artist
+              uri: spotify:artist:7FxMjqH6DH056sdsstGeVl
+            external_urls:
+              spotify: https://open.spotify.com/album/3KqhlIxtnXfWJfi445kI8X
+            href: https://api.spotify.com/v1/albums/3KqhlIxtnXfWJfi445kI8X
+            id: 3KqhlIxtnXfWJfi445kI8X
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27356909c25577a5c5fcfbf7d1d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0256909c25577a5c5fcfbf7d1d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485156909c25577a5c5fcfbf7d1d
+            is_playable: true
+            name: Once More Into The Bleach
+            release_date: '1988'
+            release_date_precision: year
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3KqhlIxtnXfWJfi445kI8X
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+            href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+            id: 4tpUmLEVLCGFr93o8hFFIB
+            name: Blondie
+            type: artist
+            uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+          disc_number: 1
+          duration_ms: 188426
+          explicit: false
+          external_ids:
+            isrc: USCH38500022
+          external_urls:
+            spotify: https://open.spotify.com/track/3pklBKA3tQ9o4dnW6cABKn
+          href: https://api.spotify.com/v1/tracks/3pklBKA3tQ9o4dnW6cABKn
+          id: 3pklBKA3tQ9o4dnW6cABKn
+          is_local: false
+          is_playable: true
+          name: Sunday Girl
+          track_number: 13
+          type: track
+          uri: spotify:track:3pklBKA3tQ9o4dnW6cABKn
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+              href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+              id: 4tpUmLEVLCGFr93o8hFFIB
+              name: Blondie
+              type: artist
+              uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+            external_urls:
+              spotify: https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts
+            href: https://api.spotify.com/v1/albums/4M6s2jbhKWEcOdXZ8WiHts
+            id: 4M6s2jbhKWEcOdXZ8WiHts
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ace2bedb8e6cfa04207d5c0f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ace2bedb8e6cfa04207d5c0f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ace2bedb8e6cfa04207d5c0f
+            is_playable: true
+            name: Parallel Lines
+            release_date: '1978-09-23'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4M6s2jbhKWEcOdXZ8WiHts
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+            href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+            id: 4tpUmLEVLCGFr93o8hFFIB
+            name: Blondie
+            type: artist
+            uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+          disc_number: 1
+          duration_ms: 186782
+          explicit: false
+          external_ids:
+            isrc: USCH38500022
+          external_urls:
+            spotify: https://open.spotify.com/track/5v6VaqC8b4P7NcKb45W77j
+          href: https://api.spotify.com/v1/tracks/5v6VaqC8b4P7NcKb45W77j
+          id: 5v6VaqC8b4P7NcKb45W77j
+          is_local: false
+          is_playable: true
+          name: Sunday Girl
+          track_number: 9
+          type: track
+          uri: spotify:track:5v6VaqC8b4P7NcKb45W77j
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/47r8ngwvBK784rM7yy4CNK
+            href: https://api.spotify.com/v1/albums/47r8ngwvBK784rM7yy4CNK
+            id: 47r8ngwvBK784rM7yy4CNK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a8afed79e62bc525a34b52de
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a8afed79e62bc525a34b52de
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a8afed79e62bc525a34b52de
+            is_playable: true
+            name: Este Es El Rock Que Necesito
+            release_date: '2024-08-23'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:47r8ngwvBK784rM7yy4CNK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB
+            href: https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB
+            id: 4tpUmLEVLCGFr93o8hFFIB
+            name: Blondie
+            type: artist
+            uri: spotify:artist:4tpUmLEVLCGFr93o8hFFIB
+          disc_number: 1
+          duration_ms: 186782
+          explicit: false
+          external_ids:
+            isrc: USCH38500022
+          external_urls:
+            spotify: https://open.spotify.com/track/6FJQT9RZedYmmzIfkJwahz
+          href: https://api.spotify.com/v1/tracks/6FJQT9RZedYmmzIfkJwahz
+          id: 6FJQT9RZedYmmzIfkJwahz
+          is_local: false
+          is_playable: true
+          name: Sunday Girl
+          track_number: 11
+          type: track
+          uri: spotify:track:6FJQT9RZedYmmzIfkJwahz
+    isrc: USCH38500022

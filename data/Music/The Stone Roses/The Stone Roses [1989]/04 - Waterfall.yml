@@ -176,3 +176,180 @@ mediaFileData:
   year: 1989
   duration: 280.8666666666667
   modTime: 2024-05-23 18:24:30.055205+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1cMVLpjzWJy81KmMv3wKJL
+    trackId: 1cMVLpjzWJy81KmMv3wKJL
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAHJ9900009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d
+              href: https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d
+              id: 1lYT0A0LV5DUfxr6doRP3d
+              name: The Stone Roses
+              type: artist
+              uri: spotify:artist:1lYT0A0LV5DUfxr6doRP3d
+            external_urls:
+              spotify: https://open.spotify.com/album/1RB1lMsMcQQmcqUyP23T5f
+            href: https://api.spotify.com/v1/albums/1RB1lMsMcQQmcqUyP23T5f
+            id: 1RB1lMsMcQQmcqUyP23T5f
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e622a0939f5ff3315743303d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e622a0939f5ff3315743303d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e622a0939f5ff3315743303d
+            is_playable: true
+            name: The Very Best Of The Stone Roses
+            release_date: '2002-11-04'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1RB1lMsMcQQmcqUyP23T5f
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d
+            href: https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d
+            id: 1lYT0A0LV5DUfxr6doRP3d
+            name: The Stone Roses
+            type: artist
+            uri: spotify:artist:1lYT0A0LV5DUfxr6doRP3d
+          disc_number: 1
+          duration_ms: 278733
+          explicit: false
+          external_ids:
+            isrc: GBAHJ9900009
+          external_urls:
+            spotify: https://open.spotify.com/track/1cMVLpjzWJy81KmMv3wKJL
+          href: https://api.spotify.com/v1/tracks/1cMVLpjzWJy81KmMv3wKJL
+          id: 1cMVLpjzWJy81KmMv3wKJL
+          is_local: false
+          is_playable: true
+          name: Waterfall
+          track_number: 4
+          type: track
+          uri: spotify:track:1cMVLpjzWJy81KmMv3wKJL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d
+              href: https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d
+              id: 1lYT0A0LV5DUfxr6doRP3d
+              name: The Stone Roses
+              type: artist
+              uri: spotify:artist:1lYT0A0LV5DUfxr6doRP3d
+            external_urls:
+              spotify: https://open.spotify.com/album/7ljTESEAQzxf1Wk8tj4qvz
+            href: https://api.spotify.com/v1/albums/7ljTESEAQzxf1Wk8tj4qvz
+            id: 7ljTESEAQzxf1Wk8tj4qvz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737dde677b8fde092fd504a963
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027dde677b8fde092fd504a963
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517dde677b8fde092fd504a963
+            is_playable: true
+            name: Discover The Stone Roses
+            release_date: '2008-07-25'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:7ljTESEAQzxf1Wk8tj4qvz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d
+            href: https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d
+            id: 1lYT0A0LV5DUfxr6doRP3d
+            name: The Stone Roses
+            type: artist
+            uri: spotify:artist:1lYT0A0LV5DUfxr6doRP3d
+          disc_number: 1
+          duration_ms: 278653
+          explicit: false
+          external_ids:
+            isrc: GBAHJ9900009
+          external_urls:
+            spotify: https://open.spotify.com/track/2siD9014vj33f25f4BvzQf
+          href: https://api.spotify.com/v1/tracks/2siD9014vj33f25f4BvzQf
+          id: 2siD9014vj33f25f4BvzQf
+          is_local: false
+          is_playable: true
+          name: Waterfall
+          track_number: 2
+          type: track
+          uri: spotify:track:2siD9014vj33f25f4BvzQf
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N
+            href: https://api.spotify.com/v1/albums/6ptnlw9K2gpKuocxaO8F2N
+            id: 6ptnlw9K2gpKuocxaO8F2N
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273774e47c290923ec861329f12
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02774e47c290923ec861329f12
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851774e47c290923ec861329f12
+            is_playable: true
+            name: Headliners
+            release_date: '2007-06-15'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:6ptnlw9K2gpKuocxaO8F2N
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d
+            href: https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d
+            id: 1lYT0A0LV5DUfxr6doRP3d
+            name: The Stone Roses
+            type: artist
+            uri: spotify:artist:1lYT0A0LV5DUfxr6doRP3d
+          disc_number: 1
+          duration_ms: 279186
+          explicit: false
+          external_ids:
+            isrc: GBAHJ9900009
+          external_urls:
+            spotify: https://open.spotify.com/track/661vW2upnqAt4i8r3G59xE
+          href: https://api.spotify.com/v1/tracks/661vW2upnqAt4i8r3G59xE
+          id: 661vW2upnqAt4i8r3G59xE
+          is_local: false
+          is_playable: true
+          name: Waterfall
+          track_number: 12
+          type: track
+          uri: spotify:track:661vW2upnqAt4i8r3G59xE
+    isrc: GBAHJ9900009

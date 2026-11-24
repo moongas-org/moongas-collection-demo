@@ -92,3 +92,288 @@ mediaFileData:
   year: 1998
   duration: 225.1755
   modTime: 2025-04-11 19:13:10.528568+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0sELTIPAy9TQqqF893QhW8
+    trackId: 0sELTIPAy9TQqqF893QhW8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGF19821203&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSGF19821203&type=track
+        offset: 0
+        previous:
+        total: 58
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1JTTGH93wGvlKUJ8Avx4Qz
+            href: https://api.spotify.com/v1/albums/1JTTGH93wGvlKUJ8Avx4Qz
+            id: 1JTTGH93wGvlKUJ8Avx4Qz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e0e0aef87d995f3096f35945
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e0e0aef87d995f3096f35945
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e0e0aef87d995f3096f35945
+            is_playable: true
+            name: Nu Metal Hits
+            release_date: '2026-03-06'
+            release_date_precision: day
+            total_tracks: 68
+            type: album
+            uri: spotify:album:1JTTGH93wGvlKUJ8Avx4Qz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5
+            href: https://api.spotify.com/v1/artists/3HVdAiMNjYrQIKlOGxoGh5
+            id: 3HVdAiMNjYrQIKlOGxoGh5
+            name: Rob Zombie
+            type: artist
+            uri: spotify:artist:3HVdAiMNjYrQIKlOGxoGh5
+          disc_number: 1
+          duration_ms: 222893
+          explicit: false
+          external_ids:
+            isrc: USGF19821203
+          external_urls:
+            spotify: https://open.spotify.com/track/0sELTIPAy9TQqqF893QhW8
+          href: https://api.spotify.com/v1/tracks/0sELTIPAy9TQqqF893QhW8
+          id: 0sELTIPAy9TQqqF893QhW8
+          is_local: false
+          is_playable: true
+          name: Dragula
+          track_number: 3
+          type: track
+          uri: spotify:track:0sELTIPAy9TQqqF893QhW8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0VenBjpc22ykXtXhCPGxOM
+            href: https://api.spotify.com/v1/albums/0VenBjpc22ykXtXhCPGxOM
+            id: 0VenBjpc22ykXtXhCPGxOM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eb294796e96afa00e2f0a355
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eb294796e96afa00e2f0a355
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eb294796e96afa00e2f0a355
+            is_playable: true
+            name: Heavy Metal Workout Music
+            release_date: '2020-03-20'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:0VenBjpc22ykXtXhCPGxOM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5
+            href: https://api.spotify.com/v1/artists/3HVdAiMNjYrQIKlOGxoGh5
+            id: 3HVdAiMNjYrQIKlOGxoGh5
+            name: Rob Zombie
+            type: artist
+            uri: spotify:artist:3HVdAiMNjYrQIKlOGxoGh5
+          disc_number: 1
+          duration_ms: 222893
+          explicit: false
+          external_ids:
+            isrc: USGF19821203
+          external_urls:
+            spotify: https://open.spotify.com/track/3fmh9KDw6eXwgE0ocO0sr2
+          href: https://api.spotify.com/v1/tracks/3fmh9KDw6eXwgE0ocO0sr2
+          id: 3fmh9KDw6eXwgE0ocO0sr2
+          is_local: false
+          is_playable: true
+          name: Dragula
+          track_number: 8
+          type: track
+          uri: spotify:track:3fmh9KDw6eXwgE0ocO0sr2
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5
+              href: https://api.spotify.com/v1/artists/3HVdAiMNjYrQIKlOGxoGh5
+              id: 3HVdAiMNjYrQIKlOGxoGh5
+              name: Rob Zombie
+              type: artist
+              uri: spotify:artist:3HVdAiMNjYrQIKlOGxoGh5
+            external_urls:
+              spotify: https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz
+            href: https://api.spotify.com/v1/albums/3RjfiKRsIHB7wQ1L6KoDEz
+            id: 3RjfiKRsIHB7wQ1L6KoDEz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737375f246747aaf6e265ceb78
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027375f246747aaf6e265ceb78
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517375f246747aaf6e265ceb78
+            is_playable: true
+            name: Past, Present & Future
+            release_date: '2003'
+            release_date_precision: year
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3RjfiKRsIHB7wQ1L6KoDEz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5
+            href: https://api.spotify.com/v1/artists/3HVdAiMNjYrQIKlOGxoGh5
+            id: 3HVdAiMNjYrQIKlOGxoGh5
+            name: Rob Zombie
+            type: artist
+            uri: spotify:artist:3HVdAiMNjYrQIKlOGxoGh5
+          disc_number: 1
+          duration_ms: 222893
+          explicit: false
+          external_ids:
+            isrc: USGF19821203
+          external_urls:
+            spotify: https://open.spotify.com/track/6CDhfV6K4yplWYFR8Ip82v
+          href: https://api.spotify.com/v1/tracks/6CDhfV6K4yplWYFR8Ip82v
+          id: 6CDhfV6K4yplWYFR8Ip82v
+          is_local: false
+          is_playable: true
+          name: Dragula
+          track_number: 9
+          type: track
+          uri: spotify:track:6CDhfV6K4yplWYFR8Ip82v
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5
+              href: https://api.spotify.com/v1/artists/3HVdAiMNjYrQIKlOGxoGh5
+              id: 3HVdAiMNjYrQIKlOGxoGh5
+              name: Rob Zombie
+              type: artist
+              uri: spotify:artist:3HVdAiMNjYrQIKlOGxoGh5
+            external_urls:
+              spotify: https://open.spotify.com/album/41Rx8FZ1LvquFThJhTet5x
+            href: https://api.spotify.com/v1/albums/41Rx8FZ1LvquFThJhTet5x
+            id: 41Rx8FZ1LvquFThJhTet5x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fad12e94ca268553decf569c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fad12e94ca268553decf569c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fad12e94ca268553decf569c
+            is_playable: true
+            name: Past, Present & Future
+            release_date: '2003'
+            release_date_precision: year
+            total_tracks: 19
+            type: album
+            uri: spotify:album:41Rx8FZ1LvquFThJhTet5x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5
+            href: https://api.spotify.com/v1/artists/3HVdAiMNjYrQIKlOGxoGh5
+            id: 3HVdAiMNjYrQIKlOGxoGh5
+            name: Rob Zombie
+            type: artist
+            uri: spotify:artist:3HVdAiMNjYrQIKlOGxoGh5
+          disc_number: 1
+          duration_ms: 222906
+          explicit: false
+          external_ids:
+            isrc: USGF19821203
+          external_urls:
+            spotify: https://open.spotify.com/track/1n4Z9kNfMHdwHIFLlUhrca
+          href: https://api.spotify.com/v1/tracks/1n4Z9kNfMHdwHIFLlUhrca
+          id: 1n4Z9kNfMHdwHIFLlUhrca
+          is_local: false
+          is_playable: true
+          name: Dragula
+          track_number: 9
+          type: track
+          uri: spotify:track:1n4Z9kNfMHdwHIFLlUhrca
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5
+              href: https://api.spotify.com/v1/artists/3HVdAiMNjYrQIKlOGxoGh5
+              id: 3HVdAiMNjYrQIKlOGxoGh5
+              name: Rob Zombie
+              type: artist
+              uri: spotify:artist:3HVdAiMNjYrQIKlOGxoGh5
+            external_urls:
+              spotify: https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH
+            href: https://api.spotify.com/v1/albums/2B4lHoTCpWbxQPTZmCOjnH
+            id: 2B4lHoTCpWbxQPTZmCOjnH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27313d4adf9e4b938f88266f4e4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0213d4adf9e4b938f88266f4e4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485113d4adf9e4b938f88266f4e4
+            is_playable: true
+            name: Hellbilly Deluxe
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2B4lHoTCpWbxQPTZmCOjnH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5
+            href: https://api.spotify.com/v1/artists/3HVdAiMNjYrQIKlOGxoGh5
+            id: 3HVdAiMNjYrQIKlOGxoGh5
+            name: Rob Zombie
+            type: artist
+            uri: spotify:artist:3HVdAiMNjYrQIKlOGxoGh5
+          disc_number: 1
+          duration_ms: 222826
+          explicit: false
+          external_ids:
+            isrc: USGF19821203
+          external_urls:
+            spotify: https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF
+          href: https://api.spotify.com/v1/tracks/6Nm8h73ycDG2saCnZV8poF
+          id: 6Nm8h73ycDG2saCnZV8poF
+          is_local: false
+          is_playable: true
+          name: Dragula
+          track_number: 3
+          type: track
+          uri: spotify:track:6Nm8h73ycDG2saCnZV8poF
+    isrc: USGF19821203

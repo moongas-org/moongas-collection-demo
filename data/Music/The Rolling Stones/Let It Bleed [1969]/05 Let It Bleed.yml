@@ -105,3 +105,180 @@ mediaFileData:
   year: 1969
   duration: 334.26666666666665
   modTime: 2022-01-29 18:48:40.430000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3lo4iQMuWPiRIYpgbCnc5C
+    trackId: 3lo4iQMuWPiRIYpgbCnc5C
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSA176910060&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+              href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+              id: 22bE4uQ6baNwSHPVcDxLCe
+              name: The Rolling Stones
+              type: artist
+              uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+            external_urls:
+              spotify: https://open.spotify.com/album/58P2QxVBxqTLc3GIgoWTbz
+            href: https://api.spotify.com/v1/albums/58P2QxVBxqTLc3GIgoWTbz
+            id: 58P2QxVBxqTLc3GIgoWTbz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733ebec86ac993a4168eab64f0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023ebec86ac993a4168eab64f0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513ebec86ac993a4168eab64f0
+            is_playable: true
+            name: More Hot Rocks (Big Hits & Fazed Cookies)
+            release_date: '1972-12-11'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:58P2QxVBxqTLc3GIgoWTbz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+            href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+            id: 22bE4uQ6baNwSHPVcDxLCe
+            name: The Rolling Stones
+            type: artist
+            uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+          disc_number: 2
+          duration_ms: 328626
+          explicit: false
+          external_ids:
+            isrc: USA176910060
+          external_urls:
+            spotify: https://open.spotify.com/track/3lo4iQMuWPiRIYpgbCnc5C
+          href: https://api.spotify.com/v1/tracks/3lo4iQMuWPiRIYpgbCnc5C
+          id: 3lo4iQMuWPiRIYpgbCnc5C
+          is_local: false
+          is_playable: true
+          name: Let It Bleed
+          track_number: 5
+          type: track
+          uri: spotify:track:3lo4iQMuWPiRIYpgbCnc5C
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+              href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+              id: 22bE4uQ6baNwSHPVcDxLCe
+              name: The Rolling Stones
+              type: artist
+              uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+            external_urls:
+              spotify: https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy
+            href: https://api.spotify.com/v1/albums/4l4u9e9jSbotSXNjYfOugy
+            id: 4l4u9e9jSbotSXNjYfOugy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732af30c881bb23cfb82a8cf99
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512af30c881bb23cfb82a8cf99
+            is_playable: true
+            name: Let It Bleed
+            release_date: '1969-12-05'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:4l4u9e9jSbotSXNjYfOugy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+            href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+            id: 22bE4uQ6baNwSHPVcDxLCe
+            name: The Rolling Stones
+            type: artist
+            uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+          disc_number: 1
+          duration_ms: 327880
+          explicit: false
+          external_ids:
+            isrc: USA176910060
+          external_urls:
+            spotify: https://open.spotify.com/track/06FcMPcosZg13x2QODDDK6
+          href: https://api.spotify.com/v1/tracks/06FcMPcosZg13x2QODDDK6
+          id: 06FcMPcosZg13x2QODDDK6
+          is_local: false
+          is_playable: true
+          name: Let It Bleed
+          track_number: 5
+          type: track
+          uri: spotify:track:06FcMPcosZg13x2QODDDK6
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/42m0IxphKTbHJ8q9I5r3Zk
+            href: https://api.spotify.com/v1/albums/42m0IxphKTbHJ8q9I5r3Zk
+            id: 42m0IxphKTbHJ8q9I5r3Zk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739026af67f63982585d6302fe
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029026af67f63982585d6302fe
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519026af67f63982585d6302fe
+            is_playable: true
+            name: Maquina Del Tiempo | 60's
+            release_date: '2024-09-13'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:42m0IxphKTbHJ8q9I5r3Zk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+            href: https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe
+            id: 22bE4uQ6baNwSHPVcDxLCe
+            name: The Rolling Stones
+            type: artist
+            uri: spotify:artist:22bE4uQ6baNwSHPVcDxLCe
+          disc_number: 1
+          duration_ms: 327880
+          explicit: false
+          external_ids:
+            isrc: USA176910060
+          external_urls:
+            spotify: https://open.spotify.com/track/3Txiin1yC2YBySnri2azeo
+          href: https://api.spotify.com/v1/tracks/3Txiin1yC2YBySnri2azeo
+          id: 3Txiin1yC2YBySnri2azeo
+          is_local: false
+          is_playable: true
+          name: Let It Bleed
+          track_number: 23
+          type: track
+          uri: spotify:track:3Txiin1yC2YBySnri2azeo
+    isrc: USA176910060

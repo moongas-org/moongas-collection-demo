@@ -54,3 +54,288 @@ mediaFileData:
   year: 2001
   duration: 221.112
   modTime: 2023-04-12 20:15:29.270000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7
+    trackId: 5wane5dFpp8xgriui6y0c7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGI10000132&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSGI10000132&type=track
+        offset: 0
+        previous:
+        total: 42
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw
+              href: https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw
+              id: 1UTPBmNbXNTittyMJrNkvw
+              name: Blake Shelton
+              type: artist
+              uri: spotify:artist:1UTPBmNbXNTittyMJrNkvw
+            external_urls:
+              spotify: https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8
+            href: https://api.spotify.com/v1/albums/4BRHk20nhD24APuvO9PvC8
+            id: 4BRHk20nhD24APuvO9PvC8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731716c34342160479d07aef9c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021716c34342160479d07aef9c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511716c34342160479d07aef9c
+            is_playable: true
+            name: Blake Shelton
+            release_date: '2001-07-31'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4BRHk20nhD24APuvO9PvC8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw
+            href: https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw
+            id: 1UTPBmNbXNTittyMJrNkvw
+            name: Blake Shelton
+            type: artist
+            uri: spotify:artist:1UTPBmNbXNTittyMJrNkvw
+          disc_number: 1
+          duration_ms: 221266
+          explicit: false
+          external_ids:
+            isrc: USGI10000132
+          external_urls:
+            spotify: https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7
+          href: https://api.spotify.com/v1/tracks/5wane5dFpp8xgriui6y0c7
+          id: 5wane5dFpp8xgriui6y0c7
+          is_local: false
+          is_playable: true
+          name: Ol' Red
+          track_number: 5
+          type: track
+          uri: spotify:track:5wane5dFpp8xgriui6y0c7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw
+              href: https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw
+              id: 1UTPBmNbXNTittyMJrNkvw
+              name: Blake Shelton
+              type: artist
+              uri: spotify:artist:1UTPBmNbXNTittyMJrNkvw
+            external_urls:
+              spotify: https://open.spotify.com/album/6UeNUBAGwpam5g2RgAKdqt
+            href: https://api.spotify.com/v1/albums/6UeNUBAGwpam5g2RgAKdqt
+            id: 6UeNUBAGwpam5g2RgAKdqt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273067367ad0fa203d76a4614a9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02067367ad0fa203d76a4614a9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851067367ad0fa203d76a4614a9
+            is_playable: true
+            name: 'Loaded: The Best of Blake Shelton'
+            release_date: '2010-11-08'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:6UeNUBAGwpam5g2RgAKdqt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw
+            href: https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw
+            id: 1UTPBmNbXNTittyMJrNkvw
+            name: Blake Shelton
+            type: artist
+            uri: spotify:artist:1UTPBmNbXNTittyMJrNkvw
+          disc_number: 1
+          duration_ms: 222733
+          explicit: false
+          external_ids:
+            isrc: USGI10000132
+          external_urls:
+            spotify: https://open.spotify.com/track/4IPPW6kO9mUPG47EcqZRht
+          href: https://api.spotify.com/v1/tracks/4IPPW6kO9mUPG47EcqZRht
+          id: 4IPPW6kO9mUPG47EcqZRht
+          is_local: false
+          is_playable: true
+          name: Ol' Red
+          track_number: 2
+          type: track
+          uri: spotify:track:4IPPW6kO9mUPG47EcqZRht
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4MnNfFDpzEppZt2gQ5cyzu
+            href: https://api.spotify.com/v1/albums/4MnNfFDpzEppZt2gQ5cyzu
+            id: 4MnNfFDpzEppZt2gQ5cyzu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273faf16339b779c6cee905680b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02faf16339b779c6cee905680b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851faf16339b779c6cee905680b
+            is_playable: true
+            name: Country 2000s
+            release_date: '2022-05-06'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:4MnNfFDpzEppZt2gQ5cyzu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw
+            href: https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw
+            id: 1UTPBmNbXNTittyMJrNkvw
+            name: Blake Shelton
+            type: artist
+            uri: spotify:artist:1UTPBmNbXNTittyMJrNkvw
+          disc_number: 1
+          duration_ms: 222733
+          explicit: false
+          external_ids:
+            isrc: USGI10000132
+          external_urls:
+            spotify: https://open.spotify.com/track/7bw6Br2rcgW7AdScSrl8a0
+          href: https://api.spotify.com/v1/tracks/7bw6Br2rcgW7AdScSrl8a0
+          id: 7bw6Br2rcgW7AdScSrl8a0
+          is_local: false
+          is_playable: true
+          name: Ol' Red
+          track_number: 12
+          type: track
+          uri: spotify:track:7bw6Br2rcgW7AdScSrl8a0
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw
+              href: https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw
+              id: 1UTPBmNbXNTittyMJrNkvw
+              name: Blake Shelton
+              type: artist
+              uri: spotify:artist:1UTPBmNbXNTittyMJrNkvw
+            external_urls:
+              spotify: https://open.spotify.com/album/6V9MvZTmsLqUDnYPOlGT0E
+            href: https://api.spotify.com/v1/albums/6V9MvZTmsLqUDnYPOlGT0E
+            id: 6V9MvZTmsLqUDnYPOlGT0E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273feb6c154944088182ee219a5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02feb6c154944088182ee219a5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851feb6c154944088182ee219a5
+            is_playable: true
+            name: The Blake Shelton Collection
+            release_date: '2013-12-06'
+            release_date_precision: day
+            total_tracks: 92
+            type: album
+            uri: spotify:album:6V9MvZTmsLqUDnYPOlGT0E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw
+            href: https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw
+            id: 1UTPBmNbXNTittyMJrNkvw
+            name: Blake Shelton
+            type: artist
+            uri: spotify:artist:1UTPBmNbXNTittyMJrNkvw
+          disc_number: 1
+          duration_ms: 222733
+          explicit: false
+          external_ids:
+            isrc: USGI10000132
+          external_urls:
+            spotify: https://open.spotify.com/track/7bDfMZMgZwYk9cE60NyFjt
+          href: https://api.spotify.com/v1/tracks/7bDfMZMgZwYk9cE60NyFjt
+          id: 7bDfMZMgZwYk9cE60NyFjt
+          is_local: false
+          is_playable: true
+          name: Ol' Red
+          track_number: 5
+          type: track
+          uri: spotify:track:7bDfMZMgZwYk9cE60NyFjt
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5XdA0jxSEVYuUV0A17v5tw
+            href: https://api.spotify.com/v1/albums/5XdA0jxSEVYuUV0A17v5tw
+            id: 5XdA0jxSEVYuUV0A17v5tw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734940db316a4b9097ab94909d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024940db316a4b9097ab94909d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514940db316a4b9097ab94909d
+            is_playable: true
+            name: Country Chart Hits - 2024
+            release_date: '2024-02-28'
+            release_date_precision: day
+            total_tracks: 42
+            type: album
+            uri: spotify:album:5XdA0jxSEVYuUV0A17v5tw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw
+            href: https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw
+            id: 1UTPBmNbXNTittyMJrNkvw
+            name: Blake Shelton
+            type: artist
+            uri: spotify:artist:1UTPBmNbXNTittyMJrNkvw
+          disc_number: 1
+          duration_ms: 222733
+          explicit: false
+          external_ids:
+            isrc: USGI10000132
+          external_urls:
+            spotify: https://open.spotify.com/track/1cedF1Ae7J5oJqlljvZltz
+          href: https://api.spotify.com/v1/tracks/1cedF1Ae7J5oJqlljvZltz
+          id: 1cedF1Ae7J5oJqlljvZltz
+          is_local: false
+          is_playable: true
+          name: Ol’ Red
+          track_number: 27
+          type: track
+          uri: spotify:track:1cedF1Ae7J5oJqlljvZltz
+    isrc: USGI10000132

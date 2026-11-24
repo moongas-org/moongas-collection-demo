@@ -35,3 +35,180 @@ mediaFileData:
   year: 1982
   duration: 198.34775510204082
   modTime: 2023-04-22 21:33:56.530000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4NHCj0WyTOIncq1Z2DabQK
+    trackId: 4NHCj0WyTOIncq1Z2DabQK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAAA8200321&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD
+              href: https://api.spotify.com/v1/artists/0Zy4ncr8h1jd7Nzr9946fD
+              id: 0Zy4ncr8h1jd7Nzr9946fD
+              name: Killing Joke
+              type: artist
+              uri: spotify:artist:0Zy4ncr8h1jd7Nzr9946fD
+            external_urls:
+              spotify: https://open.spotify.com/album/1NslVOXC1oGYPKfsgpdbqn
+            href: https://api.spotify.com/v1/albums/1NslVOXC1oGYPKfsgpdbqn
+            id: 1NslVOXC1oGYPKfsgpdbqn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27326c356b9441bffc3a2a175e4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0226c356b9441bffc3a2a175e4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485126c356b9441bffc3a2a175e4
+            is_playable: true
+            name: Laugh? I Nearly Bought One!
+            release_date: '1992-01-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:1NslVOXC1oGYPKfsgpdbqn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD
+            href: https://api.spotify.com/v1/artists/0Zy4ncr8h1jd7Nzr9946fD
+            id: 0Zy4ncr8h1jd7Nzr9946fD
+            name: Killing Joke
+            type: artist
+            uri: spotify:artist:0Zy4ncr8h1jd7Nzr9946fD
+          disc_number: 1
+          duration_ms: 198706
+          explicit: false
+          external_ids:
+            isrc: GBAAA8200321
+          external_urls:
+            spotify: https://open.spotify.com/track/4NHCj0WyTOIncq1Z2DabQK
+          href: https://api.spotify.com/v1/tracks/4NHCj0WyTOIncq1Z2DabQK
+          id: 4NHCj0WyTOIncq1Z2DabQK
+          is_local: false
+          is_playable: true
+          name: Empire Song
+          track_number: 10
+          type: track
+          uri: spotify:track:4NHCj0WyTOIncq1Z2DabQK
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD
+              href: https://api.spotify.com/v1/artists/0Zy4ncr8h1jd7Nzr9946fD
+              id: 0Zy4ncr8h1jd7Nzr9946fD
+              name: Killing Joke
+              type: artist
+              uri: spotify:artist:0Zy4ncr8h1jd7Nzr9946fD
+            external_urls:
+              spotify: https://open.spotify.com/album/6rWvyzaEsS7OtyxrZGTdGu
+            href: https://api.spotify.com/v1/albums/6rWvyzaEsS7OtyxrZGTdGu
+            id: 6rWvyzaEsS7OtyxrZGTdGu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738803f779654842dc4771dad8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028803f779654842dc4771dad8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518803f779654842dc4771dad8
+            is_playable: true
+            name: Singles Collection 1979 - 2012
+            release_date: '2012-01-01'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:6rWvyzaEsS7OtyxrZGTdGu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD
+            href: https://api.spotify.com/v1/artists/0Zy4ncr8h1jd7Nzr9946fD
+            id: 0Zy4ncr8h1jd7Nzr9946fD
+            name: Killing Joke
+            type: artist
+            uri: spotify:artist:0Zy4ncr8h1jd7Nzr9946fD
+          disc_number: 1
+          duration_ms: 198893
+          explicit: false
+          external_ids:
+            isrc: GBAAA8200321
+          external_urls:
+            spotify: https://open.spotify.com/track/6wuOppAS8sa7a56L7wfA5Q
+          href: https://api.spotify.com/v1/tracks/6wuOppAS8sa7a56L7wfA5Q
+          id: 6wuOppAS8sa7a56L7wfA5Q
+          is_local: false
+          is_playable: true
+          name: Empire Song
+          track_number: 5
+          type: track
+          uri: spotify:track:6wuOppAS8sa7a56L7wfA5Q
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD
+              href: https://api.spotify.com/v1/artists/0Zy4ncr8h1jd7Nzr9946fD
+              id: 0Zy4ncr8h1jd7Nzr9946fD
+              name: Killing Joke
+              type: artist
+              uri: spotify:artist:0Zy4ncr8h1jd7Nzr9946fD
+            external_urls:
+              spotify: https://open.spotify.com/album/2ahUvTVOHdJxojiDCzyfoJ
+            href: https://api.spotify.com/v1/albums/2ahUvTVOHdJxojiDCzyfoJ
+            id: 2ahUvTVOHdJxojiDCzyfoJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733068886370369d725e6bc5b0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023068886370369d725e6bc5b0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513068886370369d725e6bc5b0
+            is_playable: true
+            name: Singles Collection 1979 - 2012 (Deluxe)
+            release_date: '2013-01-01'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:2ahUvTVOHdJxojiDCzyfoJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD
+            href: https://api.spotify.com/v1/artists/0Zy4ncr8h1jd7Nzr9946fD
+            id: 0Zy4ncr8h1jd7Nzr9946fD
+            name: Killing Joke
+            type: artist
+            uri: spotify:artist:0Zy4ncr8h1jd7Nzr9946fD
+          disc_number: 1
+          duration_ms: 198893
+          explicit: false
+          external_ids:
+            isrc: GBAAA8200321
+          external_urls:
+            spotify: https://open.spotify.com/track/5aE17FFuIXclyc2zKgOGmX
+          href: https://api.spotify.com/v1/tracks/5aE17FFuIXclyc2zKgOGmX
+          id: 5aE17FFuIXclyc2zKgOGmX
+          is_local: false
+          is_playable: true
+          name: Empire Song
+          track_number: 5
+          type: track
+          uri: spotify:track:5aE17FFuIXclyc2zKgOGmX
+    isrc: GBAAA8200321

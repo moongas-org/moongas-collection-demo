@@ -114,3 +114,288 @@ mediaFileData:
   year: 1970
   duration: 181.0040625
   modTime: 2023-04-10 02:04:52.680000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5fBgP7Znqpk7HF9GSz82qE
+    trackId: 5fBgP7Znqpk7HF9GSz82qE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC16946205&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMC16946205&type=track
+        offset: 0
+        previous:
+        total: 26
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC
+            href: https://api.spotify.com/v1/albums/3ZAFnRYQRAiBplISQFj7nC
+            id: 3ZAFnRYQRAiBplISQFj7nC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f435492c0c10abee29079b03
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f435492c0c10abee29079b03
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f435492c0c10abee29079b03
+            is_playable: true
+            name: Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]
+            release_date: '2019-09-06'
+            release_date_precision: day
+            total_tracks: 105
+            type: album
+            uri: spotify:album:3ZAFnRYQRAiBplISQFj7nC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+            href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+            id: 1FE0rls8gfQT3laAeRYNgl
+            name: Loretta Lynn
+            type: artist
+            uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+          disc_number: 3
+          duration_ms: 178306
+          explicit: false
+          external_ids:
+            isrc: USMC16946205
+          external_urls:
+            spotify: https://open.spotify.com/track/5fBgP7Znqpk7HF9GSz82qE
+          href: https://api.spotify.com/v1/tracks/5fBgP7Znqpk7HF9GSz82qE
+          id: 5fBgP7Znqpk7HF9GSz82qE
+          is_local: false
+          is_playable: true
+          name: Coal Miner's Daughter
+          track_number: 4
+          type: track
+          uri: spotify:track:5fBgP7Znqpk7HF9GSz82qE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+              href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+              id: 1FE0rls8gfQT3laAeRYNgl
+              name: Loretta Lynn
+              type: artist
+              uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+            external_urls:
+              spotify: https://open.spotify.com/album/1xszIYZw0waqfnGk6le7hg
+            href: https://api.spotify.com/v1/albums/1xszIYZw0waqfnGk6le7hg
+            id: 1xszIYZw0waqfnGk6le7hg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273177a4e76ce50151a1c508c7e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02177a4e76ce50151a1c508c7e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851177a4e76ce50151a1c508c7e
+            is_playable: true
+            name: All Time Greatest Hits
+            release_date: '2002-01-01'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:1xszIYZw0waqfnGk6le7hg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+            href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+            id: 1FE0rls8gfQT3laAeRYNgl
+            name: Loretta Lynn
+            type: artist
+            uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+          disc_number: 1
+          duration_ms: 178440
+          explicit: false
+          external_ids:
+            isrc: USMC16946205
+          external_urls:
+            spotify: https://open.spotify.com/track/6Vg89Iuf8DWm6IbFpwQIfc
+          href: https://api.spotify.com/v1/tracks/6Vg89Iuf8DWm6IbFpwQIfc
+          id: 6Vg89Iuf8DWm6IbFpwQIfc
+          is_local: false
+          is_playable: true
+          name: Coal Miner's Daughter
+          track_number: 8
+          type: track
+          uri: spotify:track:6Vg89Iuf8DWm6IbFpwQIfc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+              href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+              id: 1FE0rls8gfQT3laAeRYNgl
+              name: Loretta Lynn
+              type: artist
+              uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+            external_urls:
+              spotify: https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb
+            href: https://api.spotify.com/v1/albums/6KSIeegoDEnb4PxvKUwYDb
+            id: 6KSIeegoDEnb4PxvKUwYDb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cddeec9da2decfdb27b364db
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cddeec9da2decfdb27b364db
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cddeec9da2decfdb27b364db
+            is_playable: true
+            name: 'Honky Tonk Girl: The Loretta Lynn Collection'
+            release_date: '1994-09-13'
+            release_date_precision: day
+            total_tracks: 70
+            type: album
+            uri: spotify:album:6KSIeegoDEnb4PxvKUwYDb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+            href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+            id: 1FE0rls8gfQT3laAeRYNgl
+            name: Loretta Lynn
+            type: artist
+            uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+          disc_number: 2
+          duration_ms: 182640
+          explicit: false
+          external_ids:
+            isrc: USMC16946205
+          external_urls:
+            spotify: https://open.spotify.com/track/30m1G9YyiwQzFG7QvAZzHE
+          href: https://api.spotify.com/v1/tracks/30m1G9YyiwQzFG7QvAZzHE
+          id: 30m1G9YyiwQzFG7QvAZzHE
+          is_local: false
+          is_playable: true
+          name: Coal Miner's Daughter
+          track_number: 11
+          type: track
+          uri: spotify:track:30m1G9YyiwQzFG7QvAZzHE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+              href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+              id: 1FE0rls8gfQT3laAeRYNgl
+              name: Loretta Lynn
+              type: artist
+              uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+            external_urls:
+              spotify: https://open.spotify.com/album/3lA4uX55cdJUOoZKjoskOF
+            href: https://api.spotify.com/v1/albums/3lA4uX55cdJUOoZKjoskOF
+            id: 3lA4uX55cdJUOoZKjoskOF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732be70f9a7c4d13ea1ac8d659
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022be70f9a7c4d13ea1ac8d659
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512be70f9a7c4d13ea1ac8d659
+            is_playable: true
+            name: The Country Music Hall Of Fame
+            release_date: '1991-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:3lA4uX55cdJUOoZKjoskOF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+            href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+            id: 1FE0rls8gfQT3laAeRYNgl
+            name: Loretta Lynn
+            type: artist
+            uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+          disc_number: 1
+          duration_ms: 180333
+          explicit: false
+          external_ids:
+            isrc: USMC16946205
+          external_urls:
+            spotify: https://open.spotify.com/track/6XDVV7QOUOdHynwoJTdAHL
+          href: https://api.spotify.com/v1/tracks/6XDVV7QOUOdHynwoJTdAHL
+          id: 6XDVV7QOUOdHynwoJTdAHL
+          is_local: false
+          is_playable: true
+          name: Coal Miner's Daughter
+          track_number: 10
+          type: track
+          uri: spotify:track:6XDVV7QOUOdHynwoJTdAHL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+              href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+              id: 1FE0rls8gfQT3laAeRYNgl
+              name: Loretta Lynn
+              type: artist
+              uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+            external_urls:
+              spotify: https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr
+            href: https://api.spotify.com/v1/albums/2SayIIdZkrtb9I4BbdnyOr
+            id: 2SayIIdZkrtb9I4BbdnyOr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273105efc7e27696434d265db1b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02105efc7e27696434d265db1b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851105efc7e27696434d265db1b
+            is_playable: true
+            name: Coal Miner's Daughter
+            release_date: '1971-01-04'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:2SayIIdZkrtb9I4BbdnyOr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+            href: https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl
+            id: 1FE0rls8gfQT3laAeRYNgl
+            name: Loretta Lynn
+            type: artist
+            uri: spotify:artist:1FE0rls8gfQT3laAeRYNgl
+          disc_number: 1
+          duration_ms: 180960
+          explicit: false
+          external_ids:
+            isrc: USMC16946205
+          external_urls:
+            spotify: https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L
+          href: https://api.spotify.com/v1/tracks/3mM14WXoPaLRjjkmxHe99L
+          id: 3mM14WXoPaLRjjkmxHe99L
+          is_local: false
+          is_playable: true
+          name: Coal Miner's Daughter - Single Version
+          track_number: 1
+          type: track
+          uri: spotify:track:3mM14WXoPaLRjjkmxHe99L
+    isrc: USMC16946205

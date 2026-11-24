@@ -48,3 +48,126 @@ mediaFileData:
   year: 1997
   duration: 207.3861
   modTime: 2023-05-14 00:26:22.170000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2QSjIU7rCVKyxxafGmIPv6
+    trackId: 2QSjIU7rCVKyxxafGmIPv6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCAD0800803&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7
+            href: https://api.spotify.com/v1/albums/2z8iibF0hCuBb9h9gYkuO7
+            id: 2z8iibF0hCuBb9h9gYkuO7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c462f40b1b7bfb7c27b9dd41
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c462f40b1b7bfb7c27b9dd41
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c462f40b1b7bfb7c27b9dd41
+            is_playable: true
+            name: 'Brighten the Corners: Nicene Creedence Ed.'
+            release_date: '2008-12-09'
+            release_date_precision: day
+            total_tracks: 44
+            type: album
+            uri: spotify:album:2z8iibF0hCuBb9h9gYkuO7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 2
+          duration_ms: 207333
+          explicit: false
+          external_ids:
+            isrc: GBCAD0800803
+          external_urls:
+            spotify: https://open.spotify.com/track/2QSjIU7rCVKyxxafGmIPv6
+          href: https://api.spotify.com/v1/tracks/2QSjIU7rCVKyxxafGmIPv6
+          id: 2QSjIU7rCVKyxxafGmIPv6
+          is_local: false
+          is_playable: true
+          name: The Classical - BBC John Peel session August 21, 1997
+          track_number: 22
+          type: track
+          uri: spotify:track:2QSjIU7rCVKyxxafGmIPv6
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/5ky4KFfJNcGDwFtwHi4ZGk
+            href: https://api.spotify.com/v1/albums/5ky4KFfJNcGDwFtwHi4ZGk
+            id: 5ky4KFfJNcGDwFtwHi4ZGk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273edbbb5f88e7dd70a33b5a27d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02edbbb5f88e7dd70a33b5a27d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851edbbb5f88e7dd70a33b5a27d
+            is_playable: true
+            name: 'Cautionary Tales: Jukebox Classiques'
+            release_date: '2024-03-13'
+            release_date_precision: day
+            total_tracks: 56
+            type: album
+            uri: spotify:album:5ky4KFfJNcGDwFtwHi4ZGk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 8
+          duration_ms: 207333
+          explicit: false
+          external_ids:
+            isrc: GBCAD0800803
+          external_urls:
+            spotify: https://open.spotify.com/track/4A8OPZ0nPi3wRhBJYp7x53
+          href: https://api.spotify.com/v1/tracks/4A8OPZ0nPi3wRhBJYp7x53
+          id: 4A8OPZ0nPi3wRhBJYp7x53
+          is_local: false
+          is_playable: true
+          name: The Classical - BBC John Peel session August 21, 1997
+          track_number: 11
+          type: track
+          uri: spotify:track:4A8OPZ0nPi3wRhBJYp7x53
+    isrc: GBCAD0800803

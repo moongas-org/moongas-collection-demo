@@ -74,3 +74,126 @@ mediaFileData:
   year: 2016
   duration: 238.728
   modTime: 2025-03-10 01:25:01.948053+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0z6HHjky6ouj4ckisnEz9R
+    trackId: 0z6HHjky6ouj4ckisnEz9R
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUDCB1500501&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/6hqj3bidSmuNjba4jgNiQK
+            href: https://api.spotify.com/v1/albums/6hqj3bidSmuNjba4jgNiQK
+            id: 6hqj3bidSmuNjba4jgNiQK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ce48294f1ac9290aca388f4e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ce48294f1ac9290aca388f4e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ce48294f1ac9290aca388f4e
+            is_playable: true
+            name: You Were Right
+            release_date: '2015-06-26'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:6hqj3bidSmuNjba4jgNiQK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 1
+          duration_ms: 238646
+          explicit: false
+          external_ids:
+            isrc: AUDCB1500501
+          external_urls:
+            spotify: https://open.spotify.com/track/0z6HHjky6ouj4ckisnEz9R
+          href: https://api.spotify.com/v1/tracks/0z6HHjky6ouj4ckisnEz9R
+          id: 0z6HHjky6ouj4ckisnEz9R
+          is_local: false
+          is_playable: true
+          name: You Were Right
+          track_number: 1
+          type: track
+          uri: spotify:track:0z6HHjky6ouj4ckisnEz9R
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p
+            href: https://api.spotify.com/v1/albums/4EAehCii5lZgeewct1LA5p
+            id: 4EAehCii5lZgeewct1LA5p
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27360e5059dcab339142d7642bb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0260e5059dcab339142d7642bb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485160e5059dcab339142d7642bb
+            is_playable: true
+            name: Bloom
+            release_date: '2016-01-22'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4EAehCii5lZgeewct1LA5p
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 1
+          duration_ms: 239417
+          explicit: false
+          external_ids:
+            isrc: AUDCB1500501
+          external_urls:
+            spotify: https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz
+          href: https://api.spotify.com/v1/tracks/5HGxLtYxTriF7mMiriSpaz
+          id: 5HGxLtYxTriF7mMiriSpaz
+          is_local: false
+          is_playable: true
+          name: You Were Right
+          track_number: 4
+          type: track
+          uri: spotify:track:5HGxLtYxTriF7mMiriSpaz
+    isrc: AUDCB1500501

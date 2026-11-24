@@ -34,3 +34,72 @@ mediaFileData:
   year: 2025
   duration: 244.21877551020407
   modTime: 2025-11-21 23:28:43.651008+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6sCaroF3s7bjex7KdanjVG
+    trackId: 6sCaroF3s7bjex7KdanjVG
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSATO2400345&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM
+              href: https://api.spotify.com/v1/artists/43O3c6wewpzPKwVaGEEtBM
+              id: 43O3c6wewpzPKwVaGEEtBM
+              name: My Morning Jacket
+              type: artist
+              uri: spotify:artist:43O3c6wewpzPKwVaGEEtBM
+            external_urls:
+              spotify: https://open.spotify.com/album/2dVCooooibCULjmkqoUm7Z
+            href: https://api.spotify.com/v1/albums/2dVCooooibCULjmkqoUm7Z
+            id: 2dVCooooibCULjmkqoUm7Z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b6793edd52e9512a42d22be3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b6793edd52e9512a42d22be3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b6793edd52e9512a42d22be3
+            is_playable: true
+            name: is
+            release_date: '2025-03-21'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2dVCooooibCULjmkqoUm7Z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM
+            href: https://api.spotify.com/v1/artists/43O3c6wewpzPKwVaGEEtBM
+            id: 43O3c6wewpzPKwVaGEEtBM
+            name: My Morning Jacket
+            type: artist
+            uri: spotify:artist:43O3c6wewpzPKwVaGEEtBM
+          disc_number: 1
+          duration_ms: 244106
+          explicit: false
+          external_ids:
+            isrc: USATO2400345
+          external_urls:
+            spotify: https://open.spotify.com/track/6sCaroF3s7bjex7KdanjVG
+          href: https://api.spotify.com/v1/tracks/6sCaroF3s7bjex7KdanjVG
+          id: 6sCaroF3s7bjex7KdanjVG
+          is_local: false
+          is_playable: true
+          name: Die For It
+          track_number: 9
+          type: track
+          uri: spotify:track:6sCaroF3s7bjex7KdanjVG
+    isrc: USATO2400345

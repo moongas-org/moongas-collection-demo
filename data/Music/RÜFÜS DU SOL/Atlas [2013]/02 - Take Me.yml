@@ -52,3 +52,126 @@ mediaFileData:
   year: 2019
   duration: 242.04
   modTime: 2025-03-10 01:20:08.914247+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/42FUZVvwTfNBB5Rf3yANyT
+    trackId: 42FUZVvwTfNBB5Rf3yANyT
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUDCB1300082&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/0cY0tA0ermWHywPtSy01oe
+            href: https://api.spotify.com/v1/albums/0cY0tA0ermWHywPtSy01oe
+            id: 0cY0tA0ermWHywPtSy01oe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eed796f392ef33ee557bb6f0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eed796f392ef33ee557bb6f0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eed796f392ef33ee557bb6f0
+            is_playable: true
+            name: Atlas (10 Year Anniversary)
+            release_date: '2014-12-01'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:0cY0tA0ermWHywPtSy01oe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 1
+          duration_ms: 242000
+          explicit: false
+          external_ids:
+            isrc: AUDCB1300082
+          external_urls:
+            spotify: https://open.spotify.com/track/42FUZVvwTfNBB5Rf3yANyT
+          href: https://api.spotify.com/v1/tracks/42FUZVvwTfNBB5Rf3yANyT
+          id: 42FUZVvwTfNBB5Rf3yANyT
+          is_local: false
+          is_playable: true
+          name: Take Me
+          track_number: 2
+          type: track
+          uri: spotify:track:42FUZVvwTfNBB5Rf3yANyT
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l
+            href: https://api.spotify.com/v1/albums/1AD72FZKFKPeamhZzcuW9l
+            id: 1AD72FZKFKPeamhZzcuW9l
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c951a766fbb2032ef90533dd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c951a766fbb2032ef90533dd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c951a766fbb2032ef90533dd
+            is_playable: true
+            name: Atlas
+            release_date: '2014-05-07'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1AD72FZKFKPeamhZzcuW9l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 1
+          duration_ms: 242000
+          explicit: false
+          external_ids:
+            isrc: AUDCB1300082
+          external_urls:
+            spotify: https://open.spotify.com/track/47CIsUktv8PGNWiHm4lahX
+          href: https://api.spotify.com/v1/tracks/47CIsUktv8PGNWiHm4lahX
+          id: 47CIsUktv8PGNWiHm4lahX
+          is_local: false
+          is_playable: true
+          name: Take Me
+          track_number: 2
+          type: track
+          uri: spotify:track:47CIsUktv8PGNWiHm4lahX
+    isrc: AUDCB1300082

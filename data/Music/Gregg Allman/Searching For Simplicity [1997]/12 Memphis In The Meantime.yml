@@ -34,3 +34,126 @@ mediaFileData:
   year: 1997
   duration: 223.6343125
   modTime: 2023-07-16 22:53:34+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3wM3FIZpRXDm66qVbXzonE
+    trackId: 3wM3FIZpRXDm66qVbXzonE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19702314&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+              href: https://api.spotify.com/v1/artists/0yDmbRjVTQsQd3OnMs5s3I
+              id: 0yDmbRjVTQsQd3OnMs5s3I
+              name: Gregg Allman
+              type: artist
+              uri: spotify:artist:0yDmbRjVTQsQd3OnMs5s3I
+            external_urls:
+              spotify: https://open.spotify.com/album/4jqlxqIdOdrgC9GxEnWO6v
+            href: https://api.spotify.com/v1/albums/4jqlxqIdOdrgC9GxEnWO6v
+            id: 4jqlxqIdOdrgC9GxEnWO6v
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b050404761f585997dd5131e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b050404761f585997dd5131e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b050404761f585997dd5131e
+            is_playable: true
+            name: Searching For Simplicity
+            release_date: '1997-10-16'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4jqlxqIdOdrgC9GxEnWO6v
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+            href: https://api.spotify.com/v1/artists/0yDmbRjVTQsQd3OnMs5s3I
+            id: 0yDmbRjVTQsQd3OnMs5s3I
+            name: Gregg Allman
+            type: artist
+            uri: spotify:artist:0yDmbRjVTQsQd3OnMs5s3I
+          disc_number: 1
+          duration_ms: 222640
+          explicit: false
+          external_ids:
+            isrc: USSM19702314
+          external_urls:
+            spotify: https://open.spotify.com/track/3wM3FIZpRXDm66qVbXzonE
+          href: https://api.spotify.com/v1/tracks/3wM3FIZpRXDm66qVbXzonE
+          id: 3wM3FIZpRXDm66qVbXzonE
+          is_local: false
+          is_playable: true
+          name: Memphis In The Meantime
+          track_number: 12
+          type: track
+          uri: spotify:track:3wM3FIZpRXDm66qVbXzonE
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+              href: https://api.spotify.com/v1/artists/0yDmbRjVTQsQd3OnMs5s3I
+              id: 0yDmbRjVTQsQd3OnMs5s3I
+              name: Gregg Allman
+              type: artist
+              uri: spotify:artist:0yDmbRjVTQsQd3OnMs5s3I
+            external_urls:
+              spotify: https://open.spotify.com/album/0RdWoy2qz4Ch0wpGrPjA7R
+            href: https://api.spotify.com/v1/albums/0RdWoy2qz4Ch0wpGrPjA7R
+            id: 0RdWoy2qz4Ch0wpGrPjA7R
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e2f87da8dfefd0a662b89123
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e2f87da8dfefd0a662b89123
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e2f87da8dfefd0a662b89123
+            is_playable: true
+            name: 'Playlist: The Very Best Of Gregg Allman'
+            release_date: '2012-01-31'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:0RdWoy2qz4Ch0wpGrPjA7R
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+            href: https://api.spotify.com/v1/artists/0yDmbRjVTQsQd3OnMs5s3I
+            id: 0yDmbRjVTQsQd3OnMs5s3I
+            name: Gregg Allman
+            type: artist
+            uri: spotify:artist:0yDmbRjVTQsQd3OnMs5s3I
+          disc_number: 1
+          duration_ms: 222773
+          explicit: false
+          external_ids:
+            isrc: USSM19702314
+          external_urls:
+            spotify: https://open.spotify.com/track/4tOkIEfDLWg5aKEZq5aaDT
+          href: https://api.spotify.com/v1/tracks/4tOkIEfDLWg5aKEZq5aaDT
+          id: 4tOkIEfDLWg5aKEZq5aaDT
+          is_local: false
+          is_playable: true
+          name: Memphis In The Meantime
+          track_number: 7
+          type: track
+          uri: spotify:track:4tOkIEfDLWg5aKEZq5aaDT
+    isrc: USSM19702314

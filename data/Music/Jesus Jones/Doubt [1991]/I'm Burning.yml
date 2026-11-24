@@ -48,3 +48,126 @@ mediaFileData:
   year: 1991
   duration: 200.232
   modTime: 2023-10-14 15:00:56+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3hxiWcgjU7dDvXqbrxugZj
+    trackId: 3hxiWcgjU7dDvXqbrxugZj
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE9100342&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw
+              href: https://api.spotify.com/v1/artists/0roeI3yPusDWwWRzAqTopw
+              id: 0roeI3yPusDWwWRzAqTopw
+              name: Jesus Jones
+              type: artist
+              uri: spotify:artist:0roeI3yPusDWwWRzAqTopw
+            external_urls:
+              spotify: https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi
+            href: https://api.spotify.com/v1/albums/7hKst6QIxeAcpOx3o2y6mi
+            id: 7hKst6QIxeAcpOx3o2y6mi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fa6e7b30e96a8c86722689bc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fa6e7b30e96a8c86722689bc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fa6e7b30e96a8c86722689bc
+            is_playable: true
+            name: Doubt
+            release_date: '1991-01-28'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:7hKst6QIxeAcpOx3o2y6mi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw
+            href: https://api.spotify.com/v1/artists/0roeI3yPusDWwWRzAqTopw
+            id: 0roeI3yPusDWwWRzAqTopw
+            name: Jesus Jones
+            type: artist
+            uri: spotify:artist:0roeI3yPusDWwWRzAqTopw
+          disc_number: 1
+          duration_ms: 200200
+          explicit: false
+          external_ids:
+            isrc: GBAYE9100342
+          external_urls:
+            spotify: https://open.spotify.com/track/3hxiWcgjU7dDvXqbrxugZj
+          href: https://api.spotify.com/v1/tracks/3hxiWcgjU7dDvXqbrxugZj
+          id: 3hxiWcgjU7dDvXqbrxugZj
+          is_local: false
+          is_playable: true
+          name: I'm Burning
+          track_number: 4
+          type: track
+          uri: spotify:track:3hxiWcgjU7dDvXqbrxugZj
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw
+              href: https://api.spotify.com/v1/artists/0roeI3yPusDWwWRzAqTopw
+              id: 0roeI3yPusDWwWRzAqTopw
+              name: Jesus Jones
+              type: artist
+              uri: spotify:artist:0roeI3yPusDWwWRzAqTopw
+            external_urls:
+              spotify: https://open.spotify.com/album/5GfhGpJaI8RS4OJoc3uPTx
+            href: https://api.spotify.com/v1/albums/5GfhGpJaI8RS4OJoc3uPTx
+            id: 5GfhGpJaI8RS4OJoc3uPTx
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27367369923f81415e07c34b4f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0267369923f81415e07c34b4f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485167369923f81415e07c34b4f5
+            is_playable: true
+            name: Doubt
+            release_date: '1991-01-28'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5GfhGpJaI8RS4OJoc3uPTx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw
+            href: https://api.spotify.com/v1/artists/0roeI3yPusDWwWRzAqTopw
+            id: 0roeI3yPusDWwWRzAqTopw
+            name: Jesus Jones
+            type: artist
+            uri: spotify:artist:0roeI3yPusDWwWRzAqTopw
+          disc_number: 1
+          duration_ms: 200200
+          explicit: false
+          external_ids:
+            isrc: GBAYE9100342
+          external_urls:
+            spotify: https://open.spotify.com/track/0ak5Pt5IetIRvPJJ361Ehn
+          href: https://api.spotify.com/v1/tracks/0ak5Pt5IetIRvPJJ361Ehn
+          id: 0ak5Pt5IetIRvPJJ361Ehn
+          is_local: false
+          is_playable: true
+          name: I'm Burning
+          track_number: 4
+          type: track
+          uri: spotify:track:0ak5Pt5IetIRvPJJ361Ehn
+    isrc: GBAYE9100342

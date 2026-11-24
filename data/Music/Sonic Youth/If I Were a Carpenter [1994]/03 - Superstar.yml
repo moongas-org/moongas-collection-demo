@@ -183,3 +183,168 @@ mediaFileData:
   year: 1994
   duration: 249.41714285714286
   modTime: 2024-10-04 21:51:05.436160+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4YTcpLZ7J0yHNspzxjA1XU
+    trackId: 4YTcpLZ7J0yHNspzxjA1XU
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM72023791&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG
+              href: https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG
+              id: 4aP1lp10BRYZO658B2NwkG
+              name: Andrew Lloyd Webber
+              type: artist
+              uri: spotify:artist:4aP1lp10BRYZO658B2NwkG
+            external_urls:
+              spotify: https://open.spotify.com/album/5MmeKntf0dh07WJjIoiv6f
+            href: https://api.spotify.com/v1/albums/5MmeKntf0dh07WJjIoiv6f
+            id: 5MmeKntf0dh07WJjIoiv6f
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27302ef855bc598302e602b611c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0202ef855bc598302e602b611c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485102ef855bc598302e602b611c
+            is_playable: true
+            name: Jesus Christ Superstar (50th Anniversary / Deluxe)
+            release_date: '2021-09-17'
+            release_date_precision: day
+            total_tracks: 36
+            type: album
+            uri: spotify:album:5MmeKntf0dh07WJjIoiv6f
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR
+            href: https://api.spotify.com/v1/artists/479Yp6DvyXoIaCssAxB4QR
+            id: 479Yp6DvyXoIaCssAxB4QR
+            name: Murray Head
+            type: artist
+            uri: spotify:artist:479Yp6DvyXoIaCssAxB4QR
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG
+            href: https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG
+            id: 4aP1lp10BRYZO658B2NwkG
+            name: Andrew Lloyd Webber
+            type: artist
+            uri: spotify:artist:4aP1lp10BRYZO658B2NwkG
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh
+            href: https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh
+            id: 3KDpcZPHxvsaVk5PReoGqh
+            name: Tim Rice
+            type: artist
+            uri: spotify:artist:3KDpcZPHxvsaVk5PReoGqh
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6pgLxFqJE6Wm9wWyM2iFEn
+            href: https://api.spotify.com/v1/artists/6pgLxFqJE6Wm9wWyM2iFEn
+            id: 6pgLxFqJE6Wm9wWyM2iFEn
+            name: The Trinidad Singers
+            type: artist
+            uri: spotify:artist:6pgLxFqJE6Wm9wWyM2iFEn
+          disc_number: 2
+          duration_ms: 256252
+          explicit: false
+          external_ids:
+            isrc: USUM72023791
+          external_urls:
+            spotify: https://open.spotify.com/track/4YTcpLZ7J0yHNspzxjA1XU
+          href: https://api.spotify.com/v1/tracks/4YTcpLZ7J0yHNspzxjA1XU
+          id: 4YTcpLZ7J0yHNspzxjA1XU
+          is_local: false
+          is_playable: true
+          name: Superstar - Remastered 2021
+          track_number: 9
+          type: track
+          uri: spotify:track:4YTcpLZ7J0yHNspzxjA1XU
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG
+              href: https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG
+              id: 4aP1lp10BRYZO658B2NwkG
+              name: Andrew Lloyd Webber
+              type: artist
+              uri: spotify:artist:4aP1lp10BRYZO658B2NwkG
+            external_urls:
+              spotify: https://open.spotify.com/album/4jR9ULFTTKGXG3cmaXByWU
+            href: https://api.spotify.com/v1/albums/4jR9ULFTTKGXG3cmaXByWU
+            id: 4jR9ULFTTKGXG3cmaXByWU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c5d55d245a5582b993848181
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c5d55d245a5582b993848181
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c5d55d245a5582b993848181
+            is_playable: true
+            name: Jesus Christ Superstar (50th Anniversary / Remastered 2021)
+            release_date: '2021-09-17'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:4jR9ULFTTKGXG3cmaXByWU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR
+            href: https://api.spotify.com/v1/artists/479Yp6DvyXoIaCssAxB4QR
+            id: 479Yp6DvyXoIaCssAxB4QR
+            name: Murray Head
+            type: artist
+            uri: spotify:artist:479Yp6DvyXoIaCssAxB4QR
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG
+            href: https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG
+            id: 4aP1lp10BRYZO658B2NwkG
+            name: Andrew Lloyd Webber
+            type: artist
+            uri: spotify:artist:4aP1lp10BRYZO658B2NwkG
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh
+            href: https://api.spotify.com/v1/artists/3KDpcZPHxvsaVk5PReoGqh
+            id: 3KDpcZPHxvsaVk5PReoGqh
+            name: Tim Rice
+            type: artist
+            uri: spotify:artist:3KDpcZPHxvsaVk5PReoGqh
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6pgLxFqJE6Wm9wWyM2iFEn
+            href: https://api.spotify.com/v1/artists/6pgLxFqJE6Wm9wWyM2iFEn
+            id: 6pgLxFqJE6Wm9wWyM2iFEn
+            name: The Trinidad Singers
+            type: artist
+            uri: spotify:artist:6pgLxFqJE6Wm9wWyM2iFEn
+          disc_number: 2
+          duration_ms: 256252
+          explicit: false
+          external_ids:
+            isrc: USUM72023791
+          external_urls:
+            spotify: https://open.spotify.com/track/6rwWDKTCcrBb4xJvsZxwv6
+          href: https://api.spotify.com/v1/tracks/6rwWDKTCcrBb4xJvsZxwv6
+          id: 6rwWDKTCcrBb4xJvsZxwv6
+          is_local: false
+          is_playable: true
+          name: Superstar - Remastered 2021
+          track_number: 9
+          type: track
+          uri: spotify:track:6rwWDKTCcrBb4xJvsZxwv6
+    isrc: USUM72023791

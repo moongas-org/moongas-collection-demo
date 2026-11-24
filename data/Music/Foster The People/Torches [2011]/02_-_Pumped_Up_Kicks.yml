@@ -133,3 +133,126 @@ mediaFileData:
   year: 2011
   duration: 239.6
   modTime: 2025-04-11 17:25:34.350438+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2D1uFfnp5ylRPNYbdEa5Kv
+    trackId: 2D1uFfnp5ylRPNYbdEa5Kv
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM11101704&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc
+              href: https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc
+              id: 7gP3bB2nilZXLfPHJhMdvc
+              name: Foster The People
+              type: artist
+              uri: spotify:artist:7gP3bB2nilZXLfPHJhMdvc
+            external_urls:
+              spotify: https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT
+            href: https://api.spotify.com/v1/albums/7Kmmw7Z5D2UD5MVwdm10sT
+            id: 7Kmmw7Z5D2UD5MVwdm10sT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02121d5f92cf90576907dfb1e5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851121d5f92cf90576907dfb1e5
+            is_playable: true
+            name: Torches
+            release_date: '2011-05-23'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7Kmmw7Z5D2UD5MVwdm10sT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc
+            href: https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc
+            id: 7gP3bB2nilZXLfPHJhMdvc
+            name: Foster The People
+            type: artist
+            uri: spotify:artist:7gP3bB2nilZXLfPHJhMdvc
+          disc_number: 1
+          duration_ms: 215306
+          explicit: false
+          external_ids:
+            isrc: USSM11101704
+          external_urls:
+            spotify: https://open.spotify.com/track/2D1uFfnp5ylRPNYbdEa5Kv
+          href: https://api.spotify.com/v1/tracks/2D1uFfnp5ylRPNYbdEa5Kv
+          id: 2D1uFfnp5ylRPNYbdEa5Kv
+          is_local: false
+          is_playable: true
+          name: Life on the Nickel
+          track_number: 8
+          type: track
+          uri: spotify:track:2D1uFfnp5ylRPNYbdEa5Kv
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc
+              href: https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc
+              id: 7gP3bB2nilZXLfPHJhMdvc
+              name: Foster The People
+              type: artist
+              uri: spotify:artist:7gP3bB2nilZXLfPHJhMdvc
+            external_urls:
+              spotify: https://open.spotify.com/album/2wu3EA8IvohnL7Ik88Usl9
+            href: https://api.spotify.com/v1/albums/2wu3EA8IvohnL7Ik88Usl9
+            id: 2wu3EA8IvohnL7Ik88Usl9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732a7c5282d36679b7a80b3048
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022a7c5282d36679b7a80b3048
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512a7c5282d36679b7a80b3048
+            is_playable: true
+            name: Torches X (Deluxe Edition)
+            release_date: '2021-11-12'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:2wu3EA8IvohnL7Ik88Usl9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc
+            href: https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc
+            id: 7gP3bB2nilZXLfPHJhMdvc
+            name: Foster The People
+            type: artist
+            uri: spotify:artist:7gP3bB2nilZXLfPHJhMdvc
+          disc_number: 1
+          duration_ms: 215306
+          explicit: false
+          external_ids:
+            isrc: USSM11101704
+          external_urls:
+            spotify: https://open.spotify.com/track/1LwB3VNvS0JmmRp1dzoKOq
+          href: https://api.spotify.com/v1/tracks/1LwB3VNvS0JmmRp1dzoKOq
+          id: 1LwB3VNvS0JmmRp1dzoKOq
+          is_local: false
+          is_playable: true
+          name: Life on the Nickel
+          track_number: 8
+          type: track
+          uri: spotify:track:1LwB3VNvS0JmmRp1dzoKOq
+    isrc: USSM11101704

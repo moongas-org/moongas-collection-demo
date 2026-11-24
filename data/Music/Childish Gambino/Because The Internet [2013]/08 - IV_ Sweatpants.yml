@@ -34,3 +34,79 @@ mediaFileData:
   year: 2013
   duration: 180.76734693877552
   modTime: 2023-12-02 20:45:59.369778+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4NvXTrOSsVlCw0bFe3lKY9
+    trackId: 4NvXTrOSsVlCw0bFe3lKY9
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSYAH1300223&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+              href: https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL
+              id: 73sIBHcqh3Z3NyqHKZ7FOL
+              name: Childish Gambino
+              type: artist
+              uri: spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL
+            external_urls:
+              spotify: https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh
+            href: https://api.spotify.com/v1/albums/5h0KYWMZIg8xT6eRGYkNMh
+            id: 5h0KYWMZIg8xT6eRGYkNMh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27321b2b485aef32bcc96c1875c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0221b2b485aef32bcc96c1875c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485121b2b485aef32bcc96c1875c
+            is_playable: true
+            name: Because the Internet
+            release_date: '2013-12-10'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:5h0KYWMZIg8xT6eRGYkNMh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL
+            href: https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL
+            id: 73sIBHcqh3Z3NyqHKZ7FOL
+            name: Childish Gambino
+            type: artist
+            uri: spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn
+            href: https://api.spotify.com/v1/artists/0399oiMcmbOzzsYQDNYqxn
+            id: 0399oiMcmbOzzsYQDNYqxn
+            name: JasonMartin
+            type: artist
+            uri: spotify:artist:0399oiMcmbOzzsYQDNYqxn
+          disc_number: 1
+          duration_ms: 180675
+          explicit: true
+          external_ids:
+            isrc: USYAH1300223
+          external_urls:
+            spotify: https://open.spotify.com/track/4NvXTrOSsVlCw0bFe3lKY9
+          href: https://api.spotify.com/v1/tracks/4NvXTrOSsVlCw0bFe3lKY9
+          id: 4NvXTrOSsVlCw0bFe3lKY9
+          is_local: false
+          is_playable: true
+          name: IV. Sweatpants
+          track_number: 8
+          type: track
+          uri: spotify:track:4NvXTrOSsVlCw0bFe3lKY9
+    isrc: USYAH1300223

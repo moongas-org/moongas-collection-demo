@@ -34,3 +34,126 @@ mediaFileData:
   year: 2022
   duration: 310.8310204081633
   modTime: 2023-07-22 14:16:28+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Z2gIlbvlpFSb5W3TyCVjd
+    trackId: 0Z2gIlbvlpFSb5W3TyCVjd
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMCE32200289&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa
+              href: https://api.spotify.com/v1/artists/0mnruuV4CcKu7Ux7kBZ5sa
+              id: 0mnruuV4CcKu7Ux7kBZ5sa
+              name: Quarters
+              type: artist
+              uri: spotify:artist:0mnruuV4CcKu7Ux7kBZ5sa
+            external_urls:
+              spotify: https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y
+            href: https://api.spotify.com/v1/albums/7ulrW1c9ERpGyadIqYwu8Y
+            id: 7ulrW1c9ERpGyadIqYwu8Y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e31cd055fae2114412cfd062
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e31cd055fae2114412cfd062
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e31cd055fae2114412cfd062
+            is_playable: true
+            name: Into The Rift
+            release_date: '2022-07-29'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7ulrW1c9ERpGyadIqYwu8Y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa
+            href: https://api.spotify.com/v1/artists/0mnruuV4CcKu7Ux7kBZ5sa
+            id: 0mnruuV4CcKu7Ux7kBZ5sa
+            name: Quarters
+            type: artist
+            uri: spotify:artist:0mnruuV4CcKu7Ux7kBZ5sa
+          disc_number: 1
+          duration_ms: 310742
+          explicit: false
+          external_ids:
+            isrc: QMCE32200289
+          external_urls:
+            spotify: https://open.spotify.com/track/0Z2gIlbvlpFSb5W3TyCVjd
+          href: https://api.spotify.com/v1/tracks/0Z2gIlbvlpFSb5W3TyCVjd
+          id: 0Z2gIlbvlpFSb5W3TyCVjd
+          is_local: false
+          is_playable: true
+          name: T Love
+          track_number: 1
+          type: track
+          uri: spotify:track:0Z2gIlbvlpFSb5W3TyCVjd
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa
+              href: https://api.spotify.com/v1/artists/0mnruuV4CcKu7Ux7kBZ5sa
+              id: 0mnruuV4CcKu7Ux7kBZ5sa
+              name: Quarters
+              type: artist
+              uri: spotify:artist:0mnruuV4CcKu7Ux7kBZ5sa
+            external_urls:
+              spotify: https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU
+            href: https://api.spotify.com/v1/albums/19ozV4Q1V0zC1KYBlnwbHU
+            id: 19ozV4Q1V0zC1KYBlnwbHU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737f2e86fbc5028f70321a48f0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027f2e86fbc5028f70321a48f0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517f2e86fbc5028f70321a48f0
+            is_playable: true
+            name: Into The Rift (Deluxe)
+            release_date: '2022-11-18'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:19ozV4Q1V0zC1KYBlnwbHU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa
+            href: https://api.spotify.com/v1/artists/0mnruuV4CcKu7Ux7kBZ5sa
+            id: 0mnruuV4CcKu7Ux7kBZ5sa
+            name: Quarters
+            type: artist
+            uri: spotify:artist:0mnruuV4CcKu7Ux7kBZ5sa
+          disc_number: 1
+          duration_ms: 310742
+          explicit: false
+          external_ids:
+            isrc: QMCE32200289
+          external_urls:
+            spotify: https://open.spotify.com/track/6lzalyZViqUWHriU9UnqOA
+          href: https://api.spotify.com/v1/tracks/6lzalyZViqUWHriU9UnqOA
+          id: 6lzalyZViqUWHriU9UnqOA
+          is_local: false
+          is_playable: true
+          name: T Love
+          track_number: 1
+          type: track
+          uri: spotify:track:6lzalyZViqUWHriU9UnqOA
+    isrc: QMCE32200289

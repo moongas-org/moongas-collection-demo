@@ -50,3 +50,72 @@ mediaFileData:
   year: 1973
   duration: 255.0944217687075
   modTime: 2025-01-11 02:10:01.489031+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6y47unzSmR5WOngS0Yx21A
+    trackId: 6y47unzSmR5WOngS0Yx21A
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAAA9400514&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50
+              href: https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50
+              id: 3CkvROUTQ6nRi9yQOcsB50
+              name: Genesis
+              type: artist
+              uri: spotify:artist:3CkvROUTQ6nRi9yQOcsB50
+            external_urls:
+              spotify: https://open.spotify.com/album/7xaM3ah9ZO4BjrcFj5vOZe
+            href: https://api.spotify.com/v1/albums/7xaM3ah9ZO4BjrcFj5vOZe
+            id: 7xaM3ah9ZO4BjrcFj5vOZe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739068a893a0b7310fd7ef765b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029068a893a0b7310fd7ef765b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519068a893a0b7310fd7ef765b
+            is_playable: true
+            name: Selling England by the Pound
+            release_date: '1973-10-12'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:7xaM3ah9ZO4BjrcFj5vOZe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50
+            href: https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50
+            id: 3CkvROUTQ6nRi9yQOcsB50
+            name: Genesis
+            type: artist
+            uri: spotify:artist:3CkvROUTQ6nRi9yQOcsB50
+          disc_number: 1
+          duration_ms: 256120
+          explicit: false
+          external_ids:
+            isrc: GBAAA9400514
+          external_urls:
+            spotify: https://open.spotify.com/track/6y47unzSmR5WOngS0Yx21A
+          href: https://api.spotify.com/v1/tracks/6y47unzSmR5WOngS0Yx21A
+          id: 6y47unzSmR5WOngS0Yx21A
+          is_local: false
+          is_playable: true
+          name: After the Ordeal
+          track_number: 6
+          type: track
+          uri: spotify:track:6y47unzSmR5WOngS0Yx21A
+    isrc: GBAAA9400514

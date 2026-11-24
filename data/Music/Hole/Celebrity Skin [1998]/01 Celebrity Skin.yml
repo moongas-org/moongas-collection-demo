@@ -80,3 +80,288 @@ mediaFileData:
   year: 1998
   duration: 162.2390625
   modTime: 2023-05-14 00:49:25.460000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6bWGjss1JKDtz1CFwEvLv7
+    trackId: 6bWGjss1JKDtz1CFwEvLv7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGF19816401&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSGF19816401&type=track
+        offset: 0
+        previous:
+        total: 30
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1m7YcUPAt5ZFU0KEZYYZRp
+            href: https://api.spotify.com/v1/albums/1m7YcUPAt5ZFU0KEZYYZRp
+            id: 1m7YcUPAt5ZFU0KEZYYZRp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c9617cdcfa6169172e2f7457
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c9617cdcfa6169172e2f7457
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c9617cdcfa6169172e2f7457
+            is_playable: true
+            name: Punk Rock, Alternative & Emo
+            release_date: '2024-07-01'
+            release_date_precision: day
+            total_tracks: 76
+            type: album
+            uri: spotify:album:1m7YcUPAt5ZFU0KEZYYZRp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn
+            href: https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn
+            id: 5SHQUMAmEK5KmuSb0aDvsn
+            name: Hole
+            type: artist
+            uri: spotify:artist:5SHQUMAmEK5KmuSb0aDvsn
+          disc_number: 1
+          duration_ms: 162893
+          explicit: false
+          external_ids:
+            isrc: USGF19816401
+          external_urls:
+            spotify: https://open.spotify.com/track/6bWGjss1JKDtz1CFwEvLv7
+          href: https://api.spotify.com/v1/tracks/6bWGjss1JKDtz1CFwEvLv7
+          id: 6bWGjss1JKDtz1CFwEvLv7
+          is_local: false
+          is_playable: true
+          name: Celebrity Skin
+          track_number: 39
+          type: track
+          uri: spotify:track:6bWGjss1JKDtz1CFwEvLv7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0q3ZiDgtLHx0TjBxomn0Hs
+            href: https://api.spotify.com/v1/albums/0q3ZiDgtLHx0TjBxomn0Hs
+            id: 0q3ZiDgtLHx0TjBxomn0Hs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327d817215cdef8de3e2d010b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227d817215cdef8de3e2d010b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127d817215cdef8de3e2d010b
+            is_playable: true
+            name: 'Throwback Tunes: 90s'
+            release_date: '2017-10-20'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0q3ZiDgtLHx0TjBxomn0Hs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn
+            href: https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn
+            id: 5SHQUMAmEK5KmuSb0aDvsn
+            name: Hole
+            type: artist
+            uri: spotify:artist:5SHQUMAmEK5KmuSb0aDvsn
+          disc_number: 1
+          duration_ms: 162867
+          explicit: false
+          external_ids:
+            isrc: USGF19816401
+          external_urls:
+            spotify: https://open.spotify.com/track/5kHuEhU80RR1rxu5jNhlIQ
+          href: https://api.spotify.com/v1/tracks/5kHuEhU80RR1rxu5jNhlIQ
+          id: 5kHuEhU80RR1rxu5jNhlIQ
+          is_local: false
+          is_playable: true
+          name: Celebrity Skin
+          track_number: 5
+          type: track
+          uri: spotify:track:5kHuEhU80RR1rxu5jNhlIQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/43fWPCxxDMg03qqcr802ch
+            href: https://api.spotify.com/v1/albums/43fWPCxxDMg03qqcr802ch
+            id: 43fWPCxxDMg03qqcr802ch
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d659b6f3bd8878a0fd43f278
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d659b6f3bd8878a0fd43f278
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d659b6f3bd8878a0fd43f278
+            is_playable: true
+            name: Women With Attitude
+            release_date: '2018-01-12'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:43fWPCxxDMg03qqcr802ch
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn
+            href: https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn
+            id: 5SHQUMAmEK5KmuSb0aDvsn
+            name: Hole
+            type: artist
+            uri: spotify:artist:5SHQUMAmEK5KmuSb0aDvsn
+          disc_number: 1
+          duration_ms: 164146
+          explicit: false
+          external_ids:
+            isrc: USGF19816401
+          external_urls:
+            spotify: https://open.spotify.com/track/6d8nbol68OtZXisWa6i4vv
+          href: https://api.spotify.com/v1/tracks/6d8nbol68OtZXisWa6i4vv
+          id: 6d8nbol68OtZXisWa6i4vv
+          is_local: false
+          is_playable: true
+          name: Celebrity Skin
+          track_number: 3
+          type: track
+          uri: spotify:track:6d8nbol68OtZXisWa6i4vv
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5qLAR6GFTdQSFDouxyYc2m
+            href: https://api.spotify.com/v1/albums/5qLAR6GFTdQSFDouxyYc2m
+            id: 5qLAR6GFTdQSFDouxyYc2m
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27396c0615b0a1978ef3e9f2e98
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0296c0615b0a1978ef3e9f2e98
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485196c0615b0a1978ef3e9f2e98
+            is_playable: true
+            name: Best Rock Ever
+            release_date: '2019-07-19'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:5qLAR6GFTdQSFDouxyYc2m
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn
+            href: https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn
+            id: 5SHQUMAmEK5KmuSb0aDvsn
+            name: Hole
+            type: artist
+            uri: spotify:artist:5SHQUMAmEK5KmuSb0aDvsn
+          disc_number: 1
+          duration_ms: 162893
+          explicit: false
+          external_ids:
+            isrc: USGF19816401
+          external_urls:
+            spotify: https://open.spotify.com/track/6PMeufgZqkkK2uWUAfsSLb
+          href: https://api.spotify.com/v1/tracks/6PMeufgZqkkK2uWUAfsSLb
+          id: 6PMeufgZqkkK2uWUAfsSLb
+          is_local: false
+          is_playable: true
+          name: Celebrity Skin
+          track_number: 13
+          type: track
+          uri: spotify:track:6PMeufgZqkkK2uWUAfsSLb
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn
+              href: https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn
+              id: 5SHQUMAmEK5KmuSb0aDvsn
+              name: Hole
+              type: artist
+              uri: spotify:artist:5SHQUMAmEK5KmuSb0aDvsn
+            external_urls:
+              spotify: https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId
+            href: https://api.spotify.com/v1/albums/2KE8WCHtD8qnAxXeIzNEId
+            id: 2KE8WCHtD8qnAxXeIzNEId
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020649124c37ce988317263671
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510649124c37ce988317263671
+            is_playable: true
+            name: Celebrity Skin
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2KE8WCHtD8qnAxXeIzNEId
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn
+            href: https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn
+            id: 5SHQUMAmEK5KmuSb0aDvsn
+            name: Hole
+            type: artist
+            uri: spotify:artist:5SHQUMAmEK5KmuSb0aDvsn
+          disc_number: 1
+          duration_ms: 162666
+          explicit: false
+          external_ids:
+            isrc: USGF19816401
+          external_urls:
+            spotify: https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ
+          href: https://api.spotify.com/v1/tracks/2V4Bc2I962j7acQj1N0PiQ
+          id: 2V4Bc2I962j7acQj1N0PiQ
+          is_local: false
+          is_playable: true
+          name: Celebrity Skin
+          track_number: 1
+          type: track
+          uri: spotify:track:2V4Bc2I962j7acQj1N0PiQ
+    isrc: USGF19816401

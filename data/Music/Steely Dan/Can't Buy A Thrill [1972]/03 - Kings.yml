@@ -41,3 +41,126 @@ mediaFileData:
   year: 1972
   duration: 225.93333333333334
   modTime: 2025-01-11 02:02:35.507347+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2Rh6EK2slJN3z3YUy5DrgI
+    trackId: 2Rh6EK2slJN3z3YUy5DrgI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC17347181&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/5bpFfYgL1au22XwLG4KOnq
+            href: https://api.spotify.com/v1/albums/5bpFfYgL1au22XwLG4KOnq
+            id: 5bpFfYgL1au22XwLG4KOnq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f802651f718fbf0b155a5c02
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f802651f718fbf0b155a5c02
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f802651f718fbf0b155a5c02
+            is_playable: true
+            name: Citizen 1972-1980
+            release_date: '1993-12-15'
+            release_date_precision: day
+            total_tracks: 66
+            type: album
+            uri: spotify:album:5bpFfYgL1au22XwLG4KOnq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 224906
+          explicit: false
+          external_ids:
+            isrc: USMC17347181
+          external_urls:
+            spotify: https://open.spotify.com/track/2Rh6EK2slJN3z3YUy5DrgI
+          href: https://api.spotify.com/v1/tracks/2Rh6EK2slJN3z3YUy5DrgI
+          id: 2Rh6EK2slJN3z3YUy5DrgI
+          is_local: false
+          is_playable: true
+          name: Kings
+          track_number: 3
+          type: track
+          uri: spotify:track:2Rh6EK2slJN3z3YUy5DrgI
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p
+            href: https://api.spotify.com/v1/albums/6DlSUW5gmq6Byc3osKDJ2p
+            id: 6DlSUW5gmq6Byc3osKDJ2p
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510ddd7e736f870994f4707947
+            is_playable: true
+            name: Can't Buy A Thrill
+            release_date: '1972-11-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6DlSUW5gmq6Byc3osKDJ2p
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 227788
+          explicit: false
+          external_ids:
+            isrc: USMC17347181
+          external_urls:
+            spotify: https://open.spotify.com/track/5nTxjFOvyjXoOIqcZsiy5E
+          href: https://api.spotify.com/v1/tracks/5nTxjFOvyjXoOIqcZsiy5E
+          id: 5nTxjFOvyjXoOIqcZsiy5E
+          is_local: false
+          is_playable: true
+          name: Kings
+          track_number: 3
+          type: track
+          uri: spotify:track:5nTxjFOvyjXoOIqcZsiy5E
+    isrc: USMC17347181

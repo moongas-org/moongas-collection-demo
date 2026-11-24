@@ -37,3 +37,126 @@ mediaFileData:
   year: 2016
   duration: 345.432
   modTime: 2023-02-23 00:12:32.770000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY
+    trackId: 18xvedQqps2lWmU3PKsBoY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS2J71607905&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry
+              href: https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry
+              id: 5oOhM2DFWab8XhSdQiITry
+              name: Tycho
+              type: artist
+              uri: spotify:artist:5oOhM2DFWab8XhSdQiITry
+            external_urls:
+              spotify: https://open.spotify.com/album/2hgVjzYQb3Yb5FHT8smg4T
+            href: https://api.spotify.com/v1/albums/2hgVjzYQb3Yb5FHT8smg4T
+            id: 2hgVjzYQb3Yb5FHT8smg4T
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27354333f9b71b93dfd5ef043a2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0254333f9b71b93dfd5ef043a2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485154333f9b71b93dfd5ef043a2
+            is_playable: true
+            name: Epoch
+            release_date: '2016-09-30'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:2hgVjzYQb3Yb5FHT8smg4T
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry
+            href: https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry
+            id: 5oOhM2DFWab8XhSdQiITry
+            name: Tycho
+            type: artist
+            uri: spotify:artist:5oOhM2DFWab8XhSdQiITry
+          disc_number: 1
+          duration_ms: 345387
+          explicit: false
+          external_ids:
+            isrc: US2J71607905
+          external_urls:
+            spotify: https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY
+          href: https://api.spotify.com/v1/tracks/18xvedQqps2lWmU3PKsBoY
+          id: 18xvedQqps2lWmU3PKsBoY
+          is_local: false
+          is_playable: true
+          name: Epoch
+          track_number: 5
+          type: track
+          uri: spotify:track:18xvedQqps2lWmU3PKsBoY
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry
+              href: https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry
+              id: 5oOhM2DFWab8XhSdQiITry
+              name: Tycho
+              type: artist
+              uri: spotify:artist:5oOhM2DFWab8XhSdQiITry
+            external_urls:
+              spotify: https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg
+            href: https://api.spotify.com/v1/albums/1aiREFtQHpZTglHRw9r1xg
+            id: 1aiREFtQHpZTglHRw9r1xg
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c723ad162642695ea403c6ef
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c723ad162642695ea403c6ef
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c723ad162642695ea403c6ef
+            is_playable: true
+            name: Epoch (Deluxe Version)
+            release_date: '2016'
+            release_date_precision: year
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1aiREFtQHpZTglHRw9r1xg
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry
+            href: https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry
+            id: 5oOhM2DFWab8XhSdQiITry
+            name: Tycho
+            type: artist
+            uri: spotify:artist:5oOhM2DFWab8XhSdQiITry
+          disc_number: 1
+          duration_ms: 345387
+          explicit: false
+          external_ids:
+            isrc: US2J71607905
+          external_urls:
+            spotify: https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7
+          href: https://api.spotify.com/v1/tracks/2NUiXYNB58RqRvETWEjJp7
+          id: 2NUiXYNB58RqRvETWEjJp7
+          is_local: false
+          is_playable: true
+          name: Epoch
+          track_number: 5
+          type: track
+          uri: spotify:track:2NUiXYNB58RqRvETWEjJp7
+    isrc: US2J71607905

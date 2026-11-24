@@ -48,3 +48,72 @@ mediaFileData:
   year: 1988
   duration: 140.27755102040817
   modTime: 2024-01-27 17:12:12.744249+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0dJD2AVFgEqvlnqXCuh9JI
+    trackId: 0dJD2AVFgEqvlnqXCuh9JI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRY20410386&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK
+              href: https://api.spotify.com/v1/artists/2fhngmJMaaKcdhXHCa4cPK
+              id: 2fhngmJMaaKcdhXHCa4cPK
+              name: The Dead Milkmen
+              type: artist
+              uri: spotify:artist:2fhngmJMaaKcdhXHCa4cPK
+            external_urls:
+              spotify: https://open.spotify.com/album/5dh7gE83BxORzm7WCQLe5k
+            href: https://api.spotify.com/v1/albums/5dh7gE83BxORzm7WCQLe5k
+            id: 5dh7gE83BxORzm7WCQLe5k
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372fda02d2e76e5fdaabafb9c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272fda02d2e76e5fdaabafb9c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172fda02d2e76e5fdaabafb9c
+            is_playable: true
+            name: Beelzebubba
+            release_date: '1988-11-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:5dh7gE83BxORzm7WCQLe5k
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK
+            href: https://api.spotify.com/v1/artists/2fhngmJMaaKcdhXHCa4cPK
+            id: 2fhngmJMaaKcdhXHCa4cPK
+            name: The Dead Milkmen
+            type: artist
+            uri: spotify:artist:2fhngmJMaaKcdhXHCa4cPK
+          disc_number: 1
+          duration_ms: 140200
+          explicit: false
+          external_ids:
+            isrc: USRY20410386
+          external_urls:
+            spotify: https://open.spotify.com/track/0dJD2AVFgEqvlnqXCuh9JI
+          href: https://api.spotify.com/v1/tracks/0dJD2AVFgEqvlnqXCuh9JI
+          id: 0dJD2AVFgEqvlnqXCuh9JI
+          is_local: false
+          is_playable: true
+          name: Stuart
+          track_number: 3
+          type: track
+          uri: spotify:track:0dJD2AVFgEqvlnqXCuh9JI
+    isrc: USRY20410386

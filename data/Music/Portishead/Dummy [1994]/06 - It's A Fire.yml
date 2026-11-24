@@ -117,3 +117,72 @@ mediaFileData:
   year: 1994
   duration: 226.224
   modTime: 2024-06-09 17:53:02.846259+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4jnkL7nlkofeQh79owdtMl
+    trackId: 4jnkL7nlkofeQh79owdtMl
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBARA9700060&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y
+              href: https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y
+              id: 6liAMWkVf5LH7YR9yfFy1Y
+              name: Portishead
+              type: artist
+              uri: spotify:artist:6liAMWkVf5LH7YR9yfFy1Y
+            external_urls:
+              spotify: https://open.spotify.com/album/3G36754KQVLyGuskraEAVA
+            href: https://api.spotify.com/v1/albums/3G36754KQVLyGuskraEAVA
+            id: 3G36754KQVLyGuskraEAVA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d48721bfc334d8a5d1faeffb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d48721bfc334d8a5d1faeffb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d48721bfc334d8a5d1faeffb
+            is_playable: true
+            name: Portishead
+            release_date: '1997-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:3G36754KQVLyGuskraEAVA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y
+            href: https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y
+            id: 6liAMWkVf5LH7YR9yfFy1Y
+            name: Portishead
+            type: artist
+            uri: spotify:artist:6liAMWkVf5LH7YR9yfFy1Y
+          disc_number: 1
+          duration_ms: 227893
+          explicit: false
+          external_ids:
+            isrc: GBARA9700060
+          external_urls:
+            spotify: https://open.spotify.com/track/4jnkL7nlkofeQh79owdtMl
+          href: https://api.spotify.com/v1/tracks/4jnkL7nlkofeQh79owdtMl
+          id: 4jnkL7nlkofeQh79owdtMl
+          is_local: false
+          is_playable: true
+          name: Half Day Closing
+          track_number: 4
+          type: track
+          uri: spotify:track:4jnkL7nlkofeQh79owdtMl
+    isrc: GBARA9700060

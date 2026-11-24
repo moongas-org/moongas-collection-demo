@@ -42,3 +42,72 @@ mediaFileData:
   year: 2008
   duration: 180.21333333333334
   modTime: 2025-04-11 16:39:05.505086+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4qI7AwulrYhRSVoXJht8U6
+    trackId: 4qI7AwulrYhRSVoXJht8U6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS27U0404412&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+              href: https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz
+              id: 7mnBLXK823vNxN3UWB7Gfz
+              name: The Black Keys
+              type: artist
+              uri: spotify:artist:7mnBLXK823vNxN3UWB7Gfz
+            external_urls:
+              spotify: https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh
+            href: https://api.spotify.com/v1/albums/4GcL493CWgWz5SVoxd7UIh
+            id: 4GcL493CWgWz5SVoxd7UIh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273afe910b3a05b26a193e92851
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02afe910b3a05b26a193e92851
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851afe910b3a05b26a193e92851
+            is_playable: true
+            name: The Big Come Up
+            release_date: '2002-05-14'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:4GcL493CWgWz5SVoxd7UIh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+            href: https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz
+            id: 7mnBLXK823vNxN3UWB7Gfz
+            name: The Black Keys
+            type: artist
+            uri: spotify:artist:7mnBLXK823vNxN3UWB7Gfz
+          disc_number: 1
+          duration_ms: 191133
+          explicit: false
+          external_ids:
+            isrc: US27U0404412
+          external_urls:
+            spotify: https://open.spotify.com/track/4qI7AwulrYhRSVoXJht8U6
+          href: https://api.spotify.com/v1/tracks/4qI7AwulrYhRSVoXJht8U6
+          id: 4qI7AwulrYhRSVoXJht8U6
+          is_local: false
+          is_playable: true
+          name: Brooklyn Bound
+          track_number: 12
+          type: track
+          uri: spotify:track:4qI7AwulrYhRSVoXJht8U6
+    isrc: US27U0404412

@@ -37,3 +37,72 @@ mediaFileData:
   year: 2023
   duration: 541.848
   modTime: 2024-06-18 21:03:24.277700+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/15TsOrGq9H29DJOSNm38AK
+    trackId: 15TsOrGq9H29DJOSNm38AK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD2200637&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+              href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+              id: 4pejUc4iciQfgdX6OKulQn
+              name: Queens of the Stone Age
+              type: artist
+              uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+            external_urls:
+              spotify: https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk
+            href: https://api.spotify.com/v1/albums/2ZTDmH94OLjeNaOvT7Ngwk
+            id: 2ZTDmH94OLjeNaOvT7Ngwk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27312e1b9b459004ade29f145e1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0212e1b9b459004ade29f145e1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485112e1b9b459004ade29f145e1
+            is_playable: true
+            name: In Times New Roman...
+            release_date: '2023-06-16'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2ZTDmH94OLjeNaOvT7Ngwk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn
+            href: https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn
+            id: 4pejUc4iciQfgdX6OKulQn
+            name: Queens of the Stone Age
+            type: artist
+            uri: spotify:artist:4pejUc4iciQfgdX6OKulQn
+          disc_number: 1
+          duration_ms: 541203
+          explicit: true
+          external_ids:
+            isrc: USMTD2200637
+          external_urls:
+            spotify: https://open.spotify.com/track/15TsOrGq9H29DJOSNm38AK
+          href: https://api.spotify.com/v1/tracks/15TsOrGq9H29DJOSNm38AK
+          id: 15TsOrGq9H29DJOSNm38AK
+          is_local: false
+          is_playable: true
+          name: Straight Jacket Fitting
+          track_number: 10
+          type: track
+          uri: spotify:track:15TsOrGq9H29DJOSNm38AK
+    isrc: USMTD2200637

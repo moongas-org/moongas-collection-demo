@@ -66,3 +66,180 @@ mediaFileData:
   year: 1969
   duration: 119.452
   modTime: 2026-05-10 15:36:30.652653+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2Xuq84ZrSawlYF4Vz9pw5e
+    trackId: 2Xuq84ZrSawlYF4Vz9pw5e
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB11304494&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+              href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+              id: 4TMHGUX5WI7OOm53PqSDAT
+              name: Grateful Dead
+              type: artist
+              uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+            external_urls:
+              spotify: https://open.spotify.com/album/2IZe9ttqeMqwkv3dRXJRkd
+            href: https://api.spotify.com/v1/albums/2IZe9ttqeMqwkv3dRXJRkd
+            id: 2IZe9ttqeMqwkv3dRXJRkd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cbc5f5ebcd143c610eb0df57
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cbc5f5ebcd143c610eb0df57
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cbc5f5ebcd143c610eb0df57
+            is_playable: true
+            name: Aoxomoxoa (2013 Remaster)
+            release_date: '1969'
+            release_date_precision: year
+            total_tracks: 8
+            type: album
+            uri: spotify:album:2IZe9ttqeMqwkv3dRXJRkd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 1
+          duration_ms: 120235
+          explicit: false
+          external_ids:
+            isrc: USWB11304494
+          external_urls:
+            spotify: https://open.spotify.com/track/2Xuq84ZrSawlYF4Vz9pw5e
+          href: https://api.spotify.com/v1/tracks/2Xuq84ZrSawlYF4Vz9pw5e
+          id: 2Xuq84ZrSawlYF4Vz9pw5e
+          is_local: false
+          is_playable: true
+          name: Rosemary - 2013 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:2Xuq84ZrSawlYF4Vz9pw5e
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+              href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+              id: 4TMHGUX5WI7OOm53PqSDAT
+              name: Grateful Dead
+              type: artist
+              uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+            external_urls:
+              spotify: https://open.spotify.com/album/0eTLYbOGt4qrnN0hi1z6ij
+            href: https://api.spotify.com/v1/albums/0eTLYbOGt4qrnN0hi1z6ij
+            id: 0eTLYbOGt4qrnN0hi1z6ij
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735ee8b232bd6832587676543b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025ee8b232bd6832587676543b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515ee8b232bd6832587676543b
+            is_playable: true
+            name: Complete Studio Albums Collection
+            release_date: '2014-01-14'
+            release_date_precision: day
+            total_tracks: 103
+            type: album
+            uri: spotify:album:0eTLYbOGt4qrnN0hi1z6ij
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 3
+          duration_ms: 120235
+          explicit: false
+          external_ids:
+            isrc: USWB11304494
+          external_urls:
+            spotify: https://open.spotify.com/track/401eaX2DCGiy2j4wwazqMP
+          href: https://api.spotify.com/v1/tracks/401eaX2DCGiy2j4wwazqMP
+          id: 401eaX2DCGiy2j4wwazqMP
+          is_local: false
+          is_playable: true
+          name: Rosemary - 2013 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:401eaX2DCGiy2j4wwazqMP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5fgKBM1fmHMq0ldl5yA6rY
+            href: https://api.spotify.com/v1/albums/5fgKBM1fmHMq0ldl5yA6rY
+            id: 5fgKBM1fmHMq0ldl5yA6rY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734e1b95bc2266eb550e1f1b5e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024e1b95bc2266eb550e1f1b5e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514e1b95bc2266eb550e1f1b5e
+            is_playable: true
+            name: '1969'
+            release_date: '2017-04-29'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5fgKBM1fmHMq0ldl5yA6rY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 1
+          duration_ms: 120235
+          explicit: false
+          external_ids:
+            isrc: USWB11304494
+          external_urls:
+            spotify: https://open.spotify.com/track/1TFIvpfRN8gfaEcRzaQMnd
+          href: https://api.spotify.com/v1/tracks/1TFIvpfRN8gfaEcRzaQMnd
+          id: 1TFIvpfRN8gfaEcRzaQMnd
+          is_local: false
+          is_playable: true
+          name: Rosemary
+          track_number: 2
+          type: track
+          uri: spotify:track:1TFIvpfRN8gfaEcRzaQMnd
+    isrc: USWB11304494

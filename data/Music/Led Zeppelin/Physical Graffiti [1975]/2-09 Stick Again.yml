@@ -106,3 +106,126 @@ mediaFileData:
   year: 1975
   duration: 284.133875
   modTime: 2023-08-26 13:39:02+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2wV6F22JUYYhVidQZgcWrH
+    trackId: 2wV6F22JUYYhVidQZgcWrH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT21300978&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y
+            href: https://api.spotify.com/v1/albums/26tH0kjUhkxBEd3ipGkx3Y
+            id: 26tH0kjUhkxBEd3ipGkx3Y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273765b0617b572bdd1dbdc7d8e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02765b0617b572bdd1dbdc7d8e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851765b0617b572bdd1dbdc7d8e
+            is_playable: true
+            name: Physical Graffiti (Deluxe Edition)
+            release_date: '1975-02-24'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:26tH0kjUhkxBEd3ipGkx3Y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 2
+          duration_ms: 282320
+          explicit: false
+          external_ids:
+            isrc: USAT21300978
+          external_urls:
+            spotify: https://open.spotify.com/track/2wV6F22JUYYhVidQZgcWrH
+          href: https://api.spotify.com/v1/tracks/2wV6F22JUYYhVidQZgcWrH
+          id: 2wV6F22JUYYhVidQZgcWrH
+          is_local: false
+          is_playable: true
+          name: Sick Again - Remaster
+          track_number: 9
+          type: track
+          uri: spotify:track:2wV6F22JUYYhVidQZgcWrH
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd
+            href: https://api.spotify.com/v1/albums/4Q7cPyiP8cMIlUEHAqeYfd
+            id: 4Q7cPyiP8cMIlUEHAqeYfd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735273ac7ada6725bc36a2bcd0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025273ac7ada6725bc36a2bcd0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515273ac7ada6725bc36a2bcd0
+            is_playable: true
+            name: Physical Graffiti (Remaster)
+            release_date: '1975-02-24'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4Q7cPyiP8cMIlUEHAqeYfd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 2
+          duration_ms: 282320
+          explicit: false
+          external_ids:
+            isrc: USAT21300978
+          external_urls:
+            spotify: https://open.spotify.com/track/0cVDbVhTxULLt5Pt7Ws8yp
+          href: https://api.spotify.com/v1/tracks/0cVDbVhTxULLt5Pt7Ws8yp
+          id: 0cVDbVhTxULLt5Pt7Ws8yp
+          is_local: false
+          is_playable: true
+          name: Sick Again - Remaster
+          track_number: 9
+          type: track
+          uri: spotify:track:0cVDbVhTxULLt5Pt7Ws8yp
+    isrc: USAT21300978

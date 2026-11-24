@@ -138,3 +138,288 @@ mediaFileData:
   year: 2000
   duration: 46.333333333333336
   modTime: 2026-10-23 21:09:19.459310+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7KCYwV1RiwbRnWN7ofzkNL
+    trackId: 7KCYwV1RiwbRnWN7ofzkNL
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE0000560&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AGBAYE0000560&type=track
+        offset: 0
+        previous:
+        total: 50
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+              href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+              id: 4gzpq5DPGxSnKTe4SA8HAU
+              name: Coldplay
+              type: artist
+              uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+            external_urls:
+              spotify: https://open.spotify.com/album/5lVhDQnJYSknv2vLRX9ifV
+            href: https://api.spotify.com/v1/albums/5lVhDQnJYSknv2vLRX9ifV
+            id: 5lVhDQnJYSknv2vLRX9ifV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273edd04436162ab4876885e240
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02edd04436162ab4876885e240
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851edd04436162ab4876885e240
+            is_playable: true
+            name: Trouble
+            release_date: '2000-10-26'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:5lVhDQnJYSknv2vLRX9ifV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 273426
+          explicit: false
+          external_ids:
+            isrc: GBAYE0000560
+          external_urls:
+            spotify: https://open.spotify.com/track/7KCYwV1RiwbRnWN7ofzkNL
+          href: https://api.spotify.com/v1/tracks/7KCYwV1RiwbRnWN7ofzkNL
+          id: 7KCYwV1RiwbRnWN7ofzkNL
+          is_local: false
+          is_playable: true
+          name: Trouble
+          track_number: 1
+          type: track
+          uri: spotify:track:7KCYwV1RiwbRnWN7ofzkNL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7y021rBvTAGAb5SeCGzNpA
+            href: https://api.spotify.com/v1/albums/7y021rBvTAGAb5SeCGzNpA
+            id: 7y021rBvTAGAb5SeCGzNpA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27318e60a9f564fe5cdaf878a0c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0218e60a9f564fe5cdaf878a0c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485118e60a9f564fe5cdaf878a0c
+            is_playable: true
+            name: 00's Deeper Cuts
+            release_date: '2023-10-31'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:7y021rBvTAGAb5SeCGzNpA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 273426
+          explicit: false
+          external_ids:
+            isrc: GBAYE0000560
+          external_urls:
+            spotify: https://open.spotify.com/track/6BHlSchb3bcRSDqFzMmjJj
+          href: https://api.spotify.com/v1/tracks/6BHlSchb3bcRSDqFzMmjJj
+          id: 6BHlSchb3bcRSDqFzMmjJj
+          is_local: false
+          is_playable: true
+          name: Trouble
+          track_number: 1
+          type: track
+          uri: spotify:track:6BHlSchb3bcRSDqFzMmjJj
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+              href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+              id: 4gzpq5DPGxSnKTe4SA8HAU
+              name: Coldplay
+              type: artist
+              uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+            external_urls:
+              spotify: https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra
+            href: https://api.spotify.com/v1/albums/6ZG5lRT77aJ3btmArcykra
+            id: 6ZG5lRT77aJ3btmArcykra
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a
+            is_playable: true
+            name: Parachutes
+            release_date: '2000-07-10'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6ZG5lRT77aJ3btmArcykra
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 273426
+          explicit: false
+          external_ids:
+            isrc: GBAYE0000560
+          external_urls:
+            spotify: https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO
+          href: https://api.spotify.com/v1/tracks/0R8P9KfGJCDULmlEoBagcO
+          id: 0R8P9KfGJCDULmlEoBagcO
+          is_local: false
+          is_playable: true
+          name: Trouble
+          track_number: 6
+          type: track
+          uri: spotify:track:0R8P9KfGJCDULmlEoBagcO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4vb57OuFdikpkOGzWwKW8x
+            href: https://api.spotify.com/v1/albums/4vb57OuFdikpkOGzWwKW8x
+            id: 4vb57OuFdikpkOGzWwKW8x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735b5ad06cc4b8e62e08749244
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025b5ad06cc4b8e62e08749244
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515b5ad06cc4b8e62e08749244
+            is_playable: true
+            name: fall, autumn vibes
+            release_date: '2025-07-31'
+            release_date_precision: day
+            total_tracks: 43
+            type: album
+            uri: spotify:album:4vb57OuFdikpkOGzWwKW8x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 273426
+          explicit: false
+          external_ids:
+            isrc: GBAYE0000560
+          external_urls:
+            spotify: https://open.spotify.com/track/2qME0LohfsLBOw7gMQ4d01
+          href: https://api.spotify.com/v1/tracks/2qME0LohfsLBOw7gMQ4d01
+          id: 2qME0LohfsLBOw7gMQ4d01
+          is_local: false
+          is_playable: true
+          name: Trouble
+          track_number: 12
+          type: track
+          uri: spotify:track:2qME0LohfsLBOw7gMQ4d01
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6JvKI4XjP9VUWUxS24k16E
+            href: https://api.spotify.com/v1/albums/6JvKI4XjP9VUWUxS24k16E
+            id: 6JvKI4XjP9VUWUxS24k16E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27322bf66025e198e2ac49de1b7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0222bf66025e198e2ac49de1b7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485122bf66025e198e2ac49de1b7
+            is_playable: true
+            name: slow indie morning
+            release_date: '2024-10-01'
+            release_date_precision: day
+            total_tracks: 38
+            type: album
+            uri: spotify:album:6JvKI4XjP9VUWUxS24k16E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU
+            href: https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU
+            id: 4gzpq5DPGxSnKTe4SA8HAU
+            name: Coldplay
+            type: artist
+            uri: spotify:artist:4gzpq5DPGxSnKTe4SA8HAU
+          disc_number: 1
+          duration_ms: 273426
+          explicit: false
+          external_ids:
+            isrc: GBAYE0000560
+          external_urls:
+            spotify: https://open.spotify.com/track/5Eps0vd48uQhdbOjofgFcd
+          href: https://api.spotify.com/v1/tracks/5Eps0vd48uQhdbOjofgFcd
+          id: 5Eps0vd48uQhdbOjofgFcd
+          is_local: false
+          is_playable: true
+          name: Trouble
+          track_number: 3
+          type: track
+          uri: spotify:track:5Eps0vd48uQhdbOjofgFcd
+    isrc: GBAYE0000560

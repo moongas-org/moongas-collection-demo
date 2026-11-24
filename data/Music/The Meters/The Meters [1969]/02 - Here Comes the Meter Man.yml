@@ -54,3 +54,288 @@ mediaFileData:
   year: 1969
   duration: 175.224
   modTime: 2025-01-05 20:53:21.550759+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1mvsBRtgjW7sxKRNguQtz4
+    trackId: 1mvsBRtgjW7sxKRNguQtz4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10403299&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB10403299&type=track
+        offset: 0
+        previous:
+        total: 8
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+              href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+              id: 2JRvXPGWiINrnJljNJhG5s
+              name: The Meters
+              type: artist
+              uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+            external_urls:
+              spotify: https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y
+            href: https://api.spotify.com/v1/albums/1Nt14TE6bKZGzJrROip36y
+            id: 1Nt14TE6bKZGzJrROip36y
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a93a02d8fbe0c68d22859506
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a93a02d8fbe0c68d22859506
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a93a02d8fbe0c68d22859506
+            is_playable: true
+            name: The Meters
+            release_date: '1969'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1Nt14TE6bKZGzJrROip36y
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 175200
+          explicit: false
+          external_ids:
+            isrc: USWB10403299
+          external_urls:
+            spotify: https://open.spotify.com/track/1mvsBRtgjW7sxKRNguQtz4
+          href: https://api.spotify.com/v1/tracks/1mvsBRtgjW7sxKRNguQtz4
+          id: 1mvsBRtgjW7sxKRNguQtz4
+          is_local: false
+          is_playable: true
+          name: Here Comes the Meter Man
+          track_number: 2
+          type: track
+          uri: spotify:track:1mvsBRtgjW7sxKRNguQtz4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+              href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+              id: 2JRvXPGWiINrnJljNJhG5s
+              name: The Meters
+              type: artist
+              uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+            external_urls:
+              spotify: https://open.spotify.com/album/6MihaqaaCdWh0RazjRdyA5
+            href: https://api.spotify.com/v1/albums/6MihaqaaCdWh0RazjRdyA5
+            id: 6MihaqaaCdWh0RazjRdyA5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27356ef5693122c06b8dc49c461
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0256ef5693122c06b8dc49c461
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485156ef5693122c06b8dc49c461
+            is_playable: true
+            name: The Complete Albums 1969-1977
+            release_date: '2019-05-24'
+            release_date_precision: day
+            total_tracks: 87
+            type: album
+            uri: spotify:album:6MihaqaaCdWh0RazjRdyA5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 175200
+          explicit: false
+          external_ids:
+            isrc: USWB10403299
+          external_urls:
+            spotify: https://open.spotify.com/track/4APlba5muAixogJ8wa6uxK
+          href: https://api.spotify.com/v1/tracks/4APlba5muAixogJ8wa6uxK
+          id: 4APlba5muAixogJ8wa6uxK
+          is_local: false
+          is_playable: true
+          name: Here Comes the Meter Man
+          track_number: 2
+          type: track
+          uri: spotify:track:4APlba5muAixogJ8wa6uxK
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+              href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+              id: 2JRvXPGWiINrnJljNJhG5s
+              name: The Meters
+              type: artist
+              uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+            external_urls:
+              spotify: https://open.spotify.com/album/4LfeNUdXr7g21cdnrFPIuD
+            href: https://api.spotify.com/v1/albums/4LfeNUdXr7g21cdnrFPIuD
+            id: 4LfeNUdXr7g21cdnrFPIuD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f679e710b37b7491472d86f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f679e710b37b7491472d86f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f679e710b37b7491472d86f5
+            is_playable: true
+            name: Cissy Strut
+            release_date: '2016-12-22'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:4LfeNUdXr7g21cdnrFPIuD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 175200
+          explicit: false
+          external_ids:
+            isrc: USWB10403299
+          external_urls:
+            spotify: https://open.spotify.com/track/6pnhx7yZRw3cKr1Iu1z6bW
+          href: https://api.spotify.com/v1/tracks/6pnhx7yZRw3cKr1Iu1z6bW
+          id: 6pnhx7yZRw3cKr1Iu1z6bW
+          is_local: false
+          is_playable: true
+          name: Here Comes the Meter Man
+          track_number: 4
+          type: track
+          uri: spotify:track:6pnhx7yZRw3cKr1Iu1z6bW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6pjXnnKBSBgmWmBRb27fgE
+            href: https://api.spotify.com/v1/albums/6pjXnnKBSBgmWmBRb27fgE
+            id: 6pjXnnKBSBgmWmBRb27fgE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735dcb7646d30c50967a3a0a2e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025dcb7646d30c50967a3a0a2e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515dcb7646d30c50967a3a0a2e
+            is_playable: true
+            name: The 60s
+            release_date: '2019-12-13'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:6pjXnnKBSBgmWmBRb27fgE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 175200
+          explicit: false
+          external_ids:
+            isrc: USWB10403299
+          external_urls:
+            spotify: https://open.spotify.com/track/5SSm980aRWOFVB7zCc0Euu
+          href: https://api.spotify.com/v1/tracks/5SSm980aRWOFVB7zCc0Euu
+          id: 5SSm980aRWOFVB7zCc0Euu
+          is_local: false
+          is_playable: true
+          name: Here Comes the Meter Man
+          track_number: 76
+          type: track
+          uri: spotify:track:5SSm980aRWOFVB7zCc0Euu
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7whcXC3BzthXIUoOx4KL3P
+            href: https://api.spotify.com/v1/albums/7whcXC3BzthXIUoOx4KL3P
+            id: 7whcXC3BzthXIUoOx4KL3P
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7c7431974c7b8dc1488cf93
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7c7431974c7b8dc1488cf93
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7c7431974c7b8dc1488cf93
+            is_playable: true
+            name: Funk Crate Digging
+            release_date: '2020-03-13'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:7whcXC3BzthXIUoOx4KL3P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+            href: https://api.spotify.com/v1/artists/2JRvXPGWiINrnJljNJhG5s
+            id: 2JRvXPGWiINrnJljNJhG5s
+            name: The Meters
+            type: artist
+            uri: spotify:artist:2JRvXPGWiINrnJljNJhG5s
+          disc_number: 1
+          duration_ms: 175200
+          explicit: false
+          external_ids:
+            isrc: USWB10403299
+          external_urls:
+            spotify: https://open.spotify.com/track/5hv79Nx7BRNwIq2elRz67O
+          href: https://api.spotify.com/v1/tracks/5hv79Nx7BRNwIq2elRz67O
+          id: 5hv79Nx7BRNwIq2elRz67O
+          is_local: false
+          is_playable: true
+          name: Here Comes the Meter Man
+          track_number: 34
+          type: track
+          uri: spotify:track:5hv79Nx7BRNwIq2elRz67O
+    isrc: USWB10403299

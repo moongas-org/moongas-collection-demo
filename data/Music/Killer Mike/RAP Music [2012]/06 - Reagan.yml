@@ -70,3 +70,126 @@ mediaFileData:
   year: 2012
   duration: 250.01795918367347
   modTime: 2024-03-02 00:38:35.222460+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2k12CywLn5loJAntuYF5nO
+    trackId: 2k12CywLn5loJAntuYF5nO
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSYWT0800118&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI
+              href: https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI
+              id: 2N4EYkIlG1kv25g6Wv8LGI
+              name: Killer Mike
+              type: artist
+              uri: spotify:artist:2N4EYkIlG1kv25g6Wv8LGI
+            external_urls:
+              spotify: https://open.spotify.com/album/0HdnSbZRI3BB9Ip3nGqrLD
+            href: https://api.spotify.com/v1/albums/0HdnSbZRI3BB9Ip3nGqrLD
+            id: 0HdnSbZRI3BB9Ip3nGqrLD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ddbe1874ff3aead56b02c5f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ddbe1874ff3aead56b02c5f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ddbe1874ff3aead56b02c5f
+            is_playable: true
+            name: Reagan
+            release_date: '2012-11-06'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:0HdnSbZRI3BB9Ip3nGqrLD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI
+            href: https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI
+            id: 2N4EYkIlG1kv25g6Wv8LGI
+            name: Killer Mike
+            type: artist
+            uri: spotify:artist:2N4EYkIlG1kv25g6Wv8LGI
+          disc_number: 1
+          duration_ms: 251533
+          explicit: false
+          external_ids:
+            isrc: USYWT0800118
+          external_urls:
+            spotify: https://open.spotify.com/track/2k12CywLn5loJAntuYF5nO
+          href: https://api.spotify.com/v1/tracks/2k12CywLn5loJAntuYF5nO
+          id: 2k12CywLn5loJAntuYF5nO
+          is_local: false
+          is_playable: true
+          name: Reagan - Instrumental
+          track_number: 2
+          type: track
+          uri: spotify:track:2k12CywLn5loJAntuYF5nO
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI
+              href: https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI
+              id: 2N4EYkIlG1kv25g6Wv8LGI
+              name: Killer Mike
+              type: artist
+              uri: spotify:artist:2N4EYkIlG1kv25g6Wv8LGI
+            external_urls:
+              spotify: https://open.spotify.com/album/1gvkFTPF1rKpNnbfzitx5T
+            href: https://api.spotify.com/v1/albums/1gvkFTPF1rKpNnbfzitx5T
+            id: 1gvkFTPF1rKpNnbfzitx5T
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734901982c44f085886117d081
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024901982c44f085886117d081
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514901982c44f085886117d081
+            is_playable: true
+            name: R.A.P. Music [Instrumentals]
+            release_date: '2012-09-18'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1gvkFTPF1rKpNnbfzitx5T
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI
+            href: https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI
+            id: 2N4EYkIlG1kv25g6Wv8LGI
+            name: Killer Mike
+            type: artist
+            uri: spotify:artist:2N4EYkIlG1kv25g6Wv8LGI
+          disc_number: 1
+          duration_ms: 251533
+          explicit: false
+          external_ids:
+            isrc: USYWT0800118
+          external_urls:
+            spotify: https://open.spotify.com/track/0dj2XelZ4xvI6kSiHWe6Xw
+          href: https://api.spotify.com/v1/tracks/0dj2XelZ4xvI6kSiHWe6Xw
+          id: 0dj2XelZ4xvI6kSiHWe6Xw
+          is_local: false
+          is_playable: true
+          name: Reagan - Instrumental
+          track_number: 6
+          type: track
+          uri: spotify:track:0dj2XelZ4xvI6kSiHWe6Xw
+    isrc: USYWT0800118

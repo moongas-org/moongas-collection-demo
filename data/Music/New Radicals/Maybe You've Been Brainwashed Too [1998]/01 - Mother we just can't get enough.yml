@@ -35,3 +35,126 @@ mediaFileData:
   year: 1998
   duration: 345.4
   modTime: 2025-07-19 15:29:17.250525+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5rb29MoYiBwXzXCtJ94oa1
+    trackId: 5rb29MoYiBwXzXCtJ94oa1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC19858258&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd
+              href: https://api.spotify.com/v1/artists/0Grjlu7ncIuCaSYvCs9fcd
+              id: 0Grjlu7ncIuCaSYvCs9fcd
+              name: New Radicals
+              type: artist
+              uri: spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+            external_urls:
+              spotify: https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR
+            href: https://api.spotify.com/v1/albums/13btXEnBerpA1UjIVtsMAR
+            id: 13btXEnBerpA1UjIVtsMAR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dfdedd4553b40bbaab342dae
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dfdedd4553b40bbaab342dae
+            is_playable: true
+            name: Maybe You've Been Brainwashed Too
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:13btXEnBerpA1UjIVtsMAR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd
+            href: https://api.spotify.com/v1/artists/0Grjlu7ncIuCaSYvCs9fcd
+            id: 0Grjlu7ncIuCaSYvCs9fcd
+            name: New Radicals
+            type: artist
+            uri: spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+          disc_number: 1
+          duration_ms: 346066
+          explicit: false
+          external_ids:
+            isrc: USMC19858258
+          external_urls:
+            spotify: https://open.spotify.com/track/5rb29MoYiBwXzXCtJ94oa1
+          href: https://api.spotify.com/v1/tracks/5rb29MoYiBwXzXCtJ94oa1
+          id: 5rb29MoYiBwXzXCtJ94oa1
+          is_local: false
+          is_playable: true
+          name: Mother We Just Can't Get Enough
+          track_number: 1
+          type: track
+          uri: spotify:track:5rb29MoYiBwXzXCtJ94oa1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3ai6nu7cZntTIb3s6TGAZf
+            href: https://api.spotify.com/v1/albums/3ai6nu7cZntTIb3s6TGAZf
+            id: 3ai6nu7cZntTIb3s6TGAZf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f71d027e55835fc8266fb13e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f71d027e55835fc8266fb13e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f71d027e55835fc8266fb13e
+            is_playable: true
+            name: 90s/2000s Beach Music
+            release_date: '2026-06-19'
+            release_date_precision: day
+            total_tracks: 74
+            type: album
+            uri: spotify:album:3ai6nu7cZntTIb3s6TGAZf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd
+            href: https://api.spotify.com/v1/artists/0Grjlu7ncIuCaSYvCs9fcd
+            id: 0Grjlu7ncIuCaSYvCs9fcd
+            name: New Radicals
+            type: artist
+            uri: spotify:artist:0Grjlu7ncIuCaSYvCs9fcd
+          disc_number: 1
+          duration_ms: 346066
+          explicit: false
+          external_ids:
+            isrc: USMC19858258
+          external_urls:
+            spotify: https://open.spotify.com/track/3Liu79J0BbXblqRFEfkf4t
+          href: https://api.spotify.com/v1/tracks/3Liu79J0BbXblqRFEfkf4t
+          id: 3Liu79J0BbXblqRFEfkf4t
+          is_local: false
+          is_playable: true
+          name: Mother We Just Can't Get Enough
+          track_number: 62
+          type: track
+          uri: spotify:track:3Liu79J0BbXblqRFEfkf4t
+    isrc: USMC19858258

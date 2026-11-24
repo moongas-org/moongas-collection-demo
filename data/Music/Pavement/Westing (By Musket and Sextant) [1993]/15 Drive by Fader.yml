@@ -79,3 +79,126 @@ mediaFileData:
   year: 1993
   duration: 28.133875
   modTime: 2023-04-23 23:43:40.210000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7qGSXLmHwUGFofQNl13k6F
+    trackId: 7qGSXLmHwUGFofQNl13k6F
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS58L0501415&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/5ScNaUzv0LwZjWnZCqYZyo
+            href: https://api.spotify.com/v1/albums/5ScNaUzv0LwZjWnZCqYZyo
+            id: 5ScNaUzv0LwZjWnZCqYZyo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27385086a8406d8b73e199715c4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0285086a8406d8b73e199715c4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485185086a8406d8b73e199715c4
+            is_playable: true
+            name: Perfect Sound Forever
+            release_date: '2026-04-15'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:5ScNaUzv0LwZjWnZCqYZyo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 28186
+          explicit: false
+          external_ids:
+            isrc: US58L0501415
+          external_urls:
+            spotify: https://open.spotify.com/track/7qGSXLmHwUGFofQNl13k6F
+          href: https://api.spotify.com/v1/tracks/7qGSXLmHwUGFofQNl13k6F
+          id: 7qGSXLmHwUGFofQNl13k6F
+          is_local: false
+          is_playable: true
+          name: Drive-By-Fader
+          track_number: 4
+          type: track
+          uri: spotify:track:7qGSXLmHwUGFofQNl13k6F
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/3j8cIhlKe44KAz4JWMz2th
+            href: https://api.spotify.com/v1/albums/3j8cIhlKe44KAz4JWMz2th
+            id: 3j8cIhlKe44KAz4JWMz2th
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a3bfadad11763b79b71941f7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a3bfadad11763b79b71941f7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a3bfadad11763b79b71941f7
+            is_playable: true
+            name: Westing (By Musket And Sextant)
+            release_date: '1993-03-22'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:3j8cIhlKe44KAz4JWMz2th
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 28186
+          explicit: false
+          external_ids:
+            isrc: US58L0501415
+          external_urls:
+            spotify: https://open.spotify.com/track/70xVFMTFtjWBP3RXKnIvAj
+          href: https://api.spotify.com/v1/tracks/70xVFMTFtjWBP3RXKnIvAj
+          id: 70xVFMTFtjWBP3RXKnIvAj
+          is_local: false
+          is_playable: true
+          name: Drive-By-Fader
+          track_number: 15
+          type: track
+          uri: spotify:track:70xVFMTFtjWBP3RXKnIvAj
+    isrc: US58L0501415

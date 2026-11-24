@@ -41,3 +41,72 @@ mediaFileData:
   year: 1979
   duration: 182.83102040816325
   modTime: 2023-04-23 15:37:20.200000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6MbNpfq2PhDtyD0PwlTWew
+    trackId: 6MbNpfq2PhDtyD0PwlTWew
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10101198&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC
+            href: https://api.spotify.com/v1/albums/4OLsnJQPTX0S6lODXw1MqC
+            id: 4OLsnJQPTX0S6lODXw1MqC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273874328096de13649dd64c790
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02874328096de13649dd64c790
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851874328096de13649dd64c790
+            is_playable: true
+            name: Fear of Music
+            release_date: '1979-08-03'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4OLsnJQPTX0S6lODXw1MqC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 182800
+          explicit: false
+          external_ids:
+            isrc: USWB10101198
+          external_urls:
+            spotify: https://open.spotify.com/track/6MbNpfq2PhDtyD0PwlTWew
+          href: https://api.spotify.com/v1/tracks/6MbNpfq2PhDtyD0PwlTWew
+          id: 6MbNpfq2PhDtyD0PwlTWew
+          is_local: false
+          is_playable: true
+          name: Electric Guitar
+          track_number: 10
+          type: track
+          uri: spotify:track:6MbNpfq2PhDtyD0PwlTWew
+    isrc: USWB10101198

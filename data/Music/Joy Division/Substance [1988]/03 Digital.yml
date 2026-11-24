@@ -42,3 +42,126 @@ mediaFileData:
   year: 1988
   duration: 170.7053125
   modTime: 2023-09-17 17:47:54+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4lmYkAt0bgbNW2BhMXLWpa
+    trackId: 4lmYkAt0bgbNW2BhMXLWpa
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCRL1000164&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+              href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+              id: 432R46LaYsJZV2Gmc4jUV5
+              name: Joy Division
+              type: artist
+              uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+            external_urls:
+              spotify: https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ
+            href: https://api.spotify.com/v1/albums/2KPhpTUihx9KRWRwBtpTeJ
+            id: 2KPhpTUihx9KRWRwBtpTeJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a1d7fb161ce10fbd09b08183
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a1d7fb161ce10fbd09b08183
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a1d7fb161ce10fbd09b08183
+            is_playable: true
+            name: Substance
+            release_date: '2015-07-24'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:2KPhpTUihx9KRWRwBtpTeJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+            href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+            id: 432R46LaYsJZV2Gmc4jUV5
+            name: Joy Division
+            type: artist
+            uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+          disc_number: 1
+          duration_ms: 169593
+          explicit: false
+          external_ids:
+            isrc: GBCRL1000164
+          external_urls:
+            spotify: https://open.spotify.com/track/4lmYkAt0bgbNW2BhMXLWpa
+          href: https://api.spotify.com/v1/tracks/4lmYkAt0bgbNW2BhMXLWpa
+          id: 4lmYkAt0bgbNW2BhMXLWpa
+          is_local: false
+          is_playable: true
+          name: Digital - 2010 Remaster
+          track_number: 3
+          type: track
+          uri: spotify:track:4lmYkAt0bgbNW2BhMXLWpa
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4CQSm1dVZR12gk0ySvh98k
+            href: https://api.spotify.com/v1/albums/4CQSm1dVZR12gk0ySvh98k
+            id: 4CQSm1dVZR12gk0ySvh98k
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27387e4d454ef03981fd7721a68
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0287e4d454ef03981fd7721a68
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485187e4d454ef03981fd7721a68
+            is_playable: true
+            name: Happy Hour - Top Indie Classics
+            release_date: '2022-04-29'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:4CQSm1dVZR12gk0ySvh98k
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5
+            href: https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5
+            id: 432R46LaYsJZV2Gmc4jUV5
+            name: Joy Division
+            type: artist
+            uri: spotify:artist:432R46LaYsJZV2Gmc4jUV5
+          disc_number: 1
+          duration_ms: 169593
+          explicit: false
+          external_ids:
+            isrc: GBCRL1000164
+          external_urls:
+            spotify: https://open.spotify.com/track/7IGCKPRbrrOkbOwzEuoDLB
+          href: https://api.spotify.com/v1/tracks/7IGCKPRbrrOkbOwzEuoDLB
+          id: 7IGCKPRbrrOkbOwzEuoDLB
+          is_local: false
+          is_playable: true
+          name: Digital - 2010 Remaster
+          track_number: 13
+          type: track
+          uri: spotify:track:7IGCKPRbrrOkbOwzEuoDLB
+    isrc: GBCRL1000164

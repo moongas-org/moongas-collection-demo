@@ -48,3 +48,72 @@ mediaFileData:
   year: 1991
   duration: 179.952
   modTime: 2025-01-08 21:31:13.444698+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3qrm3UJ74G78njbpLdpxH5
+    trackId: 3qrm3UJ74G78njbpLdpxH5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAFL9100102&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT
+              href: https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT
+              id: 6zvul52xwTWzilBZl6BUbT
+              name: Pixies
+              type: artist
+              uri: spotify:artist:6zvul52xwTWzilBZl6BUbT
+            external_urls:
+              spotify: https://open.spotify.com/album/1xtaONLuwdb5STNnLGNVGi
+            href: https://api.spotify.com/v1/albums/1xtaONLuwdb5STNnLGNVGi
+            id: 1xtaONLuwdb5STNnLGNVGi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273865d3683ca35959a3ee95429
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02865d3683ca35959a3ee95429
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851865d3683ca35959a3ee95429
+            is_playable: true
+            name: Trompe le Monde
+            release_date: '1991-09-23'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:1xtaONLuwdb5STNnLGNVGi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT
+            href: https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT
+            id: 6zvul52xwTWzilBZl6BUbT
+            name: Pixies
+            type: artist
+            uri: spotify:artist:6zvul52xwTWzilBZl6BUbT
+          disc_number: 1
+          duration_ms: 179906
+          explicit: false
+          external_ids:
+            isrc: GBAFL9100102
+          external_urls:
+            spotify: https://open.spotify.com/track/3qrm3UJ74G78njbpLdpxH5
+          href: https://api.spotify.com/v1/tracks/3qrm3UJ74G78njbpLdpxH5
+          id: 3qrm3UJ74G78njbpLdpxH5
+          is_local: false
+          is_playable: true
+          name: The Sad Punk
+          track_number: 4
+          type: track
+          uri: spotify:track:3qrm3UJ74G78njbpLdpxH5
+    isrc: GBAFL9100102

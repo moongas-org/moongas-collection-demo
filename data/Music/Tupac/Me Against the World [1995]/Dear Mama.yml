@@ -141,3 +141,126 @@ mediaFileData:
   year: 1995
   duration: 278.472
   modTime: 2023-05-30 10:25:48+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6iXcPsToMyTheci6e1L2ya
+    trackId: 6iXcPsToMyTheci6e1L2ya
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR19500009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+              href: https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh
+              id: 1ZwdS5xdxEREPySFridCfh
+              name: 2Pac
+              type: artist
+              uri: spotify:artist:1ZwdS5xdxEREPySFridCfh
+            external_urls:
+              spotify: https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP
+            href: https://api.spotify.com/v1/albums/1WBZyULtlANBKed7Zf9cDP
+            id: 1WBZyULtlANBKed7Zf9cDP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d81a092eb373ded457d94eec
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d81a092eb373ded457d94eec
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:1WBZyULtlANBKed7Zf9cDP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+            href: https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh
+            id: 1ZwdS5xdxEREPySFridCfh
+            name: 2Pac
+            type: artist
+            uri: spotify:artist:1ZwdS5xdxEREPySFridCfh
+          disc_number: 2
+          duration_ms: 278733
+          explicit: true
+          external_ids:
+            isrc: USIR19500009
+          external_urls:
+            spotify: https://open.spotify.com/track/6iXcPsToMyTheci6e1L2ya
+          href: https://api.spotify.com/v1/tracks/6iXcPsToMyTheci6e1L2ya
+          id: 6iXcPsToMyTheci6e1L2ya
+          is_local: false
+          is_playable: true
+          name: Dear Mama
+          track_number: 10
+          type: track
+          uri: spotify:track:6iXcPsToMyTheci6e1L2ya
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+              href: https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh
+              id: 1ZwdS5xdxEREPySFridCfh
+              name: 2Pac
+              type: artist
+              uri: spotify:artist:1ZwdS5xdxEREPySFridCfh
+            external_urls:
+              spotify: https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk
+            href: https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk
+            id: 3OrucS4sHv6Bl9GS4rafEk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea
+            is_playable: true
+            name: Me Against The World
+            release_date: '1995-03-14'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:3OrucS4sHv6Bl9GS4rafEk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+            href: https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh
+            id: 1ZwdS5xdxEREPySFridCfh
+            name: 2Pac
+            type: artist
+            uri: spotify:artist:1ZwdS5xdxEREPySFridCfh
+          disc_number: 1
+          duration_ms: 280000
+          explicit: true
+          external_ids:
+            isrc: USIR19500009
+          external_urls:
+            spotify: https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9
+          href: https://api.spotify.com/v1/tracks/6tDxrq4FxEL2q15y37tXT9
+          id: 6tDxrq4FxEL2q15y37tXT9
+          is_local: false
+          is_playable: true
+          name: Dear Mama
+          track_number: 9
+          type: track
+          uri: spotify:track:6tDxrq4FxEL2q15y37tXT9
+    isrc: USIR19500009

@@ -34,3 +34,72 @@ mediaFileData:
   year: 1992
   duration: 202.32
   modTime: 2024-12-06 18:11:33.026186+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw
+    trackId: 18HtfEFUEydTblkPTWTicw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR19200549&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0
+              href: https://api.spotify.com/v1/artists/0qB0cTENhSUc0feov5qbg0
+              id: 0qB0cTENhSUc0feov5qbg0
+              name: Helmet
+              type: artist
+              uri: spotify:artist:0qB0cTENhSUc0feov5qbg0
+            external_urls:
+              spotify: https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ
+            href: https://api.spotify.com/v1/albums/0U7asaf4jS8EORTjHEWNcJ
+            id: 0U7asaf4jS8EORTjHEWNcJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27393e84f299b0c963cc8d8acca
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0293e84f299b0c963cc8d8acca
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485193e84f299b0c963cc8d8acca
+            is_playable: true
+            name: Meantime
+            release_date: '1992-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:0U7asaf4jS8EORTjHEWNcJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0
+            href: https://api.spotify.com/v1/artists/0qB0cTENhSUc0feov5qbg0
+            id: 0qB0cTENhSUc0feov5qbg0
+            name: Helmet
+            type: artist
+            uri: spotify:artist:0qB0cTENhSUc0feov5qbg0
+          disc_number: 1
+          duration_ms: 202293
+          explicit: false
+          external_ids:
+            isrc: USIR19200549
+          external_urls:
+            spotify: https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw
+          href: https://api.spotify.com/v1/tracks/18HtfEFUEydTblkPTWTicw
+          id: 18HtfEFUEydTblkPTWTicw
+          is_local: false
+          is_playable: true
+          name: FBLA II
+          track_number: 9
+          type: track
+          uri: spotify:track:18HtfEFUEydTblkPTWTicw
+    isrc: USIR19200549

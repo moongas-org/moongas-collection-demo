@@ -34,3 +34,72 @@ mediaFileData:
   year: 1995
   duration: 327.732225
   modTime: 2023-05-14 17:08:21.370000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/27p8QwjiosL3WV0G2hF0xm
+    trackId: 27p8QwjiosL3WV0G2hF0xm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD0672237&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/61v8cmSY8KdNa2aOB9e4v6
+            href: https://api.spotify.com/v1/albums/61v8cmSY8KdNa2aOB9e4v6
+            id: 61v8cmSY8KdNa2aOB9e4v6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273374fdaf3dfc7d73f60e34a66
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02374fdaf3dfc7d73f60e34a66
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851374fdaf3dfc7d73f60e34a66
+            is_playable: true
+            name: Wowee Zowee (Sordid Sentinels Edition)
+            release_date: '2006-11-07'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:61v8cmSY8KdNa2aOB9e4v6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 2
+          duration_ms: 327640
+          explicit: true
+          external_ids:
+            isrc: USMTD0672237
+          external_urls:
+            spotify: https://open.spotify.com/track/27p8QwjiosL3WV0G2hF0xm
+          href: https://api.spotify.com/v1/tracks/27p8QwjiosL3WV0G2hF0xm
+          id: 27p8QwjiosL3WV0G2hF0xm
+          is_local: false
+          is_playable: true
+          name: Half a Canyon - Live, Wireless JJJ Radio, Australia, July 7, 1994
+          track_number: 12
+          type: track
+          uri: spotify:track:27p8QwjiosL3WV0G2hF0xm
+    isrc: USMTD0672237

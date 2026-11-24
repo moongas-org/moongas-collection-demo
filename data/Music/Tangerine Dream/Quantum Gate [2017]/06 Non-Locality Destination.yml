@@ -34,3 +34,126 @@ mediaFileData:
   year: 2017
   duration: 600.0326666666666
   modTime: 2024-04-07 16:44:55.295498+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7cx1YhNg0WSCJD6N7S9WAO
+    trackId: 7cx1YhNg0WSCJD6N7S9WAO
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMEU31716290&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl
+              href: https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl
+              id: 1BGN1IdyiSR0ZYrkoKNchl
+              name: Tangerine Dream
+              type: artist
+              uri: spotify:artist:1BGN1IdyiSR0ZYrkoKNchl
+            external_urls:
+              spotify: https://open.spotify.com/album/4bM1e39z09Me0YdaoB0SWQ
+            href: https://api.spotify.com/v1/albums/4bM1e39z09Me0YdaoB0SWQ
+            id: 4bM1e39z09Me0YdaoB0SWQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273586e47ba8bd42b563f985b09
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02586e47ba8bd42b563f985b09
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851586e47ba8bd42b563f985b09
+            is_playable: true
+            name: Quantum Gate / Quantum Key
+            release_date: '2018-04-20'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4bM1e39z09Me0YdaoB0SWQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl
+            href: https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl
+            id: 1BGN1IdyiSR0ZYrkoKNchl
+            name: Tangerine Dream
+            type: artist
+            uri: spotify:artist:1BGN1IdyiSR0ZYrkoKNchl
+          disc_number: 1
+          duration_ms: 599973
+          explicit: false
+          external_ids:
+            isrc: QMEU31716290
+          external_urls:
+            spotify: https://open.spotify.com/track/7cx1YhNg0WSCJD6N7S9WAO
+          href: https://api.spotify.com/v1/tracks/7cx1YhNg0WSCJD6N7S9WAO
+          id: 7cx1YhNg0WSCJD6N7S9WAO
+          is_local: false
+          is_playable: true
+          name: Non-Locality Destination
+          track_number: 6
+          type: track
+          uri: spotify:track:7cx1YhNg0WSCJD6N7S9WAO
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl
+              href: https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl
+              id: 1BGN1IdyiSR0ZYrkoKNchl
+              name: Tangerine Dream
+              type: artist
+              uri: spotify:artist:1BGN1IdyiSR0ZYrkoKNchl
+            external_urls:
+              spotify: https://open.spotify.com/album/6h0wIWFJY2SyjL10ojsajL
+            href: https://api.spotify.com/v1/albums/6h0wIWFJY2SyjL10ojsajL
+            id: 6h0wIWFJY2SyjL10ojsajL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27305fef205361e492dff6c3cc3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0205fef205361e492dff6c3cc3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485105fef205361e492dff6c3cc3
+            is_playable: true
+            name: Quantum Gate
+            release_date: '2017-09-29'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6h0wIWFJY2SyjL10ojsajL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl
+            href: https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl
+            id: 1BGN1IdyiSR0ZYrkoKNchl
+            name: Tangerine Dream
+            type: artist
+            uri: spotify:artist:1BGN1IdyiSR0ZYrkoKNchl
+          disc_number: 1
+          duration_ms: 599973
+          explicit: false
+          external_ids:
+            isrc: QMEU31716290
+          external_urls:
+            spotify: https://open.spotify.com/track/3YSKOQSWici8OQPCcQxtiy
+          href: https://api.spotify.com/v1/tracks/3YSKOQSWici8OQPCcQxtiy
+          id: 3YSKOQSWici8OQPCcQxtiy
+          is_local: false
+          is_playable: true
+          name: Non-Locality Destination
+          track_number: 6
+          type: track
+          uri: spotify:track:3YSKOQSWici8OQPCcQxtiy
+    isrc: QMEU31716290

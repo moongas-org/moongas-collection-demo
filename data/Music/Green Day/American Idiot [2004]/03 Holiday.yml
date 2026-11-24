@@ -189,3 +189,72 @@ mediaFileData:
   year: 2004
   duration: 232.724875
   modTime: 2023-09-30 15:51:24+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/35SQc9L57r0iZBnAaf6lA3
+    trackId: 35SQc9L57r0iZBnAaf6lA3
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE12400463&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY
+              href: https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY
+              id: 7oPftvlwr6VrsViSDV7fJY
+              name: Green Day
+              type: artist
+              uri: spotify:artist:7oPftvlwr6VrsViSDV7fJY
+            external_urls:
+              spotify: https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug
+            href: https://api.spotify.com/v1/albums/19ObsGobUuBr11M6ysFMug
+            id: 19ObsGobUuBr11M6ysFMug
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730436e7b2f1dc434862bb8354
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020436e7b2f1dc434862bb8354
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510436e7b2f1dc434862bb8354
+            is_playable: true
+            name: American Idiot (20th Anniversary Deluxe Edition)
+            release_date: '2024-10-25'
+            release_date_precision: day
+            total_tracks: 57
+            type: album
+            uri: spotify:album:19ObsGobUuBr11M6ysFMug
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY
+            href: https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY
+            id: 7oPftvlwr6VrsViSDV7fJY
+            name: Green Day
+            type: artist
+            uri: spotify:artist:7oPftvlwr6VrsViSDV7fJY
+          disc_number: 4
+          duration_ms: 249497
+          explicit: true
+          external_ids:
+            isrc: USRE12400463
+          external_urls:
+            spotify: https://open.spotify.com/track/35SQc9L57r0iZBnAaf6lA3
+          href: https://api.spotify.com/v1/tracks/35SQc9L57r0iZBnAaf6lA3
+          id: 35SQc9L57r0iZBnAaf6lA3
+          is_local: false
+          is_playable: true
+          name: Holiday - Live at Irving Plaza, New York, NY, 9/21/04
+          track_number: 3
+          type: track
+          uri: spotify:track:35SQc9L57r0iZBnAaf6lA3
+    isrc: USRE12400463

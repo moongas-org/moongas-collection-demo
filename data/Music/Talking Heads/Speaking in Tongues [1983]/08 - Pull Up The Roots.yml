@@ -50,3 +50,180 @@ mediaFileData:
   year: 1983
   duration: 309.93333333333334
   modTime: 2023-04-23 15:37:27.500000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0XFfkz8Kql9NcDqe6d6NIn
+    trackId: 0XFfkz8Kql9NcDqe6d6NIn
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10502910&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5Bo9FAuTFDpmbDee6eOhmm
+            href: https://api.spotify.com/v1/albums/5Bo9FAuTFDpmbDee6eOhmm
+            id: 5Bo9FAuTFDpmbDee6eOhmm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a352d2485fcd66dbd5684deb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a352d2485fcd66dbd5684deb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a352d2485fcd66dbd5684deb
+            is_playable: true
+            name: 80's Jogging
+            release_date: '2020-08-01'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:5Bo9FAuTFDpmbDee6eOhmm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 309880
+          explicit: false
+          external_ids:
+            isrc: USWB10502910
+          external_urls:
+            spotify: https://open.spotify.com/track/0XFfkz8Kql9NcDqe6d6NIn
+          href: https://api.spotify.com/v1/tracks/0XFfkz8Kql9NcDqe6d6NIn
+          id: 0XFfkz8Kql9NcDqe6d6NIn
+          is_local: false
+          is_playable: true
+          name: Pull up the Roots
+          track_number: 26
+          type: track
+          uri: spotify:track:0XFfkz8Kql9NcDqe6d6NIn
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH
+            href: https://api.spotify.com/v1/albums/4sLCQxMRfn3gAHrBNZtbTH
+            id: 4sLCQxMRfn3gAHrBNZtbTH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e35e2e2a4bfa8a30a78fc532
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e35e2e2a4bfa8a30a78fc532
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e35e2e2a4bfa8a30a78fc532
+            is_playable: true
+            name: Speaking in Tongues (Deluxe Version)
+            release_date: '1983-05-31'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4sLCQxMRfn3gAHrBNZtbTH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 309880
+          explicit: false
+          external_ids:
+            isrc: USWB10502910
+          external_urls:
+            spotify: https://open.spotify.com/track/7tzxJBTk35iJREdh8LkWOm
+          href: https://api.spotify.com/v1/tracks/7tzxJBTk35iJREdh8LkWOm
+          id: 7tzxJBTk35iJREdh8LkWOm
+          is_local: false
+          is_playable: true
+          name: Pull up the Roots - 2005 Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:7tzxJBTk35iJREdh8LkWOm
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5fmIGqHofCSjcjDsOXE6Ox
+            href: https://api.spotify.com/v1/albums/5fmIGqHofCSjcjDsOXE6Ox
+            id: 5fmIGqHofCSjcjDsOXE6Ox
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273771870f29503f1061a3e6ebb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02771870f29503f1061a3e6ebb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851771870f29503f1061a3e6ebb
+            is_playable: true
+            name: Alt Beats
+            release_date: '2021-05-28'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:5fmIGqHofCSjcjDsOXE6Ox
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 309880
+          explicit: false
+          external_ids:
+            isrc: USWB10502910
+          external_urls:
+            spotify: https://open.spotify.com/track/1HbI6juqtJGjhKP15eucTx
+          href: https://api.spotify.com/v1/tracks/1HbI6juqtJGjhKP15eucTx
+          id: 1HbI6juqtJGjhKP15eucTx
+          is_local: false
+          is_playable: true
+          name: Pull up the Roots
+          track_number: 4
+          type: track
+          uri: spotify:track:1HbI6juqtJGjhKP15eucTx
+    isrc: USWB10502910

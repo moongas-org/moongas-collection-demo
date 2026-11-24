@@ -453,3 +453,288 @@ mediaFileData:
   year: 1993
   duration: 255.16408163265305
   modTime: 2023-12-27 02:29:16.937321+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/47iKV0KlcvlflSsrCPD3TQ
+    trackId: 47iKV0KlcvlflSsrCPD3TQ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT29300072&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3
+              href: https://api.spotify.com/v1/artists/2WvLeseDGPX1slhmxI59G3
+              id: 2WvLeseDGPX1slhmxI59G3
+              name: Robin S
+              type: artist
+              uri: spotify:artist:2WvLeseDGPX1slhmxI59G3
+            external_urls:
+              spotify: https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8
+            href: https://api.spotify.com/v1/albums/2xpjgSvZVYjzdlWxeAJFy8
+            id: 2xpjgSvZVYjzdlWxeAJFy8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f454aa96e81265bc61b8d4ed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f454aa96e81265bc61b8d4ed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f454aa96e81265bc61b8d4ed
+            is_playable: true
+            name: Show Me Love
+            release_date: '1993'
+            release_date_precision: year
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2xpjgSvZVYjzdlWxeAJFy8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3
+            href: https://api.spotify.com/v1/artists/2WvLeseDGPX1slhmxI59G3
+            id: 2WvLeseDGPX1slhmxI59G3
+            name: Robin S
+            type: artist
+            uri: spotify:artist:2WvLeseDGPX1slhmxI59G3
+          disc_number: 1
+          duration_ms: 255146
+          explicit: false
+          external_ids:
+            isrc: USAT29300072
+          external_urls:
+            spotify: https://open.spotify.com/track/47iKV0KlcvlflSsrCPD3TQ
+          href: https://api.spotify.com/v1/tracks/47iKV0KlcvlflSsrCPD3TQ
+          id: 47iKV0KlcvlflSsrCPD3TQ
+          is_local: false
+          is_playable: true
+          name: Love for Love
+          track_number: 2
+          type: track
+          uri: spotify:track:47iKV0KlcvlflSsrCPD3TQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0NyiiChN9XZBlIgyrJGSAE
+            href: https://api.spotify.com/v1/albums/0NyiiChN9XZBlIgyrJGSAE
+            id: 0NyiiChN9XZBlIgyrJGSAE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f61ad6bbf501cbace4f6b863
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f61ad6bbf501cbace4f6b863
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f61ad6bbf501cbace4f6b863
+            is_playable: true
+            name: Stars of the 90s
+            release_date: '2019-01-11'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:0NyiiChN9XZBlIgyrJGSAE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3
+            href: https://api.spotify.com/v1/artists/2WvLeseDGPX1slhmxI59G3
+            id: 2WvLeseDGPX1slhmxI59G3
+            name: Robin S
+            type: artist
+            uri: spotify:artist:2WvLeseDGPX1slhmxI59G3
+          disc_number: 1
+          duration_ms: 255146
+          explicit: false
+          external_ids:
+            isrc: USAT29300072
+          external_urls:
+            spotify: https://open.spotify.com/track/30hQWZqyLUjGALgyWVUv9d
+          href: https://api.spotify.com/v1/tracks/30hQWZqyLUjGALgyWVUv9d
+          id: 30hQWZqyLUjGALgyWVUv9d
+          is_local: false
+          is_playable: true
+          name: Love for Love
+          track_number: 19
+          type: track
+          uri: spotify:track:30hQWZqyLUjGALgyWVUv9d
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1IckoN9ltWeGNmsk6Xbv05
+            href: https://api.spotify.com/v1/albums/1IckoN9ltWeGNmsk6Xbv05
+            id: 1IckoN9ltWeGNmsk6Xbv05
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734f2bac9b3632771154c5d3ee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024f2bac9b3632771154c5d3ee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514f2bac9b3632771154c5d3ee
+            is_playable: true
+            name: Deep Soulful House
+            release_date: '2020-01-10'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:1IckoN9ltWeGNmsk6Xbv05
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3
+            href: https://api.spotify.com/v1/artists/2WvLeseDGPX1slhmxI59G3
+            id: 2WvLeseDGPX1slhmxI59G3
+            name: Robin S
+            type: artist
+            uri: spotify:artist:2WvLeseDGPX1slhmxI59G3
+          disc_number: 1
+          duration_ms: 255146
+          explicit: false
+          external_ids:
+            isrc: USAT29300072
+          external_urls:
+            spotify: https://open.spotify.com/track/7pjJvb1b0pgBy2Cj3eJCqo
+          href: https://api.spotify.com/v1/tracks/7pjJvb1b0pgBy2Cj3eJCqo
+          id: 7pjJvb1b0pgBy2Cj3eJCqo
+          is_local: false
+          is_playable: true
+          name: Love for Love
+          track_number: 11
+          type: track
+          uri: spotify:track:7pjJvb1b0pgBy2Cj3eJCqo
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3znGUBc0LJaQOOyh8bIznJ
+            href: https://api.spotify.com/v1/albums/3znGUBc0LJaQOOyh8bIznJ
+            id: 3znGUBc0LJaQOOyh8bIznJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735c13e04543fc4f7d2d34828e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025c13e04543fc4f7d2d34828e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515c13e04543fc4f7d2d34828e
+            is_playable: true
+            name: 90s Party Mix
+            release_date: '2022-07-01'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:3znGUBc0LJaQOOyh8bIznJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3
+            href: https://api.spotify.com/v1/artists/2WvLeseDGPX1slhmxI59G3
+            id: 2WvLeseDGPX1slhmxI59G3
+            name: Robin S
+            type: artist
+            uri: spotify:artist:2WvLeseDGPX1slhmxI59G3
+          disc_number: 1
+          duration_ms: 255146
+          explicit: false
+          external_ids:
+            isrc: USAT29300072
+          external_urls:
+            spotify: https://open.spotify.com/track/3RXkjMhw2xEG499q6xaVmP
+          href: https://api.spotify.com/v1/tracks/3RXkjMhw2xEG499q6xaVmP
+          id: 3RXkjMhw2xEG499q6xaVmP
+          is_local: false
+          is_playable: true
+          name: Love for Love
+          track_number: 15
+          type: track
+          uri: spotify:track:3RXkjMhw2xEG499q6xaVmP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4XaMvInjk87qjH4B6pNmgV
+            href: https://api.spotify.com/v1/albums/4XaMvInjk87qjH4B6pNmgV
+            id: 4XaMvInjk87qjH4B6pNmgV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734c3e9fd157045c5087f939b7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024c3e9fd157045c5087f939b7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514c3e9fd157045c5087f939b7
+            is_playable: true
+            name: House & Dance Classics
+            release_date: '2020-06-08'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:4XaMvInjk87qjH4B6pNmgV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3
+            href: https://api.spotify.com/v1/artists/2WvLeseDGPX1slhmxI59G3
+            id: 2WvLeseDGPX1slhmxI59G3
+            name: Robin S
+            type: artist
+            uri: spotify:artist:2WvLeseDGPX1slhmxI59G3
+          disc_number: 1
+          duration_ms: 255146
+          explicit: false
+          external_ids:
+            isrc: USAT29300072
+          external_urls:
+            spotify: https://open.spotify.com/track/1Z5BrvBEkoYmfFMa2qV8AU
+          href: https://api.spotify.com/v1/tracks/1Z5BrvBEkoYmfFMa2qV8AU
+          id: 1Z5BrvBEkoYmfFMa2qV8AU
+          is_local: false
+          is_playable: true
+          name: Love for Love
+          track_number: 23
+          type: track
+          uri: spotify:track:1Z5BrvBEkoYmfFMa2qV8AU
+    isrc: USAT29300072

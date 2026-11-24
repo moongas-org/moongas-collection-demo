@@ -45,3 +45,126 @@ mediaFileData:
   year: 1973
   duration: 342.552
   modTime: 2025-01-06 19:58:03.986912+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/60E1VP71pODLV0EnNOP5Xh
+    trackId: 60E1VP71pODLV0EnNOP5Xh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB11304639&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+              href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+              id: 5M52tdBnJaKSvOpJGz8mfZ
+              name: Black Sabbath
+              type: artist
+              uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+            external_urls:
+              spotify: https://open.spotify.com/album/0B3iKYQdQ3M1WrSeWig1Ay
+            href: https://api.spotify.com/v1/albums/0B3iKYQdQ3M1WrSeWig1Ay
+            id: 0B3iKYQdQ3M1WrSeWig1Ay
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738e59c38df4cec1a9066fb9b0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028e59c38df4cec1a9066fb9b0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518e59c38df4cec1a9066fb9b0
+            is_playable: true
+            name: Complete Studio Albums 1970 - 1978
+            release_date: '2014-01-21'
+            release_date_precision: day
+            total_tracks: 64
+            type: album
+            uri: spotify:album:0B3iKYQdQ3M1WrSeWig1Ay
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+            href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+            id: 5M52tdBnJaKSvOpJGz8mfZ
+            name: Black Sabbath
+            type: artist
+            uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+          disc_number: 5
+          duration_ms: 342442
+          explicit: false
+          external_ids:
+            isrc: USWB11304639
+          external_urls:
+            spotify: https://open.spotify.com/track/60E1VP71pODLV0EnNOP5Xh
+          href: https://api.spotify.com/v1/tracks/60E1VP71pODLV0EnNOP5Xh
+          id: 60E1VP71pODLV0EnNOP5Xh
+          is_local: false
+          is_playable: true
+          name: Killing Yourself to Live - 2013 Remaster
+          track_number: 5
+          type: track
+          uri: spotify:track:60E1VP71pODLV0EnNOP5Xh
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+              href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+              id: 5M52tdBnJaKSvOpJGz8mfZ
+              name: Black Sabbath
+              type: artist
+              uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+            external_urls:
+              spotify: https://open.spotify.com/album/1qQ2ig3pvig30zVyXLzij8
+            href: https://api.spotify.com/v1/albums/1qQ2ig3pvig30zVyXLzij8
+            id: 1qQ2ig3pvig30zVyXLzij8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27347e9e769c9f540dd0464ba32
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0247e9e769c9f540dd0464ba32
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485147e9e769c9f540dd0464ba32
+            is_playable: true
+            name: Sabbath Bloody Sabbath (2014 Remaster)
+            release_date: '1973-12-01'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:1qQ2ig3pvig30zVyXLzij8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+            href: https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ
+            id: 5M52tdBnJaKSvOpJGz8mfZ
+            name: Black Sabbath
+            type: artist
+            uri: spotify:artist:5M52tdBnJaKSvOpJGz8mfZ
+          disc_number: 1
+          duration_ms: 342442
+          explicit: false
+          external_ids:
+            isrc: USWB11304639
+          external_urls:
+            spotify: https://open.spotify.com/track/387JMg7bz2JPHhLqXC1RBy
+          href: https://api.spotify.com/v1/tracks/387JMg7bz2JPHhLqXC1RBy
+          id: 387JMg7bz2JPHhLqXC1RBy
+          is_local: false
+          is_playable: true
+          name: Killing Yourself to Live - 2013 Remaster
+          track_number: 5
+          type: track
+          uri: spotify:track:387JMg7bz2JPHhLqXC1RBy
+    isrc: USWB11304639

@@ -61,3 +61,288 @@ mediaFileData:
   year: 1968
   duration: 254.40653125
   modTime: 2023-09-24 10:31:22+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2UQizcgWYh6mfzMaauKzdc
+    trackId: 2UQizcgWYh6mfzMaauKzdc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRZ036800400&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AFRZ036800400&type=track
+        offset: 0
+        previous:
+        total: 11
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+              href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+              id: 01C9OoXDvCKkGcf735Tcfo
+              name: Serge Gainsbourg
+              type: artist
+              uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+            external_urls:
+              spotify: https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG
+            href: https://api.spotify.com/v1/albums/0K7Rapnz35iffV4NNGWtPG
+            id: 0K7Rapnz35iffV4NNGWtPG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273243695a2f99da1403306c6b8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02243695a2f99da1403306c6b8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851243695a2f99da1403306c6b8
+            is_playable: true
+            name: Comic Strip
+            release_date: '2006-05-22'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0K7Rapnz35iffV4NNGWtPG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 211640
+          explicit: false
+          external_ids:
+            isrc: FRZ036800400
+          external_urls:
+            spotify: https://open.spotify.com/track/2UQizcgWYh6mfzMaauKzdc
+          href: https://api.spotify.com/v1/tracks/2UQizcgWYh6mfzMaauKzdc
+          id: 2UQizcgWYh6mfzMaauKzdc
+          is_local: false
+          is_playable: true
+          name: Initials B.B.
+          track_number: 3
+          type: track
+          uri: spotify:track:2UQizcgWYh6mfzMaauKzdc
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+              href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+              id: 01C9OoXDvCKkGcf735Tcfo
+              name: Serge Gainsbourg
+              type: artist
+              uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+            external_urls:
+              spotify: https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU
+            href: https://api.spotify.com/v1/albums/6kU0UT8xklbfy6Z5pXDtSU
+            id: 6kU0UT8xklbfy6Z5pXDtSU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734c474b149d223027b9882bb9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024c474b149d223027b9882bb9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514c474b149d223027b9882bb9
+            is_playable: true
+            name: Initials B.B.
+            release_date: '1968-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:6kU0UT8xklbfy6Z5pXDtSU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 213613
+          explicit: false
+          external_ids:
+            isrc: FRZ036800400
+          external_urls:
+            spotify: https://open.spotify.com/track/5hjsmSnUefdUqzsDogisiX
+          href: https://api.spotify.com/v1/tracks/5hjsmSnUefdUqzsDogisiX
+          id: 5hjsmSnUefdUqzsDogisiX
+          is_local: false
+          is_playable: true
+          name: Initials B.B.
+          track_number: 1
+          type: track
+          uri: spotify:track:5hjsmSnUefdUqzsDogisiX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+              href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+              id: 01C9OoXDvCKkGcf735Tcfo
+              name: Serge Gainsbourg
+              type: artist
+              uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+            external_urls:
+              spotify: https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK
+            href: https://api.spotify.com/v1/albums/7IoGi1b3jxA6FXOaoa66iK
+            id: 7IoGi1b3jxA6FXOaoa66iK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cdc3d8b0c8562a114ff0df13
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cdc3d8b0c8562a114ff0df13
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cdc3d8b0c8562a114ff0df13
+            is_playable: true
+            name: Comme un boomerang
+            release_date: '2011-01-01'
+            release_date_precision: day
+            total_tracks: 49
+            type: album
+            uri: spotify:album:7IoGi1b3jxA6FXOaoa66iK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 212880
+          explicit: false
+          external_ids:
+            isrc: FRZ036800400
+          external_urls:
+            spotify: https://open.spotify.com/track/1H78zE4nzhQ3awIGadSSxj
+          href: https://api.spotify.com/v1/tracks/1H78zE4nzhQ3awIGadSSxj
+          id: 1H78zE4nzhQ3awIGadSSxj
+          is_local: false
+          is_playable: true
+          name: Initials B.B.
+          track_number: 21
+          type: track
+          uri: spotify:track:1H78zE4nzhQ3awIGadSSxj
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2ChaaHt9FokKlRyMYaGDHY
+            href: https://api.spotify.com/v1/albums/2ChaaHt9FokKlRyMYaGDHY
+            id: 2ChaaHt9FokKlRyMYaGDHY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273804c55653680c300d40365ce
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02804c55653680c300d40365ce
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851804c55653680c300d40365ce
+            is_playable: true
+            name: Tubes pour danser - Années 60
+            release_date: '2023-12-15'
+            release_date_precision: day
+            total_tracks: 47
+            type: album
+            uri: spotify:album:2ChaaHt9FokKlRyMYaGDHY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 1
+          duration_ms: 215933
+          explicit: false
+          external_ids:
+            isrc: FRZ036800400
+          external_urls:
+            spotify: https://open.spotify.com/track/57Gd88ghyTaSowZh1a6wWN
+          href: https://api.spotify.com/v1/tracks/57Gd88ghyTaSowZh1a6wWN
+          id: 57Gd88ghyTaSowZh1a6wWN
+          is_local: false
+          is_playable: true
+          name: Initials B.B.
+          track_number: 36
+          type: track
+          uri: spotify:track:57Gd88ghyTaSowZh1a6wWN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+              href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+              id: 01C9OoXDvCKkGcf735Tcfo
+              name: Serge Gainsbourg
+              type: artist
+              uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+            external_urls:
+              spotify: https://open.spotify.com/album/2nVYv9PlewRjBK6vfPTpxw
+            href: https://api.spotify.com/v1/albums/2nVYv9PlewRjBK6vfPTpxw
+            id: 2nVYv9PlewRjBK6vfPTpxw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27346b82b95fc285e0a28542874
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0246b82b95fc285e0a28542874
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485146b82b95fc285e0a28542874
+            is_playable: true
+            name: L'Essentiel Des Albums Studio
+            release_date: '2011-01-01'
+            release_date_precision: day
+            total_tracks: 141
+            type: album
+            uri: spotify:album:2nVYv9PlewRjBK6vfPTpxw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+            href: https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo
+            id: 01C9OoXDvCKkGcf735Tcfo
+            name: Serge Gainsbourg
+            type: artist
+            uri: spotify:artist:01C9OoXDvCKkGcf735Tcfo
+          disc_number: 4
+          duration_ms: 213426
+          explicit: false
+          external_ids:
+            isrc: FRZ036800400
+          external_urls:
+            spotify: https://open.spotify.com/track/41pceSreIQ6AngjPL3ZcSG
+          href: https://api.spotify.com/v1/tracks/41pceSreIQ6AngjPL3ZcSG
+          id: 41pceSreIQ6AngjPL3ZcSG
+          is_local: false
+          is_playable: true
+          name: Initials B.B.
+          track_number: 1
+          type: track
+          uri: spotify:track:41pceSreIQ6AngjPL3ZcSG
+    isrc: FRZ036800400

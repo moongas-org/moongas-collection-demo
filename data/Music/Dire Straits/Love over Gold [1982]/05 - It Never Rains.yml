@@ -65,3 +65,72 @@ mediaFileData:
   year: 1982
   duration: 479.808
   modTime: 2024-02-03 20:07:18.905118+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4MkREzrofcXWhHRBuhdS1o
+    trackId: 4MkREzrofcXWhHRBuhdS1o
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBF088400783&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T
+              href: https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T
+              id: 0WwSkZ7LtFUFjGjMZBMt6T
+              name: Dire Straits
+              type: artist
+              uri: spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+            external_urls:
+              spotify: https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5
+            href: https://api.spotify.com/v1/albums/3Iz3o8owPasr8PKUSZPqD5
+            id: 3Iz3o8owPasr8PKUSZPqD5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736eb1486e037eba0ff701df77
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026eb1486e037eba0ff701df77
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516eb1486e037eba0ff701df77
+            is_playable: true
+            name: Love Over Gold
+            release_date: '1982-09-20'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:3Iz3o8owPasr8PKUSZPqD5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T
+            href: https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T
+            id: 0WwSkZ7LtFUFjGjMZBMt6T
+            name: Dire Straits
+            type: artist
+            uri: spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T
+          disc_number: 1
+          duration_ms: 479640
+          explicit: false
+          external_ids:
+            isrc: GBF088400783
+          external_urls:
+            spotify: https://open.spotify.com/track/4MkREzrofcXWhHRBuhdS1o
+          href: https://api.spotify.com/v1/tracks/4MkREzrofcXWhHRBuhdS1o
+          id: 4MkREzrofcXWhHRBuhdS1o
+          is_local: false
+          is_playable: true
+          name: It Never Rains
+          track_number: 5
+          type: track
+          uri: spotify:track:4MkREzrofcXWhHRBuhdS1o
+    isrc: GBF088400783

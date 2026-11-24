@@ -56,3 +56,126 @@ mediaFileData:
   year: 2006
   duration: 269.74666666666667
   modTime: 2023-05-14 00:52:49.600000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5PVwz30mcldpVIrHLGMONP
+    trackId: 5PVwz30mcldpVIrHLGMONP
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS0600071&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+              href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+              id: 57dN52uHvrHOxijzpIgu3E
+              name: Ratatat
+              type: artist
+              uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+            external_urls:
+              spotify: https://open.spotify.com/album/5ju00tNtmcTY0rw0X1tuXJ
+            href: https://api.spotify.com/v1/albums/5ju00tNtmcTY0rw0X1tuXJ
+            id: 5ju00tNtmcTY0rw0X1tuXJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739cecd59c9698d941419e42ae
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029cecd59c9698d941419e42ae
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519cecd59c9698d941419e42ae
+            is_playable: true
+            name: Lex
+            release_date: '2006-10-24'
+            release_date_precision: day
+            total_tracks: 3
+            type: album
+            uri: spotify:album:5ju00tNtmcTY0rw0X1tuXJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+            href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+            id: 57dN52uHvrHOxijzpIgu3E
+            name: Ratatat
+            type: artist
+            uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+          disc_number: 1
+          duration_ms: 269746
+          explicit: false
+          external_ids:
+            isrc: GBBKS0600071
+          external_urls:
+            spotify: https://open.spotify.com/track/5PVwz30mcldpVIrHLGMONP
+          href: https://api.spotify.com/v1/tracks/5PVwz30mcldpVIrHLGMONP
+          id: 5PVwz30mcldpVIrHLGMONP
+          is_local: false
+          is_playable: true
+          name: Lex
+          track_number: 1
+          type: track
+          uri: spotify:track:5PVwz30mcldpVIrHLGMONP
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+              href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+              id: 57dN52uHvrHOxijzpIgu3E
+              name: Ratatat
+              type: artist
+              uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+            external_urls:
+              spotify: https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J
+            href: https://api.spotify.com/v1/albums/7cKqnavORKemYZ41wFtx5J
+            id: 7cKqnavORKemYZ41wFtx5J
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27347c1d9294700c9b75fbaed6b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0247c1d9294700c9b75fbaed6b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485147c1d9294700c9b75fbaed6b
+            is_playable: true
+            name: Classics
+            release_date: '2006-08-22'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7cKqnavORKemYZ41wFtx5J
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E
+            href: https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E
+            id: 57dN52uHvrHOxijzpIgu3E
+            name: Ratatat
+            type: artist
+            uri: spotify:artist:57dN52uHvrHOxijzpIgu3E
+          disc_number: 1
+          duration_ms: 269746
+          explicit: false
+          external_ids:
+            isrc: GBBKS0600071
+          external_urls:
+            spotify: https://open.spotify.com/track/5t8STuyCdfO3QQK1U0RcD8
+          href: https://api.spotify.com/v1/tracks/5t8STuyCdfO3QQK1U0RcD8
+          id: 5t8STuyCdfO3QQK1U0RcD8
+          is_local: false
+          is_playable: true
+          name: Lex
+          track_number: 2
+          type: track
+          uri: spotify:track:5t8STuyCdfO3QQK1U0RcD8
+    isrc: GBBKS0600071

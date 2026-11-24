@@ -50,3 +50,72 @@ mediaFileData:
   year: 2004
   duration: 209.49333333333334
   modTime: 2023-05-14 16:36:24.750000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5DZOnhSRTtyD9EufT2ie2x
+    trackId: 5DZOnhSRTtyD9EufT2ie2x
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE12500016&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb
+              href: https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb
+              id: 7FBcuc1gsnv6Y1nwFtNRCb
+              name: My Chemical Romance
+              type: artist
+              uri: spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb
+            external_urls:
+              spotify: https://open.spotify.com/album/2UyMXfEjHvT4LlrVYqXGTM
+            href: https://api.spotify.com/v1/albums/2UyMXfEjHvT4LlrVYqXGTM
+            id: 2UyMXfEjHvT4LlrVYqXGTM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b0c0ef1157d2b44f4761c086
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b0c0ef1157d2b44f4761c086
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b0c0ef1157d2b44f4761c086
+            is_playable: true
+            name: Three Cheers for Sweet Revenge (Deluxe Edition)
+            release_date: '2025-06-06'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2UyMXfEjHvT4LlrVYqXGTM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb
+            href: https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb
+            id: 7FBcuc1gsnv6Y1nwFtNRCb
+            name: My Chemical Romance
+            type: artist
+            uri: spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb
+          disc_number: 1
+          duration_ms: 210948
+          explicit: false
+          external_ids:
+            isrc: USRE12500016
+          external_urls:
+            spotify: https://open.spotify.com/track/5DZOnhSRTtyD9EufT2ie2x
+          href: https://api.spotify.com/v1/tracks/5DZOnhSRTtyD9EufT2ie2x
+          id: 5DZOnhSRTtyD9EufT2ie2x
+          is_local: false
+          is_playable: true
+          name: It's Not a Fashion Statement, It's a Deathwish - 2025 Mix
+          track_number: 11
+          type: track
+          uri: spotify:track:5DZOnhSRTtyD9EufT2ie2x
+    isrc: USRE12500016

@@ -34,3 +34,72 @@ mediaFileData:
   year: 1972
   duration: 442.7124166666667
   modTime: 2025-01-11 00:54:04.689949+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/61JaMPh5txtfMXoOWMEd5B
+    trackId: 61JaMPh5txtfMXoOWMEd5B
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCTX2100189&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+              href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+              id: 7M1FPw29m5FbicYzS2xdpi
+              name: King Crimson
+              type: artist
+              uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+            external_urls:
+              spotify: https://open.spotify.com/album/76HhGPMKa6XLKwNLmQehFx
+            href: https://api.spotify.com/v1/albums/76HhGPMKa6XLKwNLmQehFx
+            id: 76HhGPMKa6XLKwNLmQehFx
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27355f9e44f3e4114cb0ccaeb30
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0255f9e44f3e4114cb0ccaeb30
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485155f9e44f3e4114cb0ccaeb30
+            is_playable: true
+            name: Earthbound (Live)
+            release_date: '1972-06-09'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:76HhGPMKa6XLKwNLmQehFx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+            href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+            id: 7M1FPw29m5FbicYzS2xdpi
+            name: King Crimson
+            type: artist
+            uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+          disc_number: 1
+          duration_ms: 442666
+          explicit: false
+          external_ids:
+            isrc: GBCTX2100189
+          external_urls:
+            spotify: https://open.spotify.com/track/61JaMPh5txtfMXoOWMEd5B
+          href: https://api.spotify.com/v1/tracks/61JaMPh5txtfMXoOWMEd5B
+          id: 61JaMPh5txtfMXoOWMEd5B
+          is_local: false
+          is_playable: true
+          name: Peoria - Live
+          track_number: 2
+          type: track
+          uri: spotify:track:61JaMPh5txtfMXoOWMEd5B
+    isrc: GBCTX2100189

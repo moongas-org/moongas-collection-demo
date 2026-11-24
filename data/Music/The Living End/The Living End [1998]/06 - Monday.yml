@@ -35,3 +35,126 @@ mediaFileData:
   year: 1998
   duration: 211.93142857142857
   modTime: 2026-02-01 21:03:09.026115+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/703O189dBgYJjmDOl1MQHl
+    trackId: 703O189dBgYJjmDOl1MQHl
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUMPO9800009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G
+              href: https://api.spotify.com/v1/artists/3ExT45ORJ8pT516HRZbr7G
+              id: 3ExT45ORJ8pT516HRZbr7G
+              name: The Living End
+              type: artist
+              uri: spotify:artist:3ExT45ORJ8pT516HRZbr7G
+            external_urls:
+              spotify: https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7
+            href: https://api.spotify.com/v1/albums/4NrwcdtcWnfQvMxqQwF8x7
+            id: 4NrwcdtcWnfQvMxqQwF8x7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273049c676bbe6d94b46e4d9b6e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02049c676bbe6d94b46e4d9b6e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851049c676bbe6d94b46e4d9b6e
+            is_playable: true
+            name: The Living End
+            release_date: '1999-01-15'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:4NrwcdtcWnfQvMxqQwF8x7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G
+            href: https://api.spotify.com/v1/artists/3ExT45ORJ8pT516HRZbr7G
+            id: 3ExT45ORJ8pT516HRZbr7G
+            name: The Living End
+            type: artist
+            uri: spotify:artist:3ExT45ORJ8pT516HRZbr7G
+          disc_number: 1
+          duration_ms: 209506
+          explicit: false
+          external_ids:
+            isrc: AUMPO9800009
+          external_urls:
+            spotify: https://open.spotify.com/track/703O189dBgYJjmDOl1MQHl
+          href: https://api.spotify.com/v1/tracks/703O189dBgYJjmDOl1MQHl
+          id: 703O189dBgYJjmDOl1MQHl
+          is_local: false
+          is_playable: true
+          name: Monday
+          track_number: 6
+          type: track
+          uri: spotify:track:703O189dBgYJjmDOl1MQHl
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4OWrl2cz7nxtyiLACwyKUM
+            href: https://api.spotify.com/v1/albums/4OWrl2cz7nxtyiLACwyKUM
+            id: 4OWrl2cz7nxtyiLACwyKUM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cf34c078155f7b090459c27b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cf34c078155f7b090459c27b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cf34c078155f7b090459c27b
+            is_playable: true
+            name: Pop Rock 90s
+            release_date: '2025-06-28'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:4OWrl2cz7nxtyiLACwyKUM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G
+            href: https://api.spotify.com/v1/artists/3ExT45ORJ8pT516HRZbr7G
+            id: 3ExT45ORJ8pT516HRZbr7G
+            name: The Living End
+            type: artist
+            uri: spotify:artist:3ExT45ORJ8pT516HRZbr7G
+          disc_number: 1
+          duration_ms: 209506
+          explicit: false
+          external_ids:
+            isrc: AUMPO9800009
+          external_urls:
+            spotify: https://open.spotify.com/track/2Uv2CbZTlRDOO8OOQFRxQz
+          href: https://api.spotify.com/v1/tracks/2Uv2CbZTlRDOO8OOQFRxQz
+          id: 2Uv2CbZTlRDOO8OOQFRxQz
+          is_local: false
+          is_playable: true
+          name: Monday
+          track_number: 52
+          type: track
+          uri: spotify:track:2Uv2CbZTlRDOO8OOQFRxQz
+    isrc: AUMPO9800009

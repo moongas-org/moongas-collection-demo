@@ -168,3 +168,72 @@ mediaFileData:
   year: 1977
   duration: 191.58204166666667
   modTime: 2023-05-14 16:54:48.460000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2yKlzUs2hzx5CLj65Pmca6
+    trackId: 2yKlzUs2hzx5CLj65Pmca6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB22600009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+              href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+              id: 08GQAI4eElDnROBrJRGE0X
+              name: Fleetwood Mac
+              type: artist
+              uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+            external_urls:
+              spotify: https://open.spotify.com/album/5YzOUVdLMrItgSP3lMxReH
+            href: https://api.spotify.com/v1/albums/5YzOUVdLMrItgSP3lMxReH
+            id: 5YzOUVdLMrItgSP3lMxReH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27318c0cb6bcd7bfecee189242f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0218c0cb6bcd7bfecee189242f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485118c0cb6bcd7bfecee189242f
+            is_playable: true
+            name: Greatest Hits (Deluxe Edition)
+            release_date: '1988-11-22'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:5YzOUVdLMrItgSP3lMxReH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 190653
+          explicit: false
+          external_ids:
+            isrc: USWB22600009
+          external_urls:
+            spotify: https://open.spotify.com/track/2yKlzUs2hzx5CLj65Pmca6
+          href: https://api.spotify.com/v1/tracks/2yKlzUs2hzx5CLj65Pmca6
+          id: 2yKlzUs2hzx5CLj65Pmca6
+          is_local: false
+          is_playable: true
+          name: Don't Stop
+          track_number: 2
+          type: track
+          uri: spotify:track:2yKlzUs2hzx5CLj65Pmca6
+    isrc: USWB22600009

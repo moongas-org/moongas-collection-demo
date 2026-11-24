@@ -54,3 +54,72 @@ mediaFileData:
   year: 1986
   duration: 218.13333333333333
   modTime: 2024-02-16 16:37:29.099906+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6WjBHU164j4esComSsTIpU
+    trackId: 6WjBHU164j4esComSsTIpU
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA20400012&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W
+              href: https://api.spotify.com/v1/artists/0g3EsNvUCwgpsdkAiIC50W
+              id: 0g3EsNvUCwgpsdkAiIC50W
+              name: Bettye Swann
+              type: artist
+              uri: spotify:artist:0g3EsNvUCwgpsdkAiIC50W
+            external_urls:
+              spotify: https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs
+            href: https://api.spotify.com/v1/albums/1oHCwJLBDoKDOfdznsRjNs
+            id: 1oHCwJLBDoKDOfdznsRjNs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e8277c7f616369f1dfc3e0ca
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e8277c7f616369f1dfc3e0ca
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e8277c7f616369f1dfc3e0ca
+            is_playable: true
+            name: Bettye Swann
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:1oHCwJLBDoKDOfdznsRjNs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W
+            href: https://api.spotify.com/v1/artists/0g3EsNvUCwgpsdkAiIC50W
+            id: 0g3EsNvUCwgpsdkAiIC50W
+            name: Bettye Swann
+            type: artist
+            uri: spotify:artist:0g3EsNvUCwgpsdkAiIC50W
+          disc_number: 1
+          duration_ms: 175453
+          explicit: false
+          external_ids:
+            isrc: USCA20400012
+          external_urls:
+            spotify: https://open.spotify.com/track/6WjBHU164j4esComSsTIpU
+          href: https://api.spotify.com/v1/tracks/6WjBHU164j4esComSsTIpU
+          id: 6WjBHU164j4esComSsTIpU
+          is_local: false
+          is_playable: true
+          name: Don't You Ever Get Tired (Of Hurting Me)
+          track_number: 1
+          type: track
+          uri: spotify:track:6WjBHU164j4esComSsTIpU
+    isrc: USCA20400012

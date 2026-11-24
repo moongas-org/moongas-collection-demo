@@ -44,3 +44,72 @@ mediaFileData:
   year: 2010
   duration: 252.26448979591837
   modTime: 2024-10-23 20:13:02.785350+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6ISLGlg8r2mTs32XnHMSlq
+    trackId: 6ISLGlg8r2mTs32XnHMSlq
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBZUZ0900071&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ
+              href: https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ
+              id: 75dQReiBOHN37fQgWQrIAJ
+              name: Local Natives
+              type: artist
+              uri: spotify:artist:75dQReiBOHN37fQgWQrIAJ
+            external_urls:
+              spotify: https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID
+            href: https://api.spotify.com/v1/albums/2cIpJDijNEoHv88jJKwDID
+            id: 2cIpJDijNEoHv88jJKwDID
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734203f138ac5fed176cfd6bf9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024203f138ac5fed176cfd6bf9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514203f138ac5fed176cfd6bf9
+            is_playable: true
+            name: Gorilla Manor
+            release_date: '2010-02-16'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2cIpJDijNEoHv88jJKwDID
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ
+            href: https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ
+            id: 75dQReiBOHN37fQgWQrIAJ
+            name: Local Natives
+            type: artist
+            uri: spotify:artist:75dQReiBOHN37fQgWQrIAJ
+          disc_number: 1
+          duration_ms: 250160
+          explicit: false
+          external_ids:
+            isrc: GBZUZ0900071
+          external_urls:
+            spotify: https://open.spotify.com/track/6ISLGlg8r2mTs32XnHMSlq
+          href: https://api.spotify.com/v1/tracks/6ISLGlg8r2mTs32XnHMSlq
+          id: 6ISLGlg8r2mTs32XnHMSlq
+          is_local: false
+          is_playable: true
+          name: Warning Sign
+          track_number: 8
+          type: track
+          uri: spotify:track:6ISLGlg8r2mTs32XnHMSlq
+    isrc: GBZUZ0900071

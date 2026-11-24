@@ -60,3 +60,72 @@ mediaFileData:
   year: 1997
   duration: 300.25142857142856
   modTime: 2025-04-11 18:53:29.789667+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5dzJxpXJukYVGGaKQJq8fY
+    trackId: 5dzJxpXJukYVGGaKQJq8fY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRF30000053&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy
+              href: https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy
+              id: 0oSGxfWSnnOXhD2fKuz2Gy
+              name: David Bowie
+              type: artist
+              uri: spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy
+            external_urls:
+              spotify: https://open.spotify.com/album/1LCF3So9B9X0xreRtYbYIr
+            href: https://api.spotify.com/v1/albums/1LCF3So9B9X0xreRtYbYIr
+            id: 1LCF3So9B9X0xreRtYbYIr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273723c64767adfe781f0898f98
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02723c64767adfe781f0898f98
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851723c64767adfe781f0898f98
+            is_playable: true
+            name: Earthling
+            release_date: '1997'
+            release_date_precision: year
+            total_tracks: 9
+            type: album
+            uri: spotify:album:1LCF3So9B9X0xreRtYbYIr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy
+            href: https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy
+            id: 0oSGxfWSnnOXhD2fKuz2Gy
+            name: David Bowie
+            type: artist
+            uri: spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy
+          disc_number: 1
+          duration_ms: 300160
+          explicit: false
+          external_ids:
+            isrc: USRF30000053
+          external_urls:
+            spotify: https://open.spotify.com/track/5dzJxpXJukYVGGaKQJq8fY
+          href: https://api.spotify.com/v1/tracks/5dzJxpXJukYVGGaKQJq8fY
+          id: 5dzJxpXJukYVGGaKQJq8fY
+          is_local: false
+          is_playable: true
+          name: I'm Afraid of Americans
+          track_number: 8
+          type: track
+          uri: spotify:track:5dzJxpXJukYVGGaKQJq8fY
+    isrc: USRF30000053

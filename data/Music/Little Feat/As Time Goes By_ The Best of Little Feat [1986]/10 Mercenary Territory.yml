@@ -38,3 +38,126 @@ mediaFileData:
   year: 1986
   duration: 266.16165625
   modTime: 2024-08-22 23:48:08.255938+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4zZpPDi2MMdgkLlBrnvjH5
+    trackId: 4zZpPDi2MMdgkLlBrnvjH5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10100844&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+              href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+              id: 0ZIwOAzDuGPspzK7yiTc4S
+              name: Little Feat
+              type: artist
+              uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+            external_urls:
+              spotify: https://open.spotify.com/album/4H87tuNGBfs7opAEpYokit
+            href: https://api.spotify.com/v1/albums/4H87tuNGBfs7opAEpYokit
+            id: 4H87tuNGBfs7opAEpYokit
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739e2b97781670471a3642d982
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029e2b97781670471a3642d982
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519e2b97781670471a3642d982
+            is_playable: true
+            name: 'Rad Gumbo: The Complete Warner Bros. Years 1971-1990'
+            release_date: '2014-02-25'
+            release_date_precision: day
+            total_tracks: 157
+            type: album
+            uri: spotify:album:4H87tuNGBfs7opAEpYokit
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 5
+          duration_ms: 266266
+          explicit: false
+          external_ids:
+            isrc: USWB10100844
+          external_urls:
+            spotify: https://open.spotify.com/track/4zZpPDi2MMdgkLlBrnvjH5
+          href: https://api.spotify.com/v1/tracks/4zZpPDi2MMdgkLlBrnvjH5
+          id: 4zZpPDi2MMdgkLlBrnvjH5
+          is_local: false
+          is_playable: true
+          name: Mercenary Territory
+          track_number: 8
+          type: track
+          uri: spotify:track:4zZpPDi2MMdgkLlBrnvjH5
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+              href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+              id: 0ZIwOAzDuGPspzK7yiTc4S
+              name: Little Feat
+              type: artist
+              uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+            external_urls:
+              spotify: https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn
+            href: https://api.spotify.com/v1/albums/6D5275lO8hDqBgWS4CkHhn
+            id: 6D5275lO8hDqBgWS4CkHhn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e36768f4b07a00638a2bd318
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e36768f4b07a00638a2bd318
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e36768f4b07a00638a2bd318
+            is_playable: true
+            name: The Last Record Album
+            release_date: '1975'
+            release_date_precision: year
+            total_tracks: 8
+            type: album
+            uri: spotify:album:6D5275lO8hDqBgWS4CkHhn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 1
+          duration_ms: 266266
+          explicit: false
+          external_ids:
+            isrc: USWB10100844
+          external_urls:
+            spotify: https://open.spotify.com/track/4leIDXPpUYJuDgcIUvLAXI
+          href: https://api.spotify.com/v1/tracks/4leIDXPpUYJuDgcIUvLAXI
+          id: 4leIDXPpUYJuDgcIUvLAXI
+          is_local: false
+          is_playable: true
+          name: Mercenary Territory
+          track_number: 8
+          type: track
+          uri: spotify:track:4leIDXPpUYJuDgcIUvLAXI
+    isrc: USWB10100844

@@ -47,3 +47,72 @@ mediaFileData:
   year: 1982
   duration: 208.128
   modTime: 2025-03-20 00:47:46.081983+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/65kLNFQaOVVHt5MgaHa3Ce
+    trackId: 65kLNFQaOVVHt5MgaHa3Ce
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM4222000044&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl
+              href: https://api.spotify.com/v1/artists/1PqdKx88nAgPolRy079lMl
+              id: 1PqdKx88nAgPolRy079lMl
+              name: Herb Alpert
+              type: artist
+              uri: spotify:artist:1PqdKx88nAgPolRy079lMl
+            external_urls:
+              spotify: https://open.spotify.com/album/5mtm2FgNu9ebyF6mm8gNRO
+            href: https://api.spotify.com/v1/albums/5mtm2FgNu9ebyF6mm8gNRO
+            id: 5mtm2FgNu9ebyF6mm8gNRO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c9657e7df6f0c153f91516f6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c9657e7df6f0c153f91516f6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c9657e7df6f0c153f91516f6
+            is_playable: true
+            name: Herb Alpert Is...
+            release_date: '2020-10-02'
+            release_date_precision: day
+            total_tracks: 63
+            type: album
+            uri: spotify:album:5mtm2FgNu9ebyF6mm8gNRO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl
+            href: https://api.spotify.com/v1/artists/1PqdKx88nAgPolRy079lMl
+            id: 1PqdKx88nAgPolRy079lMl
+            name: Herb Alpert
+            type: artist
+            uri: spotify:artist:1PqdKx88nAgPolRy079lMl
+          disc_number: 4
+          duration_ms: 202385
+          explicit: false
+          external_ids:
+            isrc: QM4222000044
+          external_urls:
+            spotify: https://open.spotify.com/track/65kLNFQaOVVHt5MgaHa3Ce
+          href: https://api.spotify.com/v1/tracks/65kLNFQaOVVHt5MgaHa3Ce
+          id: 65kLNFQaOVVHt5MgaHa3Ce
+          is_local: false
+          is_playable: true
+          name: Route 101
+          track_number: 1
+          type: track
+          uri: spotify:track:65kLNFQaOVVHt5MgaHa3Ce
+    isrc: QM4222000044

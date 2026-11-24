@@ -102,3 +102,126 @@ mediaFileData:
   year: 1971
   duration: 358.26068027210886
   modTime: 2025-01-11 02:03:04.029646+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH
+    trackId: 6uU0Hu8oVk9gBihokcrDMH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBN9Y1100060&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+              href: https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9
+              id: 0k17h0D3J5VfsdmQ1iZtE9
+              name: Pink Floyd
+              type: artist
+              uri: spotify:artist:0k17h0D3J5VfsdmQ1iZtE9
+            external_urls:
+              spotify: https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb
+            href: https://api.spotify.com/v1/albums/468ZwCchVtzEbt9BHmXopb
+            id: 468ZwCchVtzEbt9BHmXopb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739eee212bba82bed8da96a8f7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029eee212bba82bed8da96a8f7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519eee212bba82bed8da96a8f7
+            is_playable: true
+            name: Meddle
+            release_date: '1971-11-11'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:468ZwCchVtzEbt9BHmXopb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+            href: https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9
+            id: 0k17h0D3J5VfsdmQ1iZtE9
+            name: Pink Floyd
+            type: artist
+            uri: spotify:artist:0k17h0D3J5VfsdmQ1iZtE9
+          disc_number: 1
+          duration_ms: 355400
+          explicit: false
+          external_ids:
+            isrc: GBN9Y1100060
+          external_urls:
+            spotify: https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH
+          href: https://api.spotify.com/v1/tracks/6uU0Hu8oVk9gBihokcrDMH
+          id: 6uU0Hu8oVk9gBihokcrDMH
+          is_local: false
+          is_playable: true
+          name: One of These Days
+          track_number: 1
+          type: track
+          uri: spotify:track:6uU0Hu8oVk9gBihokcrDMH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+              href: https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9
+              id: 0k17h0D3J5VfsdmQ1iZtE9
+              name: Pink Floyd
+              type: artist
+              uri: spotify:artist:0k17h0D3J5VfsdmQ1iZtE9
+            external_urls:
+              spotify: https://open.spotify.com/album/7boV4MiTWKwlNZHlVDYZqM
+            href: https://api.spotify.com/v1/albums/7boV4MiTWKwlNZHlVDYZqM
+            id: 7boV4MiTWKwlNZHlVDYZqM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733f98117b9c99970a2249212f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023f98117b9c99970a2249212f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513f98117b9c99970a2249212f
+            is_playable: true
+            name: 8-Tracks
+            release_date: '2026-06-05'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:7boV4MiTWKwlNZHlVDYZqM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+            href: https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9
+            id: 0k17h0D3J5VfsdmQ1iZtE9
+            name: Pink Floyd
+            type: artist
+            uri: spotify:artist:0k17h0D3J5VfsdmQ1iZtE9
+          disc_number: 1
+          duration_ms: 338218
+          explicit: false
+          external_ids:
+            isrc: GBN9Y1100060
+          external_urls:
+            spotify: https://open.spotify.com/track/0lXlFK51EQo8DE9W2dV8VK
+          href: https://api.spotify.com/v1/tracks/0lXlFK51EQo8DE9W2dV8VK
+          id: 0lXlFK51EQo8DE9W2dV8VK
+          is_local: false
+          is_playable: true
+          name: One of These Days
+          track_number: 1
+          type: track
+          uri: spotify:track:0lXlFK51EQo8DE9W2dV8VK
+    isrc: GBN9Y1100060

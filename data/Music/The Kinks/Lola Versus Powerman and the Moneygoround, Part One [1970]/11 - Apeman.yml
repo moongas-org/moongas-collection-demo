@@ -305,3 +305,180 @@ mediaFileData:
   year: 1970
   duration: 233.616
   modTime: 2024-01-12 00:40:22.932045+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6pV9Y3DpjqEIFoagwk1RVp
+    trackId: 6pV9Y3DpjqEIFoagwk1RVp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAJE7000003&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+              href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+              id: 1SQRv42e4PjEYfPhS0Tk9E
+              name: The Kinks
+              type: artist
+              uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+            external_urls:
+              spotify: https://open.spotify.com/album/72h3SjeulwajQSoJKEJGf2
+            href: https://api.spotify.com/v1/albums/72h3SjeulwajQSoJKEJGf2
+            id: 72h3SjeulwajQSoJKEJGf2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b621e6ec15ec03a01a079acc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b621e6ec15ec03a01a079acc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b621e6ec15ec03a01a079acc
+            is_playable: true
+            name: Lola Versus Powerman and the Moneygoround, Pt. 1 (Deluxe)
+            release_date: '1970-11-27'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:72h3SjeulwajQSoJKEJGf2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+            href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+            id: 1SQRv42e4PjEYfPhS0Tk9E
+            name: The Kinks
+            type: artist
+            uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+          disc_number: 1
+          duration_ms: 218400
+          explicit: false
+          external_ids:
+            isrc: GBAJE7000003
+          external_urls:
+            spotify: https://open.spotify.com/track/6pV9Y3DpjqEIFoagwk1RVp
+          href: https://api.spotify.com/v1/tracks/6pV9Y3DpjqEIFoagwk1RVp
+          id: 6pV9Y3DpjqEIFoagwk1RVp
+          is_local: false
+          is_playable: true
+          name: Apeman (Stereo Alternate Version)
+          track_number: 24
+          type: track
+          uri: spotify:track:6pV9Y3DpjqEIFoagwk1RVp
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+              href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+              id: 1SQRv42e4PjEYfPhS0Tk9E
+              name: The Kinks
+              type: artist
+              uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+            external_urls:
+              spotify: https://open.spotify.com/album/1uxgL5R6j7xzJi2Twk8xM3
+            href: https://api.spotify.com/v1/albums/1uxgL5R6j7xzJi2Twk8xM3
+            id: 1uxgL5R6j7xzJi2Twk8xM3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27344c06d9a569cabaaa77c70bc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0244c06d9a569cabaaa77c70bc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485144c06d9a569cabaaa77c70bc
+            is_playable: true
+            name: The Ultimate Collection
+            release_date: '2002-05-27'
+            release_date_precision: day
+            total_tracks: 44
+            type: album
+            uri: spotify:album:1uxgL5R6j7xzJi2Twk8xM3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+            href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+            id: 1SQRv42e4PjEYfPhS0Tk9E
+            name: The Kinks
+            type: artist
+            uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+          disc_number: 1
+          duration_ms: 234320
+          explicit: false
+          external_ids:
+            isrc: GBAJE7000003
+          external_urls:
+            spotify: https://open.spotify.com/track/5UvYgiiCAuLwy1DfobXVEJ
+          href: https://api.spotify.com/v1/tracks/5UvYgiiCAuLwy1DfobXVEJ
+          id: 5UvYgiiCAuLwy1DfobXVEJ
+          is_local: false
+          is_playable: true
+          name: Apeman - Stereo Alternate Version
+          track_number: 20
+          type: track
+          uri: spotify:track:5UvYgiiCAuLwy1DfobXVEJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+              href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+              id: 1SQRv42e4PjEYfPhS0Tk9E
+              name: The Kinks
+              type: artist
+              uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+            external_urls:
+              spotify: https://open.spotify.com/album/74kgMXHNs79ChPu0xi8FAe
+            href: https://api.spotify.com/v1/albums/74kgMXHNs79ChPu0xi8FAe
+            id: 74kgMXHNs79ChPu0xi8FAe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cab7f643f0e84c8a03cf8bcc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cab7f643f0e84c8a03cf8bcc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cab7f643f0e84c8a03cf8bcc
+            is_playable: true
+            name: Picture Book
+            release_date: '2008-12-08'
+            release_date_precision: day
+            total_tracks: 138
+            type: album
+            uri: spotify:album:74kgMXHNs79ChPu0xi8FAe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E
+            href: https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E
+            id: 1SQRv42e4PjEYfPhS0Tk9E
+            name: The Kinks
+            type: artist
+            uri: spotify:artist:1SQRv42e4PjEYfPhS0Tk9E
+          disc_number: 3
+          duration_ms: 218400
+          explicit: false
+          external_ids:
+            isrc: GBAJE7000003
+          external_urls:
+            spotify: https://open.spotify.com/track/1jusljBrL3p6fffyKP8XCF
+          href: https://api.spotify.com/v1/tracks/1jusljBrL3p6fffyKP8XCF
+          id: 1jusljBrL3p6fffyKP8XCF
+          is_local: false
+          is_playable: true
+          name: Apeman - Stereo Alternate Version
+          track_number: 15
+          type: track
+          uri: spotify:track:1jusljBrL3p6fffyKP8XCF
+    isrc: GBAJE7000003

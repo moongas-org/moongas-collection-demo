@@ -65,3 +65,126 @@ mediaFileData:
   year: 1994
   duration: 196.59755102040816
   modTime: 2023-12-05 02:16:57.469100+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7
+    trackId: 1SY2vughwKmVPm1Lmf5Nl7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSGF19473203&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP
+              href: https://api.spotify.com/v1/artists/2QwJQuBekTA4qF7N7uLHDP
+              id: 2QwJQuBekTA4qF7N7uLHDP
+              name: Veruca Salt
+              type: artist
+              uri: spotify:artist:2QwJQuBekTA4qF7N7uLHDP
+            external_urls:
+              spotify: https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9
+            href: https://api.spotify.com/v1/albums/5Mjt2iha5C99JBqTjJijg9
+            id: 5Mjt2iha5C99JBqTjJijg9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273232ab41903a1d7b64e67c384
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02232ab41903a1d7b64e67c384
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851232ab41903a1d7b64e67c384
+            is_playable: true
+            name: American Thighs
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5Mjt2iha5C99JBqTjJijg9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP
+            href: https://api.spotify.com/v1/artists/2QwJQuBekTA4qF7N7uLHDP
+            id: 2QwJQuBekTA4qF7N7uLHDP
+            name: Veruca Salt
+            type: artist
+            uri: spotify:artist:2QwJQuBekTA4qF7N7uLHDP
+          disc_number: 1
+          duration_ms: 196573
+          explicit: false
+          external_ids:
+            isrc: USGF19473203
+          external_urls:
+            spotify: https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7
+          href: https://api.spotify.com/v1/tracks/1SY2vughwKmVPm1Lmf5Nl7
+          id: 1SY2vughwKmVPm1Lmf5Nl7
+          is_local: false
+          is_playable: true
+          name: Seether
+          track_number: 3
+          type: track
+          uri: spotify:track:1SY2vughwKmVPm1Lmf5Nl7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6poU48oc5zPTjUh04ljWUT
+            href: https://api.spotify.com/v1/albums/6poU48oc5zPTjUh04ljWUT
+            id: 6poU48oc5zPTjUh04ljWUT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739237a283d2d017ca3bf1edd6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029237a283d2d017ca3bf1edd6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519237a283d2d017ca3bf1edd6
+            is_playable: true
+            name: Yellowjackets Season 2 (Music From The Original Series)
+            release_date: '2023-10-20'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:6poU48oc5zPTjUh04ljWUT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP
+            href: https://api.spotify.com/v1/artists/2QwJQuBekTA4qF7N7uLHDP
+            id: 2QwJQuBekTA4qF7N7uLHDP
+            name: Veruca Salt
+            type: artist
+            uri: spotify:artist:2QwJQuBekTA4qF7N7uLHDP
+          disc_number: 1
+          duration_ms: 197825
+          explicit: false
+          external_ids:
+            isrc: USGF19473203
+          external_urls:
+            spotify: https://open.spotify.com/track/4xhwPQM4abmkGNzniFtmNQ
+          href: https://api.spotify.com/v1/tracks/4xhwPQM4abmkGNzniFtmNQ
+          id: 4xhwPQM4abmkGNzniFtmNQ
+          is_local: false
+          is_playable: true
+          name: Seether
+          track_number: 8
+          type: track
+          uri: spotify:track:4xhwPQM4abmkGNzniFtmNQ
+    isrc: USGF19473203

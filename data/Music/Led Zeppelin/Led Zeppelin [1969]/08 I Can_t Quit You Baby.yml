@@ -67,3 +67,72 @@ mediaFileData:
   year: 1969
   duration: 282.95835
   modTime: 2023-08-27 16:02:14+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6
+    trackId: 62QInSlXQI11BR9ycVWjd6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT29900541&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK
+            href: https://api.spotify.com/v1/albums/3ycjBixZf7S3WpC5WZhhUK
+            id: 3ycjBixZf7S3WpC5WZhhUK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736f2f499c1df1f210c9b34b32
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026f2f499c1df1f210c9b34b32
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516f2f499c1df1f210c9b34b32
+            is_playable: true
+            name: Led Zeppelin
+            release_date: '1969-01-12'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:3ycjBixZf7S3WpC5WZhhUK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 282426
+          explicit: false
+          external_ids:
+            isrc: USAT29900541
+          external_urls:
+            spotify: https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6
+          href: https://api.spotify.com/v1/tracks/62QInSlXQI11BR9ycVWjd6
+          id: 62QInSlXQI11BR9ycVWjd6
+          is_local: false
+          is_playable: true
+          name: I Can't Quit You Baby - 1990 Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:62QInSlXQI11BR9ycVWjd6
+    isrc: USAT29900541

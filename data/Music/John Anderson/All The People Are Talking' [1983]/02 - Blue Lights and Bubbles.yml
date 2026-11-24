@@ -34,3 +34,126 @@ mediaFileData:
   year: 1983
   duration: 161.9069387755102
   modTime: 2026-04-14 16:18:02.757825+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1Zeb9R8DIRzb7nTyljy5xf
+    trackId: 1Zeb9R8DIRzb7nTyljy5xf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10704442&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/0kqkhb1pTYJNpEAru1sYMU
+            href: https://api.spotify.com/v1/albums/0kqkhb1pTYJNpEAru1sYMU
+            id: 0kqkhb1pTYJNpEAru1sYMU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736325fec97d706a6c6fab7cbe
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026325fec97d706a6c6fab7cbe
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516325fec97d706a6c6fab7cbe
+            is_playable: true
+            name: 'Black Sheep: The Complete Warner Albums'
+            release_date: '2020-10-30'
+            release_date_precision: day
+            total_tracks: 83
+            type: album
+            uri: spotify:album:0kqkhb1pTYJNpEAru1sYMU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 161813
+          explicit: false
+          external_ids:
+            isrc: USWB10704442
+          external_urls:
+            spotify: https://open.spotify.com/track/1Zeb9R8DIRzb7nTyljy5xf
+          href: https://api.spotify.com/v1/tracks/1Zeb9R8DIRzb7nTyljy5xf
+          id: 1Zeb9R8DIRzb7nTyljy5xf
+          is_local: false
+          is_playable: true
+          name: Blue Lights and Bubbles
+          track_number: 45
+          type: track
+          uri: spotify:track:1Zeb9R8DIRzb7nTyljy5xf
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS
+            href: https://api.spotify.com/v1/albums/2cWX0i12WDcbP8Gp6cACvS
+            id: 2cWX0i12WDcbP8Gp6cACvS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734b01f494a5e1507e3360f4a8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024b01f494a5e1507e3360f4a8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514b01f494a5e1507e3360f4a8
+            is_playable: true
+            name: All The People Are Talkin'
+            release_date: '1983'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2cWX0i12WDcbP8Gp6cACvS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 161813
+          explicit: false
+          external_ids:
+            isrc: USWB10704442
+          external_urls:
+            spotify: https://open.spotify.com/track/29GeLeBF1dpr0PyCtHlKFy
+          href: https://api.spotify.com/v1/tracks/29GeLeBF1dpr0PyCtHlKFy
+          id: 29GeLeBF1dpr0PyCtHlKFy
+          is_local: false
+          is_playable: true
+          name: Blue Lights and Bubbles
+          track_number: 2
+          type: track
+          uri: spotify:track:29GeLeBF1dpr0PyCtHlKFy
+    isrc: USWB10704442

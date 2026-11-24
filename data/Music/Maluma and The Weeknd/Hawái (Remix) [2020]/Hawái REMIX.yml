@@ -34,3 +34,86 @@ mediaFileData:
   year: 2020
   duration: 198.96
   modTime: 2023-10-06 15:23:28+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F
+    trackId: 0GzuHFG4Ql6DoyxFRnIk3F
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSD12000526&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau
+              href: https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau
+              id: 1r4hJ1h58CWwUQe3MxPuau
+              name: Maluma
+              type: artist
+              uri: spotify:artist:1r4hJ1h58CWwUQe3MxPuau
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+              href: https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ
+              id: 1Xyo4u8uXC1ZmMpatF05PJ
+              name: The Weeknd
+              type: artist
+              uri: spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+            external_urls:
+              spotify: https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v
+            href: https://api.spotify.com/v1/albums/1Ag9EPbzibwzz0S0WpgX3v
+            id: 1Ag9EPbzibwzz0S0WpgX3v
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fb2f76d87912761c2b7d71a5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fb2f76d87912761c2b7d71a5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fb2f76d87912761c2b7d71a5
+            is_playable: true
+            name: Hawái (Remix)
+            release_date: '2020-11-05'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:1Ag9EPbzibwzz0S0WpgX3v
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau
+            href: https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau
+            id: 1r4hJ1h58CWwUQe3MxPuau
+            name: Maluma
+            type: artist
+            uri: spotify:artist:1r4hJ1h58CWwUQe3MxPuau
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+            href: https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ
+            id: 1Xyo4u8uXC1ZmMpatF05PJ
+            name: The Weeknd
+            type: artist
+            uri: spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ
+          disc_number: 1
+          duration_ms: 200027
+          explicit: false
+          external_ids:
+            isrc: USSD12000526
+          external_urls:
+            spotify: https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F
+          href: https://api.spotify.com/v1/tracks/0GzuHFG4Ql6DoyxFRnIk3F
+          id: 0GzuHFG4Ql6DoyxFRnIk3F
+          is_local: false
+          is_playable: true
+          name: Hawái - Remix
+          track_number: 1
+          type: track
+          uri: spotify:track:0GzuHFG4Ql6DoyxFRnIk3F
+    isrc: USSD12000526

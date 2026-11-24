@@ -34,3 +34,126 @@ mediaFileData:
   year: 1988
   duration: 214.83102040816325
   modTime: 2026-04-14 16:30:53.949742+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2MwHOyXsQwVhFR9DYePMEq
+    trackId: 2MwHOyXsQwVhFR9DYePMEq
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC19443289&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+              href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+              id: 3U7k7hBsHF9dy4ELW53Wrv
+              name: John Anderson
+              type: artist
+              uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+            external_urls:
+              spotify: https://open.spotify.com/album/2lFCi8aJQQlQ5bmgWk4YRo
+            href: https://api.spotify.com/v1/albums/2lFCi8aJQQlQ5bmgWk4YRo
+            id: 2lFCi8aJQQlQ5bmgWk4YRo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736fda201193c675434e7b4e60
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026fda201193c675434e7b4e60
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516fda201193c675434e7b4e60
+            is_playable: true
+            name: You Can't Keep A Good Memory Down
+            release_date: '1994-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2lFCi8aJQQlQ5bmgWk4YRo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 211626
+          explicit: false
+          external_ids:
+            isrc: USMC19443289
+          external_urls:
+            spotify: https://open.spotify.com/track/2MwHOyXsQwVhFR9DYePMEq
+          href: https://api.spotify.com/v1/tracks/2MwHOyXsQwVhFR9DYePMEq
+          id: 2MwHOyXsQwVhFR9DYePMEq
+          is_local: false
+          is_playable: true
+          name: Down In The Orange Grove
+          track_number: 1
+          type: track
+          uri: spotify:track:2MwHOyXsQwVhFR9DYePMEq
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2NRwosX74QM5wie9HLjwio
+            href: https://api.spotify.com/v1/albums/2NRwosX74QM5wie9HLjwio
+            id: 2NRwosX74QM5wie9HLjwio
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27326729a9790b2b11c784b543e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0226729a9790b2b11c784b543e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485126729a9790b2b11c784b543e
+            is_playable: true
+            name: 1990s Country
+            release_date: '2021-10-05'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:2NRwosX74QM5wie9HLjwio
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv
+            href: https://api.spotify.com/v1/artists/3U7k7hBsHF9dy4ELW53Wrv
+            id: 3U7k7hBsHF9dy4ELW53Wrv
+            name: John Anderson
+            type: artist
+            uri: spotify:artist:3U7k7hBsHF9dy4ELW53Wrv
+          disc_number: 1
+          duration_ms: 211626
+          explicit: false
+          external_ids:
+            isrc: USMC19443289
+          external_urls:
+            spotify: https://open.spotify.com/track/7rdIAbSazxL2nhx2VaBwSr
+          href: https://api.spotify.com/v1/tracks/7rdIAbSazxL2nhx2VaBwSr
+          id: 7rdIAbSazxL2nhx2VaBwSr
+          is_local: false
+          is_playable: true
+          name: Down In The Orange Grove
+          track_number: 18
+          type: track
+          uri: spotify:track:7rdIAbSazxL2nhx2VaBwSr
+    isrc: USMC19443289

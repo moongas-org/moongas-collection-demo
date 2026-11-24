@@ -57,3 +57,72 @@ mediaFileData:
   year: 1981
   duration: 251.0
   modTime: 2023-04-23 15:22:01.530000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2eRhFLQ7jOKLS9ORdo3WgD
+    trackId: 2eRhFLQ7jOKLS9ORdo3WgD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11600368&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp
+              href: https://api.spotify.com/v1/artists/6DCIj8jNaNpBz8e5oKFPtp
+              id: 6DCIj8jNaNpBz8e5oKFPtp
+              name: The Cars
+              type: artist
+              uri: spotify:artist:6DCIj8jNaNpBz8e5oKFPtp
+            external_urls:
+              spotify: https://open.spotify.com/album/61VgqzJ9CpZv0eGIqAMWOW
+            href: https://api.spotify.com/v1/albums/61VgqzJ9CpZv0eGIqAMWOW
+            id: 61VgqzJ9CpZv0eGIqAMWOW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273af632b521c9a4161427c8189
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02af632b521c9a4161427c8189
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851af632b521c9a4161427c8189
+            is_playable: true
+            name: 'Moving in Stereo: The Best of The Cars'
+            release_date: '2016-05-06'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:61VgqzJ9CpZv0eGIqAMWOW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp
+            href: https://api.spotify.com/v1/artists/6DCIj8jNaNpBz8e5oKFPtp
+            id: 6DCIj8jNaNpBz8e5oKFPtp
+            name: The Cars
+            type: artist
+            uri: spotify:artist:6DCIj8jNaNpBz8e5oKFPtp
+          disc_number: 1
+          duration_ms: 248440
+          explicit: false
+          external_ids:
+            isrc: USRH11600368
+          external_urls:
+            spotify: https://open.spotify.com/track/2eRhFLQ7jOKLS9ORdo3WgD
+          href: https://api.spotify.com/v1/tracks/2eRhFLQ7jOKLS9ORdo3WgD
+          id: 2eRhFLQ7jOKLS9ORdo3WgD
+          is_local: false
+          is_playable: true
+          name: I'm Not the One - Single Mix; 2016 Remaster
+          track_number: 11
+          type: track
+          uri: spotify:track:2eRhFLQ7jOKLS9ORdo3WgD
+    isrc: USRH11600368

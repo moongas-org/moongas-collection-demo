@@ -88,3 +88,72 @@ mediaFileData:
   year: 1990
   duration: 247.954125
   modTime: 2022-01-29 18:53:15.800000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1mveHGQhwk5GAcof7dygA7
+    trackId: 1mveHGQhwk5GAcof7dygA7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10001754&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+              href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+              id: 08GQAI4eElDnROBrJRGE0X
+              name: Fleetwood Mac
+              type: artist
+              uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+            external_urls:
+              spotify: https://open.spotify.com/album/3aXrkfZW8FzUDOU0RwQ401
+            href: https://api.spotify.com/v1/albums/3aXrkfZW8FzUDOU0RwQ401
+            id: 3aXrkfZW8FzUDOU0RwQ401
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ed27bc6cfc884eeee79e54c1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ed27bc6cfc884eeee79e54c1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ed27bc6cfc884eeee79e54c1
+            is_playable: true
+            name: Behind the Mask
+            release_date: '1990-04-10'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3aXrkfZW8FzUDOU0RwQ401
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 1
+          duration_ms: 248573
+          explicit: false
+          external_ids:
+            isrc: USWB10001754
+          external_urls:
+            spotify: https://open.spotify.com/track/1mveHGQhwk5GAcof7dygA7
+          href: https://api.spotify.com/v1/tracks/1mveHGQhwk5GAcof7dygA7
+          id: 1mveHGQhwk5GAcof7dygA7
+          is_local: false
+          is_playable: true
+          name: When It Comes to Love
+          track_number: 12
+          type: track
+          uri: spotify:track:1mveHGQhwk5GAcof7dygA7
+    isrc: USWB10001754

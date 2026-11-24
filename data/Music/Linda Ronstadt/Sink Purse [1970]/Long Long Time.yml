@@ -66,3 +66,288 @@ mediaFileData:
   year: 1970
   duration: 264.696
   modTime: 2023-09-22 17:50:12+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6L1CZUqoHy4frJIaOcGL9V
+    trackId: 6L1CZUqoHy4frJIaOcGL9V
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA27000147&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSCA27000147&type=track
+        offset: 0
+        previous:
+        total: 11
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+              href: https://api.spotify.com/v1/artists/1sXbwvCQLGZnaH0Jp2HTVc
+              id: 1sXbwvCQLGZnaH0Jp2HTVc
+              name: Linda Ronstadt
+              type: artist
+              uri: spotify:artist:1sXbwvCQLGZnaH0Jp2HTVc
+            external_urls:
+              spotify: https://open.spotify.com/album/2FjP7ksJY7yjzl5pCoAu2z
+            href: https://api.spotify.com/v1/albums/2FjP7ksJY7yjzl5pCoAu2z
+            id: 2FjP7ksJY7yjzl5pCoAu2z
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734c967a46b4b1630424dc151b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024c967a46b4b1630424dc151b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514c967a46b4b1630424dc151b
+            is_playable: true
+            name: Different Drum
+            release_date: '1974-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2FjP7ksJY7yjzl5pCoAu2z
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+            href: https://api.spotify.com/v1/artists/1sXbwvCQLGZnaH0Jp2HTVc
+            id: 1sXbwvCQLGZnaH0Jp2HTVc
+            name: Linda Ronstadt
+            type: artist
+            uri: spotify:artist:1sXbwvCQLGZnaH0Jp2HTVc
+          disc_number: 1
+          duration_ms: 264600
+          explicit: false
+          external_ids:
+            isrc: USCA27000147
+          external_urls:
+            spotify: https://open.spotify.com/track/6L1CZUqoHy4frJIaOcGL9V
+          href: https://api.spotify.com/v1/tracks/6L1CZUqoHy4frJIaOcGL9V
+          id: 6L1CZUqoHy4frJIaOcGL9V
+          is_local: false
+          is_playable: true
+          name: Long Long Time
+          track_number: 6
+          type: track
+          uri: spotify:track:6L1CZUqoHy4frJIaOcGL9V
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+              href: https://api.spotify.com/v1/artists/1sXbwvCQLGZnaH0Jp2HTVc
+              id: 1sXbwvCQLGZnaH0Jp2HTVc
+              name: Linda Ronstadt
+              type: artist
+              uri: spotify:artist:1sXbwvCQLGZnaH0Jp2HTVc
+            external_urls:
+              spotify: https://open.spotify.com/album/1ZmzSDwC506FXly33F6j7S
+            href: https://api.spotify.com/v1/albums/1ZmzSDwC506FXly33F6j7S
+            id: 1ZmzSDwC506FXly33F6j7S
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735a9415485d96b91c93e190a8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025a9415485d96b91c93e190a8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515a9415485d96b91c93e190a8
+            is_playable: true
+            name: Linda Ronstadt – As Heard On TV
+            release_date: '2023-06-06'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:1ZmzSDwC506FXly33F6j7S
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+            href: https://api.spotify.com/v1/artists/1sXbwvCQLGZnaH0Jp2HTVc
+            id: 1sXbwvCQLGZnaH0Jp2HTVc
+            name: Linda Ronstadt
+            type: artist
+            uri: spotify:artist:1sXbwvCQLGZnaH0Jp2HTVc
+          disc_number: 1
+          duration_ms: 264600
+          explicit: false
+          external_ids:
+            isrc: USCA27000147
+          external_urls:
+            spotify: https://open.spotify.com/track/2uSkUeMtFYTAc52Ltj18H8
+          href: https://api.spotify.com/v1/tracks/2uSkUeMtFYTAc52Ltj18H8
+          id: 2uSkUeMtFYTAc52Ltj18H8
+          is_local: false
+          is_playable: true
+          name: Long Long Time
+          track_number: 1
+          type: track
+          uri: spotify:track:2uSkUeMtFYTAc52Ltj18H8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2U6fGZabsdKab8FR2a5jau
+            href: https://api.spotify.com/v1/albums/2U6fGZabsdKab8FR2a5jau
+            id: 2U6fGZabsdKab8FR2a5jau
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732fac890856821e40bee491ba
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022fac890856821e40bee491ba
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512fac890856821e40bee491ba
+            is_playable: true
+            name: Country Classics
+            release_date: '2023-04-28'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2U6fGZabsdKab8FR2a5jau
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+            href: https://api.spotify.com/v1/artists/1sXbwvCQLGZnaH0Jp2HTVc
+            id: 1sXbwvCQLGZnaH0Jp2HTVc
+            name: Linda Ronstadt
+            type: artist
+            uri: spotify:artist:1sXbwvCQLGZnaH0Jp2HTVc
+          disc_number: 1
+          duration_ms: 264600
+          explicit: false
+          external_ids:
+            isrc: USCA27000147
+          external_urls:
+            spotify: https://open.spotify.com/track/4q9ep9UeGTsixdQtELklj7
+          href: https://api.spotify.com/v1/tracks/4q9ep9UeGTsixdQtELklj7
+          id: 4q9ep9UeGTsixdQtELklj7
+          is_local: false
+          is_playable: true
+          name: Long Long Time
+          track_number: 1
+          type: track
+          uri: spotify:track:4q9ep9UeGTsixdQtELklj7
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+              href: https://api.spotify.com/v1/artists/1sXbwvCQLGZnaH0Jp2HTVc
+              id: 1sXbwvCQLGZnaH0Jp2HTVc
+              name: Linda Ronstadt
+              type: artist
+              uri: spotify:artist:1sXbwvCQLGZnaH0Jp2HTVc
+            external_urls:
+              spotify: https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G
+            href: https://api.spotify.com/v1/albums/33w9uBzKNuGxvJwcMMNs2G
+            id: 33w9uBzKNuGxvJwcMMNs2G
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734de8bcd79e1f0f4a23b4f007
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024de8bcd79e1f0f4a23b4f007
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514de8bcd79e1f0f4a23b4f007
+            is_playable: true
+            name: Silk Purse
+            release_date: '1970-04-13'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:33w9uBzKNuGxvJwcMMNs2G
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+            href: https://api.spotify.com/v1/artists/1sXbwvCQLGZnaH0Jp2HTVc
+            id: 1sXbwvCQLGZnaH0Jp2HTVc
+            name: Linda Ronstadt
+            type: artist
+            uri: spotify:artist:1sXbwvCQLGZnaH0Jp2HTVc
+          disc_number: 1
+          duration_ms: 263400
+          explicit: false
+          external_ids:
+            isrc: USCA27000147
+          external_urls:
+            spotify: https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1
+          href: https://api.spotify.com/v1/tracks/1khA4hwhZD4HMecyE1e9U1
+          id: 1khA4hwhZD4HMecyE1e9U1
+          is_local: false
+          is_playable: true
+          name: Long Long Time
+          track_number: 6
+          type: track
+          uri: spotify:track:1khA4hwhZD4HMecyE1e9U1
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0G3X5fSsDCdjvtQcyU2DG4
+            href: https://api.spotify.com/v1/albums/0G3X5fSsDCdjvtQcyU2DG4
+            id: 0G3X5fSsDCdjvtQcyU2DG4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fc6d22fbeda81da20d7fde20
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fc6d22fbeda81da20d7fde20
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fc6d22fbeda81da20d7fde20
+            is_playable: true
+            name: Great Female Voices
+            release_date: '2026-05-01'
+            release_date_precision: day
+            total_tracks: 69
+            type: album
+            uri: spotify:album:0G3X5fSsDCdjvtQcyU2DG4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+            href: https://api.spotify.com/v1/artists/1sXbwvCQLGZnaH0Jp2HTVc
+            id: 1sXbwvCQLGZnaH0Jp2HTVc
+            name: Linda Ronstadt
+            type: artist
+            uri: spotify:artist:1sXbwvCQLGZnaH0Jp2HTVc
+          disc_number: 1
+          duration_ms: 264600
+          explicit: false
+          external_ids:
+            isrc: USCA27000147
+          external_urls:
+            spotify: https://open.spotify.com/track/6fFVfPR9HeQtbpofNUAutX
+          href: https://api.spotify.com/v1/tracks/6fFVfPR9HeQtbpofNUAutX
+          id: 6fFVfPR9HeQtbpofNUAutX
+          is_local: false
+          is_playable: true
+          name: Long Long Time
+          track_number: 39
+          type: track
+          uri: spotify:track:6fFVfPR9HeQtbpofNUAutX
+    isrc: USCA27000147

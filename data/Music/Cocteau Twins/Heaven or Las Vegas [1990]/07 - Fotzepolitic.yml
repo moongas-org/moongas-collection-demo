@@ -34,3 +34,72 @@ mediaFileData:
   year: 1990
   duration: 210.96
   modTime: 2025-07-08 17:15:51.360724+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5SuIuaAjFbaxJq9W1qKGw2
+    trackId: 5SuIuaAjFbaxJq9W1qKGw2
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAFL9000065&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp
+              href: https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp
+              id: 5Wabl1lPdNOeIn0SQ5A1mp
+              name: Cocteau Twins
+              type: artist
+              uri: spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp
+            external_urls:
+              spotify: https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E
+            href: https://api.spotify.com/v1/albums/5lEphbceIgaK1XxWeSrC9E
+            id: 5lEphbceIgaK1XxWeSrC9E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fe6211303e796f3d5b7a0e02
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fe6211303e796f3d5b7a0e02
+            is_playable: true
+            name: Heaven or Las Vegas
+            release_date: '1990-09-17'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5lEphbceIgaK1XxWeSrC9E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp
+            href: https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp
+            id: 5Wabl1lPdNOeIn0SQ5A1mp
+            name: Cocteau Twins
+            type: artist
+            uri: spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp
+          disc_number: 1
+          duration_ms: 210933
+          explicit: false
+          external_ids:
+            isrc: GBAFL9000065
+          external_urls:
+            spotify: https://open.spotify.com/track/5SuIuaAjFbaxJq9W1qKGw2
+          href: https://api.spotify.com/v1/tracks/5SuIuaAjFbaxJq9W1qKGw2
+          id: 5SuIuaAjFbaxJq9W1qKGw2
+          is_local: false
+          is_playable: true
+          name: Fotzepolitic
+          track_number: 7
+          type: track
+          uri: spotify:track:5SuIuaAjFbaxJq9W1qKGw2
+    isrc: GBAFL9000065

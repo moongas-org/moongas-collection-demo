@@ -59,3 +59,126 @@ mediaFileData:
   year: 1978
   duration: 284.16
   modTime: 2024-10-07 21:25:21.932512+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1csOXojwoR4T3FQIDlDE1g
+    trackId: 1csOXojwoR4T3FQIDlDE1g
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWWW0129107&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh
+              href: https://api.spotify.com/v1/artists/4salDzkGmfycRqNUbyBphh
+              id: 4salDzkGmfycRqNUbyBphh
+              name: Styx
+              type: artist
+              uri: spotify:artist:4salDzkGmfycRqNUbyBphh
+            external_urls:
+              spotify: https://open.spotify.com/album/2SIFXSFOHJgqC6q3whbSZU
+            href: https://api.spotify.com/v1/albums/2SIFXSFOHJgqC6q3whbSZU
+            id: 2SIFXSFOHJgqC6q3whbSZU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273276077468780c310413f8450
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02276077468780c310413f8450
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851276077468780c310413f8450
+            is_playable: true
+            name: Gold
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:2SIFXSFOHJgqC6q3whbSZU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh
+            href: https://api.spotify.com/v1/artists/4salDzkGmfycRqNUbyBphh
+            id: 4salDzkGmfycRqNUbyBphh
+            name: Styx
+            type: artist
+            uri: spotify:artist:4salDzkGmfycRqNUbyBphh
+          disc_number: 2
+          duration_ms: 284533
+          explicit: false
+          external_ids:
+            isrc: USWWW0129107
+          external_urls:
+            spotify: https://open.spotify.com/track/1csOXojwoR4T3FQIDlDE1g
+          href: https://api.spotify.com/v1/tracks/1csOXojwoR4T3FQIDlDE1g
+          id: 1csOXojwoR4T3FQIDlDE1g
+          is_local: false
+          is_playable: true
+          name: Pieces Of Eight
+          track_number: 4
+          type: track
+          uri: spotify:track:1csOXojwoR4T3FQIDlDE1g
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh
+              href: https://api.spotify.com/v1/artists/4salDzkGmfycRqNUbyBphh
+              id: 4salDzkGmfycRqNUbyBphh
+              name: Styx
+              type: artist
+              uri: spotify:artist:4salDzkGmfycRqNUbyBphh
+            external_urls:
+              spotify: https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D
+            href: https://api.spotify.com/v1/albums/294yFGYq9SBXWR4g6dK63D
+            id: 294yFGYq9SBXWR4g6dK63D
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f106d873a30a31efa73f4e74
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f106d873a30a31efa73f4e74
+            is_playable: true
+            name: Pieces Of Eight
+            release_date: '1978-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:294yFGYq9SBXWR4g6dK63D
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh
+            href: https://api.spotify.com/v1/artists/4salDzkGmfycRqNUbyBphh
+            id: 4salDzkGmfycRqNUbyBphh
+            name: Styx
+            type: artist
+            uri: spotify:artist:4salDzkGmfycRqNUbyBphh
+          disc_number: 1
+          duration_ms: 284133
+          explicit: false
+          external_ids:
+            isrc: USWWW0129107
+          external_urls:
+            spotify: https://open.spotify.com/track/7EWoyfv1zbF9UufIMLrepX
+          href: https://api.spotify.com/v1/tracks/7EWoyfv1zbF9UufIMLrepX
+          id: 7EWoyfv1zbF9UufIMLrepX
+          is_local: false
+          is_playable: true
+          name: Pieces Of Eight
+          track_number: 9
+          type: track
+          uri: spotify:track:7EWoyfv1zbF9UufIMLrepX
+    isrc: USWWW0129107

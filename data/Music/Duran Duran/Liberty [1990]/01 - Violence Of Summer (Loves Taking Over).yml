@@ -101,3 +101,126 @@ mediaFileData:
   year: 1990
   duration: 262.44
   modTime: 2024-03-09 22:09:14.860198+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5oO2ZWcnaC0OsrvHA0PgZv
+    trackId: 5oO2ZWcnaC0OsrvHA0PgZv
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE0901092&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5SGKvEur39utMtTBY5fya9
+            href: https://api.spotify.com/v1/albums/5SGKvEur39utMtTBY5fya9
+            id: 5SGKvEur39utMtTBY5fya9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273630bc62e0c3603ef2edccca9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02630bc62e0c3603ef2edccca9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851630bc62e0c3603ef2edccca9
+            is_playable: true
+            name: Brit Rock
+            release_date: '2025-01-31'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:5SGKvEur39utMtTBY5fya9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT
+            href: https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT
+            id: 0lZoBs4Pzo7R89JM9lxwoT
+            name: Duran Duran
+            type: artist
+            uri: spotify:artist:0lZoBs4Pzo7R89JM9lxwoT
+          disc_number: 1
+          duration_ms: 332333
+          explicit: false
+          external_ids:
+            isrc: GBAYE0901092
+          external_urls:
+            spotify: https://open.spotify.com/track/5oO2ZWcnaC0OsrvHA0PgZv
+          href: https://api.spotify.com/v1/tracks/5oO2ZWcnaC0OsrvHA0PgZv
+          id: 5oO2ZWcnaC0OsrvHA0PgZv
+          is_local: false
+          is_playable: true
+          name: New Religion
+          track_number: 15
+          type: track
+          uri: spotify:track:5oO2ZWcnaC0OsrvHA0PgZv
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT
+              href: https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT
+              id: 0lZoBs4Pzo7R89JM9lxwoT
+              name: Duran Duran
+              type: artist
+              uri: spotify:artist:0lZoBs4Pzo7R89JM9lxwoT
+            external_urls:
+              spotify: https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm
+            href: https://api.spotify.com/v1/albums/02tfQwJSOLP77oCd9U8bqm
+            id: 02tfQwJSOLP77oCd9U8bqm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0216c75e2dd2654d7d03f2c556
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485116c75e2dd2654d7d03f2c556
+            is_playable: true
+            name: Rio (Collector's Edition)
+            release_date: '1982-05-10'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:02tfQwJSOLP77oCd9U8bqm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT
+            href: https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT
+            id: 0lZoBs4Pzo7R89JM9lxwoT
+            name: Duran Duran
+            type: artist
+            uri: spotify:artist:0lZoBs4Pzo7R89JM9lxwoT
+          disc_number: 1
+          duration_ms: 332333
+          explicit: false
+          external_ids:
+            isrc: GBAYE0901092
+          external_urls:
+            spotify: https://open.spotify.com/track/2SnSo9yC5KWXDEI91NgbZ4
+          href: https://api.spotify.com/v1/tracks/2SnSo9yC5KWXDEI91NgbZ4
+          id: 2SnSo9yC5KWXDEI91NgbZ4
+          is_local: false
+          is_playable: true
+          name: New Religion - 2009 Remaster
+          track_number: 6
+          type: track
+          uri: spotify:track:2SnSo9yC5KWXDEI91NgbZ4
+    isrc: GBAYE0901092

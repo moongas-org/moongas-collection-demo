@@ -34,3 +34,72 @@ mediaFileData:
   year: 1992
   duration: 328.70216666666664
   modTime: 2025-01-11 00:54:03.095405+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/435pEg13Lzrzz3xsZDbkNO
+    trackId: 435pEg13Lzrzz3xsZDbkNO
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCTX2100067&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+              href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+              id: 7M1FPw29m5FbicYzS2xdpi
+              name: King Crimson
+              type: artist
+              uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+            external_urls:
+              spotify: https://open.spotify.com/album/5gat20K6SEP9NgyslsnRVF
+            href: https://api.spotify.com/v1/albums/5gat20K6SEP9NgyslsnRVF
+            id: 5gat20K6SEP9NgyslsnRVF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733b66885b5980153e5439c128
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023b66885b5980153e5439c128
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513b66885b5980153e5439c128
+            is_playable: true
+            name: The Great Deceiver (Pt, II.)
+            release_date: '1992-10-30'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:5gat20K6SEP9NgyslsnRVF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi
+            href: https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi
+            id: 7M1FPw29m5FbicYzS2xdpi
+            name: King Crimson
+            type: artist
+            uri: spotify:artist:7M1FPw29m5FbicYzS2xdpi
+          disc_number: 1
+          duration_ms: 329268
+          explicit: false
+          external_ids:
+            isrc: GBCTX2100067
+          external_urls:
+            spotify: https://open.spotify.com/track/435pEg13Lzrzz3xsZDbkNO
+          href: https://api.spotify.com/v1/tracks/435pEg13Lzrzz3xsZDbkNO
+          id: 435pEg13Lzrzz3xsZDbkNO
+          is_local: false
+          is_playable: true
+          name: 'The Talking Drum - Live (Pittsburgh, PA - Stanley Warner Theatre: April 29th, 1974)'
+          track_number: 10
+          type: track
+          uri: spotify:track:435pEg13Lzrzz3xsZDbkNO
+    isrc: GBCTX2100067

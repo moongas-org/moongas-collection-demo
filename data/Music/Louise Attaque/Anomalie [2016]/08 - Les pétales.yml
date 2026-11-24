@@ -34,3 +34,126 @@ mediaFileData:
   year: 2016
   duration: 201.37333333333333
   modTime: 2023-07-17 00:12:06+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5VxRMOkweuNQwy1imCFlwY
+    trackId: 5VxRMOkweuNQwy1imCFlwY
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRUM71502497&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9
+              href: https://api.spotify.com/v1/artists/4CAsSAU842glNKJX71ndA9
+              id: 4CAsSAU842glNKJX71ndA9
+              name: Louise Attaque
+              type: artist
+              uri: spotify:artist:4CAsSAU842glNKJX71ndA9
+            external_urls:
+              spotify: https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf
+            href: https://api.spotify.com/v1/albums/7BpAbYt9NzfXUOUlniH9Qf
+            id: 7BpAbYt9NzfXUOUlniH9Qf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fc34c84bed0bf45beae81355
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fc34c84bed0bf45beae81355
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fc34c84bed0bf45beae81355
+            is_playable: true
+            name: Anomalie
+            release_date: '2016-01-29'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7BpAbYt9NzfXUOUlniH9Qf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9
+            href: https://api.spotify.com/v1/artists/4CAsSAU842glNKJX71ndA9
+            id: 4CAsSAU842glNKJX71ndA9
+            name: Louise Attaque
+            type: artist
+            uri: spotify:artist:4CAsSAU842glNKJX71ndA9
+          disc_number: 1
+          duration_ms: 201373
+          explicit: false
+          external_ids:
+            isrc: FRUM71502497
+          external_urls:
+            spotify: https://open.spotify.com/track/5VxRMOkweuNQwy1imCFlwY
+          href: https://api.spotify.com/v1/tracks/5VxRMOkweuNQwy1imCFlwY
+          id: 5VxRMOkweuNQwy1imCFlwY
+          is_local: false
+          is_playable: true
+          name: Les pétales
+          track_number: 8
+          type: track
+          uri: spotify:track:5VxRMOkweuNQwy1imCFlwY
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9
+              href: https://api.spotify.com/v1/artists/4CAsSAU842glNKJX71ndA9
+              id: 4CAsSAU842glNKJX71ndA9
+              name: Louise Attaque
+              type: artist
+              uri: spotify:artist:4CAsSAU842glNKJX71ndA9
+            external_urls:
+              spotify: https://open.spotify.com/album/6RSX5waj3wBvaPzEHiXJtp
+            href: https://api.spotify.com/v1/albums/6RSX5waj3wBvaPzEHiXJtp
+            id: 6RSX5waj3wBvaPzEHiXJtp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b88028c12f7007b74fbe3b46
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b88028c12f7007b74fbe3b46
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b88028c12f7007b74fbe3b46
+            is_playable: true
+            name: Anomalie (Deluxe)
+            release_date: '2016-11-18'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:6RSX5waj3wBvaPzEHiXJtp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9
+            href: https://api.spotify.com/v1/artists/4CAsSAU842glNKJX71ndA9
+            id: 4CAsSAU842glNKJX71ndA9
+            name: Louise Attaque
+            type: artist
+            uri: spotify:artist:4CAsSAU842glNKJX71ndA9
+          disc_number: 1
+          duration_ms: 201373
+          explicit: false
+          external_ids:
+            isrc: FRUM71502497
+          external_urls:
+            spotify: https://open.spotify.com/track/75tdaC4xt9zCboVRJe01ez
+          href: https://api.spotify.com/v1/tracks/75tdaC4xt9zCboVRJe01ez
+          id: 75tdaC4xt9zCboVRJe01ez
+          is_local: false
+          is_playable: true
+          name: Les pétales
+          track_number: 8
+          type: track
+          uri: spotify:track:75tdaC4xt9zCboVRJe01ez
+    isrc: FRUM71502497

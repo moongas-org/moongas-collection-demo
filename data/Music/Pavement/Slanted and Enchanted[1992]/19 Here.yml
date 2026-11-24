@@ -69,3 +69,72 @@ mediaFileData:
   year: 1992
   duration: 236.199175
   modTime: 2023-05-14 16:19:00.180000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5Kf86o9j8foGuExTJVoejE
+    trackId: 5Kf86o9j8foGuExTJVoejE
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD9203809&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD
+            href: https://api.spotify.com/v1/albums/7o14zVcXSRk7clV6QCEdOD
+            id: 7o14zVcXSRk7clV6QCEdOD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27390f9b2a0016f80531e1c087c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0290f9b2a0016f80531e1c087c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485190f9b2a0016f80531e1c087c
+            is_playable: true
+            name: Slanted & Enchanted
+            release_date: '1992-04-20'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:7o14zVcXSRk7clV6QCEdOD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 236133
+          explicit: false
+          external_ids:
+            isrc: USMTD9203809
+          external_urls:
+            spotify: https://open.spotify.com/track/5Kf86o9j8foGuExTJVoejE
+          href: https://api.spotify.com/v1/tracks/5Kf86o9j8foGuExTJVoejE
+          id: 5Kf86o9j8foGuExTJVoejE
+          is_local: false
+          is_playable: true
+          name: Here
+          track_number: 9
+          type: track
+          uri: spotify:track:5Kf86o9j8foGuExTJVoejE
+    isrc: USMTD9203809

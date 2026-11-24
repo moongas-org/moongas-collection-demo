@@ -89,3 +89,72 @@ mediaFileData:
   year: 1980
   duration: 198.76571875
   modTime: 2023-07-17 00:54:04+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6IcoSnfvwFlYtYxu5TKbgg
+    trackId: 6IcoSnfvwFlYtYxu5TKbgg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM18000587&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca
+              href: https://api.spotify.com/v1/artists/12d4iIvTOk7JkI6ecvc3ca
+              id: 12d4iIvTOk7JkI6ecvc3ca
+              name: The Charlie Daniels Band
+              type: artist
+              uri: spotify:artist:12d4iIvTOk7JkI6ecvc3ca
+            external_urls:
+              spotify: https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc
+            href: https://api.spotify.com/v1/albums/7H5LNy2PyN3VLUm5nnMZEc
+            id: 7H5LNy2PyN3VLUm5nnMZEc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cd6ddc8045040e94aa89f4b0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cd6ddc8045040e94aa89f4b0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cd6ddc8045040e94aa89f4b0
+            is_playable: true
+            name: A Decade Of Hits
+            release_date: '1988-08-10'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:7H5LNy2PyN3VLUm5nnMZEc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca
+            href: https://api.spotify.com/v1/artists/12d4iIvTOk7JkI6ecvc3ca
+            id: 12d4iIvTOk7JkI6ecvc3ca
+            name: The Charlie Daniels Band
+            type: artist
+            uri: spotify:artist:12d4iIvTOk7JkI6ecvc3ca
+          disc_number: 1
+          duration_ms: 198373
+          explicit: false
+          external_ids:
+            isrc: USSM18000587
+          external_urls:
+            spotify: https://open.spotify.com/track/6IcoSnfvwFlYtYxu5TKbgg
+          href: https://api.spotify.com/v1/tracks/6IcoSnfvwFlYtYxu5TKbgg
+          id: 6IcoSnfvwFlYtYxu5TKbgg
+          is_local: false
+          is_playable: true
+          name: In America
+          track_number: 6
+          type: track
+          uri: spotify:track:6IcoSnfvwFlYtYxu5TKbgg
+    isrc: USSM18000587

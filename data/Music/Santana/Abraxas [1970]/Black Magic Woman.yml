@@ -304,3 +304,126 @@ mediaFileData:
   year: 1970
   duration: 321.336
   modTime: 2023-06-28 23:32:40+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB
+    trackId: 4YMQXzscifAREG0a7KNGhB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM17000643&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P
+              href: https://api.spotify.com/v1/artists/6GI52t8N5F02MxU0g5U69P
+              id: 6GI52t8N5F02MxU0g5U69P
+              name: Santana
+              type: artist
+              uri: spotify:artist:6GI52t8N5F02MxU0g5U69P
+            external_urls:
+              spotify: https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai
+            href: https://api.spotify.com/v1/albums/1YrdGK2y2Edq2R5gFja2ai
+            id: 1YrdGK2y2Edq2R5gFja2ai
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c6abdd4f54d7dcef9f4bd649
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c6abdd4f54d7dcef9f4bd649
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c6abdd4f54d7dcef9f4bd649
+            is_playable: true
+            name: Santana's Greatest Hits
+            release_date: '1994-07-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:1YrdGK2y2Edq2R5gFja2ai
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P
+            href: https://api.spotify.com/v1/artists/6GI52t8N5F02MxU0g5U69P
+            id: 6GI52t8N5F02MxU0g5U69P
+            name: Santana
+            type: artist
+            uri: spotify:artist:6GI52t8N5F02MxU0g5U69P
+          disc_number: 1
+          duration_ms: 199220
+          explicit: false
+          external_ids:
+            isrc: USSM17000643
+          external_urls:
+            spotify: https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB
+          href: https://api.spotify.com/v1/tracks/4YMQXzscifAREG0a7KNGhB
+          id: 4YMQXzscifAREG0a7KNGhB
+          is_local: false
+          is_playable: true
+          name: Black Magic Woman - Single Version
+          track_number: 6
+          type: track
+          uri: spotify:track:4YMQXzscifAREG0a7KNGhB
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5vOEJF1MooiYwv3pEibhIW
+            href: https://api.spotify.com/v1/albums/5vOEJF1MooiYwv3pEibhIW
+            id: 5vOEJF1MooiYwv3pEibhIW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fbd779e3203d727d04bedeb0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fbd779e3203d727d04bedeb0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fbd779e3203d727d04bedeb0
+            is_playable: true
+            name: Drivin' Rock
+            release_date: '2002-02-25'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:5vOEJF1MooiYwv3pEibhIW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P
+            href: https://api.spotify.com/v1/artists/6GI52t8N5F02MxU0g5U69P
+            id: 6GI52t8N5F02MxU0g5U69P
+            name: Santana
+            type: artist
+            uri: spotify:artist:6GI52t8N5F02MxU0g5U69P
+          disc_number: 1
+          duration_ms: 192906
+          explicit: false
+          external_ids:
+            isrc: USSM17000643
+          external_urls:
+            spotify: https://open.spotify.com/track/3TqpLg0kI3DRrbOWR8uBMJ
+          href: https://api.spotify.com/v1/tracks/3TqpLg0kI3DRrbOWR8uBMJ
+          id: 3TqpLg0kI3DRrbOWR8uBMJ
+          is_local: false
+          is_playable: true
+          name: Black Magic Woman - Single Version
+          track_number: 13
+          type: track
+          uri: spotify:track:3TqpLg0kI3DRrbOWR8uBMJ
+    isrc: USSM17000643

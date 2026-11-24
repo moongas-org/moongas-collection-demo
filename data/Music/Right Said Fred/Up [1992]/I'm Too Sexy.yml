@@ -105,3 +105,180 @@ mediaFileData:
   year: 1992
   duration: 170.55346938775511
   modTime: 2023-11-23 00:40:13.090801+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt
+    trackId: 76gbXfMpFoZJGkPgxgzvFt
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBCKK0966701&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL
+              href: https://api.spotify.com/v1/artists/15ajdFAi5bjj5pS9laBfBL
+              id: 15ajdFAi5bjj5pS9laBfBL
+              name: Right Said Fred
+              type: artist
+              uri: spotify:artist:15ajdFAi5bjj5pS9laBfBL
+            external_urls:
+              spotify: https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2
+            href: https://api.spotify.com/v1/albums/3GKFt0Fc0iW0OoTt4qHoV2
+            id: 3GKFt0Fc0iW0OoTt4qHoV2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e69661658ca97ca1f31d66e9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e69661658ca97ca1f31d66e9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e69661658ca97ca1f31d66e9
+            is_playable: true
+            name: Hits!
+            release_date: '2010-01-01'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:3GKFt0Fc0iW0OoTt4qHoV2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL
+            href: https://api.spotify.com/v1/artists/15ajdFAi5bjj5pS9laBfBL
+            id: 15ajdFAi5bjj5pS9laBfBL
+            name: Right Said Fred
+            type: artist
+            uri: spotify:artist:15ajdFAi5bjj5pS9laBfBL
+          disc_number: 1
+          duration_ms: 171679
+          explicit: true
+          external_ids:
+            isrc: GBCKK0966701
+          external_urls:
+            spotify: https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt
+          href: https://api.spotify.com/v1/tracks/76gbXfMpFoZJGkPgxgzvFt
+          id: 76gbXfMpFoZJGkPgxgzvFt
+          is_local: false
+          is_playable: true
+          name: I'm Too Sexy
+          track_number: 1
+          type: track
+          uri: spotify:track:76gbXfMpFoZJGkPgxgzvFt
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL
+              href: https://api.spotify.com/v1/artists/15ajdFAi5bjj5pS9laBfBL
+              id: 15ajdFAi5bjj5pS9laBfBL
+              name: Right Said Fred
+              type: artist
+              uri: spotify:artist:15ajdFAi5bjj5pS9laBfBL
+            external_urls:
+              spotify: https://open.spotify.com/album/0goj5laQWHdwUkKa4eJxjM
+            href: https://api.spotify.com/v1/albums/0goj5laQWHdwUkKa4eJxjM
+            id: 0goj5laQWHdwUkKa4eJxjM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739352e5e8f6bdb2887edd4dc9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029352e5e8f6bdb2887edd4dc9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519352e5e8f6bdb2887edd4dc9
+            is_playable: true
+            name: Hits!
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0goj5laQWHdwUkKa4eJxjM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL
+            href: https://api.spotify.com/v1/artists/15ajdFAi5bjj5pS9laBfBL
+            id: 15ajdFAi5bjj5pS9laBfBL
+            name: Right Said Fred
+            type: artist
+            uri: spotify:artist:15ajdFAi5bjj5pS9laBfBL
+          disc_number: 1
+          duration_ms: 171679
+          explicit: true
+          external_ids:
+            isrc: GBCKK0966701
+          external_urls:
+            spotify: https://open.spotify.com/track/4m7sOczGKDacBGif0wWf63
+          href: https://api.spotify.com/v1/tracks/4m7sOczGKDacBGif0wWf63
+          id: 4m7sOczGKDacBGif0wWf63
+          is_local: false
+          is_playable: true
+          name: I'm Too Sexy
+          track_number: 1
+          type: track
+          uri: spotify:track:4m7sOczGKDacBGif0wWf63
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL
+              href: https://api.spotify.com/v1/artists/15ajdFAi5bjj5pS9laBfBL
+              id: 15ajdFAi5bjj5pS9laBfBL
+              name: Right Said Fred
+              type: artist
+              uri: spotify:artist:15ajdFAi5bjj5pS9laBfBL
+            external_urls:
+              spotify: https://open.spotify.com/album/7DN8U5WBHOhzJGMT1puMur
+            href: https://api.spotify.com/v1/albums/7DN8U5WBHOhzJGMT1puMur
+            id: 7DN8U5WBHOhzJGMT1puMur
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273395683372fa950a8234be515
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02395683372fa950a8234be515
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851395683372fa950a8234be515
+            is_playable: true
+            name: Singles (The Original Hits)
+            release_date: '2024-01-09'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:7DN8U5WBHOhzJGMT1puMur
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL
+            href: https://api.spotify.com/v1/artists/15ajdFAi5bjj5pS9laBfBL
+            id: 15ajdFAi5bjj5pS9laBfBL
+            name: Right Said Fred
+            type: artist
+            uri: spotify:artist:15ajdFAi5bjj5pS9laBfBL
+          disc_number: 1
+          duration_ms: 171679
+          explicit: true
+          external_ids:
+            isrc: GBCKK0966701
+          external_urls:
+            spotify: https://open.spotify.com/track/1Skn8iIzFWQQcKYvjF1X2Y
+          href: https://api.spotify.com/v1/tracks/1Skn8iIzFWQQcKYvjF1X2Y
+          id: 1Skn8iIzFWQQcKYvjF1X2Y
+          is_local: false
+          is_playable: true
+          name: I'm Too Sexy
+          track_number: 1
+          type: track
+          uri: spotify:track:1Skn8iIzFWQQcKYvjF1X2Y
+    isrc: GBCKK0966701

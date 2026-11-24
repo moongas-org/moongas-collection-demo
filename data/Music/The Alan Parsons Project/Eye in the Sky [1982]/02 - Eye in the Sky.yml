@@ -173,3 +173,72 @@ mediaFileData:
   year: 1982
   duration: 277.392
   modTime: 2025-03-09 02:44:56.489012+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1ARXWpQlm3qIXbEPohdLSe
+    trackId: 1ARXWpQlm3qIXbEPohdLSe
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSQX91701694&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+              href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+              id: 2m62cc253Xvd9qYQ8d2X3d
+              name: The Alan Parsons Project
+              type: artist
+              uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+            external_urls:
+              spotify: https://open.spotify.com/album/4bIiCiXKjkX9psHVXAFtvZ
+            href: https://api.spotify.com/v1/albums/4bIiCiXKjkX9psHVXAFtvZ
+            id: 4bIiCiXKjkX9psHVXAFtvZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a70cc468ea36be8398c7c1cb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a70cc468ea36be8398c7c1cb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a70cc468ea36be8398c7c1cb
+            is_playable: true
+            name: Eye In The Sky (Sessions)
+            release_date: '1982-05-05'
+            release_date_precision: day
+            total_tracks: 42
+            type: album
+            uri: spotify:album:4bIiCiXKjkX9psHVXAFtvZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d
+            href: https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d
+            id: 2m62cc253Xvd9qYQ8d2X3d
+            name: The Alan Parsons Project
+            type: artist
+            uri: spotify:artist:2m62cc253Xvd9qYQ8d2X3d
+          disc_number: 1
+          duration_ms: 236520
+          explicit: false
+          external_ids:
+            isrc: USQX91701694
+          external_urls:
+            spotify: https://open.spotify.com/track/1ARXWpQlm3qIXbEPohdLSe
+          href: https://api.spotify.com/v1/tracks/1ARXWpQlm3qIXbEPohdLSe
+          id: 1ARXWpQlm3qIXbEPohdLSe
+          is_local: false
+          is_playable: true
+          name: Eye in the Sky - Single Edit
+          track_number: 40
+          type: track
+          uri: spotify:track:1ARXWpQlm3qIXbEPohdLSe
+    isrc: USQX91701694
