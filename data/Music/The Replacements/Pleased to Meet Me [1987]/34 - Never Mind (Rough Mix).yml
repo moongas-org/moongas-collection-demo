@@ -34,3 +34,126 @@ mediaFileData:
   year: 1987
   duration: 170.112
   modTime: 2024-11-18 23:21:40.665558+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/35nloM677QpL1qvFicpj0m
+    trackId: 35nloM677QpL1qvFicpj0m
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH12002074&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+              href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+              id: 4WPY0N74T3KUja57xMQTZ3
+              name: The Replacements
+              type: artist
+              uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+            external_urls:
+              spotify: https://open.spotify.com/album/7aBqHtuRwfwNXcllqmvZuw
+            href: https://api.spotify.com/v1/albums/7aBqHtuRwfwNXcllqmvZuw
+            id: 7aBqHtuRwfwNXcllqmvZuw
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734e2ba23297d6b95d998ea9bc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024e2ba23297d6b95d998ea9bc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514e2ba23297d6b95d998ea9bc
+            is_playable: true
+            name: Pleased To Meet Me (Deluxe Edition)
+            release_date: '2020-10-09'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:7aBqHtuRwfwNXcllqmvZuw
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+            href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+            id: 4WPY0N74T3KUja57xMQTZ3
+            name: The Replacements
+            type: artist
+            uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+          disc_number: 3
+          duration_ms: 170066
+          explicit: false
+          external_ids:
+            isrc: USRH12002074
+          external_urls:
+            spotify: https://open.spotify.com/track/35nloM677QpL1qvFicpj0m
+          href: https://api.spotify.com/v1/tracks/35nloM677QpL1qvFicpj0m
+          id: 35nloM677QpL1qvFicpj0m
+          is_local: false
+          is_playable: true
+          name: Never Mind - Rough Mix
+          track_number: 2
+          type: track
+          uri: spotify:track:35nloM677QpL1qvFicpj0m
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+              href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+              id: 4WPY0N74T3KUja57xMQTZ3
+              name: The Replacements
+              type: artist
+              uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+            external_urls:
+              spotify: https://open.spotify.com/album/3xOcznaZOKcsK4MjQS6XCd
+            href: https://api.spotify.com/v1/albums/3xOcznaZOKcsK4MjQS6XCd
+            id: 3xOcznaZOKcsK4MjQS6XCd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b34d52d5d03e099d7cf56d6d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b34d52d5d03e099d7cf56d6d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b34d52d5d03e099d7cf56d6d
+            is_playable: true
+            name: Pleased To Meet Me (Deluxe Edition)
+            release_date: '2020-07-16'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:3xOcznaZOKcsK4MjQS6XCd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+            href: https://api.spotify.com/v1/artists/4WPY0N74T3KUja57xMQTZ3
+            id: 4WPY0N74T3KUja57xMQTZ3
+            name: The Replacements
+            type: artist
+            uri: spotify:artist:4WPY0N74T3KUja57xMQTZ3
+          disc_number: 1
+          duration_ms: 170066
+          explicit: false
+          external_ids:
+            isrc: USRH12002074
+          external_urls:
+            spotify: https://open.spotify.com/track/3cvBidVPvlFNH71wZTnA9c
+          href: https://api.spotify.com/v1/tracks/3cvBidVPvlFNH71wZTnA9c
+          id: 3cvBidVPvlFNH71wZTnA9c
+          is_local: false
+          is_playable: true
+          name: Never Mind - Rough Mix
+          track_number: 2
+          type: track
+          uri: spotify:track:3cvBidVPvlFNH71wZTnA9c
+    isrc: USRH12002074

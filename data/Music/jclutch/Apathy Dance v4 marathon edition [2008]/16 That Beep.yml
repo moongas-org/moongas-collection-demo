@@ -55,3 +55,126 @@ mediaFileData:
   year: 2009
   duration: 226.6123125
   modTime: 2026-09-01 01:03:53.858516+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5biYAOb3vJIhcKCrOnB4pZ
+    trackId: 5biYAOb3vJIhcKCrOnB4pZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71100367&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr
+              href: https://api.spotify.com/v1/artists/60eT7q88iLWKnuSXed1AGr
+              id: 60eT7q88iLWKnuSXed1AGr
+              name: Architecture In Helsinki
+              type: artist
+              uri: spotify:artist:60eT7q88iLWKnuSXed1AGr
+            external_urls:
+              spotify: https://open.spotify.com/album/6dlzzPf1VybEx2JI8tphXo
+            href: https://api.spotify.com/v1/albums/6dlzzPf1VybEx2JI8tphXo
+            id: 6dlzzPf1VybEx2JI8tphXo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273256c54b89184d7a2a33e48fe
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02256c54b89184d7a2a33e48fe
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851256c54b89184d7a2a33e48fe
+            is_playable: true
+            name: Moment Bends
+            release_date: '2011-04-08'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6dlzzPf1VybEx2JI8tphXo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr
+            href: https://api.spotify.com/v1/artists/60eT7q88iLWKnuSXed1AGr
+            id: 60eT7q88iLWKnuSXed1AGr
+            name: Architecture In Helsinki
+            type: artist
+            uri: spotify:artist:60eT7q88iLWKnuSXed1AGr
+          disc_number: 1
+          duration_ms: 223773
+          explicit: false
+          external_ids:
+            isrc: GBUM71100367
+          external_urls:
+            spotify: https://open.spotify.com/track/5biYAOb3vJIhcKCrOnB4pZ
+          href: https://api.spotify.com/v1/tracks/5biYAOb3vJIhcKCrOnB4pZ
+          id: 5biYAOb3vJIhcKCrOnB4pZ
+          is_local: false
+          is_playable: true
+          name: That Beep
+          track_number: 8
+          type: track
+          uri: spotify:track:5biYAOb3vJIhcKCrOnB4pZ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr
+              href: https://api.spotify.com/v1/artists/60eT7q88iLWKnuSXed1AGr
+              id: 60eT7q88iLWKnuSXed1AGr
+              name: Architecture In Helsinki
+              type: artist
+              uri: spotify:artist:60eT7q88iLWKnuSXed1AGr
+            external_urls:
+              spotify: https://open.spotify.com/album/7eTi0snzJNBTPHssfmqAHI
+            href: https://api.spotify.com/v1/albums/7eTi0snzJNBTPHssfmqAHI
+            id: 7eTi0snzJNBTPHssfmqAHI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27352f3e4818cd57dfeb635289d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0252f3e4818cd57dfeb635289d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485152f3e4818cd57dfeb635289d
+            is_playable: true
+            name: Moment Bends
+            release_date: '2011-05-03'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7eTi0snzJNBTPHssfmqAHI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr
+            href: https://api.spotify.com/v1/artists/60eT7q88iLWKnuSXed1AGr
+            id: 60eT7q88iLWKnuSXed1AGr
+            name: Architecture In Helsinki
+            type: artist
+            uri: spotify:artist:60eT7q88iLWKnuSXed1AGr
+          disc_number: 1
+          duration_ms: 225413
+          explicit: false
+          external_ids:
+            isrc: GBUM71100367
+          external_urls:
+            spotify: https://open.spotify.com/track/5Nk4dgSyeYxxDdAPoR9vfd
+          href: https://api.spotify.com/v1/tracks/5Nk4dgSyeYxxDdAPoR9vfd
+          id: 5Nk4dgSyeYxxDdAPoR9vfd
+          is_local: false
+          is_playable: true
+          name: That Beep
+          track_number: 8
+          type: track
+          uri: spotify:track:5Nk4dgSyeYxxDdAPoR9vfd
+    isrc: GBUM71100367

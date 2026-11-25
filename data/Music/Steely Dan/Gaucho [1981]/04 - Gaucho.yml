@@ -66,3 +66,126 @@ mediaFileData:
   year: 1980
   duration: 332.7733333333333
   modTime: 2024-08-05 23:04:20.711762+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0ChhSbV8g1BMc0gePpfoeF
+    trackId: 0ChhSbV8g1BMc0gePpfoeF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC17847239&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/5bpFfYgL1au22XwLG4KOnq
+            href: https://api.spotify.com/v1/albums/5bpFfYgL1au22XwLG4KOnq
+            id: 5bpFfYgL1au22XwLG4KOnq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f802651f718fbf0b155a5c02
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f802651f718fbf0b155a5c02
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f802651f718fbf0b155a5c02
+            is_playable: true
+            name: Citizen 1972-1980
+            release_date: '1993-12-15'
+            release_date_precision: day
+            total_tracks: 66
+            type: album
+            uri: spotify:album:5bpFfYgL1au22XwLG4KOnq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 4
+          duration_ms: 329960
+          explicit: false
+          external_ids:
+            isrc: USMC17847239
+          external_urls:
+            spotify: https://open.spotify.com/track/0ChhSbV8g1BMc0gePpfoeF
+          href: https://api.spotify.com/v1/tracks/0ChhSbV8g1BMc0gePpfoeF
+          id: 0ChhSbV8g1BMc0gePpfoeF
+          is_local: false
+          is_playable: true
+          name: Gaucho
+          track_number: 9
+          type: track
+          uri: spotify:track:0ChhSbV8g1BMc0gePpfoeF
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb
+            href: https://api.spotify.com/v1/albums/6FRN2BwvClQEMsG2I4Cofb
+            id: 6FRN2BwvClQEMsG2I4Cofb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0253e10b63c25c7f7a3d7e0f9d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485153e10b63c25c7f7a3d7e0f9d
+            is_playable: true
+            name: Gaucho
+            release_date: '1980-11-21'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:6FRN2BwvClQEMsG2I4Cofb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 331719
+          explicit: false
+          external_ids:
+            isrc: USMC17847239
+          external_urls:
+            spotify: https://open.spotify.com/track/6Mw3PjUwEDt2WGF5GtvkMN
+          href: https://api.spotify.com/v1/tracks/6Mw3PjUwEDt2WGF5GtvkMN
+          id: 6Mw3PjUwEDt2WGF5GtvkMN
+          is_local: false
+          is_playable: true
+          name: Gaucho
+          track_number: 4
+          type: track
+          uri: spotify:track:6Mw3PjUwEDt2WGF5GtvkMN
+    isrc: USMC17847239

@@ -34,3 +34,72 @@ mediaFileData:
   year: 2024
   duration: 96.744
   modTime: 2024-05-26 23:05:34.590444+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2rxbw6NSfWok5srSNcKvSX
+    trackId: 2rxbw6NSfWok5srSNcKvSX
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQM6MZ2461763&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/70rrdlPO77vFHx1GLER7WT
+              href: https://api.spotify.com/v1/artists/70rrdlPO77vFHx1GLER7WT
+              id: 70rrdlPO77vFHx1GLER7WT
+              name: Mato Wayuhi
+              type: artist
+              uri: spotify:artist:70rrdlPO77vFHx1GLER7WT
+            external_urls:
+              spotify: https://open.spotify.com/album/0PoMUGJSgk27UcWShcIhOY
+            href: https://api.spotify.com/v1/albums/0PoMUGJSgk27UcWShcIhOY
+            id: 0PoMUGJSgk27UcWShcIhOY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d0a8b1fee5a67c18525fb762
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d0a8b1fee5a67c18525fb762
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d0a8b1fee5a67c18525fb762
+            is_playable: true
+            name: STANKFACE STANDING SOLDIER
+            release_date: '2024-05-24'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:0PoMUGJSgk27UcWShcIhOY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/70rrdlPO77vFHx1GLER7WT
+            href: https://api.spotify.com/v1/artists/70rrdlPO77vFHx1GLER7WT
+            id: 70rrdlPO77vFHx1GLER7WT
+            name: Mato Wayuhi
+            type: artist
+            uri: spotify:artist:70rrdlPO77vFHx1GLER7WT
+          disc_number: 1
+          duration_ms: 96718
+          explicit: false
+          external_ids:
+            isrc: QM6MZ2461763
+          external_urls:
+            spotify: https://open.spotify.com/track/2rxbw6NSfWok5srSNcKvSX
+          href: https://api.spotify.com/v1/tracks/2rxbw6NSfWok5srSNcKvSX
+          id: 2rxbw6NSfWok5srSNcKvSX
+          is_local: false
+          is_playable: true
+          name: TO MY DEAREST
+          track_number: 1
+          type: track
+          uri: spotify:track:2rxbw6NSfWok5srSNcKvSX
+    isrc: QM6MZ2461763

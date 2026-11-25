@@ -245,3 +245,126 @@ mediaFileData:
   year: 1969
   duration: 164.136
   modTime: 2026-09-01 00:59:18.273708+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5uHLdR7JKTW6zg2a8VxRsS
+    trackId: 5uHLdR7JKTW6zg2a8VxRsS
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC17706837&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9
+              href: https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9
+              id: 2ptmyXoL7poH6Zq62h1QT9
+              name: Merle Haggard
+              type: artist
+              uri: spotify:artist:2ptmyXoL7poH6Zq62h1QT9
+            external_urls:
+              spotify: https://open.spotify.com/album/6PPgwolXCjTCIk9OX43e12
+            href: https://api.spotify.com/v1/albums/6PPgwolXCjTCIk9OX43e12
+            id: 6PPgwolXCjTCIk9OX43e12
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733b6e908b8e8fcab194fcf2fd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023b6e908b8e8fcab194fcf2fd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513b6e908b8e8fcab194fcf2fd
+            is_playable: true
+            name: My Farewell To Elvis
+            release_date: '1977-12-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6PPgwolXCjTCIk9OX43e12
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9
+            href: https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9
+            id: 2ptmyXoL7poH6Zq62h1QT9
+            name: Merle Haggard
+            type: artist
+            uri: spotify:artist:2ptmyXoL7poH6Zq62h1QT9
+          disc_number: 1
+          duration_ms: 151933
+          explicit: false
+          external_ids:
+            isrc: USMC17706837
+          external_urls:
+            spotify: https://open.spotify.com/track/5uHLdR7JKTW6zg2a8VxRsS
+          href: https://api.spotify.com/v1/tracks/5uHLdR7JKTW6zg2a8VxRsS
+          id: 5uHLdR7JKTW6zg2a8VxRsS
+          is_local: false
+          is_playable: true
+          name: From Graceland To The Promised Land
+          track_number: 1
+          type: track
+          uri: spotify:track:5uHLdR7JKTW6zg2a8VxRsS
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9
+              href: https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9
+              id: 2ptmyXoL7poH6Zq62h1QT9
+              name: Merle Haggard
+              type: artist
+              uri: spotify:artist:2ptmyXoL7poH6Zq62h1QT9
+            external_urls:
+              spotify: https://open.spotify.com/album/4aQSHJCwmvnWhB3IWJVOUP
+            href: https://api.spotify.com/v1/albums/4aQSHJCwmvnWhB3IWJVOUP
+            id: 4aQSHJCwmvnWhB3IWJVOUP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273adb609703be280d58724313d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02adb609703be280d58724313d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851adb609703be280d58724313d
+            is_playable: true
+            name: '20th Century Masters: The Millennium Collection: The Best Of Merle Haggard'
+            release_date: '2000-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4aQSHJCwmvnWhB3IWJVOUP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9
+            href: https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9
+            id: 2ptmyXoL7poH6Zq62h1QT9
+            name: Merle Haggard
+            type: artist
+            uri: spotify:artist:2ptmyXoL7poH6Zq62h1QT9
+          disc_number: 1
+          duration_ms: 150306
+          explicit: false
+          external_ids:
+            isrc: USMC17706837
+          external_urls:
+            spotify: https://open.spotify.com/track/7A6GhU94OLukU1OgqFLIXm
+          href: https://api.spotify.com/v1/tracks/7A6GhU94OLukU1OgqFLIXm
+          id: 7A6GhU94OLukU1OgqFLIXm
+          is_local: false
+          is_playable: true
+          name: From Graceland To The Promised Land
+          track_number: 3
+          type: track
+          uri: spotify:track:7A6GhU94OLukU1OgqFLIXm
+    isrc: USMC17706837

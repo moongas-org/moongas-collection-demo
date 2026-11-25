@@ -45,3 +45,126 @@ mediaFileData:
   year: 2021
   duration: 41.16
   modTime: 2025-03-10 01:35:46.828459+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0UhSQzq3JWqJjHQFPQGc7P
+    trackId: 0UhSQzq3JWqJjHQFPQGc7P
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE12100625&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3
+            href: https://api.spotify.com/v1/albums/73TcBRSRsPLKmxnjnVsSV3
+            id: 73TcBRSRsPLKmxnjnVsSV3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273423e0509385b6db01d92e70c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02423e0509385b6db01d92e70c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851423e0509385b6db01d92e70c
+            is_playable: true
+            name: Surrender (Remixes)
+            release_date: '2022-08-12'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:73TcBRSRsPLKmxnjnVsSV3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 3
+          duration_ms: 39346
+          explicit: false
+          external_ids:
+            isrc: USRE12100625
+          external_urls:
+            spotify: https://open.spotify.com/track/0UhSQzq3JWqJjHQFPQGc7P
+          href: https://api.spotify.com/v1/tracks/0UhSQzq3JWqJjHQFPQGc7P
+          id: 0UhSQzq3JWqJjHQFPQGc7P
+          is_local: false
+          is_playable: true
+          name: Alive - Reprise
+          track_number: 6
+          type: track
+          uri: spotify:track:0UhSQzq3JWqJjHQFPQGc7P
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+              href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+              id: 5Pb27ujIyYb33zBqVysBkj
+              name: RÜFÜS DU SOL
+              type: artist
+              uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+            external_urls:
+              spotify: https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN
+            href: https://api.spotify.com/v1/albums/3SB9ntsoNwC4oUP6xM9DIN
+            id: 3SB9ntsoNwC4oUP6xM9DIN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27318e117782b755e3087e11390
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0218e117782b755e3087e11390
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485118e117782b755e3087e11390
+            is_playable: true
+            name: Surrender
+            release_date: '2021-10-21'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:3SB9ntsoNwC4oUP6xM9DIN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj
+            href: https://api.spotify.com/v1/artists/5Pb27ujIyYb33zBqVysBkj
+            id: 5Pb27ujIyYb33zBqVysBkj
+            name: RÜFÜS DU SOL
+            type: artist
+            uri: spotify:artist:5Pb27ujIyYb33zBqVysBkj
+          disc_number: 1
+          duration_ms: 39346
+          explicit: false
+          external_ids:
+            isrc: USRE12100625
+          external_urls:
+            spotify: https://open.spotify.com/track/217pPKyaGKJwsuqGRjhouc
+          href: https://api.spotify.com/v1/tracks/217pPKyaGKJwsuqGRjhouc
+          id: 217pPKyaGKJwsuqGRjhouc
+          is_local: false
+          is_playable: true
+          name: Alive - Reprise
+          track_number: 6
+          type: track
+          uri: spotify:track:217pPKyaGKJwsuqGRjhouc
+    isrc: USRE12100625

@@ -34,3 +34,126 @@ mediaFileData:
   year: 1971
   duration: 566.424
   modTime: 2025-01-05 20:42:43.558685+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1QqaSee7G9ypb8RgRyhQid
+    trackId: 1QqaSee7G9ypb8RgRyhQid
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC17101709&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU
+              href: https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU
+              id: 0kEfub5RzlZOB2zGomqVSU
+              name: Gil Scott-Heron
+              type: artist
+              uri: spotify:artist:0kEfub5RzlZOB2zGomqVSU
+            external_urls:
+              spotify: https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl
+            href: https://api.spotify.com/v1/albums/3Iny1eqJMoqU1I1UoUbVQl
+            id: 3Iny1eqJMoqU1I1UoUbVQl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c930e4ed835b0fd546c7324f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c930e4ed835b0fd546c7324f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c930e4ed835b0fd546c7324f
+            is_playable: true
+            name: Pieces of a Man
+            release_date: '1971-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:3Iny1eqJMoqU1I1UoUbVQl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU
+            href: https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU
+            id: 0kEfub5RzlZOB2zGomqVSU
+            name: Gil Scott-Heron
+            type: artist
+            uri: spotify:artist:0kEfub5RzlZOB2zGomqVSU
+          disc_number: 1
+          duration_ms: 566400
+          explicit: false
+          external_ids:
+            isrc: USRC17101709
+          external_urls:
+            spotify: https://open.spotify.com/track/1QqaSee7G9ypb8RgRyhQid
+          href: https://api.spotify.com/v1/tracks/1QqaSee7G9ypb8RgRyhQid
+          id: 1QqaSee7G9ypb8RgRyhQid
+          is_local: false
+          is_playable: true
+          name: The Prisoner
+          track_number: 11
+          type: track
+          uri: spotify:track:1QqaSee7G9ypb8RgRyhQid
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU
+              href: https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU
+              id: 0kEfub5RzlZOB2zGomqVSU
+              name: Gil Scott-Heron
+              type: artist
+              uri: spotify:artist:0kEfub5RzlZOB2zGomqVSU
+            external_urls:
+              spotify: https://open.spotify.com/album/19JwcgTFuLH6eQ9IykYpKm
+            href: https://api.spotify.com/v1/albums/19JwcgTFuLH6eQ9IykYpKm
+            id: 19JwcgTFuLH6eQ9IykYpKm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737cf0d3fca882798c08d4927a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027cf0d3fca882798c08d4927a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517cf0d3fca882798c08d4927a
+            is_playable: true
+            name: 'The Revolution Begins: The Flying Dutchman Masters'
+            release_date: '1992-06-29'
+            release_date_precision: day
+            total_tracks: 51
+            type: album
+            uri: spotify:album:19JwcgTFuLH6eQ9IykYpKm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU
+            href: https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU
+            id: 0kEfub5RzlZOB2zGomqVSU
+            name: Gil Scott-Heron
+            type: artist
+            uri: spotify:artist:0kEfub5RzlZOB2zGomqVSU
+          disc_number: 2
+          duration_ms: 566600
+          explicit: false
+          external_ids:
+            isrc: USRC17101709
+          external_urls:
+            spotify: https://open.spotify.com/track/1ZZuPG4c12w1zcNkxhZIlV
+          href: https://api.spotify.com/v1/tracks/1ZZuPG4c12w1zcNkxhZIlV
+          id: 1ZZuPG4c12w1zcNkxhZIlV
+          is_local: false
+          is_playable: true
+          name: The Prisoner
+          track_number: 8
+          type: track
+          uri: spotify:track:1ZZuPG4c12w1zcNkxhZIlV
+    isrc: USRC17101709

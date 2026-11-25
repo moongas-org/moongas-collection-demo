@@ -418,3 +418,126 @@ mediaFileData:
   year: 1970
   duration: 276.46666666666664
   modTime: 2024-02-11 07:21:13.393069+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0abKfRfY7fYoojQEnWj9LS
+    trackId: 0abKfRfY7fYoojQEnWj9LS
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC19101840&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf
+              href: https://api.spotify.com/v1/artists/0kObWap02DEg9EAJ3PBxzf
+              id: 0kObWap02DEg9EAJ3PBxzf
+              name: Starship
+              type: artist
+              uri: spotify:artist:0kObWap02DEg9EAJ3PBxzf
+            external_urls:
+              spotify: https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK
+            href: https://api.spotify.com/v1/albums/0qRvb8w1YuZhBrhELRFPBK
+            id: 0qRvb8w1YuZhBrhELRFPBK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732dfa3681d2d6f77438abbbda
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022dfa3681d2d6f77438abbbda
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512dfa3681d2d6f77438abbbda
+            is_playable: true
+            name: Greatest Hits (Ten Years And Change 1979-1991)
+            release_date: '1991-05-14'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0qRvb8w1YuZhBrhELRFPBK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf
+            href: https://api.spotify.com/v1/artists/0kObWap02DEg9EAJ3PBxzf
+            id: 0kObWap02DEg9EAJ3PBxzf
+            name: Starship
+            type: artist
+            uri: spotify:artist:0kObWap02DEg9EAJ3PBxzf
+          disc_number: 1
+          duration_ms: 292199
+          explicit: false
+          external_ids:
+            isrc: USRC19101840
+          external_urls:
+            spotify: https://open.spotify.com/track/0abKfRfY7fYoojQEnWj9LS
+          href: https://api.spotify.com/v1/tracks/0abKfRfY7fYoojQEnWj9LS
+          id: 0abKfRfY7fYoojQEnWj9LS
+          is_local: false
+          is_playable: true
+          name: Sara - Remastered
+          track_number: 8
+          type: track
+          uri: spotify:track:0abKfRfY7fYoojQEnWj9LS
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2ob0ywt5EQTcq1GA0DR1IP
+            href: https://api.spotify.com/v1/albums/2ob0ywt5EQTcq1GA0DR1IP
+            id: 2ob0ywt5EQTcq1GA0DR1IP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273279904d5942345662d8e9dce
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02279904d5942345662d8e9dce
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851279904d5942345662d8e9dce
+            is_playable: true
+            name: 80s Music 80s Greatest Hits
+            release_date: '2024-11-09'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:2ob0ywt5EQTcq1GA0DR1IP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf
+            href: https://api.spotify.com/v1/artists/0kObWap02DEg9EAJ3PBxzf
+            id: 0kObWap02DEg9EAJ3PBxzf
+            name: Starship
+            type: artist
+            uri: spotify:artist:0kObWap02DEg9EAJ3PBxzf
+          disc_number: 1
+          duration_ms: 292199
+          explicit: false
+          external_ids:
+            isrc: USRC19101840
+          external_urls:
+            spotify: https://open.spotify.com/track/60GuEuwNeCsbwcujhLVqYD
+          href: https://api.spotify.com/v1/tracks/60GuEuwNeCsbwcujhLVqYD
+          id: 60GuEuwNeCsbwcujhLVqYD
+          is_local: false
+          is_playable: true
+          name: Sara
+          track_number: 29
+          type: track
+          uri: spotify:track:60GuEuwNeCsbwcujhLVqYD
+    isrc: USRC19101840

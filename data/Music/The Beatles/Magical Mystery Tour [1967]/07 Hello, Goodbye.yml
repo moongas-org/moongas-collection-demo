@@ -397,3 +397,126 @@ mediaFileData:
   year: 1967
   duration: 211.55700680272108
   modTime: 2023-09-17 02:35:48+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6FGY5Q8YqVLs2o9jGdCbFm
+    trackId: 6FGY5Q8YqVLs2o9jGdCbFm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM72502602&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+              href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+              id: 3WrFJ7ztbogyGnTHbHJFl2
+              name: The Beatles
+              type: artist
+              uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+            external_urls:
+              spotify: https://open.spotify.com/album/5Crr1GUYTC7qdR3XnNW6HW
+            href: https://api.spotify.com/v1/albums/5Crr1GUYTC7qdR3XnNW6HW
+            id: 5Crr1GUYTC7qdR3XnNW6HW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733e6c9b0ca8214ba1478751b0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023e6c9b0ca8214ba1478751b0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513e6c9b0ca8214ba1478751b0
+            is_playable: true
+            name: Anthology Collection
+            release_date: '2025-11-21'
+            release_date_precision: day
+            total_tracks: 191
+            type: album
+            uri: spotify:album:5Crr1GUYTC7qdR3XnNW6HW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+            href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+            id: 3WrFJ7ztbogyGnTHbHJFl2
+            name: The Beatles
+            type: artist
+            uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+          disc_number: 2
+          duration_ms: 197960
+          explicit: false
+          external_ids:
+            isrc: GBUM72502602
+          external_urls:
+            spotify: https://open.spotify.com/track/6FGY5Q8YqVLs2o9jGdCbFm
+          href: https://api.spotify.com/v1/tracks/6FGY5Q8YqVLs2o9jGdCbFm
+          id: 6FGY5Q8YqVLs2o9jGdCbFm
+          is_local: false
+          is_playable: true
+          name: Hello, Goodbye - Take 16 - Remastered
+          track_number: 43
+          type: track
+          uri: spotify:track:6FGY5Q8YqVLs2o9jGdCbFm
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+              href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+              id: 3WrFJ7ztbogyGnTHbHJFl2
+              name: The Beatles
+              type: artist
+              uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+            external_urls:
+              spotify: https://open.spotify.com/album/4hi9JPDhSXXmls6ytsLGGE
+            href: https://api.spotify.com/v1/albums/4hi9JPDhSXXmls6ytsLGGE
+            id: 4hi9JPDhSXXmls6ytsLGGE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735a99eacecb2e00411040279b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025a99eacecb2e00411040279b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515a99eacecb2e00411040279b
+            is_playable: true
+            name: Anthology 2
+            release_date: '1996-03-18'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:4hi9JPDhSXXmls6ytsLGGE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+            href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+            id: 3WrFJ7ztbogyGnTHbHJFl2
+            name: The Beatles
+            type: artist
+            uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+          disc_number: 1
+          duration_ms: 197960
+          explicit: false
+          external_ids:
+            isrc: GBUM72502602
+          external_urls:
+            spotify: https://open.spotify.com/track/3KbsyQVM3c0Za94KLhCOXF
+          href: https://api.spotify.com/v1/tracks/3KbsyQVM3c0Za94KLhCOXF
+          id: 3KbsyQVM3c0Za94KLhCOXF
+          is_local: false
+          is_playable: true
+          name: Hello, Goodbye (Take 16 - Remastered)
+          track_number: 43
+          type: track
+          uri: spotify:track:3KbsyQVM3c0Za94KLhCOXF
+    isrc: GBUM72502602

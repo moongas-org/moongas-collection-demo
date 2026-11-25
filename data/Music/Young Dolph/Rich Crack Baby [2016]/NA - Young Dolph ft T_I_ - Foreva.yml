@@ -34,3 +34,79 @@ mediaFileData:
   year: 2016
   duration: 227.52
   modTime: 2024-07-02 00:13:35.277426+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza
+    trackId: 23nOXuK95DPOiO62Ixgzza
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUYG1111122&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g
+              href: https://api.spotify.com/v1/artists/3HiuzBlSW7pGDXlSFMhO2g
+              id: 3HiuzBlSW7pGDXlSFMhO2g
+              name: Young Dolph
+              type: artist
+              uri: spotify:artist:3HiuzBlSW7pGDXlSFMhO2g
+            external_urls:
+              spotify: https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX
+            href: https://api.spotify.com/v1/albums/0c5QIo4MTyneCPZtXjr7BX
+            id: 0c5QIo4MTyneCPZtXjr7BX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c9ccbe7805d34ac96813bf17
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c9ccbe7805d34ac96813bf17
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c9ccbe7805d34ac96813bf17
+            is_playable: true
+            name: Rich Crack Baby
+            release_date: '2016-08-26'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0c5QIo4MTyneCPZtXjr7BX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g
+            href: https://api.spotify.com/v1/artists/3HiuzBlSW7pGDXlSFMhO2g
+            id: 3HiuzBlSW7pGDXlSFMhO2g
+            name: Young Dolph
+            type: artist
+            uri: spotify:artist:3HiuzBlSW7pGDXlSFMhO2g
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT
+            href: https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT
+            id: 4OBJLual30L7gRl5UkeRcT
+            name: T.I.
+            type: artist
+            uri: spotify:artist:4OBJLual30L7gRl5UkeRcT
+          disc_number: 1
+          duration_ms: 227224
+          explicit: true
+          external_ids:
+            isrc: USUYG1111122
+          external_urls:
+            spotify: https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza
+          href: https://api.spotify.com/v1/tracks/23nOXuK95DPOiO62Ixgzza
+          id: 23nOXuK95DPOiO62Ixgzza
+          is_local: false
+          is_playable: true
+          name: Foreva (feat. T.I.)
+          track_number: 7
+          type: track
+          uri: spotify:track:23nOXuK95DPOiO62Ixgzza
+    isrc: USUYG1111122

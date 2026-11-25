@@ -34,3 +34,72 @@ mediaFileData:
   year: 2014
   duration: 207.264
   modTime: 2025-01-08 21:36:51.648124+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5QvfmoDlCIAImdAHeJjr2J
+    trackId: 5QvfmoDlCIAImdAHeJjr2J
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUK3SA1300040&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT
+              href: https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT
+              id: 6zvul52xwTWzilBZl6BUbT
+              name: Pixies
+              type: artist
+              uri: spotify:artist:6zvul52xwTWzilBZl6BUbT
+            external_urls:
+              spotify: https://open.spotify.com/album/5TuDqbxRPsSaZDXzQhETkP
+            href: https://api.spotify.com/v1/albums/5TuDqbxRPsSaZDXzQhETkP
+            id: 5TuDqbxRPsSaZDXzQhETkP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739db72277ddf429a462505a6a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029db72277ddf429a462505a6a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519db72277ddf429a462505a6a
+            is_playable: true
+            name: Indie Cindy
+            release_date: '2014-04-19'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5TuDqbxRPsSaZDXzQhETkP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT
+            href: https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT
+            id: 6zvul52xwTWzilBZl6BUbT
+            name: Pixies
+            type: artist
+            uri: spotify:artist:6zvul52xwTWzilBZl6BUbT
+          disc_number: 1
+          duration_ms: 207232
+          explicit: false
+          external_ids:
+            isrc: UK3SA1300040
+          external_urls:
+            spotify: https://open.spotify.com/track/5QvfmoDlCIAImdAHeJjr2J
+          href: https://api.spotify.com/v1/tracks/5QvfmoDlCIAImdAHeJjr2J
+          id: 5QvfmoDlCIAImdAHeJjr2J
+          is_local: false
+          is_playable: true
+          name: Planet of Sound - Live in the USA 2014
+          track_number: 25
+          type: track
+          uri: spotify:track:5QvfmoDlCIAImdAHeJjr2J
+    isrc: UK3SA1300040

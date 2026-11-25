@@ -258,3 +258,72 @@ mediaFileData:
   year: 1980
   duration: 235.296
   modTime: 2023-03-22 02:03:00.450000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/31rPRGCBUrQf8yIJVxX3XZ
+    trackId: 31rPRGCBUrQf8yIJVxX3XZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT21303499&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7rdXNXULDJ8awO568dkUzY
+            href: https://api.spotify.com/v1/albums/7rdXNXULDJ8awO568dkUzY
+            id: 7rdXNXULDJ8awO568dkUzY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273918bef5fed7ca1db2101a0a6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02918bef5fed7ca1db2101a0a6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851918bef5fed7ca1db2101a0a6
+            is_playable: true
+            name: Party Disco
+            release_date: '2020-10-02'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:7rdXNXULDJ8awO568dkUzY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+            href: https://api.spotify.com/v1/artists/5fbhwqYYh4YwUoEs582mq5
+            id: 5fbhwqYYh4YwUoEs582mq5
+            name: The Spinners
+            type: artist
+            uri: spotify:artist:5fbhwqYYh4YwUoEs582mq5
+          disc_number: 1
+          duration_ms: 361213
+          explicit: false
+          external_ids:
+            isrc: USAT21303499
+          external_urls:
+            spotify: https://open.spotify.com/track/31rPRGCBUrQf8yIJVxX3XZ
+          href: https://api.spotify.com/v1/tracks/31rPRGCBUrQf8yIJVxX3XZ
+          id: 31rPRGCBUrQf8yIJVxX3XZ
+          is_local: false
+          is_playable: true
+          name: Working My Way Back to You / Forgive Me Girl
+          track_number: 9
+          type: track
+          uri: spotify:track:31rPRGCBUrQf8yIJVxX3XZ
+    isrc: USAT21303499

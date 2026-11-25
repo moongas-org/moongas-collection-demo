@@ -34,3 +34,201 @@ mediaFileData:
   year: 2021
   duration: 223.584
   modTime: 2024-07-01 23:25:29.421096+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks
+    trackId: 07DuoTCTocHk7y3d8MImks
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ADEBY41200502&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx
+              href: https://api.spotify.com/v1/artists/0ymdoOsfzRbCoAMfJPpsEx
+              id: 0ymdoOsfzRbCoAMfJPpsEx
+              name: Cody Currie
+              type: artist
+              uri: spotify:artist:0ymdoOsfzRbCoAMfJPpsEx
+            external_urls:
+              spotify: https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj
+            href: https://api.spotify.com/v1/albums/7sAOz7qlL8UyeRtFyVNWcj
+            id: 7sAOz7qlL8UyeRtFyVNWcj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273329de2e12c010aa58743b48f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02329de2e12c010aa58743b48f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851329de2e12c010aa58743b48f
+            is_playable: true
+            name: Moves EP
+            release_date: '2021-02-12'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:7sAOz7qlL8UyeRtFyVNWcj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx
+            href: https://api.spotify.com/v1/artists/0ymdoOsfzRbCoAMfJPpsEx
+            id: 0ymdoOsfzRbCoAMfJPpsEx
+            name: Cody Currie
+            type: artist
+            uri: spotify:artist:0ymdoOsfzRbCoAMfJPpsEx
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP
+            href: https://api.spotify.com/v1/artists/4XC335ouK6pXyq4QiIb8bP
+            id: 4XC335ouK6pXyq4QiIb8bP
+            name: Eliza Rose
+            type: artist
+            uri: spotify:artist:4XC335ouK6pXyq4QiIb8bP
+          disc_number: 1
+          duration_ms: 223537
+          explicit: false
+          external_ids:
+            isrc: DEBY41200502
+          external_urls:
+            spotify: https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks
+          href: https://api.spotify.com/v1/tracks/07DuoTCTocHk7y3d8MImks
+          id: 07DuoTCTocHk7y3d8MImks
+          is_local: false
+          is_playable: true
+          name: Moves
+          track_number: 1
+          type: track
+          uri: spotify:track:07DuoTCTocHk7y3d8MImks
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/32Br6gRpFKW3hSbpRgPFLG
+            href: https://api.spotify.com/v1/albums/32Br6gRpFKW3hSbpRgPFLG
+            id: 32Br6gRpFKW3hSbpRgPFLG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27344099def5dc8033a8fc65c7d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0244099def5dc8033a8fc65c7d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485144099def5dc8033a8fc65c7d
+            is_playable: true
+            name: Toy Tonics Top Tracks Vol. 9
+            release_date: '2021-07-16'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:32Br6gRpFKW3hSbpRgPFLG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx
+            href: https://api.spotify.com/v1/artists/0ymdoOsfzRbCoAMfJPpsEx
+            id: 0ymdoOsfzRbCoAMfJPpsEx
+            name: Cody Currie
+            type: artist
+            uri: spotify:artist:0ymdoOsfzRbCoAMfJPpsEx
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP
+            href: https://api.spotify.com/v1/artists/4XC335ouK6pXyq4QiIb8bP
+            id: 4XC335ouK6pXyq4QiIb8bP
+            name: Eliza Rose
+            type: artist
+            uri: spotify:artist:4XC335ouK6pXyq4QiIb8bP
+          disc_number: 1
+          duration_ms: 223537
+          explicit: false
+          external_ids:
+            isrc: DEBY41200502
+          external_urls:
+            spotify: https://open.spotify.com/track/0j5YUiAnFO2ZlH3o09liaC
+          href: https://api.spotify.com/v1/tracks/0j5YUiAnFO2ZlH3o09liaC
+          id: 0j5YUiAnFO2ZlH3o09liaC
+          is_local: false
+          is_playable: true
+          name: Moves
+          track_number: 1
+          type: track
+          uri: spotify:track:0j5YUiAnFO2ZlH3o09liaC
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0tIlKOrb1ooCK327UAdnOC
+            href: https://api.spotify.com/v1/albums/0tIlKOrb1ooCK327UAdnOC
+            id: 0tIlKOrb1ooCK327UAdnOC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327f3f015fa70aba41d55e6c8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227f3f015fa70aba41d55e6c8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127f3f015fa70aba41d55e6c8
+            is_playable: true
+            name: '!Kollections 08'
+            release_date: '2023-08-31'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0tIlKOrb1ooCK327UAdnOC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx
+            href: https://api.spotify.com/v1/artists/0ymdoOsfzRbCoAMfJPpsEx
+            id: 0ymdoOsfzRbCoAMfJPpsEx
+            name: Cody Currie
+            type: artist
+            uri: spotify:artist:0ymdoOsfzRbCoAMfJPpsEx
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP
+            href: https://api.spotify.com/v1/artists/4XC335ouK6pXyq4QiIb8bP
+            id: 4XC335ouK6pXyq4QiIb8bP
+            name: Eliza Rose
+            type: artist
+            uri: spotify:artist:4XC335ouK6pXyq4QiIb8bP
+          disc_number: 1
+          duration_ms: 223537
+          explicit: false
+          external_ids:
+            isrc: DEBY41200502
+          external_urls:
+            spotify: https://open.spotify.com/track/5QmFGVBdWIAXaJP7k8GYbE
+          href: https://api.spotify.com/v1/tracks/5QmFGVBdWIAXaJP7k8GYbE
+          id: 5QmFGVBdWIAXaJP7k8GYbE
+          is_local: false
+          is_playable: true
+          name: Moves
+          track_number: 12
+          type: track
+          uri: spotify:track:5QmFGVBdWIAXaJP7k8GYbE
+    isrc: DEBY41200502

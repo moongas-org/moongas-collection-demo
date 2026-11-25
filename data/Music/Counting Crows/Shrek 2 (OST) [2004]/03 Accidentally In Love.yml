@@ -73,3 +73,288 @@ mediaFileData:
   year: 2004
   duration: 192.7575625
   modTime: 2023-05-14 16:14:48.700000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3OltYYcLZUhvho5QoRbUNr
+    trackId: 3OltYYcLZUhvho5QoRbUNr
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR10400291&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSIR10400291&type=track
+        offset: 0
+        previous:
+        total: 45
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
+              href: https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC
+              id: 0vEsuISMWAKNctLlUAhSZC
+              name: Counting Crows
+              type: artist
+              uri: spotify:artist:0vEsuISMWAKNctLlUAhSZC
+            external_urls:
+              spotify: https://open.spotify.com/album/1eONXsSid0vxSPTt7zpImA
+            href: https://api.spotify.com/v1/albums/1eONXsSid0vxSPTt7zpImA
+            id: 1eONXsSid0vxSPTt7zpImA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fbeda7a653871a612241b6b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fbeda7a653871a612241b6b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fbeda7a653871a612241b6b3
+            is_playable: true
+            name: 'Films About Ghosts: The Best Of...'
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:1eONXsSid0vxSPTt7zpImA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
+            href: https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC
+            id: 0vEsuISMWAKNctLlUAhSZC
+            name: Counting Crows
+            type: artist
+            uri: spotify:artist:0vEsuISMWAKNctLlUAhSZC
+          disc_number: 1
+          duration_ms: 188386
+          explicit: false
+          external_ids:
+            isrc: USIR10400291
+          external_urls:
+            spotify: https://open.spotify.com/track/3OltYYcLZUhvho5QoRbUNr
+          href: https://api.spotify.com/v1/tracks/3OltYYcLZUhvho5QoRbUNr
+          id: 3OltYYcLZUhvho5QoRbUNr
+          is_local: false
+          is_playable: true
+          name: Accidentally In Love - From "Shrek 2" Soundtrack
+          track_number: 17
+          type: track
+          uri: spotify:track:3OltYYcLZUhvho5QoRbUNr
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
+              href: https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC
+              id: 0vEsuISMWAKNctLlUAhSZC
+              name: Counting Crows
+              type: artist
+              uri: spotify:artist:0vEsuISMWAKNctLlUAhSZC
+            external_urls:
+              spotify: https://open.spotify.com/album/70NalxU5fQaMxOpe0T69Ob
+            href: https://api.spotify.com/v1/albums/70NalxU5fQaMxOpe0T69Ob
+            id: 70NalxU5fQaMxOpe0T69Ob
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dddef0a8d96f918c482d5da3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dddef0a8d96f918c482d5da3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dddef0a8d96f918c482d5da3
+            is_playable: true
+            name: Accidentally In Love
+            release_date: '2004-04-27'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:70NalxU5fQaMxOpe0T69Ob
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
+            href: https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC
+            id: 0vEsuISMWAKNctLlUAhSZC
+            name: Counting Crows
+            type: artist
+            uri: spotify:artist:0vEsuISMWAKNctLlUAhSZC
+          disc_number: 1
+          duration_ms: 188613
+          explicit: false
+          external_ids:
+            isrc: USIR10400291
+          external_urls:
+            spotify: https://open.spotify.com/track/4ccM2xBxicGigjLqt6A0YY
+          href: https://api.spotify.com/v1/tracks/4ccM2xBxicGigjLqt6A0YY
+          id: 4ccM2xBxicGigjLqt6A0YY
+          is_local: false
+          is_playable: true
+          name: Accidentally In Love
+          track_number: 1
+          type: track
+          uri: spotify:track:4ccM2xBxicGigjLqt6A0YY
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/482fSq2psOIUX9ixkKkp2q
+            href: https://api.spotify.com/v1/albums/482fSq2psOIUX9ixkKkp2q
+            id: 482fSq2psOIUX9ixkKkp2q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27373dd7c7526a6870e6f89706a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0273dd7c7526a6870e6f89706a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485173dd7c7526a6870e6f89706a
+            is_playable: true
+            name: Valentine's Day Mix
+            release_date: '2020-01-31'
+            release_date_precision: day
+            total_tracks: 38
+            type: album
+            uri: spotify:album:482fSq2psOIUX9ixkKkp2q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
+            href: https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC
+            id: 0vEsuISMWAKNctLlUAhSZC
+            name: Counting Crows
+            type: artist
+            uri: spotify:artist:0vEsuISMWAKNctLlUAhSZC
+          disc_number: 1
+          duration_ms: 188893
+          explicit: false
+          external_ids:
+            isrc: USIR10400291
+          external_urls:
+            spotify: https://open.spotify.com/track/5W10CyNhnCoIxUYfANwZqR
+          href: https://api.spotify.com/v1/tracks/5W10CyNhnCoIxUYfANwZqR
+          id: 5W10CyNhnCoIxUYfANwZqR
+          is_local: false
+          is_playable: true
+          name: Accidentally In Love
+          track_number: 36
+          type: track
+          uri: spotify:track:5W10CyNhnCoIxUYfANwZqR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/009d83fu2guwouIwqr7i9E
+            href: https://api.spotify.com/v1/albums/009d83fu2guwouIwqr7i9E
+            id: 009d83fu2guwouIwqr7i9E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a895c616f899f06429bc8b4f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a895c616f899f06429bc8b4f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a895c616f899f06429bc8b4f
+            is_playable: true
+            name: Shrek 2 (Original Motion Picture Soundtrack)
+            release_date: '2004-05-19'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:009d83fu2guwouIwqr7i9E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
+            href: https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC
+            id: 0vEsuISMWAKNctLlUAhSZC
+            name: Counting Crows
+            type: artist
+            uri: spotify:artist:0vEsuISMWAKNctLlUAhSZC
+          disc_number: 1
+          duration_ms: 188893
+          explicit: false
+          external_ids:
+            isrc: USIR10400291
+          external_urls:
+            spotify: https://open.spotify.com/track/04j67XNNVu1HI7JrIlMM3S
+          href: https://api.spotify.com/v1/tracks/04j67XNNVu1HI7JrIlMM3S
+          id: 04j67XNNVu1HI7JrIlMM3S
+          is_local: false
+          is_playable: true
+          name: Accidentally In Love - From "Shrek 2" Soundtrack
+          track_number: 1
+          type: track
+          uri: spotify:track:04j67XNNVu1HI7JrIlMM3S
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0OFW8PO6Iwc2AaBFRxoxJ3
+            href: https://api.spotify.com/v1/albums/0OFW8PO6Iwc2AaBFRxoxJ3
+            id: 0OFW8PO6Iwc2AaBFRxoxJ3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273809ea56285a1df8abffa3c3f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02809ea56285a1df8abffa3c3f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851809ea56285a1df8abffa3c3f
+            is_playable: true
+            name: Happy Music
+            release_date: '2019-11-29'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:0OFW8PO6Iwc2AaBFRxoxJ3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
+            href: https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC
+            id: 0vEsuISMWAKNctLlUAhSZC
+            name: Counting Crows
+            type: artist
+            uri: spotify:artist:0vEsuISMWAKNctLlUAhSZC
+          disc_number: 1
+          duration_ms: 189240
+          explicit: false
+          external_ids:
+            isrc: USIR10400291
+          external_urls:
+            spotify: https://open.spotify.com/track/5iv6Uk5z2N1Kl8Rq2XnEQM
+          href: https://api.spotify.com/v1/tracks/5iv6Uk5z2N1Kl8Rq2XnEQM
+          id: 5iv6Uk5z2N1Kl8Rq2XnEQM
+          is_local: false
+          is_playable: true
+          name: Accidentally In Love - From "Shrek 2" Soundtrack
+          track_number: 18
+          type: track
+          uri: spotify:track:5iv6Uk5z2N1Kl8Rq2XnEQM
+    isrc: USIR10400291

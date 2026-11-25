@@ -73,3 +73,126 @@ mediaFileData:
   year: 2001
   duration: 166.08
   modTime: 2024-10-28 23:49:01.957063+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk
+    trackId: 3KLkRy9l3us98SIp6mmxkk
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ASEVHC0001010&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX
+              href: https://api.spotify.com/v1/artists/74xFFXkvOq9dPDigOWTHiX
+              id: 74xFFXkvOq9dPDigOWTHiX
+              name: Millencolin
+              type: artist
+              uri: spotify:artist:74xFFXkvOq9dPDigOWTHiX
+            external_urls:
+              spotify: https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC
+            href: https://api.spotify.com/v1/albums/5VWyJbfC4DUsnC1NLSjuWC
+            id: 5VWyJbfC4DUsnC1NLSjuWC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732098fa22384b765569627a4b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022098fa22384b765569627a4b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512098fa22384b765569627a4b
+            is_playable: true
+            name: Pennybridge Pioneers
+            release_date: '2000-02-22'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5VWyJbfC4DUsnC1NLSjuWC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX
+            href: https://api.spotify.com/v1/artists/74xFFXkvOq9dPDigOWTHiX
+            id: 74xFFXkvOq9dPDigOWTHiX
+            name: Millencolin
+            type: artist
+            uri: spotify:artist:74xFFXkvOq9dPDigOWTHiX
+          disc_number: 1
+          duration_ms: 163226
+          explicit: false
+          external_ids:
+            isrc: SEVHC0001010
+          external_urls:
+            spotify: https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk
+          href: https://api.spotify.com/v1/tracks/3KLkRy9l3us98SIp6mmxkk
+          id: 3KLkRy9l3us98SIp6mmxkk
+          is_local: false
+          is_playable: true
+          name: No Cigar
+          track_number: 1
+          type: track
+          uri: spotify:track:3KLkRy9l3us98SIp6mmxkk
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4ZYZmEF55TvRucEk6S9Sei
+            href: https://api.spotify.com/v1/albums/4ZYZmEF55TvRucEk6S9Sei
+            id: 4ZYZmEF55TvRucEk6S9Sei
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27355dda6d7e67fbc597674eb41
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0255dda6d7e67fbc597674eb41
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485155dda6d7e67fbc597674eb41
+            is_playable: true
+            name: Punk-O-Rama 5
+            release_date: '2008-07-29'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:4ZYZmEF55TvRucEk6S9Sei
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX
+            href: https://api.spotify.com/v1/artists/74xFFXkvOq9dPDigOWTHiX
+            id: 74xFFXkvOq9dPDigOWTHiX
+            name: Millencolin
+            type: artist
+            uri: spotify:artist:74xFFXkvOq9dPDigOWTHiX
+          disc_number: 1
+          duration_ms: 163226
+          explicit: false
+          external_ids:
+            isrc: SEVHC0001010
+          external_urls:
+            spotify: https://open.spotify.com/track/3XSX8AICldLHwxnONB4NLW
+          href: https://api.spotify.com/v1/tracks/3XSX8AICldLHwxnONB4NLW
+          id: 3XSX8AICldLHwxnONB4NLW
+          is_local: false
+          is_playable: true
+          name: No Cigar
+          track_number: 3
+          type: track
+          uri: spotify:track:3XSX8AICldLHwxnONB4NLW
+    isrc: SEVHC0001010

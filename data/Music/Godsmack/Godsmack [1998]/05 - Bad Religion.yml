@@ -56,3 +56,126 @@ mediaFileData:
   year: 1998
   duration: 193.26666666666668
   modTime: 2024-02-21 20:48:42.707303+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4BdPYaw5KvboXSej5XZpAW
+    trackId: 4BdPYaw5KvboXSej5XZpAW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUR19801034&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF
+              href: https://api.spotify.com/v1/artists/6gZq1Q6bdOxsUPUG1TaFbF
+              id: 6gZq1Q6bdOxsUPUG1TaFbF
+              name: Godsmack
+              type: artist
+              uri: spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF
+            external_urls:
+              spotify: https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM
+            href: https://api.spotify.com/v1/albums/1w7vC8hjYXhK1fS5cM2fUM
+            id: 1w7vC8hjYXhK1fS5cM2fUM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27382a891641608e2f2d6c3a8b8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0282a891641608e2f2d6c3a8b8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485182a891641608e2f2d6c3a8b8
+            is_playable: true
+            name: Godsmack
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1w7vC8hjYXhK1fS5cM2fUM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF
+            href: https://api.spotify.com/v1/artists/6gZq1Q6bdOxsUPUG1TaFbF
+            id: 6gZq1Q6bdOxsUPUG1TaFbF
+            name: Godsmack
+            type: artist
+            uri: spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF
+          disc_number: 1
+          duration_ms: 193266
+          explicit: true
+          external_ids:
+            isrc: USUR19801034
+          external_urls:
+            spotify: https://open.spotify.com/track/4BdPYaw5KvboXSej5XZpAW
+          href: https://api.spotify.com/v1/tracks/4BdPYaw5KvboXSej5XZpAW
+          id: 4BdPYaw5KvboXSej5XZpAW
+          is_local: false
+          is_playable: true
+          name: Bad Religion
+          track_number: 5
+          type: track
+          uri: spotify:track:4BdPYaw5KvboXSej5XZpAW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1jamXFvcwwRRBhC9P23nfz
+            href: https://api.spotify.com/v1/albums/1jamXFvcwwRRBhC9P23nfz
+            id: 1jamXFvcwwRRBhC9P23nfz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c836ad7dc9a5e2acbdf726da
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c836ad7dc9a5e2acbdf726da
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c836ad7dc9a5e2acbdf726da
+            is_playable: true
+            name: 开车好心情西洋精选！90年代金属乐
+            release_date: '2026-04-17'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:1jamXFvcwwRRBhC9P23nfz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF
+            href: https://api.spotify.com/v1/artists/6gZq1Q6bdOxsUPUG1TaFbF
+            id: 6gZq1Q6bdOxsUPUG1TaFbF
+            name: Godsmack
+            type: artist
+            uri: spotify:artist:6gZq1Q6bdOxsUPUG1TaFbF
+          disc_number: 1
+          duration_ms: 193266
+          explicit: true
+          external_ids:
+            isrc: USUR19801034
+          external_urls:
+            spotify: https://open.spotify.com/track/2GwQjwkc7YaEYEWQCuJ7zu
+          href: https://api.spotify.com/v1/tracks/2GwQjwkc7YaEYEWQCuJ7zu
+          id: 2GwQjwkc7YaEYEWQCuJ7zu
+          is_local: false
+          is_playable: true
+          name: Bad Religion
+          track_number: 11
+          type: track
+          uri: spotify:track:2GwQjwkc7YaEYEWQCuJ7zu
+    isrc: USUR19801034

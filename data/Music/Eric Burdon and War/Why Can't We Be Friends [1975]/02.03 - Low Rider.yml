@@ -246,3 +246,288 @@ mediaFileData:
   year: 1975
   duration: 190.87673469387755
   modTime: 2024-03-04 23:48:26.648402+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4
+    trackId: 7Bz8yww6UMbTgTVLG6zbI4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRHD0610212&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRHD0610212&type=track
+        offset: 0
+        previous:
+        total: 100
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+              href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+              id: 3ICyfoySNDZqtBVmaBT84I
+              name: War
+              type: artist
+              uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+            external_urls:
+              spotify: https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN
+            href: https://api.spotify.com/v1/albums/59euB5Ns7yGbS06OYHwxRN
+            id: 59euB5Ns7yGbS06OYHwxRN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a07cc88003498f7559787673
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a07cc88003498f7559787673
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a07cc88003498f7559787673
+            is_playable: true
+            name: Why Can't We Be Friends?
+            release_date: '1975-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:59euB5Ns7yGbS06OYHwxRN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+            href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+            id: 3ICyfoySNDZqtBVmaBT84I
+            name: War
+            type: artist
+            uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+          disc_number: 1
+          duration_ms: 190826
+          explicit: false
+          external_ids:
+            isrc: USRHD0610212
+          external_urls:
+            spotify: https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4
+          href: https://api.spotify.com/v1/tracks/7Bz8yww6UMbTgTVLG6zbI4
+          id: 7Bz8yww6UMbTgTVLG6zbI4
+          is_local: false
+          is_playable: true
+          name: Low Rider
+          track_number: 7
+          type: track
+          uri: spotify:track:7Bz8yww6UMbTgTVLG6zbI4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+              href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+              id: 3ICyfoySNDZqtBVmaBT84I
+              name: War
+              type: artist
+              uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+            external_urls:
+              spotify: https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3
+            href: https://api.spotify.com/v1/albums/2k28jFjuu7dR4jgUV6RHI3
+            id: 2k28jFjuu7dR4jgUV6RHI3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b1e19a0e7256cd54766f3aaf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b1e19a0e7256cd54766f3aaf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b1e19a0e7256cd54766f3aaf
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1976-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2k28jFjuu7dR4jgUV6RHI3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+            href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+            id: 3ICyfoySNDZqtBVmaBT84I
+            name: War
+            type: artist
+            uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+          disc_number: 1
+          duration_ms: 190826
+          explicit: false
+          external_ids:
+            isrc: USRHD0610212
+          external_urls:
+            spotify: https://open.spotify.com/track/60x45B3S5LwnaKAypJeV7U
+          href: https://api.spotify.com/v1/tracks/60x45B3S5LwnaKAypJeV7U
+          id: 60x45B3S5LwnaKAypJeV7U
+          is_local: false
+          is_playable: true
+          name: Low Rider
+          track_number: 9
+          type: track
+          uri: spotify:track:60x45B3S5LwnaKAypJeV7U
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3N8mBG9DvFq93X6efNxH0i
+            href: https://api.spotify.com/v1/albums/3N8mBG9DvFq93X6efNxH0i
+            id: 3N8mBG9DvFq93X6efNxH0i
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730b79e7da3d434a44145ae179
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020b79e7da3d434a44145ae179
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510b79e7da3d434a44145ae179
+            is_playable: true
+            name: 70s HITS - 100 Greatest Songs of the 1970s
+            release_date: '2023-11-04'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:3N8mBG9DvFq93X6efNxH0i
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+            href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+            id: 3ICyfoySNDZqtBVmaBT84I
+            name: War
+            type: artist
+            uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+          disc_number: 1
+          duration_ms: 190826
+          explicit: false
+          external_ids:
+            isrc: USRHD0610212
+          external_urls:
+            spotify: https://open.spotify.com/track/4E374eiIlJ3WJNaDzO6Pbu
+          href: https://api.spotify.com/v1/tracks/4E374eiIlJ3WJNaDzO6Pbu
+          id: 4E374eiIlJ3WJNaDzO6Pbu
+          is_local: false
+          is_playable: true
+          name: Low Rider
+          track_number: 65
+          type: track
+          uri: spotify:track:4E374eiIlJ3WJNaDzO6Pbu
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+              href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+              id: 3ICyfoySNDZqtBVmaBT84I
+              name: War
+              type: artist
+              uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+            external_urls:
+              spotify: https://open.spotify.com/album/3eFHSj92hUa4efE4f4I3qY
+            href: https://api.spotify.com/v1/albums/3eFHSj92hUa4efE4f4I3qY
+            id: 3eFHSj92hUa4efE4f4I3qY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735dba63ffe84961fde2c7d1ee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025dba63ffe84961fde2c7d1ee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515dba63ffe84961fde2c7d1ee
+            is_playable: true
+            name: Anthology 1970-1974
+            release_date: '1994-10-18'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:3eFHSj92hUa4efE4f4I3qY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+            href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+            id: 3ICyfoySNDZqtBVmaBT84I
+            name: War
+            type: artist
+            uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+          disc_number: 2
+          duration_ms: 190826
+          explicit: false
+          external_ids:
+            isrc: USRHD0610212
+          external_urls:
+            spotify: https://open.spotify.com/track/2IYDtWfkouiDYi0yThRgdv
+          href: https://api.spotify.com/v1/tracks/2IYDtWfkouiDYi0yThRgdv
+          id: 2IYDtWfkouiDYi0yThRgdv
+          is_local: false
+          is_playable: true
+          name: Low Rider
+          track_number: 2
+          type: track
+          uri: spotify:track:2IYDtWfkouiDYi0yThRgdv
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+              href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+              id: 3ICyfoySNDZqtBVmaBT84I
+              name: War
+              type: artist
+              uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+            external_urls:
+              spotify: https://open.spotify.com/album/2rlshow2loAT7oxxsWsq8b
+            href: https://api.spotify.com/v1/albums/2rlshow2loAT7oxxsWsq8b
+            id: 2rlshow2loAT7oxxsWsq8b
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fd386eaa6e147e8b04d926d6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fd386eaa6e147e8b04d926d6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fd386eaa6e147e8b04d926d6
+            is_playable: true
+            name: The Very Best of War
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:2rlshow2loAT7oxxsWsq8b
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I
+            href: https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I
+            id: 3ICyfoySNDZqtBVmaBT84I
+            name: War
+            type: artist
+            uri: spotify:artist:3ICyfoySNDZqtBVmaBT84I
+          disc_number: 2
+          duration_ms: 190826
+          explicit: false
+          external_ids:
+            isrc: USRHD0610212
+          external_urls:
+            spotify: https://open.spotify.com/track/1c3XhGFr9CDZ7YVIhx1131
+          href: https://api.spotify.com/v1/tracks/1c3XhGFr9CDZ7YVIhx1131
+          id: 1c3XhGFr9CDZ7YVIhx1131
+          is_local: false
+          is_playable: true
+          name: Low Rider
+          track_number: 1
+          type: track
+          uri: spotify:track:1c3XhGFr9CDZ7YVIhx1131
+    isrc: USRHD0610212

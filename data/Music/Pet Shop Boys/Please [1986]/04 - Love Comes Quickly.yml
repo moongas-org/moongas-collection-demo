@@ -122,3 +122,72 @@ mediaFileData:
   year: 1986
   duration: 259.512
   modTime: 2025-06-14 23:36:34.669217+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5Wqjb88IhaY7ruBxTtcXob
+    trackId: 5Wqjb88IhaY7ruBxTtcXob
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAYE2100035&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh
+              href: https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh
+              id: 2ycnb8Er79LoH2AsR5ldjh
+              name: Pet Shop Boys
+              type: artist
+              uri: spotify:artist:2ycnb8Er79LoH2AsR5ldjh
+            external_urls:
+              spotify: https://open.spotify.com/album/4FCjoPQe3bP2RmBE1SRCJj
+            href: https://api.spotify.com/v1/albums/4FCjoPQe3bP2RmBE1SRCJj
+            id: 4FCjoPQe3bP2RmBE1SRCJj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b0d73160b4211f50d28ef349
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b0d73160b4211f50d28ef349
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b0d73160b4211f50d28ef349
+            is_playable: true
+            name: SMASH – The Singles 1985 – 2020 (2023 Remaster)
+            release_date: '2023-06-16'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:4FCjoPQe3bP2RmBE1SRCJj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh
+            href: https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh
+            id: 2ycnb8Er79LoH2AsR5ldjh
+            name: Pet Shop Boys
+            type: artist
+            uri: spotify:artist:2ycnb8Er79LoH2AsR5ldjh
+          disc_number: 1
+          duration_ms: 264200
+          explicit: false
+          external_ids:
+            isrc: GBAYE2100035
+          external_urls:
+            spotify: https://open.spotify.com/track/5Wqjb88IhaY7ruBxTtcXob
+          href: https://api.spotify.com/v1/tracks/5Wqjb88IhaY7ruBxTtcXob
+          id: 5Wqjb88IhaY7ruBxTtcXob
+          is_local: false
+          is_playable: true
+          name: Love comes quickly - 2023 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:5Wqjb88IhaY7ruBxTtcXob
+    isrc: GBAYE2100035

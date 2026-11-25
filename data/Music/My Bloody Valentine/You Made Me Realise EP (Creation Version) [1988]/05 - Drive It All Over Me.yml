@@ -37,3 +37,126 @@ mediaFileData:
   year: 1988
   duration: 186.93224489795918
   modTime: 2024-01-28 18:38:34.558793+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6ruc46esqrjq8dA1PFiSjb
+    trackId: 6ruc46esqrjq8dA1PFiSjb
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBARL0800252&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+              href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+              id: 3G3Gdm0ZRAOxLrbyjfhii5
+              name: my bloody valentine
+              type: artist
+              uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+            external_urls:
+              spotify: https://open.spotify.com/album/2koh1DylbwkKhvxGMpA4HJ
+            href: https://api.spotify.com/v1/albums/2koh1DylbwkKhvxGMpA4HJ
+            id: 2koh1DylbwkKhvxGMpA4HJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737a9e1c1a36e241f3e1db48ee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027a9e1c1a36e241f3e1db48ee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517a9e1c1a36e241f3e1db48ee
+            is_playable: true
+            name: you made me realise
+            release_date: '1988-08-08'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:2koh1DylbwkKhvxGMpA4HJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+            href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+            id: 3G3Gdm0ZRAOxLrbyjfhii5
+            name: my bloody valentine
+            type: artist
+            uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+          disc_number: 1
+          duration_ms: 186853
+          explicit: false
+          external_ids:
+            isrc: GBARL0800252
+          external_urls:
+            spotify: https://open.spotify.com/track/6ruc46esqrjq8dA1PFiSjb
+          href: https://api.spotify.com/v1/tracks/6ruc46esqrjq8dA1PFiSjb
+          id: 6ruc46esqrjq8dA1PFiSjb
+          is_local: false
+          is_playable: true
+          name: drive it all over me
+          track_number: 5
+          type: track
+          uri: spotify:track:6ruc46esqrjq8dA1PFiSjb
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+              href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+              id: 3G3Gdm0ZRAOxLrbyjfhii5
+              name: my bloody valentine
+              type: artist
+              uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+            external_urls:
+              spotify: https://open.spotify.com/album/3OKQrIvUbcJN9kcFLmycsk
+            href: https://api.spotify.com/v1/albums/3OKQrIvUbcJN9kcFLmycsk
+            id: 3OKQrIvUbcJN9kcFLmycsk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ccb61171c5b47b3a63a89321
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ccb61171c5b47b3a63a89321
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ccb61171c5b47b3a63a89321
+            is_playable: true
+            name: ep’s 1988-1991 and rare tracks
+            release_date: '2012-05-04'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:3OKQrIvUbcJN9kcFLmycsk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5
+            href: https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5
+            id: 3G3Gdm0ZRAOxLrbyjfhii5
+            name: my bloody valentine
+            type: artist
+            uri: spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5
+          disc_number: 1
+          duration_ms: 186853
+          explicit: false
+          external_ids:
+            isrc: GBARL0800252
+          external_urls:
+            spotify: https://open.spotify.com/track/5KtVhHftSafzQh5PHQoKvS
+          href: https://api.spotify.com/v1/tracks/5KtVhHftSafzQh5PHQoKvS
+          id: 5KtVhHftSafzQh5PHQoKvS
+          is_local: false
+          is_playable: true
+          name: drive it all over me
+          track_number: 5
+          type: track
+          uri: spotify:track:5KtVhHftSafzQh5PHQoKvS
+    isrc: GBARL0800252

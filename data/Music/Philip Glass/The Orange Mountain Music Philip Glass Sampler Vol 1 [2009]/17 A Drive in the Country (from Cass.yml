@@ -41,3 +41,72 @@ mediaFileData:
   year: 2009
   duration: 96.14666666666666
   modTime: 2022-01-29 18:54:33.360000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/573SJ4tNF4Y9MWNp9I55Pf
+    trackId: 573SJ4tNF4Y9MWNp9I55Pf
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS65R0703805&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC
+              href: https://api.spotify.com/v1/artists/69lxxQvsfAIoQbB20bEPFC
+              id: 69lxxQvsfAIoQbB20bEPFC
+              name: Philip Glass
+              type: artist
+              uri: spotify:artist:69lxxQvsfAIoQbB20bEPFC
+            external_urls:
+              spotify: https://open.spotify.com/album/3GUzBG6UHtyeD2scTOGGaV
+            href: https://api.spotify.com/v1/albums/3GUzBG6UHtyeD2scTOGGaV
+            id: 3GUzBG6UHtyeD2scTOGGaV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733872cc65f93cbecd71d4cb95
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023872cc65f93cbecd71d4cb95
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513872cc65f93cbecd71d4cb95
+            is_playable: true
+            name: Cassandra's Dream
+            release_date: '2007-12-25'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3GUzBG6UHtyeD2scTOGGaV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC
+            href: https://api.spotify.com/v1/artists/69lxxQvsfAIoQbB20bEPFC
+            id: 69lxxQvsfAIoQbB20bEPFC
+            name: Philip Glass
+            type: artist
+            uri: spotify:artist:69lxxQvsfAIoQbB20bEPFC
+          disc_number: 1
+          duration_ms: 98360
+          explicit: false
+          external_ids:
+            isrc: US65R0703805
+          external_urls:
+            spotify: https://open.spotify.com/track/573SJ4tNF4Y9MWNp9I55Pf
+          href: https://api.spotify.com/v1/tracks/573SJ4tNF4Y9MWNp9I55Pf
+          id: 573SJ4tNF4Y9MWNp9I55Pf
+          is_local: false
+          is_playable: true
+          name: A Drive in the Country
+          track_number: 5
+          type: track
+          uri: spotify:track:573SJ4tNF4Y9MWNp9I55Pf
+    isrc: US65R0703805

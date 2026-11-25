@@ -52,3 +52,288 @@ mediaFileData:
   year: 1982
   duration: 216.048
   modTime: 2024-04-01 23:20:59.319255+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4
+    trackId: 2xYQTU2bbg6WVAmpY1eae4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM18100410&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+              href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+              id: 5W5bDNCqJ1jbCgTxDD0Cb3
+              name: Willie Nelson
+              type: artist
+              uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+            external_urls:
+              spotify: https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb
+            href: https://api.spotify.com/v1/albums/5lSPP40Df9t2nkusLZtXTb
+            id: 5lSPP40Df9t2nkusLZtXTb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e786801505efc5bb2e97ed04
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e786801505efc5bb2e97ed04
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e786801505efc5bb2e97ed04
+            is_playable: true
+            name: Always On My Mind
+            release_date: '1982-02-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5lSPP40Df9t2nkusLZtXTb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+            href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+            id: 5W5bDNCqJ1jbCgTxDD0Cb3
+            name: Willie Nelson
+            type: artist
+            uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+          disc_number: 1
+          duration_ms: 213359
+          explicit: false
+          external_ids:
+            isrc: USSM18100410
+          external_urls:
+            spotify: https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4
+          href: https://api.spotify.com/v1/tracks/2xYQTU2bbg6WVAmpY1eae4
+          id: 2xYQTU2bbg6WVAmpY1eae4
+          is_local: false
+          is_playable: true
+          name: Always On My Mind
+          track_number: 2
+          type: track
+          uri: spotify:track:2xYQTU2bbg6WVAmpY1eae4
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0Kqw8feGAz7zQ7cELaIeBs
+            href: https://api.spotify.com/v1/albums/0Kqw8feGAz7zQ7cELaIeBs
+            id: 0Kqw8feGAz7zQ7cELaIeBs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c0b1a01c2560c4216d486af1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c0b1a01c2560c4216d486af1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c0b1a01c2560c4216d486af1
+            is_playable: true
+            name: Love Songs
+            release_date: '2014-02-10'
+            release_date_precision: day
+            total_tracks: 75
+            type: album
+            uri: spotify:album:0Kqw8feGAz7zQ7cELaIeBs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+            href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+            id: 5W5bDNCqJ1jbCgTxDD0Cb3
+            name: Willie Nelson
+            type: artist
+            uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+          disc_number: 1
+          duration_ms: 213000
+          explicit: false
+          external_ids:
+            isrc: USSM18100410
+          external_urls:
+            spotify: https://open.spotify.com/track/696srZCm15FmgwjuV8HaFP
+          href: https://api.spotify.com/v1/tracks/696srZCm15FmgwjuV8HaFP
+          id: 696srZCm15FmgwjuV8HaFP
+          is_local: false
+          is_playable: true
+          name: Always On My Mind
+          track_number: 74
+          type: track
+          uri: spotify:track:696srZCm15FmgwjuV8HaFP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+              href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+              id: 5W5bDNCqJ1jbCgTxDD0Cb3
+              name: Willie Nelson
+              type: artist
+              uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+            external_urls:
+              spotify: https://open.spotify.com/album/0QRtiBIG7uZGT04MgvSjtq
+            href: https://api.spotify.com/v1/albums/0QRtiBIG7uZGT04MgvSjtq
+            id: 0QRtiBIG7uZGT04MgvSjtq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27330d32f3d264e74c1b3622212
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0230d32f3d264e74c1b3622212
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485130d32f3d264e74c1b3622212
+            is_playable: true
+            name: Greatest Hits
+            release_date: '2023-11-03'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:0QRtiBIG7uZGT04MgvSjtq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+            href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+            id: 5W5bDNCqJ1jbCgTxDD0Cb3
+            name: Willie Nelson
+            type: artist
+            uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+          disc_number: 1
+          duration_ms: 212167
+          explicit: false
+          external_ids:
+            isrc: USSM18100410
+          external_urls:
+            spotify: https://open.spotify.com/track/72dqv1HgrpnV3Id1KRiRVX
+          href: https://api.spotify.com/v1/tracks/72dqv1HgrpnV3Id1KRiRVX
+          id: 72dqv1HgrpnV3Id1KRiRVX
+          is_local: false
+          is_playable: true
+          name: Always On My Mind
+          track_number: 5
+          type: track
+          uri: spotify:track:72dqv1HgrpnV3Id1KRiRVX
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+              href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+              id: 5W5bDNCqJ1jbCgTxDD0Cb3
+              name: Willie Nelson
+              type: artist
+              uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+            external_urls:
+              spotify: https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv
+            href: https://api.spotify.com/v1/albums/4Jh0a4YXdXmIMaB0oIWyqv
+            id: 4Jh0a4YXdXmIMaB0oIWyqv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f7671858c49ec1dfc22a4ab7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f7671858c49ec1dfc22a4ab7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f7671858c49ec1dfc22a4ab7
+            is_playable: true
+            name: One Hell Of A Ride
+            release_date: '2008-04-01'
+            release_date_precision: day
+            total_tracks: 100
+            type: album
+            uri: spotify:album:4Jh0a4YXdXmIMaB0oIWyqv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+            href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+            id: 5W5bDNCqJ1jbCgTxDD0Cb3
+            name: Willie Nelson
+            type: artist
+            uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+          disc_number: 3
+          duration_ms: 212720
+          explicit: false
+          external_ids:
+            isrc: USSM18100410
+          external_urls:
+            spotify: https://open.spotify.com/track/3mmn1eswXMsJec8POXQb7p
+          href: https://api.spotify.com/v1/tracks/3mmn1eswXMsJec8POXQb7p
+          id: 3mmn1eswXMsJec8POXQb7p
+          is_local: false
+          is_playable: true
+          name: Always On My Mind
+          track_number: 14
+          type: track
+          uri: spotify:track:3mmn1eswXMsJec8POXQb7p
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+              href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+              id: 5W5bDNCqJ1jbCgTxDD0Cb3
+              name: Willie Nelson
+              type: artist
+              uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+            external_urls:
+              spotify: https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU
+            href: https://api.spotify.com/v1/albums/46xgry5j79IBHzX73dkgYU
+            id: 46xgry5j79IBHzX73dkgYU
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cd06c30fffa0c176b7fe0065
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cd06c30fffa0c176b7fe0065
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cd06c30fffa0c176b7fe0065
+            is_playable: true
+            name: The Essential Willie Nelson
+            release_date: '2015-01-01'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:46xgry5j79IBHzX73dkgYU
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+            href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+            id: 5W5bDNCqJ1jbCgTxDD0Cb3
+            name: Willie Nelson
+            type: artist
+            uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+          disc_number: 2
+          duration_ms: 212293
+          explicit: false
+          external_ids:
+            isrc: USSM18100410
+          external_urls:
+            spotify: https://open.spotify.com/track/62FIGY4qftzOuX3KESWa1o
+          href: https://api.spotify.com/v1/tracks/62FIGY4qftzOuX3KESWa1o
+          id: 62FIGY4qftzOuX3KESWa1o
+          is_local: false
+          is_playable: true
+          name: Always On My Mind
+          track_number: 2
+          type: track
+          uri: spotify:track:62FIGY4qftzOuX3KESWa1o
+    isrc: USSM18100410

@@ -62,3 +62,72 @@ mediaFileData:
   year: 1995
   duration: 439.68
   modTime: 2025-02-01 00:39:42.015212+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4mShN3gUhKD6JakFCL3aKs
+    trackId: 4mShN3gUhKD6JakFCL3aKs
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ATCABF1242116&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+              href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+              id: 5UqTO8smerMvxHYA5xsXb6
+              name: Sonic Youth
+              type: artist
+              uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+            external_urls:
+              spotify: https://open.spotify.com/album/5Bf5U1Zw9gsJh6bWaM2VY2
+            href: https://api.spotify.com/v1/albums/5Bf5U1Zw9gsJh6bWaM2VY2
+            id: 5Bf5U1Zw9gsJh6bWaM2VY2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273272b5e233006c97ac493334c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02272b5e233006c97ac493334c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851272b5e233006c97ac493334c
+            is_playable: true
+            name: Evol
+            release_date: '1986-03-04'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5Bf5U1Zw9gsJh6bWaM2VY2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6
+            href: https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6
+            id: 5UqTO8smerMvxHYA5xsXb6
+            name: Sonic Youth
+            type: artist
+            uri: spotify:artist:5UqTO8smerMvxHYA5xsXb6
+          disc_number: 1
+          duration_ms: 439640
+          explicit: false
+          external_ids:
+            isrc: TCABF1242116
+          external_urls:
+            spotify: https://open.spotify.com/track/4mShN3gUhKD6JakFCL3aKs
+          href: https://api.spotify.com/v1/tracks/4mShN3gUhKD6JakFCL3aKs
+          id: 4mShN3gUhKD6JakFCL3aKs
+          is_local: false
+          is_playable: true
+          name: Madonna, Sean, and Me
+          track_number: 9
+          type: track
+          uri: spotify:track:4mShN3gUhKD6JakFCL3aKs
+    isrc: TCABF1242116

@@ -59,3 +59,288 @@ mediaFileData:
   year: 1987
   duration: 272.927325
   modTime: 2022-01-29 18:44:28.900000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/67LAA7kS8YpqjGSpWbefnV
+    trackId: 67LAA7kS8YpqjGSpWbefnV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMR18700001&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMR18700001&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/5mf2xdvPd0I88j9jxUWMNM
+            href: https://api.spotify.com/v1/albums/5mf2xdvPd0I88j9jxUWMNM
+            id: 5mf2xdvPd0I88j9jxUWMNM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27345ad5dd576a3ea29b4d83b78
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0245ad5dd576a3ea29b4d83b78
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485145ad5dd576a3ea29b4d83b78
+            is_playable: true
+            name: Chronicles
+            release_date: '1990-01-01'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:5mf2xdvPd0I88j9jxUWMNM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 2
+          duration_ms: 272640
+          explicit: false
+          external_ids:
+            isrc: USMR18700001
+          external_urls:
+            spotify: https://open.spotify.com/track/67LAA7kS8YpqjGSpWbefnV
+          href: https://api.spotify.com/v1/tracks/67LAA7kS8YpqjGSpWbefnV
+          id: 67LAA7kS8YpqjGSpWbefnV
+          is_local: false
+          is_playable: true
+          name: Force Ten
+          track_number: 11
+          type: track
+          uri: spotify:track:67LAA7kS8YpqjGSpWbefnV
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/6CBBXvZQl7CggK7FpLhC9w
+            href: https://api.spotify.com/v1/albums/6CBBXvZQl7CggK7FpLhC9w
+            id: 6CBBXvZQl7CggK7FpLhC9w
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27355f0806e886bb0186f6e89a6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0255f0806e886bb0186f6e89a6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485155f0806e886bb0186f6e89a6
+            is_playable: true
+            name: Gold
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:6CBBXvZQl7CggK7FpLhC9w
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 2
+          duration_ms: 271626
+          explicit: false
+          external_ids:
+            isrc: USMR18700001
+          external_urls:
+            spotify: https://open.spotify.com/track/1kTcJFmKe8uLDkJEjXyuHl
+          href: https://api.spotify.com/v1/tracks/1kTcJFmKe8uLDkJEjXyuHl
+          id: 1kTcJFmKe8uLDkJEjXyuHl
+          is_local: false
+          is_playable: true
+          name: Force Ten
+          track_number: 15
+          type: track
+          uri: spotify:track:1kTcJFmKe8uLDkJEjXyuHl
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/4NR0m0PxB9b3YEIKmnh2y9
+            href: https://api.spotify.com/v1/albums/4NR0m0PxB9b3YEIKmnh2y9
+            id: 4NR0m0PxB9b3YEIKmnh2y9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b61bef24bc2ad1ffa035f2d8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b61bef24bc2ad1ffa035f2d8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b61bef24bc2ad1ffa035f2d8
+            is_playable: true
+            name: Retrospective II (1981-1987)
+            release_date: '1997-01-01'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4NR0m0PxB9b3YEIKmnh2y9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 271400
+          explicit: false
+          external_ids:
+            isrc: USMR18700001
+          external_urls:
+            spotify: https://open.spotify.com/track/6X5eH8b3LuiFial0sozWBA
+          href: https://api.spotify.com/v1/tracks/6X5eH8b3LuiFial0sozWBA
+          id: 6X5eH8b3LuiFial0sozWBA
+          is_local: false
+          is_playable: true
+          name: Force Ten
+          track_number: 15
+          type: track
+          uri: spotify:track:6X5eH8b3LuiFial0sozWBA
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/3XzR93n3LGZy5mfwhJif8Q
+            href: https://api.spotify.com/v1/albums/3XzR93n3LGZy5mfwhJif8Q
+            id: 3XzR93n3LGZy5mfwhJif8Q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738f117df427b4f397c79c6628
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028f117df427b4f397c79c6628
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518f117df427b4f397c79c6628
+            is_playable: true
+            name: 'The Spirit Of Radio: Greatest Hits (1974-1987)'
+            release_date: '2003'
+            release_date_precision: year
+            total_tracks: 16
+            type: album
+            uri: spotify:album:3XzR93n3LGZy5mfwhJif8Q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 271506
+          explicit: false
+          external_ids:
+            isrc: USMR18700001
+          external_urls:
+            spotify: https://open.spotify.com/track/49cGQVj8WC6DelCSuAI7E2
+          href: https://api.spotify.com/v1/tracks/49cGQVj8WC6DelCSuAI7E2
+          id: 49cGQVj8WC6DelCSuAI7E2
+          is_local: false
+          is_playable: true
+          name: Force Ten
+          track_number: 15
+          type: track
+          uri: spotify:track:49cGQVj8WC6DelCSuAI7E2
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/3OSQvwW2BElGZfjhsHJEru
+            href: https://api.spotify.com/v1/albums/3OSQvwW2BElGZfjhsHJEru
+            id: 3OSQvwW2BElGZfjhsHJEru
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327b84baa6e076fbf6ac74ba2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227b84baa6e076fbf6ac74ba2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127b84baa6e076fbf6ac74ba2
+            is_playable: true
+            name: Hold Your Fire
+            release_date: '1987-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3OSQvwW2BElGZfjhsHJEru
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 271400
+          explicit: false
+          external_ids:
+            isrc: USMR18700001
+          external_urls:
+            spotify: https://open.spotify.com/track/2B36scXmm2xG35ILOJMmxf
+          href: https://api.spotify.com/v1/tracks/2B36scXmm2xG35ILOJMmxf
+          id: 2B36scXmm2xG35ILOJMmxf
+          is_local: false
+          is_playable: true
+          name: Force Ten
+          track_number: 1
+          type: track
+          uri: spotify:track:2B36scXmm2xG35ILOJMmxf
+    isrc: USMR18700001

@@ -48,3 +48,72 @@ mediaFileData:
   year: 2005
   duration: 102.85333333333334
   modTime: 2024-03-15 19:40:03.427019+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6FJM9yiIGJC0ivk5NW83hq
+    trackId: 6FJM9yiIGJC0ivk5NW83hq
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPB0500183&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE
+              href: https://api.spotify.com/v1/artists/2Ah9OuOj7B57gPD1cbwiaE
+              id: 2Ah9OuOj7B57gPD1cbwiaE
+              name: Municipal Waste
+              type: artist
+              uri: spotify:artist:2Ah9OuOj7B57gPD1cbwiaE
+            external_urls:
+              spotify: https://open.spotify.com/album/4JG97s3Svs3WsWGVcJGYKi
+            href: https://api.spotify.com/v1/albums/4JG97s3Svs3WsWGVcJGYKi
+            id: 4JG97s3Svs3WsWGVcJGYKi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a356c9052377084c4148c337
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a356c9052377084c4148c337
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a356c9052377084c4148c337
+            is_playable: true
+            name: Hazardous Mutation
+            release_date: '2005'
+            release_date_precision: year
+            total_tracks: 15
+            type: album
+            uri: spotify:album:4JG97s3Svs3WsWGVcJGYKi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE
+            href: https://api.spotify.com/v1/artists/2Ah9OuOj7B57gPD1cbwiaE
+            id: 2Ah9OuOj7B57gPD1cbwiaE
+            name: Municipal Waste
+            type: artist
+            uri: spotify:artist:2Ah9OuOj7B57gPD1cbwiaE
+          disc_number: 1
+          duration_ms: 102853
+          explicit: false
+          external_ids:
+            isrc: GBBPB0500183
+          external_urls:
+            spotify: https://open.spotify.com/track/6FJM9yiIGJC0ivk5NW83hq
+          href: https://api.spotify.com/v1/tracks/6FJM9yiIGJC0ivk5NW83hq
+          id: 6FJM9yiIGJC0ivk5NW83hq
+          is_local: false
+          is_playable: true
+          name: Terror Shark
+          track_number: 13
+          type: track
+          uri: spotify:track:6FJM9yiIGJC0ivk5NW83hq
+    isrc: GBBPB0500183

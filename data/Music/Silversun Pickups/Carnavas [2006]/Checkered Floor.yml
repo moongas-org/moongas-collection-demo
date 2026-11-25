@@ -34,3 +34,72 @@ mediaFileData:
   year: 2006
   duration: 291.3175
   modTime: 2023-04-28 11:56:03.370000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1n5qyqXkxmXHaViAi7Ubtj
+    trackId: 1n5qyqXkxmXHaViAi7Ubtj
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS3R20600203&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h
+              href: https://api.spotify.com/v1/artists/6qyi8X6MdP1lu6B1K6yh3h
+              id: 6qyi8X6MdP1lu6B1K6yh3h
+              name: Silversun Pickups
+              type: artist
+              uri: spotify:artist:6qyi8X6MdP1lu6B1K6yh3h
+            external_urls:
+              spotify: https://open.spotify.com/album/7EGRR4WHgazThugwrMg2Y9
+            href: https://api.spotify.com/v1/albums/7EGRR4WHgazThugwrMg2Y9
+            id: 7EGRR4WHgazThugwrMg2Y9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273061f4b0b3db2d0569fa9d81a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02061f4b0b3db2d0569fa9d81a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851061f4b0b3db2d0569fa9d81a
+            is_playable: true
+            name: Carnavas
+            release_date: '2006-07-25'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:7EGRR4WHgazThugwrMg2Y9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h
+            href: https://api.spotify.com/v1/artists/6qyi8X6MdP1lu6B1K6yh3h
+            id: 6qyi8X6MdP1lu6B1K6yh3h
+            name: Silversun Pickups
+            type: artist
+            uri: spotify:artist:6qyi8X6MdP1lu6B1K6yh3h
+          disc_number: 1
+          duration_ms: 291266
+          explicit: false
+          external_ids:
+            isrc: US3R20600203
+          external_urls:
+            spotify: https://open.spotify.com/track/1n5qyqXkxmXHaViAi7Ubtj
+          href: https://api.spotify.com/v1/tracks/1n5qyqXkxmXHaViAi7Ubtj
+          id: 1n5qyqXkxmXHaViAi7Ubtj
+          is_local: false
+          is_playable: true
+          name: Checkered Floor
+          track_number: 3
+          type: track
+          uri: spotify:track:1n5qyqXkxmXHaViAi7Ubtj
+    isrc: US3R20600203

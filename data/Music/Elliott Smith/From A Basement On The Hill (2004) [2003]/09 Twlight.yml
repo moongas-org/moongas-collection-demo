@@ -70,3 +70,72 @@ mediaFileData:
   year: 2003
   duration: 269.42695833333335
   modTime: 2025-01-11 01:08:45.528337+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Oh9mWNdoQwD5uJy0L30aA
+    trackId: 4Oh9mWNdoQwD5uJy0L30aA
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSKRS1054110&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+              href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+              id: 2ApaG60P4r0yhBoDCGD8YG
+              name: Elliott Smith
+              type: artist
+              uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+            external_urls:
+              spotify: https://open.spotify.com/album/5d51kjLqwEZzH70H5NPXbI
+            href: https://api.spotify.com/v1/albums/5d51kjLqwEZzH70H5NPXbI
+            id: 5d51kjLqwEZzH70H5NPXbI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732f511d25140af53fbdef7042
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022f511d25140af53fbdef7042
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512f511d25140af53fbdef7042
+            is_playable: true
+            name: An Introduction to Elliott Smith
+            release_date: '2010-11-02'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:5d51kjLqwEZzH70H5NPXbI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 265626
+          explicit: false
+          external_ids:
+            isrc: USKRS1054110
+          external_urls:
+            spotify: https://open.spotify.com/track/4Oh9mWNdoQwD5uJy0L30aA
+          href: https://api.spotify.com/v1/tracks/4Oh9mWNdoQwD5uJy0L30aA
+          id: 4Oh9mWNdoQwD5uJy0L30aA
+          is_local: false
+          is_playable: true
+          name: Twilight
+          track_number: 10
+          type: track
+          uri: spotify:track:4Oh9mWNdoQwD5uJy0L30aA
+    isrc: USKRS1054110

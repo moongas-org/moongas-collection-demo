@@ -41,3 +41,180 @@ mediaFileData:
   year: 2001
   duration: 133.45958333333334
   modTime: 2024-09-19 23:54:40.295676+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0boXJ9srSz8k62oWedG8fK
+    trackId: 0boXJ9srSz8k62oWedG8fK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS6Z50980401&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/30BLhkeaIgQ9EdvxnocCB6
+            href: https://api.spotify.com/v1/albums/30BLhkeaIgQ9EdvxnocCB6
+            id: 30BLhkeaIgQ9EdvxnocCB6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f70395784775be1d949a1808
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f70395784775be1d949a1808
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f70395784775be1d949a1808
+            is_playable: true
+            name: Sad Sappy Sucker
+            release_date: '2001-04-24'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:30BLhkeaIgQ9EdvxnocCB6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 133333
+          explicit: false
+          external_ids:
+            isrc: US6Z50980401
+          external_urls:
+            spotify: https://open.spotify.com/track/0boXJ9srSz8k62oWedG8fK
+          href: https://api.spotify.com/v1/tracks/0boXJ9srSz8k62oWedG8fK
+          id: 0boXJ9srSz8k62oWedG8fK
+          is_local: false
+          is_playable: true
+          name: Birds Vs Worms
+          track_number: 1
+          type: track
+          uri: spotify:track:0boXJ9srSz8k62oWedG8fK
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/13t6lLmtWF3F0rdCMr8xiV
+            href: https://api.spotify.com/v1/albums/13t6lLmtWF3F0rdCMr8xiV
+            id: 13t6lLmtWF3F0rdCMr8xiV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f89720db1dc6688f3b11ed36
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f89720db1dc6688f3b11ed36
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f89720db1dc6688f3b11ed36
+            is_playable: true
+            name: Sad Sappy Sucker
+            release_date: '2001-04-24'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:13t6lLmtWF3F0rdCMr8xiV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 133333
+          explicit: false
+          external_ids:
+            isrc: US6Z50980401
+          external_urls:
+            spotify: https://open.spotify.com/track/2XWj0BFLP3FRnOjeDJFmJC
+          href: https://api.spotify.com/v1/tracks/2XWj0BFLP3FRnOjeDJFmJC
+          id: 2XWj0BFLP3FRnOjeDJFmJC
+          is_local: false
+          is_playable: true
+          name: Birds Vs Worms
+          track_number: 1
+          type: track
+          uri: spotify:track:2XWj0BFLP3FRnOjeDJFmJC
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6dY95h6bHwDWrRllU2lGQC
+            href: https://api.spotify.com/v1/albums/6dY95h6bHwDWrRllU2lGQC
+            id: 6dY95h6bHwDWrRllU2lGQC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735e16de74332f1a0a223d9a4d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025e16de74332f1a0a223d9a4d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515e16de74332f1a0a223d9a4d
+            is_playable: true
+            name: Birdwatching
+            release_date: '2026-06-05'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:6dY95h6bHwDWrRllU2lGQC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 133333
+          explicit: false
+          external_ids:
+            isrc: US6Z50980401
+          external_urls:
+            spotify: https://open.spotify.com/track/7gQC7NrjaskvOjuGelnMKE
+          href: https://api.spotify.com/v1/tracks/7gQC7NrjaskvOjuGelnMKE
+          id: 7gQC7NrjaskvOjuGelnMKE
+          is_local: false
+          is_playable: true
+          name: Birds Vs Worms
+          track_number: 15
+          type: track
+          uri: spotify:track:7gQC7NrjaskvOjuGelnMKE
+    isrc: US6Z50980401

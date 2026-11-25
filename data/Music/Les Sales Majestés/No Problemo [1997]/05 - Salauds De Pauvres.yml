@@ -34,3 +34,72 @@ mediaFileData:
   year: 1997
   duration: 117.456
   modTime: 2024-10-27 19:00:31.356263+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5tsqxHvH175VJiAIV7LX9b
+    trackId: 5tsqxHvH175VJiAIV7LX9b
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFR0U91100730&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1qMwG3Gg5RJkSMXS8dFWYw
+              href: https://api.spotify.com/v1/artists/1qMwG3Gg5RJkSMXS8dFWYw
+              id: 1qMwG3Gg5RJkSMXS8dFWYw
+              name: Les Sales Majestés
+              type: artist
+              uri: spotify:artist:1qMwG3Gg5RJkSMXS8dFWYw
+            external_urls:
+              spotify: https://open.spotify.com/album/41nn0ZsTxWbbL8uUo9KJzx
+            href: https://api.spotify.com/v1/albums/41nn0ZsTxWbbL8uUo9KJzx
+            id: 41nn0ZsTxWbbL8uUo9KJzx
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273577cc8600062da2d01deaac6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02577cc8600062da2d01deaac6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851577cc8600062da2d01deaac6
+            is_playable: true
+            name: No problemo
+            release_date: '1997-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:41nn0ZsTxWbbL8uUo9KJzx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1qMwG3Gg5RJkSMXS8dFWYw
+            href: https://api.spotify.com/v1/artists/1qMwG3Gg5RJkSMXS8dFWYw
+            id: 1qMwG3Gg5RJkSMXS8dFWYw
+            name: Les Sales Majestés
+            type: artist
+            uri: spotify:artist:1qMwG3Gg5RJkSMXS8dFWYw
+          disc_number: 1
+          duration_ms: 117413
+          explicit: false
+          external_ids:
+            isrc: FR0U91100730
+          external_urls:
+            spotify: https://open.spotify.com/track/5tsqxHvH175VJiAIV7LX9b
+          href: https://api.spotify.com/v1/tracks/5tsqxHvH175VJiAIV7LX9b
+          id: 5tsqxHvH175VJiAIV7LX9b
+          is_local: false
+          is_playable: true
+          name: Salauds de pauvres
+          track_number: 5
+          type: track
+          uri: spotify:track:5tsqxHvH175VJiAIV7LX9b
+    isrc: FR0U91100730

@@ -66,3 +66,180 @@ mediaFileData:
   year: 1999
   duration: 222.49360544217686
   modTime: 2023-04-23 18:12:30.070000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/19QtusRKYsJYhPSxelDzbN
+    trackId: 19QtusRKYsJYhPSxelDzbN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20902989&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb
+              href: https://api.spotify.com/v1/artists/4uN3DsfENc7dp0OLO0FEIb
+              id: 4uN3DsfENc7dp0OLO0FEIb
+              name: Sugar Ray
+              type: artist
+              uri: spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+            external_urls:
+              spotify: https://open.spotify.com/album/717p2dG02D55NmbZY61135
+            href: https://api.spotify.com/v1/albums/717p2dG02D55NmbZY61135
+            id: 717p2dG02D55NmbZY61135
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27386f4f5a719c505a2d4afc637
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0286f4f5a719c505a2d4afc637
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485186f4f5a719c505a2d4afc637
+            is_playable: true
+            name: The Sugar Ray Collection
+            release_date: '2013-07-17'
+            release_date_precision: day
+            total_tracks: 63
+            type: album
+            uri: spotify:album:717p2dG02D55NmbZY61135
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb
+            href: https://api.spotify.com/v1/artists/4uN3DsfENc7dp0OLO0FEIb
+            id: 4uN3DsfENc7dp0OLO0FEIb
+            name: Sugar Ray
+            type: artist
+            uri: spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+          disc_number: 3
+          duration_ms: 222266
+          explicit: false
+          external_ids:
+            isrc: USAT20902989
+          external_urls:
+            spotify: https://open.spotify.com/track/19QtusRKYsJYhPSxelDzbN
+          href: https://api.spotify.com/v1/tracks/19QtusRKYsJYhPSxelDzbN
+          id: 19QtusRKYsJYhPSxelDzbN
+          is_local: false
+          is_playable: true
+          name: Abracadabra
+          track_number: 11
+          type: track
+          uri: spotify:track:19QtusRKYsJYhPSxelDzbN
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb
+              href: https://api.spotify.com/v1/artists/4uN3DsfENc7dp0OLO0FEIb
+              id: 4uN3DsfENc7dp0OLO0FEIb
+              name: Sugar Ray
+              type: artist
+              uri: spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+            external_urls:
+              spotify: https://open.spotify.com/album/25zfRx0ujSg2B1PN7yzYfL
+            href: https://api.spotify.com/v1/albums/25zfRx0ujSg2B1PN7yzYfL
+            id: 25zfRx0ujSg2B1PN7yzYfL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737c986abb5e7f0a309e57489c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027c986abb5e7f0a309e57489c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517c986abb5e7f0a309e57489c
+            is_playable: true
+            name: 14:59 25th Anniversary EP
+            release_date: '2024-01-12'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:25zfRx0ujSg2B1PN7yzYfL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb
+            href: https://api.spotify.com/v1/artists/4uN3DsfENc7dp0OLO0FEIb
+            id: 4uN3DsfENc7dp0OLO0FEIb
+            name: Sugar Ray
+            type: artist
+            uri: spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+          disc_number: 1
+          duration_ms: 222266
+          explicit: false
+          external_ids:
+            isrc: USAT20902989
+          external_urls:
+            spotify: https://open.spotify.com/track/6oTdNFpIoQ6yXlBo46KzIs
+          href: https://api.spotify.com/v1/tracks/6oTdNFpIoQ6yXlBo46KzIs
+          id: 6oTdNFpIoQ6yXlBo46KzIs
+          is_local: false
+          is_playable: true
+          name: Abracadabra
+          track_number: 4
+          type: track
+          uri: spotify:track:6oTdNFpIoQ6yXlBo46KzIs
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb
+              href: https://api.spotify.com/v1/artists/4uN3DsfENc7dp0OLO0FEIb
+              id: 4uN3DsfENc7dp0OLO0FEIb
+              name: Sugar Ray
+              type: artist
+              uri: spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+            external_urls:
+              spotify: https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi
+            href: https://api.spotify.com/v1/albums/43NNW7iDuAE8pIouzvwWWi
+            id: 43NNW7iDuAE8pIouzvwWWi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bd4f48fb99fe34b4ae590752
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bd4f48fb99fe34b4ae590752
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bd4f48fb99fe34b4ae590752
+            is_playable: true
+            name: 14:59
+            release_date: '1999-01-12'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:43NNW7iDuAE8pIouzvwWWi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb
+            href: https://api.spotify.com/v1/artists/4uN3DsfENc7dp0OLO0FEIb
+            id: 4uN3DsfENc7dp0OLO0FEIb
+            name: Sugar Ray
+            type: artist
+            uri: spotify:artist:4uN3DsfENc7dp0OLO0FEIb
+          disc_number: 1
+          duration_ms: 222266
+          explicit: false
+          external_ids:
+            isrc: USAT20902989
+          external_urls:
+            spotify: https://open.spotify.com/track/3iZxoFI0XqN0ytjFuWkOcz
+          href: https://api.spotify.com/v1/tracks/3iZxoFI0XqN0ytjFuWkOcz
+          id: 3iZxoFI0XqN0ytjFuWkOcz
+          is_local: false
+          is_playable: true
+          name: Abracadabra
+          track_number: 11
+          type: track
+          uri: spotify:track:3iZxoFI0XqN0ytjFuWkOcz
+    isrc: USAT20902989

@@ -104,3 +104,288 @@ mediaFileData:
   year: 1992
   duration: 320.26666666666665
   modTime: 2024-08-18 22:08:50.790078+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7r5yk7ou0jiamTc3oHC0HG
+    trackId: 7r5yk7ou0jiamTc3oHC0HG
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901548&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB19901548&type=track
+        offset: 0
+        previous:
+        total: 25
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7JEaKRw7GVmEceTZu4rJPc
+            href: https://api.spotify.com/v1/albums/7JEaKRw7GVmEceTZu4rJPc
+            id: 7JEaKRw7GVmEceTZu4rJPc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730ccb4c5d05faee688924a3b0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020ccb4c5d05faee688924a3b0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510ccb4c5d05faee688924a3b0
+            is_playable: true
+            name: 1993 Best of by uDiscover
+            release_date: '2025-04-11'
+            release_date_precision: day
+            total_tracks: 51
+            type: album
+            uri: spotify:album:7JEaKRw7GVmEceTZu4rJPc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 318800
+          explicit: false
+          external_ids:
+            isrc: USWB19901548
+          external_urls:
+            spotify: https://open.spotify.com/track/7r5yk7ou0jiamTc3oHC0HG
+          href: https://api.spotify.com/v1/tracks/7r5yk7ou0jiamTc3oHC0HG
+          id: 7r5yk7ou0jiamTc3oHC0HG
+          is_local: false
+          is_playable: true
+          name: Everybody Hurts
+          track_number: 2
+          type: track
+          uri: spotify:track:7r5yk7ou0jiamTc3oHC0HG
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+              href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+              id: 4KWTAlx2RvbpseOGMEmROg
+              name: R.E.M.
+              type: artist
+              uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+            external_urls:
+              spotify: https://open.spotify.com/album/3UvVHQ31PhSMtI2GIS91Lz
+            href: https://api.spotify.com/v1/albums/3UvVHQ31PhSMtI2GIS91Lz
+            id: 3UvVHQ31PhSMtI2GIS91Lz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273519038856cb5329dc27f5916
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02519038856cb5329dc27f5916
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851519038856cb5329dc27f5916
+            is_playable: true
+            name: 'In Time: The Best Of R.E.M. 1988-2003'
+            release_date: '2003-08-27'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:3UvVHQ31PhSMtI2GIS91Lz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 318800
+          explicit: false
+          external_ids:
+            isrc: USWB19901548
+          external_urls:
+            spotify: https://open.spotify.com/track/3XScDUWDlpXcHdM88OOkLC
+          href: https://api.spotify.com/v1/tracks/3XScDUWDlpXcHdM88OOkLC
+          id: 3XScDUWDlpXcHdM88OOkLC
+          is_local: false
+          is_playable: true
+          name: Everybody Hurts
+          track_number: 16
+          type: track
+          uri: spotify:track:3XScDUWDlpXcHdM88OOkLC
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+              href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+              id: 4KWTAlx2RvbpseOGMEmROg
+              name: R.E.M.
+              type: artist
+              uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+            external_urls:
+              spotify: https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q
+            href: https://api.spotify.com/v1/albums/0BiNb8HYR4JvuxUa31Z58Q
+            id: 0BiNb8HYR4JvuxUa31Z58Q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ace3e7aae0b7c78bbe1c4f35
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ace3e7aae0b7c78bbe1c4f35
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ace3e7aae0b7c78bbe1c4f35
+            is_playable: true
+            name: Automatic For The People
+            release_date: '1992-10-05'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0BiNb8HYR4JvuxUa31Z58Q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 320266
+          explicit: false
+          external_ids:
+            isrc: USWB19901548
+          external_urls:
+            spotify: https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP
+          href: https://api.spotify.com/v1/tracks/6PypGyiu0Y2lCDBN1XZEnP
+          id: 6PypGyiu0Y2lCDBN1XZEnP
+          is_local: false
+          is_playable: true
+          name: Everybody Hurts
+          track_number: 4
+          type: track
+          uri: spotify:track:6PypGyiu0Y2lCDBN1XZEnP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3knkdZMKu0xBGhgKAho57i
+            href: https://api.spotify.com/v1/albums/3knkdZMKu0xBGhgKAho57i
+            id: 3knkdZMKu0xBGhgKAho57i
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738023e2113587f549e4668ae3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028023e2113587f549e4668ae3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518023e2113587f549e4668ae3
+            is_playable: true
+            name: Mélancolie
+            release_date: '2020-09-11'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:3knkdZMKu0xBGhgKAho57i
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 318800
+          explicit: false
+          external_ids:
+            isrc: USWB19901548
+          external_urls:
+            spotify: https://open.spotify.com/track/1yMdZQfEp7ZaaQphpXxA5p
+          href: https://api.spotify.com/v1/tracks/1yMdZQfEp7ZaaQphpXxA5p
+          id: 1yMdZQfEp7ZaaQphpXxA5p
+          is_local: false
+          is_playable: true
+          name: Everybody Hurts
+          track_number: 7
+          type: track
+          uri: spotify:track:1yMdZQfEp7ZaaQphpXxA5p
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2EfFA2AG7GExlv1HzofLMB
+            href: https://api.spotify.com/v1/albums/2EfFA2AG7GExlv1HzofLMB
+            id: 2EfFA2AG7GExlv1HzofLMB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27376b16ea454b23b33baf5b3e2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0276b16ea454b23b33baf5b3e2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485176b16ea454b23b33baf5b3e2
+            is_playable: true
+            name: Rainy Days
+            release_date: '2024-09-26'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:2EfFA2AG7GExlv1HzofLMB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 318800
+          explicit: false
+          external_ids:
+            isrc: USWB19901548
+          external_urls:
+            spotify: https://open.spotify.com/track/1q2ibtFqluh2QGAs1KkAKQ
+          href: https://api.spotify.com/v1/tracks/1q2ibtFqluh2QGAs1KkAKQ
+          id: 1q2ibtFqluh2QGAs1KkAKQ
+          is_local: false
+          is_playable: true
+          name: Everybody Hurts
+          track_number: 17
+          type: track
+          uri: spotify:track:1q2ibtFqluh2QGAs1KkAKQ
+    isrc: USWB19901548

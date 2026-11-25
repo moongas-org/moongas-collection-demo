@@ -129,3 +129,288 @@ mediaFileData:
   year: 1975
   duration: 291.4481632653061
   modTime: 2024-03-09 21:42:49.913904+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0Mr8A4GPSKHX0hTWwUZXuU
+    trackId: 0Mr8A4GPSKHX0hTWwUZXuU
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19904335&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSSM19904335&type=track
+        offset: 0
+        previous:
+        total: 6
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/21etNoPYIWhfzg2Dv2aTdj
+            href: https://api.spotify.com/v1/albums/21etNoPYIWhfzg2Dv2aTdj
+            id: 21etNoPYIWhfzg2Dv2aTdj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27322630c3021e33b2858b986c2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0222630c3021e33b2858b986c2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485122630c3021e33b2858b986c2
+            is_playable: true
+            name: 50 Classic Rock Favorites
+            release_date: '2014-06-10'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:21etNoPYIWhfzg2Dv2aTdj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 288666
+          explicit: false
+          external_ids:
+            isrc: USSM19904335
+          external_urls:
+            spotify: https://open.spotify.com/track/0Mr8A4GPSKHX0hTWwUZXuU
+          href: https://api.spotify.com/v1/tracks/0Mr8A4GPSKHX0hTWwUZXuU
+          id: 0Mr8A4GPSKHX0hTWwUZXuU
+          is_local: false
+          is_playable: true
+          name: Thunder Road
+          track_number: 48
+          type: track
+          uri: spotify:track:0Mr8A4GPSKHX0hTWwUZXuU
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+              href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+              id: 3eqjTLE0HfPfh78zjh6TqT
+              name: Bruce Springsteen
+              type: artist
+              uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+            external_urls:
+              spotify: https://open.spotify.com/album/16Ng1RWBMnNeaf4Bbckyk4
+            href: https://api.spotify.com/v1/albums/16Ng1RWBMnNeaf4Bbckyk4
+            id: 16Ng1RWBMnNeaf4Bbckyk4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f8d40171891f511e258f82d1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f8d40171891f511e258f82d1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f8d40171891f511e258f82d1
+            is_playable: true
+            name: Best of Bruce Springsteen (Expanded Edition)
+            release_date: '2024-04-19'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:16Ng1RWBMnNeaf4Bbckyk4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 288866
+          explicit: false
+          external_ids:
+            isrc: USSM19904335
+          external_urls:
+            spotify: https://open.spotify.com/track/1NqDl0XjVqIG3zt0GWsTem
+          href: https://api.spotify.com/v1/tracks/1NqDl0XjVqIG3zt0GWsTem
+          id: 1NqDl0XjVqIG3zt0GWsTem
+          is_local: false
+          is_playable: true
+          name: Thunder Road
+          track_number: 7
+          type: track
+          uri: spotify:track:1NqDl0XjVqIG3zt0GWsTem
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+              href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+              id: 3eqjTLE0HfPfh78zjh6TqT
+              name: Bruce Springsteen
+              type: artist
+              uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+            external_urls:
+              spotify: https://open.spotify.com/album/0CR8Q3InJ651Wke81ihesx
+            href: https://api.spotify.com/v1/albums/0CR8Q3InJ651Wke81ihesx
+            id: 0CR8Q3InJ651Wke81ihesx
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731792c65ffb7b3b1822b78d1a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021792c65ffb7b3b1822b78d1a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511792c65ffb7b3b1822b78d1a
+            is_playable: true
+            name: The Essential Bruce Springsteen
+            release_date: '2015-10-16'
+            release_date_precision: day
+            total_tracks: 37
+            type: album
+            uri: spotify:album:0CR8Q3InJ651Wke81ihesx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 289400
+          explicit: false
+          external_ids:
+            isrc: USSM19904335
+          external_urls:
+            spotify: https://open.spotify.com/track/6InriPfBB4Xmi9UKbLsHLT
+          href: https://api.spotify.com/v1/tracks/6InriPfBB4Xmi9UKbLsHLT
+          id: 6InriPfBB4Xmi9UKbLsHLT
+          is_local: false
+          is_playable: true
+          name: Thunder Road
+          track_number: 4
+          type: track
+          uri: spotify:track:6InriPfBB4Xmi9UKbLsHLT
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+              href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+              id: 3eqjTLE0HfPfh78zjh6TqT
+              name: Bruce Springsteen
+              type: artist
+              uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+            external_urls:
+              spotify: https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu
+            href: https://api.spotify.com/v1/albums/43YIoHKSrEw2GJsWmhZIpu
+            id: 43YIoHKSrEw2GJsWmhZIpu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738c5b6f7dcdc5817dc5050b2a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028c5b6f7dcdc5817dc5050b2a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518c5b6f7dcdc5817dc5050b2a
+            is_playable: true
+            name: Born To Run
+            release_date: '1975-08-25'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:43YIoHKSrEw2GJsWmhZIpu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 289186
+          explicit: false
+          external_ids:
+            isrc: USSM19904335
+          external_urls:
+            spotify: https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk
+          href: https://api.spotify.com/v1/tracks/56lhDZNQ5J47aog6mGKeGk
+          id: 56lhDZNQ5J47aog6mGKeGk
+          is_local: false
+          is_playable: true
+          name: Thunder Road
+          track_number: 1
+          type: track
+          uri: spotify:track:56lhDZNQ5J47aog6mGKeGk
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+              href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+              id: 3eqjTLE0HfPfh78zjh6TqT
+              name: Bruce Springsteen
+              type: artist
+              uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+            external_urls:
+              spotify: https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG
+            href: https://api.spotify.com/v1/albums/211iJYKUbpqrykRsPG27CG
+            id: 211iJYKUbpqrykRsPG27CG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27331edc5bd8f156b173015ed19
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0231edc5bd8f156b173015ed19
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485131edc5bd8f156b173015ed19
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1995-02-27'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:211iJYKUbpqrykRsPG27CG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+            href: https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT
+            id: 3eqjTLE0HfPfh78zjh6TqT
+            name: Bruce Springsteen
+            type: artist
+            uri: spotify:artist:3eqjTLE0HfPfh78zjh6TqT
+          disc_number: 1
+          duration_ms: 288021
+          explicit: false
+          external_ids:
+            isrc: USSM19904335
+          external_urls:
+            spotify: https://open.spotify.com/track/7xmol0xrFgs89hVySMf9u9
+          href: https://api.spotify.com/v1/tracks/7xmol0xrFgs89hVySMf9u9
+          id: 7xmol0xrFgs89hVySMf9u9
+          is_local: false
+          is_playable: true
+          name: Thunder Road
+          track_number: 2
+          type: track
+          uri: spotify:track:7xmol0xrFgs89hVySMf9u9
+    isrc: USSM19904335

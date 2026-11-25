@@ -50,3 +50,126 @@ mediaFileData:
   year: 1997
   duration: 188.34285
   modTime: 2023-05-14 00:26:10.220000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/47PSYUK5a0uR87DUc9NR2g
+    trackId: 47PSYUK5a0uR87DUc9NR2g
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD9719701&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h
+            href: https://api.spotify.com/v1/albums/1Q6ikDUK4RFtLI3N9Lll9h
+            id: 1Q6ikDUK4RFtLI3N9Lll9h
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c7f74df1b5b7fe002d5a7c71
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c7f74df1b5b7fe002d5a7c71
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c7f74df1b5b7fe002d5a7c71
+            is_playable: true
+            name: Brighten the Corners
+            release_date: '1997-02-11'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1Q6ikDUK4RFtLI3N9Lll9h
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 187426
+          explicit: false
+          external_ids:
+            isrc: USMTD9719701
+          external_urls:
+            spotify: https://open.spotify.com/track/47PSYUK5a0uR87DUc9NR2g
+          href: https://api.spotify.com/v1/tracks/47PSYUK5a0uR87DUc9NR2g
+          id: 47PSYUK5a0uR87DUc9NR2g
+          is_local: false
+          is_playable: true
+          name: Stereo
+          track_number: 1
+          type: track
+          uri: spotify:track:47PSYUK5a0uR87DUc9NR2g
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/5ky4KFfJNcGDwFtwHi4ZGk
+            href: https://api.spotify.com/v1/albums/5ky4KFfJNcGDwFtwHi4ZGk
+            id: 5ky4KFfJNcGDwFtwHi4ZGk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273edbbb5f88e7dd70a33b5a27d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02edbbb5f88e7dd70a33b5a27d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851edbbb5f88e7dd70a33b5a27d
+            is_playable: true
+            name: 'Cautionary Tales: Jukebox Classiques'
+            release_date: '2024-03-13'
+            release_date_precision: day
+            total_tracks: 56
+            type: album
+            uri: spotify:album:5ky4KFfJNcGDwFtwHi4ZGk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 7
+          duration_ms: 187426
+          explicit: false
+          external_ids:
+            isrc: USMTD9719701
+          external_urls:
+            spotify: https://open.spotify.com/track/4EdkHHquXshBDw9FxTVqZL
+          href: https://api.spotify.com/v1/tracks/4EdkHHquXshBDw9FxTVqZL
+          id: 4EdkHHquXshBDw9FxTVqZL
+          is_local: false
+          is_playable: true
+          name: Stereo
+          track_number: 1
+          type: track
+          uri: spotify:track:4EdkHHquXshBDw9FxTVqZL
+    isrc: USMTD9719701

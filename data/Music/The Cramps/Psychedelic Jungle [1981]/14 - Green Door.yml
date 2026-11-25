@@ -41,3 +41,126 @@ mediaFileData:
   year: 1981
   duration: 155.976
   modTime: 2025-04-07 23:54:27.731549+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0sXMc8zmOfMnqY3dmDOrid
+    trackId: 0sXMc8zmOfMnqY3dmDOrid
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA28901724&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+              href: https://api.spotify.com/v1/artists/4lYtGx5NZQJHsMyhHc5iz3
+              id: 4lYtGx5NZQJHsMyhHc5iz3
+              name: The Cramps
+              type: artist
+              uri: spotify:artist:4lYtGx5NZQJHsMyhHc5iz3
+            external_urls:
+              spotify: https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn
+            href: https://api.spotify.com/v1/albums/111E8uRgwGQo9YJJBvpALn
+            id: 111E8uRgwGQo9YJJBvpALn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273133d663963bdaa99891a5cee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02133d663963bdaa99891a5cee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851133d663963bdaa99891a5cee
+            is_playable: true
+            name: Psychedelic Jungle
+            release_date: '1981-05-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:111E8uRgwGQo9YJJBvpALn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+            href: https://api.spotify.com/v1/artists/4lYtGx5NZQJHsMyhHc5iz3
+            id: 4lYtGx5NZQJHsMyhHc5iz3
+            name: The Cramps
+            type: artist
+            uri: spotify:artist:4lYtGx5NZQJHsMyhHc5iz3
+          disc_number: 1
+          duration_ms: 155933
+          explicit: false
+          external_ids:
+            isrc: USCA28901724
+          external_urls:
+            spotify: https://open.spotify.com/track/0sXMc8zmOfMnqY3dmDOrid
+          href: https://api.spotify.com/v1/tracks/0sXMc8zmOfMnqY3dmDOrid
+          id: 0sXMc8zmOfMnqY3dmDOrid
+          is_local: false
+          is_playable: true
+          name: Green Door
+          track_number: 14
+          type: track
+          uri: spotify:track:0sXMc8zmOfMnqY3dmDOrid
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7yI9r8qIOtJAOUnS8Oz1Zp
+            href: https://api.spotify.com/v1/albums/7yI9r8qIOtJAOUnS8Oz1Zp
+            id: 7yI9r8qIOtJAOUnS8Oz1Zp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273970fc43d9d382643e3d371ba
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02970fc43d9d382643e3d371ba
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851970fc43d9d382643e3d371ba
+            is_playable: true
+            name: Green Is the Colour
+            release_date: '2023-09-27'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:7yI9r8qIOtJAOUnS8Oz1Zp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+            href: https://api.spotify.com/v1/artists/4lYtGx5NZQJHsMyhHc5iz3
+            id: 4lYtGx5NZQJHsMyhHc5iz3
+            name: The Cramps
+            type: artist
+            uri: spotify:artist:4lYtGx5NZQJHsMyhHc5iz3
+          disc_number: 1
+          duration_ms: 155933
+          explicit: false
+          external_ids:
+            isrc: USCA28901724
+          external_urls:
+            spotify: https://open.spotify.com/track/7KLy2kqEhUv5NX4MMODI68
+          href: https://api.spotify.com/v1/tracks/7KLy2kqEhUv5NX4MMODI68
+          id: 7KLy2kqEhUv5NX4MMODI68
+          is_local: false
+          is_playable: true
+          name: Green Door
+          track_number: 16
+          type: track
+          uri: spotify:track:7KLy2kqEhUv5NX4MMODI68
+    isrc: USCA28901724

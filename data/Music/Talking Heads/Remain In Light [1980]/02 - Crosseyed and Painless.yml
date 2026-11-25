@@ -64,3 +64,126 @@ mediaFileData:
   year: 1980
   duration: 285.768
   modTime: 2025-01-08 21:06:55.275744+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/77zBtIe4mYsVlO527LV9Ph
+    trackId: 77zBtIe4mYsVlO527LV9Ph
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19900868&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/4ksJGDgtixAqJ390XWv0Ua
+            href: https://api.spotify.com/v1/albums/4ksJGDgtixAqJ390XWv0Ua
+            id: 4ksJGDgtixAqJ390XWv0Ua
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f704c874cd053dbac89591b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f704c874cd053dbac89591b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f704c874cd053dbac89591b3
+            is_playable: true
+            name: Popular Favorites 1976 - 1992 / Sand in the Vaseline
+            release_date: '1992-10-13'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:4ksJGDgtixAqJ390XWv0Ua
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 287826
+          explicit: false
+          external_ids:
+            isrc: USWB19900868
+          external_urls:
+            spotify: https://open.spotify.com/track/77zBtIe4mYsVlO527LV9Ph
+          href: https://api.spotify.com/v1/tracks/77zBtIe4mYsVlO527LV9Ph
+          id: 77zBtIe4mYsVlO527LV9Ph
+          is_local: false
+          is_playable: true
+          name: Crosseyed and Painless
+          track_number: 15
+          type: track
+          uri: spotify:track:77zBtIe4mYsVlO527LV9Ph
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq
+            href: https://api.spotify.com/v1/albums/1JvXxLsm0PxlGH4LXzqMGq
+            id: 1JvXxLsm0PxlGH4LXzqMGq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e49a405217bda217816f7bf5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e49a405217bda217816f7bf5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e49a405217bda217816f7bf5
+            is_playable: true
+            name: Remain in Light
+            release_date: '1980-10-08'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:1JvXxLsm0PxlGH4LXzqMGq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 285733
+          explicit: false
+          external_ids:
+            isrc: USWB19900868
+          external_urls:
+            spotify: https://open.spotify.com/track/0Qmu2DYKupUetYUbxqvtw2
+          href: https://api.spotify.com/v1/tracks/0Qmu2DYKupUetYUbxqvtw2
+          id: 0Qmu2DYKupUetYUbxqvtw2
+          is_local: false
+          is_playable: true
+          name: Crosseyed and Painless
+          track_number: 2
+          type: track
+          uri: spotify:track:0Qmu2DYKupUetYUbxqvtw2
+    isrc: USWB19900868

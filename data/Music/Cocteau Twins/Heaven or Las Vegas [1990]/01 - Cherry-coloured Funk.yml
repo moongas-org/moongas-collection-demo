@@ -52,3 +52,72 @@ mediaFileData:
   year: 1990
   duration: 192.504
   modTime: 2025-07-08 17:15:12.316494+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ
+    trackId: 37pKTyMwalomKCZjxTc2QZ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAFL9000062&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp
+              href: https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp
+              id: 5Wabl1lPdNOeIn0SQ5A1mp
+              name: Cocteau Twins
+              type: artist
+              uri: spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp
+            external_urls:
+              spotify: https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E
+            href: https://api.spotify.com/v1/albums/5lEphbceIgaK1XxWeSrC9E
+            id: 5lEphbceIgaK1XxWeSrC9E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fe6211303e796f3d5b7a0e02
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fe6211303e796f3d5b7a0e02
+            is_playable: true
+            name: Heaven or Las Vegas
+            release_date: '1990-09-17'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5lEphbceIgaK1XxWeSrC9E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp
+            href: https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp
+            id: 5Wabl1lPdNOeIn0SQ5A1mp
+            name: Cocteau Twins
+            type: artist
+            uri: spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp
+          disc_number: 1
+          duration_ms: 192466
+          explicit: false
+          external_ids:
+            isrc: GBAFL9000062
+          external_urls:
+            spotify: https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ
+          href: https://api.spotify.com/v1/tracks/37pKTyMwalomKCZjxTc2QZ
+          id: 37pKTyMwalomKCZjxTc2QZ
+          is_local: false
+          is_playable: true
+          name: Cherry-coloured Funk
+          track_number: 1
+          type: track
+          uri: spotify:track:37pKTyMwalomKCZjxTc2QZ
+    isrc: GBAFL9000062

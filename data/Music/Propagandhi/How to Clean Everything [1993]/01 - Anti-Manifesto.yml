@@ -34,3 +34,72 @@ mediaFileData:
   year: 1993
   duration: 215.0138775510204
   modTime: 2026-02-19 20:03:51.493623+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6ShicAnSHiZ3Usg4YxPoS6
+    trackId: 6ShicAnSHiZ3Usg4YxPoS6
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFW41391101&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA
+              href: https://api.spotify.com/v1/artists/7qpy5KY3DVrezixTl6mziA
+              id: 7qpy5KY3DVrezixTl6mziA
+              name: Propagandhi
+              type: artist
+              uri: spotify:artist:7qpy5KY3DVrezixTl6mziA
+            external_urls:
+              spotify: https://open.spotify.com/album/1YomhJOu7zq0c45WmAjSWY
+            href: https://api.spotify.com/v1/albums/1YomhJOu7zq0c45WmAjSWY
+            id: 1YomhJOu7zq0c45WmAjSWY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ad20b1cd948e803af82130e1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ad20b1cd948e803af82130e1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ad20b1cd948e803af82130e1
+            is_playable: true
+            name: How to Clean Everything (Reissue)
+            release_date: '2013'
+            release_date_precision: year
+            total_tracks: 19
+            type: album
+            uri: spotify:album:1YomhJOu7zq0c45WmAjSWY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA
+            href: https://api.spotify.com/v1/artists/7qpy5KY3DVrezixTl6mziA
+            id: 7qpy5KY3DVrezixTl6mziA
+            name: Propagandhi
+            type: artist
+            uri: spotify:artist:7qpy5KY3DVrezixTl6mziA
+          disc_number: 1
+          duration_ms: 214920
+          explicit: false
+          external_ids:
+            isrc: USFW41391101
+          external_urls:
+            spotify: https://open.spotify.com/track/6ShicAnSHiZ3Usg4YxPoS6
+          href: https://api.spotify.com/v1/tracks/6ShicAnSHiZ3Usg4YxPoS6
+          id: 6ShicAnSHiZ3Usg4YxPoS6
+          is_local: false
+          is_playable: true
+          name: Anti-Manifesto
+          track_number: 1
+          type: track
+          uri: spotify:track:6ShicAnSHiZ3Usg4YxPoS6
+    isrc: USFW41391101

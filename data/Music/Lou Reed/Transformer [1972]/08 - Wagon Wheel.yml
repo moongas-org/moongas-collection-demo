@@ -41,3 +41,72 @@ mediaFileData:
   year: 1972
   duration: 199.536
   modTime: 2025-01-30 02:01:11.271641+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0wzt5Ql7PDySTQviZdLvZ4
+    trackId: 0wzt5Ql7PDySTQviZdLvZ4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRC17201951&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL
+              href: https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL
+              id: 42TFhl7WlMRXiNqzSrnzPL
+              name: Lou Reed
+              type: artist
+              uri: spotify:artist:42TFhl7WlMRXiNqzSrnzPL
+            external_urls:
+              spotify: https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St
+            href: https://api.spotify.com/v1/albums/5SqbMEyAt8332ISGiLX0St
+            id: 5SqbMEyAt8332ISGiLX0St
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fe5213edd4f8550a8030efcf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fe5213edd4f8550a8030efcf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fe5213edd4f8550a8030efcf
+            is_playable: true
+            name: Transformer
+            release_date: '1972-12-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5SqbMEyAt8332ISGiLX0St
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL
+            href: https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL
+            id: 42TFhl7WlMRXiNqzSrnzPL
+            name: Lou Reed
+            type: artist
+            uri: spotify:artist:42TFhl7WlMRXiNqzSrnzPL
+          disc_number: 1
+          duration_ms: 199521
+          explicit: false
+          external_ids:
+            isrc: USRC17201951
+          external_urls:
+            spotify: https://open.spotify.com/track/0wzt5Ql7PDySTQviZdLvZ4
+          href: https://api.spotify.com/v1/tracks/0wzt5Ql7PDySTQviZdLvZ4
+          id: 0wzt5Ql7PDySTQviZdLvZ4
+          is_local: false
+          is_playable: true
+          name: Wagon Wheel
+          track_number: 8
+          type: track
+          uri: spotify:track:0wzt5Ql7PDySTQviZdLvZ4
+    isrc: USRC17201951

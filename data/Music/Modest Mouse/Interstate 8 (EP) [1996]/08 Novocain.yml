@@ -42,3 +42,126 @@ mediaFileData:
   year: 1996
   duration: 209.21466666666666
   modTime: 2024-09-19 23:59:34.523096+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/059jfciGDPyguU7aXgVLy5
+    trackId: 059jfciGDPyguU7aXgVLy5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFP71449208&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/0eCM4oIYMx8fhwTnthk7Pb
+            href: https://api.spotify.com/v1/albums/0eCM4oIYMx8fhwTnthk7Pb
+            id: 0eCM4oIYMx8fhwTnthk7Pb
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27382cda17056115490013a2bc7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0282cda17056115490013a2bc7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485182cda17056115490013a2bc7
+            is_playable: true
+            name: Interstate 8
+            release_date: '1996-08-06'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0eCM4oIYMx8fhwTnthk7Pb
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 209093
+          explicit: false
+          external_ids:
+            isrc: USFP71449208
+          external_urls:
+            spotify: https://open.spotify.com/track/059jfciGDPyguU7aXgVLy5
+          href: https://api.spotify.com/v1/tracks/059jfciGDPyguU7aXgVLy5
+          id: 059jfciGDPyguU7aXgVLy5
+          is_local: false
+          is_playable: true
+          name: Novocaine Stain - Live
+          track_number: 8
+          type: track
+          uri: spotify:track:059jfciGDPyguU7aXgVLy5
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/1A0a1emIagc5XslbscdUbI
+            href: https://api.spotify.com/v1/albums/1A0a1emIagc5XslbscdUbI
+            id: 1A0a1emIagc5XslbscdUbI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e6a7a024e7b5b0be45c009d0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e6a7a024e7b5b0be45c009d0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e6a7a024e7b5b0be45c009d0
+            is_playable: true
+            name: Interstate 8 (Live)
+            release_date: '1996-08-06'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1A0a1emIagc5XslbscdUbI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 209093
+          explicit: false
+          external_ids:
+            isrc: USFP71449208
+          external_urls:
+            spotify: https://open.spotify.com/track/512koJ8zrDiUuCdiOWWKq1
+          href: https://api.spotify.com/v1/tracks/512koJ8zrDiUuCdiOWWKq1
+          id: 512koJ8zrDiUuCdiOWWKq1
+          is_local: false
+          is_playable: true
+          name: Novocaine Stain - Live
+          track_number: 8
+          type: track
+          uri: spotify:track:512koJ8zrDiUuCdiOWWKq1
+    isrc: USFP71449208

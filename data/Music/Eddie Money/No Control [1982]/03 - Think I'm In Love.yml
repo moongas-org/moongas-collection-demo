@@ -70,3 +70,72 @@ mediaFileData:
   year: 1982
   duration: 189.24
   modTime: 2025-03-17 22:09:51.863233+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Yn1PDUpB7w22bRvZC4ohi
+    trackId: 4Yn1PDUpB7w22bRvZC4ohi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19100548&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE
+              href: https://api.spotify.com/v1/artists/4Tw2N3wdvJPGEU7JqMxFfE
+              id: 4Tw2N3wdvJPGEU7JqMxFfE
+              name: Eddie Money
+              type: artist
+              uri: spotify:artist:4Tw2N3wdvJPGEU7JqMxFfE
+            external_urls:
+              spotify: https://open.spotify.com/album/71nSs2SpQgIct4YfwSLT2d
+            href: https://api.spotify.com/v1/albums/71nSs2SpQgIct4YfwSLT2d
+            id: 71nSs2SpQgIct4YfwSLT2d
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27363660a48ca17062e672a267c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0263660a48ca17062e672a267c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485163660a48ca17062e672a267c
+            is_playable: true
+            name: The Essential Eddie Money
+            release_date: '2014-06-24'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:71nSs2SpQgIct4YfwSLT2d
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE
+            href: https://api.spotify.com/v1/artists/4Tw2N3wdvJPGEU7JqMxFfE
+            id: 4Tw2N3wdvJPGEU7JqMxFfE
+            name: Eddie Money
+            type: artist
+            uri: spotify:artist:4Tw2N3wdvJPGEU7JqMxFfE
+          disc_number: 2
+          duration_ms: 211880
+          explicit: false
+          external_ids:
+            isrc: USSM19100548
+          external_urls:
+            spotify: https://open.spotify.com/track/4Yn1PDUpB7w22bRvZC4ohi
+          href: https://api.spotify.com/v1/tracks/4Yn1PDUpB7w22bRvZC4ohi
+          id: 4Yn1PDUpB7w22bRvZC4ohi
+          is_local: false
+          is_playable: true
+          name: I'll Get By
+          track_number: 15
+          type: track
+          uri: spotify:track:4Yn1PDUpB7w22bRvZC4ohi
+    isrc: USSM19100548

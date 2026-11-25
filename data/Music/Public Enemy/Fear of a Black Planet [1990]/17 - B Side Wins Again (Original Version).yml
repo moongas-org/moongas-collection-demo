@@ -37,3 +37,234 @@ mediaFileData:
   year: 1990
   duration: 225.82857142857142
   modTime: 2026-07-22 22:06:59.161260+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3IJYkA9XmK31OaMPEE4Iuu
+    trackId: 3IJYkA9XmK31OaMPEE4Iuu
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDJ29000031&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 4
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+              href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+              id: 6Mo9PoU6svvhgEum7wh2Nd
+              name: Public Enemy
+              type: artist
+              uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+            external_urls:
+              spotify: https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ
+            href: https://api.spotify.com/v1/albums/3PxXiYU3PjymOEE22PewGZ
+            id: 3PxXiYU3PjymOEE22PewGZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c3cb4969e8a8e9c9d604bf89
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c3cb4969e8a8e9c9d604bf89
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c3cb4969e8a8e9c9d604bf89
+            is_playable: true
+            name: It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)
+            release_date: '1988-06-28'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:3PxXiYU3PjymOEE22PewGZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+            href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+            id: 6Mo9PoU6svvhgEum7wh2Nd
+            name: Public Enemy
+            type: artist
+            uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+          disc_number: 2
+          duration_ms: 228520
+          explicit: false
+          external_ids:
+            isrc: USDJ29000031
+          external_urls:
+            spotify: https://open.spotify.com/track/3IJYkA9XmK31OaMPEE4Iuu
+          href: https://api.spotify.com/v1/tracks/3IJYkA9XmK31OaMPEE4Iuu
+          id: 3IJYkA9XmK31OaMPEE4Iuu
+          is_local: false
+          is_playable: true
+          name: B Side Wins Again - Original Version
+          track_number: 11
+          type: track
+          uri: spotify:track:3IJYkA9XmK31OaMPEE4Iuu
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+              href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+              id: 6Mo9PoU6svvhgEum7wh2Nd
+              name: Public Enemy
+              type: artist
+              uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+            external_urls:
+              spotify: https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz
+            href: https://api.spotify.com/v1/albums/0aFNb4RDk2hmKKLa0bzXNz
+            id: 0aFNb4RDk2hmKKLa0bzXNz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732e3d1de8b2f61a477ae1ed6c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022e3d1de8b2f61a477ae1ed6c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512e3d1de8b2f61a477ae1ed6c
+            is_playable: true
+            name: Fear Of A Black Planet
+            release_date: '1990-04-10'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0aFNb4RDk2hmKKLa0bzXNz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+            href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+            id: 6Mo9PoU6svvhgEum7wh2Nd
+            name: Public Enemy
+            type: artist
+            uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+          disc_number: 1
+          duration_ms: 225760
+          explicit: false
+          external_ids:
+            isrc: USDJ29000031
+          external_urls:
+            spotify: https://open.spotify.com/track/6HvvnLdDrPAqxBLpXuodDR
+          href: https://api.spotify.com/v1/tracks/6HvvnLdDrPAqxBLpXuodDR
+          id: 6HvvnLdDrPAqxBLpXuodDR
+          is_local: false
+          is_playable: true
+          name: B Side Wins Again - Original Version
+          track_number: 17
+          type: track
+          uri: spotify:track:6HvvnLdDrPAqxBLpXuodDR
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+              href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+              id: 6Mo9PoU6svvhgEum7wh2Nd
+              name: Public Enemy
+              type: artist
+              uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+            external_urls:
+              spotify: https://open.spotify.com/album/4C1DuH3NaQQSOFTjmjagv5
+            href: https://api.spotify.com/v1/albums/4C1DuH3NaQQSOFTjmjagv5
+            id: 4C1DuH3NaQQSOFTjmjagv5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736b9fd6945970320796b2c45a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026b9fd6945970320796b2c45a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516b9fd6945970320796b2c45a
+            is_playable: true
+            name: Fear Of A Black Planet (Deluxe Edition)
+            release_date: '1990-04-10'
+            release_date_precision: day
+            total_tracks: 38
+            type: album
+            uri: spotify:album:4C1DuH3NaQQSOFTjmjagv5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+            href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+            id: 6Mo9PoU6svvhgEum7wh2Nd
+            name: Public Enemy
+            type: artist
+            uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+          disc_number: 1
+          duration_ms: 225760
+          explicit: false
+          external_ids:
+            isrc: USDJ29000031
+          external_urls:
+            spotify: https://open.spotify.com/track/2kqDpZUsoTIo1KEKSNBDHW
+          href: https://api.spotify.com/v1/tracks/2kqDpZUsoTIo1KEKSNBDHW
+          id: 2kqDpZUsoTIo1KEKSNBDHW
+          is_local: false
+          is_playable: true
+          name: B Side Wins Again - Original Version
+          track_number: 17
+          type: track
+          uri: spotify:track:2kqDpZUsoTIo1KEKSNBDHW
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+              href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+              id: 6Mo9PoU6svvhgEum7wh2Nd
+              name: Public Enemy
+              type: artist
+              uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+            external_urls:
+              spotify: https://open.spotify.com/album/1UkKcAlvKl4YnRdIHORnCX
+            href: https://api.spotify.com/v1/albums/1UkKcAlvKl4YnRdIHORnCX
+            id: 1UkKcAlvKl4YnRdIHORnCX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e26b5eb8767acdeac349eaa6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e26b5eb8767acdeac349eaa6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e26b5eb8767acdeac349eaa6
+            is_playable: true
+            name: Fear Of A Black Planet
+            release_date: '1990-04-10'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:1UkKcAlvKl4YnRdIHORnCX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd
+            href: https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd
+            id: 6Mo9PoU6svvhgEum7wh2Nd
+            name: Public Enemy
+            type: artist
+            uri: spotify:artist:6Mo9PoU6svvhgEum7wh2Nd
+          disc_number: 1
+          duration_ms: 225760
+          explicit: false
+          external_ids:
+            isrc: USDJ29000031
+          external_urls:
+            spotify: https://open.spotify.com/track/6KfVBafXlwpy7xFHHb4b3I
+          href: https://api.spotify.com/v1/tracks/6KfVBafXlwpy7xFHHb4b3I
+          id: 6KfVBafXlwpy7xFHHb4b3I
+          is_local: false
+          is_playable: true
+          name: B Side Wins Again - Original Version
+          track_number: 17
+          type: track
+          uri: spotify:track:6KfVBafXlwpy7xFHHb4b3I
+    isrc: USDJ29000031

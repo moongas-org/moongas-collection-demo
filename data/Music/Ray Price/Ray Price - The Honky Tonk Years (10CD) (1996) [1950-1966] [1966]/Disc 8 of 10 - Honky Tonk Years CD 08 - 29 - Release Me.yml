@@ -51,3 +51,72 @@ mediaFileData:
   year: 1950
   duration: 164.59755
   modTime: 2023-04-23 21:45:04.140000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3A6UNVourCCpnvaW1VpvKI
+    trackId: 3A6UNVourCCpnvaW1VpvKI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM16401558&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP
+              href: https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP
+              id: 5sAg1HZePcFfhrs0G8A8OP
+              name: Ray Price
+              type: artist
+              uri: spotify:artist:5sAg1HZePcFfhrs0G8A8OP
+            external_urls:
+              spotify: https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD
+            href: https://api.spotify.com/v1/albums/0menjprjsUXBN3jKjGk1XD
+            id: 0menjprjsUXBN3jKjGk1XD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738c0c3f713f5e2bc6f99ad202
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028c0c3f713f5e2bc6f99ad202
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518c0c3f713f5e2bc6f99ad202
+            is_playable: true
+            name: Burning Memories
+            release_date: '1964-12-17'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0menjprjsUXBN3jKjGk1XD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP
+            href: https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP
+            id: 5sAg1HZePcFfhrs0G8A8OP
+            name: Ray Price
+            type: artist
+            uri: spotify:artist:5sAg1HZePcFfhrs0G8A8OP
+          disc_number: 1
+          duration_ms: 163346
+          explicit: false
+          external_ids:
+            isrc: USSM16401558
+          external_urls:
+            spotify: https://open.spotify.com/track/3A6UNVourCCpnvaW1VpvKI
+          href: https://api.spotify.com/v1/tracks/3A6UNVourCCpnvaW1VpvKI
+          id: 3A6UNVourCCpnvaW1VpvKI
+          is_local: false
+          is_playable: true
+          name: Release Me
+          track_number: 6
+          type: track
+          uri: spotify:track:3A6UNVourCCpnvaW1VpvKI
+    isrc: USSM16401558

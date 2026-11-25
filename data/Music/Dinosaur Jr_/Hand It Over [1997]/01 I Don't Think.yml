@@ -34,3 +34,126 @@ mediaFileData:
   year: 1997
   duration: 204.6955
   modTime: 2023-10-01 16:24:20+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3E1hNLNXuek3u9fQplFrhH
+    trackId: 3E1hNLNXuek3u9fQplFrhH
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBLY1903642&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/3sFxy8qz2e0xxTLtAfEEed
+            href: https://api.spotify.com/v1/albums/3sFxy8qz2e0xxTLtAfEEed
+            id: 3sFxy8qz2e0xxTLtAfEEed
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736fd5940aef31c731e2603924
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026fd5940aef31c731e2603924
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516fd5940aef31c731e2603924
+            is_playable: true
+            name: Hand It Over (2019 Expanded & Remastered Edition)
+            release_date: '1997-03-25'
+            release_date_precision: day
+            total_tracks: 26
+            type: album
+            uri: spotify:album:3sFxy8qz2e0xxTLtAfEEed
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 1
+          duration_ms: 201773
+          explicit: true
+          external_ids:
+            isrc: GBBLY1903642
+          external_urls:
+            spotify: https://open.spotify.com/track/3E1hNLNXuek3u9fQplFrhH
+          href: https://api.spotify.com/v1/tracks/3E1hNLNXuek3u9fQplFrhH
+          id: 3E1hNLNXuek3u9fQplFrhH
+          is_local: false
+          is_playable: true
+          name: I Don't Think - 2019 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:3E1hNLNXuek3u9fQplFrhH
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+              href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+              id: 267VY6GX5LyU5c9M85ECZQ
+              name: Dinosaur Jr.
+              type: artist
+              uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+            external_urls:
+              spotify: https://open.spotify.com/album/4eZ76irqXk1wvH7yPnMxtc
+            href: https://api.spotify.com/v1/albums/4eZ76irqXk1wvH7yPnMxtc
+            id: 4eZ76irqXk1wvH7yPnMxtc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cb6032b635bdcf7afba27e22
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cb6032b635bdcf7afba27e22
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cb6032b635bdcf7afba27e22
+            is_playable: true
+            name: 'Puke + Cry: The Sire Years 1990-1997'
+            release_date: '2024-09-06'
+            release_date_precision: day
+            total_tracks: 71
+            type: album
+            uri: spotify:album:4eZ76irqXk1wvH7yPnMxtc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+            href: https://api.spotify.com/v1/artists/267VY6GX5LyU5c9M85ECZQ
+            id: 267VY6GX5LyU5c9M85ECZQ
+            name: Dinosaur Jr.
+            type: artist
+            uri: spotify:artist:267VY6GX5LyU5c9M85ECZQ
+          disc_number: 4
+          duration_ms: 201773
+          explicit: true
+          external_ids:
+            isrc: GBBLY1903642
+          external_urls:
+            spotify: https://open.spotify.com/track/5KOK9co9UkjszVUo1glubj
+          href: https://api.spotify.com/v1/tracks/5KOK9co9UkjszVUo1glubj
+          id: 5KOK9co9UkjszVUo1glubj
+          is_local: false
+          is_playable: true
+          name: I Don't Think - 2019 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:5KOK9co9UkjszVUo1glubj
+    isrc: GBBLY1903642

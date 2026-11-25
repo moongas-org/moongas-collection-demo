@@ -59,3 +59,126 @@ mediaFileData:
   year: 1998
   duration: 265.1718820861678
   modTime: 2025-01-11 01:08:45.549444+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3oKY10WSjkz51C41J7gw28
+    trackId: 3oKY10WSjkz51C41J7gw28
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSDW19804805&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+              href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+              id: 2ApaG60P4r0yhBoDCGD8YG
+              name: Elliott Smith
+              type: artist
+              uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+            external_urls:
+              spotify: https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM
+            href: https://api.spotify.com/v1/albums/3uLHeL4d8aILBRlfpWNPYM
+            id: 3uLHeL4d8aILBRlfpWNPYM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e35493a3ac213db02b3ec36e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e35493a3ac213db02b3ec36e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e35493a3ac213db02b3ec36e
+            is_playable: true
+            name: XO (Deluxe Edition)
+            release_date: '1998-08-25'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:3uLHeL4d8aILBRlfpWNPYM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 261653
+          explicit: true
+          external_ids:
+            isrc: USDW19804805
+          external_urls:
+            spotify: https://open.spotify.com/track/3oKY10WSjkz51C41J7gw28
+          href: https://api.spotify.com/v1/tracks/3oKY10WSjkz51C41J7gw28
+          id: 3oKY10WSjkz51C41J7gw28
+          is_local: false
+          is_playable: true
+          name: Everybody Cares, Everybody Understands
+          track_number: 13
+          type: track
+          uri: spotify:track:3oKY10WSjkz51C41J7gw28
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+              href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+              id: 2ApaG60P4r0yhBoDCGD8YG
+              name: Elliott Smith
+              type: artist
+              uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+            external_urls:
+              spotify: https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh
+            href: https://api.spotify.com/v1/albums/1zOxlHQGGV6EH7n4OIFTyh
+            id: 1zOxlHQGGV6EH7n4OIFTyh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cdf1be0ff556d169eade4368
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cdf1be0ff556d169eade4368
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cdf1be0ff556d169eade4368
+            is_playable: true
+            name: XO
+            release_date: '1998-08-25'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1zOxlHQGGV6EH7n4OIFTyh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 265106
+          explicit: true
+          external_ids:
+            isrc: USDW19804805
+          external_urls:
+            spotify: https://open.spotify.com/track/0uEGjq4WbwCb4C6ZpEA25c
+          href: https://api.spotify.com/v1/tracks/0uEGjq4WbwCb4C6ZpEA25c
+          id: 0uEGjq4WbwCb4C6ZpEA25c
+          is_local: false
+          is_playable: true
+          name: Everybody Cares, Everybody Understands
+          track_number: 13
+          type: track
+          uri: spotify:track:0uEGjq4WbwCb4C6ZpEA25c
+    isrc: USDW19804805

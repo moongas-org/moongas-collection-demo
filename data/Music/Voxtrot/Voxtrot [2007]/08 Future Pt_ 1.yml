@@ -34,3 +34,72 @@ mediaFileData:
   year: 2003
   duration: 221.78666666666666
   modTime: 2025-01-11 01:05:36.038556+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1NnYLVWa7JVfvEMEsFkLKN
+    trackId: 1NnYLVWa7JVfvEMEsFkLKN
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKU0700032&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW
+              href: https://api.spotify.com/v1/artists/7b697TI9p2abLzSo3eJTKW
+              id: 7b697TI9p2abLzSo3eJTKW
+              name: Voxtrot
+              type: artist
+              uri: spotify:artist:7b697TI9p2abLzSo3eJTKW
+            external_urls:
+              spotify: https://open.spotify.com/album/1DTcJpGqBvtxOQBcNPEfuv
+            href: https://api.spotify.com/v1/albums/1DTcJpGqBvtxOQBcNPEfuv
+            id: 1DTcJpGqBvtxOQBcNPEfuv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273483227612108e3e9272f9376
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02483227612108e3e9272f9376
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851483227612108e3e9272f9376
+            is_playable: true
+            name: Voxtrot
+            release_date: '2007-05-22'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1DTcJpGqBvtxOQBcNPEfuv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW
+            href: https://api.spotify.com/v1/artists/7b697TI9p2abLzSo3eJTKW
+            id: 7b697TI9p2abLzSo3eJTKW
+            name: Voxtrot
+            type: artist
+            uri: spotify:artist:7b697TI9p2abLzSo3eJTKW
+          disc_number: 1
+          duration_ms: 221786
+          explicit: false
+          external_ids:
+            isrc: GBBKU0700032
+          external_urls:
+            spotify: https://open.spotify.com/track/1NnYLVWa7JVfvEMEsFkLKN
+          href: https://api.spotify.com/v1/tracks/1NnYLVWa7JVfvEMEsFkLKN
+          id: 1NnYLVWa7JVfvEMEsFkLKN
+          is_local: false
+          is_playable: true
+          name: The Future Pt. 1
+          track_number: 8
+          type: track
+          uri: spotify:track:1NnYLVWa7JVfvEMEsFkLKN
+    isrc: GBBKU0700032

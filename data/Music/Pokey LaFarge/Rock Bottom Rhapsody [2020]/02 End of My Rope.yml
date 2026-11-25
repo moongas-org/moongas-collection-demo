@@ -34,3 +34,126 @@ mediaFileData:
   year: 2020
   duration: 178.207375
   modTime: 2023-07-17 00:40:20+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7mvjdWZovs2jSRJQYFFar1
+    trackId: 7mvjdWZovs2jSRJQYFFar1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS27Q1947802&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+              href: https://api.spotify.com/v1/artists/6hAUCkzZpoYGObd8qFW5TT
+              id: 6hAUCkzZpoYGObd8qFW5TT
+              name: Pokey LaFarge
+              type: artist
+              uri: spotify:artist:6hAUCkzZpoYGObd8qFW5TT
+            external_urls:
+              spotify: https://open.spotify.com/album/0OuhNlRH3ahy5R93OUvjMa
+            href: https://api.spotify.com/v1/albums/0OuhNlRH3ahy5R93OUvjMa
+            id: 0OuhNlRH3ahy5R93OUvjMa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730792d871b54a06a70889c7eb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020792d871b54a06a70889c7eb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510792d871b54a06a70889c7eb
+            is_playable: true
+            name: End Of My Rope
+            release_date: '2020-02-07'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:0OuhNlRH3ahy5R93OUvjMa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+            href: https://api.spotify.com/v1/artists/6hAUCkzZpoYGObd8qFW5TT
+            id: 6hAUCkzZpoYGObd8qFW5TT
+            name: Pokey LaFarge
+            type: artist
+            uri: spotify:artist:6hAUCkzZpoYGObd8qFW5TT
+          disc_number: 1
+          duration_ms: 178139
+          explicit: false
+          external_ids:
+            isrc: US27Q1947802
+          external_urls:
+            spotify: https://open.spotify.com/track/7mvjdWZovs2jSRJQYFFar1
+          href: https://api.spotify.com/v1/tracks/7mvjdWZovs2jSRJQYFFar1
+          id: 7mvjdWZovs2jSRJQYFFar1
+          is_local: false
+          is_playable: true
+          name: End Of My Rope
+          track_number: 1
+          type: track
+          uri: spotify:track:7mvjdWZovs2jSRJQYFFar1
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+              href: https://api.spotify.com/v1/artists/6hAUCkzZpoYGObd8qFW5TT
+              id: 6hAUCkzZpoYGObd8qFW5TT
+              name: Pokey LaFarge
+              type: artist
+              uri: spotify:artist:6hAUCkzZpoYGObd8qFW5TT
+            external_urls:
+              spotify: https://open.spotify.com/album/2VZSwNWt46ZvR5Vv0hixtP
+            href: https://api.spotify.com/v1/albums/2VZSwNWt46ZvR5Vv0hixtP
+            id: 2VZSwNWt46ZvR5Vv0hixtP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a63eb14092507e8ee33ea761
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a63eb14092507e8ee33ea761
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a63eb14092507e8ee33ea761
+            is_playable: true
+            name: Rock Bottom Rhapsody
+            release_date: '2020-04-10'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:2VZSwNWt46ZvR5Vv0hixtP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+            href: https://api.spotify.com/v1/artists/6hAUCkzZpoYGObd8qFW5TT
+            id: 6hAUCkzZpoYGObd8qFW5TT
+            name: Pokey LaFarge
+            type: artist
+            uri: spotify:artist:6hAUCkzZpoYGObd8qFW5TT
+          disc_number: 1
+          duration_ms: 178139
+          explicit: false
+          external_ids:
+            isrc: US27Q1947802
+          external_urls:
+            spotify: https://open.spotify.com/track/4zZW8ub0AvjHsLnAFHcnRO
+          href: https://api.spotify.com/v1/tracks/4zZW8ub0AvjHsLnAFHcnRO
+          id: 4zZW8ub0AvjHsLnAFHcnRO
+          is_local: false
+          is_playable: true
+          name: End Of My Rope
+          track_number: 2
+          type: track
+          uri: spotify:track:4zZW8ub0AvjHsLnAFHcnRO
+    isrc: US27Q1947802

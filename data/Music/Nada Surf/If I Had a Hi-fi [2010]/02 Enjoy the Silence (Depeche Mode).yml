@@ -34,3 +34,126 @@ mediaFileData:
   year: 2010
   duration: 201.26666666666668
   modTime: 2023-05-13 20:17:44.700000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Kl3AXjEUCtPhMmXjgL8rL
+    trackId: 4Kl3AXjEUCtPhMmXjgL8rL
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS9QY1000002&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy
+              href: https://api.spotify.com/v1/artists/11zHPjHnZN0ACA50rSnTcy
+              id: 11zHPjHnZN0ACA50rSnTcy
+              name: Nada Surf
+              type: artist
+              uri: spotify:artist:11zHPjHnZN0ACA50rSnTcy
+            external_urls:
+              spotify: https://open.spotify.com/album/3H9s5KC8da6FBifMLx1ZIo
+            href: https://api.spotify.com/v1/albums/3H9s5KC8da6FBifMLx1ZIo
+            id: 3H9s5KC8da6FBifMLx1ZIo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c417de528c50226875140db2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c417de528c50226875140db2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c417de528c50226875140db2
+            is_playable: true
+            name: if I had a hi-fi
+            release_date: '2010-06-08'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3H9s5KC8da6FBifMLx1ZIo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy
+            href: https://api.spotify.com/v1/artists/11zHPjHnZN0ACA50rSnTcy
+            id: 11zHPjHnZN0ACA50rSnTcy
+            name: Nada Surf
+            type: artist
+            uri: spotify:artist:11zHPjHnZN0ACA50rSnTcy
+          disc_number: 1
+          duration_ms: 201266
+          explicit: false
+          external_ids:
+            isrc: US9QY1000002
+          external_urls:
+            spotify: https://open.spotify.com/track/4Kl3AXjEUCtPhMmXjgL8rL
+          href: https://api.spotify.com/v1/tracks/4Kl3AXjEUCtPhMmXjgL8rL
+          id: 4Kl3AXjEUCtPhMmXjgL8rL
+          is_local: false
+          is_playable: true
+          name: Enjoy the Silence
+          track_number: 2
+          type: track
+          uri: spotify:track:4Kl3AXjEUCtPhMmXjgL8rL
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3XWDa8Hwji5DDk4HTOVaLh
+              href: https://api.spotify.com/v1/artists/3XWDa8Hwji5DDk4HTOVaLh
+              id: 3XWDa8Hwji5DDk4HTOVaLh
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:3XWDa8Hwji5DDk4HTOVaLh
+            external_urls:
+              spotify: https://open.spotify.com/album/55V4tvhKKI63iCjySUEXXy
+            href: https://api.spotify.com/v1/albums/55V4tvhKKI63iCjySUEXXy
+            id: 55V4tvhKKI63iCjySUEXXy
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737c5e3a86b3bb1d28e6665f82
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027c5e3a86b3bb1d28e6665f82
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517c5e3a86b3bb1d28e6665f82
+            is_playable: true
+            name: Death To The 90s
+            release_date: '2012-07-27'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:55V4tvhKKI63iCjySUEXXy
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy
+            href: https://api.spotify.com/v1/artists/11zHPjHnZN0ACA50rSnTcy
+            id: 11zHPjHnZN0ACA50rSnTcy
+            name: Nada Surf
+            type: artist
+            uri: spotify:artist:11zHPjHnZN0ACA50rSnTcy
+          disc_number: 1
+          duration_ms: 200962
+          explicit: false
+          external_ids:
+            isrc: US9QY1000002
+          external_urls:
+            spotify: https://open.spotify.com/track/5hPk80pXqYB0QnjyS4DYdD
+          href: https://api.spotify.com/v1/tracks/5hPk80pXqYB0QnjyS4DYdD
+          id: 5hPk80pXqYB0QnjyS4DYdD
+          is_local: false
+          is_playable: true
+          name: Enjoy the Silence
+          track_number: 8
+          type: track
+          uri: spotify:track:5hPk80pXqYB0QnjyS4DYdD
+    isrc: US9QY1000002

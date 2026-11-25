@@ -56,3 +56,72 @@ mediaFileData:
   year: 1994
   duration: 52.062025
   modTime: 2023-05-14 00:55:20.900000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0sWw5MlQsT3BESlufE4bwo
+    trackId: 0sWw5MlQsT3BESlufE4bwo
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD0461023&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/0AvxX8zXHu408xmPqRd0mN
+            href: https://api.spotify.com/v1/albums/0AvxX8zXHu408xmPqRd0mN
+            id: 0AvxX8zXHu408xmPqRd0mN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c18dadb01139540f67835d30
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c18dadb01139540f67835d30
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c18dadb01139540f67835d30
+            is_playable: true
+            name: "Crooked Rain, Crooked Rain: LA's Desert Origins"
+            release_date: '2004-10-26'
+            release_date_precision: day
+            total_tracks: 49
+            type: album
+            uri: spotify:album:0AvxX8zXHu408xmPqRd0mN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 2
+          duration_ms: 52000
+          explicit: false
+          external_ids:
+            isrc: USMTD0461023
+          external_urls:
+            spotify: https://open.spotify.com/track/0sWw5MlQsT3BESlufE4bwo
+          href: https://api.spotify.com/v1/tracks/0sWw5MlQsT3BESlufE4bwo
+          id: 0sWw5MlQsT3BESlufE4bwo
+          is_local: false
+          is_playable: true
+          name: JMC Retro
+          track_number: 18
+          type: track
+          uri: spotify:track:0sWw5MlQsT3BESlufE4bwo
+    isrc: USMTD0461023

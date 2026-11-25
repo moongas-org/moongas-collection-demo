@@ -34,3 +34,72 @@ mediaFileData:
   year: 2010
   duration: 117.216
   modTime: 2025-03-22 20:20:02.592664+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7da6FHZLFD2rVNQL7ccE5q
+    trackId: 7da6FHZLFD2rVNQL7ccE5q
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPW1000012&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+              href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+              id: 29XOeO6KIWxGthejQqn793
+              name: Flying Lotus
+              type: artist
+              uri: spotify:artist:29XOeO6KIWxGthejQqn793
+            external_urls:
+              spotify: https://open.spotify.com/album/26yWpyWgFK6xuxi1UsLUFW
+            href: https://api.spotify.com/v1/albums/26yWpyWgFK6xuxi1UsLUFW
+            id: 26yWpyWgFK6xuxi1UsLUFW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736f0c962b04f02c839726f41f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026f0c962b04f02c839726f41f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516f0c962b04f02c839726f41f
+            is_playable: true
+            name: Cosmogramma
+            release_date: '2010-05-03'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:26yWpyWgFK6xuxi1UsLUFW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+            href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+            id: 29XOeO6KIWxGthejQqn793
+            name: Flying Lotus
+            type: artist
+            uri: spotify:artist:29XOeO6KIWxGthejQqn793
+          disc_number: 1
+          duration_ms: 117173
+          explicit: false
+          external_ids:
+            isrc: GBBPW1000012
+          external_urls:
+            spotify: https://open.spotify.com/track/7da6FHZLFD2rVNQL7ccE5q
+          href: https://api.spotify.com/v1/tracks/7da6FHZLFD2rVNQL7ccE5q
+          id: 7da6FHZLFD2rVNQL7ccE5q
+          is_local: false
+          is_playable: true
+          name: German Haircut
+          track_number: 12
+          type: track
+          uri: spotify:track:7da6FHZLFD2rVNQL7ccE5q
+    isrc: GBBPW1000012

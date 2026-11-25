@@ -34,3 +34,126 @@ mediaFileData:
   year: 1981
   duration: 233.534693877551
   modTime: 2026-08-11 00:59:37.003592+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3o8lcXOCuNSWVfA55EOll3
+    trackId: 3o8lcXOCuNSWVfA55EOll3
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMO18182855&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL
+              href: https://api.spotify.com/v1/artists/0FrpdcVlJQqibaz5HfBUrL
+              id: 0FrpdcVlJQqibaz5HfBUrL
+              name: Rick James
+              type: artist
+              uri: spotify:artist:0FrpdcVlJQqibaz5HfBUrL
+            external_urls:
+              spotify: https://open.spotify.com/album/5aY4IjzuZqXmM8ZTQ7r7WV
+            href: https://api.spotify.com/v1/albums/5aY4IjzuZqXmM8ZTQ7r7WV
+            id: 5aY4IjzuZqXmM8ZTQ7r7WV
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e65c59e9a443d752701c107c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e65c59e9a443d752701c107c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e65c59e9a443d752701c107c
+            is_playable: true
+            name: Street Songs (Expanded Edition)
+            release_date: '1981-04-07'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:5aY4IjzuZqXmM8ZTQ7r7WV
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL
+            href: https://api.spotify.com/v1/artists/0FrpdcVlJQqibaz5HfBUrL
+            id: 0FrpdcVlJQqibaz5HfBUrL
+            name: Rick James
+            type: artist
+            uri: spotify:artist:0FrpdcVlJQqibaz5HfBUrL
+          disc_number: 1
+          duration_ms: 233333
+          explicit: false
+          external_ids:
+            isrc: USMO18182855
+          external_urls:
+            spotify: https://open.spotify.com/track/3o8lcXOCuNSWVfA55EOll3
+          href: https://api.spotify.com/v1/tracks/3o8lcXOCuNSWVfA55EOll3
+          id: 3o8lcXOCuNSWVfA55EOll3
+          is_local: false
+          is_playable: true
+          name: Call Me Up
+          track_number: 7
+          type: track
+          uri: spotify:track:3o8lcXOCuNSWVfA55EOll3
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL
+              href: https://api.spotify.com/v1/artists/0FrpdcVlJQqibaz5HfBUrL
+              id: 0FrpdcVlJQqibaz5HfBUrL
+              name: Rick James
+              type: artist
+              uri: spotify:artist:0FrpdcVlJQqibaz5HfBUrL
+            external_urls:
+              spotify: https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5
+            href: https://api.spotify.com/v1/albums/2DBFUBBqJQvfXpodPi2WP5
+            id: 2DBFUBBqJQvfXpodPi2WP5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0217f9e7e7784ed40b223e261c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485117f9e7e7784ed40b223e261c
+            is_playable: true
+            name: Street Songs (Deluxe Edition)
+            release_date: '1981-04-07'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2DBFUBBqJQvfXpodPi2WP5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL
+            href: https://api.spotify.com/v1/artists/0FrpdcVlJQqibaz5HfBUrL
+            id: 0FrpdcVlJQqibaz5HfBUrL
+            name: Rick James
+            type: artist
+            uri: spotify:artist:0FrpdcVlJQqibaz5HfBUrL
+          disc_number: 1
+          duration_ms: 233466
+          explicit: false
+          external_ids:
+            isrc: USMO18182855
+          external_urls:
+            spotify: https://open.spotify.com/track/1njuzgXErBdFdypYwPndGZ
+          href: https://api.spotify.com/v1/tracks/1njuzgXErBdFdypYwPndGZ
+          id: 1njuzgXErBdFdypYwPndGZ
+          is_local: false
+          is_playable: true
+          name: Call Me Up
+          track_number: 7
+          type: track
+          uri: spotify:track:1njuzgXErBdFdypYwPndGZ
+    isrc: USMO18182855

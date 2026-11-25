@@ -315,3 +315,288 @@ mediaFileData:
   year: 1965
   duration: 137.232
   modTime: 2025-04-12 16:08:15.073442+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/10q3ifGDSHCjkfsR5gfIGS
+    trackId: 10q3ifGDSHCjkfsR5gfIGS
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB16900037&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB16900037&type=track
+        offset: 0
+        previous:
+        total: 26
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB
+              href: https://api.spotify.com/v1/artists/6yrBBtqX2gKCHCrZOYBDrB
+              id: 6yrBBtqX2gKCHCrZOYBDrB
+              name: Peter, Paul and Mary
+              type: artist
+              uri: spotify:artist:6yrBBtqX2gKCHCrZOYBDrB
+            external_urls:
+              spotify: https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l
+            href: https://api.spotify.com/v1/albums/2iGp6aL5TSPT0GQDsxJB7l
+            id: 2iGp6aL5TSPT0GQDsxJB7l
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731e995c3e5536a5eab7c45ae1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021e995c3e5536a5eab7c45ae1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511e995c3e5536a5eab7c45ae1
+            is_playable: true
+            name: Around the Campfire
+            release_date: '1998-04-17'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:2iGp6aL5TSPT0GQDsxJB7l
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB
+            href: https://api.spotify.com/v1/artists/6yrBBtqX2gKCHCrZOYBDrB
+            id: 6yrBBtqX2gKCHCrZOYBDrB
+            name: Peter, Paul and Mary
+            type: artist
+            uri: spotify:artist:6yrBBtqX2gKCHCrZOYBDrB
+          disc_number: 2
+          duration_ms: 207240
+          explicit: false
+          external_ids:
+            isrc: USWB16900037
+          external_urls:
+            spotify: https://open.spotify.com/track/10q3ifGDSHCjkfsR5gfIGS
+          href: https://api.spotify.com/v1/tracks/10q3ifGDSHCjkfsR5gfIGS
+          id: 10q3ifGDSHCjkfsR5gfIGS
+          is_local: false
+          is_playable: true
+          name: Leaving on a Jet Plane
+          track_number: 12
+          type: track
+          uri: spotify:track:10q3ifGDSHCjkfsR5gfIGS
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB
+              href: https://api.spotify.com/v1/artists/6yrBBtqX2gKCHCrZOYBDrB
+              id: 6yrBBtqX2gKCHCrZOYBDrB
+              name: Peter, Paul and Mary
+              type: artist
+              uri: spotify:artist:6yrBBtqX2gKCHCrZOYBDrB
+            external_urls:
+              spotify: https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ
+            href: https://api.spotify.com/v1/albums/3CDM5os6kA4y6mYYGukMIZ
+            id: 3CDM5os6kA4y6mYYGukMIZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735dbe68ee30a33b4b51792a06
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025dbe68ee30a33b4b51792a06
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515dbe68ee30a33b4b51792a06
+            is_playable: true
+            name: Album 1700
+            release_date: '1967-10-31'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3CDM5os6kA4y6mYYGukMIZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB
+            href: https://api.spotify.com/v1/artists/6yrBBtqX2gKCHCrZOYBDrB
+            id: 6yrBBtqX2gKCHCrZOYBDrB
+            name: Peter, Paul and Mary
+            type: artist
+            uri: spotify:artist:6yrBBtqX2gKCHCrZOYBDrB
+          disc_number: 1
+          duration_ms: 207240
+          explicit: false
+          external_ids:
+            isrc: USWB16900037
+          external_urls:
+            spotify: https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn
+          href: https://api.spotify.com/v1/tracks/6ZSTinOwx5dKFYc6iYyGDn
+          id: 6ZSTinOwx5dKFYc6iYyGDn
+          is_local: false
+          is_playable: true
+          name: Leaving on a Jet Plane
+          track_number: 2
+          type: track
+          uri: spotify:track:6ZSTinOwx5dKFYc6iYyGDn
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2B3FSPZtin6hBSTr4KB3gv
+            href: https://api.spotify.com/v1/albums/2B3FSPZtin6hBSTr4KB3gv
+            id: 2B3FSPZtin6hBSTr4KB3gv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273002d0f01dcb1b9170b8e7d6a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02002d0f01dcb1b9170b8e7d6a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851002d0f01dcb1b9170b8e7d6a
+            is_playable: true
+            name: 60 from the 60's
+            release_date: '2019-06-07'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:2B3FSPZtin6hBSTr4KB3gv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB
+            href: https://api.spotify.com/v1/artists/6yrBBtqX2gKCHCrZOYBDrB
+            id: 6yrBBtqX2gKCHCrZOYBDrB
+            name: Peter, Paul and Mary
+            type: artist
+            uri: spotify:artist:6yrBBtqX2gKCHCrZOYBDrB
+          disc_number: 1
+          duration_ms: 207240
+          explicit: false
+          external_ids:
+            isrc: USWB16900037
+          external_urls:
+            spotify: https://open.spotify.com/track/4uJLpFgyF59HSbyCVD5ruQ
+          href: https://api.spotify.com/v1/tracks/4uJLpFgyF59HSbyCVD5ruQ
+          id: 4uJLpFgyF59HSbyCVD5ruQ
+          is_local: false
+          is_playable: true
+          name: Leaving On a Jet Plane
+          track_number: 39
+          type: track
+          uri: spotify:track:4uJLpFgyF59HSbyCVD5ruQ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/23ELZLM7mjTwtcbVpi8KNZ
+            href: https://api.spotify.com/v1/albums/23ELZLM7mjTwtcbVpi8KNZ
+            id: 23ELZLM7mjTwtcbVpi8KNZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27370742450df13e5dc860d6b93
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0270742450df13e5dc860d6b93
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485170742450df13e5dc860d6b93
+            is_playable: true
+            name: Top Hits from the 60's
+            release_date: '2019-06-07'
+            release_date_precision: day
+            total_tracks: 38
+            type: album
+            uri: spotify:album:23ELZLM7mjTwtcbVpi8KNZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB
+            href: https://api.spotify.com/v1/artists/6yrBBtqX2gKCHCrZOYBDrB
+            id: 6yrBBtqX2gKCHCrZOYBDrB
+            name: Peter, Paul and Mary
+            type: artist
+            uri: spotify:artist:6yrBBtqX2gKCHCrZOYBDrB
+          disc_number: 1
+          duration_ms: 207240
+          explicit: false
+          external_ids:
+            isrc: USWB16900037
+          external_urls:
+            spotify: https://open.spotify.com/track/4E1eFnZcqSlQwoLVE3uu1c
+          href: https://api.spotify.com/v1/tracks/4E1eFnZcqSlQwoLVE3uu1c
+          id: 4E1eFnZcqSlQwoLVE3uu1c
+          is_local: false
+          is_playable: true
+          name: Leaving On a Jet Plane
+          track_number: 11
+          type: track
+          uri: spotify:track:4E1eFnZcqSlQwoLVE3uu1c
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1MapWPCpuFlq3PcBZqzrPR
+            href: https://api.spotify.com/v1/albums/1MapWPCpuFlq3PcBZqzrPR
+            id: 1MapWPCpuFlq3PcBZqzrPR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27315ff270e9e197f4c6091239e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0215ff270e9e197f4c6091239e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485115ff270e9e197f4c6091239e
+            is_playable: true
+            name: 60s Essential Hits
+            release_date: '2024-06-28'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:1MapWPCpuFlq3PcBZqzrPR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB
+            href: https://api.spotify.com/v1/artists/6yrBBtqX2gKCHCrZOYBDrB
+            id: 6yrBBtqX2gKCHCrZOYBDrB
+            name: Peter, Paul and Mary
+            type: artist
+            uri: spotify:artist:6yrBBtqX2gKCHCrZOYBDrB
+          disc_number: 1
+          duration_ms: 207240
+          explicit: false
+          external_ids:
+            isrc: USWB16900037
+          external_urls:
+            spotify: https://open.spotify.com/track/3AHbo28mqXZXFbJfQKQKhu
+          href: https://api.spotify.com/v1/tracks/3AHbo28mqXZXFbJfQKQKhu
+          id: 3AHbo28mqXZXFbJfQKQKhu
+          is_local: false
+          is_playable: true
+          name: Leaving on a Jet Plane
+          track_number: 34
+          type: track
+          uri: spotify:track:3AHbo28mqXZXFbJfQKQKhu
+    isrc: USWB16900037

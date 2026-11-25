@@ -34,3 +34,86 @@ mediaFileData:
   year: 2020
   duration: 277.44
   modTime: 2025-06-10 22:37:30.228506+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7kq6RiNCle7KLvPsjIbqsI
+    trackId: 7kq6RiNCle7KLvPsjIbqsI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSA2Z2000613&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS
+              href: https://api.spotify.com/v1/artists/0Ynh5WKqwbdYqJUpVpfEGS
+              id: 0Ynh5WKqwbdYqJUpVpfEGS
+              name: Osees
+              type: artist
+              uri: spotify:artist:0Ynh5WKqwbdYqJUpVpfEGS
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh
+              href: https://api.spotify.com/v1/artists/3qYfqdVwX0fil71onLpLkh
+              id: 3qYfqdVwX0fil71onLpLkh
+              name: Thee Oh Sees
+              type: artist
+              uri: spotify:artist:3qYfqdVwX0fil71onLpLkh
+            external_urls:
+              spotify: https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI
+            href: https://api.spotify.com/v1/albums/16l3FJwjZooUHbU37sdeeI
+            id: 16l3FJwjZooUHbU37sdeeI
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ac85287fdf557a68fb576774
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ac85287fdf557a68fb576774
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ac85287fdf557a68fb576774
+            is_playable: true
+            name: Protean Threat
+            release_date: '2020-09-18'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:16l3FJwjZooUHbU37sdeeI
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS
+            href: https://api.spotify.com/v1/artists/0Ynh5WKqwbdYqJUpVpfEGS
+            id: 0Ynh5WKqwbdYqJUpVpfEGS
+            name: Osees
+            type: artist
+            uri: spotify:artist:0Ynh5WKqwbdYqJUpVpfEGS
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh
+            href: https://api.spotify.com/v1/artists/3qYfqdVwX0fil71onLpLkh
+            id: 3qYfqdVwX0fil71onLpLkh
+            name: Thee Oh Sees
+            type: artist
+            uri: spotify:artist:3qYfqdVwX0fil71onLpLkh
+          disc_number: 1
+          duration_ms: 277440
+          explicit: true
+          external_ids:
+            isrc: USA2Z2000613
+          external_urls:
+            spotify: https://open.spotify.com/track/7kq6RiNCle7KLvPsjIbqsI
+          href: https://api.spotify.com/v1/tracks/7kq6RiNCle7KLvPsjIbqsI
+          id: 7kq6RiNCle7KLvPsjIbqsI
+          is_local: false
+          is_playable: true
+          name: Said the Shovel
+          track_number: 7
+          type: track
+          uri: spotify:track:7kq6RiNCle7KLvPsjIbqsI
+    isrc: USA2Z2000613

@@ -65,3 +65,288 @@ mediaFileData:
   year: 1972
   duration: 270.7330612244898
   modTime: 2022-12-23 22:53:33.600000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0K3Dem9aRwRG9DVo0W2T3o
+    trackId: 0K3Dem9aRwRG9DVo0W2T3o
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAM17200383&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSAM17200383&type=track
+        offset: 0
+        previous:
+        total: 9
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI
+              href: https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI
+              id: 3pFCERyEiP5xeN2EsPXhjI
+              name: Joe Cocker
+              type: artist
+              uri: spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+            external_urls:
+              spotify: https://open.spotify.com/album/6pnyE3Ig78pMaztinhFbK6
+            href: https://api.spotify.com/v1/albums/6pnyE3Ig78pMaztinhFbK6
+            id: 6pnyE3Ig78pMaztinhFbK6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273966d6c0ef060daecd645615d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02966d6c0ef060daecd645615d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851966d6c0ef060daecd645615d
+            is_playable: true
+            name: Joe Cocker
+            release_date: '1972-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6pnyE3Ig78pMaztinhFbK6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI
+            href: https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI
+            id: 3pFCERyEiP5xeN2EsPXhjI
+            name: Joe Cocker
+            type: artist
+            uri: spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+          disc_number: 1
+          duration_ms: 270693
+          explicit: false
+          external_ids:
+            isrc: USAM17200383
+          external_urls:
+            spotify: https://open.spotify.com/track/0K3Dem9aRwRG9DVo0W2T3o
+          href: https://api.spotify.com/v1/tracks/0K3Dem9aRwRG9DVo0W2T3o
+          id: 0K3Dem9aRwRG9DVo0W2T3o
+          is_local: false
+          is_playable: true
+          name: Woman To Woman
+          track_number: 8
+          type: track
+          uri: spotify:track:0K3Dem9aRwRG9DVo0W2T3o
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI
+              href: https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI
+              id: 3pFCERyEiP5xeN2EsPXhjI
+              name: Joe Cocker
+              type: artist
+              uri: spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+            external_urls:
+              spotify: https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8
+            href: https://api.spotify.com/v1/albums/1vq5rtsUNR2tu5eJeG3uq8
+            id: 1vq5rtsUNR2tu5eJeG3uq8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b9f4f7a891702086c4b675c7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b9f4f7a891702086c4b675c7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b9f4f7a891702086c4b675c7
+            is_playable: true
+            name: Classics (Vol.4)
+            release_date: '1987-03-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:1vq5rtsUNR2tu5eJeG3uq8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI
+            href: https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI
+            id: 3pFCERyEiP5xeN2EsPXhjI
+            name: Joe Cocker
+            type: artist
+            uri: spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+          disc_number: 1
+          duration_ms: 268240
+          explicit: false
+          external_ids:
+            isrc: USAM17200383
+          external_urls:
+            spotify: https://open.spotify.com/track/0ELfmuIf68BQeGeHseSFjt
+          href: https://api.spotify.com/v1/tracks/0ELfmuIf68BQeGeHseSFjt
+          id: 0ELfmuIf68BQeGeHseSFjt
+          is_local: false
+          is_playable: true
+          name: Woman To Woman
+          track_number: 8
+          type: track
+          uri: spotify:track:0ELfmuIf68BQeGeHseSFjt
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI
+              href: https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI
+              id: 3pFCERyEiP5xeN2EsPXhjI
+              name: Joe Cocker
+              type: artist
+              uri: spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+            external_urls:
+              spotify: https://open.spotify.com/album/2UdHaYPejd7RbwNCZXbRvu
+            href: https://api.spotify.com/v1/albums/2UdHaYPejd7RbwNCZXbRvu
+            id: 2UdHaYPejd7RbwNCZXbRvu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273732e4426d2ff208cef655832
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02732e4426d2ff208cef655832
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851732e4426d2ff208cef655832
+            is_playable: true
+            name: Joe Cocker's Greatest Hits
+            release_date: '1977-11-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2UdHaYPejd7RbwNCZXbRvu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI
+            href: https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI
+            id: 3pFCERyEiP5xeN2EsPXhjI
+            name: Joe Cocker
+            type: artist
+            uri: spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+          disc_number: 1
+          duration_ms: 269240
+          explicit: false
+          external_ids:
+            isrc: USAM17200383
+          external_urls:
+            spotify: https://open.spotify.com/track/0MwwLooObZFoknC6PTLGof
+          href: https://api.spotify.com/v1/tracks/0MwwLooObZFoknC6PTLGof
+          id: 0MwwLooObZFoknC6PTLGof
+          is_local: false
+          is_playable: true
+          name: Woman To Woman
+          track_number: 2
+          type: track
+          uri: spotify:track:0MwwLooObZFoknC6PTLGof
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7CLSxW2drmLDpM0xFxKyO3
+            href: https://api.spotify.com/v1/albums/7CLSxW2drmLDpM0xFxKyO3
+            id: 7CLSxW2drmLDpM0xFxKyO3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f37aabf3b3862223a7f48960
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f37aabf3b3862223a7f48960
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f37aabf3b3862223a7f48960
+            is_playable: true
+            name: Diggin' In The Crates
+            release_date: '2019-07-05'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:7CLSxW2drmLDpM0xFxKyO3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI
+            href: https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI
+            id: 3pFCERyEiP5xeN2EsPXhjI
+            name: Joe Cocker
+            type: artist
+            uri: spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+          disc_number: 1
+          duration_ms: 268240
+          explicit: false
+          external_ids:
+            isrc: USAM17200383
+          external_urls:
+            spotify: https://open.spotify.com/track/3fszeIqRJJ8X7XBJilRdGR
+          href: https://api.spotify.com/v1/tracks/3fszeIqRJJ8X7XBJilRdGR
+          id: 3fszeIqRJJ8X7XBJilRdGR
+          is_local: false
+          is_playable: true
+          name: Woman To Woman
+          track_number: 5
+          type: track
+          uri: spotify:track:3fszeIqRJJ8X7XBJilRdGR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2AVDYcDNBg4lYzbIlTiPqH
+            href: https://api.spotify.com/v1/albums/2AVDYcDNBg4lYzbIlTiPqH
+            id: 2AVDYcDNBg4lYzbIlTiPqH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738de45e802e2eff32ce1c9fed
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028de45e802e2eff32ce1c9fed
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518de45e802e2eff32ce1c9fed
+            is_playable: true
+            name: Old School Boss Funk
+            release_date: '2026-02-20'
+            release_date_precision: day
+            total_tracks: 63
+            type: album
+            uri: spotify:album:2AVDYcDNBg4lYzbIlTiPqH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI
+            href: https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI
+            id: 3pFCERyEiP5xeN2EsPXhjI
+            name: Joe Cocker
+            type: artist
+            uri: spotify:artist:3pFCERyEiP5xeN2EsPXhjI
+          disc_number: 1
+          duration_ms: 268240
+          explicit: false
+          external_ids:
+            isrc: USAM17200383
+          external_urls:
+            spotify: https://open.spotify.com/track/1m0QIuFdvvSdw6d7SyMvs0
+          href: https://api.spotify.com/v1/tracks/1m0QIuFdvvSdw6d7SyMvs0
+          id: 1m0QIuFdvvSdw6d7SyMvs0
+          is_local: false
+          is_playable: true
+          name: Woman To Woman
+          track_number: 31
+          type: track
+          uri: spotify:track:1m0QIuFdvvSdw6d7SyMvs0
+    isrc: USAM17200383

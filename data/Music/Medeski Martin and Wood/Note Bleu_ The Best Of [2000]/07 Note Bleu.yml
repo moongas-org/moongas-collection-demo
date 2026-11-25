@@ -55,3 +55,126 @@ mediaFileData:
   year: 2006
   duration: 186.5143125
   modTime: 2023-07-17 00:18:32+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4FXWPrTeKir7yqA5WyJgh8
+    trackId: 4FXWPrTeKir7yqA5WyJgh8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBN20000574&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw
+              href: https://api.spotify.com/v1/artists/2Hg4SUNDuIn8xIidz9GxFw
+              id: 2Hg4SUNDuIn8xIidz9GxFw
+              name: Medeski, Martin & Wood
+              type: artist
+              uri: spotify:artist:2Hg4SUNDuIn8xIidz9GxFw
+            external_urls:
+              spotify: https://open.spotify.com/album/3IcnfBuh4RTyFvnHXtq691
+            href: https://api.spotify.com/v1/albums/3IcnfBuh4RTyFvnHXtq691
+            id: 3IcnfBuh4RTyFvnHXtq691
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273388da51526fb0a136a6e18b6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02388da51526fb0a136a6e18b6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851388da51526fb0a136a6e18b6
+            is_playable: true
+            name: The Dropper
+            release_date: '2000-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:3IcnfBuh4RTyFvnHXtq691
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw
+            href: https://api.spotify.com/v1/artists/2Hg4SUNDuIn8xIidz9GxFw
+            id: 2Hg4SUNDuIn8xIidz9GxFw
+            name: Medeski, Martin & Wood
+            type: artist
+            uri: spotify:artist:2Hg4SUNDuIn8xIidz9GxFw
+          disc_number: 1
+          duration_ms: 181487
+          explicit: false
+          external_ids:
+            isrc: USBN20000574
+          external_urls:
+            spotify: https://open.spotify.com/track/4FXWPrTeKir7yqA5WyJgh8
+          href: https://api.spotify.com/v1/tracks/4FXWPrTeKir7yqA5WyJgh8
+          id: 4FXWPrTeKir7yqA5WyJgh8
+          is_local: false
+          is_playable: true
+          name: Note Bleu
+          track_number: 7
+          type: track
+          uri: spotify:track:4FXWPrTeKir7yqA5WyJgh8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw
+              href: https://api.spotify.com/v1/artists/2Hg4SUNDuIn8xIidz9GxFw
+              id: 2Hg4SUNDuIn8xIidz9GxFw
+              name: Medeski, Martin & Wood
+              type: artist
+              uri: spotify:artist:2Hg4SUNDuIn8xIidz9GxFw
+            external_urls:
+              spotify: https://open.spotify.com/album/13G4kj0Ht6V11GWrgrE9DB
+            href: https://api.spotify.com/v1/albums/13G4kj0Ht6V11GWrgrE9DB
+            id: 13G4kj0Ht6V11GWrgrE9DB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d8a9d21e75a0ade86d8b3d65
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d8a9d21e75a0ade86d8b3d65
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d8a9d21e75a0ade86d8b3d65
+            is_playable: true
+            name: 'Note Bleu: The Best Of. . .'
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:13G4kj0Ht6V11GWrgrE9DB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw
+            href: https://api.spotify.com/v1/artists/2Hg4SUNDuIn8xIidz9GxFw
+            id: 2Hg4SUNDuIn8xIidz9GxFw
+            name: Medeski, Martin & Wood
+            type: artist
+            uri: spotify:artist:2Hg4SUNDuIn8xIidz9GxFw
+          disc_number: 1
+          duration_ms: 184360
+          explicit: false
+          external_ids:
+            isrc: USBN20000574
+          external_urls:
+            spotify: https://open.spotify.com/track/6wArn5Y3UEmctgj5AsADnp
+          href: https://api.spotify.com/v1/tracks/6wArn5Y3UEmctgj5AsADnp
+          id: 6wArn5Y3UEmctgj5AsADnp
+          is_local: false
+          is_playable: true
+          name: Note Bleu
+          track_number: 7
+          type: track
+          uri: spotify:track:6wArn5Y3UEmctgj5AsADnp
+    isrc: USBN20000574

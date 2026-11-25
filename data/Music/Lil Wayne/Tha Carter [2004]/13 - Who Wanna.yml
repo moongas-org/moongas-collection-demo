@@ -41,3 +41,72 @@ mediaFileData:
   year: 2004
   duration: 272.45714285714286
   modTime: 2026-08-15 15:09:46.098489+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3FZ9OG76OMjT0yTFCkh9o1
+    trackId: 3FZ9OG76OMjT0yTFCkh9o1
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCM50400088&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+              href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+              id: 55Aa2cqylxrFIXC767Z865
+              name: Lil Wayne
+              type: artist
+              uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+            external_urls:
+              spotify: https://open.spotify.com/album/3G63CfLqzWvBfZboycpyx5
+            href: https://api.spotify.com/v1/albums/3G63CfLqzWvBfZboycpyx5
+            id: 3G63CfLqzWvBfZboycpyx5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27325d0b54bd30205d4ed2d5599
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0225d0b54bd30205d4ed2d5599
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485125d0b54bd30205d4ed2d5599
+            is_playable: true
+            name: Tha Carter
+            release_date: '2004-01-01'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:3G63CfLqzWvBfZboycpyx5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865
+            href: https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865
+            id: 55Aa2cqylxrFIXC767Z865
+            name: Lil Wayne
+            type: artist
+            uri: spotify:artist:55Aa2cqylxrFIXC767Z865
+          disc_number: 1
+          duration_ms: 272413
+          explicit: true
+          external_ids:
+            isrc: USCM50400088
+          external_urls:
+            spotify: https://open.spotify.com/track/3FZ9OG76OMjT0yTFCkh9o1
+          href: https://api.spotify.com/v1/tracks/3FZ9OG76OMjT0yTFCkh9o1
+          id: 3FZ9OG76OMjT0yTFCkh9o1
+          is_local: false
+          is_playable: true
+          name: Who Wanna
+          track_number: 13
+          type: track
+          uri: spotify:track:3FZ9OG76OMjT0yTFCkh9o1
+    isrc: USCM50400088

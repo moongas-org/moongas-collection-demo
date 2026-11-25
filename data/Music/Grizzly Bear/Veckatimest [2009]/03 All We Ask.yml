@@ -35,3 +35,126 @@ mediaFileData:
   year: 2009
   duration: 320.20897959183674
   modTime: 2023-09-30 15:45:58+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7AUxtGTbsmAezGQ4GBmfAA
+    trackId: 7AUxtGTbsmAezGQ4GBmfAA
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPW0900066&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4
+              href: https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4
+              id: 2Jv5eshHtLycR6R8KQCdc4
+              name: Grizzly Bear
+              type: artist
+              uri: spotify:artist:2Jv5eshHtLycR6R8KQCdc4
+            external_urls:
+              spotify: https://open.spotify.com/album/478RRNLUoCHpChj0xYbiqL
+            href: https://api.spotify.com/v1/albums/478RRNLUoCHpChj0xYbiqL
+            id: 478RRNLUoCHpChj0xYbiqL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c4d70d5e3e379d876e011cd7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c4d70d5e3e379d876e011cd7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c4d70d5e3e379d876e011cd7
+            is_playable: true
+            name: Veckatimest (Deluxe Version)
+            release_date: '2009-11-02'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:478RRNLUoCHpChj0xYbiqL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4
+            href: https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4
+            id: 2Jv5eshHtLycR6R8KQCdc4
+            name: Grizzly Bear
+            type: artist
+            uri: spotify:artist:2Jv5eshHtLycR6R8KQCdc4
+          disc_number: 1
+          duration_ms: 321680
+          explicit: false
+          external_ids:
+            isrc: GBBPW0900066
+          external_urls:
+            spotify: https://open.spotify.com/track/7AUxtGTbsmAezGQ4GBmfAA
+          href: https://api.spotify.com/v1/tracks/7AUxtGTbsmAezGQ4GBmfAA
+          id: 7AUxtGTbsmAezGQ4GBmfAA
+          is_local: false
+          is_playable: true
+          name: All We Ask
+          track_number: 3
+          type: track
+          uri: spotify:track:7AUxtGTbsmAezGQ4GBmfAA
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4
+              href: https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4
+              id: 2Jv5eshHtLycR6R8KQCdc4
+              name: Grizzly Bear
+              type: artist
+              uri: spotify:artist:2Jv5eshHtLycR6R8KQCdc4
+            external_urls:
+              spotify: https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ
+            href: https://api.spotify.com/v1/albums/3XQMgEnLQnOMkFaJA9w6sZ
+            id: 3XQMgEnLQnOMkFaJA9w6sZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aaa83532a319c37f1fb4180c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aaa83532a319c37f1fb4180c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aaa83532a319c37f1fb4180c
+            is_playable: true
+            name: Veckatimest
+            release_date: '2009-05-24'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3XQMgEnLQnOMkFaJA9w6sZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4
+            href: https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4
+            id: 2Jv5eshHtLycR6R8KQCdc4
+            name: Grizzly Bear
+            type: artist
+            uri: spotify:artist:2Jv5eshHtLycR6R8KQCdc4
+          disc_number: 1
+          duration_ms: 321680
+          explicit: false
+          external_ids:
+            isrc: GBBPW0900066
+          external_urls:
+            spotify: https://open.spotify.com/track/3hWCcdRLNQMQIejx4oY3XF
+          href: https://api.spotify.com/v1/tracks/3hWCcdRLNQMQIejx4oY3XF
+          id: 3hWCcdRLNQMQIejx4oY3XF
+          is_local: false
+          is_playable: true
+          name: All We Ask
+          track_number: 3
+          type: track
+          uri: spotify:track:3hWCcdRLNQMQIejx4oY3XF
+    isrc: GBBPW0900066

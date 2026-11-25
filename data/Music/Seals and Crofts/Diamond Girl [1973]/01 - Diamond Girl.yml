@@ -78,3 +78,288 @@ mediaFileData:
   year: 1973
   duration: 253.08
   modTime: 2025-10-06 22:21:22.129596+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/33vj9PotZXVHmIxH8Ox6xs
+    trackId: 33vj9PotZXVHmIxH8Ox6xs
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901638&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB19901638&type=track
+        offset: 0
+        previous:
+        total: 25
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2hZarv2b2vI2j0QRrOv4bt
+            href: https://api.spotify.com/v1/albums/2hZarv2b2vI2j0QRrOv4bt
+            id: 2hZarv2b2vI2j0QRrOv4bt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736533c426fc884ede08e1cdd9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026533c426fc884ede08e1cdd9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516533c426fc884ede08e1cdd9
+            is_playable: true
+            name: Licorice Pizza (Original Motion Picture Soundtrack)
+            release_date: '2021-11-26'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:2hZarv2b2vI2j0QRrOv4bt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj
+            href: https://api.spotify.com/v1/artists/6jdObwsrIjSRnBbMw6lPBj
+            id: 6jdObwsrIjSRnBbMw6lPBj
+            name: Seals and Crofts
+            type: artist
+            uri: spotify:artist:6jdObwsrIjSRnBbMw6lPBj
+          disc_number: 1
+          duration_ms: 253400
+          explicit: false
+          external_ids:
+            isrc: USWB19901638
+          external_urls:
+            spotify: https://open.spotify.com/track/33vj9PotZXVHmIxH8Ox6xs
+          href: https://api.spotify.com/v1/tracks/33vj9PotZXVHmIxH8Ox6xs
+          id: 33vj9PotZXVHmIxH8Ox6xs
+          is_local: false
+          is_playable: true
+          name: Diamond Girl
+          track_number: 12
+          type: track
+          uri: spotify:track:33vj9PotZXVHmIxH8Ox6xs
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3usPnSDOFwhalnFIWJKWAA
+            href: https://api.spotify.com/v1/albums/3usPnSDOFwhalnFIWJKWAA
+            id: 3usPnSDOFwhalnFIWJKWAA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273aff167138d7ee32407e7dfc0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02aff167138d7ee32407e7dfc0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851aff167138d7ee32407e7dfc0
+            is_playable: true
+            name: Mellow 70s Gold
+            release_date: '2025-05-18'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:3usPnSDOFwhalnFIWJKWAA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj
+            href: https://api.spotify.com/v1/artists/6jdObwsrIjSRnBbMw6lPBj
+            id: 6jdObwsrIjSRnBbMw6lPBj
+            name: Seals and Crofts
+            type: artist
+            uri: spotify:artist:6jdObwsrIjSRnBbMw6lPBj
+          disc_number: 1
+          duration_ms: 253400
+          explicit: false
+          external_ids:
+            isrc: USWB19901638
+          external_urls:
+            spotify: https://open.spotify.com/track/7AjbWQk9p4Pz7TyPkN9nrj
+          href: https://api.spotify.com/v1/tracks/7AjbWQk9p4Pz7TyPkN9nrj
+          id: 7AjbWQk9p4Pz7TyPkN9nrj
+          is_local: false
+          is_playable: true
+          name: Diamond Girl
+          track_number: 54
+          type: track
+          uri: spotify:track:7AjbWQk9p4Pz7TyPkN9nrj
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj
+              href: https://api.spotify.com/v1/artists/6jdObwsrIjSRnBbMw6lPBj
+              id: 6jdObwsrIjSRnBbMw6lPBj
+              name: Seals and Crofts
+              type: artist
+              uri: spotify:artist:6jdObwsrIjSRnBbMw6lPBj
+            external_urls:
+              spotify: https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr
+            href: https://api.spotify.com/v1/albums/11hw0WWSfcwWTNKaMk5kmr
+            id: 11hw0WWSfcwWTNKaMk5kmr
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27364f867c4e67123eb38d97a6d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0264f867c4e67123eb38d97a6d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485164f867c4e67123eb38d97a6d
+            is_playable: true
+            name: Diamond Girl
+            release_date: '1973'
+            release_date_precision: year
+            total_tracks: 10
+            type: album
+            uri: spotify:album:11hw0WWSfcwWTNKaMk5kmr
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj
+            href: https://api.spotify.com/v1/artists/6jdObwsrIjSRnBbMw6lPBj
+            id: 6jdObwsrIjSRnBbMw6lPBj
+            name: Seals and Crofts
+            type: artist
+            uri: spotify:artist:6jdObwsrIjSRnBbMw6lPBj
+          disc_number: 1
+          duration_ms: 253400
+          explicit: false
+          external_ids:
+            isrc: USWB19901638
+          external_urls:
+            spotify: https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv
+          href: https://api.spotify.com/v1/tracks/7CQQBWqFfROA5RWyY04ifv
+          id: 7CQQBWqFfROA5RWyY04ifv
+          is_local: false
+          is_playable: true
+          name: Diamond Girl
+          track_number: 1
+          type: track
+          uri: spotify:track:7CQQBWqFfROA5RWyY04ifv
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj
+              href: https://api.spotify.com/v1/artists/6jdObwsrIjSRnBbMw6lPBj
+              id: 6jdObwsrIjSRnBbMw6lPBj
+              name: Seals and Crofts
+              type: artist
+              uri: spotify:artist:6jdObwsrIjSRnBbMw6lPBj
+            external_urls:
+              spotify: https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj
+            href: https://api.spotify.com/v1/albums/4dkdQY484elFRfcVNY6uzj
+            id: 4dkdQY484elFRfcVNY6uzj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c0192655ecd04d3a941c3a44
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c0192655ecd04d3a941c3a44
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c0192655ecd04d3a941c3a44
+            is_playable: true
+            name: Seals & Crofts' Greatest Hits
+            release_date: '1977-10-11'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4dkdQY484elFRfcVNY6uzj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj
+            href: https://api.spotify.com/v1/artists/6jdObwsrIjSRnBbMw6lPBj
+            id: 6jdObwsrIjSRnBbMw6lPBj
+            name: Seals and Crofts
+            type: artist
+            uri: spotify:artist:6jdObwsrIjSRnBbMw6lPBj
+          disc_number: 1
+          duration_ms: 247813
+          explicit: false
+          external_ids:
+            isrc: USWB19901638
+          external_urls:
+            spotify: https://open.spotify.com/track/01U7AowXWVSzZ8K3LxAeED
+          href: https://api.spotify.com/v1/tracks/01U7AowXWVSzZ8K3LxAeED
+          id: 01U7AowXWVSzZ8K3LxAeED
+          is_local: false
+          is_playable: true
+          name: Diamond Girl
+          track_number: 2
+          type: track
+          uri: spotify:track:01U7AowXWVSzZ8K3LxAeED
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1VG8SUqPakxukT2Y5pedOz
+            href: https://api.spotify.com/v1/albums/1VG8SUqPakxukT2Y5pedOz
+            id: 1VG8SUqPakxukT2Y5pedOz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273584811eb5b4ea74741fb4907
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02584811eb5b4ea74741fb4907
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851584811eb5b4ea74741fb4907
+            is_playable: true
+            name: Classic Rock 70's
+            release_date: '2020-03-13'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:1VG8SUqPakxukT2Y5pedOz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj
+            href: https://api.spotify.com/v1/artists/6jdObwsrIjSRnBbMw6lPBj
+            id: 6jdObwsrIjSRnBbMw6lPBj
+            name: Seals and Crofts
+            type: artist
+            uri: spotify:artist:6jdObwsrIjSRnBbMw6lPBj
+          disc_number: 1
+          duration_ms: 253400
+          explicit: false
+          external_ids:
+            isrc: USWB19901638
+          external_urls:
+            spotify: https://open.spotify.com/track/7kRN4fDTDrn1gQexZGMnXp
+          href: https://api.spotify.com/v1/tracks/7kRN4fDTDrn1gQexZGMnXp
+          id: 7kRN4fDTDrn1gQexZGMnXp
+          is_local: false
+          is_playable: true
+          name: Diamond Girl
+          track_number: 16
+          type: track
+          uri: spotify:track:7kRN4fDTDrn1gQexZGMnXp
+    isrc: USWB19901638

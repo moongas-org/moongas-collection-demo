@@ -57,3 +57,126 @@ mediaFileData:
   year: 1965
   duration: 242.78204081632654
   modTime: 2023-08-20 23:38:00+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1TEiiNPdKruhqM8LRydiyp
+    trackId: 1TEiiNPdKruhqM8LRydiyp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC10200834&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w
+              href: https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w
+              id: 67ea9eGLXYMsO2eYQRui3w
+              name: The Who
+              type: artist
+              uri: spotify:artist:67ea9eGLXYMsO2eYQRui3w
+            external_urls:
+              spotify: https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX
+            href: https://api.spotify.com/v1/albums/0ooEHMMu3yiwnFwNYHcqwX
+            id: 0ooEHMMu3yiwnFwNYHcqwX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c4bce589ca107c9ca77cd3d6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c4bce589ca107c9ca77cd3d6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c4bce589ca107c9ca77cd3d6
+            is_playable: true
+            name: My Generation (50th Anniversary / Super Deluxe)
+            release_date: '1965-12-03'
+            release_date_precision: day
+            total_tracks: 79
+            type: album
+            uri: spotify:album:0ooEHMMu3yiwnFwNYHcqwX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w
+            href: https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w
+            id: 67ea9eGLXYMsO2eYQRui3w
+            name: The Who
+            type: artist
+            uri: spotify:artist:67ea9eGLXYMsO2eYQRui3w
+          disc_number: 2
+          duration_ms: 245506
+          explicit: false
+          external_ids:
+            isrc: USMC10200834
+          external_urls:
+            spotify: https://open.spotify.com/track/1TEiiNPdKruhqM8LRydiyp
+          href: https://api.spotify.com/v1/tracks/1TEiiNPdKruhqM8LRydiyp
+          id: 1TEiiNPdKruhqM8LRydiyp
+          is_local: false
+          is_playable: true
+          name: The Good's Gone - 2014 Stereo Mix
+          track_number: 3
+          type: track
+          uri: spotify:track:1TEiiNPdKruhqM8LRydiyp
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w
+              href: https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w
+              id: 67ea9eGLXYMsO2eYQRui3w
+              name: The Who
+              type: artist
+              uri: spotify:artist:67ea9eGLXYMsO2eYQRui3w
+            external_urls:
+              spotify: https://open.spotify.com/album/5eUeoz9VV08zSiJgW84Rng
+            href: https://api.spotify.com/v1/albums/5eUeoz9VV08zSiJgW84Rng
+            id: 5eUeoz9VV08zSiJgW84Rng
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c78174e32ad78d3022b90056
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c78174e32ad78d3022b90056
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c78174e32ad78d3022b90056
+            is_playable: true
+            name: My Generation (Deluxe Edition)
+            release_date: '1965-12-03'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:5eUeoz9VV08zSiJgW84Rng
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w
+            href: https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w
+            id: 67ea9eGLXYMsO2eYQRui3w
+            name: The Who
+            type: artist
+            uri: spotify:artist:67ea9eGLXYMsO2eYQRui3w
+          disc_number: 1
+          duration_ms: 240040
+          explicit: false
+          external_ids:
+            isrc: USMC10200834
+          external_urls:
+            spotify: https://open.spotify.com/track/6pQd0kN2Bm5kMghp1E8Y8v
+          href: https://api.spotify.com/v1/tracks/6pQd0kN2Bm5kMghp1E8Y8v
+          id: 6pQd0kN2Bm5kMghp1E8Y8v
+          is_local: false
+          is_playable: true
+          name: The Good's Gone - Shel Talmy Stereo Version
+          track_number: 3
+          type: track
+          uri: spotify:track:6pQd0kN2Bm5kMghp1E8Y8v
+    isrc: USMC10200834

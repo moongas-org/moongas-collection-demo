@@ -48,3 +48,126 @@ mediaFileData:
   year: 2008
   duration: 221.30938775510205
   modTime: 2024-07-19 23:13:02.521305+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7fy5OVyoE1Kc19RDMrT8F3
+    trackId: 7fy5OVyoE1Kc19RDMrT8F3
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSESL0814001&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+              href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+              id: 25KNo5GDS6ZpLkjasaecA3
+              name: Thievery Corporation
+              type: artist
+              uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+            external_urls:
+              spotify: https://open.spotify.com/album/14WWRLgcPOYi0BLqQqDFlT
+            href: https://api.spotify.com/v1/albums/14WWRLgcPOYi0BLqQqDFlT
+            id: 14WWRLgcPOYi0BLqQqDFlT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b22d8b19e11280b6724748b1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b22d8b19e11280b6724748b1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b22d8b19e11280b6724748b1
+            is_playable: true
+            name: Radio Retaliation (Deluxe Edition)
+            release_date: '2008-12-23'
+            release_date_precision: day
+            total_tracks: 19
+            type: album
+            uri: spotify:album:14WWRLgcPOYi0BLqQqDFlT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+            href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+            id: 25KNo5GDS6ZpLkjasaecA3
+            name: Thievery Corporation
+            type: artist
+            uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+          disc_number: 1
+          duration_ms: 221240
+          explicit: false
+          external_ids:
+            isrc: USESL0814001
+          external_urls:
+            spotify: https://open.spotify.com/track/7fy5OVyoE1Kc19RDMrT8F3
+          href: https://api.spotify.com/v1/tracks/7fy5OVyoE1Kc19RDMrT8F3
+          id: 7fy5OVyoE1Kc19RDMrT8F3
+          is_local: false
+          is_playable: true
+          name: Sound The Alarm
+          track_number: 1
+          type: track
+          uri: spotify:track:7fy5OVyoE1Kc19RDMrT8F3
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+              href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+              id: 25KNo5GDS6ZpLkjasaecA3
+              name: Thievery Corporation
+              type: artist
+              uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+            external_urls:
+              spotify: https://open.spotify.com/album/76np4yKlvMrv7Zkj6qDW0x
+            href: https://api.spotify.com/v1/albums/76np4yKlvMrv7Zkj6qDW0x
+            id: 76np4yKlvMrv7Zkj6qDW0x
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735ccb72ac1b43a1cc8596d13f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025ccb72ac1b43a1cc8596d13f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515ccb72ac1b43a1cc8596d13f
+            is_playable: true
+            name: Radio Retaliation
+            release_date: '2008-09-23'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:76np4yKlvMrv7Zkj6qDW0x
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+            href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+            id: 25KNo5GDS6ZpLkjasaecA3
+            name: Thievery Corporation
+            type: artist
+            uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+          disc_number: 1
+          duration_ms: 221240
+          explicit: false
+          external_ids:
+            isrc: USESL0814001
+          external_urls:
+            spotify: https://open.spotify.com/track/5r63LePi4xWjcWHa1RrcYt
+          href: https://api.spotify.com/v1/tracks/5r63LePi4xWjcWHa1RrcYt
+          id: 5r63LePi4xWjcWHa1RrcYt
+          is_local: false
+          is_playable: true
+          name: Sound The Alarm
+          track_number: 1
+          type: track
+          uri: spotify:track:5r63LePi4xWjcWHa1RrcYt
+    isrc: USESL0814001

@@ -59,3 +59,180 @@ mediaFileData:
   year: 1973
   duration: 334.65470833333336
   modTime: 2023-07-17 00:10:14+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7ucjEBSxx5sI46redS5a6v
+    trackId: 7ucjEBSxx5sI46redS5a6v
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19901413&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+              href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+              id: 0ZIwOAzDuGPspzK7yiTc4S
+              name: Little Feat
+              type: artist
+              uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+            external_urls:
+              spotify: https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF
+            href: https://api.spotify.com/v1/albums/4xtCtXkGuTbHQwTaVd5FCF
+            id: 4xtCtXkGuTbHQwTaVd5FCF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f8db0e1d67ad1d89e6057e38
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f8db0e1d67ad1d89e6057e38
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f8db0e1d67ad1d89e6057e38
+            is_playable: true
+            name: Dixie Chicken
+            release_date: '1973-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4xtCtXkGuTbHQwTaVd5FCF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 1
+          duration_ms: 334600
+          explicit: false
+          external_ids:
+            isrc: USWB19901413
+          external_urls:
+            spotify: https://open.spotify.com/track/7ucjEBSxx5sI46redS5a6v
+          href: https://api.spotify.com/v1/tracks/7ucjEBSxx5sI46redS5a6v
+          id: 7ucjEBSxx5sI46redS5a6v
+          is_local: false
+          is_playable: true
+          name: On Your Way Down
+          track_number: 4
+          type: track
+          uri: spotify:track:7ucjEBSxx5sI46redS5a6v
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+              href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+              id: 0ZIwOAzDuGPspzK7yiTc4S
+              name: Little Feat
+              type: artist
+              uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+            external_urls:
+              spotify: https://open.spotify.com/album/4H87tuNGBfs7opAEpYokit
+            href: https://api.spotify.com/v1/albums/4H87tuNGBfs7opAEpYokit
+            id: 4H87tuNGBfs7opAEpYokit
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739e2b97781670471a3642d982
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029e2b97781670471a3642d982
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519e2b97781670471a3642d982
+            is_playable: true
+            name: 'Rad Gumbo: The Complete Warner Bros. Years 1971-1990'
+            release_date: '2014-02-25'
+            release_date_precision: day
+            total_tracks: 157
+            type: album
+            uri: spotify:album:4H87tuNGBfs7opAEpYokit
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 3
+          duration_ms: 334600
+          explicit: false
+          external_ids:
+            isrc: USWB19901413
+          external_urls:
+            spotify: https://open.spotify.com/track/5ZTygmIlcxcyX7e6p4wQ93
+          href: https://api.spotify.com/v1/tracks/5ZTygmIlcxcyX7e6p4wQ93
+          id: 5ZTygmIlcxcyX7e6p4wQ93
+          is_local: false
+          is_playable: true
+          name: On Your Way Down
+          track_number: 4
+          type: track
+          uri: spotify:track:5ZTygmIlcxcyX7e6p4wQ93
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5Qacq2HtjmsSQN714eVgLG
+            href: https://api.spotify.com/v1/albums/5Qacq2HtjmsSQN714eVgLG
+            id: 5Qacq2HtjmsSQN714eVgLG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27359a3f2711b8e23d0e6d25794
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0259a3f2711b8e23d0e6d25794
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485159a3f2711b8e23d0e6d25794
+            is_playable: true
+            name: '1973'
+            release_date: '2017-04-22'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5Qacq2HtjmsSQN714eVgLG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+            href: https://api.spotify.com/v1/artists/0ZIwOAzDuGPspzK7yiTc4S
+            id: 0ZIwOAzDuGPspzK7yiTc4S
+            name: Little Feat
+            type: artist
+            uri: spotify:artist:0ZIwOAzDuGPspzK7yiTc4S
+          disc_number: 1
+          duration_ms: 334600
+          explicit: false
+          external_ids:
+            isrc: USWB19901413
+          external_urls:
+            spotify: https://open.spotify.com/track/1OZXH7YDq7Ynj5pZN0xzMQ
+          href: https://api.spotify.com/v1/tracks/1OZXH7YDq7Ynj5pZN0xzMQ
+          id: 1OZXH7YDq7Ynj5pZN0xzMQ
+          is_local: false
+          is_playable: true
+          name: On Your Way Down
+          track_number: 24
+          type: track
+          uri: spotify:track:1OZXH7YDq7Ynj5pZN0xzMQ
+    isrc: USWB19901413

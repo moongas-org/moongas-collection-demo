@@ -45,3 +45,79 @@ mediaFileData:
   year: 2016
   duration: 218.28
   modTime: 2024-05-12 22:31:57.865650+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/11jR36qzNpUnQ2YbMrru1p
+    trackId: 11jR36qzNpUnQ2YbMrru1p
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS1600018&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
+              href: https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu
+              id: 6qgnBH6iDM91ipVXv28OMu
+              name: KAYTRANADA
+              type: artist
+              uri: spotify:artist:6qgnBH6iDM91ipVXv28OMu
+            external_urls:
+              spotify: https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa
+            href: https://api.spotify.com/v1/albums/6JD4Qerb8IcaAzFgpFw0sa
+            id: 6JD4Qerb8IcaAzFgpFw0sa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b2f893f4215f2930e7320355
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b2f893f4215f2930e7320355
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b2f893f4215f2930e7320355
+            is_playable: true
+            name: 99.9%
+            release_date: '2016-05-06'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:6JD4Qerb8IcaAzFgpFw0sa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
+            href: https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu
+            id: 6qgnBH6iDM91ipVXv28OMu
+            name: KAYTRANADA
+            type: artist
+            uri: spotify:artist:6qgnBH6iDM91ipVXv28OMu
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC
+            href: https://api.spotify.com/v1/artists/5SyCTZ8X8YQCI0J1VRp4iC
+            id: 5SyCTZ8X8YQCI0J1VRp4iC
+            name: Phonte
+            type: artist
+            uri: spotify:artist:5SyCTZ8X8YQCI0J1VRp4iC
+          disc_number: 1
+          duration_ms: 218240
+          explicit: true
+          external_ids:
+            isrc: GBBKS1600018
+          external_urls:
+            spotify: https://open.spotify.com/track/11jR36qzNpUnQ2YbMrru1p
+          href: https://api.spotify.com/v1/tracks/11jR36qzNpUnQ2YbMrru1p
+          id: 11jR36qzNpUnQ2YbMrru1p
+          is_local: false
+          is_playable: true
+          name: ONE TOO MANY
+          track_number: 7
+          type: track
+          uri: spotify:track:11jR36qzNpUnQ2YbMrru1p
+    isrc: GBBKS1600018

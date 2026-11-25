@@ -97,3 +97,288 @@ mediaFileData:
   year: 1981
   duration: 153.20816326530613
   modTime: 2026-05-26 18:21:19.862463+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF
+    trackId: 5kz9GDBTX846OXwqWoyKzF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWWW0128900&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWWW0128900&type=track
+        offset: 0
+        previous:
+        total: 14
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE
+              href: https://api.spotify.com/v1/artists/2mG8HHQ9S9kcbjcrb5N1FE
+              id: 2mG8HHQ9S9kcbjcrb5N1FE
+              name: The Go-Go's
+              type: artist
+              uri: spotify:artist:2mG8HHQ9S9kcbjcrb5N1FE
+            external_urls:
+              spotify: https://open.spotify.com/album/1L4HE00En7eNK74voVZums
+            href: https://api.spotify.com/v1/albums/1L4HE00En7eNK74voVZums
+            id: 1L4HE00En7eNK74voVZums
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738a25755534e84d8a604e6b38
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028a25755534e84d8a604e6b38
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518a25755534e84d8a604e6b38
+            is_playable: true
+            name: Beauty And The Beat
+            release_date: '1981-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1L4HE00En7eNK74voVZums
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE
+            href: https://api.spotify.com/v1/artists/2mG8HHQ9S9kcbjcrb5N1FE
+            id: 2mG8HHQ9S9kcbjcrb5N1FE
+            name: The Go-Go's
+            type: artist
+            uri: spotify:artist:2mG8HHQ9S9kcbjcrb5N1FE
+          disc_number: 1
+          duration_ms: 153133
+          explicit: false
+          external_ids:
+            isrc: USWWW0128900
+          external_urls:
+            spotify: https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF
+          href: https://api.spotify.com/v1/tracks/5kz9GDBTX846OXwqWoyKzF
+          id: 5kz9GDBTX846OXwqWoyKzF
+          is_local: false
+          is_playable: true
+          name: We Got The Beat
+          track_number: 6
+          type: track
+          uri: spotify:track:5kz9GDBTX846OXwqWoyKzF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2I8Pz58nIRhllpmJrCvtWG
+            href: https://api.spotify.com/v1/albums/2I8Pz58nIRhllpmJrCvtWG
+            id: 2I8Pz58nIRhllpmJrCvtWG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739b2189bed8921c6988671529
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029b2189bed8921c6988671529
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519b2189bed8921c6988671529
+            is_playable: true
+            name: Classic Road Trip Songs
+            release_date: '2022-09-28'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:2I8Pz58nIRhllpmJrCvtWG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE
+            href: https://api.spotify.com/v1/artists/2mG8HHQ9S9kcbjcrb5N1FE
+            id: 2mG8HHQ9S9kcbjcrb5N1FE
+            name: The Go-Go's
+            type: artist
+            uri: spotify:artist:2mG8HHQ9S9kcbjcrb5N1FE
+          disc_number: 1
+          duration_ms: 153133
+          explicit: false
+          external_ids:
+            isrc: USWWW0128900
+          external_urls:
+            spotify: https://open.spotify.com/track/7cqHs7666gZ6OwaPeltXAY
+          href: https://api.spotify.com/v1/tracks/7cqHs7666gZ6OwaPeltXAY
+          id: 7cqHs7666gZ6OwaPeltXAY
+          is_local: false
+          is_playable: true
+          name: We Got The Beat
+          track_number: 8
+          type: track
+          uri: spotify:track:7cqHs7666gZ6OwaPeltXAY
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7D7AsvzfRsK5le2DiV5ekP
+            href: https://api.spotify.com/v1/albums/7D7AsvzfRsK5le2DiV5ekP
+            id: 7D7AsvzfRsK5le2DiV5ekP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732eeb7b0c443385a843bf1719
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022eeb7b0c443385a843bf1719
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512eeb7b0c443385a843bf1719
+            is_playable: true
+            name: Back To School - Pop Edition
+            release_date: '2020-08-14'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:7D7AsvzfRsK5le2DiV5ekP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE
+            href: https://api.spotify.com/v1/artists/2mG8HHQ9S9kcbjcrb5N1FE
+            id: 2mG8HHQ9S9kcbjcrb5N1FE
+            name: The Go-Go's
+            type: artist
+            uri: spotify:artist:2mG8HHQ9S9kcbjcrb5N1FE
+          disc_number: 1
+          duration_ms: 153133
+          explicit: false
+          external_ids:
+            isrc: USWWW0128900
+          external_urls:
+            spotify: https://open.spotify.com/track/3YQOZUpEvlrS3yaskKkcFN
+          href: https://api.spotify.com/v1/tracks/3YQOZUpEvlrS3yaskKkcFN
+          id: 3YQOZUpEvlrS3yaskKkcFN
+          is_local: false
+          is_playable: true
+          name: We Got The Beat
+          track_number: 25
+          type: track
+          uri: spotify:track:3YQOZUpEvlrS3yaskKkcFN
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/71R0YjFmXfxyv2HJIGDFTj
+            href: https://api.spotify.com/v1/albums/71R0YjFmXfxyv2HJIGDFTj
+            id: 71R0YjFmXfxyv2HJIGDFTj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732c635d92bdc7912cfe88ddc3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022c635d92bdc7912cfe88ddc3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512c635d92bdc7912cfe88ddc3
+            is_playable: true
+            name: 1982 Best of by uDiscover
+            release_date: '2026-04-24'
+            release_date_precision: day
+            total_tracks: 52
+            type: album
+            uri: spotify:album:71R0YjFmXfxyv2HJIGDFTj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE
+            href: https://api.spotify.com/v1/artists/2mG8HHQ9S9kcbjcrb5N1FE
+            id: 2mG8HHQ9S9kcbjcrb5N1FE
+            name: The Go-Go's
+            type: artist
+            uri: spotify:artist:2mG8HHQ9S9kcbjcrb5N1FE
+          disc_number: 1
+          duration_ms: 153133
+          explicit: false
+          external_ids:
+            isrc: USWWW0128900
+          external_urls:
+            spotify: https://open.spotify.com/track/4VAfGmY1iBQDcDMzOm37MI
+          href: https://api.spotify.com/v1/tracks/4VAfGmY1iBQDcDMzOm37MI
+          id: 4VAfGmY1iBQDcDMzOm37MI
+          is_local: false
+          is_playable: true
+          name: We Got The Beat
+          track_number: 18
+          type: track
+          uri: spotify:track:4VAfGmY1iBQDcDMzOm37MI
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0SVzL0IArs6OikeeBJJzJ2
+            href: https://api.spotify.com/v1/albums/0SVzL0IArs6OikeeBJJzJ2
+            id: 0SVzL0IArs6OikeeBJJzJ2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cfc3419bb573fc528ae35f2c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cfc3419bb573fc528ae35f2c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cfc3419bb573fc528ae35f2c
+            is_playable: true
+            name: 80s Summer Nostalgia
+            release_date: '2025-08-22'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:0SVzL0IArs6OikeeBJJzJ2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE
+            href: https://api.spotify.com/v1/artists/2mG8HHQ9S9kcbjcrb5N1FE
+            id: 2mG8HHQ9S9kcbjcrb5N1FE
+            name: The Go-Go's
+            type: artist
+            uri: spotify:artist:2mG8HHQ9S9kcbjcrb5N1FE
+          disc_number: 1
+          duration_ms: 153133
+          explicit: false
+          external_ids:
+            isrc: USWWW0128900
+          external_urls:
+            spotify: https://open.spotify.com/track/4CHYX7PSMChkpJJME2Om9n
+          href: https://api.spotify.com/v1/tracks/4CHYX7PSMChkpJJME2Om9n
+          id: 4CHYX7PSMChkpJJME2Om9n
+          is_local: false
+          is_playable: true
+          name: We Got The Beat
+          track_number: 52
+          type: track
+          uri: spotify:track:4CHYX7PSMChkpJJME2Om9n
+    isrc: USWWW0128900

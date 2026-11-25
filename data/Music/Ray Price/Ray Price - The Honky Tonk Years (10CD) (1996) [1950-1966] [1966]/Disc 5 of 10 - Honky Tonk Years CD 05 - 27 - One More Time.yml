@@ -62,3 +62,86 @@ mediaFileData:
   year: 1950
   duration: 168.176325
   modTime: 2023-04-23 21:45:03.610000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5lUuV1aeDED0QUV88hSSbc
+    trackId: 5lUuV1aeDED0QUV88hSSbc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMR10300110&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+              href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+              id: 5W5bDNCqJ1jbCgTxDD0Cb3
+              name: Willie Nelson
+              type: artist
+              uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP
+              href: https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP
+              id: 5sAg1HZePcFfhrs0G8A8OP
+              name: Ray Price
+              type: artist
+              uri: spotify:artist:5sAg1HZePcFfhrs0G8A8OP
+            external_urls:
+              spotify: https://open.spotify.com/album/1lzLqwFEtaTvhPh7LJmtUB
+            href: https://api.spotify.com/v1/albums/1lzLqwFEtaTvhPh7LJmtUB
+            id: 1lzLqwFEtaTvhPh7LJmtUB
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731c7d1b6f82b24b4ac3933390
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021c7d1b6f82b24b4ac3933390
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511c7d1b6f82b24b4ac3933390
+            is_playable: true
+            name: Run That By Me One More Time
+            release_date: '2003-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:1lzLqwFEtaTvhPh7LJmtUB
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+            href: https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3
+            id: 5W5bDNCqJ1jbCgTxDD0Cb3
+            name: Willie Nelson
+            type: artist
+            uri: spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP
+            href: https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP
+            id: 5sAg1HZePcFfhrs0G8A8OP
+            name: Ray Price
+            type: artist
+            uri: spotify:artist:5sAg1HZePcFfhrs0G8A8OP
+          disc_number: 1
+          duration_ms: 165866
+          explicit: false
+          external_ids:
+            isrc: USMR10300110
+          external_urls:
+            spotify: https://open.spotify.com/track/5lUuV1aeDED0QUV88hSSbc
+          href: https://api.spotify.com/v1/tracks/5lUuV1aeDED0QUV88hSSbc
+          id: 5lUuV1aeDED0QUV88hSSbc
+          is_local: false
+          is_playable: true
+          name: It Wouldn't Be The Same Without You
+          track_number: 5
+          type: track
+          uri: spotify:track:5lUuV1aeDED0QUV88hSSbc
+    isrc: USMR10300110

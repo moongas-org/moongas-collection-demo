@@ -35,3 +35,72 @@ mediaFileData:
   year: 2003
   duration: 382.56425
   modTime: 2023-05-14 14:14:43.480000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Ck3SBOCWc2tGsXUxldYeI
+    trackId: 4Ck3SBOCWc2tGsXUxldYeI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSATO1600040&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM
+              href: https://api.spotify.com/v1/artists/43O3c6wewpzPKwVaGEEtBM
+              id: 43O3c6wewpzPKwVaGEEtBM
+              name: My Morning Jacket
+              type: artist
+              uri: spotify:artist:43O3c6wewpzPKwVaGEEtBM
+            external_urls:
+              spotify: https://open.spotify.com/album/5kZqwk6GlUsJL2ce51I1hM
+            href: https://api.spotify.com/v1/albums/5kZqwk6GlUsJL2ce51I1hM
+            id: 5kZqwk6GlUsJL2ce51I1hM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738648732088f182f15e0bfa4b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028648732088f182f15e0bfa4b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518648732088f182f15e0bfa4b
+            is_playable: true
+            name: It Still Moves (Deluxe Reissue)
+            release_date: '2016-05-27'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5kZqwk6GlUsJL2ce51I1hM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM
+            href: https://api.spotify.com/v1/artists/43O3c6wewpzPKwVaGEEtBM
+            id: 43O3c6wewpzPKwVaGEEtBM
+            name: My Morning Jacket
+            type: artist
+            uri: spotify:artist:43O3c6wewpzPKwVaGEEtBM
+          disc_number: 1
+          duration_ms: 383186
+          explicit: false
+          external_ids:
+            isrc: USATO1600040
+          external_urls:
+            spotify: https://open.spotify.com/track/4Ck3SBOCWc2tGsXUxldYeI
+          href: https://api.spotify.com/v1/tracks/4Ck3SBOCWc2tGsXUxldYeI
+          id: 4Ck3SBOCWc2tGsXUxldYeI
+          is_local: false
+          is_playable: true
+          name: One In The Same
+          track_number: 12
+          type: track
+          uri: spotify:track:4Ck3SBOCWc2tGsXUxldYeI
+    isrc: USATO1600040

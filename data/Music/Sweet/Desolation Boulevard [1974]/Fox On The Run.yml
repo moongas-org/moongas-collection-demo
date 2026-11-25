@@ -210,3 +210,126 @@ mediaFileData:
   year: 1974
   duration: 203.8595918367347
   modTime: 2023-03-28 00:57:40.650000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/66gG8RzSA2sVQwME8e43wX
+    trackId: 66gG8RzSA2sVQwME8e43wX
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA28800173&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz
+              href: https://api.spotify.com/v1/artists/3JaAGmSTpJK35DqWrDUzBz
+              id: 3JaAGmSTpJK35DqWrDUzBz
+              name: Sweet
+              type: artist
+              uri: spotify:artist:3JaAGmSTpJK35DqWrDUzBz
+            external_urls:
+              spotify: https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG
+            href: https://api.spotify.com/v1/albums/7I5IWDrFPKeqhRSnd6QrXG
+            id: 7I5IWDrFPKeqhRSnd6QrXG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c084c0942d4c4142add9d19e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c084c0942d4c4142add9d19e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c084c0942d4c4142add9d19e
+            is_playable: true
+            name: Best Of Sweet
+            release_date: '1993-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:7I5IWDrFPKeqhRSnd6QrXG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz
+            href: https://api.spotify.com/v1/artists/3JaAGmSTpJK35DqWrDUzBz
+            id: 3JaAGmSTpJK35DqWrDUzBz
+            name: Sweet
+            type: artist
+            uri: spotify:artist:3JaAGmSTpJK35DqWrDUzBz
+          disc_number: 1
+          duration_ms: 205733
+          explicit: false
+          external_ids:
+            isrc: USCA28800173
+          external_urls:
+            spotify: https://open.spotify.com/track/66gG8RzSA2sVQwME8e43wX
+          href: https://api.spotify.com/v1/tracks/66gG8RzSA2sVQwME8e43wX
+          id: 66gG8RzSA2sVQwME8e43wX
+          is_local: false
+          is_playable: true
+          name: Fox On The Run
+          track_number: 7
+          type: track
+          uri: spotify:track:66gG8RzSA2sVQwME8e43wX
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz
+              href: https://api.spotify.com/v1/artists/3JaAGmSTpJK35DqWrDUzBz
+              id: 3JaAGmSTpJK35DqWrDUzBz
+              name: Sweet
+              type: artist
+              uri: spotify:artist:3JaAGmSTpJK35DqWrDUzBz
+            external_urls:
+              spotify: https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54
+            href: https://api.spotify.com/v1/albums/3PsFboiPeObjAc6gbQHt54
+            id: 3PsFboiPeObjAc6gbQHt54
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bff2e9307284c5375b2a407a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bff2e9307284c5375b2a407a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bff2e9307284c5375b2a407a
+            is_playable: true
+            name: Desolation Boulevard
+            release_date: 1974-11
+            release_date_precision: month
+            total_tracks: 10
+            type: album
+            uri: spotify:album:3PsFboiPeObjAc6gbQHt54
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz
+            href: https://api.spotify.com/v1/artists/3JaAGmSTpJK35DqWrDUzBz
+            id: 3JaAGmSTpJK35DqWrDUzBz
+            name: Sweet
+            type: artist
+            uri: spotify:artist:3JaAGmSTpJK35DqWrDUzBz
+          disc_number: 1
+          duration_ms: 207666
+          explicit: false
+          external_ids:
+            isrc: USCA28800173
+          external_urls:
+            spotify: https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r
+          href: https://api.spotify.com/v1/tracks/4uip0lLkMKl1nwchsdXs1r
+          id: 4uip0lLkMKl1nwchsdXs1r
+          is_local: false
+          is_playable: true
+          name: Fox On The Run
+          track_number: 7
+          type: track
+          uri: spotify:track:4uip0lLkMKl1nwchsdXs1r
+    isrc: USCA28800173

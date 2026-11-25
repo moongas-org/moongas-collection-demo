@@ -50,3 +50,72 @@ mediaFileData:
   year: 1988
   duration: 202.704
   modTime: 2025-03-19 02:59:02.148012+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5QLXzv4GIKzLKcFHgoc719
+    trackId: 5QLXzv4GIKzLKcFHgoc719
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB10101520&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+              href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+              id: 2x9SpqnPi8rlE9pjHBwmSC
+              name: Talking Heads
+              type: artist
+              uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+            external_urls:
+              spotify: https://open.spotify.com/album/45wuU0jx8Lh0x3Xy8qJ5KP
+            href: https://api.spotify.com/v1/albums/45wuU0jx8Lh0x3Xy8qJ5KP
+            id: 45wuU0jx8Lh0x3Xy8qJ5KP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27372679fec9d2d5952f7f0e6ee
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0272679fec9d2d5952f7f0e6ee
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485172679fec9d2d5952f7f0e6ee
+            is_playable: true
+            name: Naked
+            release_date: '1988'
+            release_date_precision: year
+            total_tracks: 11
+            type: album
+            uri: spotify:album:45wuU0jx8Lh0x3Xy8qJ5KP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+            href: https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC
+            id: 2x9SpqnPi8rlE9pjHBwmSC
+            name: Talking Heads
+            type: artist
+            uri: spotify:artist:2x9SpqnPi8rlE9pjHBwmSC
+          disc_number: 1
+          duration_ms: 202733
+          explicit: false
+          external_ids:
+            isrc: USWB10101520
+          external_urls:
+            spotify: https://open.spotify.com/track/5QLXzv4GIKzLKcFHgoc719
+          href: https://api.spotify.com/v1/tracks/5QLXzv4GIKzLKcFHgoc719
+          id: 5QLXzv4GIKzLKcFHgoc719
+          is_local: false
+          is_playable: true
+          name: Bill
+          track_number: 10
+          type: track
+          uri: spotify:track:5QLXzv4GIKzLKcFHgoc719
+    isrc: USWB10101520

@@ -59,3 +59,72 @@ mediaFileData:
   year: 1988
   duration: 137.04
   modTime: 2025-01-08 21:23:53.915740+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4S3XYcZFs6FbsiLwH13Z63
+    trackId: 4S3XYcZFs6FbsiLwH13Z63
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAFL0700146&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT
+              href: https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT
+              id: 6zvul52xwTWzilBZl6BUbT
+              name: Pixies
+              type: artist
+              uri: spotify:artist:6zvul52xwTWzilBZl6BUbT
+            external_urls:
+              spotify: https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9
+            href: https://api.spotify.com/v1/albums/50j4Wm1b9hLpSpPIA39Vp9
+            id: 50j4Wm1b9hLpSpPIA39Vp9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028aa545a0ea869940cce358b5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518aa545a0ea869940cce358b5
+            is_playable: true
+            name: Surfer Rosa (2007 Remaster)
+            release_date: '1988-03-21'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:50j4Wm1b9hLpSpPIA39Vp9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT
+            href: https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT
+            id: 6zvul52xwTWzilBZl6BUbT
+            name: Pixies
+            type: artist
+            uri: spotify:artist:6zvul52xwTWzilBZl6BUbT
+          disc_number: 1
+          duration_ms: 136613
+          explicit: false
+          external_ids:
+            isrc: GBAFL0700146
+          external_urls:
+            spotify: https://open.spotify.com/track/4S3XYcZFs6FbsiLwH13Z63
+          href: https://api.spotify.com/v1/tracks/4S3XYcZFs6FbsiLwH13Z63
+          id: 4S3XYcZFs6FbsiLwH13Z63
+          is_local: false
+          is_playable: true
+          name: Cactus - 2007 Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:4S3XYcZFs6FbsiLwH13Z63
+    isrc: GBAFL0700146

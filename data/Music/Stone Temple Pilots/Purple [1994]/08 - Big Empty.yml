@@ -38,3 +38,126 @@ mediaFileData:
   year: 1994
   duration: 294.0604081632653
   modTime: 2023-12-05 01:53:03.983161+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6YPCah7oVBFasadii9lQE8
+    trackId: 6YPCah7oVBFasadii9lQE8
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11901681&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z
+              href: https://api.spotify.com/v1/artists/2UazAtjfzqBF0Nho2awK4z
+              id: 2UazAtjfzqBF0Nho2awK4z
+              name: Stone Temple Pilots
+              type: artist
+              uri: spotify:artist:2UazAtjfzqBF0Nho2awK4z
+            external_urls:
+              spotify: https://open.spotify.com/album/1SfACxGBJi6o761spVfpqt
+            href: https://api.spotify.com/v1/albums/1SfACxGBJi6o761spVfpqt
+            id: 1SfACxGBJi6o761spVfpqt
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735335b6a9d7ba031d1b36712c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025335b6a9d7ba031d1b36712c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515335b6a9d7ba031d1b36712c
+            is_playable: true
+            name: Purple (Super Deluxe Edition) [2019 Remaster]
+            release_date: '2019-10-18'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:1SfACxGBJi6o761spVfpqt
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z
+            href: https://api.spotify.com/v1/artists/2UazAtjfzqBF0Nho2awK4z
+            id: 2UazAtjfzqBF0Nho2awK4z
+            name: Stone Temple Pilots
+            type: artist
+            uri: spotify:artist:2UazAtjfzqBF0Nho2awK4z
+          disc_number: 1
+          duration_ms: 294800
+          explicit: false
+          external_ids:
+            isrc: USRH11901681
+          external_urls:
+            spotify: https://open.spotify.com/track/6YPCah7oVBFasadii9lQE8
+          href: https://api.spotify.com/v1/tracks/6YPCah7oVBFasadii9lQE8
+          id: 6YPCah7oVBFasadii9lQE8
+          is_local: false
+          is_playable: true
+          name: Big Empty - 2019 Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:6YPCah7oVBFasadii9lQE8
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z
+              href: https://api.spotify.com/v1/artists/2UazAtjfzqBF0Nho2awK4z
+              id: 2UazAtjfzqBF0Nho2awK4z
+              name: Stone Temple Pilots
+              type: artist
+              uri: spotify:artist:2UazAtjfzqBF0Nho2awK4z
+            external_urls:
+              spotify: https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h
+            href: https://api.spotify.com/v1/albums/57lcTrUlYgfMIPvBUsVU6h
+            id: 57lcTrUlYgfMIPvBUsVU6h
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fc90a8ed9924435d62235aa8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fc90a8ed9924435d62235aa8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fc90a8ed9924435d62235aa8
+            is_playable: true
+            name: Purple (2019 Remaster)
+            release_date: '1994-06-07'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:57lcTrUlYgfMIPvBUsVU6h
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z
+            href: https://api.spotify.com/v1/artists/2UazAtjfzqBF0Nho2awK4z
+            id: 2UazAtjfzqBF0Nho2awK4z
+            name: Stone Temple Pilots
+            type: artist
+            uri: spotify:artist:2UazAtjfzqBF0Nho2awK4z
+          disc_number: 1
+          duration_ms: 294800
+          explicit: false
+          external_ids:
+            isrc: USRH11901681
+          external_urls:
+            spotify: https://open.spotify.com/track/2E6elGQS3KaKR7QdfzQXdP
+          href: https://api.spotify.com/v1/tracks/2E6elGQS3KaKR7QdfzQXdP
+          id: 2E6elGQS3KaKR7QdfzQXdP
+          is_local: false
+          is_playable: true
+          name: Big Empty - 2019 Remaster
+          track_number: 8
+          type: track
+          uri: spotify:track:2E6elGQS3KaKR7QdfzQXdP
+    isrc: USRH11901681

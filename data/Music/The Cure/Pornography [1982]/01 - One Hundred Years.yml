@@ -77,3 +77,126 @@ mediaFileData:
   year: 1982
   duration: 401.08408163265307
   modTime: 2024-11-01 19:04:24.681623+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6o8bpkuFMRS2b25Vui9aDC
+    trackId: 6o8bpkuFMRS2b25Vui9aDC
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10500792&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK
+            href: https://api.spotify.com/v1/albums/33TDfmEXufojT6jxgb3BTK
+            id: 33TDfmEXufojT6jxgb3BTK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d226fe686c3b59c6348f9f6c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d226fe686c3b59c6348f9f6c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d226fe686c3b59c6348f9f6c
+            is_playable: true
+            name: Pornography
+            release_date: '1982-05-03'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:33TDfmEXufojT6jxgb3BTK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 401000
+          explicit: false
+          external_ids:
+            isrc: USEE10500792
+          external_urls:
+            spotify: https://open.spotify.com/track/6o8bpkuFMRS2b25Vui9aDC
+          href: https://api.spotify.com/v1/tracks/6o8bpkuFMRS2b25Vui9aDC
+          id: 6o8bpkuFMRS2b25Vui9aDC
+          is_local: false
+          is_playable: true
+          name: One Hundred Years - 2005 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:6o8bpkuFMRS2b25Vui9aDC
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/4VJc4uhhFDpDjoyYsB5JjO
+            href: https://api.spotify.com/v1/albums/4VJc4uhhFDpDjoyYsB5JjO
+            id: 4VJc4uhhFDpDjoyYsB5JjO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f3908a9b1910b5ccb3135282
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f3908a9b1910b5ccb3135282
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f3908a9b1910b5ccb3135282
+            is_playable: true
+            name: Pornography (Deluxe Edition)
+            release_date: '1982-05-03'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:4VJc4uhhFDpDjoyYsB5JjO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 401000
+          explicit: false
+          external_ids:
+            isrc: USEE10500792
+          external_urls:
+            spotify: https://open.spotify.com/track/0ZaPSa1mLgKNgK3lUrMBJL
+          href: https://api.spotify.com/v1/tracks/0ZaPSa1mLgKNgK3lUrMBJL
+          id: 0ZaPSa1mLgKNgK3lUrMBJL
+          is_local: false
+          is_playable: true
+          name: One Hundred Years - 2005 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:0ZaPSa1mLgKNgK3lUrMBJL
+    isrc: USEE10500792

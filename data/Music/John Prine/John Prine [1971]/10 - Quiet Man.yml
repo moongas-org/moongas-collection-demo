@@ -47,3 +47,180 @@ mediaFileData:
   year: 1971
   duration: 172.224
   modTime: 2024-11-01 21:18:38.840875+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3myE16jKOihIbUtVmgqkpU
+    trackId: 3myE16jKOihIbUtVmgqkpU
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT20104805&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT
+              href: https://api.spotify.com/v1/artists/0nJUwPwC9Ti4vvuJ0q3MfT
+              id: 0nJUwPwC9Ti4vvuJ0q3MfT
+              name: John Prine
+              type: artist
+              uri: spotify:artist:0nJUwPwC9Ti4vvuJ0q3MfT
+            external_urls:
+              spotify: https://open.spotify.com/album/20bB3UI5Pbie6unUDz93aY
+            href: https://api.spotify.com/v1/albums/20bB3UI5Pbie6unUDz93aY
+            id: 20bB3UI5Pbie6unUDz93aY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27333a2cca5038a5c160282bd42
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0233a2cca5038a5c160282bd42
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485133a2cca5038a5c160282bd42
+            is_playable: true
+            name: 'Sweet Revenge: The Early Years'
+            release_date: '2018-05-19'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:20bB3UI5Pbie6unUDz93aY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT
+            href: https://api.spotify.com/v1/artists/0nJUwPwC9Ti4vvuJ0q3MfT
+            id: 0nJUwPwC9Ti4vvuJ0q3MfT
+            name: John Prine
+            type: artist
+            uri: spotify:artist:0nJUwPwC9Ti4vvuJ0q3MfT
+          disc_number: 1
+          duration_ms: 172200
+          explicit: false
+          external_ids:
+            isrc: USAT20104805
+          external_urls:
+            spotify: https://open.spotify.com/track/3myE16jKOihIbUtVmgqkpU
+          href: https://api.spotify.com/v1/tracks/3myE16jKOihIbUtVmgqkpU
+          id: 3myE16jKOihIbUtVmgqkpU
+          is_local: false
+          is_playable: true
+          name: Quiet Man
+          track_number: 28
+          type: track
+          uri: spotify:track:3myE16jKOihIbUtVmgqkpU
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT
+              href: https://api.spotify.com/v1/artists/0nJUwPwC9Ti4vvuJ0q3MfT
+              id: 0nJUwPwC9Ti4vvuJ0q3MfT
+              name: John Prine
+              type: artist
+              uri: spotify:artist:0nJUwPwC9Ti4vvuJ0q3MfT
+            external_urls:
+              spotify: https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp
+            href: https://api.spotify.com/v1/albums/5t4FHrIAHI8nolSAOBRgPp
+            id: 5t4FHrIAHI8nolSAOBRgPp
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b190c3479aedf6a29340847d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b190c3479aedf6a29340847d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b190c3479aedf6a29340847d
+            is_playable: true
+            name: John Prine
+            release_date: '1971'
+            release_date_precision: year
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5t4FHrIAHI8nolSAOBRgPp
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT
+            href: https://api.spotify.com/v1/artists/0nJUwPwC9Ti4vvuJ0q3MfT
+            id: 0nJUwPwC9Ti4vvuJ0q3MfT
+            name: John Prine
+            type: artist
+            uri: spotify:artist:0nJUwPwC9Ti4vvuJ0q3MfT
+          disc_number: 1
+          duration_ms: 172200
+          explicit: false
+          external_ids:
+            isrc: USAT20104805
+          external_urls:
+            spotify: https://open.spotify.com/track/7LjxyD6xueeuwW9qyH4pbJ
+          href: https://api.spotify.com/v1/tracks/7LjxyD6xueeuwW9qyH4pbJ
+          id: 7LjxyD6xueeuwW9qyH4pbJ
+          is_local: false
+          is_playable: true
+          name: Quiet Man
+          track_number: 10
+          type: track
+          uri: spotify:track:7LjxyD6xueeuwW9qyH4pbJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5f34iYrVGnJpiPCW8EwGTG
+            href: https://api.spotify.com/v1/albums/5f34iYrVGnJpiPCW8EwGTG
+            id: 5f34iYrVGnJpiPCW8EwGTG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730e02e708c9c12807516c64fe
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020e02e708c9c12807516c64fe
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510e02e708c9c12807516c64fe
+            is_playable: true
+            name: Oldies But Goodies Acoustic
+            release_date: '2021-02-19'
+            release_date_precision: day
+            total_tracks: 34
+            type: album
+            uri: spotify:album:5f34iYrVGnJpiPCW8EwGTG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT
+            href: https://api.spotify.com/v1/artists/0nJUwPwC9Ti4vvuJ0q3MfT
+            id: 0nJUwPwC9Ti4vvuJ0q3MfT
+            name: John Prine
+            type: artist
+            uri: spotify:artist:0nJUwPwC9Ti4vvuJ0q3MfT
+          disc_number: 1
+          duration_ms: 172200
+          explicit: false
+          external_ids:
+            isrc: USAT20104805
+          external_urls:
+            spotify: https://open.spotify.com/track/2ndHYPaSjjwEPdLxAVxOIm
+          href: https://api.spotify.com/v1/tracks/2ndHYPaSjjwEPdLxAVxOIm
+          id: 2ndHYPaSjjwEPdLxAVxOIm
+          is_local: false
+          is_playable: true
+          name: Quiet Man
+          track_number: 26
+          type: track
+          uri: spotify:track:2ndHYPaSjjwEPdLxAVxOIm
+    isrc: USAT20104805

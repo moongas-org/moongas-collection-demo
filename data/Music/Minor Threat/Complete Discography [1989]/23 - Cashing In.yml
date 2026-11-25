@@ -34,3 +34,72 @@ mediaFileData:
   year: 1989
   duration: 224.4
   modTime: 2024-12-02 22:28:11.512046+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6cPr9s5atHApIBzCeP2dcd
+    trackId: 6cPr9s5atHApIBzCeP2dcd
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS35U0401009&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf
+              href: https://api.spotify.com/v1/artists/07PiZYrhllpSXtELkUxlrf
+              id: 07PiZYrhllpSXtELkUxlrf
+              name: Minor Threat
+              type: artist
+              uri: spotify:artist:07PiZYrhllpSXtELkUxlrf
+            external_urls:
+              spotify: https://open.spotify.com/album/6wPX4FdHqmn0aHZ84WUCW5
+            href: https://api.spotify.com/v1/albums/6wPX4FdHqmn0aHZ84WUCW5
+            id: 6wPX4FdHqmn0aHZ84WUCW5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273986f510529bc1c241a7c55da
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02986f510529bc1c241a7c55da
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851986f510529bc1c241a7c55da
+            is_playable: true
+            name: Out of Step
+            release_date: '1984-06-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6wPX4FdHqmn0aHZ84WUCW5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf
+            href: https://api.spotify.com/v1/artists/07PiZYrhllpSXtELkUxlrf
+            id: 07PiZYrhllpSXtELkUxlrf
+            name: Minor Threat
+            type: artist
+            uri: spotify:artist:07PiZYrhllpSXtELkUxlrf
+          disc_number: 1
+          duration_ms: 223560
+          explicit: false
+          external_ids:
+            isrc: US35U0401009
+          external_urls:
+            spotify: https://open.spotify.com/track/6cPr9s5atHApIBzCeP2dcd
+          href: https://api.spotify.com/v1/tracks/6cPr9s5atHApIBzCeP2dcd
+          id: 6cPr9s5atHApIBzCeP2dcd
+          is_local: false
+          is_playable: true
+          name: Cashing In
+          track_number: 9
+          type: track
+          uri: spotify:track:6cPr9s5atHApIBzCeP2dcd
+    isrc: US35U0401009

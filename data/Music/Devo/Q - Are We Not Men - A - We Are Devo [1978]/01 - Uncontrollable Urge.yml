@@ -51,3 +51,126 @@ mediaFileData:
   year: 1978
   duration: 190.752
   modTime: 2024-01-15 01:13:38.727336+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3163OOQELby90rcooOWw0o
+    trackId: 3163OOQELby90rcooOWw0o
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB12301932&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3
+              href: https://api.spotify.com/v1/artists/0UKfenbZb15sqhfPC6zbt3
+              id: 0UKfenbZb15sqhfPC6zbt3
+              name: DEVO
+              type: artist
+              uri: spotify:artist:0UKfenbZb15sqhfPC6zbt3
+            external_urls:
+              spotify: https://open.spotify.com/album/2mafYkzxTjR7sQhy4kearK
+            href: https://api.spotify.com/v1/albums/2mafYkzxTjR7sQhy4kearK
+            id: 2mafYkzxTjR7sQhy4kearK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273be1fda520d8833d9b067e01f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02be1fda520d8833d9b067e01f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851be1fda520d8833d9b067e01f
+            is_playable: true
+            name: 50 Years of De-Evolution 1973–2023
+            release_date: '2023-10-20'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:2mafYkzxTjR7sQhy4kearK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3
+            href: https://api.spotify.com/v1/artists/0UKfenbZb15sqhfPC6zbt3
+            id: 0UKfenbZb15sqhfPC6zbt3
+            name: DEVO
+            type: artist
+            uri: spotify:artist:0UKfenbZb15sqhfPC6zbt3
+          disc_number: 2
+          duration_ms: 190046
+          explicit: false
+          external_ids:
+            isrc: USWB12301932
+          external_urls:
+            spotify: https://open.spotify.com/track/3163OOQELby90rcooOWw0o
+          href: https://api.spotify.com/v1/tracks/3163OOQELby90rcooOWw0o
+          id: 3163OOQELby90rcooOWw0o
+          is_local: false
+          is_playable: true
+          name: Uncontrollable Urge - 2023 Remaster
+          track_number: 5
+          type: track
+          uri: spotify:track:3163OOQELby90rcooOWw0o
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3
+              href: https://api.spotify.com/v1/artists/0UKfenbZb15sqhfPC6zbt3
+              id: 0UKfenbZb15sqhfPC6zbt3
+              name: DEVO
+              type: artist
+              uri: spotify:artist:0UKfenbZb15sqhfPC6zbt3
+            external_urls:
+              spotify: https://open.spotify.com/album/4qVYfzxJ69vKuSg7lBF7cH
+            href: https://api.spotify.com/v1/albums/4qVYfzxJ69vKuSg7lBF7cH
+            id: 4qVYfzxJ69vKuSg7lBF7cH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737022dc8c7bf0478ef41e704d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027022dc8c7bf0478ef41e704d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517022dc8c7bf0478ef41e704d
+            is_playable: true
+            name: 'Energy Dome Frequencies: Songs From The DEVO Documentary'
+            release_date: '2025-10-31'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4qVYfzxJ69vKuSg7lBF7cH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3
+            href: https://api.spotify.com/v1/artists/0UKfenbZb15sqhfPC6zbt3
+            id: 0UKfenbZb15sqhfPC6zbt3
+            name: DEVO
+            type: artist
+            uri: spotify:artist:0UKfenbZb15sqhfPC6zbt3
+          disc_number: 1
+          duration_ms: 190046
+          explicit: false
+          external_ids:
+            isrc: USWB12301932
+          external_urls:
+            spotify: https://open.spotify.com/track/2lfP4INDkOE8iCAkDeN5aG
+          href: https://api.spotify.com/v1/tracks/2lfP4INDkOE8iCAkDeN5aG
+          id: 2lfP4INDkOE8iCAkDeN5aG
+          is_local: false
+          is_playable: true
+          name: Uncontrollable Urge - 2023 Remaster
+          track_number: 4
+          type: track
+          uri: spotify:track:2lfP4INDkOE8iCAkDeN5aG
+    isrc: USWB12301932

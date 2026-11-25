@@ -41,3 +41,72 @@ mediaFileData:
   year: 2003
   duration: 379.1333333333333
   modTime: 2022-06-06 22:35:11.790000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7HRvyQuikiGOnIRDRdfbrp
+    trackId: 7HRvyQuikiGOnIRDRdfbrp
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUR10300465&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs
+              href: https://api.spotify.com/v1/artists/75U40yZLLPglFgXbDVnmVs
+              id: 75U40yZLLPglFgXbDVnmVs
+              name: The Mars Volta
+              type: artist
+              uri: spotify:artist:75U40yZLLPglFgXbDVnmVs
+            external_urls:
+              spotify: https://open.spotify.com/album/5yq5H94vrdtWGlas2RZjsC
+            href: https://api.spotify.com/v1/albums/5yq5H94vrdtWGlas2RZjsC
+            id: 5yq5H94vrdtWGlas2RZjsC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e4b4a8830f519fb5d35913b2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e4b4a8830f519fb5d35913b2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e4b4a8830f519fb5d35913b2
+            is_playable: true
+            name: Deloused in the Comatorium
+            release_date: '2003-06-15'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:5yq5H94vrdtWGlas2RZjsC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs
+            href: https://api.spotify.com/v1/artists/75U40yZLLPglFgXbDVnmVs
+            id: 75U40yZLLPglFgXbDVnmVs
+            name: The Mars Volta
+            type: artist
+            uri: spotify:artist:75U40yZLLPglFgXbDVnmVs
+          disc_number: 1
+          duration_ms: 378813
+          explicit: false
+          external_ids:
+            isrc: USUR10300465
+          external_urls:
+            spotify: https://open.spotify.com/track/7HRvyQuikiGOnIRDRdfbrp
+          href: https://api.spotify.com/v1/tracks/7HRvyQuikiGOnIRDRdfbrp
+          id: 7HRvyQuikiGOnIRDRdfbrp
+          is_local: false
+          is_playable: true
+          name: Televators
+          track_number: 9
+          type: track
+          uri: spotify:track:7HRvyQuikiGOnIRDRdfbrp
+    isrc: USUR10300465

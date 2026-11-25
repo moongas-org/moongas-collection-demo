@@ -34,3 +34,126 @@ mediaFileData:
   year: 2019
   duration: 276.8718367346939
   modTime: 2023-05-30 11:13:00+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6YzI9WcI7qS0QVafEtprWc
+    trackId: 6YzI9WcI7qS0QVafEtprWc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGB5EM1901849&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+              href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+              id: 2mVVjNmdjXZZDvhgQWiakk
+              name: Khruangbin
+              type: artist
+              uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+            external_urls:
+              spotify: https://open.spotify.com/album/0CCC2ksZMrvRVXf9F1NADZ
+            href: https://api.spotify.com/v1/albums/0CCC2ksZMrvRVXf9F1NADZ
+            id: 0CCC2ksZMrvRVXf9F1NADZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273534aef1352d6c4d75befcd11
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02534aef1352d6c4d75befcd11
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851534aef1352d6c4d75befcd11
+            is_playable: true
+            name: Hasta El Cielo (Con Todo El Mundo In Dub)
+            release_date: '2019-07-12'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0CCC2ksZMrvRVXf9F1NADZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+            href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+            id: 2mVVjNmdjXZZDvhgQWiakk
+            name: Khruangbin
+            type: artist
+            uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+          disc_number: 1
+          duration_ms: 276832
+          explicit: false
+          external_ids:
+            isrc: GB5EM1901849
+          external_urls:
+            spotify: https://open.spotify.com/track/6YzI9WcI7qS0QVafEtprWc
+          href: https://api.spotify.com/v1/tracks/6YzI9WcI7qS0QVafEtprWc
+          id: 6YzI9WcI7qS0QVafEtprWc
+          is_local: false
+          is_playable: true
+          name: How I Love
+          track_number: 5
+          type: track
+          uri: spotify:track:6YzI9WcI7qS0QVafEtprWc
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+              href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+              id: 2mVVjNmdjXZZDvhgQWiakk
+              name: Khruangbin
+              type: artist
+              uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+            external_urls:
+              spotify: https://open.spotify.com/album/1Rsx5dQQpFp7qhhMhCWQTn
+            href: https://api.spotify.com/v1/albums/1Rsx5dQQpFp7qhhMhCWQTn
+            id: 1Rsx5dQQpFp7qhhMhCWQTn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732a03292b3699c81c91d2c849
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022a03292b3699c81c91d2c849
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512a03292b3699c81c91d2c849
+            is_playable: true
+            name: Hasta El Cielo
+            release_date: '2019-07-12'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1Rsx5dQQpFp7qhhMhCWQTn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+            href: https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk
+            id: 2mVVjNmdjXZZDvhgQWiakk
+            name: Khruangbin
+            type: artist
+            uri: spotify:artist:2mVVjNmdjXZZDvhgQWiakk
+          disc_number: 1
+          duration_ms: 276832
+          explicit: false
+          external_ids:
+            isrc: GB5EM1901849
+          external_urls:
+            spotify: https://open.spotify.com/track/0idSfvD9P6wEGaoFuF3hA2
+          href: https://api.spotify.com/v1/tracks/0idSfvD9P6wEGaoFuF3hA2
+          id: 0idSfvD9P6wEGaoFuF3hA2
+          is_local: false
+          is_playable: true
+          name: How I Love
+          track_number: 5
+          type: track
+          uri: spotify:track:0idSfvD9P6wEGaoFuF3hA2
+    isrc: GB5EM1901849

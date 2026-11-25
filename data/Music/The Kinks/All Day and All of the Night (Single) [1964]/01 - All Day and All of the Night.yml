@@ -242,3 +242,288 @@ mediaFileData:
   year: 1964
   duration: 142.08
   modTime: 2024-01-12 00:40:22.980133+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ
+    trackId: 2erTdgDOZmjJNaNhjhWXhJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19903262&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSWB19903262&type=track
+        offset: 0
+        previous:
+        total: 9
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs
+              href: https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs
+              id: 4ACplpEqD6JIVgKrafauzs
+              name: The Everly Brothers
+              type: artist
+              uri: spotify:artist:4ACplpEqD6JIVgKrafauzs
+            external_urls:
+              spotify: https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT
+            href: https://api.spotify.com/v1/albums/4lmdDGcU5u1xk3GCcVJSYT
+            id: 4lmdDGcU5u1xk3GCcVJSYT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732627493744745fdca9d5cc9b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022627493744745fdca9d5cc9b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512627493744745fdca9d5cc9b
+            is_playable: true
+            name: The Very Best of The Everly Brothers
+            release_date: '1964-08-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4lmdDGcU5u1xk3GCcVJSYT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs
+            href: https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs
+            id: 4ACplpEqD6JIVgKrafauzs
+            name: The Everly Brothers
+            type: artist
+            uri: spotify:artist:4ACplpEqD6JIVgKrafauzs
+          disc_number: 1
+          duration_ms: 144066
+          explicit: false
+          external_ids:
+            isrc: USWB19903262
+          external_urls:
+            spotify: https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ
+          href: https://api.spotify.com/v1/tracks/2erTdgDOZmjJNaNhjhWXhJ
+          id: 2erTdgDOZmjJNaNhjhWXhJ
+          is_local: false
+          is_playable: true
+          name: ('Til) I Kissed You
+          track_number: 2
+          type: track
+          uri: spotify:track:2erTdgDOZmjJNaNhjhWXhJ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5J4GeuhRqhdHGlaHGaeyi9
+            href: https://api.spotify.com/v1/albums/5J4GeuhRqhdHGlaHGaeyi9
+            id: 5J4GeuhRqhdHGlaHGaeyi9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f30a5a26828e5cba4f7c01e1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f30a5a26828e5cba4f7c01e1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f30a5a26828e5cba4f7c01e1
+            is_playable: true
+            name: Oldies - Cruisin'
+            release_date: '2017-10-09'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:5J4GeuhRqhdHGlaHGaeyi9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs
+            href: https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs
+            id: 4ACplpEqD6JIVgKrafauzs
+            name: The Everly Brothers
+            type: artist
+            uri: spotify:artist:4ACplpEqD6JIVgKrafauzs
+          disc_number: 1
+          duration_ms: 146066
+          explicit: false
+          external_ids:
+            isrc: USWB19903262
+          external_urls:
+            spotify: https://open.spotify.com/track/0IqHfwXdV2Z5Slll9ltaq5
+          href: https://api.spotify.com/v1/tracks/0IqHfwXdV2Z5Slll9ltaq5
+          id: 0IqHfwXdV2Z5Slll9ltaq5
+          is_local: false
+          is_playable: true
+          name: ('Til) I Kissed You
+          track_number: 4
+          type: track
+          uri: spotify:track:0IqHfwXdV2Z5Slll9ltaq5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6ogzRsyl2cW3zyaL67TMur
+            href: https://api.spotify.com/v1/albums/6ogzRsyl2cW3zyaL67TMur
+            id: 6ogzRsyl2cW3zyaL67TMur
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ca502393387550c27ed19c82
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ca502393387550c27ed19c82
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ca502393387550c27ed19c82
+            is_playable: true
+            name: old school romantic cooking music
+            release_date: '2024-05-10'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:6ogzRsyl2cW3zyaL67TMur
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs
+            href: https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs
+            id: 4ACplpEqD6JIVgKrafauzs
+            name: The Everly Brothers
+            type: artist
+            uri: spotify:artist:4ACplpEqD6JIVgKrafauzs
+          disc_number: 1
+          duration_ms: 146066
+          explicit: false
+          external_ids:
+            isrc: USWB19903262
+          external_urls:
+            spotify: https://open.spotify.com/track/60uTG690PhuUeooXWTgGw8
+          href: https://api.spotify.com/v1/tracks/60uTG690PhuUeooXWTgGw8
+          id: 60uTG690PhuUeooXWTgGw8
+          is_local: false
+          is_playable: true
+          name: ('Til) I Kissed You
+          track_number: 24
+          type: track
+          uri: spotify:track:60uTG690PhuUeooXWTgGw8
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7BPt15wQoMCTv3Tiv8vub6
+            href: https://api.spotify.com/v1/albums/7BPt15wQoMCTv3Tiv8vub6
+            id: 7BPt15wQoMCTv3Tiv8vub6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e26480931aa3e2ffeeda8218
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e26480931aa3e2ffeeda8218
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e26480931aa3e2ffeeda8218
+            is_playable: true
+            name: Soundtrack to the 50's
+            release_date: '2018-12-14'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:7BPt15wQoMCTv3Tiv8vub6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs
+            href: https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs
+            id: 4ACplpEqD6JIVgKrafauzs
+            name: The Everly Brothers
+            type: artist
+            uri: spotify:artist:4ACplpEqD6JIVgKrafauzs
+          disc_number: 1
+          duration_ms: 146066
+          explicit: false
+          external_ids:
+            isrc: USWB19903262
+          external_urls:
+            spotify: https://open.spotify.com/track/6J9147cPedt6maFgo4B2hV
+          href: https://api.spotify.com/v1/tracks/6J9147cPedt6maFgo4B2hV
+          id: 6J9147cPedt6maFgo4B2hV
+          is_local: false
+          is_playable: true
+          name: ('Til) I Kissed You
+          track_number: 3
+          type: track
+          uri: spotify:track:6J9147cPedt6maFgo4B2hV
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4lE3F8odQ3X37ClFZBy1uF
+            href: https://api.spotify.com/v1/albums/4lE3F8odQ3X37ClFZBy1uF
+            id: 4lE3F8odQ3X37ClFZBy1uF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737561304c117cddd6c455b921
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027561304c117cddd6c455b921
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517561304c117cddd6c455b921
+            is_playable: true
+            name: vintage european summer holiday
+            release_date: '2024-05-16'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:4lE3F8odQ3X37ClFZBy1uF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs
+            href: https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs
+            id: 4ACplpEqD6JIVgKrafauzs
+            name: The Everly Brothers
+            type: artist
+            uri: spotify:artist:4ACplpEqD6JIVgKrafauzs
+          disc_number: 1
+          duration_ms: 146066
+          explicit: false
+          external_ids:
+            isrc: USWB19903262
+          external_urls:
+            spotify: https://open.spotify.com/track/7hg7XxaSkVb8apHmI3ve46
+          href: https://api.spotify.com/v1/tracks/7hg7XxaSkVb8apHmI3ve46
+          id: 7hg7XxaSkVb8apHmI3ve46
+          is_local: false
+          is_playable: true
+          name: ('Til) I Kissed You
+          track_number: 19
+          type: track
+          uri: spotify:track:7hg7XxaSkVb8apHmI3ve46
+    isrc: USWB19903262

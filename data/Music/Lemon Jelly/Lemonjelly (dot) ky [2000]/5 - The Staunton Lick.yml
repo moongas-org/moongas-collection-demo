@@ -45,3 +45,72 @@ mediaFileData:
   year: 2000
   duration: 322.2204081632653
   modTime: 2024-07-20 22:24:55.680100+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2sjmitOYix0e0FXAR5Cvvc
+    trackId: 2sjmitOYix0e0FXAR5Cvvc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBKS0000177&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc
+              href: https://api.spotify.com/v1/artists/5uh8Bhewltd8j0TLZjNImc
+              id: 5uh8Bhewltd8j0TLZjNImc
+              name: Lemon Jelly
+              type: artist
+              uri: spotify:artist:5uh8Bhewltd8j0TLZjNImc
+            external_urls:
+              spotify: https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk
+            href: https://api.spotify.com/v1/albums/6cugMaPzUNXXz60wNX3Amk
+            id: 6cugMaPzUNXXz60wNX3Amk
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273699c6d0199bad947d149164c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02699c6d0199bad947d149164c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851699c6d0199bad947d149164c
+            is_playable: true
+            name: LemonJelly.ky
+            release_date: '2000-10-23'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:6cugMaPzUNXXz60wNX3Amk
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc
+            href: https://api.spotify.com/v1/artists/5uh8Bhewltd8j0TLZjNImc
+            id: 5uh8Bhewltd8j0TLZjNImc
+            name: Lemon Jelly
+            type: artist
+            uri: spotify:artist:5uh8Bhewltd8j0TLZjNImc
+          disc_number: 1
+          duration_ms: 322133
+          explicit: false
+          external_ids:
+            isrc: GBBKS0000177
+          external_urls:
+            spotify: https://open.spotify.com/track/2sjmitOYix0e0FXAR5Cvvc
+          href: https://api.spotify.com/v1/tracks/2sjmitOYix0e0FXAR5Cvvc
+          id: 2sjmitOYix0e0FXAR5Cvvc
+          is_local: false
+          is_playable: true
+          name: The Staunton Lick
+          track_number: 5
+          type: track
+          uri: spotify:track:2sjmitOYix0e0FXAR5Cvvc
+    isrc: GBBKS0000177

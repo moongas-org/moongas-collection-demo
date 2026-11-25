@@ -47,3 +47,72 @@ mediaFileData:
   year: 1970
   duration: 382.416
   modTime: 2025-06-23 02:03:21.410486+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6jw5KSspSMxyzT7LlWYyUw
+    trackId: 6jw5KSspSMxyzT7LlWYyUw
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAJE7000104&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/45O9BwPMyywM755SYUK0sP
+              href: https://api.spotify.com/v1/artists/45O9BwPMyywM755SYUK0sP
+              id: 45O9BwPMyywM755SYUK0sP
+              name: Uriah Heep
+              type: artist
+              uri: spotify:artist:45O9BwPMyywM755SYUK0sP
+            external_urls:
+              spotify: https://open.spotify.com/album/2GUZA7dBgt2xka3hExaX5f
+            href: https://api.spotify.com/v1/albums/2GUZA7dBgt2xka3hExaX5f
+            id: 2GUZA7dBgt2xka3hExaX5f
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273be2d6be5ccb21c86884ee9ec
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02be2d6be5ccb21c86884ee9ec
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851be2d6be5ccb21c86884ee9ec
+            is_playable: true
+            name: The Collection
+            release_date: '1989-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:2GUZA7dBgt2xka3hExaX5f
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/45O9BwPMyywM755SYUK0sP
+            href: https://api.spotify.com/v1/artists/45O9BwPMyywM755SYUK0sP
+            id: 45O9BwPMyywM755SYUK0sP
+            name: Uriah Heep
+            type: artist
+            uri: spotify:artist:45O9BwPMyywM755SYUK0sP
+          disc_number: 1
+          duration_ms: 382200
+          explicit: false
+          external_ids:
+            isrc: GBAJE7000104
+          external_urls:
+            spotify: https://open.spotify.com/track/6jw5KSspSMxyzT7LlWYyUw
+          href: https://api.spotify.com/v1/tracks/6jw5KSspSMxyzT7LlWYyUw
+          id: 6jw5KSspSMxyzT7LlWYyUw
+          is_local: false
+          is_playable: true
+          name: Wake Up (Set Your Sights)
+          track_number: 12
+          type: track
+          uri: spotify:track:6jw5KSspSMxyzT7LlWYyUw
+    isrc: GBAJE7000104

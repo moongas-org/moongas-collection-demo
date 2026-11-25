@@ -60,3 +60,72 @@ mediaFileData:
   year: 1996
   duration: 202.24580498866214
   modTime: 2024-03-02 02:13:20.525682+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/41w5gg12P0MLUixWEgy3no
+    trackId: 41w5gg12P0MLUixWEgy3no
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10501019&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV
+              href: https://api.spotify.com/v1/artists/6A43Djmhbe9100UwnI7epV
+              id: 6A43Djmhbe9100UwnI7epV
+              name: CAKE
+              type: artist
+              uri: spotify:artist:6A43Djmhbe9100UwnI7epV
+            external_urls:
+              spotify: https://open.spotify.com/album/1prr5hSEg6S6jwcwjGibR9
+            href: https://api.spotify.com/v1/albums/1prr5hSEg6S6jwcwjGibR9
+            id: 1prr5hSEg6S6jwcwjGibR9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273426a97575138eaf2116aec5a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02426a97575138eaf2116aec5a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851426a97575138eaf2116aec5a
+            is_playable: true
+            name: Wheels EP (Live)
+            release_date: '2005-05-03'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:1prr5hSEg6S6jwcwjGibR9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV
+            href: https://api.spotify.com/v1/artists/6A43Djmhbe9100UwnI7epV
+            id: 6A43Djmhbe9100UwnI7epV
+            name: CAKE
+            type: artist
+            uri: spotify:artist:6A43Djmhbe9100UwnI7epV
+          disc_number: 1
+          duration_ms: 223893
+          explicit: false
+          external_ids:
+            isrc: USSM10501019
+          external_urls:
+            spotify: https://open.spotify.com/track/41w5gg12P0MLUixWEgy3no
+          href: https://api.spotify.com/v1/tracks/41w5gg12P0MLUixWEgy3no
+          id: 41w5gg12P0MLUixWEgy3no
+          is_local: false
+          is_playable: true
+          name: Daria - Live at Sirius Satelilite Radio Studios, NYC, NY - October 2004
+          track_number: 3
+          type: track
+          uri: spotify:track:41w5gg12P0MLUixWEgy3no
+    isrc: USSM10501019

@@ -34,3 +34,126 @@ mediaFileData:
   year: 2000
   duration: 344.14666666666665
   modTime: 2023-04-23 19:53:17.010000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3m8i2yeonfGWrlrLCUmAel
+    trackId: 3m8i2yeonfGWrlrLCUmAel
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSY6C0508501&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p
+              href: https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p
+              id: 1uQWmt1OhuHGRKmZ2ZcL6p
+              name: Explosions In The Sky
+              type: artist
+              uri: spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p
+            external_urls:
+              spotify: https://open.spotify.com/album/4L9ehBjdJF0dUSX6sNqA2P
+            href: https://api.spotify.com/v1/albums/4L9ehBjdJF0dUSX6sNqA2P
+            id: 4L9ehBjdJF0dUSX6sNqA2P
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27392aab9bee32c1fe906554a1c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0292aab9bee32c1fe906554a1c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485192aab9bee32c1fe906554a1c
+            is_playable: true
+            name: A Song for Our Fathers (Remastered)
+            release_date: '2000'
+            release_date_precision: year
+            total_tracks: 1
+            type: album
+            uri: spotify:album:4L9ehBjdJF0dUSX6sNqA2P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p
+            href: https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p
+            id: 1uQWmt1OhuHGRKmZ2ZcL6p
+            name: Explosions In The Sky
+            type: artist
+            uri: spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p
+          disc_number: 1
+          duration_ms: 344100
+          explicit: false
+          external_ids:
+            isrc: USY6C0508501
+          external_urls:
+            spotify: https://open.spotify.com/track/3m8i2yeonfGWrlrLCUmAel
+          href: https://api.spotify.com/v1/tracks/3m8i2yeonfGWrlrLCUmAel
+          id: 3m8i2yeonfGWrlrLCUmAel
+          is_local: false
+          is_playable: true
+          name: A Song for Our Fathers - Remastered
+          track_number: 1
+          type: track
+          uri: spotify:track:3m8i2yeonfGWrlrLCUmAel
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p
+              href: https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p
+              id: 1uQWmt1OhuHGRKmZ2ZcL6p
+              name: Explosions In The Sky
+              type: artist
+              uri: spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p
+            external_urls:
+              spotify: https://open.spotify.com/album/4AB19qiiH6r1eiIlH6cpFC
+            href: https://api.spotify.com/v1/albums/4AB19qiiH6r1eiIlH6cpFC
+            id: 4AB19qiiH6r1eiIlH6cpFC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736708806d4af74b1c20c85ef9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026708806d4af74b1c20c85ef9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516708806d4af74b1c20c85ef9
+            is_playable: true
+            name: How Strange, Innocence (Anniversary Edition)
+            release_date: '2000'
+            release_date_precision: year
+            total_tracks: 7
+            type: album
+            uri: spotify:album:4AB19qiiH6r1eiIlH6cpFC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p
+            href: https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p
+            id: 1uQWmt1OhuHGRKmZ2ZcL6p
+            name: Explosions In The Sky
+            type: artist
+            uri: spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p
+          disc_number: 1
+          duration_ms: 344100
+          explicit: false
+          external_ids:
+            isrc: USY6C0508501
+          external_urls:
+            spotify: https://open.spotify.com/track/5SucCOIVvicBTOJnnKXKyA
+          href: https://api.spotify.com/v1/tracks/5SucCOIVvicBTOJnnKXKyA
+          id: 5SucCOIVvicBTOJnnKXKyA
+          is_local: false
+          is_playable: true
+          name: A Song for Our Fathers - Remastered
+          track_number: 1
+          type: track
+          uri: spotify:track:5SucCOIVvicBTOJnnKXKyA
+    isrc: USY6C0508501

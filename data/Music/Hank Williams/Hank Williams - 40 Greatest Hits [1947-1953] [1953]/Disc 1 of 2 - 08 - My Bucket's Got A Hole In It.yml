@@ -106,3 +106,288 @@ mediaFileData:
   year: 1949
   duration: 154.8
   modTime: 2023-04-22 20:12:12.310000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1tUMwgjjD5VBFM1eTtrIO5
+    trackId: 1tUMwgjjD5VBFM1eTtrIO5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSPR39400688&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSPR39400688&type=track
+        offset: 0
+        previous:
+        total: 8
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN
+            href: https://api.spotify.com/v1/albums/3A125M77Q1pkNik2HvB1MN
+            id: 3A125M77Q1pkNik2HvB1MN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738326fd3fdf926786d2b0525f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028326fd3fdf926786d2b0525f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518326fd3fdf926786d2b0525f
+            is_playable: true
+            name: The Complete Hank Williams
+            release_date: '1998-09-22'
+            release_date_precision: day
+            total_tracks: 225
+            type: album
+            uri: spotify:album:3A125M77Q1pkNik2HvB1MN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 2
+          duration_ms: 143640
+          explicit: false
+          external_ids:
+            isrc: USPR39400688
+          external_urls:
+            spotify: https://open.spotify.com/track/1tUMwgjjD5VBFM1eTtrIO5
+          href: https://api.spotify.com/v1/tracks/1tUMwgjjD5VBFM1eTtrIO5
+          id: 1tUMwgjjD5VBFM1eTtrIO5
+          is_local: false
+          is_playable: true
+          name: Why Don't You Love Me - Single Version
+          track_number: 22
+          type: track
+          uri: spotify:track:1tUMwgjjD5VBFM1eTtrIO5
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/4oB1hOaDi1vfhO9Wde71FT
+            href: https://api.spotify.com/v1/albums/4oB1hOaDi1vfhO9Wde71FT
+            id: 4oB1hOaDi1vfhO9Wde71FT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27312c1b6bde5618f5a6b37e03f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0212c1b6bde5618f5a6b37e03f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485112c1b6bde5618f5a6b37e03f
+            is_playable: true
+            name: Best Of
+            release_date: '2011-05-23'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4oB1hOaDi1vfhO9Wde71FT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 1
+          duration_ms: 143386
+          explicit: false
+          external_ids:
+            isrc: USPR39400688
+          external_urls:
+            spotify: https://open.spotify.com/track/3KRZ0udfqJkhz88KuVRVWZ
+          href: https://api.spotify.com/v1/tracks/3KRZ0udfqJkhz88KuVRVWZ
+          id: 3KRZ0udfqJkhz88KuVRVWZ
+          is_local: false
+          is_playable: true
+          name: Why Don't You Love Me - Single Version
+          track_number: 7
+          type: track
+          uri: spotify:track:3KRZ0udfqJkhz88KuVRVWZ
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/4dWDFzjdNGi3MXxk8mNNO0
+            href: https://api.spotify.com/v1/albums/4dWDFzjdNGi3MXxk8mNNO0
+            id: 4dWDFzjdNGi3MXxk8mNNO0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273db14e03b3254f04f433e80a3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02db14e03b3254f04f433e80a3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851db14e03b3254f04f433e80a3
+            is_playable: true
+            name: 20 Of Hank Williams' Greatest Hits
+            release_date: '1997-10-17'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4dWDFzjdNGi3MXxk8mNNO0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 1
+          duration_ms: 145960
+          explicit: false
+          external_ids:
+            isrc: USPR39400688
+          external_urls:
+            spotify: https://open.spotify.com/track/3VtkBIJdyulqhrlxE17wiY
+          href: https://api.spotify.com/v1/tracks/3VtkBIJdyulqhrlxE17wiY
+          id: 3VtkBIJdyulqhrlxE17wiY
+          is_local: false
+          is_playable: true
+          name: Why Don't You Love Me
+          track_number: 17
+          type: track
+          uri: spotify:track:3VtkBIJdyulqhrlxE17wiY
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd
+            href: https://api.spotify.com/v1/albums/6zIYEv6soMoaZiypsHB5dd
+            id: 6zIYEv6soMoaZiypsHB5dd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273bf7de449bfd768b5a1e3bdd0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02bf7de449bfd768b5a1e3bdd0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851bf7de449bfd768b5a1e3bdd0
+            is_playable: true
+            name: 40 Greatest Hits
+            release_date: '1978-01-01'
+            release_date_precision: day
+            total_tracks: 40
+            type: album
+            uri: spotify:album:6zIYEv6soMoaZiypsHB5dd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 1
+          duration_ms: 145160
+          explicit: false
+          external_ids:
+            isrc: USPR39400688
+          external_urls:
+            spotify: https://open.spotify.com/track/3u4QCWCMvQzkobZmwR9i2N
+          href: https://api.spotify.com/v1/tracks/3u4QCWCMvQzkobZmwR9i2N
+          id: 3u4QCWCMvQzkobZmwR9i2N
+          is_local: false
+          is_playable: true
+          name: Why Don't You Love Me - Single Version
+          track_number: 13
+          type: track
+          uri: spotify:track:3u4QCWCMvQzkobZmwR9i2N
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+              href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+              id: 1FClsNYBUoNFtGgzeG74dW
+              name: Hank Williams
+              type: artist
+              uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+            external_urls:
+              spotify: https://open.spotify.com/album/3ZgPZQuoMZM4RM5y5amzUh
+            href: https://api.spotify.com/v1/albums/3ZgPZQuoMZM4RM5y5amzUh
+            id: 3ZgPZQuoMZM4RM5y5amzUh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a38b7f0ff14c8fb86bd18d4e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a38b7f0ff14c8fb86bd18d4e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a38b7f0ff14c8fb86bd18d4e
+            is_playable: true
+            name: Ramblin’ Man (Undubbed Edition)
+            release_date: '1955-08-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:3ZgPZQuoMZM4RM5y5amzUh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW
+            href: https://api.spotify.com/v1/artists/1FClsNYBUoNFtGgzeG74dW
+            id: 1FClsNYBUoNFtGgzeG74dW
+            name: Hank Williams
+            type: artist
+            uri: spotify:artist:1FClsNYBUoNFtGgzeG74dW
+          disc_number: 1
+          duration_ms: 146333
+          explicit: false
+          external_ids:
+            isrc: USPR39400688
+          external_urls:
+            spotify: https://open.spotify.com/track/5tP3bJn54lflOjlQ8CaTbV
+          href: https://api.spotify.com/v1/tracks/5tP3bJn54lflOjlQ8CaTbV
+          id: 5tP3bJn54lflOjlQ8CaTbV
+          is_local: false
+          is_playable: true
+          name: Why Don't You Love Me
+          track_number: 10
+          type: track
+          uri: spotify:track:5tP3bJn54lflOjlQ8CaTbV
+    isrc: USPR39400688

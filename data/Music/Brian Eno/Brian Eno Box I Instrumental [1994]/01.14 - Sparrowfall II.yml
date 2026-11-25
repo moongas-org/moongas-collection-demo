@@ -56,3 +56,72 @@ mediaFileData:
   year: 1994
   duration: 104.13333333333334
   modTime: 2025-02-06 02:02:49.729947+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3XhqU2L7yekEGaZDG7uT3U
+    trackId: 3XhqU2L7yekEGaZDG7uT3U
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAAA0500079&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi
+              href: https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi
+              id: 7MSUfLeTdDEoZiJPDSBXgi
+              name: Brian Eno
+              type: artist
+              uri: spotify:artist:7MSUfLeTdDEoZiJPDSBXgi
+            external_urls:
+              spotify: https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07
+            href: https://api.spotify.com/v1/albums/1ISvymGGbUmHY01eJ8EF07
+            id: 1ISvymGGbUmHY01eJ8EF07
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736fd383a32ba6ad8379a43fd4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026fd383a32ba6ad8379a43fd4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516fd383a32ba6ad8379a43fd4
+            is_playable: true
+            name: Music For Films
+            release_date: '2005-01-01'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:1ISvymGGbUmHY01eJ8EF07
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi
+            href: https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi
+            id: 7MSUfLeTdDEoZiJPDSBXgi
+            name: Brian Eno
+            type: artist
+            uri: spotify:artist:7MSUfLeTdDEoZiJPDSBXgi
+          disc_number: 1
+          duration_ms: 103626
+          explicit: false
+          external_ids:
+            isrc: GBAAA0500079
+          external_urls:
+            spotify: https://open.spotify.com/track/3XhqU2L7yekEGaZDG7uT3U
+          href: https://api.spotify.com/v1/tracks/3XhqU2L7yekEGaZDG7uT3U
+          id: 3XhqU2L7yekEGaZDG7uT3U
+          is_local: false
+          is_playable: true
+          name: Sparrowfall (2) - Remastered 2005
+          track_number: 7
+          type: track
+          uri: spotify:track:3XhqU2L7yekEGaZDG7uT3U
+    isrc: GBAAA0500079

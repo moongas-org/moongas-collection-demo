@@ -73,3 +73,126 @@ mediaFileData:
   year: 1998
   duration: 208.296
   modTime: 2025-07-26 01:17:32.972287+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2O7tEL8sGOXi806wJlRYwW
+    trackId: 2O7tEL8sGOXi806wJlRYwW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19703247&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+              href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+              id: 1w5Kfo2jwwIPruYS2UWh56
+              name: Pearl Jam
+              type: artist
+              uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+            external_urls:
+              spotify: https://open.spotify.com/album/6JWofs9yE9d4Bh2R40u92W
+            href: https://api.spotify.com/v1/albums/6JWofs9yE9d4Bh2R40u92W
+            id: 6JWofs9yE9d4Bh2R40u92W
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2731a9353feae07969fd2efb58b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e021a9353feae07969fd2efb58b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048511a9353feae07969fd2efb58b
+            is_playable: true
+            name: rearviewmirror (greatest hits 1991-2003)
+            release_date: '2004-11-16'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:6JWofs9yE9d4Bh2R40u92W
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 2
+          duration_ms: 206200
+          explicit: false
+          external_ids:
+            isrc: USSM19703247
+          external_urls:
+            spotify: https://open.spotify.com/track/2O7tEL8sGOXi806wJlRYwW
+          href: https://api.spotify.com/v1/tracks/2O7tEL8sGOXi806wJlRYwW
+          id: 2O7tEL8sGOXi806wJlRYwW
+          is_local: false
+          is_playable: true
+          name: Wishlist
+          track_number: 11
+          type: track
+          uri: spotify:track:2O7tEL8sGOXi806wJlRYwW
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+              href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+              id: 1w5Kfo2jwwIPruYS2UWh56
+              name: Pearl Jam
+              type: artist
+              uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+            external_urls:
+              spotify: https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2
+            href: https://api.spotify.com/v1/albums/5zsDtoSrXK4usJ4MB1tCh2
+            id: 5zsDtoSrXK4usJ4MB1tCh2
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27361f735e295a29d948d4f4223
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0261f735e295a29d948d4f4223
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485161f735e295a29d948d4f4223
+            is_playable: true
+            name: Yield
+            release_date: '1998-02-17'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:5zsDtoSrXK4usJ4MB1tCh2
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56
+            href: https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56
+            id: 1w5Kfo2jwwIPruYS2UWh56
+            name: Pearl Jam
+            type: artist
+            uri: spotify:artist:1w5Kfo2jwwIPruYS2UWh56
+          disc_number: 1
+          duration_ms: 206579
+          explicit: false
+          external_ids:
+            isrc: USSM19703247
+          external_urls:
+            spotify: https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU
+          href: https://api.spotify.com/v1/tracks/7hObovvcbBpXgZHQ9if4WU
+          id: 7hObovvcbBpXgZHQ9if4WU
+          is_local: false
+          is_playable: true
+          name: Wishlist
+          track_number: 5
+          type: track
+          uri: spotify:track:7hObovvcbBpXgZHQ9if4WU
+    isrc: USSM19703247

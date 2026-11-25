@@ -610,3 +610,180 @@ mediaFileData:
   year: 1967
   duration: 183.39120181405895
   modTime: 2023-09-17 02:35:48+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4ZZcVlo69yu7s4dH1ABOV7
+    trackId: 4ZZcVlo69yu7s4dH1ABOV7
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM72502616&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+              href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+              id: 3WrFJ7ztbogyGnTHbHJFl2
+              name: The Beatles
+              type: artist
+              uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+            external_urls:
+              spotify: https://open.spotify.com/album/5Crr1GUYTC7qdR3XnNW6HW
+            href: https://api.spotify.com/v1/albums/5Crr1GUYTC7qdR3XnNW6HW
+            id: 5Crr1GUYTC7qdR3XnNW6HW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733e6c9b0ca8214ba1478751b0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023e6c9b0ca8214ba1478751b0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513e6c9b0ca8214ba1478751b0
+            is_playable: true
+            name: Anthology Collection
+            release_date: '2025-11-21'
+            release_date_precision: day
+            total_tracks: 191
+            type: album
+            uri: spotify:album:5Crr1GUYTC7qdR3XnNW6HW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+            href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+            id: 3WrFJ7ztbogyGnTHbHJFl2
+            name: The Beatles
+            type: artist
+            uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+          disc_number: 2
+          duration_ms: 192613
+          explicit: false
+          external_ids:
+            isrc: GBUM72502616
+          external_urls:
+            spotify: https://open.spotify.com/track/4ZZcVlo69yu7s4dH1ABOV7
+          href: https://api.spotify.com/v1/tracks/4ZZcVlo69yu7s4dH1ABOV7
+          id: 4ZZcVlo69yu7s4dH1ABOV7
+          is_local: false
+          is_playable: true
+          name: Penny Lane - Remix - Remastered
+          track_number: 29
+          type: track
+          uri: spotify:track:4ZZcVlo69yu7s4dH1ABOV7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+              href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+              id: 3WrFJ7ztbogyGnTHbHJFl2
+              name: The Beatles
+              type: artist
+              uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+            external_urls:
+              spotify: https://open.spotify.com/album/7IAahIqSj6C8JvAuNeV5UG
+            href: https://api.spotify.com/v1/albums/7IAahIqSj6C8JvAuNeV5UG
+            id: 7IAahIqSj6C8JvAuNeV5UG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736c57d498db54528e34521e79
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026c57d498db54528e34521e79
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516c57d498db54528e34521e79
+            is_playable: true
+            name: Anthology Highlights
+            release_date: '2025-08-29'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:7IAahIqSj6C8JvAuNeV5UG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+            href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+            id: 3WrFJ7ztbogyGnTHbHJFl2
+            name: The Beatles
+            type: artist
+            uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+          disc_number: 1
+          duration_ms: 192613
+          explicit: false
+          external_ids:
+            isrc: GBUM72502616
+          external_urls:
+            spotify: https://open.spotify.com/track/1T7uX4hxXcK5Ft4cd4raiA
+          href: https://api.spotify.com/v1/tracks/1T7uX4hxXcK5Ft4cd4raiA
+          id: 1T7uX4hxXcK5Ft4cd4raiA
+          is_local: false
+          is_playable: true
+          name: Penny Lane - Remix - Remastered
+          track_number: 19
+          type: track
+          uri: spotify:track:1T7uX4hxXcK5Ft4cd4raiA
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+              href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+              id: 3WrFJ7ztbogyGnTHbHJFl2
+              name: The Beatles
+              type: artist
+              uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+            external_urls:
+              spotify: https://open.spotify.com/album/4hi9JPDhSXXmls6ytsLGGE
+            href: https://api.spotify.com/v1/albums/4hi9JPDhSXXmls6ytsLGGE
+            id: 4hi9JPDhSXXmls6ytsLGGE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735a99eacecb2e00411040279b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025a99eacecb2e00411040279b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515a99eacecb2e00411040279b
+            is_playable: true
+            name: Anthology 2
+            release_date: '1996-03-18'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:4hi9JPDhSXXmls6ytsLGGE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+            href: https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2
+            id: 3WrFJ7ztbogyGnTHbHJFl2
+            name: The Beatles
+            type: artist
+            uri: spotify:artist:3WrFJ7ztbogyGnTHbHJFl2
+          disc_number: 1
+          duration_ms: 192613
+          explicit: false
+          external_ids:
+            isrc: GBUM72502616
+          external_urls:
+            spotify: https://open.spotify.com/track/1ddUgttq4gzRwikg9QrtOw
+          href: https://api.spotify.com/v1/tracks/1ddUgttq4gzRwikg9QrtOw
+          id: 1ddUgttq4gzRwikg9QrtOw
+          is_local: false
+          is_playable: true
+          name: Penny Lane (Remix - Remastered)
+          track_number: 29
+          type: track
+          uri: spotify:track:1ddUgttq4gzRwikg9QrtOw
+    isrc: GBUM72502616

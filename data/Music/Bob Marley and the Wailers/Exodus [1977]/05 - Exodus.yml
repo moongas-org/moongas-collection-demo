@@ -128,3 +128,288 @@ mediaFileData:
   year: 1977
   duration: 460.248
   modTime: 2024-02-18 20:10:05.947063+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam
+    trackId: 1lRkDJ9hMuiE1GZOlbgkam
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSIR27700012&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSIR27700012&type=track
+        offset: 0
+        previous:
+        total: 8
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/655KljKIXl42fiNDMKivbY
+            href: https://api.spotify.com/v1/albums/655KljKIXl42fiNDMKivbY
+            id: 655KljKIXl42fiNDMKivbY
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d7f3e4d143c198d3542a775d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d7f3e4d143c198d3542a775d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d7f3e4d143c198d3542a775d
+            is_playable: true
+            name: Exodus
+            release_date: '1977-06-03'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:655KljKIXl42fiNDMKivbY
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 460226
+          explicit: false
+          external_ids:
+            isrc: USIR27700012
+          external_urls:
+            spotify: https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam
+          href: https://api.spotify.com/v1/tracks/1lRkDJ9hMuiE1GZOlbgkam
+          id: 1lRkDJ9hMuiE1GZOlbgkam
+          is_local: false
+          is_playable: true
+          name: Exodus
+          track_number: 5
+          type: track
+          uri: spotify:track:1lRkDJ9hMuiE1GZOlbgkam
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo
+            href: https://api.spotify.com/v1/albums/04VRfesff9bgDA2Q8J2oDo
+            id: 04VRfesff9bgDA2Q8J2oDo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27385b36be7fd94864efc4b008f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0285b36be7fd94864efc4b008f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485185b36be7fd94864efc4b008f
+            is_playable: true
+            name: Legend (Deluxe Edition)
+            release_date: '1984-05-01'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:04VRfesff9bgDA2Q8J2oDo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 460333
+          explicit: false
+          external_ids:
+            isrc: USIR27700012
+          external_urls:
+            spotify: https://open.spotify.com/track/0vFV6DfCmNMImtKz0QKrWV
+          href: https://api.spotify.com/v1/tracks/0vFV6DfCmNMImtKz0QKrWV
+          id: 0vFV6DfCmNMImtKz0QKrWV
+          is_local: false
+          is_playable: true
+          name: Exodus
+          track_number: 14
+          type: track
+          uri: spotify:track:0vFV6DfCmNMImtKz0QKrWV
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn
+            href: https://api.spotify.com/v1/albums/4jKeipwuUTjlx9USNYdhZn
+            id: 4jKeipwuUTjlx9USNYdhZn
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273413a6c2c7b296d98171e5e21
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02413a6c2c7b296d98171e5e21
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851413a6c2c7b296d98171e5e21
+            is_playable: true
+            name: Legend - The Best Of Bob Marley And The Wailers
+            release_date: '2002-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4jKeipwuUTjlx9USNYdhZn
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 459666
+          explicit: false
+          external_ids:
+            isrc: USIR27700012
+          external_urls:
+            spotify: https://open.spotify.com/track/5MRQvbpvXejJJy0OWciP8G
+          href: https://api.spotify.com/v1/tracks/5MRQvbpvXejJJy0OWciP8G
+          id: 5MRQvbpvXejJJy0OWciP8G
+          is_local: false
+          is_playable: true
+          name: Exodus
+          track_number: 14
+          type: track
+          uri: spotify:track:5MRQvbpvXejJJy0OWciP8G
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj
+            href: https://api.spotify.com/v1/albums/2VbmXDBkPj34TiyMNYaboj
+            id: 2VbmXDBkPj34TiyMNYaboj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ef4e05f6dff96e307b43ecd8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ef4e05f6dff96e307b43ecd8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ef4e05f6dff96e307b43ecd8
+            is_playable: true
+            name: One Love (Original Motion Picture Soundtrack)
+            release_date: '2024-02-09'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:2VbmXDBkPj34TiyMNYaboj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 458586
+          explicit: false
+          external_ids:
+            isrc: USIR27700012
+          external_urls:
+            spotify: https://open.spotify.com/track/6ftUZhYUM6nUNjOKFZs1lU
+          href: https://api.spotify.com/v1/tracks/6ftUZhYUM6nUNjOKFZs1lU
+          id: 6ftUZhYUM6nUNjOKFZs1lU
+          is_local: false
+          is_playable: true
+          name: Exodus
+          track_number: 9
+          type: track
+          uri: spotify:track:6ftUZhYUM6nUNjOKFZs1lU
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/2BGBKhA5Oo3MMg7VccWeae
+            href: https://api.spotify.com/v1/albums/2BGBKhA5Oo3MMg7VccWeae
+            id: 2BGBKhA5Oo3MMg7VccWeae
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733225207c8e7305bd76cfa710
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023225207c8e7305bd76cfa710
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513225207c8e7305bd76cfa710
+            is_playable: true
+            name: Exodus (Deluxe Edition)
+            release_date: '2022-06-24'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:2BGBKhA5Oo3MMg7VccWeae
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 459662
+          explicit: false
+          external_ids:
+            isrc: USIR27700012
+          external_urls:
+            spotify: https://open.spotify.com/track/4Gai7gEWyfAdVVt5xrdT18
+          href: https://api.spotify.com/v1/tracks/4Gai7gEWyfAdVVt5xrdT18
+          id: 4Gai7gEWyfAdVVt5xrdT18
+          is_local: false
+          is_playable: true
+          name: Exodus
+          track_number: 5
+          type: track
+          uri: spotify:track:4Gai7gEWyfAdVVt5xrdT18
+    isrc: USIR27700012

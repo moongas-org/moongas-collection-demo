@@ -35,3 +35,86 @@ mediaFileData:
   year: 2018
   duration: 222.552
   modTime: 2024-07-20 00:20:55.475770+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2sovgOCQmzQgISl41G2IqG
+    trackId: 2sovgOCQmzQgISl41G2IqG
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AQMLD61408244&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+              href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+              id: 25KNo5GDS6ZpLkjasaecA3
+              name: Thievery Corporation
+              type: artist
+              uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+            external_urls:
+              spotify: https://open.spotify.com/album/0WEod33tqLA7Em0RJLNqxS
+            href: https://api.spotify.com/v1/albums/0WEod33tqLA7Em0RJLNqxS
+            id: 0WEod33tqLA7Em0RJLNqxS
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27321545d4376a178fe49299cac
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0221545d4376a178fe49299cac
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485121545d4376a178fe49299cac
+            is_playable: true
+            name: Treasures From The Temple
+            release_date: '2018-04-20'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0WEod33tqLA7Em0RJLNqxS
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+            href: https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3
+            id: 25KNo5GDS6ZpLkjasaecA3
+            name: Thievery Corporation
+            type: artist
+            uri: spotify:artist:25KNo5GDS6ZpLkjasaecA3
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6qbtuhThjXYnpldXCczlDd
+            href: https://api.spotify.com/v1/artists/6qbtuhThjXYnpldXCczlDd
+            id: 6qbtuhThjXYnpldXCczlDd
+            name: Mr. Lif
+            type: artist
+            uri: spotify:artist:6qbtuhThjXYnpldXCczlDd
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4V4DN9QyKdNW3Y5bCnjtN3
+            href: https://api.spotify.com/v1/artists/4V4DN9QyKdNW3Y5bCnjtN3
+            id: 4V4DN9QyKdNW3Y5bCnjtN3
+            name: Sitali
+            type: artist
+            uri: spotify:artist:4V4DN9QyKdNW3Y5bCnjtN3
+          disc_number: 1
+          duration_ms: 222305
+          explicit: false
+          external_ids:
+            isrc: QMLD61408244
+          external_urls:
+            spotify: https://open.spotify.com/track/2sovgOCQmzQgISl41G2IqG
+          href: https://api.spotify.com/v1/tracks/2sovgOCQmzQgISl41G2IqG
+          id: 2sovgOCQmzQgISl41G2IqG
+          is_local: false
+          is_playable: true
+          name: History
+          track_number: 2
+          type: track
+          uri: spotify:track:2sovgOCQmzQgISl41G2IqG
+    isrc: QMLD61408244

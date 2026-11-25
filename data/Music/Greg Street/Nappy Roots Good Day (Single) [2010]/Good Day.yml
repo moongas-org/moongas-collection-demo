@@ -34,3 +34,126 @@ mediaFileData:
   year: 2008
   duration: 261.7733333333333
   modTime: 2023-12-23 21:31:05.050000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4cnqxdE2opmhp7MwkvhkAJ
+    trackId: 4cnqxdE2opmhp7MwkvhkAJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSZXT0813935&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I
+              href: https://api.spotify.com/v1/artists/3tCxM1rTj2qUXsiQZxvt2I
+              id: 3tCxM1rTj2qUXsiQZxvt2I
+              name: Nappy Roots
+              type: artist
+              uri: spotify:artist:3tCxM1rTj2qUXsiQZxvt2I
+            external_urls:
+              spotify: https://open.spotify.com/album/5XSafkJAUVR8j93pUysl8a
+            href: https://api.spotify.com/v1/albums/5XSafkJAUVR8j93pUysl8a
+            id: 5XSafkJAUVR8j93pUysl8a
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f9fde61817e49769b3d89131
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f9fde61817e49769b3d89131
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f9fde61817e49769b3d89131
+            is_playable: true
+            name: Good Day
+            release_date: '2008-07-08'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:5XSafkJAUVR8j93pUysl8a
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I
+            href: https://api.spotify.com/v1/artists/3tCxM1rTj2qUXsiQZxvt2I
+            id: 3tCxM1rTj2qUXsiQZxvt2I
+            name: Nappy Roots
+            type: artist
+            uri: spotify:artist:3tCxM1rTj2qUXsiQZxvt2I
+          disc_number: 1
+          duration_ms: 261773
+          explicit: true
+          external_ids:
+            isrc: USZXT0813935
+          external_urls:
+            spotify: https://open.spotify.com/track/4cnqxdE2opmhp7MwkvhkAJ
+          href: https://api.spotify.com/v1/tracks/4cnqxdE2opmhp7MwkvhkAJ
+          id: 4cnqxdE2opmhp7MwkvhkAJ
+          is_local: false
+          is_playable: true
+          name: Good Day
+          track_number: 1
+          type: track
+          uri: spotify:track:4cnqxdE2opmhp7MwkvhkAJ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I
+              href: https://api.spotify.com/v1/artists/3tCxM1rTj2qUXsiQZxvt2I
+              id: 3tCxM1rTj2qUXsiQZxvt2I
+              name: Nappy Roots
+              type: artist
+              uri: spotify:artist:3tCxM1rTj2qUXsiQZxvt2I
+            external_urls:
+              spotify: https://open.spotify.com/album/2qHx80OL5EyqiEqGBvoVWu
+            href: https://api.spotify.com/v1/albums/2qHx80OL5EyqiEqGBvoVWu
+            id: 2qHx80OL5EyqiEqGBvoVWu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273066a9d8512be0ec94280c399
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02066a9d8512be0ec94280c399
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851066a9d8512be0ec94280c399
+            is_playable: true
+            name: The Humdinger
+            release_date: '2008-08-05'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:2qHx80OL5EyqiEqGBvoVWu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I
+            href: https://api.spotify.com/v1/artists/3tCxM1rTj2qUXsiQZxvt2I
+            id: 3tCxM1rTj2qUXsiQZxvt2I
+            name: Nappy Roots
+            type: artist
+            uri: spotify:artist:3tCxM1rTj2qUXsiQZxvt2I
+          disc_number: 1
+          duration_ms: 261373
+          explicit: true
+          external_ids:
+            isrc: USZXT0813935
+          external_urls:
+            spotify: https://open.spotify.com/track/5BYWuQEiyb6bxJGWIvsnpF
+          href: https://api.spotify.com/v1/tracks/5BYWuQEiyb6bxJGWIvsnpF
+          id: 5BYWuQEiyb6bxJGWIvsnpF
+          is_local: false
+          is_playable: true
+          name: Good Day
+          track_number: 7
+          type: track
+          uri: spotify:track:5BYWuQEiyb6bxJGWIvsnpF
+    isrc: USZXT0813935

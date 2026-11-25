@@ -59,3 +59,180 @@ mediaFileData:
   year: 1973
   duration: 223.6865306122449
   modTime: 2024-02-18 20:02:25.619268+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1eB6hCEijrtA91AcmlzhuB
+    trackId: 1eB6hCEijrtA91AcmlzhuB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAAN7300131&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/25WE9xmZIYadg5lhdgscTJ
+            href: https://api.spotify.com/v1/albums/25WE9xmZIYadg5lhdgscTJ
+            id: 25WE9xmZIYadg5lhdgscTJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27394d3ad951795b20e200cfb1e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0294d3ad951795b20e200cfb1e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485194d3ad951795b20e200cfb1e
+            is_playable: true
+            name: Burnin'
+            release_date: '1973-10-19'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:25WE9xmZIYadg5lhdgscTJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 221866
+          explicit: false
+          external_ids:
+            isrc: GBAAN7300131
+          external_urls:
+            spotify: https://open.spotify.com/track/1eB6hCEijrtA91AcmlzhuB
+          href: https://api.spotify.com/v1/tracks/1eB6hCEijrtA91AcmlzhuB
+          id: 1eB6hCEijrtA91AcmlzhuB
+          is_local: false
+          is_playable: true
+          name: One Foundation
+          track_number: 9
+          type: track
+          uri: spotify:track:1eB6hCEijrtA91AcmlzhuB
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+              href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+              id: 2QsynagSdAqZj3U9HgDzjD
+              name: Bob Marley & The Wailers
+              type: artist
+              uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+            external_urls:
+              spotify: https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe
+            href: https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe
+            id: 5EZMcYc3xK0rlru83kHpUe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879
+            is_playable: true
+            name: Burnin' (Deluxe Edition)
+            release_date: '1973-10-19'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:5EZMcYc3xK0rlru83kHpUe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 222120
+          explicit: false
+          external_ids:
+            isrc: GBAAN7300131
+          external_urls:
+            spotify: https://open.spotify.com/track/74GXP8DDV73npTIVCoN7Gy
+          href: https://api.spotify.com/v1/tracks/74GXP8DDV73npTIVCoN7Gy
+          id: 74GXP8DDV73npTIVCoN7Gy
+          is_local: false
+          is_playable: true
+          name: One Foundation
+          track_number: 9
+          type: track
+          uri: spotify:track:74GXP8DDV73npTIVCoN7Gy
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2lKJ3RjnsbHLA2ZevbkReE
+            href: https://api.spotify.com/v1/albums/2lKJ3RjnsbHLA2ZevbkReE
+            id: 2lKJ3RjnsbHLA2ZevbkReE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27366f51231b8d5f9ccbfbe891d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0266f51231b8d5f9ccbfbe891d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485166f51231b8d5f9ccbfbe891d
+            is_playable: true
+            name: Maquina Del Tiempo | 70's
+            release_date: '2024-09-20'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:2lKJ3RjnsbHLA2ZevbkReE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+            href: https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD
+            id: 2QsynagSdAqZj3U9HgDzjD
+            name: Bob Marley & The Wailers
+            type: artist
+            uri: spotify:artist:2QsynagSdAqZj3U9HgDzjD
+          disc_number: 1
+          duration_ms: 221866
+          explicit: false
+          external_ids:
+            isrc: GBAAN7300131
+          external_urls:
+            spotify: https://open.spotify.com/track/5az2tPOHNjPvM0J88R22C2
+          href: https://api.spotify.com/v1/tracks/5az2tPOHNjPvM0J88R22C2
+          id: 5az2tPOHNjPvM0J88R22C2
+          is_local: false
+          is_playable: true
+          name: One Foundation
+          track_number: 8
+          type: track
+          uri: spotify:track:5az2tPOHNjPvM0J88R22C2
+    isrc: GBAAN7300131

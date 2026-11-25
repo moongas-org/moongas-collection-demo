@@ -34,3 +34,72 @@ mediaFileData:
   year: 1997
   duration: 275.6702040816327
   modTime: 2023-05-11 02:33:54.870000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2qbAP8ZEIvkczXqrEU75MR
+    trackId: 2qbAP8ZEIvkczXqrEU75MR
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSBG30400035&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU
+              href: https://api.spotify.com/v1/artists/1LB8qB5BPb3MHQrfkvifXU
+              id: 1LB8qB5BPb3MHQrfkvifXU
+              name: Cheap Trick
+              type: artist
+              uri: spotify:artist:1LB8qB5BPb3MHQrfkvifXU
+            external_urls:
+              spotify: https://open.spotify.com/album/60zptnY3sgRHasBnY2bbEA
+            href: https://api.spotify.com/v1/albums/60zptnY3sgRHasBnY2bbEA
+            id: 60zptnY3sgRHasBnY2bbEA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27333b9e03d1a190a7166e45658
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0233b9e03d1a190a7166e45658
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485133b9e03d1a190a7166e45658
+            is_playable: true
+            name: '1997'
+            release_date: '1997-04-29'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:60zptnY3sgRHasBnY2bbEA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU
+            href: https://api.spotify.com/v1/artists/1LB8qB5BPb3MHQrfkvifXU
+            id: 1LB8qB5BPb3MHQrfkvifXU
+            name: Cheap Trick
+            type: artist
+            uri: spotify:artist:1LB8qB5BPb3MHQrfkvifXU
+          disc_number: 1
+          duration_ms: 275600
+          explicit: false
+          external_ids:
+            isrc: USBG30400035
+          external_urls:
+            spotify: https://open.spotify.com/track/2qbAP8ZEIvkczXqrEU75MR
+          href: https://api.spotify.com/v1/tracks/2qbAP8ZEIvkczXqrEU75MR
+          id: 2qbAP8ZEIvkczXqrEU75MR
+          is_local: false
+          is_playable: true
+          name: Anytime
+          track_number: 1
+          type: track
+          uri: spotify:track:2qbAP8ZEIvkczXqrEU75MR
+    isrc: USBG30400035

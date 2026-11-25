@@ -70,3 +70,180 @@ mediaFileData:
   year: 2004
   duration: 228.41470833333332
   modTime: 2023-05-14 13:29:52.310000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6GN5GhxT2wqbZ0tEoUtJ11
+    trackId: 6GN5GhxT2wqbZ0tEoUtJ11
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMV20600094&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei
+              href: https://api.spotify.com/v1/artists/2jI32eTOcSx2bn1MGgRyei
+              id: 2jI32eTOcSx2bn1MGgRyei
+              name: The Wreckers
+              type: artist
+              uri: spotify:artist:2jI32eTOcSx2bn1MGgRyei
+            external_urls:
+              spotify: https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe
+            href: https://api.spotify.com/v1/albums/0KxzAA13yiDK4rchYytEhe
+            id: 0KxzAA13yiDK4rchYytEhe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27397a42af3f61bb8d045563b7a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0297a42af3f61bb8d045563b7a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485197a42af3f61bb8d045563b7a
+            is_playable: true
+            name: Stand Still, Look Pretty (U.S. Version)
+            release_date: '2006'
+            release_date_precision: year
+            total_tracks: 12
+            type: album
+            uri: spotify:album:0KxzAA13yiDK4rchYytEhe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei
+            href: https://api.spotify.com/v1/artists/2jI32eTOcSx2bn1MGgRyei
+            id: 2jI32eTOcSx2bn1MGgRyei
+            name: The Wreckers
+            type: artist
+            uri: spotify:artist:2jI32eTOcSx2bn1MGgRyei
+          disc_number: 1
+          duration_ms: 225640
+          explicit: false
+          external_ids:
+            isrc: USMV20600094
+          external_urls:
+            spotify: https://open.spotify.com/track/6GN5GhxT2wqbZ0tEoUtJ11
+          href: https://api.spotify.com/v1/tracks/6GN5GhxT2wqbZ0tEoUtJ11
+          id: 6GN5GhxT2wqbZ0tEoUtJ11
+          is_local: false
+          is_playable: true
+          name: The Good Kind
+          track_number: 3
+          type: track
+          uri: spotify:track:6GN5GhxT2wqbZ0tEoUtJ11
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei
+              href: https://api.spotify.com/v1/artists/2jI32eTOcSx2bn1MGgRyei
+              id: 2jI32eTOcSx2bn1MGgRyei
+              name: The Wreckers
+              type: artist
+              uri: spotify:artist:2jI32eTOcSx2bn1MGgRyei
+            external_urls:
+              spotify: https://open.spotify.com/album/0caKMTTUjGjCnRgdcKV307
+            href: https://api.spotify.com/v1/albums/0caKMTTUjGjCnRgdcKV307
+            id: 0caKMTTUjGjCnRgdcKV307
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e346e1ce5795aad707dc9b9d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e346e1ce5795aad707dc9b9d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e346e1ce5795aad707dc9b9d
+            is_playable: true
+            name: Stand Still, Look Pretty
+            release_date: '2005-06-10'
+            release_date_precision: day
+            total_tracks: 27
+            type: album
+            uri: spotify:album:0caKMTTUjGjCnRgdcKV307
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei
+            href: https://api.spotify.com/v1/artists/2jI32eTOcSx2bn1MGgRyei
+            id: 2jI32eTOcSx2bn1MGgRyei
+            name: The Wreckers
+            type: artist
+            uri: spotify:artist:2jI32eTOcSx2bn1MGgRyei
+          disc_number: 1
+          duration_ms: 225640
+          explicit: false
+          external_ids:
+            isrc: USMV20600094
+          external_urls:
+            spotify: https://open.spotify.com/track/7jCqM5LEg6TjN0i8Hcc5ri
+          href: https://api.spotify.com/v1/tracks/7jCqM5LEg6TjN0i8Hcc5ri
+          id: 7jCqM5LEg6TjN0i8Hcc5ri
+          is_local: false
+          is_playable: true
+          name: The Good Kind
+          track_number: 7
+          type: track
+          uri: spotify:track:7jCqM5LEg6TjN0i8Hcc5ri
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5zHu6SIjdgl6e29Qcg5lge
+            href: https://api.spotify.com/v1/albums/5zHu6SIjdgl6e29Qcg5lge
+            id: 5zHu6SIjdgl6e29Qcg5lge
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ed22a5867f1f910500a7773e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ed22a5867f1f910500a7773e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ed22a5867f1f910500a7773e
+            is_playable: true
+            name: The Rest Is Country
+            release_date: '2024-02-09'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:5zHu6SIjdgl6e29Qcg5lge
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei
+            href: https://api.spotify.com/v1/artists/2jI32eTOcSx2bn1MGgRyei
+            id: 2jI32eTOcSx2bn1MGgRyei
+            name: The Wreckers
+            type: artist
+            uri: spotify:artist:2jI32eTOcSx2bn1MGgRyei
+          disc_number: 1
+          duration_ms: 225640
+          explicit: false
+          external_ids:
+            isrc: USMV20600094
+          external_urls:
+            spotify: https://open.spotify.com/track/1TxEP6YKdshqXn1jPtpbnk
+          href: https://api.spotify.com/v1/tracks/1TxEP6YKdshqXn1jPtpbnk
+          id: 1TxEP6YKdshqXn1jPtpbnk
+          is_local: false
+          is_playable: true
+          name: The Good Kind
+          track_number: 23
+          type: track
+          uri: spotify:track:1TxEP6YKdshqXn1jPtpbnk
+    isrc: USMV20600094

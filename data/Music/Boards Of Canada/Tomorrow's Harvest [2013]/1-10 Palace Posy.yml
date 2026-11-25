@@ -45,3 +45,72 @@ mediaFileData:
   year: 2013
   duration: 245.92780045351475
   modTime: 2025-12-09 02:56:26.288010+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi
+    trackId: 2nJB27OfeX9Z5ROl3uZngi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBPW1300033&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1
+              href: https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1
+              id: 2VAvhf61GgLYmC6C8anyX1
+              name: Boards of Canada
+              type: artist
+              uri: spotify:artist:2VAvhf61GgLYmC6C8anyX1
+            external_urls:
+              spotify: https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex
+            href: https://api.spotify.com/v1/albums/07Ckd8KDDxcbY5iUXjhuex
+            id: 07Ckd8KDDxcbY5iUXjhuex
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e3c1e2a6c8b3a184d9baab90
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e3c1e2a6c8b3a184d9baab90
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e3c1e2a6c8b3a184d9baab90
+            is_playable: true
+            name: Tomorrow's Harvest
+            release_date: '2013-06-10'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:07Ckd8KDDxcbY5iUXjhuex
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1
+            href: https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1
+            id: 2VAvhf61GgLYmC6C8anyX1
+            name: Boards of Canada
+            type: artist
+            uri: spotify:artist:2VAvhf61GgLYmC6C8anyX1
+          disc_number: 1
+          duration_ms: 245927
+          explicit: false
+          external_ids:
+            isrc: GBBPW1300033
+          external_urls:
+            spotify: https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi
+          href: https://api.spotify.com/v1/tracks/2nJB27OfeX9Z5ROl3uZngi
+          id: 2nJB27OfeX9Z5ROl3uZngi
+          is_local: false
+          is_playable: true
+          name: Palace Posy
+          track_number: 10
+          type: track
+          uri: spotify:track:2nJB27OfeX9Z5ROl3uZngi
+    isrc: GBBPW1300033

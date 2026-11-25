@@ -233,3 +233,288 @@ mediaFileData:
   year: 1977
   duration: 208.92734693877551
   modTime: 2023-09-12 01:29:20+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P
+    trackId: 5VJjhHyG8NZ5xdgG6uTb3P
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMO17700548&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSMO17700548&type=track
+        offset: 0
+        previous:
+        total: 32
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+              href: https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm
+              id: 6twIAGnYuIT1pncMAsXnEm
+              name: Commodores
+              type: artist
+              uri: spotify:artist:6twIAGnYuIT1pncMAsXnEm
+            external_urls:
+              spotify: https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl
+            href: https://api.spotify.com/v1/albums/2tzbNCAUTmW4MIM2Ulvrwl
+            id: 2tzbNCAUTmW4MIM2Ulvrwl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029d52169c3b609d4630e04433
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519d52169c3b609d4630e04433
+            is_playable: true
+            name: Commodores
+            release_date: '1977-01-01'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:2tzbNCAUTmW4MIM2Ulvrwl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+            href: https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm
+            id: 6twIAGnYuIT1pncMAsXnEm
+            name: Commodores
+            type: artist
+            uri: spotify:artist:6twIAGnYuIT1pncMAsXnEm
+          disc_number: 1
+          duration_ms: 208893
+          explicit: false
+          external_ids:
+            isrc: USMO17700548
+          external_urls:
+            spotify: https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P
+          href: https://api.spotify.com/v1/tracks/5VJjhHyG8NZ5xdgG6uTb3P
+          id: 5VJjhHyG8NZ5xdgG6uTb3P
+          is_local: false
+          is_playable: true
+          name: Brick House
+          track_number: 6
+          type: track
+          uri: spotify:track:5VJjhHyG8NZ5xdgG6uTb3P
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/48btXtK3xeILgH5vfMXMYF
+            href: https://api.spotify.com/v1/albums/48btXtK3xeILgH5vfMXMYF
+            id: 48btXtK3xeILgH5vfMXMYF
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273049cd5bbcacae55a2e2e33c7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02049cd5bbcacae55a2e2e33c7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851049cd5bbcacae55a2e2e33c7
+            is_playable: true
+            name: Motown Greatest Hits
+            release_date: '2020-05-15'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:48btXtK3xeILgH5vfMXMYF
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+            href: https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm
+            id: 6twIAGnYuIT1pncMAsXnEm
+            name: Commodores
+            type: artist
+            uri: spotify:artist:6twIAGnYuIT1pncMAsXnEm
+          disc_number: 1
+          duration_ms: 223720
+          explicit: false
+          external_ids:
+            isrc: USMO17700548
+          external_urls:
+            spotify: https://open.spotify.com/track/5dmsEuC6NZ6cOOWWXtX829
+          href: https://api.spotify.com/v1/tracks/5dmsEuC6NZ6cOOWWXtX829
+          id: 5dmsEuC6NZ6cOOWWXtX829
+          is_local: false
+          is_playable: true
+          name: Brick House
+          track_number: 14
+          type: track
+          uri: spotify:track:5dmsEuC6NZ6cOOWWXtX829
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0Q6zcL0hk3K4shD1g4JOtA
+            href: https://api.spotify.com/v1/albums/0Q6zcL0hk3K4shD1g4JOtA
+            id: 0Q6zcL0hk3K4shD1g4JOtA
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739af527db61b28db8d4e0e576
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029af527db61b28db8d4e0e576
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519af527db61b28db8d4e0e576
+            is_playable: true
+            name: To Wong Foo, Thanks For Everything, Julie Newmar
+            release_date: '1995-01-01'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:0Q6zcL0hk3K4shD1g4JOtA
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+            href: https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm
+            id: 6twIAGnYuIT1pncMAsXnEm
+            name: Commodores
+            type: artist
+            uri: spotify:artist:6twIAGnYuIT1pncMAsXnEm
+          disc_number: 1
+          duration_ms: 214266
+          explicit: false
+          external_ids:
+            isrc: USMO17700548
+          external_urls:
+            spotify: https://open.spotify.com/track/245Lf87e0SN2uO6rchDHRI
+          href: https://api.spotify.com/v1/tracks/245Lf87e0SN2uO6rchDHRI
+          id: 245Lf87e0SN2uO6rchDHRI
+          is_local: false
+          is_playable: true
+          name: Brick House
+          track_number: 6
+          type: track
+          uri: spotify:track:245Lf87e0SN2uO6rchDHRI
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+              href: https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm
+              id: 6twIAGnYuIT1pncMAsXnEm
+              name: Commodores
+              type: artist
+              uri: spotify:artist:6twIAGnYuIT1pncMAsXnEm
+            external_urls:
+              spotify: https://open.spotify.com/album/4DxAjjguteFl2OrYxB9QJj
+            href: https://api.spotify.com/v1/albums/4DxAjjguteFl2OrYxB9QJj
+            id: 4DxAjjguteFl2OrYxB9QJj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27300595c776c351cc124f6946d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0200595c776c351cc124f6946d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485100595c776c351cc124f6946d
+            is_playable: true
+            name: All The Great Hits
+            release_date: '1991-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:4DxAjjguteFl2OrYxB9QJj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+            href: https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm
+            id: 6twIAGnYuIT1pncMAsXnEm
+            name: Commodores
+            type: artist
+            uri: spotify:artist:6twIAGnYuIT1pncMAsXnEm
+          disc_number: 1
+          duration_ms: 208946
+          explicit: false
+          external_ids:
+            isrc: USMO17700548
+          external_urls:
+            spotify: https://open.spotify.com/track/4HpzPGP4RfNuV8wt4CgtPF
+          href: https://api.spotify.com/v1/tracks/4HpzPGP4RfNuV8wt4CgtPF
+          id: 4HpzPGP4RfNuV8wt4CgtPF
+          is_local: false
+          is_playable: true
+          name: Brick House
+          track_number: 6
+          type: track
+          uri: spotify:track:4HpzPGP4RfNuV8wt4CgtPF
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+              href: https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm
+              id: 6twIAGnYuIT1pncMAsXnEm
+              name: Commodores
+              type: artist
+              uri: spotify:artist:6twIAGnYuIT1pncMAsXnEm
+            external_urls:
+              spotify: https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR
+            href: https://api.spotify.com/v1/albums/4mDGyVthoID64WAcff0HxR
+            id: 4mDGyVthoID64WAcff0HxR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732a177dddad63ff1c7c1e3c6d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022a177dddad63ff1c7c1e3c6d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512a177dddad63ff1c7c1e3c6d
+            is_playable: true
+            name: The Definitive Collection
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4mDGyVthoID64WAcff0HxR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+            href: https://api.spotify.com/v1/artists/6twIAGnYuIT1pncMAsXnEm
+            id: 6twIAGnYuIT1pncMAsXnEm
+            name: Commodores
+            type: artist
+            uri: spotify:artist:6twIAGnYuIT1pncMAsXnEm
+          disc_number: 1
+          duration_ms: 206840
+          explicit: false
+          external_ids:
+            isrc: USMO17700548
+          external_urls:
+            spotify: https://open.spotify.com/track/7FkIhGQuSUa9G5PnKh2QYm
+          href: https://api.spotify.com/v1/tracks/7FkIhGQuSUa9G5PnKh2QYm
+          id: 7FkIhGQuSUa9G5PnKh2QYm
+          is_local: false
+          is_playable: true
+          name: Brick House
+          track_number: 9
+          type: track
+          uri: spotify:track:7FkIhGQuSUa9G5PnKh2QYm
+    isrc: USMO17700548

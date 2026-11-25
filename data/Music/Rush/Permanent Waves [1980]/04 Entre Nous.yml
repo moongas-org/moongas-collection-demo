@@ -34,3 +34,126 @@ mediaFileData:
   year: 1980
   duration: 278.047325
   modTime: 2022-01-29 18:47:34.480000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/05k5hQBg2gSadrEec8WnmC
+    trackId: 05k5hQBg2gSadrEec8WnmC
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMR18070031&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/06hsxtm7Y1gDM5sNliCD5d
+            href: https://api.spotify.com/v1/albums/06hsxtm7Y1gDM5sNliCD5d
+            id: 06hsxtm7Y1gDM5sNliCD5d
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733c1f88e2c473280996221604
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023c1f88e2c473280996221604
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513c1f88e2c473280996221604
+            is_playable: true
+            name: Permanent Waves (40th Anniversary)
+            release_date: '2020-05-29'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:06hsxtm7Y1gDM5sNliCD5d
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 277647
+          explicit: false
+          external_ids:
+            isrc: USMR18070031
+          external_urls:
+            spotify: https://open.spotify.com/track/05k5hQBg2gSadrEec8WnmC
+          href: https://api.spotify.com/v1/tracks/05k5hQBg2gSadrEec8WnmC
+          id: 05k5hQBg2gSadrEec8WnmC
+          is_local: false
+          is_playable: true
+          name: Entre Nous
+          track_number: 4
+          type: track
+          uri: spotify:track:05k5hQBg2gSadrEec8WnmC
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+              href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+              id: 2Hkut4rAAyrQxRdof7FVJq
+              name: Rush
+              type: artist
+              uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+            external_urls:
+              spotify: https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i
+            href: https://api.spotify.com/v1/albums/3nUNxSh2szhmN7iifAKv5i
+            id: 3nUNxSh2szhmN7iifAKv5i
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27306c0d7ebcabad0c39b566983
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0206c0d7ebcabad0c39b566983
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485106c0d7ebcabad0c39b566983
+            is_playable: true
+            name: Permanent Waves
+            release_date: '1980-01-01'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:3nUNxSh2szhmN7iifAKv5i
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq
+            href: https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq
+            id: 2Hkut4rAAyrQxRdof7FVJq
+            name: Rush
+            type: artist
+            uri: spotify:artist:2Hkut4rAAyrQxRdof7FVJq
+          disc_number: 1
+          duration_ms: 277133
+          explicit: false
+          external_ids:
+            isrc: USMR18070031
+          external_urls:
+            spotify: https://open.spotify.com/track/3JZDax8w9XaM2SXVim3lxd
+          href: https://api.spotify.com/v1/tracks/3JZDax8w9XaM2SXVim3lxd
+          id: 3JZDax8w9XaM2SXVim3lxd
+          is_local: false
+          is_playable: true
+          name: Entre Nous
+          track_number: 4
+          type: track
+          uri: spotify:track:3JZDax8w9XaM2SXVim3lxd
+    isrc: USMR18070031

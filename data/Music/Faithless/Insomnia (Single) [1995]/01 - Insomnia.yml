@@ -202,3 +202,126 @@ mediaFileData:
   year: 1995
   duration: 212.976
   modTime: 2024-09-24 22:15:07.800378+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2YdHWWQXkpPA87gyevuJkJ
+    trackId: 2YdHWWQXkpPA87gyevuJkJ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBBXH9820027&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0xPrKiVrmq4NP8P6lW2r33
+              href: https://api.spotify.com/v1/artists/0xPrKiVrmq4NP8P6lW2r33
+              id: 0xPrKiVrmq4NP8P6lW2r33
+              name: Antonwetzy
+              type: artist
+              uri: spotify:artist:0xPrKiVrmq4NP8P6lW2r33
+            external_urls:
+              spotify: https://open.spotify.com/album/29COcLxXV3Q7cRHRTRoyTz
+            href: https://api.spotify.com/v1/albums/29COcLxXV3Q7cRHRTRoyTz
+            id: 29COcLxXV3Q7cRHRTRoyTz
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fc2658b4cf13e7153deb4c74
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fc2658b4cf13e7153deb4c74
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fc2658b4cf13e7153deb4c74
+            is_playable: true
+            name: Insomnia3K
+            release_date: '2023-08-03'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:29COcLxXV3Q7cRHRTRoyTz
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0xPrKiVrmq4NP8P6lW2r33
+            href: https://api.spotify.com/v1/artists/0xPrKiVrmq4NP8P6lW2r33
+            id: 0xPrKiVrmq4NP8P6lW2r33
+            name: Antonwetzy
+            type: artist
+            uri: spotify:artist:0xPrKiVrmq4NP8P6lW2r33
+          disc_number: 1
+          duration_ms: 189257
+          explicit: false
+          external_ids:
+            isrc: GBBXH9820027
+          external_urls:
+            spotify: https://open.spotify.com/track/2YdHWWQXkpPA87gyevuJkJ
+          href: https://api.spotify.com/v1/tracks/2YdHWWQXkpPA87gyevuJkJ
+          id: 2YdHWWQXkpPA87gyevuJkJ
+          is_local: false
+          is_playable: true
+          name: Insomnia3K
+          track_number: 1
+          type: track
+          uri: spotify:track:2YdHWWQXkpPA87gyevuJkJ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE
+              href: https://api.spotify.com/v1/artists/5T4UKHhr4HGIC0VzdZQtAE
+              id: 5T4UKHhr4HGIC0VzdZQtAE
+              name: Faithless
+              type: artist
+              uri: spotify:artist:5T4UKHhr4HGIC0VzdZQtAE
+            external_urls:
+              spotify: https://open.spotify.com/album/7lVTyKn79gfh5yQYjBngvs
+            href: https://api.spotify.com/v1/albums/7lVTyKn79gfh5yQYjBngvs
+            id: 7lVTyKn79gfh5yQYjBngvs
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e72673705def88e141392fdd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e72673705def88e141392fdd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e72673705def88e141392fdd
+            is_playable: true
+            name: Insomnia (30th Anniversary)
+            release_date: '2025-11-28'
+            release_date_precision: day
+            total_tracks: 5
+            type: album
+            uri: spotify:album:7lVTyKn79gfh5yQYjBngvs
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE
+            href: https://api.spotify.com/v1/artists/5T4UKHhr4HGIC0VzdZQtAE
+            id: 5T4UKHhr4HGIC0VzdZQtAE
+            name: Faithless
+            type: artist
+            uri: spotify:artist:5T4UKHhr4HGIC0VzdZQtAE
+          disc_number: 1
+          duration_ms: 214013
+          explicit: false
+          external_ids:
+            isrc: GBBXH9820027
+          external_urls:
+            spotify: https://open.spotify.com/track/7hs5YBonqv9lKZl0IHz8i2
+          href: https://api.spotify.com/v1/tracks/7hs5YBonqv9lKZl0IHz8i2
+          id: 7hs5YBonqv9lKZl0IHz8i2
+          is_local: false
+          is_playable: true
+          name: Insomnia (Monster Mix) - Radio Edit
+          track_number: 1
+          type: track
+          uri: spotify:track:7hs5YBonqv9lKZl0IHz8i2
+    isrc: GBBXH9820027

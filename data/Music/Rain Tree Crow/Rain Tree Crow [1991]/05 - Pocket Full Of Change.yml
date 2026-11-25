@@ -34,3 +34,72 @@ mediaFileData:
   year: 1991
   duration: 368.424
   modTime: 2024-01-27 17:24:20.278900+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4Z89UpYGsvH50A57ipYiRx
+    trackId: 4Z89UpYGsvH50A57ipYiRx
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAAA0300415&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4vXUoB9om3IMlNONSPQSPT
+              href: https://api.spotify.com/v1/artists/4vXUoB9om3IMlNONSPQSPT
+              id: 4vXUoB9om3IMlNONSPQSPT
+              name: Rain Tree Crow
+              type: artist
+              uri: spotify:artist:4vXUoB9om3IMlNONSPQSPT
+            external_urls:
+              spotify: https://open.spotify.com/album/0FyGlxBONALyNNKfQ61XSh
+            href: https://api.spotify.com/v1/albums/0FyGlxBONALyNNKfQ61XSh
+            id: 0FyGlxBONALyNNKfQ61XSh
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733f5bb9c05ba5df09de30f440
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023f5bb9c05ba5df09de30f440
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513f5bb9c05ba5df09de30f440
+            is_playable: true
+            name: Rain Tree Crow
+            release_date: '2009-01-01'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0FyGlxBONALyNNKfQ61XSh
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4vXUoB9om3IMlNONSPQSPT
+            href: https://api.spotify.com/v1/artists/4vXUoB9om3IMlNONSPQSPT
+            id: 4vXUoB9om3IMlNONSPQSPT
+            name: Rain Tree Crow
+            type: artist
+            uri: spotify:artist:4vXUoB9om3IMlNONSPQSPT
+          disc_number: 1
+          duration_ms: 368400
+          explicit: false
+          external_ids:
+            isrc: GBAAA0300415
+          external_urls:
+            spotify: https://open.spotify.com/track/4Z89UpYGsvH50A57ipYiRx
+          href: https://api.spotify.com/v1/tracks/4Z89UpYGsvH50A57ipYiRx
+          id: 4Z89UpYGsvH50A57ipYiRx
+          is_local: false
+          is_playable: true
+          name: Pocket Full Of Change - Remastered 2003
+          track_number: 5
+          type: track
+          uri: spotify:track:4Z89UpYGsvH50A57ipYiRx
+    isrc: GBAAA0300415

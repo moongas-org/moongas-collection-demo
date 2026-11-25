@@ -35,3 +35,72 @@ mediaFileData:
   year: 2004
   duration: 251.14122448979592
   modTime: 2024-09-22 15:38:05.977679+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/14x1QJLDdZ0zI6CEu50uFh
+    trackId: 14x1QJLDdZ0zI6CEu50uFh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AITO0P1000207&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB
+              href: https://api.spotify.com/v1/artists/5dUI54FMDxPqaXbNs4kLpB
+              id: 5dUI54FMDxPqaXbNs4kLpB
+              name: Nicola Conte
+              type: artist
+              uri: spotify:artist:5dUI54FMDxPqaXbNs4kLpB
+            external_urls:
+              spotify: https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ
+            href: https://api.spotify.com/v1/albums/5cKcN1R8UBM5AHySPWAdCQ
+            id: 5cKcN1R8UBM5AHySPWAdCQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737467555f810235ce0f5185e9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027467555f810235ce0f5185e9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517467555f810235ce0f5185e9
+            is_playable: true
+            name: Other Directions (Remastered and Unreleased Tracks)
+            release_date: '2004'
+            release_date_precision: year
+            total_tracks: 22
+            type: album
+            uri: spotify:album:5cKcN1R8UBM5AHySPWAdCQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB
+            href: https://api.spotify.com/v1/artists/5dUI54FMDxPqaXbNs4kLpB
+            id: 5dUI54FMDxPqaXbNs4kLpB
+            name: Nicola Conte
+            type: artist
+            uri: spotify:artist:5dUI54FMDxPqaXbNs4kLpB
+          disc_number: 1
+          duration_ms: 249253
+          explicit: false
+          external_ids:
+            isrc: ITO0P1000207
+          external_urls:
+            spotify: https://open.spotify.com/track/14x1QJLDdZ0zI6CEu50uFh
+          href: https://api.spotify.com/v1/tracks/14x1QJLDdZ0zI6CEu50uFh
+          id: 14x1QJLDdZ0zI6CEu50uFh
+          is_local: false
+          is_playable: true
+          name: All Gone
+          track_number: 10
+          type: track
+          uri: spotify:track:14x1QJLDdZ0zI6CEu50uFh
+    isrc: ITO0P1000207

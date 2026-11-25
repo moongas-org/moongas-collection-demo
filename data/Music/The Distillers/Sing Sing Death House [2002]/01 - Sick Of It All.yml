@@ -45,3 +45,126 @@ mediaFileData:
   year: 2002
   duration: 190.2
   modTime: 2025-03-26 19:50:21.754835+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3wivfrIft1JsiGRvZXZtnI
+    trackId: 3wivfrIft1JsiGRvZXZtnI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSHEL0310201&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1sZhrEgfun6Ji97FcZlQva
+            href: https://api.spotify.com/v1/albums/1sZhrEgfun6Ji97FcZlQva
+            id: 1sZhrEgfun6Ji97FcZlQva
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734a05eb63073624c7028cea29
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024a05eb63073624c7028cea29
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514a05eb63073624c7028cea29
+            is_playable: true
+            name: Give Em The Boot III
+            release_date: '2002-02-12'
+            release_date_precision: day
+            total_tracks: 21
+            type: album
+            uri: spotify:album:1sZhrEgfun6Ji97FcZlQva
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+            href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+            id: 7MlyHuGRHi31yYlrttDqgT
+            name: The Distillers
+            type: artist
+            uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+          disc_number: 1
+          duration_ms: 190160
+          explicit: true
+          external_ids:
+            isrc: USHEL0310201
+          external_urls:
+            spotify: https://open.spotify.com/track/3wivfrIft1JsiGRvZXZtnI
+          href: https://api.spotify.com/v1/tracks/3wivfrIft1JsiGRvZXZtnI
+          id: 3wivfrIft1JsiGRvZXZtnI
+          is_local: false
+          is_playable: true
+          name: Sick Of It All
+          track_number: 1
+          type: track
+          uri: spotify:track:3wivfrIft1JsiGRvZXZtnI
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+              href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+              id: 7MlyHuGRHi31yYlrttDqgT
+              name: The Distillers
+              type: artist
+              uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+            external_urls:
+              spotify: https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi
+            href: https://api.spotify.com/v1/albums/4VrINRcJyLcENNLiDbCoBi
+            id: 4VrINRcJyLcENNLiDbCoBi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733dbbc58505029f061489df98
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023dbbc58505029f061489df98
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513dbbc58505029f061489df98
+            is_playable: true
+            name: Sing Sing Death House
+            release_date: '2002-02-12'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4VrINRcJyLcENNLiDbCoBi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT
+            href: https://api.spotify.com/v1/artists/7MlyHuGRHi31yYlrttDqgT
+            id: 7MlyHuGRHi31yYlrttDqgT
+            name: The Distillers
+            type: artist
+            uri: spotify:artist:7MlyHuGRHi31yYlrttDqgT
+          disc_number: 1
+          duration_ms: 190160
+          explicit: true
+          external_ids:
+            isrc: USHEL0310201
+          external_urls:
+            spotify: https://open.spotify.com/track/00dIhpeebdrRaWuWYKd2xU
+          href: https://api.spotify.com/v1/tracks/00dIhpeebdrRaWuWYKd2xU
+          id: 00dIhpeebdrRaWuWYKd2xU
+          is_local: false
+          is_playable: true
+          name: Sick Of It All
+          track_number: 1
+          type: track
+          uri: spotify:track:00dIhpeebdrRaWuWYKd2xU
+    isrc: USHEL0310201

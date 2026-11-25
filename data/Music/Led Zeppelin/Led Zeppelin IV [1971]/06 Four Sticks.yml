@@ -126,3 +126,126 @@ mediaFileData:
   year: 1971
   duration: 285.2049
   modTime: 2023-08-26 13:38:24+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3XnTMZcTlzWeVlBgv7H39f
+    trackId: 3XnTMZcTlzWeVlBgv7H39f
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT21500140&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/6vSiY2OVanKKforfEOT2PD
+            href: https://api.spotify.com/v1/albums/6vSiY2OVanKKforfEOT2PD
+            id: 6vSiY2OVanKKforfEOT2PD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b1b0c9ada95f50cf50a34444
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b1b0c9ada95f50cf50a34444
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b1b0c9ada95f50cf50a34444
+            is_playable: true
+            name: Presence (Deluxe Edition)
+            release_date: '1976-03-31'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:6vSiY2OVanKKforfEOT2PD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 284213
+          explicit: false
+          external_ids:
+            isrc: USAT21500140
+          external_urls:
+            spotify: https://open.spotify.com/track/3XnTMZcTlzWeVlBgv7H39f
+          href: https://api.spotify.com/v1/tracks/3XnTMZcTlzWeVlBgv7H39f
+          id: 3XnTMZcTlzWeVlBgv7H39f
+          is_local: false
+          is_playable: true
+          name: Hots on for Nowhere - Remaster
+          track_number: 6
+          type: track
+          uri: spotify:track:3XnTMZcTlzWeVlBgv7H39f
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u
+            href: https://api.spotify.com/v1/albums/3uhD8hNpb0m3iIZ18RHH5u
+            id: 3uhD8hNpb0m3iIZ18RHH5u
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327f6c518a8e36d45b5e7d95e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227f6c518a8e36d45b5e7d95e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127f6c518a8e36d45b5e7d95e
+            is_playable: true
+            name: Presence (Remaster)
+            release_date: '1976-03-31'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:3uhD8hNpb0m3iIZ18RHH5u
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 284213
+          explicit: false
+          external_ids:
+            isrc: USAT21500140
+          external_urls:
+            spotify: https://open.spotify.com/track/3VYEHEaUE4Zh38xSQtXCwU
+          href: https://api.spotify.com/v1/tracks/3VYEHEaUE4Zh38xSQtXCwU
+          id: 3VYEHEaUE4Zh38xSQtXCwU
+          is_local: false
+          is_playable: true
+          name: Hots on for Nowhere - Remaster
+          track_number: 6
+          type: track
+          uri: spotify:track:3VYEHEaUE4Zh38xSQtXCwU
+    isrc: USAT21500140

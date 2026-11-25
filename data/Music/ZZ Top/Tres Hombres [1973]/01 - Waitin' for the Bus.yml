@@ -72,3 +72,180 @@ mediaFileData:
   year: 1973
   duration: 173.34857142857143
   modTime: 2025-12-28 18:49:09.585888+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2EgdnRibUeWf4lUB2IZlps
+    trackId: 2EgdnRibUeWf4lUB2IZlps
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB19903502&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN
+              href: https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN
+              id: 2AM4ilv6UzW0uMRuqKtDgN
+              name: ZZ Top
+              type: artist
+              uri: spotify:artist:2AM4ilv6UzW0uMRuqKtDgN
+            external_urls:
+              spotify: https://open.spotify.com/album/7AKBeJDSnTiCMjhWhvwhUW
+            href: https://api.spotify.com/v1/albums/7AKBeJDSnTiCMjhWhvwhUW
+            id: 7AKBeJDSnTiCMjhWhvwhUW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cb60a11ec1dc709fad083c5e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cb60a11ec1dc709fad083c5e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cb60a11ec1dc709fad083c5e
+            is_playable: true
+            name: The ZZ Top Sixpack
+            release_date: '1987-01-01'
+            release_date_precision: day
+            total_tracks: 59
+            type: album
+            uri: spotify:album:7AKBeJDSnTiCMjhWhvwhUW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN
+            href: https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN
+            id: 2AM4ilv6UzW0uMRuqKtDgN
+            name: ZZ Top
+            type: artist
+            uri: spotify:artist:2AM4ilv6UzW0uMRuqKtDgN
+          disc_number: 1
+          duration_ms: 173066
+          explicit: false
+          external_ids:
+            isrc: USWB19903502
+          external_urls:
+            spotify: https://open.spotify.com/track/2EgdnRibUeWf4lUB2IZlps
+          href: https://api.spotify.com/v1/tracks/2EgdnRibUeWf4lUB2IZlps
+          id: 2EgdnRibUeWf4lUB2IZlps
+          is_local: false
+          is_playable: true
+          name: Waitin' for the Bus
+          track_number: 21
+          type: track
+          uri: spotify:track:2EgdnRibUeWf4lUB2IZlps
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN
+              href: https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN
+              id: 2AM4ilv6UzW0uMRuqKtDgN
+              name: ZZ Top
+              type: artist
+              uri: spotify:artist:2AM4ilv6UzW0uMRuqKtDgN
+            external_urls:
+              spotify: https://open.spotify.com/album/0qnOOW5YTnY6FVHOe6kjKD
+            href: https://api.spotify.com/v1/albums/0qnOOW5YTnY6FVHOe6kjKD
+            id: 0qnOOW5YTnY6FVHOe6kjKD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27381e104116604c232893c0966
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0281e104116604c232893c0966
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485181e104116604c232893c0966
+            is_playable: true
+            name: 'Rancho Texicano: The Very Best of ZZ Top'
+            release_date: '2004-06-08'
+            release_date_precision: day
+            total_tracks: 38
+            type: album
+            uri: spotify:album:0qnOOW5YTnY6FVHOe6kjKD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN
+            href: https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN
+            id: 2AM4ilv6UzW0uMRuqKtDgN
+            name: ZZ Top
+            type: artist
+            uri: spotify:artist:2AM4ilv6UzW0uMRuqKtDgN
+          disc_number: 1
+          duration_ms: 173066
+          explicit: false
+          external_ids:
+            isrc: USWB19903502
+          external_urls:
+            spotify: https://open.spotify.com/track/6EzfJ13hMyZxoin0Qh4lxv
+          href: https://api.spotify.com/v1/tracks/6EzfJ13hMyZxoin0Qh4lxv
+          id: 6EzfJ13hMyZxoin0Qh4lxv
+          is_local: false
+          is_playable: true
+          name: Waitin' for the Bus
+          track_number: 8
+          type: track
+          uri: spotify:track:6EzfJ13hMyZxoin0Qh4lxv
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN
+              href: https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN
+              id: 2AM4ilv6UzW0uMRuqKtDgN
+              name: ZZ Top
+              type: artist
+              uri: spotify:artist:2AM4ilv6UzW0uMRuqKtDgN
+            external_urls:
+              spotify: https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9
+            href: https://api.spotify.com/v1/albums/21XjbuoMaBrSjokj63ekw9
+            id: 21XjbuoMaBrSjokj63ekw9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273be0f5521ab3b2aa4bf3f53c6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02be0f5521ab3b2aa4bf3f53c6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851be0f5521ab3b2aa4bf3f53c6
+            is_playable: true
+            name: 'Chrome Smoke & BBQ: The ZZ Top Box'
+            release_date: '2003-10-14'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:21XjbuoMaBrSjokj63ekw9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN
+            href: https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN
+            id: 2AM4ilv6UzW0uMRuqKtDgN
+            name: ZZ Top
+            type: artist
+            uri: spotify:artist:2AM4ilv6UzW0uMRuqKtDgN
+          disc_number: 1
+          duration_ms: 173066
+          explicit: false
+          external_ids:
+            isrc: USWB19903502
+          external_urls:
+            spotify: https://open.spotify.com/track/18vijpdgIyJSM8ZX5xrQoe
+          href: https://api.spotify.com/v1/tracks/18vijpdgIyJSM8ZX5xrQoe
+          id: 18vijpdgIyJSM8ZX5xrQoe
+          is_local: false
+          is_playable: true
+          name: Waitin' for the Bus
+          track_number: 17
+          type: track
+          uri: spotify:track:18vijpdgIyJSM8ZX5xrQoe
+    isrc: USWB19903502

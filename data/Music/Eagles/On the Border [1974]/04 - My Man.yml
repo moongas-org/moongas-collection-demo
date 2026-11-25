@@ -54,3 +54,126 @@ mediaFileData:
   year: 1974
   duration: 209.808
   modTime: 2025-06-09 16:29:52.578773+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3d1J5J414bYa6bQlY42oOI
+    trackId: 3d1J5J414bYa6bQlY42oOI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE11300327&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/71GVQPtwzFchmtXK3SjMKa
+            href: https://api.spotify.com/v1/albums/71GVQPtwzFchmtXK3SjMKa
+            id: 71GVQPtwzFchmtXK3SjMKa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27302d8e0b39b6058ba1c0c48c9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0202d8e0b39b6058ba1c0c48c9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485102d8e0b39b6058ba1c0c48c9
+            is_playable: true
+            name: Legacy
+            release_date: '2018-11-02'
+            release_date_precision: day
+            total_tracks: 116
+            type: album
+            uri: spotify:album:71GVQPtwzFchmtXK3SjMKa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 3
+          duration_ms: 209762
+          explicit: false
+          external_ids:
+            isrc: USEE11300327
+          external_urls:
+            spotify: https://open.spotify.com/track/3d1J5J414bYa6bQlY42oOI
+          href: https://api.spotify.com/v1/tracks/3d1J5J414bYa6bQlY42oOI
+          id: 3d1J5J414bYa6bQlY42oOI
+          is_local: false
+          is_playable: true
+          name: My Man - 2013 Remaster
+          track_number: 4
+          type: track
+          uri: spotify:track:3d1J5J414bYa6bQlY42oOI
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+              href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+              id: 0ECwFtbIWEVNwjlrfc6xoL
+              name: Eagles
+              type: artist
+              uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+            external_urls:
+              spotify: https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu
+            href: https://api.spotify.com/v1/albums/2iCHyD9XHtA3vJFJIuXzqu
+            id: 2iCHyD9XHtA3vJFJIuXzqu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a7606c60725b45b636458d7c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a7606c60725b45b636458d7c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a7606c60725b45b636458d7c
+            is_playable: true
+            name: On the Border (2013 Remaster)
+            release_date: '1974-03-22'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2iCHyD9XHtA3vJFJIuXzqu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+            href: https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL
+            id: 0ECwFtbIWEVNwjlrfc6xoL
+            name: Eagles
+            type: artist
+            uri: spotify:artist:0ECwFtbIWEVNwjlrfc6xoL
+          disc_number: 1
+          duration_ms: 209762
+          explicit: false
+          external_ids:
+            isrc: USEE11300327
+          external_urls:
+            spotify: https://open.spotify.com/track/3mCiJj4dZftJvh1s1wOoLs
+          href: https://api.spotify.com/v1/tracks/3mCiJj4dZftJvh1s1wOoLs
+          id: 3mCiJj4dZftJvh1s1wOoLs
+          is_local: false
+          is_playable: true
+          name: My Man - 2013 Remaster
+          track_number: 4
+          type: track
+          uri: spotify:track:3mCiJj4dZftJvh1s1wOoLs
+    isrc: USEE11300327

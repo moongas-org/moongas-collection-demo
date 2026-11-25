@@ -34,3 +34,72 @@ mediaFileData:
   year: 2001
   duration: 724.7733333333333
   modTime: 2023-04-23 19:53:17.210000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7l44k2QJic82TFvZs5Vwff
+    trackId: 7l44k2QJic82TFvZs5Vwff
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSY6C0703406&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p
+              href: https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p
+              id: 1uQWmt1OhuHGRKmZ2ZcL6p
+              name: Explosions In The Sky
+              type: artist
+              uri: spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p
+            external_urls:
+              spotify: https://open.spotify.com/album/2TmYd2YYLJ5dpKiL4pEqkD
+            href: https://api.spotify.com/v1/albums/2TmYd2YYLJ5dpKiL4pEqkD
+            id: 2TmYd2YYLJ5dpKiL4pEqkD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27305522e96b9dfaed39bfdf23d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0205522e96b9dfaed39bfdf23d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485105522e96b9dfaed39bfdf23d
+            is_playable: true
+            name: Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever (Anniversary Edition)
+            release_date: '2001-08-27'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:2TmYd2YYLJ5dpKiL4pEqkD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p
+            href: https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p
+            id: 1uQWmt1OhuHGRKmZ2ZcL6p
+            name: Explosions In The Sky
+            type: artist
+            uri: spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p
+          disc_number: 1
+          duration_ms: 724786
+          explicit: false
+          external_ids:
+            isrc: USY6C0703406
+          external_urls:
+            spotify: https://open.spotify.com/track/7l44k2QJic82TFvZs5Vwff
+          href: https://api.spotify.com/v1/tracks/7l44k2QJic82TFvZs5Vwff
+          id: 7l44k2QJic82TFvZs5Vwff
+          is_local: false
+          is_playable: true
+          name: With Tired Eyes, Tired Minds, Tired Souls, We Slept - Remastered
+          track_number: 6
+          type: track
+          uri: spotify:track:7l44k2QJic82TFvZs5Vwff
+    isrc: USY6C0703406

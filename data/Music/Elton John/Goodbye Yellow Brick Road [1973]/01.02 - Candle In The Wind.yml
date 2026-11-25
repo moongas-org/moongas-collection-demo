@@ -166,3 +166,133 @@ mediaFileData:
   year: 1973
   duration: 228.96
   modTime: 2024-02-25 21:52:34.567920+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5KUfM9sjoGogDnrBulbVcW
+    trackId: 5KUfM9sjoGogDnrBulbVcW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19932794&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt
+              href: https://api.spotify.com/v1/artists/0rvjqX7ttXeg3mTy8Xscbt
+              id: 0rvjqX7ttXeg3mTy8Xscbt
+              name: Journey
+              type: artist
+              uri: spotify:artist:0rvjqX7ttXeg3mTy8Xscbt
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf
+              href: https://api.spotify.com/v1/artists/5xQKoGD7Ql92fWd1uWwKkf
+              id: 5xQKoGD7Ql92fWd1uWwKkf
+              name: Steve Perry
+              type: artist
+              uri: spotify:artist:5xQKoGD7Ql92fWd1uWwKkf
+            external_urls:
+              spotify: https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0
+            href: https://api.spotify.com/v1/albums/1xG7RX2NZgW7jQWkJ7VfH0
+            id: 1xG7RX2NZgW7jQWkJ7VfH0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e3d600240316f0bf692ee053
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e3d600240316f0bf692ee053
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e3d600240316f0bf692ee053
+            is_playable: true
+            name: Only the Young (Steve Perry & Bryce Miller Remix)
+            release_date: '2023-10-27'
+            release_date_precision: day
+            total_tracks: 4
+            type: album
+            uri: spotify:album:1xG7RX2NZgW7jQWkJ7VfH0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt
+            href: https://api.spotify.com/v1/artists/0rvjqX7ttXeg3mTy8Xscbt
+            id: 0rvjqX7ttXeg3mTy8Xscbt
+            name: Journey
+            type: artist
+            uri: spotify:artist:0rvjqX7ttXeg3mTy8Xscbt
+          disc_number: 1
+          duration_ms: 233981
+          explicit: false
+          external_ids:
+            isrc: USSM19932794
+          external_urls:
+            spotify: https://open.spotify.com/track/5KUfM9sjoGogDnrBulbVcW
+          href: https://api.spotify.com/v1/tracks/5KUfM9sjoGogDnrBulbVcW
+          id: 5KUfM9sjoGogDnrBulbVcW
+          is_local: false
+          is_playable: true
+          name: Ask the Lonely
+          track_number: 4
+          type: track
+          uri: spotify:track:5KUfM9sjoGogDnrBulbVcW
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt
+              href: https://api.spotify.com/v1/artists/0rvjqX7ttXeg3mTy8Xscbt
+              id: 0rvjqX7ttXeg3mTy8Xscbt
+              name: Journey
+              type: artist
+              uri: spotify:artist:0rvjqX7ttXeg3mTy8Xscbt
+            external_urls:
+              spotify: https://open.spotify.com/album/1Gtf2hZQlOGVER16uemmzR
+            href: https://api.spotify.com/v1/albums/1Gtf2hZQlOGVER16uemmzR
+            id: 1Gtf2hZQlOGVER16uemmzR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27370b5c118e7ac6b8a457e81e8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0270b5c118e7ac6b8a457e81e8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485170b5c118e7ac6b8a457e81e8
+            is_playable: true
+            name: Greatest Hits (2024 Remaster)
+            release_date: '1988-11-29'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:1Gtf2hZQlOGVER16uemmzR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt
+            href: https://api.spotify.com/v1/artists/0rvjqX7ttXeg3mTy8Xscbt
+            id: 0rvjqX7ttXeg3mTy8Xscbt
+            name: Journey
+            type: artist
+            uri: spotify:artist:0rvjqX7ttXeg3mTy8Xscbt
+          disc_number: 1
+          duration_ms: 234674
+          explicit: false
+          external_ids:
+            isrc: USSM19932794
+          external_urls:
+            spotify: https://open.spotify.com/track/6F4EsDGCNB3YfjE6WvH9NB
+          href: https://api.spotify.com/v1/tracks/6F4EsDGCNB3YfjE6WvH9NB
+          id: 6F4EsDGCNB3YfjE6WvH9NB
+          is_local: false
+          is_playable: true
+          name: Ask the Lonely (2024 Remaster)
+          track_number: 7
+          type: track
+          uri: spotify:track:6F4EsDGCNB3YfjE6WvH9NB
+    isrc: USSM19932794

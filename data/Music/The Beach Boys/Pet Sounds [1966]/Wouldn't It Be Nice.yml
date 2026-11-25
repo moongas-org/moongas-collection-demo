@@ -306,3 +306,126 @@ mediaFileData:
   year: 1966
   duration: 153.20816326530613
   modTime: 2023-09-17 17:13:44+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2GR8SvytwyVyPJTwwt0HSg
+    trackId: 2GR8SvytwyVyPJTwwt0HSg
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM72201982&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV
+              href: https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV
+              id: 3oDbviiivRWhXwIE8hxkVV
+              name: The Beach Boys
+              type: artist
+              uri: spotify:artist:3oDbviiivRWhXwIE8hxkVV
+            external_urls:
+              spotify: https://open.spotify.com/album/5KDmDV7mN5MOZm7A1cj9IK
+            href: https://api.spotify.com/v1/albums/5KDmDV7mN5MOZm7A1cj9IK
+            id: 5KDmDV7mN5MOZm7A1cj9IK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27330b793f98fa01283dc96303d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0230b793f98fa01283dc96303d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485130b793f98fa01283dc96303d
+            is_playable: true
+            name: 'The Beach Boys: Music From The Documentary'
+            release_date: '2024-05-24'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:5KDmDV7mN5MOZm7A1cj9IK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV
+            href: https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV
+            id: 3oDbviiivRWhXwIE8hxkVV
+            name: The Beach Boys
+            type: artist
+            uri: spotify:artist:3oDbviiivRWhXwIE8hxkVV
+          disc_number: 1
+          duration_ms: 133727
+          explicit: false
+          external_ids:
+            isrc: USUM72201982
+          external_urls:
+            spotify: https://open.spotify.com/track/2GR8SvytwyVyPJTwwt0HSg
+          href: https://api.spotify.com/v1/tracks/2GR8SvytwyVyPJTwwt0HSg
+          id: 2GR8SvytwyVyPJTwwt0HSg
+          is_local: false
+          is_playable: true
+          name: I Get Around - 2021 Stereo Mix
+          track_number: 2
+          type: track
+          uri: spotify:track:2GR8SvytwyVyPJTwwt0HSg
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV
+              href: https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV
+              id: 3oDbviiivRWhXwIE8hxkVV
+              name: The Beach Boys
+              type: artist
+              uri: spotify:artist:3oDbviiivRWhXwIE8hxkVV
+            external_urls:
+              spotify: https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8
+            href: https://api.spotify.com/v1/albums/3JOCLW8MS0pmqGCDisF0e8
+            id: 3JOCLW8MS0pmqGCDisF0e8
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eeeae2b0610e6f7309b0d4a0
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eeeae2b0610e6f7309b0d4a0
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eeeae2b0610e6f7309b0d4a0
+            is_playable: true
+            name: 'The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)'
+            release_date: '2022-06-17'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:3JOCLW8MS0pmqGCDisF0e8
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV
+            href: https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV
+            id: 3oDbviiivRWhXwIE8hxkVV
+            name: The Beach Boys
+            type: artist
+            uri: spotify:artist:3oDbviiivRWhXwIE8hxkVV
+          disc_number: 1
+          duration_ms: 133733
+          explicit: false
+          external_ids:
+            isrc: USUM72201982
+          external_urls:
+            spotify: https://open.spotify.com/track/5nfO4MpLIU4rbohUOKofzW
+          href: https://api.spotify.com/v1/tracks/5nfO4MpLIU4rbohUOKofzW
+          id: 5nfO4MpLIU4rbohUOKofzW
+          is_local: false
+          is_playable: true
+          name: I Get Around - 2021 Stereo Mix
+          track_number: 2
+          type: track
+          uri: spotify:track:5nfO4MpLIU4rbohUOKofzW
+    isrc: USUM72201982

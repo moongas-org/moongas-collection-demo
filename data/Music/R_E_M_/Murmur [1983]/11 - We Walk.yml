@@ -55,3 +55,126 @@ mediaFileData:
   year: 1983
   duration: 181.44
   modTime: 2025-04-05 00:48:03.287793+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2czKedHH6oG6FMkyfGMHY4
+    trackId: 2czKedHH6oG6FMkyfGMHY4
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWWW0128813&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+              href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+              id: 4KWTAlx2RvbpseOGMEmROg
+              name: R.E.M.
+              type: artist
+              uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+            external_urls:
+              spotify: https://open.spotify.com/album/6N5Dxm9bMAsRah2tLX2AmK
+            href: https://api.spotify.com/v1/albums/6N5Dxm9bMAsRah2tLX2AmK
+            id: 6N5Dxm9bMAsRah2tLX2AmK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d117381727dc24f19a87fdf8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d117381727dc24f19a87fdf8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d117381727dc24f19a87fdf8
+            is_playable: true
+            name: Murmur - Deluxe Edition
+            release_date: '1983-04-12'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:6N5Dxm9bMAsRah2tLX2AmK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 181280
+          explicit: false
+          external_ids:
+            isrc: USWWW0128813
+          external_urls:
+            spotify: https://open.spotify.com/track/2czKedHH6oG6FMkyfGMHY4
+          href: https://api.spotify.com/v1/tracks/2czKedHH6oG6FMkyfGMHY4
+          id: 2czKedHH6oG6FMkyfGMHY4
+          is_local: false
+          is_playable: true
+          name: We Walk
+          track_number: 11
+          type: track
+          uri: spotify:track:2czKedHH6oG6FMkyfGMHY4
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+              href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+              id: 4KWTAlx2RvbpseOGMEmROg
+              name: R.E.M.
+              type: artist
+              uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+            external_urls:
+              spotify: https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q
+            href: https://api.spotify.com/v1/albums/4Mw9Gcu1LT7JaipXdwrq1Q
+            id: 4Mw9Gcu1LT7JaipXdwrq1Q
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fe05afa9ef05c2ba87e0e860
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fe05afa9ef05c2ba87e0e860
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fe05afa9ef05c2ba87e0e860
+            is_playable: true
+            name: Murmur
+            release_date: '1983-04-12'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:4Mw9Gcu1LT7JaipXdwrq1Q
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg
+            href: https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg
+            id: 4KWTAlx2RvbpseOGMEmROg
+            name: R.E.M.
+            type: artist
+            uri: spotify:artist:4KWTAlx2RvbpseOGMEmROg
+          disc_number: 1
+          duration_ms: 181400
+          explicit: false
+          external_ids:
+            isrc: USWWW0128813
+          external_urls:
+            spotify: https://open.spotify.com/track/0bgpdODy1x66hKX420veWC
+          href: https://api.spotify.com/v1/tracks/0bgpdODy1x66hKX420veWC
+          id: 0bgpdODy1x66hKX420veWC
+          is_local: false
+          is_playable: true
+          name: We Walk
+          track_number: 11
+          type: track
+          uri: spotify:track:0bgpdODy1x66hKX420veWC
+    isrc: USWWW0128813

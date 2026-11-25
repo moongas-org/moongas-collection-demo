@@ -229,3 +229,126 @@ mediaFileData:
   year: 1976
   duration: 162.9256875
   modTime: 2023-10-01 16:57:06+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/429G06bymhhNkmEsiwdmbi
+    trackId: 429G06bymhhNkmEsiwdmbi
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUG10200141&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5nqr3PugZYyBcQrnKtFkAu
+              href: https://api.spotify.com/v1/artists/5nqr3PugZYyBcQrnKtFkAu
+              id: 5nqr3PugZYyBcQrnKtFkAu
+              name: Creedence Clearwater Revisited
+              type: artist
+              uri: spotify:artist:5nqr3PugZYyBcQrnKtFkAu
+            external_urls:
+              spotify: https://open.spotify.com/album/5QZAXyXSMAhkgbeXF3VnFd
+            href: https://api.spotify.com/v1/albums/5QZAXyXSMAhkgbeXF3VnFd
+            id: 5QZAXyXSMAhkgbeXF3VnFd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273134021d98163022dc66d5695
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02134021d98163022dc66d5695
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851134021d98163022dc66d5695
+            is_playable: true
+            name: Recollection
+            release_date: '1998-01-01'
+            release_date_precision: day
+            total_tracks: 22
+            type: album
+            uri: spotify:album:5QZAXyXSMAhkgbeXF3VnFd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5nqr3PugZYyBcQrnKtFkAu
+            href: https://api.spotify.com/v1/artists/5nqr3PugZYyBcQrnKtFkAu
+            id: 5nqr3PugZYyBcQrnKtFkAu
+            name: Creedence Clearwater Revisited
+            type: artist
+            uri: spotify:artist:5nqr3PugZYyBcQrnKtFkAu
+          disc_number: 1
+          duration_ms: 161640
+          explicit: false
+          external_ids:
+            isrc: USUG10200141
+          external_urls:
+            spotify: https://open.spotify.com/track/429G06bymhhNkmEsiwdmbi
+          href: https://api.spotify.com/v1/tracks/429G06bymhhNkmEsiwdmbi
+          id: 429G06bymhhNkmEsiwdmbi
+          is_local: false
+          is_playable: true
+          name: Commotion - Live
+          track_number: 4
+          type: track
+          uri: spotify:track:429G06bymhhNkmEsiwdmbi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5nqr3PugZYyBcQrnKtFkAu
+              href: https://api.spotify.com/v1/artists/5nqr3PugZYyBcQrnKtFkAu
+              id: 5nqr3PugZYyBcQrnKtFkAu
+              name: Creedence Clearwater Revisited
+              type: artist
+              uri: spotify:artist:5nqr3PugZYyBcQrnKtFkAu
+            external_urls:
+              spotify: https://open.spotify.com/album/6qnpG8BfgaZOumIoaLtCqE
+            href: https://api.spotify.com/v1/albums/6qnpG8BfgaZOumIoaLtCqE
+            id: 6qnpG8BfgaZOumIoaLtCqE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733275b5cd07a671364e1c79a8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023275b5cd07a671364e1c79a8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513275b5cd07a671364e1c79a8
+            is_playable: true
+            name: Best Of/20th Century Masters
+            release_date: '2006-01-01'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6qnpG8BfgaZOumIoaLtCqE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5nqr3PugZYyBcQrnKtFkAu
+            href: https://api.spotify.com/v1/artists/5nqr3PugZYyBcQrnKtFkAu
+            id: 5nqr3PugZYyBcQrnKtFkAu
+            name: Creedence Clearwater Revisited
+            type: artist
+            uri: spotify:artist:5nqr3PugZYyBcQrnKtFkAu
+          disc_number: 1
+          duration_ms: 161386
+          explicit: false
+          external_ids:
+            isrc: USUG10200141
+          external_urls:
+            spotify: https://open.spotify.com/track/1SonG8lxMksUVD7wFhfaeI
+          href: https://api.spotify.com/v1/tracks/1SonG8lxMksUVD7wFhfaeI
+          id: 1SonG8lxMksUVD7wFhfaeI
+          is_local: false
+          is_playable: true
+          name: Commotion - Live
+          track_number: 4
+          type: track
+          uri: spotify:track:1SonG8lxMksUVD7wFhfaeI
+    isrc: USUG10200141

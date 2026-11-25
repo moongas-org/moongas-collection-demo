@@ -45,3 +45,126 @@ mediaFileData:
   year: 2008
   duration: 186.43591836734694
   modTime: 2024-07-19 22:47:28.277967+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1h8ADE7QVVQth7Nzg5b5js
+    trackId: 1h8ADE7QVVQth7Nzg5b5js
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ACAL450896202&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+              href: https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO
+              id: 7K3zpFXBvPcvzhj7zlGJdO
+              name: Crystal Castles
+              type: artist
+              uri: spotify:artist:7K3zpFXBvPcvzhj7zlGJdO
+            external_urls:
+              spotify: https://open.spotify.com/album/3usaAU8Zhfp7WpSeXZKM5v
+            href: https://api.spotify.com/v1/albums/3usaAU8Zhfp7WpSeXZKM5v
+            id: 3usaAU8Zhfp7WpSeXZKM5v
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27374464b943c1da37cdade0b3b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0274464b943c1da37cdade0b3b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485174464b943c1da37cdade0b3b
+            is_playable: true
+            name: Untrust Us
+            release_date: '2008-03-18'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:3usaAU8Zhfp7WpSeXZKM5v
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+            href: https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO
+            id: 7K3zpFXBvPcvzhj7zlGJdO
+            name: Crystal Castles
+            type: artist
+            uri: spotify:artist:7K3zpFXBvPcvzhj7zlGJdO
+          disc_number: 1
+          duration_ms: 186373
+          explicit: false
+          external_ids:
+            isrc: CAL450896202
+          external_urls:
+            spotify: https://open.spotify.com/track/1h8ADE7QVVQth7Nzg5b5js
+          href: https://api.spotify.com/v1/tracks/1h8ADE7QVVQth7Nzg5b5js
+          id: 1h8ADE7QVVQth7Nzg5b5js
+          is_local: false
+          is_playable: true
+          name: Untrust Us
+          track_number: 1
+          type: track
+          uri: spotify:track:1h8ADE7QVVQth7Nzg5b5js
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+              href: https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO
+              id: 7K3zpFXBvPcvzhj7zlGJdO
+              name: Crystal Castles
+              type: artist
+              uri: spotify:artist:7K3zpFXBvPcvzhj7zlGJdO
+            external_urls:
+              spotify: https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi
+            href: https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi
+            id: 6rTfUUv8Kefr6Uo3AaecXi
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f
+            is_playable: true
+            name: Crystal Castles
+            release_date: '2008-03-18'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:6rTfUUv8Kefr6Uo3AaecXi
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+            href: https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO
+            id: 7K3zpFXBvPcvzhj7zlGJdO
+            name: Crystal Castles
+            type: artist
+            uri: spotify:artist:7K3zpFXBvPcvzhj7zlGJdO
+          disc_number: 1
+          duration_ms: 186373
+          explicit: false
+          external_ids:
+            isrc: CAL450896202
+          external_urls:
+            spotify: https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2
+          href: https://api.spotify.com/v1/tracks/3d8zIv577en5PxwwAzadN2
+          id: 3d8zIv577en5PxwwAzadN2
+          is_local: false
+          is_playable: true
+          name: Untrust Us
+          track_number: 1
+          type: track
+          uri: spotify:track:3d8zIv577en5PxwwAzadN2
+    isrc: CAL450896202

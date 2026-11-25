@@ -48,3 +48,288 @@ mediaFileData:
   year: 1973
   duration: 318.4326875
   modTime: 2025-01-11 02:02:35.288588+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0DHtcpnbDfbNoYXO1YDX9o
+    trackId: 0DHtcpnbDfbNoYXO1YDX9o
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMC17347189&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 5
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/5bpFfYgL1au22XwLG4KOnq
+            href: https://api.spotify.com/v1/albums/5bpFfYgL1au22XwLG4KOnq
+            id: 5bpFfYgL1au22XwLG4KOnq
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f802651f718fbf0b155a5c02
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f802651f718fbf0b155a5c02
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f802651f718fbf0b155a5c02
+            is_playable: true
+            name: Citizen 1972-1980
+            release_date: '1993-12-15'
+            release_date_precision: day
+            total_tracks: 66
+            type: album
+            uri: spotify:album:5bpFfYgL1au22XwLG4KOnq
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 316666
+          explicit: false
+          external_ids:
+            isrc: USMC17347189
+          external_urls:
+            spotify: https://open.spotify.com/track/0DHtcpnbDfbNoYXO1YDX9o
+          href: https://api.spotify.com/v1/tracks/0DHtcpnbDfbNoYXO1YDX9o
+          id: 0DHtcpnbDfbNoYXO1YDX9o
+          is_local: false
+          is_playable: true
+          name: Bodhisattva
+          track_number: 11
+          type: track
+          uri: spotify:track:0DHtcpnbDfbNoYXO1YDX9o
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/13uQy10krUEHsHAh42gvFP
+            href: https://api.spotify.com/v1/albums/13uQy10krUEHsHAh42gvFP
+            id: 13uQy10krUEHsHAh42gvFP
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735d640518db0adf2dc0e4e46e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025d640518db0adf2dc0e4e46e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515d640518db0adf2dc0e4e46e
+            is_playable: true
+            name: 'Showbiz Kids: The Steely Dan Story 1972 - 1980'
+            release_date: '2000-01-01'
+            release_date_precision: day
+            total_tracks: 33
+            type: album
+            uri: spotify:album:13uQy10krUEHsHAh42gvFP
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 318400
+          explicit: false
+          external_ids:
+            isrc: USMC17347189
+          external_urls:
+            spotify: https://open.spotify.com/track/5hCdHSJ7a0f5TMhSdKChzT
+          href: https://api.spotify.com/v1/tracks/5hCdHSJ7a0f5TMhSdKChzT
+          id: 5hCdHSJ7a0f5TMhSdKChzT
+          is_local: false
+          is_playable: true
+          name: Bodhisattva
+          track_number: 6
+          type: track
+          uri: spotify:track:5hCdHSJ7a0f5TMhSdKChzT
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/1oOpgDzHt6wl7kHbFFPzEc
+            href: https://api.spotify.com/v1/albums/1oOpgDzHt6wl7kHbFFPzEc
+            id: 1oOpgDzHt6wl7kHbFFPzEc
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f08f479a9dcdf7db7c85e3a8
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f08f479a9dcdf7db7c85e3a8
+            is_playable: true
+            name: Countdown To Ecstasy
+            release_date: '1973-07-01'
+            release_date_precision: day
+            total_tracks: 8
+            type: album
+            uri: spotify:album:1oOpgDzHt6wl7kHbFFPzEc
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 316047
+          explicit: false
+          external_ids:
+            isrc: USMC17347189
+          external_urls:
+            spotify: https://open.spotify.com/track/0j8zJzaQ2g86y5MzvMocRP
+          href: https://api.spotify.com/v1/tracks/0j8zJzaQ2g86y5MzvMocRP
+          id: 0j8zJzaQ2g86y5MzvMocRP
+          is_local: false
+          is_playable: true
+          name: Bodhisattva
+          track_number: 1
+          type: track
+          uri: spotify:track:0j8zJzaQ2g86y5MzvMocRP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+              href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+              id: 6P7H3ai06vU1sGvdpBwDmE
+              name: Steely Dan
+              type: artist
+              uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+            external_urls:
+              spotify: https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P
+            href: https://api.spotify.com/v1/albums/68HbhACgHQvDhfMIzQYt8P
+            id: 68HbhACgHQvDhfMIzQYt8P
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730ff92f2df596033a0ef2b199
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020ff92f2df596033a0ef2b199
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510ff92f2df596033a0ef2b199
+            is_playable: true
+            name: A Decade Of Steely Dan
+            release_date: '1985-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:68HbhACgHQvDhfMIzQYt8P
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 319000
+          explicit: false
+          external_ids:
+            isrc: USMC17347189
+          external_urls:
+            spotify: https://open.spotify.com/track/6DSQyYk3dqhOGWZRYC5lgD
+          href: https://api.spotify.com/v1/tracks/6DSQyYk3dqhOGWZRYC5lgD
+          id: 6DSQyYk3dqhOGWZRYC5lgD
+          is_local: false
+          is_playable: true
+          name: Bodhisattva
+          track_number: 5
+          type: track
+          uri: spotify:track:6DSQyYk3dqhOGWZRYC5lgD
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3sWO9DBKoBvQYqLAc0GSDR
+            href: https://api.spotify.com/v1/albums/3sWO9DBKoBvQYqLAc0GSDR
+            id: 3sWO9DBKoBvQYqLAc0GSDR
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e6ff01cda74dc763d533db03
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e6ff01cda74dc763d533db03
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e6ff01cda74dc763d533db03
+            is_playable: true
+            name: Uplifting Country Rock
+            release_date: '2022-08-10'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:3sWO9DBKoBvQYqLAc0GSDR
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+            href: https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE
+            id: 6P7H3ai06vU1sGvdpBwDmE
+            name: Steely Dan
+            type: artist
+            uri: spotify:artist:6P7H3ai06vU1sGvdpBwDmE
+          disc_number: 1
+          duration_ms: 317000
+          explicit: false
+          external_ids:
+            isrc: USMC17347189
+          external_urls:
+            spotify: https://open.spotify.com/track/3r739sThGYSixUzQvtzmXA
+          href: https://api.spotify.com/v1/tracks/3r739sThGYSixUzQvtzmXA
+          id: 3r739sThGYSixUzQvtzmXA
+          is_local: false
+          is_playable: true
+          name: Bodhisattva
+          track_number: 14
+          type: track
+          uri: spotify:track:3r739sThGYSixUzQvtzmXA
+    isrc: USMC17347189

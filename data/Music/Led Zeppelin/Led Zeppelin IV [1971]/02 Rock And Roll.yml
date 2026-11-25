@@ -181,3 +181,126 @@ mediaFileData:
   year: 1971
   duration: 220.7608
   modTime: 2023-08-27 16:02:38+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5GbZKN0OQBwXUAcHJkH2ku
+    trackId: 5GbZKN0OQBwXUAcHJkH2ku
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11704076&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/2cqzFuaX52BSIPQT3w05Vm
+            href: https://api.spotify.com/v1/albums/2cqzFuaX52BSIPQT3w05Vm
+            id: 2cqzFuaX52BSIPQT3w05Vm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273403882d0a287578bc0e92a4f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02403882d0a287578bc0e92a4f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851403882d0a287578bc0e92a4f
+            is_playable: true
+            name: An Introduction to Led Zeppelin
+            release_date: '2018-09-27'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2cqzFuaX52BSIPQT3w05Vm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 223173
+          explicit: false
+          external_ids:
+            isrc: USRH11704076
+          external_urls:
+            spotify: https://open.spotify.com/track/5GbZKN0OQBwXUAcHJkH2ku
+          href: https://api.spotify.com/v1/tracks/5GbZKN0OQBwXUAcHJkH2ku
+          id: 5GbZKN0OQBwXUAcHJkH2ku
+          is_local: false
+          is_playable: true
+          name: Rock and Roll - Sunset Sound Mix
+          track_number: 2
+          type: track
+          uri: spotify:track:5GbZKN0OQBwXUAcHJkH2ku
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+              href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+              id: 36QJpDe2go2KgaRleHCDTp
+              name: Led Zeppelin
+              type: artist
+              uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+            external_urls:
+              spotify: https://open.spotify.com/album/5jQEuOsezpHOAhfQXMGTLo
+            href: https://api.spotify.com/v1/albums/5jQEuOsezpHOAhfQXMGTLo
+            id: 5jQEuOsezpHOAhfQXMGTLo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27336adde683a3b172bf8eb6ab1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0236adde683a3b172bf8eb6ab1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485136adde683a3b172bf8eb6ab1
+            is_playable: true
+            name: Led Zeppelin x Led Zeppelin
+            release_date: '2018-09-27'
+            release_date_precision: day
+            total_tracks: 30
+            type: album
+            uri: spotify:album:5jQEuOsezpHOAhfQXMGTLo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+            href: https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp
+            id: 36QJpDe2go2KgaRleHCDTp
+            name: Led Zeppelin
+            type: artist
+            uri: spotify:artist:36QJpDe2go2KgaRleHCDTp
+          disc_number: 1
+          duration_ms: 223173
+          explicit: false
+          external_ids:
+            isrc: USRH11704076
+          external_urls:
+            spotify: https://open.spotify.com/track/4mgEbontDvepsExnA9IetH
+          href: https://api.spotify.com/v1/tracks/4mgEbontDvepsExnA9IetH
+          id: 4mgEbontDvepsExnA9IetH
+          is_local: false
+          is_playable: true
+          name: Rock and Roll - Sunset Sound Mix
+          track_number: 2
+          type: track
+          uri: spotify:track:4mgEbontDvepsExnA9IetH
+    isrc: USRH11704076

@@ -35,3 +35,72 @@ mediaFileData:
   year: 2008
   duration: 105.456
   modTime: 2025-03-22 20:17:03.012728+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2N7ItXzHxRoFfLFNbK4lCA
+    trackId: 2N7ItXzHxRoFfLFNbK4lCA
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBJX33018018&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TyhSrPhV7dDtQBgkSqpFg
+              href: https://api.spotify.com/v1/artists/4TyhSrPhV7dDtQBgkSqpFg
+              id: 4TyhSrPhV7dDtQBgkSqpFg
+              name: Benji B
+              type: artist
+              uri: spotify:artist:4TyhSrPhV7dDtQBgkSqpFg
+            external_urls:
+              spotify: https://open.spotify.com/album/0MWcAhcgtdQAXoa5Wxxj1W
+            href: https://api.spotify.com/v1/albums/0MWcAhcgtdQAXoa5Wxxj1W
+            id: 0MWcAhcgtdQAXoa5Wxxj1W
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730bcd125d171dca0ff76bbf7e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020bcd125d171dca0ff76bbf7e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510bcd125d171dca0ff76bbf7e
+            is_playable: true
+            name: Deviation Classics
+            release_date: '2021-04-16'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:0MWcAhcgtdQAXoa5Wxxj1W
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+            href: https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793
+            id: 29XOeO6KIWxGthejQqn793
+            name: Flying Lotus
+            type: artist
+            uri: spotify:artist:29XOeO6KIWxGthejQqn793
+          disc_number: 1
+          duration_ms: 105004
+          explicit: false
+          external_ids:
+            isrc: GBJX33018018
+          external_urls:
+            spotify: https://open.spotify.com/track/2N7ItXzHxRoFfLFNbK4lCA
+          href: https://api.spotify.com/v1/tracks/2N7ItXzHxRoFfLFNbK4lCA
+          id: 2N7ItXzHxRoFfLFNbK4lCA
+          is_local: false
+          is_playable: true
+          name: Melt
+          track_number: 2
+          type: track
+          uri: spotify:track:2N7ItXzHxRoFfLFNbK4lCA
+    isrc: GBJX33018018

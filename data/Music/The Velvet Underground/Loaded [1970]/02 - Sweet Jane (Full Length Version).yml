@@ -103,3 +103,288 @@ mediaFileData:
   year: 1970
   duration: 246.33469387755102
   modTime: 2025-01-11 01:12:40.354751+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/33Gsd3Ts9dvw0gf1sxDwOK
+    trackId: 33Gsd3Ts9dvw0gf1sxDwOK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11504927&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRH11504927&type=track
+        offset: 0
+        previous:
+        total: 22
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2dpirMVpZGMvdpZAfMUOAT
+            href: https://api.spotify.com/v1/albums/2dpirMVpZGMvdpZAfMUOAT
+            id: 2dpirMVpZGMvdpZAfMUOAT
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737609439399a877ad4c0b73f2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027609439399a877ad4c0b73f2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517609439399a877ad4c0b73f2
+            is_playable: true
+            name: 70's Rock Classics
+            release_date: '2021-01-02'
+            release_date_precision: day
+            total_tracks: 58
+            type: album
+            uri: spotify:album:2dpirMVpZGMvdpZAfMUOAT
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC
+            href: https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC
+            id: 1nJvji2KIlWSseXRSlNYsC
+            name: The Velvet Underground
+            type: artist
+            uri: spotify:artist:1nJvji2KIlWSseXRSlNYsC
+          disc_number: 1
+          duration_ms: 197826
+          explicit: false
+          external_ids:
+            isrc: USRH11504927
+          external_urls:
+            spotify: https://open.spotify.com/track/33Gsd3Ts9dvw0gf1sxDwOK
+          href: https://api.spotify.com/v1/tracks/33Gsd3Ts9dvw0gf1sxDwOK
+          id: 33Gsd3Ts9dvw0gf1sxDwOK
+          is_local: false
+          is_playable: true
+          name: Sweet Jane
+          track_number: 23
+          type: track
+          uri: spotify:track:33Gsd3Ts9dvw0gf1sxDwOK
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC
+              href: https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC
+              id: 1nJvji2KIlWSseXRSlNYsC
+              name: The Velvet Underground
+              type: artist
+              uri: spotify:artist:1nJvji2KIlWSseXRSlNYsC
+            external_urls:
+              spotify: https://open.spotify.com/album/1jYzTZV1cQXE89zA9ZSUpE
+            href: https://api.spotify.com/v1/albums/1jYzTZV1cQXE89zA9ZSUpE
+            id: 1jYzTZV1cQXE89zA9ZSUpE
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735816a37263f88929907c2dbd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025816a37263f88929907c2dbd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515816a37263f88929907c2dbd
+            is_playable: true
+            name: 'Loaded: Re-Loaded 45th Anniversary Edition'
+            release_date: '1970'
+            release_date_precision: year
+            total_tracks: 95
+            type: album
+            uri: spotify:album:1jYzTZV1cQXE89zA9ZSUpE
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC
+            href: https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC
+            id: 1nJvji2KIlWSseXRSlNYsC
+            name: The Velvet Underground
+            type: artist
+            uri: spotify:artist:1nJvji2KIlWSseXRSlNYsC
+          disc_number: 7
+          duration_ms: 197826
+          explicit: false
+          external_ids:
+            isrc: USRH11504927
+          external_urls:
+            spotify: https://open.spotify.com/track/2LAZn3ygMkecVRmyXvGjHO
+          href: https://api.spotify.com/v1/tracks/2LAZn3ygMkecVRmyXvGjHO
+          id: 2LAZn3ygMkecVRmyXvGjHO
+          is_local: false
+          is_playable: true
+          name: Sweet Jane
+          track_number: 2
+          type: track
+          uri: spotify:track:2LAZn3ygMkecVRmyXvGjHO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3SVRRiwSKE0nHxs8yIrcob
+            href: https://api.spotify.com/v1/albums/3SVRRiwSKE0nHxs8yIrcob
+            id: 3SVRRiwSKE0nHxs8yIrcob
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273836d38f47aae42716fec845e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02836d38f47aae42716fec845e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851836d38f47aae42716fec845e
+            is_playable: true
+            name: Classic Rock Hits
+            release_date: '2021-06-18'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:3SVRRiwSKE0nHxs8yIrcob
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC
+            href: https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC
+            id: 1nJvji2KIlWSseXRSlNYsC
+            name: The Velvet Underground
+            type: artist
+            uri: spotify:artist:1nJvji2KIlWSseXRSlNYsC
+          disc_number: 1
+          duration_ms: 197826
+          explicit: false
+          external_ids:
+            isrc: USRH11504927
+          external_urls:
+            spotify: https://open.spotify.com/track/6TDULYlxNv1BpsVHIh2ucg
+          href: https://api.spotify.com/v1/tracks/6TDULYlxNv1BpsVHIh2ucg
+          id: 6TDULYlxNv1BpsVHIh2ucg
+          is_local: false
+          is_playable: true
+          name: Sweet Jane
+          track_number: 19
+          type: track
+          uri: spotify:track:6TDULYlxNv1BpsVHIh2ucg
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5HvIOoSNRG5eVrfQn5clu5
+            href: https://api.spotify.com/v1/albums/5HvIOoSNRG5eVrfQn5clu5
+            id: 5HvIOoSNRG5eVrfQn5clu5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737a1953d489b8e93183737db9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027a1953d489b8e93183737db9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517a1953d489b8e93183737db9
+            is_playable: true
+            name: DAD Rock
+            release_date: '2022-03-18'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:5HvIOoSNRG5eVrfQn5clu5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC
+            href: https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC
+            id: 1nJvji2KIlWSseXRSlNYsC
+            name: The Velvet Underground
+            type: artist
+            uri: spotify:artist:1nJvji2KIlWSseXRSlNYsC
+          disc_number: 1
+          duration_ms: 197826
+          explicit: false
+          external_ids:
+            isrc: USRH11504927
+          external_urls:
+            spotify: https://open.spotify.com/track/7DS4PTiMPQEE6AQKFwod1N
+          href: https://api.spotify.com/v1/tracks/7DS4PTiMPQEE6AQKFwod1N
+          id: 7DS4PTiMPQEE6AQKFwod1N
+          is_local: false
+          is_playable: true
+          name: Sweet Jane
+          track_number: 38
+          type: track
+          uri: spotify:track:7DS4PTiMPQEE6AQKFwod1N
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/68JNl2jLRHTg0CfPsy6hj9
+            href: https://api.spotify.com/v1/albums/68JNl2jLRHTg0CfPsy6hj9
+            id: 68JNl2jLRHTg0CfPsy6hj9
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730b714685cce4d061107461cc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020b714685cce4d061107461cc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510b714685cce4d061107461cc
+            is_playable: true
+            name: 70s Arena Rock Classics
+            release_date: '2018-06-01'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:68JNl2jLRHTg0CfPsy6hj9
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC
+            href: https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC
+            id: 1nJvji2KIlWSseXRSlNYsC
+            name: The Velvet Underground
+            type: artist
+            uri: spotify:artist:1nJvji2KIlWSseXRSlNYsC
+          disc_number: 1
+          duration_ms: 197826
+          explicit: false
+          external_ids:
+            isrc: USRH11504927
+          external_urls:
+            spotify: https://open.spotify.com/track/3CRTZqjUta0gwjbCn2Iefo
+          href: https://api.spotify.com/v1/tracks/3CRTZqjUta0gwjbCn2Iefo
+          id: 3CRTZqjUta0gwjbCn2Iefo
+          is_local: false
+          is_playable: true
+          name: Sweet Jane
+          track_number: 6
+          type: track
+          uri: spotify:track:3CRTZqjUta0gwjbCn2Iefo
+    isrc: USRH11504927

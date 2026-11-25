@@ -47,3 +47,72 @@ mediaFileData:
   year: 1988
   duration: 443.68979591836734
   modTime: 2023-08-13 22:14:14+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2l7iDl470hxtX7FkzAA3wz
+    trackId: 2l7iDl470hxtX7FkzAA3wz
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB18800020&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR
+              href: https://api.spotify.com/v1/artists/02NfyD6AlLA12crYzw5YcR
+              id: 02NfyD6AlLA12crYzw5YcR
+              name: Jane's Addiction
+              type: artist
+              uri: spotify:artist:02NfyD6AlLA12crYzw5YcR
+            external_urls:
+              spotify: https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa
+            href: https://api.spotify.com/v1/albums/4DVBJPJyizvHfJQt5pYaCa
+            id: 4DVBJPJyizvHfJQt5pYaCa
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736253200d8b0f566f252fc3c4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026253200d8b0f566f252fc3c4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516253200d8b0f566f252fc3c4
+            is_playable: true
+            name: Nothing's Shocking
+            release_date: '1988-08-23'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:4DVBJPJyizvHfJQt5pYaCa
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR
+            href: https://api.spotify.com/v1/artists/02NfyD6AlLA12crYzw5YcR
+            id: 02NfyD6AlLA12crYzw5YcR
+            name: Jane's Addiction
+            type: artist
+            uri: spotify:artist:02NfyD6AlLA12crYzw5YcR
+          disc_number: 1
+          duration_ms: 442400
+          explicit: false
+          external_ids:
+            isrc: USWB18800020
+          external_urls:
+            spotify: https://open.spotify.com/track/2l7iDl470hxtX7FkzAA3wz
+          href: https://api.spotify.com/v1/tracks/2l7iDl470hxtX7FkzAA3wz
+          id: 2l7iDl470hxtX7FkzAA3wz
+          is_local: false
+          is_playable: true
+          name: Ted, Just Admit It...
+          track_number: 4
+          type: track
+          uri: spotify:track:2l7iDl470hxtX7FkzAA3wz
+    isrc: USWB18800020

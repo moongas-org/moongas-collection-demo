@@ -56,3 +56,72 @@ mediaFileData:
   year: 2007
   duration: 238.01333333333332
   modTime: 2023-01-01 22:43:56.320000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5qdCsd05UUdtAsAtET9gxV
+    trackId: 5qdCsd05UUdtAsAtET9gxV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10702132&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE
+              href: https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE
+              id: 0SwO7SWeDHJijQ3XNS7xEE
+              name: MGMT
+              type: artist
+              uri: spotify:artist:0SwO7SWeDHJijQ3XNS7xEE
+            external_urls:
+              spotify: https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv
+            href: https://api.spotify.com/v1/albums/6mm1Skz3JE6AXneya9Nyiv
+            id: 6mm1Skz3JE6AXneya9Nyiv
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273abdf7749aeb5229dbf305f03
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02abdf7749aeb5229dbf305f03
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851abdf7749aeb5229dbf305f03
+            is_playable: true
+            name: Oracular Spectacular
+            release_date: '2007-12-14'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:6mm1Skz3JE6AXneya9Nyiv
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE
+            href: https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE
+            id: 0SwO7SWeDHJijQ3XNS7xEE
+            name: MGMT
+            type: artist
+            uri: spotify:artist:0SwO7SWeDHJijQ3XNS7xEE
+          disc_number: 1
+          duration_ms: 238013
+          explicit: false
+          external_ids:
+            isrc: USSM10702132
+          external_urls:
+            spotify: https://open.spotify.com/track/5qdCsd05UUdtAsAtET9gxV
+          href: https://api.spotify.com/v1/tracks/5qdCsd05UUdtAsAtET9gxV
+          id: 5qdCsd05UUdtAsAtET9gxV
+          is_local: false
+          is_playable: true
+          name: 4th Dimensional Transition
+          track_number: 6
+          type: track
+          uri: spotify:track:5qdCsd05UUdtAsAtET9gxV
+    isrc: USSM10702132

@@ -36,3 +36,72 @@ mediaFileData:
   year: 1989
   duration: 272.50938775510207
   modTime: 2026-02-01 21:25:47.862615+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3XvIInvHBCKGmczljVbpdy
+    trackId: 3XvIInvHBCKGmczljVbpdy
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBAZP8400047&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+              href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+              id: 6WoTvA9qinpHtSRJuldYh6
+              name: The Fall
+              type: artist
+              uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+            external_urls:
+              spotify: https://open.spotify.com/album/5pAMk4oTQDIp3tgGktPWCD
+            href: https://api.spotify.com/v1/albums/5pAMk4oTQDIp3tgGktPWCD
+            id: 5pAMk4oTQDIp3tgGktPWCD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735a0cdcc427b562aec7f5e1dd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025a0cdcc427b562aec7f5e1dd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515a0cdcc427b562aec7f5e1dd
+            is_playable: true
+            name: The Wonderful And Frightening World Of....
+            release_date: '1984-10-12'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:5pAMk4oTQDIp3tgGktPWCD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+            href: https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6
+            id: 6WoTvA9qinpHtSRJuldYh6
+            name: The Fall
+            type: artist
+            uri: spotify:artist:6WoTvA9qinpHtSRJuldYh6
+          disc_number: 1
+          duration_ms: 269440
+          explicit: false
+          external_ids:
+            isrc: GBAZP8400047
+          external_urls:
+            spotify: https://open.spotify.com/track/3XvIInvHBCKGmczljVbpdy
+          href: https://api.spotify.com/v1/tracks/3XvIInvHBCKGmczljVbpdy
+          id: 3XvIInvHBCKGmczljVbpdy
+          is_local: false
+          is_playable: true
+          name: Draygo's Guilt
+          track_number: 6
+          type: track
+          uri: spotify:track:3XvIInvHBCKGmczljVbpdy
+    isrc: GBAZP8400047

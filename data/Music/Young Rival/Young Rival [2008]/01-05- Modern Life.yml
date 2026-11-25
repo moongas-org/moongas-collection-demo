@@ -34,3 +34,72 @@ mediaFileData:
   year: 2010
   duration: 159.16
   modTime: 2023-07-13 00:47:32+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2vmccvNQeoa5SEfqc9gJ7J
+    trackId: 2vmccvNQeoa5SEfqc9gJ7J
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3ACASA71029929&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6ear0DN4B8mHwITDtmHMe0
+              href: https://api.spotify.com/v1/artists/6ear0DN4B8mHwITDtmHMe0
+              id: 6ear0DN4B8mHwITDtmHMe0
+              name: Young Rival
+              type: artist
+              uri: spotify:artist:6ear0DN4B8mHwITDtmHMe0
+            external_urls:
+              spotify: https://open.spotify.com/album/6dRPd4uwzRYrBD107ZJ5nu
+            href: https://api.spotify.com/v1/albums/6dRPd4uwzRYrBD107ZJ5nu
+            id: 6dRPd4uwzRYrBD107ZJ5nu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a7eb06a9e5e82b34b46110cf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a7eb06a9e5e82b34b46110cf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a7eb06a9e5e82b34b46110cf
+            is_playable: true
+            name: Young Rival
+            release_date: '2010-04-13'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:6dRPd4uwzRYrBD107ZJ5nu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6ear0DN4B8mHwITDtmHMe0
+            href: https://api.spotify.com/v1/artists/6ear0DN4B8mHwITDtmHMe0
+            id: 6ear0DN4B8mHwITDtmHMe0
+            name: Young Rival
+            type: artist
+            uri: spotify:artist:6ear0DN4B8mHwITDtmHMe0
+          disc_number: 1
+          duration_ms: 159160
+          explicit: false
+          external_ids:
+            isrc: CASA71029929
+          external_urls:
+            spotify: https://open.spotify.com/track/2vmccvNQeoa5SEfqc9gJ7J
+          href: https://api.spotify.com/v1/tracks/2vmccvNQeoa5SEfqc9gJ7J
+          id: 2vmccvNQeoa5SEfqc9gJ7J
+          is_local: false
+          is_playable: true
+          name: Modern Life
+          track_number: 5
+          type: track
+          uri: spotify:track:2vmccvNQeoa5SEfqc9gJ7J
+    isrc: CASA71029929

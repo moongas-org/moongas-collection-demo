@@ -63,3 +63,288 @@ mediaFileData:
   year: 1977
   duration: 261.12
   modTime: 2025-06-22 23:43:05.020527+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/55ZWeKyTwVaPX8ExXJ1aCI
+    trackId: 55ZWeKyTwVaPX8ExXJ1aCI
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAT29900668&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSAT29900668&type=track
+        offset: 0
+        previous:
+        total: 42
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/2H4aZi6NPbgSkrAa0jTQHX
+            href: https://api.spotify.com/v1/albums/2H4aZi6NPbgSkrAa0jTQHX
+            id: 2H4aZi6NPbgSkrAa0jTQHX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27363e23d1ce546b9b4699855f5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0263e23d1ce546b9b4699855f5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485163e23d1ce546b9b4699855f5
+            is_playable: true
+            name: 70's Road Trip
+            release_date: '2025-01-29'
+            release_date_precision: day
+            total_tracks: 48
+            type: album
+            uri: spotify:album:2H4aZi6NPbgSkrAa0jTQHX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN
+            href: https://api.spotify.com/v1/artists/6IRouO5mvvfcyxtPDKMYFN
+            id: 6IRouO5mvvfcyxtPDKMYFN
+            name: Foreigner
+            type: artist
+            uri: spotify:artist:6IRouO5mvvfcyxtPDKMYFN
+          disc_number: 1
+          duration_ms: 192520
+          explicit: false
+          external_ids:
+            isrc: USAT29900668
+          external_urls:
+            spotify: https://open.spotify.com/track/55ZWeKyTwVaPX8ExXJ1aCI
+          href: https://api.spotify.com/v1/tracks/55ZWeKyTwVaPX8ExXJ1aCI
+          id: 55ZWeKyTwVaPX8ExXJ1aCI
+          is_local: false
+          is_playable: true
+          name: Feels like the First Time
+          track_number: 20
+          type: track
+          uri: spotify:track:55ZWeKyTwVaPX8ExXJ1aCI
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN
+              href: https://api.spotify.com/v1/artists/6IRouO5mvvfcyxtPDKMYFN
+              id: 6IRouO5mvvfcyxtPDKMYFN
+              name: Foreigner
+              type: artist
+              uri: spotify:artist:6IRouO5mvvfcyxtPDKMYFN
+            external_urls:
+              spotify: https://open.spotify.com/album/6ijhSLQEpjo4irlIRMBFqL
+            href: https://api.spotify.com/v1/albums/6ijhSLQEpjo4irlIRMBFqL
+            id: 6ijhSLQEpjo4irlIRMBFqL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e6399483ac805ce254f9d4bb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e6399483ac805ce254f9d4bb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e6399483ac805ce254f9d4bb
+            is_playable: true
+            name: The Complete Atlantic Studio Albums 1977 - 1991
+            release_date: '2014-10-13'
+            release_date_precision: day
+            total_tracks: 80
+            type: album
+            uri: spotify:album:6ijhSLQEpjo4irlIRMBFqL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN
+            href: https://api.spotify.com/v1/artists/6IRouO5mvvfcyxtPDKMYFN
+            id: 6IRouO5mvvfcyxtPDKMYFN
+            name: Foreigner
+            type: artist
+            uri: spotify:artist:6IRouO5mvvfcyxtPDKMYFN
+          disc_number: 1
+          duration_ms: 192520
+          explicit: false
+          external_ids:
+            isrc: USAT29900668
+          external_urls:
+            spotify: https://open.spotify.com/track/6OPfkwQsoAxc2RFfACsPTi
+          href: https://api.spotify.com/v1/tracks/6OPfkwQsoAxc2RFfACsPTi
+          id: 6OPfkwQsoAxc2RFfACsPTi
+          is_local: false
+          is_playable: true
+          name: Feels like the First Time
+          track_number: 1
+          type: track
+          uri: spotify:track:6OPfkwQsoAxc2RFfACsPTi
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7fvoohMZuXABaGLEgu7n9b
+            href: https://api.spotify.com/v1/albums/7fvoohMZuXABaGLEgu7n9b
+            id: 7fvoohMZuXABaGLEgu7n9b
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273763ecfa1ea7056448879c5ec
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02763ecfa1ea7056448879c5ec
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851763ecfa1ea7056448879c5ec
+            is_playable: true
+            name: 70s Classic Rock Ballads
+            release_date: '2018-03-02'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:7fvoohMZuXABaGLEgu7n9b
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN
+            href: https://api.spotify.com/v1/artists/6IRouO5mvvfcyxtPDKMYFN
+            id: 6IRouO5mvvfcyxtPDKMYFN
+            name: Foreigner
+            type: artist
+            uri: spotify:artist:6IRouO5mvvfcyxtPDKMYFN
+          disc_number: 1
+          duration_ms: 192520
+          explicit: false
+          external_ids:
+            isrc: USAT29900668
+          external_urls:
+            spotify: https://open.spotify.com/track/3rCiWFqF3ihzNk2M4uTzmr
+          href: https://api.spotify.com/v1/tracks/3rCiWFqF3ihzNk2M4uTzmr
+          id: 3rCiWFqF3ihzNk2M4uTzmr
+          is_local: false
+          is_playable: true
+          name: Feels Like the First Time
+          track_number: 6
+          type: track
+          uri: spotify:track:3rCiWFqF3ihzNk2M4uTzmr
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6YdyUeOM1lK2MbVUaLBQdW
+            href: https://api.spotify.com/v1/albums/6YdyUeOM1lK2MbVUaLBQdW
+            id: 6YdyUeOM1lK2MbVUaLBQdW
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ced7c64210f381efea80a5de
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ced7c64210f381efea80a5de
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ced7c64210f381efea80a5de
+            is_playable: true
+            name: music from the 70s
+            release_date: '2024-08-28'
+            release_date_precision: day
+            total_tracks: 50
+            type: album
+            uri: spotify:album:6YdyUeOM1lK2MbVUaLBQdW
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN
+            href: https://api.spotify.com/v1/artists/6IRouO5mvvfcyxtPDKMYFN
+            id: 6IRouO5mvvfcyxtPDKMYFN
+            name: Foreigner
+            type: artist
+            uri: spotify:artist:6IRouO5mvvfcyxtPDKMYFN
+          disc_number: 1
+          duration_ms: 192520
+          explicit: false
+          external_ids:
+            isrc: USAT29900668
+          external_urls:
+            spotify: https://open.spotify.com/track/1zs51CvevTzDOzhYbEnZtL
+          href: https://api.spotify.com/v1/tracks/1zs51CvevTzDOzhYbEnZtL
+          id: 1zs51CvevTzDOzhYbEnZtL
+          is_local: false
+          is_playable: true
+          name: Feels like the First Time
+          track_number: 12
+          type: track
+          uri: spotify:track:1zs51CvevTzDOzhYbEnZtL
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN
+              href: https://api.spotify.com/v1/artists/6IRouO5mvvfcyxtPDKMYFN
+              id: 6IRouO5mvvfcyxtPDKMYFN
+              name: Foreigner
+              type: artist
+              uri: spotify:artist:6IRouO5mvvfcyxtPDKMYFN
+            external_urls:
+              spotify: https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M
+            href: https://api.spotify.com/v1/albums/1OU7zJvUfgxxPHgkTClt1M
+            id: 1OU7zJvUfgxxPHgkTClt1M
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730ef24611a73e7be48f6c2802
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020ef24611a73e7be48f6c2802
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510ef24611a73e7be48f6c2802
+            is_playable: true
+            name: Foreigner (Expanded)
+            release_date: '1977-03-08'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1OU7zJvUfgxxPHgkTClt1M
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN
+            href: https://api.spotify.com/v1/artists/6IRouO5mvvfcyxtPDKMYFN
+            id: 6IRouO5mvvfcyxtPDKMYFN
+            name: Foreigner
+            type: artist
+            uri: spotify:artist:6IRouO5mvvfcyxtPDKMYFN
+          disc_number: 1
+          duration_ms: 192520
+          explicit: false
+          external_ids:
+            isrc: USAT29900668
+          external_urls:
+            spotify: https://open.spotify.com/track/3DHWxeWr4uh19MklWjLpR0
+          href: https://api.spotify.com/v1/tracks/3DHWxeWr4uh19MklWjLpR0
+          id: 3DHWxeWr4uh19MklWjLpR0
+          is_local: false
+          is_playable: true
+          name: Feels like the First Time
+          track_number: 1
+          type: track
+          uri: spotify:track:3DHWxeWr4uh19MklWjLpR0
+    isrc: USAT29900668

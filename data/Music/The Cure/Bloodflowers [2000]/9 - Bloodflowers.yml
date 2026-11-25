@@ -61,3 +61,72 @@ mediaFileData:
   year: 2000
   duration: 447.336
   modTime: 2024-11-01 19:04:25.006341+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3kZqDL5CALwCmy5tChsJAa
+    trackId: 3kZqDL5CALwCmy5tChsJAa
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE19900943&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/5swgMRfWHhnsES6D65MyN1
+            href: https://api.spotify.com/v1/albums/5swgMRfWHhnsES6D65MyN1
+            id: 5swgMRfWHhnsES6D65MyN1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b49e2ba7d2fb4319c91402bf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b49e2ba7d2fb4319c91402bf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b49e2ba7d2fb4319c91402bf
+            is_playable: true
+            name: Bloodflowers
+            release_date: '2000-02-15'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:5swgMRfWHhnsES6D65MyN1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 447293
+          explicit: false
+          external_ids:
+            isrc: USEE19900943
+          external_urls:
+            spotify: https://open.spotify.com/track/3kZqDL5CALwCmy5tChsJAa
+          href: https://api.spotify.com/v1/tracks/3kZqDL5CALwCmy5tChsJAa
+          id: 3kZqDL5CALwCmy5tChsJAa
+          is_local: false
+          is_playable: true
+          name: Bloodflowers
+          track_number: 9
+          type: track
+          uri: spotify:track:3kZqDL5CALwCmy5tChsJAa
+    isrc: USEE19900943

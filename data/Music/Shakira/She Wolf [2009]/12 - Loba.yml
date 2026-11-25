@@ -127,3 +127,72 @@ mediaFileData:
   year: 2009
   duration: 186.096
   modTime: 2024-03-22 20:28:59.851837+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4SXAL7NWiGGDG92y6QduAd
+    trackId: 4SXAL7NWiGGDG92y6QduAd
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10905975&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp
+              href: https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp
+              id: 0EmeFodog0BfCgMzAIvKQp
+              name: Shakira
+              type: artist
+              uri: spotify:artist:0EmeFodog0BfCgMzAIvKQp
+            external_urls:
+              spotify: https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm
+            href: https://api.spotify.com/v1/albums/3MhG5IXiezatEXyNsXPLPm
+            id: 3MhG5IXiezatEXyNsXPLPm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273fca4cb3216d3db3e533b07b3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02fca4cb3216d3db3e533b07b3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851fca4cb3216d3db3e533b07b3
+            is_playable: true
+            name: She Wolf (Expanded Edition)
+            release_date: '2009-10-09'
+            release_date_precision: day
+            total_tracks: 18
+            type: album
+            uri: spotify:album:3MhG5IXiezatEXyNsXPLPm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp
+            href: https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp
+            id: 0EmeFodog0BfCgMzAIvKQp
+            name: Shakira
+            type: artist
+            uri: spotify:artist:0EmeFodog0BfCgMzAIvKQp
+          disc_number: 1
+          duration_ms: 189666
+          explicit: false
+          external_ids:
+            isrc: USSM10905975
+          external_urls:
+            spotify: https://open.spotify.com/track/4SXAL7NWiGGDG92y6QduAd
+          href: https://api.spotify.com/v1/tracks/4SXAL7NWiGGDG92y6QduAd
+          id: 4SXAL7NWiGGDG92y6QduAd
+          is_local: false
+          is_playable: true
+          name: She Wolf - Live From T4 Studios
+          track_number: 18
+          type: track
+          uri: spotify:track:4SXAL7NWiGGDG92y6QduAd
+    isrc: USSM10905975

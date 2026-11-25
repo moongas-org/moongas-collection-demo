@@ -83,3 +83,288 @@ mediaFileData:
   year: 1969
   duration: 239.616
   modTime: 2023-11-07 02:28:14.647437+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2wLfgc877JqWR7rpOf0flo
+    trackId: 2wLfgc877JqWR7rpOf0flo
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE19600416&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AUSRE19600416&type=track
+        offset: 0
+        previous:
+        total: 22
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3skIYvBBPqebmVwvc5comu
+            href: https://api.spotify.com/v1/albums/3skIYvBBPqebmVwvc5comu
+            id: 3skIYvBBPqebmVwvc5comu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2730dd6041db01724380752e525
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e020dd6041db01724380752e525
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048510dd6041db01724380752e525
+            is_playable: true
+            name: Golden Oldies
+            release_date: '2021-04-09'
+            release_date_precision: day
+            total_tracks: 28
+            type: album
+            uri: spotify:album:3skIYvBBPqebmVwvc5comu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL
+            href: https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL
+            id: 7f8LNBVXN0h35veHrpxQFL
+            name: Norman Greenbaum
+            type: artist
+            uri: spotify:artist:7f8LNBVXN0h35veHrpxQFL
+          disc_number: 1
+          duration_ms: 242893
+          explicit: false
+          external_ids:
+            isrc: USRE19600416
+          external_urls:
+            spotify: https://open.spotify.com/track/2wLfgc877JqWR7rpOf0flo
+          href: https://api.spotify.com/v1/tracks/2wLfgc877JqWR7rpOf0flo
+          id: 2wLfgc877JqWR7rpOf0flo
+          is_local: false
+          is_playable: true
+          name: Spirit In The Sky - Deluxe Edition
+          track_number: 18
+          type: track
+          uri: spotify:track:2wLfgc877JqWR7rpOf0flo
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6JcXasxsnajzwP5qjzqjec
+            href: https://api.spotify.com/v1/albums/6JcXasxsnajzwP5qjzqjec
+            id: 6JcXasxsnajzwP5qjzqjec
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e499d1e42792b800e8941e36
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e499d1e42792b800e8941e36
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e499d1e42792b800e8941e36
+            is_playable: true
+            name: 60s Psychedelic Rock
+            release_date: '2019-09-13'
+            release_date_precision: day
+            total_tracks: 37
+            type: album
+            uri: spotify:album:6JcXasxsnajzwP5qjzqjec
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL
+            href: https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL
+            id: 7f8LNBVXN0h35veHrpxQFL
+            name: Norman Greenbaum
+            type: artist
+            uri: spotify:artist:7f8LNBVXN0h35veHrpxQFL
+          disc_number: 1
+          duration_ms: 242893
+          explicit: false
+          external_ids:
+            isrc: USRE19600416
+          external_urls:
+            spotify: https://open.spotify.com/track/3xFXU1k5dLYNMdXVJ4z8xG
+          href: https://api.spotify.com/v1/tracks/3xFXU1k5dLYNMdXVJ4z8xG
+          id: 3xFXU1k5dLYNMdXVJ4z8xG
+          is_local: false
+          is_playable: true
+          name: Spirit In The Sky - Deluxe Edition
+          track_number: 21
+          type: track
+          uri: spotify:track:3xFXU1k5dLYNMdXVJ4z8xG
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL
+              href: https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL
+              id: 7f8LNBVXN0h35veHrpxQFL
+              name: Norman Greenbaum
+              type: artist
+              uri: spotify:artist:7f8LNBVXN0h35veHrpxQFL
+            external_urls:
+              spotify: https://open.spotify.com/album/0WTuTKjRcoqwY44gbWPZ70
+            href: https://api.spotify.com/v1/albums/0WTuTKjRcoqwY44gbWPZ70
+            id: 0WTuTKjRcoqwY44gbWPZ70
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dcb09bbcae3772b07bbf3818
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dcb09bbcae3772b07bbf3818
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dcb09bbcae3772b07bbf3818
+            is_playable: true
+            name: Beyond The Spirit
+            release_date: '2024-07-01'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:0WTuTKjRcoqwY44gbWPZ70
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL
+            href: https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL
+            id: 7f8LNBVXN0h35veHrpxQFL
+            name: Norman Greenbaum
+            type: artist
+            uri: spotify:artist:7f8LNBVXN0h35veHrpxQFL
+          disc_number: 1
+          duration_ms: 242893
+          explicit: false
+          external_ids:
+            isrc: USRE19600416
+          external_urls:
+            spotify: https://open.spotify.com/track/2wjlL7GRoilhs5Y4RpcbJg
+          href: https://api.spotify.com/v1/tracks/2wjlL7GRoilhs5Y4RpcbJg
+          id: 2wjlL7GRoilhs5Y4RpcbJg
+          is_local: false
+          is_playable: true
+          name: Spirit In The Sky - Deluxe Edition
+          track_number: 1
+          type: track
+          uri: spotify:track:2wjlL7GRoilhs5Y4RpcbJg
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL
+              href: https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL
+              id: 7f8LNBVXN0h35veHrpxQFL
+              name: Norman Greenbaum
+              type: artist
+              uri: spotify:artist:7f8LNBVXN0h35veHrpxQFL
+            external_urls:
+              spotify: https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1
+            href: https://api.spotify.com/v1/albums/05qYXT9UP6pXR9u0BtntD1
+            id: 05qYXT9UP6pXR9u0BtntD1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735c1c4d3d94d0e845bd1ebec1
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025c1c4d3d94d0e845bd1ebec1
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515c1c4d3d94d0e845bd1ebec1
+            is_playable: true
+            name: Spirit In The Sky (Deluxe Edition)
+            release_date: '1969-01-01'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:05qYXT9UP6pXR9u0BtntD1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL
+            href: https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL
+            id: 7f8LNBVXN0h35veHrpxQFL
+            name: Norman Greenbaum
+            type: artist
+            uri: spotify:artist:7f8LNBVXN0h35veHrpxQFL
+          disc_number: 1
+          duration_ms: 242893
+          explicit: false
+          external_ids:
+            isrc: USRE19600416
+          external_urls:
+            spotify: https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP
+          href: https://api.spotify.com/v1/tracks/0jvN7eQJJt4nxQzgQfZ1SP
+          id: 0jvN7eQJJt4nxQzgQfZ1SP
+          is_local: false
+          is_playable: true
+          name: Spirit In The Sky - Deluxe Edition
+          track_number: 2
+          type: track
+          uri: spotify:track:0jvN7eQJJt4nxQzgQfZ1SP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0yJacLJIwomciTZkxiFuVJ
+            href: https://api.spotify.com/v1/albums/0yJacLJIwomciTZkxiFuVJ
+            id: 0yJacLJIwomciTZkxiFuVJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273d922b3efd71950af7ebe8fb7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02d922b3efd71950af7ebe8fb7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851d922b3efd71950af7ebe8fb7
+            is_playable: true
+            name: Poker Night
+            release_date: '2025-07-11'
+            release_date_precision: day
+            total_tracks: 63
+            type: album
+            uri: spotify:album:0yJacLJIwomciTZkxiFuVJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL
+            href: https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL
+            id: 7f8LNBVXN0h35veHrpxQFL
+            name: Norman Greenbaum
+            type: artist
+            uri: spotify:artist:7f8LNBVXN0h35veHrpxQFL
+          disc_number: 1
+          duration_ms: 242893
+          explicit: false
+          external_ids:
+            isrc: USRE19600416
+          external_urls:
+            spotify: https://open.spotify.com/track/0BQC4xWOIxeZOiVdnY3CX5
+          href: https://api.spotify.com/v1/tracks/0BQC4xWOIxeZOiVdnY3CX5
+          id: 0BQC4xWOIxeZOiVdnY3CX5
+          is_local: false
+          is_playable: true
+          name: Spirit In The Sky - Deluxe Edition
+          track_number: 19
+          type: track
+          uri: spotify:track:0BQC4xWOIxeZOiVdnY3CX5
+    isrc: USRE19600416

@@ -34,3 +34,72 @@ mediaFileData:
   year: 2003
   duration: 219.74205
   modTime: 2025-01-11 01:08:45.481439+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7Eig0RkPHrpac4crfuXbeD
+    trackId: 7Eig0RkPHrpac4crfuXbeD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSKRS0745505&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+              href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+              id: 2ApaG60P4r0yhBoDCGD8YG
+              name: Elliott Smith
+              type: artist
+              uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+            external_urls:
+              spotify: https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN
+            href: https://api.spotify.com/v1/albums/1BbuJWxtdCS2r6wBt1JsSN
+            id: 1BbuJWxtdCS2r6wBt1JsSN
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732b82c19b95a3adc173b76e96
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022b82c19b95a3adc173b76e96
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512b82c19b95a3adc173b76e96
+            is_playable: true
+            name: New Moon
+            release_date: '2007-05-08'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:1BbuJWxtdCS2r6wBt1JsSN
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG
+            href: https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG
+            id: 2ApaG60P4r0yhBoDCGD8YG
+            name: Elliott Smith
+            type: artist
+            uri: spotify:artist:2ApaG60P4r0yhBoDCGD8YG
+          disc_number: 1
+          duration_ms: 219666
+          explicit: false
+          external_ids:
+            isrc: USKRS0745505
+          external_urls:
+            spotify: https://open.spotify.com/track/7Eig0RkPHrpac4crfuXbeD
+          href: https://api.spotify.com/v1/tracks/7Eig0RkPHrpac4crfuXbeD
+          id: 7Eig0RkPHrpac4crfuXbeD
+          is_local: false
+          is_playable: true
+          name: Looking Over My Shoulder
+          track_number: 5
+          type: track
+          uri: spotify:track:7Eig0RkPHrpac4crfuXbeD
+    isrc: USKRS0745505

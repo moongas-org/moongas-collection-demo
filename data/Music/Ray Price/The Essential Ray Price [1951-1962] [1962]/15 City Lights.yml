@@ -48,3 +48,72 @@ mediaFileData:
   year: 1950
   duration: 180.2466
   modTime: 2022-12-10 02:08:58.230000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV
+    trackId: 62RfCZpT2zfBHRXD8yp2WV
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19913559&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP
+              href: https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP
+              id: 5sAg1HZePcFfhrs0G8A8OP
+              name: Ray Price
+              type: artist
+              uri: spotify:artist:5sAg1HZePcFfhrs0G8A8OP
+            external_urls:
+              spotify: https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX
+            href: https://api.spotify.com/v1/albums/1iIdCS3AKg1XSovy1KsfXX
+            id: 1iIdCS3AKg1XSovy1KsfXX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2736b3ff291369cd9bd6c2258cd
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e026b3ff291369cd9bd6c2258cd
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048516b3ff291369cd9bd6c2258cd
+            is_playable: true
+            name: Greatest Hits
+            release_date: '1987-04-07'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1iIdCS3AKg1XSovy1KsfXX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP
+            href: https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP
+            id: 5sAg1HZePcFfhrs0G8A8OP
+            name: Ray Price
+            type: artist
+            uri: spotify:artist:5sAg1HZePcFfhrs0G8A8OP
+          disc_number: 1
+          duration_ms: 179600
+          explicit: false
+          external_ids:
+            isrc: USSM19913559
+          external_urls:
+            spotify: https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV
+          href: https://api.spotify.com/v1/tracks/62RfCZpT2zfBHRXD8yp2WV
+          id: 62RfCZpT2zfBHRXD8yp2WV
+          is_local: false
+          is_playable: true
+          name: City Lights
+          track_number: 3
+          type: track
+          uri: spotify:track:62RfCZpT2zfBHRXD8yp2WV
+    isrc: USSM19913559

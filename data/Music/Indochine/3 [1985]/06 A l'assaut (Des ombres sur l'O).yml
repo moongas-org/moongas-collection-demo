@@ -34,3 +34,72 @@ mediaFileData:
   year: 1985
   duration: 225.097125
   modTime: 2023-07-17 00:00:18+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6KPzPpz68C8pycBHL6NWKB
+    trackId: 6KPzPpz68C8pycBHL6NWKB
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AFRZ058500150&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+              href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+              id: 7knmbOGe07k85GmK50vACB
+              name: Indochine
+              type: artist
+              uri: spotify:artist:7knmbOGe07k85GmK50vACB
+            external_urls:
+              spotify: https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu
+            href: https://api.spotify.com/v1/albums/0UJYes2guXasGPKbGuCBFu
+            id: 0UJYes2guXasGPKbGuCBFu
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2737e0eff6f9a10fe75705c2174
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e027e0eff6f9a10fe75705c2174
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048517e0eff6f9a10fe75705c2174
+            is_playable: true
+            name: '3'
+            release_date: '1985-12-10'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:0UJYes2guXasGPKbGuCBFu
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB
+            href: https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB
+            id: 7knmbOGe07k85GmK50vACB
+            name: Indochine
+            type: artist
+            uri: spotify:artist:7knmbOGe07k85GmK50vACB
+          disc_number: 1
+          duration_ms: 228133
+          explicit: false
+          external_ids:
+            isrc: FRZ058500150
+          external_urls:
+            spotify: https://open.spotify.com/track/6KPzPpz68C8pycBHL6NWKB
+          href: https://api.spotify.com/v1/tracks/6KPzPpz68C8pycBHL6NWKB
+          id: 6KPzPpz68C8pycBHL6NWKB
+          is_local: false
+          is_playable: true
+          name: A l'assaut (des ombres sur l'o)
+          track_number: 6
+          type: track
+          uri: spotify:track:6KPzPpz68C8pycBHL6NWKB
+    isrc: FRZ058500150

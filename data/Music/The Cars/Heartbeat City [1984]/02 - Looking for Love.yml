@@ -46,3 +46,72 @@ mediaFileData:
   year: 1984
   duration: 231.432
   modTime: 2025-06-21 16:44:10.913478+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/05RbCFmsP8ooDO667xvmjm
+    trackId: 05RbCFmsP8ooDO667xvmjm
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11509811&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp
+              href: https://api.spotify.com/v1/artists/6DCIj8jNaNpBz8e5oKFPtp
+              id: 6DCIj8jNaNpBz8e5oKFPtp
+              name: The Cars
+              type: artist
+              uri: spotify:artist:6DCIj8jNaNpBz8e5oKFPtp
+            external_urls:
+              spotify: https://open.spotify.com/album/5cGElNWN4q4dT9EtVsf3mZ
+            href: https://api.spotify.com/v1/albums/5cGElNWN4q4dT9EtVsf3mZ
+            id: 5cGElNWN4q4dT9EtVsf3mZ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2739b0abbdb44802cce1caeac2e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e029b0abbdb44802cce1caeac2e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048519b0abbdb44802cce1caeac2e
+            is_playable: true
+            name: The Elektra Years 1978 - 1987
+            release_date: '2016-03-11'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:5cGElNWN4q4dT9EtVsf3mZ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp
+            href: https://api.spotify.com/v1/artists/6DCIj8jNaNpBz8e5oKFPtp
+            id: 6DCIj8jNaNpBz8e5oKFPtp
+            name: The Cars
+            type: artist
+            uri: spotify:artist:6DCIj8jNaNpBz8e5oKFPtp
+          disc_number: 5
+          duration_ms: 231546
+          explicit: false
+          external_ids:
+            isrc: USRH11509811
+          external_urls:
+            spotify: https://open.spotify.com/track/05RbCFmsP8ooDO667xvmjm
+          href: https://api.spotify.com/v1/tracks/05RbCFmsP8ooDO667xvmjm
+          id: 05RbCFmsP8ooDO667xvmjm
+          is_local: false
+          is_playable: true
+          name: Looking for Love - 2016 Remaster
+          track_number: 2
+          type: track
+          uri: spotify:track:05RbCFmsP8ooDO667xvmjm
+    isrc: USRH11509811

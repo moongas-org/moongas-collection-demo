@@ -67,3 +67,100 @@ mediaFileData:
   year: 2004
   duration: 52.104
   modTime: 2025-04-17 00:58:16.292936+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql
+    trackId: 2tPzKfP7wGlXGPOSUBDHql
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUS2S70465030&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU
+              href: https://api.spotify.com/v1/artists/2aoFQUeHD1U7pL098lRsDU
+              id: 2aoFQUeHD1U7pL098lRsDU
+              name: Madvillain
+              type: artist
+              uri: spotify:artist:2aoFQUeHD1U7pL098lRsDU
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf
+              href: https://api.spotify.com/v1/artists/5LhTec3c7dcqBvpLRWbMcf
+              id: 5LhTec3c7dcqBvpLRWbMcf
+              name: Madlib
+              type: artist
+              uri: spotify:artist:5LhTec3c7dcqBvpLRWbMcf
+            - external_urls:
+                spotify: https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL
+              href: https://api.spotify.com/v1/artists/2pAWfrd7WFF3XhVt9GooDL
+              id: 2pAWfrd7WFF3XhVt9GooDL
+              name: MF DOOM
+              type: artist
+              uri: spotify:artist:2pAWfrd7WFF3XhVt9GooDL
+            external_urls:
+              spotify: https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ
+            href: https://api.spotify.com/v1/albums/0i05SUICZ5jsvfvImWXlIJ
+            id: 0i05SUICZ5jsvfvImWXlIJ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733c66f592786dcb7a9f1e2abc
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023c66f592786dcb7a9f1e2abc
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513c66f592786dcb7a9f1e2abc
+            is_playable: true
+            name: Madvillainy Demos
+            release_date: '2025-01-31'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:0i05SUICZ5jsvfvImWXlIJ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU
+            href: https://api.spotify.com/v1/artists/2aoFQUeHD1U7pL098lRsDU
+            id: 2aoFQUeHD1U7pL098lRsDU
+            name: Madvillain
+            type: artist
+            uri: spotify:artist:2aoFQUeHD1U7pL098lRsDU
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf
+            href: https://api.spotify.com/v1/artists/5LhTec3c7dcqBvpLRWbMcf
+            id: 5LhTec3c7dcqBvpLRWbMcf
+            name: Madlib
+            type: artist
+            uri: spotify:artist:5LhTec3c7dcqBvpLRWbMcf
+          - external_urls:
+              spotify: https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL
+            href: https://api.spotify.com/v1/artists/2pAWfrd7WFF3XhVt9GooDL
+            id: 2pAWfrd7WFF3XhVt9GooDL
+            name: MF DOOM
+            type: artist
+            uri: spotify:artist:2pAWfrd7WFF3XhVt9GooDL
+          disc_number: 1
+          duration_ms: 52998
+          explicit: true
+          external_ids:
+            isrc: US2S70465030
+          external_urls:
+            spotify: https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql
+          href: https://api.spotify.com/v1/tracks/2tPzKfP7wGlXGPOSUBDHql
+          id: 2tPzKfP7wGlXGPOSUBDHql
+          is_local: false
+          is_playable: true
+          name: Do Not Fire! (demo)
+          track_number: 1
+          type: track
+          uri: spotify:track:2tPzKfP7wGlXGPOSUBDHql
+    isrc: US2S70465030

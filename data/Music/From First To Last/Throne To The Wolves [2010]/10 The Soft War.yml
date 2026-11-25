@@ -34,3 +34,72 @@ mediaFileData:
   year: 2010
   duration: 136.84
   modTime: 2023-04-28 01:13:42.670000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4N5u7VUzpbS0lZUlq6qhvh
+    trackId: 4N5u7VUzpbS0lZUlq6qhvh
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEK71009210&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN
+              href: https://api.spotify.com/v1/artists/5n71fmAB8Un2IfAPn64erN
+              id: 5n71fmAB8Un2IfAPn64erN
+              name: From First To Last
+              type: artist
+              uri: spotify:artist:5n71fmAB8Un2IfAPn64erN
+            external_urls:
+              spotify: https://open.spotify.com/album/59iDlXb07iRKAVI4P5DUWd
+            href: https://api.spotify.com/v1/albums/59iDlXb07iRKAVI4P5DUWd
+            id: 59iDlXb07iRKAVI4P5DUWd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f4aa64164abbc06579f08aaf
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f4aa64164abbc06579f08aaf
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f4aa64164abbc06579f08aaf
+            is_playable: true
+            name: Throne To The Wolves
+            release_date: '2010-03-16'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:59iDlXb07iRKAVI4P5DUWd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN
+            href: https://api.spotify.com/v1/artists/5n71fmAB8Un2IfAPn64erN
+            id: 5n71fmAB8Un2IfAPn64erN
+            name: From First To Last
+            type: artist
+            uri: spotify:artist:5n71fmAB8Un2IfAPn64erN
+          disc_number: 1
+          duration_ms: 136840
+          explicit: false
+          external_ids:
+            isrc: USEK71009210
+          external_urls:
+            spotify: https://open.spotify.com/track/4N5u7VUzpbS0lZUlq6qhvh
+          href: https://api.spotify.com/v1/tracks/4N5u7VUzpbS0lZUlq6qhvh
+          id: 4N5u7VUzpbS0lZUlq6qhvh
+          is_local: false
+          is_playable: true
+          name: A Soft War
+          track_number: 10
+          type: track
+          uri: spotify:track:4N5u7VUzpbS0lZUlq6qhvh
+    isrc: USEK71009210

@@ -211,3 +211,180 @@ mediaFileData:
   year: 1984
   duration: 232.128
   modTime: 2023-08-13 22:02:14+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1guAy29ms2qhiUJgM9kMlQ
+    trackId: 1guAy29ms2qhiUJgM9kMlQ
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSAR19800100&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4TolSIc0n1yb3G9hfxsrZe
+            href: https://api.spotify.com/v1/albums/4TolSIc0n1yb3G9hfxsrZe
+            id: 4TolSIc0n1yb3G9hfxsrZe
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27361a9ac8dc4b06655f37b6bd7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0261a9ac8dc4b06655f37b6bd7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485161a9ac8dc4b06655f37b6bd7
+            is_playable: true
+            name: 90s Hits / Top 100 Songs
+            release_date: '2023-06-13'
+            release_date_precision: day
+            total_tracks: 84
+            type: album
+            uri: spotify:album:4TolSIc0n1yb3G9hfxsrZe
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG
+            href: https://api.spotify.com/v1/artists/601893mmW5hl1FBOykWZHG
+            id: 601893mmW5hl1FBOykWZHG
+            name: Deborah Cox
+            type: artist
+            uri: spotify:artist:601893mmW5hl1FBOykWZHG
+          disc_number: 1
+          duration_ms: 258840
+          explicit: false
+          external_ids:
+            isrc: USAR19800100
+          external_urls:
+            spotify: https://open.spotify.com/track/1guAy29ms2qhiUJgM9kMlQ
+          href: https://api.spotify.com/v1/tracks/1guAy29ms2qhiUJgM9kMlQ
+          id: 1guAy29ms2qhiUJgM9kMlQ
+          is_local: false
+          is_playable: true
+          name: Nobody's Supposed to Be Here
+          track_number: 79
+          type: track
+          uri: spotify:track:1guAy29ms2qhiUJgM9kMlQ
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG
+              href: https://api.spotify.com/v1/artists/601893mmW5hl1FBOykWZHG
+              id: 601893mmW5hl1FBOykWZHG
+              name: Deborah Cox
+              type: artist
+              uri: spotify:artist:601893mmW5hl1FBOykWZHG
+            external_urls:
+              spotify: https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD
+            href: https://api.spotify.com/v1/albums/16FPcGpqQfcvqpCLvZsWWD
+            id: 16FPcGpqQfcvqpCLvZsWWD
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27392c79e319a1a5519ebf669d4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0292c79e319a1a5519ebf669d4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485192c79e319a1a5519ebf669d4
+            is_playable: true
+            name: One Wish
+            release_date: '1998-09-17'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:16FPcGpqQfcvqpCLvZsWWD
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG
+            href: https://api.spotify.com/v1/artists/601893mmW5hl1FBOykWZHG
+            id: 601893mmW5hl1FBOykWZHG
+            name: Deborah Cox
+            type: artist
+            uri: spotify:artist:601893mmW5hl1FBOykWZHG
+          disc_number: 1
+          duration_ms: 262333
+          explicit: false
+          external_ids:
+            isrc: USAR19800100
+          external_urls:
+            spotify: https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL
+          href: https://api.spotify.com/v1/tracks/51QxenFmXlJXUN9mpvxlaL
+          id: 51QxenFmXlJXUN9mpvxlaL
+          is_local: false
+          is_playable: true
+          name: Nobody's Supposed to Be Here
+          track_number: 3
+          type: track
+          uri: spotify:track:51QxenFmXlJXUN9mpvxlaL
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG
+              href: https://api.spotify.com/v1/artists/601893mmW5hl1FBOykWZHG
+              id: 601893mmW5hl1FBOykWZHG
+              name: Deborah Cox
+              type: artist
+              uri: spotify:artist:601893mmW5hl1FBOykWZHG
+            external_urls:
+              spotify: https://open.spotify.com/album/2sj6Xfs8nVNPLd7TvcCQfx
+            href: https://api.spotify.com/v1/albums/2sj6Xfs8nVNPLd7TvcCQfx
+            id: 2sj6Xfs8nVNPLd7TvcCQfx
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27325a8f49e973a9879a5a65a86
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0225a8f49e973a9879a5a65a86
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485125a8f49e973a9879a5a65a86
+            is_playable: true
+            name: Dance Vault Mixes - Nobody's Supposed To Be Here
+            release_date: '2006-07-11'
+            release_date_precision: day
+            total_tracks: 7
+            type: album
+            uri: spotify:album:2sj6Xfs8nVNPLd7TvcCQfx
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG
+            href: https://api.spotify.com/v1/artists/601893mmW5hl1FBOykWZHG
+            id: 601893mmW5hl1FBOykWZHG
+            name: Deborah Cox
+            type: artist
+            uri: spotify:artist:601893mmW5hl1FBOykWZHG
+          disc_number: 1
+          duration_ms: 260760
+          explicit: false
+          external_ids:
+            isrc: USAR19800100
+          external_urls:
+            spotify: https://open.spotify.com/track/3c2LG7Yz4M8NLf1CuZZXWP
+          href: https://api.spotify.com/v1/tracks/3c2LG7Yz4M8NLf1CuZZXWP
+          id: 3c2LG7Yz4M8NLf1CuZZXWP
+          is_local: false
+          is_playable: true
+          name: Nobody's Supposed To Be Here (Original Version)
+          track_number: 5
+          type: track
+          uri: spotify:track:3c2LG7Yz4M8NLf1CuZZXWP
+    isrc: USAR19800100

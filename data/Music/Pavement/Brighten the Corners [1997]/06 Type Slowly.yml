@@ -35,3 +35,72 @@ mediaFileData:
   year: 1997
   duration: 319.94775
   modTime: 2023-05-14 00:26:28.810000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/1d79gDy9dBsjabLxhtyiQD
+    trackId: 1d79gDy9dBsjabLxhtyiQD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSMTD9719706&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+              href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+              id: 3inCNiUr4R6XQ3W43s9Aqi
+              name: Pavement
+              type: artist
+              uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+            external_urls:
+              spotify: https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h
+            href: https://api.spotify.com/v1/albums/1Q6ikDUK4RFtLI3N9Lll9h
+            id: 1Q6ikDUK4RFtLI3N9Lll9h
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c7f74df1b5b7fe002d5a7c71
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c7f74df1b5b7fe002d5a7c71
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c7f74df1b5b7fe002d5a7c71
+            is_playable: true
+            name: Brighten the Corners
+            release_date: '1997-02-11'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1Q6ikDUK4RFtLI3N9Lll9h
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi
+            href: https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi
+            id: 3inCNiUr4R6XQ3W43s9Aqi
+            name: Pavement
+            type: artist
+            uri: spotify:artist:3inCNiUr4R6XQ3W43s9Aqi
+          disc_number: 1
+          duration_ms: 320026
+          explicit: false
+          external_ids:
+            isrc: USMTD9719706
+          external_urls:
+            spotify: https://open.spotify.com/track/1d79gDy9dBsjabLxhtyiQD
+          href: https://api.spotify.com/v1/tracks/1d79gDy9dBsjabLxhtyiQD
+          id: 1d79gDy9dBsjabLxhtyiQD
+          is_local: false
+          is_playable: true
+          name: Type Slowly
+          track_number: 6
+          type: track
+          uri: spotify:track:1d79gDy9dBsjabLxhtyiQD
+    isrc: USMTD9719706

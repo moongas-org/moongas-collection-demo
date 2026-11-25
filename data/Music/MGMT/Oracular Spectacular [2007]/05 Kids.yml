@@ -172,3 +172,140 @@ mediaFileData:
   year: 2007
   duration: 302.84
   modTime: 2023-01-01 22:43:56.320000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/0ABUwW2eGGtBMc696DHGkk
+    trackId: 0ABUwW2eGGtBMc696DHGkk
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM10804088&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE
+              href: https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE
+              id: 0SwO7SWeDHJijQ3XNS7xEE
+              name: MGMT
+              type: artist
+              uri: spotify:artist:0SwO7SWeDHJijQ3XNS7xEE
+            external_urls:
+              spotify: https://open.spotify.com/album/1FkaYbK8wmw0qZPfI04di3
+            href: https://api.spotify.com/v1/albums/1FkaYbK8wmw0qZPfI04di3
+            id: 1FkaYbK8wmw0qZPfI04di3
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27340b1a560fbb2ed3bdf2d1db6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0240b1a560fbb2ed3bdf2d1db6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485140b1a560fbb2ed3bdf2d1db6
+            is_playable: true
+            name: Kids (Soulwax Mix)
+            release_date: '2008-10-10'
+            release_date_precision: day
+            total_tracks: 1
+            type: album
+            uri: spotify:album:1FkaYbK8wmw0qZPfI04di3
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE
+            href: https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE
+            id: 0SwO7SWeDHJijQ3XNS7xEE
+            name: MGMT
+            type: artist
+            uri: spotify:artist:0SwO7SWeDHJijQ3XNS7xEE
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff
+            href: https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff
+            id: 43mWhBXSflupNLuNjM5vff
+            name: Soulwax
+            type: artist
+            uri: spotify:artist:43mWhBXSflupNLuNjM5vff
+          disc_number: 1
+          duration_ms: 338293
+          explicit: false
+          external_ids:
+            isrc: USSM10804088
+          external_urls:
+            spotify: https://open.spotify.com/track/0ABUwW2eGGtBMc696DHGkk
+          href: https://api.spotify.com/v1/tracks/0ABUwW2eGGtBMc696DHGkk
+          id: 0ABUwW2eGGtBMc696DHGkk
+          is_local: false
+          is_playable: true
+          name: Kids - Soulwax Mix
+          track_number: 1
+          type: track
+          uri: spotify:track:0ABUwW2eGGtBMc696DHGkk
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/7yCvm7mRa9cufX1NJN36Sd
+            href: https://api.spotify.com/v1/albums/7yCvm7mRa9cufX1NJN36Sd
+            id: 7yCvm7mRa9cufX1NJN36Sd
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ba713ea936f018fac090d8b2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ba713ea936f018fac090d8b2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ba713ea936f018fac090d8b2
+            is_playable: true
+            name: MixShow Remixes
+            release_date: '2009-10-19'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:7yCvm7mRa9cufX1NJN36Sd
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE
+            href: https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE
+            id: 0SwO7SWeDHJijQ3XNS7xEE
+            name: MGMT
+            type: artist
+            uri: spotify:artist:0SwO7SWeDHJijQ3XNS7xEE
+          - external_urls:
+              spotify: https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff
+            href: https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff
+            id: 43mWhBXSflupNLuNjM5vff
+            name: Soulwax
+            type: artist
+            uri: spotify:artist:43mWhBXSflupNLuNjM5vff
+          disc_number: 1
+          duration_ms: 340080
+          explicit: false
+          external_ids:
+            isrc: USSM10804088
+          external_urls:
+            spotify: https://open.spotify.com/track/70aDMshGqGCKDXIYD2D5JD
+          href: https://api.spotify.com/v1/tracks/70aDMshGqGCKDXIYD2D5JD
+          id: 70aDMshGqGCKDXIYD2D5JD
+          is_local: false
+          is_playable: true
+          name: Kids - Soulwax Mix
+          track_number: 9
+          type: track
+          uri: spotify:track:70aDMshGqGCKDXIYD2D5JD
+    isrc: USSM10804088

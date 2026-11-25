@@ -59,3 +59,126 @@ mediaFileData:
   year: 1987
   duration: 350.256
   modTime: 2026-05-10 15:36:30.894996+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7JeVbhfBVr7FWe3qVh8vM2
+    trackId: 7JeVbhfBVr7FWe3qVh8vM2
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRH11500267&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+              href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+              id: 4TMHGUX5WI7OOm53PqSDAT
+              name: Grateful Dead
+              type: artist
+              uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+            external_urls:
+              spotify: https://open.spotify.com/album/4gEj5bUAYQI6Z9aCf6Ua5E
+            href: https://api.spotify.com/v1/albums/4gEj5bUAYQI6Z9aCf6Ua5E
+            id: 4gEj5bUAYQI6Z9aCf6Ua5E
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b7f428c26aeada9a618cc1b4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b7f428c26aeada9a618cc1b4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b7f428c26aeada9a618cc1b4
+            is_playable: true
+            name: Gratest Hits
+            release_date: '2025-06-13'
+            release_date_precision: day
+            total_tracks: 9
+            type: album
+            uri: spotify:album:4gEj5bUAYQI6Z9aCf6Ua5E
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 1
+          duration_ms: 350213
+          explicit: false
+          external_ids:
+            isrc: USRH11500267
+          external_urls:
+            spotify: https://open.spotify.com/track/7JeVbhfBVr7FWe3qVh8vM2
+          href: https://api.spotify.com/v1/tracks/7JeVbhfBVr7FWe3qVh8vM2
+          id: 7JeVbhfBVr7FWe3qVh8vM2
+          is_local: false
+          is_playable: true
+          name: Touch of Grey - 2015 Remaster
+          track_number: 9
+          type: track
+          uri: spotify:track:7JeVbhfBVr7FWe3qVh8vM2
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+              href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+              id: 4TMHGUX5WI7OOm53PqSDAT
+              name: Grateful Dead
+              type: artist
+              uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+            external_urls:
+              spotify: https://open.spotify.com/album/36LTDN6qTCgfo6ap6Bfqou
+            href: https://api.spotify.com/v1/albums/36LTDN6qTCgfo6ap6Bfqou
+            id: 36LTDN6qTCgfo6ap6Bfqou
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273a97a49b6230b59d891838a8b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02a97a49b6230b59d891838a8b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851a97a49b6230b59d891838a8b
+            is_playable: true
+            name: The Best of the Grateful Dead
+            release_date: '2015-03-27'
+            release_date_precision: day
+            total_tracks: 32
+            type: album
+            uri: spotify:album:36LTDN6qTCgfo6ap6Bfqou
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
+            href: https://api.spotify.com/v1/artists/4TMHGUX5WI7OOm53PqSDAT
+            id: 4TMHGUX5WI7OOm53PqSDAT
+            name: Grateful Dead
+            type: artist
+            uri: spotify:artist:4TMHGUX5WI7OOm53PqSDAT
+          disc_number: 2
+          duration_ms: 350213
+          explicit: false
+          external_ids:
+            isrc: USRH11500267
+          external_urls:
+            spotify: https://open.spotify.com/track/6qWOXsnLnhqeRywIfMPQUz
+          href: https://api.spotify.com/v1/tracks/6qWOXsnLnhqeRywIfMPQUz
+          id: 6qWOXsnLnhqeRywIfMPQUz
+          is_local: false
+          is_playable: true
+          name: Touch of Grey - 2015 Remaster
+          track_number: 7
+          type: track
+          uri: spotify:track:6qWOXsnLnhqeRywIfMPQUz
+    isrc: USRH11500267

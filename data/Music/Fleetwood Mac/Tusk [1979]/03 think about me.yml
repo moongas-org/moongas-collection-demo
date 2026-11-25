@@ -118,3 +118,72 @@ mediaFileData:
   year: 1979
   duration: 164.336325
   modTime: 2024-09-22 00:36:49.889827+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/7Bn3U4FNdKVkJKslUCyvqD
+    trackId: 7Bn3U4FNdKVkJKslUCyvqD
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSWB22600027&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+              href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+              id: 08GQAI4eElDnROBrJRGE0X
+              name: Fleetwood Mac
+              type: artist
+              uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+            external_urls:
+              spotify: https://open.spotify.com/album/5YzOUVdLMrItgSP3lMxReH
+            href: https://api.spotify.com/v1/albums/5YzOUVdLMrItgSP3lMxReH
+            id: 5YzOUVdLMrItgSP3lMxReH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27318c0cb6bcd7bfecee189242f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0218c0cb6bcd7bfecee189242f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485118c0cb6bcd7bfecee189242f
+            is_playable: true
+            name: Greatest Hits (Deluxe Edition)
+            release_date: '1988-11-22'
+            release_date_precision: day
+            total_tracks: 23
+            type: album
+            uri: spotify:album:5YzOUVdLMrItgSP3lMxReH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+            href: https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X
+            id: 08GQAI4eElDnROBrJRGE0X
+            name: Fleetwood Mac
+            type: artist
+            uri: spotify:artist:08GQAI4eElDnROBrJRGE0X
+          disc_number: 2
+          duration_ms: 161240
+          explicit: false
+          external_ids:
+            isrc: USWB22600027
+          external_urls:
+            spotify: https://open.spotify.com/track/7Bn3U4FNdKVkJKslUCyvqD
+          href: https://api.spotify.com/v1/tracks/7Bn3U4FNdKVkJKslUCyvqD
+          id: 7Bn3U4FNdKVkJKslUCyvqD
+          is_local: false
+          is_playable: true
+          name: Think About Me
+          track_number: 7
+          type: track
+          uri: spotify:track:7Bn3U4FNdKVkJKslUCyvqD
+    isrc: USWB22600027

@@ -77,3 +77,126 @@ mediaFileData:
   year: 1997
   duration: 226.704
   modTime: 2024-09-11 22:48:59.216314+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/74sK7gDKdknblT6IHg6LPW
+    trackId: 74sK7gDKdknblT6IHg6LPW
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSM19604400&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+              href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+              id: 3NRFinRTEqUCfaTTZmk8ek
+              name: Savage Garden
+              type: artist
+              uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+            external_urls:
+              spotify: https://open.spotify.com/album/14JCVMAbCs1MlE5n59m0t6
+            href: https://api.spotify.com/v1/albums/14JCVMAbCs1MlE5n59m0t6
+            id: 14JCVMAbCs1MlE5n59m0t6
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273cbea6691b0951f6acd3c73b4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02cbea6691b0951f6acd3c73b4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851cbea6691b0951f6acd3c73b4
+            is_playable: true
+            name: Savage Garden - The Singles
+            release_date: '2015-06-12'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:14JCVMAbCs1MlE5n59m0t6
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+            href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+            id: 3NRFinRTEqUCfaTTZmk8ek
+            name: Savage Garden
+            type: artist
+            uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+          disc_number: 1
+          duration_ms: 229481
+          explicit: false
+          external_ids:
+            isrc: USSM19604400
+          external_urls:
+            spotify: https://open.spotify.com/track/74sK7gDKdknblT6IHg6LPW
+          href: https://api.spotify.com/v1/tracks/74sK7gDKdknblT6IHg6LPW
+          id: 74sK7gDKdknblT6IHg6LPW
+          is_local: false
+          is_playable: true
+          name: Tears of Pearls
+          track_number: 8
+          type: track
+          uri: spotify:track:74sK7gDKdknblT6IHg6LPW
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+              href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+              id: 3NRFinRTEqUCfaTTZmk8ek
+              name: Savage Garden
+              type: artist
+              uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+            external_urls:
+              spotify: https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4
+            href: https://api.spotify.com/v1/albums/64peTvbTLBDeSBu0GsCRE4
+            id: 64peTvbTLBDeSBu0GsCRE4
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27384fef39a9a8293c86796599f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0284fef39a9a8293c86796599f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485184fef39a9a8293c86796599f
+            is_playable: true
+            name: Savage Garden
+            release_date: '1997-03-04'
+            release_date_precision: day
+            total_tracks: 11
+            type: album
+            uri: spotify:album:64peTvbTLBDeSBu0GsCRE4
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek
+            href: https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek
+            id: 3NRFinRTEqUCfaTTZmk8ek
+            name: Savage Garden
+            type: artist
+            uri: spotify:artist:3NRFinRTEqUCfaTTZmk8ek
+          disc_number: 1
+          duration_ms: 226666
+          explicit: false
+          external_ids:
+            isrc: USSM19604400
+          external_urls:
+            spotify: https://open.spotify.com/track/1ObHcON82RovghoAuS7DRq
+          href: https://api.spotify.com/v1/tracks/1ObHcON82RovghoAuS7DRq
+          id: 1ObHcON82RovghoAuS7DRq
+          is_local: false
+          is_playable: true
+          name: Tears of Pearls
+          track_number: 4
+          type: track
+          uri: spotify:track:1ObHcON82RovghoAuS7DRq
+    isrc: USSM19604400

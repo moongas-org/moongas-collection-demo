@@ -319,3 +319,180 @@ mediaFileData:
   year: 1958
   duration: 131.64
   modTime: 2023-04-12 20:22:23.570000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/3IIzhNo8bRmS1byZqXRloR
+    trackId: 3IIzhNo8bRmS1byZqXRloR
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSSE60414217&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 3
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF
+              href: https://api.spotify.com/v1/artists/7gi3jmwpUpNWdswT8eEprF
+              id: 7gi3jmwpUpNWdswT8eEprF
+              name: Conway Twitty
+              type: artist
+              uri: spotify:artist:7gi3jmwpUpNWdswT8eEprF
+            external_urls:
+              spotify: https://open.spotify.com/album/1F0PzOna4RjUgvqWVNroB7
+            href: https://api.spotify.com/v1/albums/1F0PzOna4RjUgvqWVNroB7
+            id: 1F0PzOna4RjUgvqWVNroB7
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ed16c828dd822267e92a9c2f
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ed16c828dd822267e92a9c2f
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ed16c828dd822267e92a9c2f
+            is_playable: true
+            name: American Country Legend
+            release_date: '2024-05-03'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:1F0PzOna4RjUgvqWVNroB7
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF
+            href: https://api.spotify.com/v1/artists/7gi3jmwpUpNWdswT8eEprF
+            id: 7gi3jmwpUpNWdswT8eEprF
+            name: Conway Twitty
+            type: artist
+            uri: spotify:artist:7gi3jmwpUpNWdswT8eEprF
+          disc_number: 1
+          duration_ms: 150133
+          explicit: false
+          external_ids:
+            isrc: USSE60414217
+          external_urls:
+            spotify: https://open.spotify.com/track/3IIzhNo8bRmS1byZqXRloR
+          href: https://api.spotify.com/v1/tracks/3IIzhNo8bRmS1byZqXRloR
+          id: 3IIzhNo8bRmS1byZqXRloR
+          is_local: false
+          is_playable: true
+          name: It's Only Make Believe
+          track_number: 1
+          type: track
+          uri: spotify:track:3IIzhNo8bRmS1byZqXRloR
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/4pg867hgh6WOJaCplDttIf
+            href: https://api.spotify.com/v1/albums/4pg867hgh6WOJaCplDttIf
+            id: 4pg867hgh6WOJaCplDttIf
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273ae51c1c3ae252ddcd7670685
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02ae51c1c3ae252ddcd7670685
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851ae51c1c3ae252ddcd7670685
+            is_playable: true
+            name: 'Oldies: Doo Wop'
+            release_date: '2014-12-08'
+            release_date_precision: day
+            total_tracks: 20
+            type: album
+            uri: spotify:album:4pg867hgh6WOJaCplDttIf
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF
+            href: https://api.spotify.com/v1/artists/7gi3jmwpUpNWdswT8eEprF
+            id: 7gi3jmwpUpNWdswT8eEprF
+            name: Conway Twitty
+            type: artist
+            uri: spotify:artist:7gi3jmwpUpNWdswT8eEprF
+          disc_number: 1
+          duration_ms: 146175
+          explicit: false
+          external_ids:
+            isrc: USSE60414217
+          external_urls:
+            spotify: https://open.spotify.com/track/5naWbhGcu2YbhueI3AqUG7
+          href: https://api.spotify.com/v1/tracks/5naWbhGcu2YbhueI3AqUG7
+          id: 5naWbhGcu2YbhueI3AqUG7
+          is_local: false
+          is_playable: true
+          name: It's Only Make Believe
+          track_number: 12
+          type: track
+          uri: spotify:track:5naWbhGcu2YbhueI3AqUG7
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF
+              href: https://api.spotify.com/v1/artists/7gi3jmwpUpNWdswT8eEprF
+              id: 7gi3jmwpUpNWdswT8eEprF
+              name: Conway Twitty
+              type: artist
+              uri: spotify:artist:7gi3jmwpUpNWdswT8eEprF
+            external_urls:
+              spotify: https://open.spotify.com/album/2WziGWXkLeuhDXtiRyKdj1
+            href: https://api.spotify.com/v1/albums/2WziGWXkLeuhDXtiRyKdj1
+            id: 2WziGWXkLeuhDXtiRyKdj1
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e4479c9430f267cb8b3cc45b
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e4479c9430f267cb8b3cc45b
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e4479c9430f267cb8b3cc45b
+            is_playable: true
+            name: Greatest Hits - Finest Performances
+            release_date: '1995-01-01'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:2WziGWXkLeuhDXtiRyKdj1
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF
+            href: https://api.spotify.com/v1/artists/7gi3jmwpUpNWdswT8eEprF
+            id: 7gi3jmwpUpNWdswT8eEprF
+            name: Conway Twitty
+            type: artist
+            uri: spotify:artist:7gi3jmwpUpNWdswT8eEprF
+          disc_number: 1
+          duration_ms: 150133
+          explicit: false
+          external_ids:
+            isrc: USSE60414217
+          external_urls:
+            spotify: https://open.spotify.com/track/6PgjYsefa3awItQa7SmMUi
+          href: https://api.spotify.com/v1/tracks/6PgjYsefa3awItQa7SmMUi
+          id: 6PgjYsefa3awItQa7SmMUi
+          is_local: false
+          is_playable: true
+          name: It's Only Make Believe
+          track_number: 7
+          type: track
+          uri: spotify:track:6PgjYsefa3awItQa7SmMUi
+    isrc: USSE60414217

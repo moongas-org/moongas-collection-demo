@@ -45,3 +45,295 @@ mediaFileData:
   year: 2020
   duration: 237.84
   modTime: 2023-03-26 18:52:43.330000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4ubae7aWoUq25ctjDcBu3L
+    trackId: 4ubae7aWoUq25ctjDcBu3L
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AAUUM71900956&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AAUUM71900956&type=track
+        offset: 0
+        previous:
+        total: 51
+        items:
+        - album:
+            album_type: single
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+              href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+              id: 5INjqkS1o8h1imAzPqGZBb
+              name: Tame Impala
+              type: artist
+              uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR
+              href: https://api.spotify.com/v1/artists/6LEeAFiJF8OuPx747e1wxR
+              id: 6LEeAFiJF8OuPx747e1wxR
+              name: Blood Orange
+              type: artist
+              uri: spotify:artist:6LEeAFiJF8OuPx747e1wxR
+            external_urls:
+              spotify: https://open.spotify.com/album/2twIktE58aJg5kF95rTpch
+            href: https://api.spotify.com/v1/albums/2twIktE58aJg5kF95rTpch
+            id: 2twIktE58aJg5kF95rTpch
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273eeb811f27fc8b8d6d6b845d7
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02eeb811f27fc8b8d6d6b845d7
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851eeb811f27fc8b8d6d6b845d7
+            is_playable: true
+            name: Borderline (Blood Orange Remix)
+            release_date: '2020-09-25'
+            release_date_precision: day
+            total_tracks: 2
+            type: album
+            uri: spotify:album:2twIktE58aJg5kF95rTpch
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+            href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+            id: 5INjqkS1o8h1imAzPqGZBb
+            name: Tame Impala
+            type: artist
+            uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+          disc_number: 1
+          duration_ms: 237800
+          explicit: false
+          external_ids:
+            isrc: AUUM71900956
+          external_urls:
+            spotify: https://open.spotify.com/track/4ubae7aWoUq25ctjDcBu3L
+          href: https://api.spotify.com/v1/tracks/4ubae7aWoUq25ctjDcBu3L
+          id: 4ubae7aWoUq25ctjDcBu3L
+          is_local: false
+          is_playable: true
+          name: Borderline
+          track_number: 2
+          type: track
+          uri: spotify:track:4ubae7aWoUq25ctjDcBu3L
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0T2ewdIhbjv0nskdBpzkob
+            href: https://api.spotify.com/v1/albums/0T2ewdIhbjv0nskdBpzkob
+            id: 0T2ewdIhbjv0nskdBpzkob
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273242b8c2650d7e57d5dc8c15a
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02242b8c2650d7e57d5dc8c15a
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851242b8c2650d7e57d5dc8c15a
+            is_playable: true
+            name: HELLO SPRING 2023
+            release_date: '2023-03-14'
+            release_date_precision: day
+            total_tracks: 24
+            type: album
+            uri: spotify:album:0T2ewdIhbjv0nskdBpzkob
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+            href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+            id: 5INjqkS1o8h1imAzPqGZBb
+            name: Tame Impala
+            type: artist
+            uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+          disc_number: 1
+          duration_ms: 237800
+          explicit: false
+          external_ids:
+            isrc: AUUM71900956
+          external_urls:
+            spotify: https://open.spotify.com/track/00lg80XYfG3rGd8OiGHSiR
+          href: https://api.spotify.com/v1/tracks/00lg80XYfG3rGd8OiGHSiR
+          id: 00lg80XYfG3rGd8OiGHSiR
+          is_local: false
+          is_playable: true
+          name: Borderline
+          track_number: 8
+          type: track
+          uri: spotify:track:00lg80XYfG3rGd8OiGHSiR
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+              href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+              id: 5INjqkS1o8h1imAzPqGZBb
+              name: Tame Impala
+              type: artist
+              uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+            external_urls:
+              spotify: https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL
+            href: https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL
+            id: 31qVWUdRrlb8thMvts0yYL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49
+            is_playable: true
+            name: The Slow Rush
+            release_date: '2020-02-14'
+            release_date_precision: day
+            total_tracks: 12
+            type: album
+            uri: spotify:album:31qVWUdRrlb8thMvts0yYL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+            href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+            id: 5INjqkS1o8h1imAzPqGZBb
+            name: Tame Impala
+            type: artist
+            uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+          disc_number: 1
+          duration_ms: 237800
+          explicit: false
+          external_ids:
+            isrc: AUUM71900956
+          external_urls:
+            spotify: https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr
+          href: https://api.spotify.com/v1/tracks/5hM5arv9KDbCHS0k9uqwjr
+          id: 5hM5arv9KDbCHS0k9uqwjr
+          is_local: false
+          is_playable: true
+          name: Borderline
+          track_number: 3
+          type: track
+          uri: spotify:track:5hM5arv9KDbCHS0k9uqwjr
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3qHefx6WxCvkWdEeCiNJwm
+            href: https://api.spotify.com/v1/albums/3qHefx6WxCvkWdEeCiNJwm
+            id: 3qHefx6WxCvkWdEeCiNJwm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273dc992db74c8c4bf589a22264
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02dc992db74c8c4bf589a22264
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851dc992db74c8c4bf589a22264
+            is_playable: true
+            name: Campfire Vibes
+            release_date: '2025-05-02'
+            release_date_precision: day
+            total_tracks: 29
+            type: album
+            uri: spotify:album:3qHefx6WxCvkWdEeCiNJwm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+            href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+            id: 5INjqkS1o8h1imAzPqGZBb
+            name: Tame Impala
+            type: artist
+            uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+          disc_number: 1
+          duration_ms: 237800
+          explicit: false
+          external_ids:
+            isrc: AUUM71900956
+          external_urls:
+            spotify: https://open.spotify.com/track/4aZeSUcm0wgXPeHMsnzd59
+          href: https://api.spotify.com/v1/tracks/4aZeSUcm0wgXPeHMsnzd59
+          id: 4aZeSUcm0wgXPeHMsnzd59
+          is_local: false
+          is_playable: true
+          name: Borderline
+          track_number: 21
+          type: track
+          uri: spotify:track:4aZeSUcm0wgXPeHMsnzd59
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/3dgyTMluRpGN9kwoakowwC
+            href: https://api.spotify.com/v1/albums/3dgyTMluRpGN9kwoakowwC
+            id: 3dgyTMluRpGN9kwoakowwC
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27337c6275ae816555e548b33b5
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0237c6275ae816555e548b33b5
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485137c6275ae816555e548b33b5
+            is_playable: true
+            name: Beachbar - Strandmusik
+            release_date: '2022-03-08'
+            release_date_precision: day
+            total_tracks: 35
+            type: album
+            uri: spotify:album:3dgyTMluRpGN9kwoakowwC
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+            href: https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb
+            id: 5INjqkS1o8h1imAzPqGZBb
+            name: Tame Impala
+            type: artist
+            uri: spotify:artist:5INjqkS1o8h1imAzPqGZBb
+          disc_number: 1
+          duration_ms: 237800
+          explicit: false
+          external_ids:
+            isrc: AUUM71900956
+          external_urls:
+            spotify: https://open.spotify.com/track/2jlZfIiVJ3VpUZyWFdHQPv
+          href: https://api.spotify.com/v1/tracks/2jlZfIiVJ3VpUZyWFdHQPv
+          id: 2jlZfIiVJ3VpUZyWFdHQPv
+          is_local: false
+          is_playable: true
+          name: Borderline
+          track_number: 32
+          type: track
+          uri: spotify:track:2jlZfIiVJ3VpUZyWFdHQPv
+    isrc: AUUM71900956

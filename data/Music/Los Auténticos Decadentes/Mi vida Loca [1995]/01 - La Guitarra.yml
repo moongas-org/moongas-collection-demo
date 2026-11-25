@@ -54,3 +54,288 @@ mediaFileData:
   year: 1995
   duration: 219.8726530612245
   modTime: 2026-02-08 11:26:08.971983+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/5JpyWnbLnktv9dV0826GX5
+    trackId: 5JpyWnbLnktv9dV0826GX5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AARF039501192&type=track
+        limit: 5
+        next: https://api.spotify.com/v1/search?offset=5&limit=5&query=isrc%3AARF039501192&type=track
+        offset: 0
+        previous:
+        total: 7
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj
+              href: https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj
+              id: 3HrbmsYpKjWH1lzhad7alj
+              name: Los Auténticos Decadentes
+              type: artist
+              uri: spotify:artist:3HrbmsYpKjWH1lzhad7alj
+            external_urls:
+              spotify: https://open.spotify.com/album/1xCEQNLl8W0wzJDcjQ7nND
+            href: https://api.spotify.com/v1/albums/1xCEQNLl8W0wzJDcjQ7nND
+            id: 1xCEQNLl8W0wzJDcjQ7nND
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273e8e95ba594f4b0b3880aa7ae
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02e8e95ba594f4b0b3880aa7ae
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851e8e95ba594f4b0b3880aa7ae
+            is_playable: true
+            name: Rock Latino
+            release_date: '2012-06-26'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:1xCEQNLl8W0wzJDcjQ7nND
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj
+            href: https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj
+            id: 3HrbmsYpKjWH1lzhad7alj
+            name: Los Auténticos Decadentes
+            type: artist
+            uri: spotify:artist:3HrbmsYpKjWH1lzhad7alj
+          disc_number: 1
+          duration_ms: 218493
+          explicit: false
+          external_ids:
+            isrc: ARF039501192
+          external_urls:
+            spotify: https://open.spotify.com/track/5JpyWnbLnktv9dV0826GX5
+          href: https://api.spotify.com/v1/tracks/5JpyWnbLnktv9dV0826GX5
+          id: 5JpyWnbLnktv9dV0826GX5
+          is_local: false
+          is_playable: true
+          name: La Guitarra
+          track_number: 1
+          type: track
+          uri: spotify:track:5JpyWnbLnktv9dV0826GX5
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj
+              href: https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj
+              id: 3HrbmsYpKjWH1lzhad7alj
+              name: Los Auténticos Decadentes
+              type: artist
+              uri: spotify:artist:3HrbmsYpKjWH1lzhad7alj
+            external_urls:
+              spotify: https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5
+            href: https://api.spotify.com/v1/albums/2wV2nY2P5vHYiUNTWWzXj5
+            id: 2wV2nY2P5vHYiUNTWWzXj5
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27307281a095262c35ef36daef3
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0207281a095262c35ef36daef3
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485107281a095262c35ef36daef3
+            is_playable: true
+            name: Mi Vida Loca
+            release_date: '1995-08-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:2wV2nY2P5vHYiUNTWWzXj5
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj
+            href: https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj
+            id: 3HrbmsYpKjWH1lzhad7alj
+            name: Los Auténticos Decadentes
+            type: artist
+            uri: spotify:artist:3HrbmsYpKjWH1lzhad7alj
+          disc_number: 1
+          duration_ms: 218493
+          explicit: false
+          external_ids:
+            isrc: ARF039501192
+          external_urls:
+            spotify: https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO
+          href: https://api.spotify.com/v1/tracks/6aPoVnA9UDncMyKgTAicsO
+          id: 6aPoVnA9UDncMyKgTAicsO
+          is_local: false
+          is_playable: true
+          name: La Guitarra
+          track_number: 1
+          type: track
+          uri: spotify:track:6aPoVnA9UDncMyKgTAicsO
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/5dTbJ3wiGOBbTRj1J9d5MX
+            href: https://api.spotify.com/v1/albums/5dTbJ3wiGOBbTRj1J9d5MX
+            id: 5dTbJ3wiGOBbTRj1J9d5MX
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273da8adf9614c29acd7480cfac
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02da8adf9614c29acd7480cfac
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851da8adf9614c29acd7480cfac
+            is_playable: true
+            name: Ska 'n dalo
+            release_date: '2004-08-24'
+            release_date_precision: day
+            total_tracks: 15
+            type: album
+            uri: spotify:album:5dTbJ3wiGOBbTRj1J9d5MX
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj
+            href: https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj
+            id: 3HrbmsYpKjWH1lzhad7alj
+            name: Los Auténticos Decadentes
+            type: artist
+            uri: spotify:artist:3HrbmsYpKjWH1lzhad7alj
+          disc_number: 1
+          duration_ms: 217840
+          explicit: false
+          external_ids:
+            isrc: ARF039501192
+          external_urls:
+            spotify: https://open.spotify.com/track/5HE8RFfX05gkWJMfgPztpI
+          href: https://api.spotify.com/v1/tracks/5HE8RFfX05gkWJMfgPztpI
+          id: 5HE8RFfX05gkWJMfgPztpI
+          is_local: false
+          is_playable: true
+          name: La Guitarra
+          track_number: 6
+          type: track
+          uri: spotify:track:5HE8RFfX05gkWJMfgPztpI
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/0vZ4i2dCasZpWf4Jt0imNM
+            href: https://api.spotify.com/v1/albums/0vZ4i2dCasZpWf4Jt0imNM
+            id: 0vZ4i2dCasZpWf4Jt0imNM
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2738ab9c6149cd4f8f80ed0d873
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e028ab9c6149cd4f8f80ed0d873
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048518ab9c6149cd4f8f80ed0d873
+            is_playable: true
+            name: ROCK 80s Y 90s EN ESPAÑOL
+            release_date: '2025-02-03'
+            release_date_precision: day
+            total_tracks: 31
+            type: album
+            uri: spotify:album:0vZ4i2dCasZpWf4Jt0imNM
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj
+            href: https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj
+            id: 3HrbmsYpKjWH1lzhad7alj
+            name: Los Auténticos Decadentes
+            type: artist
+            uri: spotify:artist:3HrbmsYpKjWH1lzhad7alj
+          disc_number: 1
+          duration_ms: 218493
+          explicit: false
+          external_ids:
+            isrc: ARF039501192
+          external_urls:
+            spotify: https://open.spotify.com/track/42kUXrLtZqwPnF66auhoyV
+          href: https://api.spotify.com/v1/tracks/42kUXrLtZqwPnF66auhoyV
+          id: 42kUXrLtZqwPnF66auhoyV
+          is_local: false
+          is_playable: true
+          name: La Guitarra
+          track_number: 11
+          type: track
+          uri: spotify:track:42kUXrLtZqwPnF66auhoyV
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/1EGgFPVygTlqdd5LqD3kiL
+            href: https://api.spotify.com/v1/albums/1EGgFPVygTlqdd5LqD3kiL
+            id: 1EGgFPVygTlqdd5LqD3kiL
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273f14696c18f13422e2770e0df
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02f14696c18f13422e2770e0df
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851f14696c18f13422e2770e0df
+            is_playable: true
+            name: 4 Décadas de Rock en Tu Idioma
+            release_date: '2014-07-15'
+            release_date_precision: day
+            total_tracks: 48
+            type: album
+            uri: spotify:album:1EGgFPVygTlqdd5LqD3kiL
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj
+            href: https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj
+            id: 3HrbmsYpKjWH1lzhad7alj
+            name: Los Auténticos Decadentes
+            type: artist
+            uri: spotify:artist:3HrbmsYpKjWH1lzhad7alj
+          disc_number: 1
+          duration_ms: 220000
+          explicit: false
+          external_ids:
+            isrc: ARF039501192
+          external_urls:
+            spotify: https://open.spotify.com/track/4FWrnxb7AA7ciVlGzGWfRB
+          href: https://api.spotify.com/v1/tracks/4FWrnxb7AA7ciVlGzGWfRB
+          id: 4FWrnxb7AA7ciVlGzGWfRB
+          is_local: false
+          is_playable: true
+          name: La Guitarra
+          track_number: 13
+          type: track
+          uri: spotify:track:4FWrnxb7AA7ciVlGzGWfRB
+    isrc: ARF039501192

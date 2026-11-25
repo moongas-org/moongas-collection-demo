@@ -41,3 +41,126 @@ mediaFileData:
   year: 1974
   duration: 662.3347083333333
   modTime: 2024-04-07 16:38:38.923838+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6NAoJX6mU3JkuECCr0ZTOP
+    trackId: 6NAoJX6mU3JkuECCr0ZTOP
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AGBUM71807140&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl
+              href: https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl
+              id: 1BGN1IdyiSR0ZYrkoKNchl
+              name: Tangerine Dream
+              type: artist
+              uri: spotify:artist:1BGN1IdyiSR0ZYrkoKNchl
+            external_urls:
+              spotify: https://open.spotify.com/album/0Xcb5Nz1mDDdNxlxfMpSJH
+            href: https://api.spotify.com/v1/albums/0Xcb5Nz1mDDdNxlxfMpSJH
+            id: 0Xcb5Nz1mDDdNxlxfMpSJH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27388fd3dea562d9580ba1648d2
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0288fd3dea562d9580ba1648d2
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485188fd3dea562d9580ba1648d2
+            is_playable: true
+            name: Oedipus Tyrannus
+            release_date: '2019-06-14'
+            release_date_precision: day
+            total_tracks: 6
+            type: album
+            uri: spotify:album:0Xcb5Nz1mDDdNxlxfMpSJH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl
+            href: https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl
+            id: 1BGN1IdyiSR0ZYrkoKNchl
+            name: Tangerine Dream
+            type: artist
+            uri: spotify:artist:1BGN1IdyiSR0ZYrkoKNchl
+          disc_number: 1
+          duration_ms: 662278
+          explicit: false
+          external_ids:
+            isrc: GBUM71807140
+          external_urls:
+            spotify: https://open.spotify.com/track/6NAoJX6mU3JkuECCr0ZTOP
+          href: https://api.spotify.com/v1/tracks/6NAoJX6mU3JkuECCr0ZTOP
+          id: 6NAoJX6mU3JkuECCr0ZTOP
+          is_local: false
+          is_playable: true
+          name: Overture
+          track_number: 1
+          type: track
+          uri: spotify:track:6NAoJX6mU3JkuECCr0ZTOP
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl
+              href: https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl
+              id: 1BGN1IdyiSR0ZYrkoKNchl
+              name: Tangerine Dream
+              type: artist
+              uri: spotify:artist:1BGN1IdyiSR0ZYrkoKNchl
+            external_urls:
+              spotify: https://open.spotify.com/album/6KJBqSxxDNRlePcILEDWvK
+            href: https://api.spotify.com/v1/albums/6KJBqSxxDNRlePcILEDWvK
+            id: 6KJBqSxxDNRlePcILEDWvK
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2732f3e4094c9513fbe8c8951a6
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e022f3e4094c9513fbe8c8951a6
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048512f3e4094c9513fbe8c8951a6
+            is_playable: true
+            name: In Search Of Hades - The Virgin Recordings 1973 – 1979
+            release_date: '2019-06-14'
+            release_date_precision: day
+            total_tracks: 60
+            type: album
+            uri: spotify:album:6KJBqSxxDNRlePcILEDWvK
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl
+            href: https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl
+            id: 1BGN1IdyiSR0ZYrkoKNchl
+            name: Tangerine Dream
+            type: artist
+            uri: spotify:artist:1BGN1IdyiSR0ZYrkoKNchl
+          disc_number: 6
+          duration_ms: 662278
+          explicit: false
+          external_ids:
+            isrc: GBUM71807140
+          external_urls:
+            spotify: https://open.spotify.com/track/3N60IAAmnBUtR7idnhsZZC
+          href: https://api.spotify.com/v1/tracks/3N60IAAmnBUtR7idnhsZZC
+          id: 3N60IAAmnBUtR7idnhsZZC
+          is_local: false
+          is_playable: true
+          name: Overture
+          track_number: 1
+          type: track
+          uri: spotify:track:3N60IAAmnBUtR7idnhsZZC
+    isrc: GBUM71807140

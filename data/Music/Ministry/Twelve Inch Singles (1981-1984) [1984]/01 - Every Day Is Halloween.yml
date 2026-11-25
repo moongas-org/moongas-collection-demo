@@ -50,3 +50,72 @@ mediaFileData:
   year: 1984
   duration: 396.8261224489796
   modTime: 2025-11-14 19:26:51.554913+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/443b23UhrdT4W7S2VXBknF
+    trackId: 443b23UhrdT4W7S2VXBknF
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSA371425864&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6Ots560rd3jCHMjqWQlkIl
+            href: https://api.spotify.com/v1/albums/6Ots560rd3jCHMjqWQlkIl
+            id: 6Ots560rd3jCHMjqWQlkIl
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27391ec2c90f279771142bcd20c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0291ec2c90f279771142bcd20c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485191ec2c90f279771142bcd20c
+            is_playable: true
+            name: The Dark Box - the Ultimate Goth, Wave & Industrial Collection 1980-2011
+            release_date: '2011-10-11'
+            release_date_precision: day
+            total_tracks: 55
+            type: album
+            uri: spotify:album:6Ots560rd3jCHMjqWQlkIl
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt
+            href: https://api.spotify.com/v1/artists/1DXylZlWbVvlckNqwvjTEt
+            id: 1DXylZlWbVvlckNqwvjTEt
+            name: Ministry
+            type: artist
+            uri: spotify:artist:1DXylZlWbVvlckNqwvjTEt
+          disc_number: 1
+          duration_ms: 381506
+          explicit: false
+          external_ids:
+            isrc: USA371425864
+          external_urls:
+            spotify: https://open.spotify.com/track/443b23UhrdT4W7S2VXBknF
+          href: https://api.spotify.com/v1/tracks/443b23UhrdT4W7S2VXBknF
+          id: 443b23UhrdT4W7S2VXBknF
+          is_local: false
+          is_playable: true
+          name: Every Day Is Halloween
+          track_number: 15
+          type: track
+          uri: spotify:track:443b23UhrdT4W7S2VXBknF
+    isrc: USA371425864

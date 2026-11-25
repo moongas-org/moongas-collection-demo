@@ -38,3 +38,126 @@ mediaFileData:
   year: 1983
   duration: 250.35755102040815
   modTime: 2023-08-13 21:25:42+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/4zCdhmkTn1oiHenxiEQt75
+    trackId: 4zCdhmkTn1oiHenxiEQt75
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFP71869807&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K
+              href: https://api.spotify.com/v1/artists/54NqjhP2rT524Mi2GicG4K
+              id: 54NqjhP2rT524Mi2GicG4K
+              name: X
+              type: artist
+              uri: spotify:artist:54NqjhP2rT524Mi2GicG4K
+            external_urls:
+              spotify: https://open.spotify.com/album/0G6At1EoViTNruemWmWFFO
+            href: https://api.spotify.com/v1/albums/0G6At1EoViTNruemWmWFFO
+            id: 0G6At1EoViTNruemWmWFFO
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27373f211be76bb5256df9c715d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0273f211be76bb5256df9c715d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485173f211be76bb5256df9c715d
+            is_playable: true
+            name: More Fun in the New World (2019 Remaster)
+            release_date: '1983-09-06'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0G6At1EoViTNruemWmWFFO
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K
+            href: https://api.spotify.com/v1/artists/54NqjhP2rT524Mi2GicG4K
+            id: 54NqjhP2rT524Mi2GicG4K
+            name: X
+            type: artist
+            uri: spotify:artist:54NqjhP2rT524Mi2GicG4K
+          disc_number: 1
+          duration_ms: 250266
+          explicit: false
+          external_ids:
+            isrc: USFP71869807
+          external_urls:
+            spotify: https://open.spotify.com/track/4zCdhmkTn1oiHenxiEQt75
+          href: https://api.spotify.com/v1/tracks/4zCdhmkTn1oiHenxiEQt75
+          id: 4zCdhmkTn1oiHenxiEQt75
+          is_local: false
+          is_playable: true
+          name: I Must Not Think Bad Thoughts
+          track_number: 7
+          type: track
+          uri: spotify:track:4zCdhmkTn1oiHenxiEQt75
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K
+              href: https://api.spotify.com/v1/artists/54NqjhP2rT524Mi2GicG4K
+              id: 54NqjhP2rT524Mi2GicG4K
+              name: X
+              type: artist
+              uri: spotify:artist:54NqjhP2rT524Mi2GicG4K
+            external_urls:
+              spotify: https://open.spotify.com/album/0av4KiOIEjud5VyXf3yyG0
+            href: https://api.spotify.com/v1/albums/0av4KiOIEjud5VyXf3yyG0
+            id: 0av4KiOIEjud5VyXf3yyG0
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2735809da220e5f01e78ba9db92
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e025809da220e5f01e78ba9db92
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048515809da220e5f01e78ba9db92
+            is_playable: true
+            name: More Fun in the New World
+            release_date: '1983-09-06'
+            release_date_precision: day
+            total_tracks: 13
+            type: album
+            uri: spotify:album:0av4KiOIEjud5VyXf3yyG0
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K
+            href: https://api.spotify.com/v1/artists/54NqjhP2rT524Mi2GicG4K
+            id: 54NqjhP2rT524Mi2GicG4K
+            name: X
+            type: artist
+            uri: spotify:artist:54NqjhP2rT524Mi2GicG4K
+          disc_number: 1
+          duration_ms: 255066
+          explicit: false
+          external_ids:
+            isrc: USFP71869807
+          external_urls:
+            spotify: https://open.spotify.com/track/1NcImur5QmVn2b0jeXHIvj
+          href: https://api.spotify.com/v1/tracks/1NcImur5QmVn2b0jeXHIvj
+          id: 1NcImur5QmVn2b0jeXHIvj
+          is_local: false
+          is_playable: true
+          name: I Must Not Think Bad Thoughts
+          track_number: 7
+          type: track
+          uri: spotify:track:1NcImur5QmVn2b0jeXHIvj
+    isrc: USFP71869807

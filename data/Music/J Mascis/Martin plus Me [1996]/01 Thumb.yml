@@ -34,3 +34,126 @@ mediaFileData:
   year: 1996
   duration: 190.82983333333334
   modTime: 2022-06-06 21:50:52.510000+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6wkYE7SjHXUfl6239Pf9ao
+    trackId: 6wkYE7SjHXUfl6239Pf9ao
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSRE19500094&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx
+              href: https://api.spotify.com/v1/artists/1PokjXeIq2zVosXbTEaNlx
+              id: 1PokjXeIq2zVosXbTEaNlx
+              name: J Mascis
+              type: artist
+              uri: spotify:artist:1PokjXeIq2zVosXbTEaNlx
+            external_urls:
+              spotify: https://open.spotify.com/album/6ovU3MvDziW6DAF187I63c
+            href: https://api.spotify.com/v1/albums/6ovU3MvDziW6DAF187I63c
+            id: 6ovU3MvDziW6DAF187I63c
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2734a1242041ab6fbc9f4e077e4
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e024a1242041ab6fbc9f4e077e4
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048514a1242041ab6fbc9f4e077e4
+            is_playable: true
+            name: Martin + Me
+            release_date: '1996-01-01'
+            release_date_precision: day
+            total_tracks: 14
+            type: album
+            uri: spotify:album:6ovU3MvDziW6DAF187I63c
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx
+            href: https://api.spotify.com/v1/artists/1PokjXeIq2zVosXbTEaNlx
+            id: 1PokjXeIq2zVosXbTEaNlx
+            name: J Mascis
+            type: artist
+            uri: spotify:artist:1PokjXeIq2zVosXbTEaNlx
+          disc_number: 1
+          duration_ms: 190800
+          explicit: false
+          external_ids:
+            isrc: USRE19500094
+          external_urls:
+            spotify: https://open.spotify.com/track/6wkYE7SjHXUfl6239Pf9ao
+          href: https://api.spotify.com/v1/tracks/6wkYE7SjHXUfl6239Pf9ao
+          id: 6wkYE7SjHXUfl6239Pf9ao
+          is_local: false
+          is_playable: true
+          name: Thumb
+          track_number: 1
+          type: track
+          uri: spotify:track:6wkYE7SjHXUfl6239Pf9ao
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx
+              href: https://api.spotify.com/v1/artists/1PokjXeIq2zVosXbTEaNlx
+              id: 1PokjXeIq2zVosXbTEaNlx
+              name: J Mascis
+              type: artist
+              uri: spotify:artist:1PokjXeIq2zVosXbTEaNlx
+            external_urls:
+              spotify: https://open.spotify.com/album/6zFNDfpAeZUwq5146PbvKQ
+            href: https://api.spotify.com/v1/albums/6zFNDfpAeZUwq5146PbvKQ
+            id: 6zFNDfpAeZUwq5146PbvKQ
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b2733b6c13406da1f30aa504ff24
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e023b6c13406da1f30aa504ff24
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d000048513b6c13406da1f30aa504ff24
+            is_playable: true
+            name: Fed Up And Feeling Strange (Live And In Person 1993-1998)
+            release_date: '2021-01-29'
+            release_date_precision: day
+            total_tracks: 41
+            type: album
+            uri: spotify:album:6zFNDfpAeZUwq5146PbvKQ
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx
+            href: https://api.spotify.com/v1/artists/1PokjXeIq2zVosXbTEaNlx
+            id: 1PokjXeIq2zVosXbTEaNlx
+            name: J Mascis
+            type: artist
+            uri: spotify:artist:1PokjXeIq2zVosXbTEaNlx
+          disc_number: 1
+          duration_ms: 190800
+          explicit: false
+          external_ids:
+            isrc: USRE19500094
+          external_urls:
+            spotify: https://open.spotify.com/track/2Ouraq4P2BKHFJezltr5oQ
+          href: https://api.spotify.com/v1/tracks/2Ouraq4P2BKHFJezltr5oQ
+          id: 2Ouraq4P2BKHFJezltr5oQ
+          is_local: false
+          is_playable: true
+          name: Thumb
+          track_number: 13
+          type: track
+          uri: spotify:track:2Ouraq4P2BKHFJezltr5oQ
+    isrc: USRE19500094

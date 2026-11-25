@@ -246,3 +246,72 @@ mediaFileData:
   year: 1978
   duration: 191.97387755102042
   modTime: 2023-07-18 01:29:54+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/6E9NY3X2SFm9CIRtc0f3PK
+    trackId: 6E9NY3X2SFm9CIRtc0f3PK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSUM71505601&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 1
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT
+              href: https://api.spotify.com/v1/artists/6iyQYs37mRXLW04Z9NOnNT
+              id: 6iyQYs37mRXLW04Z9NOnNT
+              name: Maurice Jarre
+              type: artist
+              uri: spotify:artist:6iyQYs37mRXLW04Z9NOnNT
+            external_urls:
+              spotify: https://open.spotify.com/album/48cFkEigDONuQeSLaTlZ9i
+            href: https://api.spotify.com/v1/albums/48cFkEigDONuQeSLaTlZ9i
+            id: 48cFkEigDONuQeSLaTlZ9i
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273b7a1342660a582d7a90aa3fb
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02b7a1342660a582d7a90aa3fb
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851b7a1342660a582d7a90aa3fb
+            is_playable: true
+            name: The Man Who Would Be King (Original Motion Picture Soundtrack)
+            release_date: '1975-01-07'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:48cFkEigDONuQeSLaTlZ9i
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT
+            href: https://api.spotify.com/v1/artists/6iyQYs37mRXLW04Z9NOnNT
+            id: 6iyQYs37mRXLW04Z9NOnNT
+            name: Maurice Jarre
+            type: artist
+            uri: spotify:artist:6iyQYs37mRXLW04Z9NOnNT
+          disc_number: 1
+          duration_ms: 201000
+          explicit: false
+          external_ids:
+            isrc: USUM71505601
+          external_urls:
+            spotify: https://open.spotify.com/track/6E9NY3X2SFm9CIRtc0f3PK
+          href: https://api.spotify.com/v1/tracks/6E9NY3X2SFm9CIRtc0f3PK
+          id: 6E9NY3X2SFm9CIRtc0f3PK
+          is_local: false
+          is_playable: true
+          name: Roxanne
+          track_number: 8
+          type: track
+          uri: spotify:track:6E9NY3X2SFm9CIRtc0f3PK
+    isrc: USUM71505601

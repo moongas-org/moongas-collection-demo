@@ -83,3 +83,126 @@ mediaFileData:
   year: 1970
   duration: 599.56
   modTime: 2025-03-18 01:38:01.589997+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2XhBBZ3vxsR57OwkNn5hQc
+    trackId: 2XhBBZ3vxsR57OwkNn5hQc
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSCA29900417&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI
+              href: https://api.spotify.com/v1/artists/0qEcf3SFlpRcb3lK3f2GZI
+              id: 0qEcf3SFlpRcb3lK3f2GZI
+              name: Grand Funk Railroad
+              type: artist
+              uri: spotify:artist:0qEcf3SFlpRcb3lK3f2GZI
+            external_urls:
+              spotify: https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm
+            href: https://api.spotify.com/v1/albums/0ib2UtSmLGssyqyoY6X8cm
+            id: 0ib2UtSmLGssyqyoY6X8cm
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273c99253f179319936c4109ae9
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02c99253f179319936c4109ae9
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851c99253f179319936c4109ae9
+            is_playable: true
+            name: '30 Years Of Funk: 1969-1999 The Anthology'
+            release_date: '1999-01-01'
+            release_date_precision: day
+            total_tracks: 45
+            type: album
+            uri: spotify:album:0ib2UtSmLGssyqyoY6X8cm
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI
+            href: https://api.spotify.com/v1/artists/0qEcf3SFlpRcb3lK3f2GZI
+            id: 0qEcf3SFlpRcb3lK3f2GZI
+            name: Grand Funk Railroad
+            type: artist
+            uri: spotify:artist:0qEcf3SFlpRcb3lK3f2GZI
+          disc_number: 1
+          duration_ms: 599560
+          explicit: false
+          external_ids:
+            isrc: USCA29900417
+          external_urls:
+            spotify: https://open.spotify.com/track/2XhBBZ3vxsR57OwkNn5hQc
+          href: https://api.spotify.com/v1/tracks/2XhBBZ3vxsR57OwkNn5hQc
+          id: 2XhBBZ3vxsR57OwkNn5hQc
+          is_local: false
+          is_playable: true
+          name: I'm Your Captain/Closer To Home - Remastered
+          track_number: 10
+          type: track
+          uri: spotify:track:2XhBBZ3vxsR57OwkNn5hQc
+        - album:
+            album_type: compilation
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+              href: https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of
+              id: 0LyfQWJT6nXafLPZqxe9Of
+              name: Various Artists
+              type: artist
+              uri: spotify:artist:0LyfQWJT6nXafLPZqxe9Of
+            external_urls:
+              spotify: https://open.spotify.com/album/6MWA2nneaBs5bXaZLgerZG
+            href: https://api.spotify.com/v1/albums/6MWA2nneaBs5bXaZLgerZG
+            id: 6MWA2nneaBs5bXaZLgerZG
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27315857c94c53b6f3ca32d1e1e
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0215857c94c53b6f3ca32d1e1e
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485115857c94c53b6f3ca32d1e1e
+            is_playable: true
+            name: Happy Blues Classics
+            release_date: '2026-04-17'
+            release_date_precision: day
+            total_tracks: 17
+            type: album
+            uri: spotify:album:6MWA2nneaBs5bXaZLgerZG
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI
+            href: https://api.spotify.com/v1/artists/0qEcf3SFlpRcb3lK3f2GZI
+            id: 0qEcf3SFlpRcb3lK3f2GZI
+            name: Grand Funk Railroad
+            type: artist
+            uri: spotify:artist:0qEcf3SFlpRcb3lK3f2GZI
+          disc_number: 1
+          duration_ms: 599560
+          explicit: false
+          external_ids:
+            isrc: USCA29900417
+          external_urls:
+            spotify: https://open.spotify.com/track/5gFNdROuhuVgSInWS8tNwm
+          href: https://api.spotify.com/v1/tracks/5gFNdROuhuVgSInWS8tNwm
+          id: 5gFNdROuhuVgSInWS8tNwm
+          is_local: false
+          is_playable: true
+          name: I'm Your Captain/Closer To Home - Remastered
+          track_number: 8
+          type: track
+          uri: spotify:track:5gFNdROuhuVgSInWS8tNwm
+    isrc: USCA29900417

@@ -49,3 +49,126 @@ mediaFileData:
   year: 1980
   duration: 132.528
   modTime: 2024-11-01 19:04:24.641304+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2QGllrONnedpGxkFD799v5
+    trackId: 2QGllrONnedpGxkFD799v5
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSEE10500782&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj
+            href: https://api.spotify.com/v1/albums/1T7A6Dt7KktX7pOw4I4Jzj
+            id: 1T7A6Dt7KktX7pOw4I4Jzj
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27399027d2948260fdb37436d5d
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0299027d2948260fdb37436d5d
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485199027d2948260fdb37436d5d
+            is_playable: true
+            name: Seventeen Seconds (Deluxe Edition)
+            release_date: '1980-04-18'
+            release_date_precision: day
+            total_tracks: 25
+            type: album
+            uri: spotify:album:1T7A6Dt7KktX7pOw4I4Jzj
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 132493
+          explicit: false
+          external_ids:
+            isrc: USEE10500782
+          external_urls:
+            spotify: https://open.spotify.com/track/2QGllrONnedpGxkFD799v5
+          href: https://api.spotify.com/v1/tracks/2QGllrONnedpGxkFD799v5
+          id: 2QGllrONnedpGxkFD799v5
+          is_local: false
+          is_playable: true
+          name: A Reflection - 2006 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:2QGllrONnedpGxkFD799v5
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+              href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+              id: 7bu3H8JO7d0UbMoVzbo70s
+              name: The Cure
+              type: artist
+              uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+            external_urls:
+              spotify: https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva
+            href: https://api.spotify.com/v1/albums/2KWHRfKSRpgsxNGIl2nQva
+            id: 2KWHRfKSRpgsxNGIl2nQva
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27329935216b69c7721582eab4c
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0229935216b69c7721582eab4c
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485129935216b69c7721582eab4c
+            is_playable: true
+            name: Seventeen Seconds
+            release_date: '1980-04-18'
+            release_date_precision: day
+            total_tracks: 10
+            type: album
+            uri: spotify:album:2KWHRfKSRpgsxNGIl2nQva
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s
+            href: https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s
+            id: 7bu3H8JO7d0UbMoVzbo70s
+            name: The Cure
+            type: artist
+            uri: spotify:artist:7bu3H8JO7d0UbMoVzbo70s
+          disc_number: 1
+          duration_ms: 132493
+          explicit: false
+          external_ids:
+            isrc: USEE10500782
+          external_urls:
+            spotify: https://open.spotify.com/track/5NeaJcSMFRUIauJ3Ziomj8
+          href: https://api.spotify.com/v1/tracks/5NeaJcSMFRUIauJ3Ziomj8
+          id: 5NeaJcSMFRUIauJ3Ziomj8
+          is_local: false
+          is_playable: true
+          name: A Reflection - 2006 Remaster
+          track_number: 1
+          type: track
+          uri: spotify:track:5NeaJcSMFRUIauJ3Ziomj8
+    isrc: USEE10500782

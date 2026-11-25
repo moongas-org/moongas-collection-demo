@@ -45,3 +45,126 @@ mediaFileData:
   year: 1996
   duration: 352.4440833333333
   modTime: 2024-09-19 23:56:15.102020+00:00
+trackIdData:
+  streamingData:
+  - streamingService: spotify
+    trackUrl: https://open.spotify.com/track/2qo2hO7PaWBNkZe3M6nvrK
+    trackId: 2qo2hO7PaWBNkZe3M6nvrK
+    apiData:
+      tracks:
+        href: https://api.spotify.com/v1/search?offset=0&limit=5&query=isrc%3AUSFP71444514&type=track
+        limit: 5
+        next:
+        offset: 0
+        previous:
+        total: 2
+        items:
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/3PTktNuj2FItJr8afuiieo
+            href: https://api.spotify.com/v1/albums/3PTktNuj2FItJr8afuiieo
+            id: 3PTktNuj2FItJr8afuiieo
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b273384c4e86d7001ca9f10808db
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e02384c4e86d7001ca9f10808db
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d00004851384c4e86d7001ca9f10808db
+            is_playable: true
+            name: This Is a Long Drive for Someone with Nothing to Think About
+            release_date: '1996-04-16'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:3PTktNuj2FItJr8afuiieo
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 350493
+          explicit: true
+          external_ids:
+            isrc: USFP71444514
+          external_urls:
+            spotify: https://open.spotify.com/track/2qo2hO7PaWBNkZe3M6nvrK
+          href: https://api.spotify.com/v1/tracks/2qo2hO7PaWBNkZe3M6nvrK
+          id: 2qo2hO7PaWBNkZe3M6nvrK
+          is_local: false
+          is_playable: true
+          name: Talking Shit About a Pretty Sunset
+          track_number: 14
+          type: track
+          uri: spotify:track:2qo2hO7PaWBNkZe3M6nvrK
+        - album:
+            album_type: album
+            artists:
+            - external_urls:
+                spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+              href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+              id: 1yAwtBaoHLEDWAnWR87hBT
+              name: Modest Mouse
+              type: artist
+              uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+            external_urls:
+              spotify: https://open.spotify.com/album/4QvWu3XLfo5Hrw1OgnbBhH
+            href: https://api.spotify.com/v1/albums/4QvWu3XLfo5Hrw1OgnbBhH
+            id: 4QvWu3XLfo5Hrw1OgnbBhH
+            images:
+            - height: 640
+              width: 640
+              url: https://i.scdn.co/image/ab67616d0000b27327815dcba67d1ba5799af784
+            - height: 300
+              width: 300
+              url: https://i.scdn.co/image/ab67616d00001e0227815dcba67d1ba5799af784
+            - height: 64
+              width: 64
+              url: https://i.scdn.co/image/ab67616d0000485127815dcba67d1ba5799af784
+            is_playable: true
+            name: This Is a Long Drive for Someone with Nothing to Think About
+            release_date: '1996-04-16'
+            release_date_precision: day
+            total_tracks: 16
+            type: album
+            uri: spotify:album:4QvWu3XLfo5Hrw1OgnbBhH
+          artists:
+          - external_urls:
+              spotify: https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT
+            href: https://api.spotify.com/v1/artists/1yAwtBaoHLEDWAnWR87hBT
+            id: 1yAwtBaoHLEDWAnWR87hBT
+            name: Modest Mouse
+            type: artist
+            uri: spotify:artist:1yAwtBaoHLEDWAnWR87hBT
+          disc_number: 1
+          duration_ms: 350493
+          explicit: true
+          external_ids:
+            isrc: USFP71444514
+          external_urls:
+            spotify: https://open.spotify.com/track/3VZcEYAaiugYrpf5KLuBZ4
+          href: https://api.spotify.com/v1/tracks/3VZcEYAaiugYrpf5KLuBZ4
+          id: 3VZcEYAaiugYrpf5KLuBZ4
+          is_local: false
+          is_playable: true
+          name: Talking Shit About a Pretty Sunset
+          track_number: 14
+          type: track
+          uri: spotify:track:3VZcEYAaiugYrpf5KLuBZ4
+    isrc: USFP71444514
